@@ -67,7 +67,7 @@ if __name__ == "__main__":
 
     # using OpenAI's ChatGPT to label data
     parser = argparse.ArgumentParser()
-    parser.add_argument('--api_key', type = str, default = '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', help = 'api key of OpenAI')
+    parser.add_argument('--api_key', type = str, default = 'sk-', help = 'api key of OpenAI')
     parser.add_argument('--model', type = str, default = 'gpt-3.5-turbo-1106', help = 'model of OpenAI, e.g., gpt-3.5-turbo-1106, gpt-4-turbo-preview')
     parser.add_argument('--human_txt_path', type = str, default = './eval_sexy_reasoning/eval_data_to_score/gt_description.txt', help = 'File path')
     parser.add_argument('--algo_txt_path', type = str, default = './eval_sexy_reasoning/result_reasoning_data/llava_ablation_study/llava-v1.5-7b-ab4-3.txt', help = 'File path')

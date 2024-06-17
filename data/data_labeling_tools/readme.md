@@ -1,15 +1,25 @@
-# data_labeling_tools
+# Data Labeling
 
-## 1 prompting MLLM
+## 1 Rule Definition and Image Collection
 
-use **MLLM_inference_bylist**.
+- Define some moderation terms
 
-## 2 Convert MLLM's output to LLM's input
+- Convert moderation terms into attribute combination
 
-use **post_process_MLLM_output_for_LLM**.
+- Write explicit description
 
-## 3 prompting LLM
+## 2 Moderation Explanation Generation
 
-use **prompting_LLM**.
+### 2.1 prompting MLLM
 
-or use **prompting_LLM_client**.
+- use **MLLM_inference_bylist**
+
+### 2.2 Convert MLLM's output to LLM's input
+
+- use **post_process_MLLM_output_for_LLM**
+
+## 3 Moderation Q-A Pair Generation
+
+- use **prompting_LLM**
+
+- or use **prompting_LLM_client**
