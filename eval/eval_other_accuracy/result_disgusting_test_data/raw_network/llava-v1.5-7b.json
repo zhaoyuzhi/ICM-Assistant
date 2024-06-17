@@ -1,0 +1,5511 @@
+[
+    {
+        "image_name": "not-disgusting_00000615.jpg",
+        "logit_yes": 22.765625,
+        "logit_no": 25.078125,
+        "disgusting_score": 0.09009299396195182,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000544.jpg",
+        "logit_yes": 24.4375,
+        "logit_no": 24.5,
+        "disgusting_score": 0.48438008427698437,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000565.jpg",
+        "logit_yes": 23.3125,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.17553807362342935,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000254.png",
+        "logit_yes": 22.5625,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.09670579329612157,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000305.png",
+        "logit_yes": 23.109375,
+        "logit_no": 25.21875,
+        "disgusting_score": 0.10818895456207035,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000244.png",
+        "logit_yes": 24.015625,
+        "logit_no": 24.421875,
+        "disgusting_score": 0.3998116407397951,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000583.jpg",
+        "logit_yes": 23.1875,
+        "logit_no": 25.1875,
+        "disgusting_score": 0.11920292202211756,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000118.jpg",
+        "logit_yes": 22.75,
+        "logit_no": 25.125,
+        "disgusting_score": 0.08509904500702024,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000352.png",
+        "logit_yes": 22.109375,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.06008665017400762,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000138.jpg",
+        "logit_yes": 22.625,
+        "logit_no": 25.265625,
+        "disgusting_score": 0.06656918897050168,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000269.png",
+        "logit_yes": 23.5,
+        "logit_no": 24.640625,
+        "disgusting_score": 0.24220562872535942,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000303.png",
+        "logit_yes": 23.359375,
+        "logit_no": 25.125,
+        "disgusting_score": 0.14608724704829568,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000432.jpg",
+        "logit_yes": 22.453125,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.06954174450582808,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000400.jpg",
+        "logit_yes": 23.65625,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.24220562872535945,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000128.jpg",
+        "logit_yes": 22.609375,
+        "logit_no": 24.765625,
+        "disgusting_score": 0.10374862686637971,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000519.jpg",
+        "logit_yes": 22.84375,
+        "logit_no": 24.40625,
+        "disgusting_score": 0.1732882059293266,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000225.png",
+        "logit_yes": 22.4375,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.07921032410902436,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000532.jpg",
+        "logit_yes": 24.609375,
+        "logit_no": 24.671875,
+        "disgusting_score": 0.48438008427698437,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000575.jpg",
+        "logit_yes": 24.078125,
+        "logit_no": 24.34375,
+        "disgusting_score": 0.43398146480389854,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000061.jpg",
+        "logit_yes": 23.78125,
+        "logit_no": 24.921875,
+        "disgusting_score": 0.24220562872535945,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000186.jpg",
+        "logit_yes": 23.3125,
+        "logit_no": 24.625,
+        "disgusting_score": 0.21206880435710532,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000470.jpg",
+        "logit_yes": 23.59375,
+        "logit_no": 24.65625,
+        "disgusting_score": 0.25683199138751883,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000120.jpg",
+        "logit_yes": 22.671875,
+        "logit_no": 24.90625,
+        "disgusting_score": 0.09670579329612156,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000095.jpg",
+        "logit_yes": 22.984375,
+        "logit_no": 25.0,
+        "disgusting_score": 0.11757213354550886,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000499.jpg",
+        "logit_yes": 22.78125,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.11920292202211756,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000333.png",
+        "logit_yes": 23.375,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.18010666408646395,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000362.jpg",
+        "logit_yes": 23.484375,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.17106119167858438,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000349.png",
+        "logit_yes": 23.25,
+        "logit_no": 24.96875,
+        "disgusting_score": 0.15203224162217424,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000489.jpg",
+        "logit_yes": 22.921875,
+        "logit_no": 25.265625,
+        "disgusting_score": 0.08756383952305866,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000147.jpg",
+        "logit_yes": 23.890625,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.29098086621490676,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000334.png",
+        "logit_yes": 23.265625,
+        "logit_no": 24.546875,
+        "disgusting_score": 0.21733752104706247,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000122.jpg",
+        "logit_yes": 23.28125,
+        "logit_no": 24.546875,
+        "disgusting_score": 0.22000709974589316,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000574.jpg",
+        "logit_yes": 22.734375,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.09947021388210706,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000506.jpg",
+        "logit_yes": 22.53125,
+        "logit_no": 24.421875,
+        "disgusting_score": 0.13117322376181567,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000561.jpg",
+        "logit_yes": 23.484375,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.18952109132967757,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000299.jpg",
+        "logit_yes": 25.015625,
+        "logit_no": 23.875,
+        "disgusting_score": 0.7577943712746406,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000476.jpg",
+        "logit_yes": 22.703125,
+        "logit_no": 24.765625,
+        "disgusting_score": 0.11279540628289322,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000609.jpg",
+        "logit_yes": 23.46875,
+        "logit_no": 24.390625,
+        "disgusting_score": 0.28457600421652673,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000357.png",
+        "logit_yes": 23.28125,
+        "logit_no": 24.71875,
+        "disgusting_score": 0.19193278644723683,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000399.jpg",
+        "logit_yes": 23.171875,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.12252321251815922,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000248.jpg",
+        "logit_yes": 23.3125,
+        "logit_no": 24.75,
+        "disgusting_score": 0.1919327864472368,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000214.png",
+        "logit_yes": 23.203125,
+        "logit_no": 24.75,
+        "disgusting_score": 0.17553807362342935,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000307.png",
+        "logit_yes": 22.921875,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.10818895456207035,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000363.png",
+        "logit_yes": 24.515625,
+        "logit_no": 24.609375,
+        "disgusting_score": 0.47657965106367595,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000376.png",
+        "logit_yes": 24.75,
+        "logit_no": 24.1875,
+        "disgusting_score": 0.6370307944803832,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000559.jpg",
+        "logit_yes": 24.171875,
+        "logit_no": 24.578125,
+        "disgusting_score": 0.3998116407397951,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000169.jpg",
+        "logit_yes": 24.21875,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.310694383214554,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000485.jpg",
+        "logit_yes": 23.484375,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.20434189993684584,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000080.jpg",
+        "logit_yes": 23.34375,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.16885695214168314,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000365.png",
+        "logit_yes": 21.859375,
+        "logit_no": 24.625,
+        "disgusting_score": 0.05921025074128593,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000288.jpg",
+        "logit_yes": 23.828125,
+        "logit_no": 25.25,
+        "disgusting_score": 0.19436781101874467,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000050.jpg",
+        "logit_yes": 24.328125,
+        "logit_no": 24.515625,
+        "disgusting_score": 0.4532618480153861,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000166.jpg",
+        "logit_yes": 22.390625,
+        "logit_no": 24.5,
+        "disgusting_score": 0.10818895456207037,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000104.jpg",
+        "logit_yes": 23.0,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.11436852618181247,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000133.jpg",
+        "logit_yes": 23.1875,
+        "logit_no": 25.28125,
+        "disgusting_score": 0.10970577387797076,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000431.jpg",
+        "logit_yes": 23.09375,
+        "logit_no": 25.234375,
+        "disgusting_score": 0.10521053670308636,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000196.jpg",
+        "logit_yes": 22.53125,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.0953494648991095,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000563.jpg",
+        "logit_yes": 23.140625,
+        "logit_no": 24.875,
+        "disgusting_score": 0.1500288243424251,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000215.png",
+        "logit_yes": 22.28125,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.06008665017400763,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000211.png",
+        "logit_yes": 24.609375,
+        "logit_no": 24.4375,
+        "disgusting_score": 0.5428632831725052,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000068.jpg",
+        "logit_yes": 23.0625,
+        "logit_no": 25.0,
+        "disgusting_score": 0.12592276483513232,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000143.jpg",
+        "logit_yes": 23.359375,
+        "logit_no": 25.0,
+        "disgusting_score": 0.1623800366667109,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000065.jpg",
+        "logit_yes": 23.09375,
+        "logit_no": 24.578125,
+        "disgusting_score": 0.184767510648,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000393.png",
+        "logit_yes": 23.84375,
+        "logit_no": 24.640625,
+        "disgusting_score": 0.31069438321455395,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000568.jpg",
+        "logit_yes": 23.109375,
+        "logit_no": 25.203125,
+        "disgusting_score": 0.10970577387797074,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000364.png",
+        "logit_yes": 23.484375,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.2068940488158881,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000598.jpg",
+        "logit_yes": 23.46875,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.17553807362342938,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000472.jpg",
+        "logit_yes": 22.640625,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.10521053670308636,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000511.jpg",
+        "logit_yes": 23.671875,
+        "logit_no": 23.921875,
+        "disgusting_score": 0.43782349911420193,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000380.png",
+        "logit_yes": 22.5625,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.09670579329612157,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000388.png",
+        "logit_yes": 22.453125,
+        "logit_no": 24.5,
+        "disgusting_score": 0.11436852618181248,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000329.png",
+        "logit_yes": 24.40625,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.3812195662561499,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000409.jpg",
+        "logit_yes": 23.421875,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.16238003666671086,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000179.jpg",
+        "logit_yes": 22.96875,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.11124120650754303,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000092.jpg",
+        "logit_yes": 22.8125,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.11596071825396674,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000371.png",
+        "logit_yes": 23.59375,
+        "logit_no": 24.671875,
+        "disgusting_score": 0.2538610069692489,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000614.jpg",
+        "logit_yes": 23.390625,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.18242552380635635,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000517.jpg",
+        "logit_yes": 23.015625,
+        "logit_no": 25.3125,
+        "disgusting_score": 0.09138210306717134,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000503.jpg",
+        "logit_yes": 22.1875,
+        "logit_no": 24.59375,
+        "disgusting_score": 0.08269734267503885,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000590.jpg",
+        "logit_yes": 23.203125,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.1561048974454574,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000036.jpg",
+        "logit_yes": 23.140625,
+        "logit_no": 25.4375,
+        "disgusting_score": 0.09138210306717134,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000601.jpg",
+        "logit_yes": 24.1875,
+        "logit_no": 24.875,
+        "disgusting_score": 0.334589441253186,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000294.png",
+        "logit_yes": 22.53125,
+        "logit_no": 24.6875,
+        "disgusting_score": 0.10374862686637971,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000586.jpg",
+        "logit_yes": 22.921875,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.10521053670308633,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000088.jpg",
+        "logit_yes": 23.34375,
+        "logit_no": 25.1875,
+        "disgusting_score": 0.13660839002621938,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000106.jpg",
+        "logit_yes": 22.765625,
+        "logit_no": 25.265625,
+        "disgusting_score": 0.07585818002124356,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000389.png",
+        "logit_yes": 23.328125,
+        "logit_no": 24.71875,
+        "disgusting_score": 0.19930799790404563,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000285.png",
+        "logit_yes": 23.203125,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.14414885303274058,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000384.png",
+        "logit_yes": 23.53125,
+        "logit_no": 24.65625,
+        "disgusting_score": 0.2450850131323717,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000199.jpg",
+        "logit_yes": 23.0625,
+        "logit_no": 25.265625,
+        "disgusting_score": 0.09947021388210708,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000168.jpg",
+        "logit_yes": 22.828125,
+        "logit_no": 25.328125,
+        "disgusting_score": 0.07585818002124356,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000182.jpg",
+        "logit_yes": 23.671875,
+        "logit_no": 25.375,
+        "disgusting_score": 0.15405756269148543,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000222.png",
+        "logit_yes": 22.15625,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.06656918897050167,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000594.jpg",
+        "logit_yes": 22.921875,
+        "logit_no": 25.234375,
+        "disgusting_score": 0.0900929939619518,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000367.png",
+        "logit_yes": 23.0625,
+        "logit_no": 25.328125,
+        "disgusting_score": 0.09401017961657226,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000502.jpg",
+        "logit_yes": 23.046875,
+        "logit_no": 24.875,
+        "disgusting_score": 0.13846179056896438,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000273.png",
+        "logit_yes": 24.25,
+        "logit_no": 24.046875,
+        "disgusting_score": 0.5506073655352404,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000142.jpg",
+        "logit_yes": 23.421875,
+        "logit_no": 24.375,
+        "disgusting_score": 0.2782567937024021,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000477.jpg",
+        "logit_yes": 22.765625,
+        "logit_no": 25.09375,
+        "disgusting_score": 0.08882029240011773,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000084.jpg",
+        "logit_yes": 22.78125,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.09268777863937602,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000343.png",
+        "logit_yes": 23.21875,
+        "logit_no": 24.921875,
+        "disgusting_score": 0.15405756269148543,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000271.png",
+        "logit_yes": 24.125,
+        "logit_no": 24.453125,
+        "disgusting_score": 0.41869690935568665,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000178.jpg",
+        "logit_yes": 23.390625,
+        "logit_no": 24.703125,
+        "disgusting_score": 0.21206880435710534,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000356.png",
+        "logit_yes": 23.640625,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.24220562872535947,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000098.jpg",
+        "logit_yes": 23.734375,
+        "logit_no": 24.953125,
+        "disgusting_score": 0.2281565021609253,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000255.png",
+        "logit_yes": 25.28125,
+        "logit_no": 24.0625,
+        "disgusting_score": 0.7718434978390747,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000411.jpg",
+        "logit_yes": 22.84375,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.11436852618181248,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000069.jpg",
+        "logit_yes": 23.0,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.11279540628289322,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000073.jpg",
+        "logit_yes": 22.96875,
+        "logit_no": 25.0,
+        "disgusting_score": 0.11596071825396675,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000607.jpg",
+        "logit_yes": 23.34375,
+        "logit_no": 25.25,
+        "disgusting_score": 0.1294027315916391,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000585.jpg",
+        "logit_yes": 23.21875,
+        "logit_no": 25.1875,
+        "disgusting_score": 0.12252321251815922,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000286.png",
+        "logit_yes": 23.46875,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.20434189993684587,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000278.png",
+        "logit_yes": 22.609375,
+        "logit_no": 25.34375,
+        "disgusting_score": 0.06097518086496481,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000239.png",
+        "logit_yes": 23.546875,
+        "logit_no": 24.625,
+        "disgusting_score": 0.2538610069692489,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000055.jpg",
+        "logit_yes": 23.734375,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.24798742624020273,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000209.jpg",
+        "logit_yes": 23.0,
+        "logit_no": 24.96875,
+        "disgusting_score": 0.1225232125181592,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000145.jpg",
+        "logit_yes": 23.5625,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.2200070997458932,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000491.jpg",
+        "logit_yes": 22.40625,
+        "logit_no": 24.703125,
+        "disgusting_score": 0.09138210306717134,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000150.jpg",
+        "logit_yes": 23.328125,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.18242552380635635,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000490.jpg",
+        "logit_yes": 22.734375,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.08269734267503887,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000235.png",
+        "logit_yes": 22.90625,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.13296424019782924,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000101.jpg",
+        "logit_yes": 23.375,
+        "logit_no": 24.96875,
+        "disgusting_score": 0.16885695214168314,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000410.jpg",
+        "logit_yes": 22.71875,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.08151975597471894,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000512.jpg",
+        "logit_yes": 22.703125,
+        "logit_no": 25.09375,
+        "disgusting_score": 0.08389038641057994,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000306.png",
+        "logit_yes": 22.25,
+        "logit_no": 24.734375,
+        "disgusting_score": 0.07696083569602614,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000396.png",
+        "logit_yes": 23.625,
+        "logit_no": 24.765625,
+        "disgusting_score": 0.24220562872535947,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000078.jpg",
+        "logit_yes": 23.125,
+        "logit_no": 24.75,
+        "disgusting_score": 0.16451646289656316,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000456.jpg",
+        "logit_yes": 22.953125,
+        "logit_no": 24.734375,
+        "disgusting_score": 0.14414885303274058,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000339.png",
+        "logit_yes": 23.9375,
+        "logit_no": 24.90625,
+        "disgusting_score": 0.27512972382317524,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000555.jpg",
+        "logit_yes": 23.28125,
+        "logit_no": 25.09375,
+        "disgusting_score": 0.14033624949008325,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000508.jpg",
+        "logit_yes": 23.3125,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.17553807362342935,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000610.jpg",
+        "logit_yes": 23.265625,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.14608724704829568,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000041.jpg",
+        "logit_yes": 23.0625,
+        "logit_no": 25.171875,
+        "disgusting_score": 0.10818895456207037,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000341.jpg",
+        "logit_yes": 23.546875,
+        "logit_no": 24.53125,
+        "disgusting_score": 0.2720245510940225,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000421.jpg",
+        "logit_yes": 22.5625,
+        "logit_no": 25.078125,
+        "disgusting_score": 0.07477004290796135,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000177.jpg",
+        "logit_yes": 23.734375,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.2598256379609837,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000093.jpg",
+        "logit_yes": 22.953125,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.12940273159163904,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000039.jpg",
+        "logit_yes": 24.5,
+        "logit_no": 24.28125,
+        "disgusting_score": 0.5544704649604274,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000626.jpg",
+        "logit_yes": 23.765625,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.2365162364457076,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000525.jpg",
+        "logit_yes": 23.390625,
+        "logit_no": 25.25,
+        "disgusting_score": 0.1347759174229568,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000530.jpg",
+        "logit_yes": 24.375,
+        "logit_no": 23.734375,
+        "disgusting_score": 0.6548947290421276,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000174.jpg",
+        "logit_yes": 23.765625,
+        "logit_no": 24.953125,
+        "disgusting_score": 0.23370635691404024,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000597.jpg",
+        "logit_yes": 24.0625,
+        "logit_no": 24.640625,
+        "disgusting_score": 0.35936414516010196,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000243.png",
+        "logit_yes": 24.265625,
+        "logit_no": 24.90625,
+        "disgusting_score": 0.34510527095787247,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000620.jpg",
+        "logit_yes": 23.28125,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.18242552380635635,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000187.jpg",
+        "logit_yes": 23.4375,
+        "logit_no": 24.703125,
+        "disgusting_score": 0.22000709974589316,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000580.jpg",
+        "logit_yes": 22.921875,
+        "logit_no": 25.34375,
+        "disgusting_score": 0.0815197559747189,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000252.png",
+        "logit_yes": 22.625,
+        "logit_no": 25.21875,
+        "disgusting_score": 0.06954174450582808,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000418.jpg",
+        "logit_yes": 23.125,
+        "logit_no": 25.3125,
+        "disgusting_score": 0.10087862273005653,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000536.jpg",
+        "logit_yes": 22.828125,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.09670579329612157,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000534.jpg",
+        "logit_yes": 23.40625,
+        "logit_no": 24.515625,
+        "disgusting_score": 0.24798742624020273,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000302.png",
+        "logit_yes": 22.484375,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.08756383952305867,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000591.jpg",
+        "logit_yes": 22.78125,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.09670579329612156,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000549.jpg",
+        "logit_yes": 25.71875,
+        "logit_no": 24.125,
+        "disgusting_score": 0.8311430478583168,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000439.jpg",
+        "logit_yes": 23.734375,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.1968262036430985,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000132.jpg",
+        "logit_yes": 23.75,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.26284183737131667,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000587.jpg",
+        "logit_yes": 22.640625,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.07585818002124356,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000413.jpg",
+        "logit_yes": 23.375,
+        "logit_no": 24.953125,
+        "disgusting_score": 0.17106119167858436,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000523.jpg",
+        "logit_yes": 24.375,
+        "logit_no": 24.53125,
+        "disgusting_score": 0.46101677931231594,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000324.png",
+        "logit_yes": 22.484375,
+        "logit_no": 24.375,
+        "disgusting_score": 0.13117322376181564,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000325.png",
+        "logit_yes": 22.5625,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.09401017961657228,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000246.png",
+        "logit_yes": 23.015625,
+        "logit_no": 25.265625,
+        "disgusting_score": 0.0953494648991095,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000236.png",
+        "logit_yes": 22.953125,
+        "logit_no": 24.703125,
+        "disgusting_score": 0.14804719803168945,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000582.jpg",
+        "logit_yes": 22.71875,
+        "logit_no": 25.203125,
+        "disgusting_score": 0.07696083569602614,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000249.png",
+        "logit_yes": 24.296875,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.320821300824607,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000253.png",
+        "logit_yes": 23.390625,
+        "logit_no": 24.703125,
+        "disgusting_score": 0.21206880435710534,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000547.jpg",
+        "logit_yes": 22.046875,
+        "logit_no": 24.671875,
+        "disgusting_score": 0.0675466911396291,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000576.jpg",
+        "logit_yes": 23.328125,
+        "logit_no": 24.875,
+        "disgusting_score": 0.17553807362342935,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000066.jpg",
+        "logit_yes": 22.734375,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.08269734267503887,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000495.jpg",
+        "logit_yes": 22.890625,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.12940273159163906,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000449.jpg",
+        "logit_yes": 22.90625,
+        "logit_no": 24.765625,
+        "disgusting_score": 0.1347759174229568,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000034.jpg",
+        "logit_yes": 23.84375,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.2689414213699951,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000387.png",
+        "logit_yes": 22.265625,
+        "logit_no": 24.953125,
+        "disgusting_score": 0.06371499425196532,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000408.jpg",
+        "logit_yes": 23.640625,
+        "logit_no": 25.09375,
+        "disgusting_score": 0.1895210913296776,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000043.jpg",
+        "logit_yes": 22.625,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.08389038641057993,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000161.jpg",
+        "logit_yes": 23.203125,
+        "logit_no": 25.328125,
+        "disgusting_score": 0.10669059394565118,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000398.jpg",
+        "logit_yes": 24.296875,
+        "logit_no": 24.875,
+        "disgusting_score": 0.359364145160102,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000067.jpg",
+        "logit_yes": 22.546875,
+        "logit_no": 24.921875,
+        "disgusting_score": 0.08509904500702023,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000265.png",
+        "logit_yes": 22.453125,
+        "logit_no": 25.15625,
+        "disgusting_score": 0.06278920859705134,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000513.jpg",
+        "logit_yes": 24.78125,
+        "logit_no": 24.21875,
+        "disgusting_score": 0.6370307944803832,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000058.jpg",
+        "logit_yes": 23.328125,
+        "logit_no": 24.96875,
+        "disgusting_score": 0.16238003666671083,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000146.jpg",
+        "logit_yes": 24.234375,
+        "logit_no": 24.765625,
+        "disgusting_score": 0.3702253925955866,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000261.png",
+        "logit_yes": 24.171875,
+        "logit_no": 24.4375,
+        "disgusting_score": 0.4339814648038986,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000366.png",
+        "logit_yes": 22.96875,
+        "logit_no": 25.0,
+        "disgusting_score": 0.11596071825396675,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000369.png",
+        "logit_yes": 22.875,
+        "logit_no": 24.671875,
+        "disgusting_score": 0.14223189500989633,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000441.jpg",
+        "logit_yes": 23.09375,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.13117322376181567,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000390.png",
+        "logit_yes": 23.6875,
+        "logit_no": 24.71875,
+        "disgusting_score": 0.26284183737131667,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000129.jpg",
+        "logit_yes": 22.40625,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.06853749303199023,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000025.jpg",
+        "logit_yes": 23.984375,
+        "logit_no": 24.734375,
+        "disgusting_score": 0.320821300824607,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000086.jpg",
+        "logit_yes": 24.203125,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.34510527095787247,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000500.jpg",
+        "logit_yes": 22.671875,
+        "logit_no": 25.0,
+        "disgusting_score": 0.08882029240011773,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000420.jpg",
+        "logit_yes": 22.90625,
+        "logit_no": 24.703125,
+        "disgusting_score": 0.14223189500989633,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000103.jpg",
+        "logit_yes": 23.359375,
+        "logit_no": 25.15625,
+        "disgusting_score": 0.1422318950098963,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000501.jpg",
+        "logit_yes": 23.390625,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.1919327864472368,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000487.jpg",
+        "logit_yes": 22.4375,
+        "logit_no": 24.625,
+        "disgusting_score": 0.10087862273005653,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000416.jpg",
+        "logit_yes": 24.84375,
+        "logit_no": 23.234375,
+        "disgusting_score": 0.8333245953120233,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000351.png",
+        "logit_yes": 23.265625,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.1732882059293266,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000206.jpg",
+        "logit_yes": 22.703125,
+        "logit_no": 25.078125,
+        "disgusting_score": 0.08509904500702023,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000217.png",
+        "logit_yes": 25.359375,
+        "logit_no": 23.75,
+        "disgusting_score": 0.8333245953120233,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000221.png",
+        "logit_yes": 23.546875,
+        "logit_no": 24.8125,
+        "disgusting_score": 0.2200070997458932,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000126.jpg",
+        "logit_yes": 23.9375,
+        "logit_no": 24.703125,
+        "disgusting_score": 0.31742626558767584,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000321.png",
+        "logit_yes": 22.8125,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.12085323249047067,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000437.jpg",
+        "logit_yes": 23.484375,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.17781086947804958,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000091.jpg",
+        "logit_yes": 22.609375,
+        "logit_no": 24.921875,
+        "disgusting_score": 0.09009299396195183,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000201.jpg",
+        "logit_yes": 23.3125,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.17106119167858438,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000462.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 25.125,
+        "disgusting_score": 0.09401017961657228,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000267.jpg",
+        "logit_yes": 23.25,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.14033624949008322,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000419.jpg",
+        "logit_yes": 22.984375,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.11124120650754306,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000154.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.09268777863937604,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000194.jpg",
+        "logit_yes": 23.375,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.16238003666671086,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000621.jpg",
+        "logit_yes": 22.921875,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.10669059394565115,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000044.jpg",
+        "logit_yes": 23.65625,
+        "logit_no": 24.953125,
+        "disgusting_score": 0.21469141911224193,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000102.jpg",
+        "logit_yes": 22.359375,
+        "logit_no": 25.078125,
+        "disgusting_score": 0.06187598572364271,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000260.png",
+        "logit_yes": 22.609375,
+        "logit_no": 24.53125,
+        "disgusting_score": 0.12765262532179067,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000395.png",
+        "logit_yes": 23.046875,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.1403362494900832,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000428.jpg",
+        "logit_yes": 23.046875,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.15002882434242507,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000304.png",
+        "logit_yes": 23.234375,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.1602660323277607,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000247.png",
+        "logit_yes": 24.171875,
+        "logit_no": 24.515625,
+        "disgusting_score": 0.41489884579676883,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000038.jpg",
+        "logit_yes": 23.09375,
+        "logit_no": 25.40625,
+        "disgusting_score": 0.09009299396195183,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000171.jpg",
+        "logit_yes": 23.46875,
+        "logit_no": 24.640625,
+        "disgusting_score": 0.2365162364457076,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000328.png",
+        "logit_yes": 22.59375,
+        "logit_no": 25.09375,
+        "disgusting_score": 0.07585818002124356,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000504.jpg",
+        "logit_yes": 24.109375,
+        "logit_no": 23.796875,
+        "disgusting_score": 0.5774953651858117,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000466.jpg",
+        "logit_yes": 22.90625,
+        "logit_no": 25.171875,
+        "disgusting_score": 0.09401017961657226,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000047.jpg",
+        "logit_yes": 23.296875,
+        "logit_no": 24.96875,
+        "disgusting_score": 0.1581743527484317,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000579.jpg",
+        "logit_yes": 22.65625,
+        "logit_no": 24.3125,
+        "disgusting_score": 0.1602660323277607,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000313.png",
+        "logit_yes": 22.546875,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.08756383952305867,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000478.jpg",
+        "logit_yes": 22.578125,
+        "logit_no": 24.96875,
+        "disgusting_score": 0.08389038641057991,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000526.jpg",
+        "logit_yes": 23.59375,
+        "logit_no": 24.484375,
+        "disgusting_score": 0.2909808662149068,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000208.jpg",
+        "logit_yes": 23.359375,
+        "logit_no": 25.359375,
+        "disgusting_score": 0.11920292202211756,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000046.jpg",
+        "logit_yes": 23.09375,
+        "logit_no": 25.09375,
+        "disgusting_score": 0.11920292202211757,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000266.png",
+        "logit_yes": 22.25,
+        "logit_no": 24.640625,
+        "disgusting_score": 0.08389038641057994,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000308.png",
+        "logit_yes": 22.703125,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.09670579329612156,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000348.png",
+        "logit_yes": 23.578125,
+        "logit_no": 24.8125,
+        "disgusting_score": 0.2254166158350767,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000119.jpg",
+        "logit_yes": 23.21875,
+        "logit_no": 25.28125,
+        "disgusting_score": 0.11279540628289322,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000453.jpg",
+        "logit_yes": 23.859375,
+        "logit_no": 25.171875,
+        "disgusting_score": 0.21206880435710537,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000613.jpg",
+        "logit_yes": 23.015625,
+        "logit_no": 25.15625,
+        "disgusting_score": 0.10521053670308636,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000608.jpg",
+        "logit_yes": 22.96875,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.12252321251815917,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000163.jpg",
+        "logit_yes": 22.703125,
+        "logit_no": 25.078125,
+        "disgusting_score": 0.08509904500702023,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000097.jpg",
+        "logit_yes": 22.65625,
+        "logit_no": 24.921875,
+        "disgusting_score": 0.09401017961657226,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000184.jpg",
+        "logit_yes": 23.25,
+        "logit_no": 24.90625,
+        "disgusting_score": 0.1602660323277607,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000033.jpg",
+        "logit_yes": 24.0,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.3007455789412415,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000115.jpg",
+        "logit_yes": 22.828125,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.10818895456207037,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000595.jpg",
+        "logit_yes": 23.78125,
+        "logit_no": 24.484375,
+        "disgusting_score": 0.3311197396289915,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000427.jpg",
+        "logit_yes": 22.71875,
+        "logit_no": 25.265625,
+        "disgusting_score": 0.07263670636078698,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000494.jpg",
+        "logit_yes": 23.171875,
+        "logit_no": 24.765625,
+        "disgusting_score": 0.16885695214168317,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000257.jpg",
+        "logit_yes": 24.265625,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.35577489351363034,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000415.jpg",
+        "logit_yes": 24.390625,
+        "logit_no": 24.328125,
+        "disgusting_score": 0.5156199157230157,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000600.jpg",
+        "logit_yes": 23.5,
+        "logit_no": 24.28125,
+        "disgusting_score": 0.31405054499180746,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000287.png",
+        "logit_yes": 22.734375,
+        "logit_no": 24.609375,
+        "disgusting_score": 0.13296424019782924,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000596.jpg",
+        "logit_yes": 23.203125,
+        "logit_no": 25.0,
+        "disgusting_score": 0.14223189500989633,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000447.jpg",
+        "logit_yes": 23.375,
+        "logit_no": 24.625,
+        "disgusting_score": 0.22270013882530887,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000245.png",
+        "logit_yes": 23.140625,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.11920292202211756,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000110.jpg",
+        "logit_yes": 23.5,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.16238003666671086,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000425.jpg",
+        "logit_yes": 23.421875,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.1732882059293266,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000100.jpg",
+        "logit_yes": 23.078125,
+        "logit_no": 24.578125,
+        "disgusting_score": 0.18242552380635632,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000475.jpg",
+        "logit_yes": 22.703125,
+        "logit_no": 24.8125,
+        "disgusting_score": 0.10818895456207037,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000435.jpg",
+        "logit_yes": 22.765625,
+        "logit_no": 25.078125,
+        "disgusting_score": 0.09009299396195182,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000141.jpg",
+        "logit_yes": 23.359375,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.1645164628965632,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000336.png",
+        "logit_yes": 23.53125,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.20434189993684584,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000031.jpg",
+        "logit_yes": 25.984375,
+        "logit_no": 23.578125,
+        "disgusting_score": 0.9173026573249611,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000238.jpg",
+        "logit_yes": 24.0,
+        "logit_no": 24.75,
+        "disgusting_score": 0.320821300824607,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000320.jpg",
+        "logit_yes": 24.3125,
+        "logit_no": 24.1875,
+        "disgusting_score": 0.5312093733737562,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000548.jpg",
+        "logit_yes": 24.109375,
+        "logit_no": 24.265625,
+        "disgusting_score": 0.4610167793123159,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000317.png",
+        "logit_yes": 22.25,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.06097518086496482,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000454.jpg",
+        "logit_yes": 23.09375,
+        "logit_no": 25.171875,
+        "disgusting_score": 0.11124120650754306,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000412.jpg",
+        "logit_yes": 22.703125,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.09009299396195183,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000072.jpg",
+        "logit_yes": 23.53125,
+        "logit_no": 25.1875,
+        "disgusting_score": 0.1602660323277607,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000510.jpg",
+        "logit_yes": 22.953125,
+        "logit_no": 25.328125,
+        "disgusting_score": 0.08509904500702023,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000543.jpg",
+        "logit_yes": 23.3125,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.15002882434242507,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000318.png",
+        "logit_yes": 23.40625,
+        "logit_no": 24.6875,
+        "disgusting_score": 0.21733752104706244,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000375.png",
+        "logit_yes": 23.203125,
+        "logit_no": 25.125,
+        "disgusting_score": 0.12765262532179067,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000107.jpg",
+        "logit_yes": 23.515625,
+        "logit_no": 24.90625,
+        "disgusting_score": 0.19930799790404563,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000602.jpg",
+        "logit_yes": 22.671875,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.09009299396195183,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000193.jpg",
+        "logit_yes": 22.984375,
+        "logit_no": 25.171875,
+        "disgusting_score": 0.10087862273005654,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000081.jpg",
+        "logit_yes": 23.3125,
+        "logit_no": 25.109375,
+        "disgusting_score": 0.14223189500989633,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000468.jpg",
+        "logit_yes": 22.984375,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.12421300835205339,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000114.jpg",
+        "logit_yes": 23.21875,
+        "logit_no": 24.203125,
+        "disgusting_score": 0.27202455109402257,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000037.jpg",
+        "logit_yes": 24.96875,
+        "logit_no": 24.0,
+        "disgusting_score": 0.7248702761768248,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000263.png",
+        "logit_yes": 23.203125,
+        "logit_no": 25.125,
+        "disgusting_score": 0.12765262532179067,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000151.jpg",
+        "logit_yes": 23.15625,
+        "logit_no": 25.078125,
+        "disgusting_score": 0.12765262532179067,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000617.jpg",
+        "logit_yes": 23.46875,
+        "logit_no": 24.90625,
+        "disgusting_score": 0.1919327864472368,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000048.jpg",
+        "logit_yes": 23.25,
+        "logit_no": 24.921875,
+        "disgusting_score": 0.1581743527484317,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000429.jpg",
+        "logit_yes": 22.984375,
+        "logit_no": 25.34375,
+        "disgusting_score": 0.08632347658627028,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000256.png",
+        "logit_yes": 22.640625,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.08269734267503885,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000572.jpg",
+        "logit_yes": 22.71875,
+        "logit_no": 24.8125,
+        "disgusting_score": 0.10970577387797076,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000108.jpg",
+        "logit_yes": 23.359375,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.1943678110187447,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000202.jpg",
+        "logit_yes": 23.46875,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.17106119167858436,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000531.jpg",
+        "logit_yes": 22.84375,
+        "logit_no": 24.953125,
+        "disgusting_score": 0.10818895456207035,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000059.jpg",
+        "logit_yes": 23.21875,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.1666754046879767,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000509.jpg",
+        "logit_yes": 22.65625,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.10087862273005653,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000360.png",
+        "logit_yes": 22.953125,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.10970577387797074,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000538.jpg",
+        "logit_yes": 22.828125,
+        "logit_no": 24.875,
+        "disgusting_score": 0.1143685261818125,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000521.jpg",
+        "logit_yes": 23.484375,
+        "logit_no": 24.71875,
+        "disgusting_score": 0.2254166158350767,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000051.jpg",
+        "logit_yes": 23.390625,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.16238003666671086,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000175.jpg",
+        "logit_yes": 22.78125,
+        "logit_no": 25.265625,
+        "disgusting_score": 0.07696083569602614,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000618.jpg",
+        "logit_yes": 23.171875,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.1561048974454574,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000392.png",
+        "logit_yes": 23.4375,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.20434189993684582,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000049.jpg",
+        "logit_yes": 23.734375,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.25091278688527247,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000403.jpg",
+        "logit_yes": 24.5,
+        "logit_no": 23.890625,
+        "disgusting_score": 0.6477982179521103,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000275.png",
+        "logit_yes": 23.171875,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.1666754046879767,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000567.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 24.59375,
+        "disgusting_score": 0.15002882434242512,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000241.png",
+        "logit_yes": 22.15625,
+        "logit_no": 24.5,
+        "disgusting_score": 0.08756383952305866,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000335.png",
+        "logit_yes": 24.6875,
+        "logit_no": 24.515625,
+        "disgusting_score": 0.5428632831725052,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000496.jpg",
+        "logit_yes": 23.1875,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.13660839002621936,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000157.jpg",
+        "logit_yes": 23.84375,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.24220562872535945,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000052.jpg",
+        "logit_yes": 23.25,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.1441488530327406,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000027.jpg",
+        "logit_yes": 22.984375,
+        "logit_no": 24.640625,
+        "disgusting_score": 0.1602660323277607,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000071.jpg",
+        "logit_yes": 24.53125,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.37754066879814546,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000134.jpg",
+        "logit_yes": 23.140625,
+        "logit_no": 25.09375,
+        "disgusting_score": 0.1242130083520534,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000540.jpg",
+        "logit_yes": 22.875,
+        "logit_no": 24.421875,
+        "disgusting_score": 0.1755380736234294,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000226.png",
+        "logit_yes": 23.640625,
+        "logit_no": 24.421875,
+        "disgusting_score": 0.31405054499180746,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000156.jpg",
+        "logit_yes": 23.96875,
+        "logit_no": 25.1875,
+        "disgusting_score": 0.2281565021609254,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000507.jpg",
+        "logit_yes": 22.46875,
+        "logit_no": 25.15625,
+        "disgusting_score": 0.06371499425196533,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000603.jpg",
+        "logit_yes": 23.109375,
+        "logit_no": 25.15625,
+        "disgusting_score": 0.11436852618181245,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000338.png",
+        "logit_yes": 23.1875,
+        "logit_no": 24.96875,
+        "disgusting_score": 0.14414885303274058,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000553.jpg",
+        "logit_yes": 23.171875,
+        "logit_no": 25.28125,
+        "disgusting_score": 0.10818895456207038,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000322.png",
+        "logit_yes": 22.5,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.09138210306717134,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000374.png",
+        "logit_yes": 23.453125,
+        "logit_no": 25.15625,
+        "disgusting_score": 0.15405756269148543,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000144.jpg",
+        "logit_yes": 23.0625,
+        "logit_no": 25.5,
+        "disgusting_score": 0.08035746882220708,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000560.jpg",
+        "logit_yes": 24.75,
+        "logit_no": 24.6875,
+        "disgusting_score": 0.5156199157230157,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000231.png",
+        "logit_yes": 22.546875,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.09009299396195183,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000542.jpg",
+        "logit_yes": 23.859375,
+        "logit_no": 24.6875,
+        "disgusting_score": 0.30404167496654744,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000464.jpg",
+        "logit_yes": 23.171875,
+        "logit_no": 24.71875,
+        "disgusting_score": 0.17553807362342935,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000368.png",
+        "logit_yes": 23.21875,
+        "logit_no": 24.765625,
+        "disgusting_score": 0.17553807362342935,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000076.jpg",
+        "logit_yes": 23.328125,
+        "logit_no": 25.09375,
+        "disgusting_score": 0.14608724704829568,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000139.jpg",
+        "logit_yes": 23.09375,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.14223189500989633,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000628.jpg",
+        "logit_yes": 22.875,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.10230470789265303,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000167.jpg",
+        "logit_yes": 23.71875,
+        "logit_no": 24.703125,
+        "disgusting_score": 0.2720245510940225,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000624.jpg",
+        "logit_yes": 24.734375,
+        "logit_no": 24.53125,
+        "disgusting_score": 0.5506073655352404,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000083.jpg",
+        "logit_yes": 24.578125,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.38861802670584894,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000149.jpg",
+        "logit_yes": 23.234375,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.16667540468797667,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000056.jpg",
+        "logit_yes": 23.078125,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.12592276483513232,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000054.jpg",
+        "logit_yes": 23.921875,
+        "logit_no": 24.734375,
+        "disgusting_score": 0.30735801686526387,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000227.png",
+        "logit_yes": 23.671875,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.20689404881588813,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000220.png",
+        "logit_yes": 23.09375,
+        "logit_no": 25.109375,
+        "disgusting_score": 0.11757213354550884,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000165.jpg",
+        "logit_yes": 23.140625,
+        "logit_no": 25.65625,
+        "disgusting_score": 0.07477004290796135,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000438.jpg",
+        "logit_yes": 23.8125,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.25982563796098374,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000284.png",
+        "logit_yes": 23.59375,
+        "logit_no": 24.546875,
+        "disgusting_score": 0.2782567937024021,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000455.jpg",
+        "logit_yes": 23.71875,
+        "logit_no": 24.328125,
+        "disgusting_score": 0.35220178204788966,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000394.jpg",
+        "logit_yes": 25.21875,
+        "logit_no": 23.953125,
+        "disgusting_score": 0.7799929002541068,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000064.jpg",
+        "logit_yes": 22.921875,
+        "logit_no": 25.34375,
+        "disgusting_score": 0.0815197559747189,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000210.jpg",
+        "logit_yes": 23.71875,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.2450850131323717,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000443.jpg",
+        "logit_yes": 23.921875,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.26588047309981694,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000181.jpg",
+        "logit_yes": 24.28125,
+        "logit_no": 24.484375,
+        "disgusting_score": 0.44939263446475963,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000479.jpg",
+        "logit_yes": 22.78125,
+        "logit_no": 25.296875,
+        "disgusting_score": 0.07477004290796135,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000593.jpg",
+        "logit_yes": 23.015625,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.11757213354550881,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000465.jpg",
+        "logit_yes": 23.734375,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.25683199138751883,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000402.jpg",
+        "logit_yes": 23.4375,
+        "logit_no": 24.5,
+        "disgusting_score": 0.25683199138751883,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000212.png",
+        "logit_yes": 22.125,
+        "logit_no": 24.671875,
+        "disgusting_score": 0.07263670636078697,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000200.jpg",
+        "logit_yes": 23.90625,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.278256793702402,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000218.png",
+        "logit_yes": 23.109375,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.15203224162217424,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000314.png",
+        "logit_yes": 22.609375,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.09670579329612156,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000155.jpg",
+        "logit_yes": 24.453125,
+        "logit_no": 24.671875,
+        "disgusting_score": 0.4455295350395727,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000045.jpg",
+        "logit_yes": 25.03125,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.5621765008857981,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000283.png",
+        "logit_yes": 22.46875,
+        "logit_no": 24.8125,
+        "disgusting_score": 0.08756383952305867,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000121.jpg",
+        "logit_yes": 24.0,
+        "logit_no": 24.4375,
+        "disgusting_score": 0.3923368301671084,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000397.png",
+        "logit_yes": 22.828125,
+        "logit_no": 25.28125,
+        "disgusting_score": 0.07921032410902437,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000346.png",
+        "logit_yes": 22.578125,
+        "logit_no": 24.875,
+        "disgusting_score": 0.09138210306717134,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000452.jpg",
+        "logit_yes": 23.078125,
+        "logit_no": 25.078125,
+        "disgusting_score": 0.11920292202211755,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000623.jpg",
+        "logit_yes": 23.765625,
+        "logit_no": 24.609375,
+        "disgusting_score": 0.30074557894124154,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000298.png",
+        "logit_yes": 22.34375,
+        "logit_no": 24.59375,
+        "disgusting_score": 0.0953494648991095,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000057.jpg",
+        "logit_yes": 24.984375,
+        "logit_no": 25.0,
+        "disgusting_score": 0.4960938294709195,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000297.png",
+        "logit_yes": 22.984375,
+        "logit_no": 24.8125,
+        "disgusting_score": 0.13846179056896438,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000378.png",
+        "logit_yes": 23.109375,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.15610489744545739,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000486.jpg",
+        "logit_yes": 22.6875,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.10521053670308636,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000198.jpg",
+        "logit_yes": 23.34375,
+        "logit_no": 24.921875,
+        "disgusting_score": 0.17106119167858438,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000159.jpg",
+        "logit_yes": 23.234375,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.14804719803168948,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000347.png",
+        "logit_yes": 22.671875,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.10669059394565118,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000185.jpg",
+        "logit_yes": 24.890625,
+        "logit_no": 24.296875,
+        "disgusting_score": 0.6442251064863697,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000414.jpg",
+        "logit_yes": 25.015625,
+        "logit_no": 24.75,
+        "disgusting_score": 0.5660185351961013,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000234.png",
+        "logit_yes": 23.046875,
+        "logit_no": 25.125,
+        "disgusting_score": 0.11124120650754303,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000323.png",
+        "logit_yes": 23.25,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.17553807362342935,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000370.png",
+        "logit_yes": 22.859375,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.11920292202211756,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000301.png",
+        "logit_yes": 22.5,
+        "logit_no": 25.359375,
+        "disgusting_score": 0.054198729823185576,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000483.jpg",
+        "logit_yes": 23.359375,
+        "logit_no": 24.875,
+        "disgusting_score": 0.18010666408646395,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000140.jpg",
+        "logit_yes": 23.171875,
+        "logit_no": 24.875,
+        "disgusting_score": 0.15405756269148546,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000481.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 24.96875,
+        "disgusting_score": 0.10818895456207037,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000373.jpg",
+        "logit_yes": 25.484375,
+        "logit_no": 24.359375,
+        "disgusting_score": 0.7549149868676284,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000207.jpg",
+        "logit_yes": 23.046875,
+        "logit_no": 24.96875,
+        "disgusting_score": 0.12765262532179064,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000492.jpg",
+        "logit_yes": 22.6875,
+        "logit_no": 25.28125,
+        "disgusting_score": 0.06954174450582809,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000062.jpg",
+        "logit_yes": 23.890625,
+        "logit_no": 24.59375,
+        "disgusting_score": 0.3311197396289915,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000111.jpg",
+        "logit_yes": 25.078125,
+        "logit_no": 25.34375,
+        "disgusting_score": 0.4339814648038985,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000229.png",
+        "logit_yes": 23.09375,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.15405756269148543,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000075.jpg",
+        "logit_yes": 23.0625,
+        "logit_no": 24.90625,
+        "disgusting_score": 0.13660839002621936,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000529.jpg",
+        "logit_yes": 23.109375,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.15002882434242507,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000488.jpg",
+        "logit_yes": 22.734375,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.09138210306717136,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000135.jpg",
+        "logit_yes": 23.484375,
+        "logit_no": 24.8125,
+        "disgusting_score": 0.20946968133032523,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000471.jpg",
+        "logit_yes": 23.453125,
+        "logit_no": 24.46875,
+        "disgusting_score": 0.26588047309981694,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000293.png",
+        "logit_yes": 23.296875,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.17781086947804958,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000332.png",
+        "logit_yes": 22.828125,
+        "logit_no": 24.765625,
+        "disgusting_score": 0.12592276483513232,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000391.png",
+        "logit_yes": 22.875,
+        "logit_no": 25.125,
+        "disgusting_score": 0.0953494648991095,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000340.png",
+        "logit_yes": 22.515625,
+        "logit_no": 25.15625,
+        "disgusting_score": 0.06656918897050167,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000611.jpg",
+        "logit_yes": 23.140625,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.14223189500989633,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000213.png",
+        "logit_yes": 23.421875,
+        "logit_no": 24.6875,
+        "disgusting_score": 0.22000709974589316,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000130.jpg",
+        "logit_yes": 24.265625,
+        "logit_no": 24.8125,
+        "disgusting_score": 0.36658973632215985,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000571.jpg",
+        "logit_yes": 23.390625,
+        "logit_no": 25.25,
+        "disgusting_score": 0.1347759174229568,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000354.png",
+        "logit_yes": 21.921875,
+        "logit_no": 24.515625,
+        "disgusting_score": 0.06954174450582806,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000124.jpg",
+        "logit_yes": 23.0,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.11279540628289322,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000350.png",
+        "logit_yes": 24.625,
+        "logit_no": 24.484375,
+        "disgusting_score": 0.5350984286266116,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000493.jpg",
+        "logit_yes": 22.90625,
+        "logit_no": 24.5625,
+        "disgusting_score": 0.1602660323277607,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000309.png",
+        "logit_yes": 22.859375,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.12592276483513232,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000295.png",
+        "logit_yes": 22.359375,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.07585818002124355,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000096.jpg",
+        "logit_yes": 23.25,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.16885695214168314,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000484.jpg",
+        "logit_yes": 22.984375,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.14033624949008322,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000522.jpg",
+        "logit_yes": 22.65625,
+        "logit_no": 24.921875,
+        "disgusting_score": 0.09401017961657226,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000473.jpg",
+        "logit_yes": 22.828125,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.10087862273005654,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000125.jpg",
+        "logit_yes": 23.953125,
+        "logit_no": 24.265625,
+        "disgusting_score": 0.42250463481418826,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000190.jpg",
+        "logit_yes": 23.171875,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.14033624949008322,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000074.jpg",
+        "logit_yes": 23.34375,
+        "logit_no": 24.953125,
+        "disgusting_score": 0.16667540468797667,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000619.jpg",
+        "logit_yes": 22.828125,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.11757213354550883,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000035.jpg",
+        "logit_yes": 24.3125,
+        "logit_no": 24.421875,
+        "disgusting_score": 0.4726834766204328,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000172.jpg",
+        "logit_yes": 22.734375,
+        "logit_no": 25.0,
+        "disgusting_score": 0.09401017961657228,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000112.jpg",
+        "logit_yes": 23.34375,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.1895210913296776,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000077.jpg",
+        "logit_yes": 23.75,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.21206880435710534,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000588.jpg",
+        "logit_yes": 25.265625,
+        "logit_no": 24.359375,
+        "disgusting_score": 0.7122321842389469,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000158.jpg",
+        "logit_yes": 23.5625,
+        "logit_no": 24.953125,
+        "disgusting_score": 0.19930799790404563,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000386.png",
+        "logit_yes": 24.859375,
+        "logit_no": 24.203125,
+        "disgusting_score": 0.658417500561683,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000578.jpg",
+        "logit_yes": 22.84375,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.1208532324904707,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000237.png",
+        "logit_yes": 22.5,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.08632347658627028,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000148.jpg",
+        "logit_yes": 23.140625,
+        "logit_no": 25.234375,
+        "disgusting_score": 0.10970577387797076,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000242.png",
+        "logit_yes": 23.921875,
+        "logit_no": 24.40625,
+        "disgusting_score": 0.38121956625614994,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000566.jpg",
+        "logit_yes": 22.953125,
+        "logit_no": 25.265625,
+        "disgusting_score": 0.09009299396195183,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000570.jpg",
+        "logit_yes": 22.796875,
+        "logit_no": 24.953125,
+        "disgusting_score": 0.1037486268663797,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000469.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 24.609375,
+        "disgusting_score": 0.14804719803168948,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000026.jpg",
+        "logit_yes": 23.3125,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.1581743527484317,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000444.jpg",
+        "logit_yes": 22.734375,
+        "logit_no": 25.328125,
+        "disgusting_score": 0.06954174450582808,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000436.jpg",
+        "logit_yes": 23.53125,
+        "logit_no": 24.96875,
+        "disgusting_score": 0.1919327864472368,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000113.jpg",
+        "logit_yes": 22.65625,
+        "logit_no": 24.65625,
+        "disgusting_score": 0.11920292202211755,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000467.jpg",
+        "logit_yes": 23.390625,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.19930799790404563,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000250.png",
+        "logit_yes": 23.546875,
+        "logit_no": 24.421875,
+        "disgusting_score": 0.2942149721629888,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000405.jpg",
+        "logit_yes": 23.046875,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.15002882434242507,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000577.jpg",
+        "logit_yes": 23.03125,
+        "logit_no": 24.875,
+        "disgusting_score": 0.13660839002621938,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000327.png",
+        "logit_yes": 22.875,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.11757213354550884,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000191.jpg",
+        "logit_yes": 23.25,
+        "logit_no": 25.0,
+        "disgusting_score": 0.1480471980316895,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000451.jpg",
+        "logit_yes": 23.765625,
+        "logit_no": 24.578125,
+        "disgusting_score": 0.30735801686526387,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000581.jpg",
+        "logit_yes": 23.015625,
+        "logit_no": 25.28125,
+        "disgusting_score": 0.09401017961657228,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000385.png",
+        "logit_yes": 22.375,
+        "logit_no": 24.90625,
+        "disgusting_score": 0.07369626970604845,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000060.jpg",
+        "logit_yes": 23.96875,
+        "logit_no": 24.59375,
+        "disgusting_score": 0.34864513533394575,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000584.jpg",
+        "logit_yes": 22.921875,
+        "logit_no": 25.1875,
+        "disgusting_score": 0.09401017961657225,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000326.png",
+        "logit_yes": 23.0,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.13660839002621936,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000070.jpg",
+        "logit_yes": 23.984375,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.310694383214554,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000063.jpg",
+        "logit_yes": 23.015625,
+        "logit_no": 24.75,
+        "disgusting_score": 0.15002882434242507,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000281.png",
+        "logit_yes": 22.484375,
+        "logit_no": 24.546875,
+        "disgusting_score": 0.11279540628289322,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000592.jpg",
+        "logit_yes": 23.140625,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.14223189500989633,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000040.jpg",
+        "logit_yes": 22.671875,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.08632347658627028,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000430.jpg",
+        "logit_yes": 23.578125,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.21733752104706244,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000085.jpg",
+        "logit_yes": 23.765625,
+        "logit_no": 24.765625,
+        "disgusting_score": 0.26894142136999516,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000032.jpg",
+        "logit_yes": 23.078125,
+        "logit_no": 25.359375,
+        "disgusting_score": 0.09268777863937602,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000176.jpg",
+        "logit_yes": 24.671875,
+        "logit_no": 24.578125,
+        "disgusting_score": 0.523420348936324,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000232.png",
+        "logit_yes": 23.953125,
+        "logit_no": 23.65625,
+        "disgusting_score": 0.5736784074525098,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000353.png",
+        "logit_yes": 24.0625,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.2720245510940225,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000344.png",
+        "logit_yes": 22.875,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.10230470789265303,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000099.jpg",
+        "logit_yes": 22.921875,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.1127954062828932,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000589.jpg",
+        "logit_yes": 23.125,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.11757213354550884,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000030.jpg",
+        "logit_yes": 22.921875,
+        "logit_no": 25.515625,
+        "disgusting_score": 0.06954174450582808,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000554.jpg",
+        "logit_yes": 22.6875,
+        "logit_no": 25.078125,
+        "disgusting_score": 0.08389038641057993,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000482.jpg",
+        "logit_yes": 23.125,
+        "logit_no": 24.96875,
+        "disgusting_score": 0.13660839002621936,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000372.jpg",
+        "logit_yes": 23.421875,
+        "logit_no": 24.484375,
+        "disgusting_score": 0.25683199138751883,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000116.jpg",
+        "logit_yes": 23.046875,
+        "logit_no": 25.15625,
+        "disgusting_score": 0.10818895456207034,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000604.jpg",
+        "logit_yes": 22.953125,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.11124120650754304,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000459.jpg",
+        "logit_yes": 22.984375,
+        "logit_no": 24.875,
+        "disgusting_score": 0.13117322376181567,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000381.png",
+        "logit_yes": 22.9375,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.12765262532179064,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000515.jpg",
+        "logit_yes": 23.1875,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.15817435274843167,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000204.jpg",
+        "logit_yes": 23.1875,
+        "logit_no": 25.234375,
+        "disgusting_score": 0.11436852618181247,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000291.png",
+        "logit_yes": 23.453125,
+        "logit_no": 24.65625,
+        "disgusting_score": 0.2309197629292718,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000382.png",
+        "logit_yes": 22.984375,
+        "logit_no": 24.75,
+        "disgusting_score": 0.14608724704829568,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000268.png",
+        "logit_yes": 23.015625,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.12765262532179064,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000205.jpg",
+        "logit_yes": 22.78125,
+        "logit_no": 25.265625,
+        "disgusting_score": 0.07696083569602614,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000552.jpg",
+        "logit_yes": 22.5,
+        "logit_no": 24.765625,
+        "disgusting_score": 0.09401017961657226,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000224.png",
+        "logit_yes": 24.296875,
+        "logit_no": 24.875,
+        "disgusting_score": 0.359364145160102,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000173.jpg",
+        "logit_yes": 24.171875,
+        "logit_no": 24.203125,
+        "disgusting_score": 0.4921881357207956,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000136.jpg",
+        "logit_yes": 24.125,
+        "logit_no": 24.90625,
+        "disgusting_score": 0.31405054499180746,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000272.png",
+        "logit_yes": 22.765625,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.11757213354550884,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000127.jpg",
+        "logit_yes": 25.515625,
+        "logit_no": 23.640625,
+        "disgusting_score": 0.8670357598021707,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000315.png",
+        "logit_yes": 23.5,
+        "logit_no": 24.59375,
+        "disgusting_score": 0.2509127868852725,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000289.png",
+        "logit_yes": 22.65625,
+        "logit_no": 25.390625,
+        "disgusting_score": 0.06097518086496481,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000545.jpg",
+        "logit_yes": 23.484375,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.19682620364309847,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000406.jpg",
+        "logit_yes": 23.640625,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.19682620364309847,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000311.png",
+        "logit_yes": 22.671875,
+        "logit_no": 24.5625,
+        "disgusting_score": 0.13117322376181564,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000463.jpg",
+        "logit_yes": 24.578125,
+        "logit_no": 24.359375,
+        "disgusting_score": 0.5544704649604273,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000197.jpg",
+        "logit_yes": 22.53125,
+        "logit_no": 25.1875,
+        "disgusting_score": 0.0656048374590693,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000230.png",
+        "logit_yes": 24.078125,
+        "logit_no": 24.40625,
+        "disgusting_score": 0.4186969093556867,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000612.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.09268777863937604,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000345.png",
+        "logit_yes": 24.125,
+        "logit_no": 24.625,
+        "disgusting_score": 0.37754066879814546,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000442.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.1066905939456512,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000195.jpg",
+        "logit_yes": 24.328125,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.3849121444839335,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000460.jpg",
+        "logit_yes": 22.984375,
+        "logit_no": 25.0,
+        "disgusting_score": 0.11757213354550886,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000537.jpg",
+        "logit_yes": 22.75,
+        "logit_no": 24.53125,
+        "disgusting_score": 0.14414885303274058,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000183.jpg",
+        "logit_yes": 22.3125,
+        "logit_no": 24.65625,
+        "disgusting_score": 0.08756383952305866,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000223.png",
+        "logit_yes": 23.40625,
+        "logit_no": 24.390625,
+        "disgusting_score": 0.2720245510940225,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000280.png",
+        "logit_yes": 23.84375,
+        "logit_no": 24.5625,
+        "disgusting_score": 0.32766830082071396,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000423.jpg",
+        "logit_yes": 22.765625,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.10669059394565118,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000557.jpg",
+        "logit_yes": 23.140625,
+        "logit_no": 25.203125,
+        "disgusting_score": 0.11279540628289321,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000233.png",
+        "logit_yes": 24.09375,
+        "logit_no": 24.953125,
+        "disgusting_score": 0.29746994260479465,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000556.jpg",
+        "logit_yes": 22.46875,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.07159119944455247,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000355.png",
+        "logit_yes": 22.9375,
+        "logit_no": 25.109375,
+        "disgusting_score": 0.10230470789265304,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000219.jpg",
+        "logit_yes": 23.875,
+        "logit_no": 25.078125,
+        "disgusting_score": 0.23091976292927177,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000558.jpg",
+        "logit_yes": 23.296875,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.1500288243424251,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000377.png",
+        "logit_yes": 22.578125,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.08035746882220707,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000216.png",
+        "logit_yes": 24.4375,
+        "logit_no": 24.53125,
+        "disgusting_score": 0.47657965106367595,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000516.jpg",
+        "logit_yes": 25.046875,
+        "logit_no": 24.21875,
+        "disgusting_score": 0.6959583250334526,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000551.jpg",
+        "logit_yes": 22.90625,
+        "logit_no": 25.25,
+        "disgusting_score": 0.08756383952305866,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000474.jpg",
+        "logit_yes": 22.546875,
+        "logit_no": 25.109375,
+        "disgusting_score": 0.07159119944455249,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000310.jpg",
+        "logit_yes": 23.640625,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.19436781101874467,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000424.jpg",
+        "logit_yes": 23.5,
+        "logit_no": 24.875,
+        "disgusting_score": 0.20181322226037882,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000616.jpg",
+        "logit_yes": 22.890625,
+        "logit_no": 24.8125,
+        "disgusting_score": 0.12765262532179067,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000527.jpg",
+        "logit_yes": 23.484375,
+        "logit_no": 24.71875,
+        "disgusting_score": 0.2254166158350767,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000569.jpg",
+        "logit_yes": 22.796875,
+        "logit_no": 25.109375,
+        "disgusting_score": 0.09009299396195183,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000109.jpg",
+        "logit_yes": 22.734375,
+        "logit_no": 25.09375,
+        "disgusting_score": 0.08632347658627029,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000434.jpg",
+        "logit_yes": 23.53125,
+        "logit_no": 24.375,
+        "disgusting_score": 0.3007455789412415,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000497.jpg",
+        "logit_yes": 22.875,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.10087862273005653,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000450.jpg",
+        "logit_yes": 23.015625,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.11436852618181245,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000137.jpg",
+        "logit_yes": 23.109375,
+        "logit_no": 24.65625,
+        "disgusting_score": 0.17553807362342932,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000300.png",
+        "logit_yes": 23.671875,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.2365162364457076,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000152.jpg",
+        "logit_yes": 23.28125,
+        "logit_no": 25.1875,
+        "disgusting_score": 0.1294027315916391,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000520.jpg",
+        "logit_yes": 22.703125,
+        "logit_no": 24.75,
+        "disgusting_score": 0.11436852618181247,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000622.jpg",
+        "logit_yes": 23.53125,
+        "logit_no": 24.734375,
+        "disgusting_score": 0.23091976292927183,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000573.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 24.953125,
+        "disgusting_score": 0.10970577387797076,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000316.png",
+        "logit_yes": 24.296875,
+        "logit_no": 24.421875,
+        "disgusting_score": 0.46879062662624377,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000330.png",
+        "logit_yes": 22.8125,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.08882029240011773,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000383.jpg",
+        "logit_yes": 25.296875,
+        "logit_no": 25.3125,
+        "disgusting_score": 0.49609382947091946,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000401.jpg",
+        "logit_yes": 23.828125,
+        "logit_no": 24.734375,
+        "disgusting_score": 0.28776781576105315,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000606.jpg",
+        "logit_yes": 23.953125,
+        "logit_no": 24.484375,
+        "disgusting_score": 0.3702253925955866,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000562.jpg",
+        "logit_yes": 23.625,
+        "logit_no": 24.671875,
+        "disgusting_score": 0.25982563796098374,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000518.jpg",
+        "logit_yes": 22.96875,
+        "logit_no": 24.875,
+        "disgusting_score": 0.12940273159163906,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000251.png",
+        "logit_yes": 23.015625,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.10669059394565121,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000094.jpg",
+        "logit_yes": 25.359375,
+        "logit_no": 24.28125,
+        "disgusting_score": 0.7461389930307513,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000480.jpg",
+        "logit_yes": 23.0,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.10521053670308637,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000053.jpg",
+        "logit_yes": 23.734375,
+        "logit_no": 24.734375,
+        "disgusting_score": 0.2689414213699951,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000188.jpg",
+        "logit_yes": 23.484375,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.17781086947804958,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000331.png",
+        "logit_yes": 23.15625,
+        "logit_no": 24.96875,
+        "disgusting_score": 0.14033624949008322,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000228.png",
+        "logit_yes": 22.09375,
+        "logit_no": 24.640625,
+        "disgusting_score": 0.07263670636078697,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000426.jpg",
+        "logit_yes": 22.796875,
+        "logit_no": 25.078125,
+        "disgusting_score": 0.09268777863937602,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000550.jpg",
+        "logit_yes": 23.171875,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.16026603232776074,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000461.jpg",
+        "logit_yes": 25.546875,
+        "logit_no": 23.703125,
+        "disgusting_score": 0.8633916099737807,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000117.jpg",
+        "logit_yes": 23.21875,
+        "logit_no": 25.0,
+        "disgusting_score": 0.1441488530327406,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000319.png",
+        "logit_yes": 25.265625,
+        "logit_no": 24.25,
+        "disgusting_score": 0.7341195269001831,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000282.png",
+        "logit_yes": 23.21875,
+        "logit_no": 25.109375,
+        "disgusting_score": 0.13117322376181567,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000259.png",
+        "logit_yes": 22.6875,
+        "logit_no": 25.171875,
+        "disgusting_score": 0.07696083569602616,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000535.jpg",
+        "logit_yes": 24.0625,
+        "logit_no": 24.296875,
+        "disgusting_score": 0.4416730056646256,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000240.png",
+        "logit_yes": 24.328125,
+        "logit_no": 24.390625,
+        "disgusting_score": 0.4843800842769844,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000264.png",
+        "logit_yes": 22.921875,
+        "logit_no": 24.53125,
+        "disgusting_score": 0.16667540468797665,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000446.jpg",
+        "logit_yes": 23.796875,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.22815650216092537,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000105.jpg",
+        "logit_yes": 22.96875,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.10970577387797076,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000180.jpg",
+        "logit_yes": 23.40625,
+        "logit_no": 24.765625,
+        "disgusting_score": 0.20434189993684584,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000277.jpg",
+        "logit_yes": 24.8125,
+        "logit_no": 24.53125,
+        "disgusting_score": 0.5698526514141571,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000123.jpg",
+        "logit_yes": 23.09375,
+        "logit_no": 25.265625,
+        "disgusting_score": 0.10230470789265304,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000090.jpg",
+        "logit_yes": 25.328125,
+        "logit_no": 24.0,
+        "disgusting_score": 0.7905303186696747,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000258.png",
+        "logit_yes": 23.671875,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.21206880435710537,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000625.jpg",
+        "logit_yes": 23.15625,
+        "logit_no": 25.0625,
+        "disgusting_score": 0.12940273159163906,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000279.png",
+        "logit_yes": 23.015625,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.13296424019782924,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000599.jpg",
+        "logit_yes": 23.28125,
+        "logit_no": 24.328125,
+        "disgusting_score": 0.25982563796098374,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000274.png",
+        "logit_yes": 23.25,
+        "logit_no": 24.8125,
+        "disgusting_score": 0.17328820592932662,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000089.jpg",
+        "logit_yes": 23.5625,
+        "logit_no": 24.53125,
+        "disgusting_score": 0.27512972382317524,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000087.jpg",
+        "logit_yes": 23.78125,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.2658804730998169,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000153.jpg",
+        "logit_yes": 24.546875,
+        "logit_no": 24.953125,
+        "disgusting_score": 0.399811640739795,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000337.png",
+        "logit_yes": 23.015625,
+        "logit_no": 24.546875,
+        "disgusting_score": 0.17781086947804958,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000541.jpg",
+        "logit_yes": 23.078125,
+        "logit_no": 24.734375,
+        "disgusting_score": 0.1602660323277607,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000270.png",
+        "logit_yes": 21.9375,
+        "logit_no": 24.40625,
+        "disgusting_score": 0.07807816514495096,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000312.png",
+        "logit_yes": 22.71875,
+        "logit_no": 25.09375,
+        "disgusting_score": 0.08509904500702024,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000170.jpg",
+        "logit_yes": 22.765625,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.08509904500702024,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000359.png",
+        "logit_yes": 22.875,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.11279540628289321,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000445.jpg",
+        "logit_yes": 23.109375,
+        "logit_no": 25.046875,
+        "disgusting_score": 0.1259227648351323,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000627.jpg",
+        "logit_yes": 23.078125,
+        "logit_no": 25.140625,
+        "disgusting_score": 0.11279540628289322,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000361.png",
+        "logit_yes": 23.609375,
+        "logit_no": 24.6875,
+        "disgusting_score": 0.2538610069692489,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000524.jpg",
+        "logit_yes": 23.40625,
+        "logit_no": 24.515625,
+        "disgusting_score": 0.24798742624020273,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000342.png",
+        "logit_yes": 22.03125,
+        "logit_no": 24.59375,
+        "disgusting_score": 0.07159119944455247,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000164.jpg",
+        "logit_yes": 23.921875,
+        "logit_no": 24.90625,
+        "disgusting_score": 0.2720245510940225,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000042.jpg",
+        "logit_yes": 23.546875,
+        "logit_no": 24.71875,
+        "disgusting_score": 0.2365162364457076,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000162.jpg",
+        "logit_yes": 25.125,
+        "logit_no": 23.890625,
+        "disgusting_score": 0.7745833841649232,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000546.jpg",
+        "logit_yes": 24.625,
+        "logit_no": 24.40625,
+        "disgusting_score": 0.5544704649604274,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000404.jpg",
+        "logit_yes": 23.265625,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.14804719803168948,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000131.jpg",
+        "logit_yes": 23.46875,
+        "logit_no": 24.671875,
+        "disgusting_score": 0.23091976292927183,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000276.png",
+        "logit_yes": 22.46875,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.07807816514495095,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000028.jpg",
+        "logit_yes": 22.9375,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.11920292202211755,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000539.jpg",
+        "logit_yes": 22.375,
+        "logit_no": 24.921875,
+        "disgusting_score": 0.07263670636078697,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000433.jpg",
+        "logit_yes": 22.75,
+        "logit_no": 25.21875,
+        "disgusting_score": 0.07807816514495095,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000407.jpg",
+        "logit_yes": 22.984375,
+        "logit_no": 25.078125,
+        "disgusting_score": 0.10970577387797076,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000564.jpg",
+        "logit_yes": 23.21875,
+        "logit_no": 24.875,
+        "disgusting_score": 0.1602660323277607,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000448.jpg",
+        "logit_yes": 24.5625,
+        "logit_no": 24.65625,
+        "disgusting_score": 0.47657965106367595,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000079.jpg",
+        "logit_yes": 25.125,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.5660185351961013,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "not-disgusting_00000192.jpg",
+        "logit_yes": 23.171875,
+        "logit_no": 25.09375,
+        "disgusting_score": 0.1276526253217907,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000417.jpg",
+        "logit_yes": 24.234375,
+        "logit_no": 24.5,
+        "disgusting_score": 0.43398146480389854,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000528.jpg",
+        "logit_yes": 23.78125,
+        "logit_no": 24.3125,
+        "disgusting_score": 0.3702253925955866,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000029.jpg",
+        "logit_yes": 23.296875,
+        "logit_no": 25.0,
+        "disgusting_score": 0.15405756269148543,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000203.jpg",
+        "logit_yes": 23.140625,
+        "logit_no": 24.984375,
+        "disgusting_score": 0.13660839002621938,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000457.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 24.9375,
+        "disgusting_score": 0.11124120650754304,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000498.jpg",
+        "logit_yes": 22.796875,
+        "logit_no": 25.203125,
+        "disgusting_score": 0.08269734267503885,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000458.jpg",
+        "logit_yes": 22.359375,
+        "logit_no": 24.609375,
+        "disgusting_score": 0.0953494648991095,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000082.jpg",
+        "logit_yes": 23.515625,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.21206880435710534,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000440.jpg",
+        "logit_yes": 23.96875,
+        "logit_no": 24.46875,
+        "disgusting_score": 0.37754066879814546,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000379.png",
+        "logit_yes": 23.515625,
+        "logit_no": 24.75,
+        "disgusting_score": 0.22541661583507672,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000358.png",
+        "logit_yes": 23.203125,
+        "logit_no": 24.75,
+        "disgusting_score": 0.17553807362342935,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000262.png",
+        "logit_yes": 24.203125,
+        "logit_no": 24.625,
+        "disgusting_score": 0.3960681662740417,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000292.png",
+        "logit_yes": 23.109375,
+        "logit_no": 25.0,
+        "disgusting_score": 0.13117322376181564,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000290.png",
+        "logit_yes": 23.53125,
+        "logit_no": 24.71875,
+        "disgusting_score": 0.23370635691404026,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000160.jpg",
+        "logit_yes": 23.1875,
+        "logit_no": 25.078125,
+        "disgusting_score": 0.13117322376181564,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000533.jpg",
+        "logit_yes": 22.875,
+        "logit_no": 24.484375,
+        "disgusting_score": 0.16667540468797667,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000605.jpg",
+        "logit_yes": 22.84375,
+        "logit_no": 25.234375,
+        "disgusting_score": 0.08389038641057993,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000296.png",
+        "logit_yes": 23.90625,
+        "logit_no": 24.328125,
+        "disgusting_score": 0.3960681662740417,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000505.jpg",
+        "logit_yes": 23.65625,
+        "logit_no": 24.78125,
+        "disgusting_score": 0.24508501313237172,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000514.jpg",
+        "logit_yes": 22.59375,
+        "logit_no": 24.640625,
+        "disgusting_score": 0.11436852618181247,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000189.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 24.96875,
+        "disgusting_score": 0.10818895456207037,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "not-disgusting_00000422.jpg",
+        "logit_yes": 23.078125,
+        "logit_no": 24.890625,
+        "disgusting_score": 0.1403362494900832,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "ia_600000112.jpg",
+        "logit_yes": 26.0625,
+        "logit_no": 24.078125,
+        "disgusting_score": 0.8791467675095294,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004542.jpg",
+        "logit_yes": 26.0,
+        "logit_no": 23.03125,
+        "disgusting_score": 0.9511422213778251,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004434.jpg",
+        "logit_yes": 26.078125,
+        "logit_no": 23.3125,
+        "disgusting_score": 0.9407897492587141,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004348.jpg",
+        "logit_yes": 25.28125,
+        "logit_no": 24.203125,
+        "disgusting_score": 0.746138993030751,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004592.jpg",
+        "logit_yes": 24.609375,
+        "logit_no": 24.546875,
+        "disgusting_score": 0.5156199157230156,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000220.jpg",
+        "logit_yes": 26.21875,
+        "logit_no": 23.5,
+        "disgusting_score": 0.9381240142763573,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000427.jpg",
+        "logit_yes": 26.515625,
+        "logit_no": 22.9375,
+        "disgusting_score": 0.9728307684643189,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000417.jpg",
+        "logit_yes": 25.109375,
+        "logit_no": 24.1875,
+        "disgusting_score": 0.7154239957834732,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000727.jpg",
+        "logit_yes": 25.90625,
+        "logit_no": 23.78125,
+        "disgusting_score": 0.8933094060543488,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000626.jpg",
+        "logit_yes": 23.640625,
+        "logit_no": 24.578125,
+        "disgusting_score": 0.28140560742914383,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "ia_400000263.jpg",
+        "logit_yes": 25.90625,
+        "logit_no": 23.53125,
+        "disgusting_score": 0.9149009549929797,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000110.jpg",
+        "logit_yes": 25.953125,
+        "logit_no": 23.828125,
+        "disgusting_score": 0.8933094060543488,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004470.jpg",
+        "logit_yes": 25.0625,
+        "logit_no": 23.125,
+        "disgusting_score": 0.8740772351648677,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000113.jpg",
+        "logit_yes": 26.015625,
+        "logit_no": 23.296875,
+        "disgusting_score": 0.9381240142763573,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000222.jpg",
+        "logit_yes": 25.78125,
+        "logit_no": 24.109375,
+        "disgusting_score": 0.8418256472515683,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000684.jpg",
+        "logit_yes": 25.59375,
+        "logit_no": 24.21875,
+        "disgusting_score": 0.7981867777396212,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000087.jpg",
+        "logit_yes": 25.859375,
+        "logit_no": 24.5625,
+        "disgusting_score": 0.7853085808877581,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000196.jpg",
+        "logit_yes": 25.828125,
+        "logit_no": 24.140625,
+        "disgusting_score": 0.8438951025545426,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000721.jpg",
+        "logit_yes": 25.75,
+        "logit_no": 23.53125,
+        "disgusting_score": 0.90192067652954,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000589.jpg",
+        "logit_yes": 25.15625,
+        "logit_no": 24.015625,
+        "disgusting_score": 0.7577943712746406,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000465.jpg",
+        "logit_yes": 26.125,
+        "logit_no": 23.390625,
+        "disgusting_score": 0.9390248191350352,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000278.jpg",
+        "logit_yes": 26.34375,
+        "logit_no": 23.40625,
+        "disgusting_score": 0.9496693674025232,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004445.jpg",
+        "logit_yes": 25.875,
+        "logit_no": 23.765625,
+        "disgusting_score": 0.8918110454379297,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000500.jpg",
+        "logit_yes": 25.890625,
+        "logit_no": 23.46875,
+        "disgusting_score": 0.918480244025281,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004383.jpg",
+        "logit_yes": 25.828125,
+        "logit_no": 24.0,
+        "disgusting_score": 0.8615382094310357,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004453.jpg",
+        "logit_yes": 26.109375,
+        "logit_no": 23.28125,
+        "disgusting_score": 0.9441768588653855,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000035.jpg",
+        "logit_yes": 25.015625,
+        "logit_no": 24.609375,
+        "disgusting_score": 0.600188359260205,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004524.jpg",
+        "logit_yes": 25.84375,
+        "logit_no": 23.953125,
+        "disgusting_score": 0.8688267762381843,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000718.jpg",
+        "logit_yes": 24.65625,
+        "logit_no": 24.328125,
+        "disgusting_score": 0.5813030906443134,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000239.jpg",
+        "logit_yes": 26.203125,
+        "logit_no": 23.1875,
+        "disgusting_score": 0.9532750413739076,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000274.jpg",
+        "logit_yes": 25.9375,
+        "logit_no": 23.453125,
+        "disgusting_score": 0.9230391643039738,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004345.jpg",
+        "logit_yes": 26.171875,
+        "logit_no": 23.84375,
+        "disgusting_score": 0.9111797075998823,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000235.jpg",
+        "logit_yes": 25.96875,
+        "logit_no": 23.765625,
+        "disgusting_score": 0.9005297861178929,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000382.jpg",
+        "logit_yes": 25.140625,
+        "logit_no": 24.09375,
+        "disgusting_score": 0.7401743620390163,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004343.jpg",
+        "logit_yes": 24.234375,
+        "logit_no": 24.53125,
+        "disgusting_score": 0.42632159254749036,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "ia_200000511.jpg",
+        "logit_yes": 26.140625,
+        "logit_no": 22.703125,
+        "disgusting_score": 0.9688561694652216,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004554.jpg",
+        "logit_yes": 24.609375,
+        "logit_no": 24.328125,
+        "disgusting_score": 0.5698526514141572,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004437.jpg",
+        "logit_yes": 25.25,
+        "logit_no": 24.125,
+        "disgusting_score": 0.7549149868676283,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000221.jpg",
+        "logit_yes": 25.703125,
+        "logit_no": 23.15625,
+        "disgusting_score": 0.927363293639213,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004340.jpg",
+        "logit_yes": 25.140625,
+        "logit_no": 24.625,
+        "disgusting_score": 0.6261241772283033,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004409.jpg",
+        "logit_yes": 25.65625,
+        "logit_no": 24.015625,
+        "disgusting_score": 0.837619963333289,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000027.jpg",
+        "logit_yes": 25.46875,
+        "logit_no": 25.015625,
+        "disgusting_score": 0.6113819732941511,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004668.jpg",
+        "logit_yes": 26.484375,
+        "logit_no": 23.25,
+        "disgusting_score": 0.9621075733703927,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004625.jpg",
+        "logit_yes": 25.890625,
+        "logit_no": 23.765625,
+        "disgusting_score": 0.8933094060543488,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000536.jpg",
+        "logit_yes": 24.96875,
+        "logit_no": 23.453125,
+        "disgusting_score": 0.8198933359135361,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000197.jpg",
+        "logit_yes": 24.859375,
+        "logit_no": 23.890625,
+        "disgusting_score": 0.7248702761768249,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000281.jpg",
+        "logit_yes": 24.203125,
+        "logit_no": 24.34375,
+        "disgusting_score": 0.4649015713733885,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "ia_200004676.jpg",
+        "logit_yes": 26.078125,
+        "logit_no": 23.3125,
+        "disgusting_score": 0.9407897492587141,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004672.jpg",
+        "logit_yes": 25.671875,
+        "logit_no": 22.9375,
+        "disgusting_score": 0.9390248191350352,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000048.jpg",
+        "logit_yes": 25.90625,
+        "logit_no": 23.828125,
+        "disgusting_score": 0.888758793492457,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004440.jpg",
+        "logit_yes": 25.21875,
+        "logit_no": 23.9375,
+        "disgusting_score": 0.7826624789529375,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004531.jpg",
+        "logit_yes": 23.8125,
+        "logit_no": 24.59375,
+        "disgusting_score": 0.3140505449918075,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "ia_200004374.jpeg",
+        "logit_yes": 26.5,
+        "logit_no": 22.75,
+        "disgusting_score": 0.9770226300899745,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004350.jpg",
+        "logit_yes": 25.75,
+        "logit_no": 24.0,
+        "disgusting_score": 0.8519528019683106,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000300.jpg",
+        "logit_yes": 26.078125,
+        "logit_no": 23.671875,
+        "disgusting_score": 0.9173026573249612,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000458.jpg",
+        "logit_yes": 25.703125,
+        "logit_no": 22.28125,
+        "disgusting_score": 0.9683812327313545,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004615.jpg",
+        "logit_yes": 24.203125,
+        "logit_no": 25.03125,
+        "disgusting_score": 0.30404167496654744,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "ia_200004365.jpg",
+        "logit_yes": 26.265625,
+        "logit_no": 22.328125,
+        "disgusting_score": 0.9808759632491111,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000202.jpg",
+        "logit_yes": 25.453125,
+        "logit_no": 23.265625,
+        "disgusting_score": 0.8991213772699435,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000232.jpg",
+        "logit_yes": 26.109375,
+        "logit_no": 24.0625,
+        "disgusting_score": 0.8856314738181875,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000024.jpg",
+        "logit_yes": 26.5,
+        "logit_no": 22.921875,
+        "disgusting_score": 0.972830768464319,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004631.jpg",
+        "logit_yes": 25.46875,
+        "logit_no": 24.1875,
+        "disgusting_score": 0.7826624789529376,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000115.jpg",
+        "logit_yes": 25.40625,
+        "logit_no": 24.28125,
+        "disgusting_score": 0.7549149868676284,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004562.jpg",
+        "logit_yes": 24.609375,
+        "logit_no": 24.6875,
+        "disgusting_score": 0.480478678047907,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "ia_200004397.jpg",
+        "logit_yes": 24.875,
+        "logit_no": 24.25,
+        "disgusting_score": 0.6513548646660542,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004569.jpg",
+        "logit_yes": 24.59375,
+        "logit_no": 24.6875,
+        "disgusting_score": 0.4765796510636759,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "ia_200004534.jpg",
+        "logit_yes": 25.359375,
+        "logit_no": 23.640625,
+        "disgusting_score": 0.8479677583778258,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000111.jpg",
+        "logit_yes": 26.265625,
+        "logit_no": 23.71875,
+        "disgusting_score": 0.927363293639213,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000610.jpg",
+        "logit_yes": 26.296875,
+        "logit_no": 23.9375,
+        "disgusting_score": 0.9136765234137297,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000294.jpg",
+        "logit_yes": 25.265625,
+        "logit_no": 24.234375,
+        "disgusting_score": 0.7371581626286833,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004352.jpg",
+        "logit_yes": 25.734375,
+        "logit_no": 23.40625,
+        "disgusting_score": 0.9111797075998823,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000094.jpg",
+        "logit_yes": 25.5,
+        "logit_no": 24.046875,
+        "disgusting_score": 0.8104789086703224,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000682.jpg",
+        "logit_yes": 25.515625,
+        "logit_no": 23.96875,
+        "disgusting_score": 0.8244619263765706,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004560.jpg",
+        "logit_yes": 23.6875,
+        "logit_no": 24.359375,
+        "disgusting_score": 0.33807712415000585,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "ia_200000496.jpg",
+        "logit_yes": 25.75,
+        "logit_no": 22.984375,
+        "disgusting_score": 0.940789749258714,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000106.jpg",
+        "logit_yes": 25.453125,
+        "logit_no": 24.515625,
+        "disgusting_score": 0.7185943925708562,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000406.jpg",
+        "logit_yes": 26.234375,
+        "logit_no": 23.8125,
+        "disgusting_score": 0.9184802440252811,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000230.jpg",
+        "logit_yes": 26.328125,
+        "logit_no": 23.359375,
+        "disgusting_score": 0.951142221377825,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000018.jpg",
+        "logit_yes": 25.359375,
+        "logit_no": 23.765625,
+        "disgusting_score": 0.8311430478583169,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000641.jpg",
+        "logit_yes": 24.84375,
+        "logit_no": 24.734375,
+        "disgusting_score": 0.5273165233795671,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004427.jpg",
+        "logit_yes": 26.1875,
+        "logit_no": 23.75,
+        "disgusting_score": 0.9196425311777928,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000469.jpg",
+        "logit_yes": 25.3125,
+        "logit_no": 23.25,
+        "disgusting_score": 0.8872045937171067,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000019.jpg",
+        "logit_yes": 25.203125,
+        "logit_no": 24.140625,
+        "disgusting_score": 0.7431680086124812,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004553.jpg",
+        "logit_yes": 25.796875,
+        "logit_no": 24.375,
+        "disgusting_score": 0.8056321889812553,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000750.jpg",
+        "logit_yes": 26.265625,
+        "logit_no": 23.171875,
+        "disgusting_score": 0.9566342012360932,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004346.jpg",
+        "logit_yes": 26.359375,
+        "logit_no": 23.359375,
+        "disgusting_score": 0.9525741268224331,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004369.jpg",
+        "logit_yes": 26.109375,
+        "logit_no": 23.484375,
+        "disgusting_score": 0.9324533088603709,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000652.jpg",
+        "logit_yes": 24.234375,
+        "logit_no": 24.109375,
+        "disgusting_score": 0.5312093733737563,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004473.jpg",
+        "logit_yes": 26.390625,
+        "logit_no": 22.5,
+        "disgusting_score": 0.9799765587105447,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004614.jpg",
+        "logit_yes": 25.21875,
+        "logit_no": 24.703125,
+        "disgusting_score": 0.6261241772283034,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000105.jpg",
+        "logit_yes": 26.046875,
+        "logit_no": 24.03125,
+        "disgusting_score": 0.8824278664544911,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004430.jpeg",
+        "logit_yes": 26.21875,
+        "logit_no": 22.890625,
+        "disgusting_score": 0.9653811611608241,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004442.jpeg",
+        "logit_yes": 25.78125,
+        "logit_no": 23.0625,
+        "disgusting_score": 0.9381240142763574,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000223.jpg",
+        "logit_yes": 25.78125,
+        "logit_no": 23.359375,
+        "disgusting_score": 0.9184802440252811,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004583.jpg",
+        "logit_yes": 26.140625,
+        "logit_no": 22.546875,
+        "disgusting_score": 0.9732407168145568,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000269.jpg",
+        "logit_yes": 25.453125,
+        "logit_no": 24.359375,
+        "disgusting_score": 0.7490872131147276,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004412.jpg",
+        "logit_yes": 24.984375,
+        "logit_no": 23.578125,
+        "disgusting_score": 0.8031737963569016,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000598.jpg",
+        "logit_yes": 25.578125,
+        "logit_no": 23.78125,
+        "disgusting_score": 0.8577681049901037,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000217.jpg",
+        "logit_yes": 26.296875,
+        "logit_no": 23.359375,
+        "disgusting_score": 0.9496693674025232,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004419.jpeg",
+        "logit_yes": 25.890625,
+        "logit_no": 23.578125,
+        "disgusting_score": 0.9099070060380481,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004431.jpg",
+        "logit_yes": 26.296875,
+        "logit_no": 22.9375,
+        "disgusting_score": 0.966410494349896,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000519.jpg",
+        "logit_yes": 24.734375,
+        "logit_no": 24.328125,
+        "disgusting_score": 0.600188359260205,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004602.jpg",
+        "logit_yes": 24.46875,
+        "logit_no": 24.796875,
+        "disgusting_score": 0.4186969093556867,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "ia_200004471.jpg",
+        "logit_yes": 25.109375,
+        "logit_no": 23.96875,
+        "disgusting_score": 0.7577943712746406,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000297.jpg",
+        "logit_yes": 25.25,
+        "logit_no": 23.9375,
+        "disgusting_score": 0.7879311956428946,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004506.jpg",
+        "logit_yes": 26.265625,
+        "logit_no": 23.484375,
+        "disgusting_score": 0.941654159388319,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004433.jpeg",
+        "logit_yes": 25.1875,
+        "logit_no": 24.515625,
+        "disgusting_score": 0.6619228758499941,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004370.jpg",
+        "logit_yes": 26.234375,
+        "logit_no": 22.578125,
+        "disgusting_score": 0.9748211582993981,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000301.jpg",
+        "logit_yes": 25.734375,
+        "logit_no": 23.90625,
+        "disgusting_score": 0.8615382094310355,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004357.jpg",
+        "logit_yes": 26.390625,
+        "logit_no": 22.484375,
+        "disgusting_score": 0.9802808718926533,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004618.jpg",
+        "logit_yes": 26.25,
+        "logit_no": 22.75,
+        "disgusting_score": 0.9706877692486436,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000548.jpg",
+        "logit_yes": 26.390625,
+        "logit_no": 23.375,
+        "disgusting_score": 0.9532750413739076,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004417.jpg",
+        "logit_yes": 26.390625,
+        "logit_no": 23.046875,
+        "disgusting_score": 0.9658995742876885,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000245.jpg",
+        "logit_yes": 25.796875,
+        "logit_no": 23.96875,
+        "disgusting_score": 0.8615382094310355,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000387.jpg",
+        "logit_yes": 26.40625,
+        "logit_no": 23.0,
+        "disgusting_score": 0.9678992932829918,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000248.jpg",
+        "logit_yes": 26.296875,
+        "logit_no": 23.765625,
+        "disgusting_score": 0.9263037302939515,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000741.jpg",
+        "logit_yes": 25.171875,
+        "logit_no": 24.09375,
+        "disgusting_score": 0.7461389930307512,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004422.jpeg",
+        "logit_yes": 25.890625,
+        "logit_no": 24.21875,
+        "disgusting_score": 0.8418256472515683,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000219.jpg",
+        "logit_yes": 25.859375,
+        "logit_no": 23.515625,
+        "disgusting_score": 0.9124361604769414,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004685.jpg",
+        "logit_yes": 24.140625,
+        "logit_no": 24.578125,
+        "disgusting_score": 0.39233683016710835,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "ia_200005061.jpg",
+        "logit_yes": 26.390625,
+        "logit_no": 23.140625,
+        "disgusting_score": 0.9626731126558706,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004591.jpg",
+        "logit_yes": 26.09375,
+        "logit_no": 24.015625,
+        "disgusting_score": 0.8887587934924569,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000085.jpg",
+        "logit_yes": 26.3125,
+        "logit_no": 23.375,
+        "disgusting_score": 0.9496693674025231,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004367.jpg",
+        "logit_yes": 26.125,
+        "logit_no": 23.84375,
+        "disgusting_score": 0.9073122213606241,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200005063.jpg",
+        "logit_yes": 26.4375,
+        "logit_no": 22.625,
+        "disgusting_score": 0.9783846672373524,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000470.jpg",
+        "logit_yes": 26.125,
+        "logit_no": 23.890625,
+        "disgusting_score": 0.9032942067038785,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004361.jpg",
+        "logit_yes": 26.140625,
+        "logit_no": 23.609375,
+        "disgusting_score": 0.9263037302939515,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000497.jpg",
+        "logit_yes": 25.875,
+        "logit_no": 23.140625,
+        "disgusting_score": 0.9390248191350351,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000636.jpg",
+        "logit_yes": 23.875,
+        "logit_no": 24.84375,
+        "disgusting_score": 0.2751297238231752,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "ia_200004568.jpg",
+        "logit_yes": 25.390625,
+        "logit_no": 24.15625,
+        "disgusting_score": 0.7745833841649232,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000231.jpg",
+        "logit_yes": 25.578125,
+        "logit_no": 24.1875,
+        "disgusting_score": 0.8006920020959544,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000092.jpg",
+        "logit_yes": 25.40625,
+        "logit_no": 24.546875,
+        "disgusting_score": 0.7025300573952054,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004514.jpg",
+        "logit_yes": 25.5625,
+        "logit_no": 24.328125,
+        "disgusting_score": 0.7745833841649232,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004527.jpg",
+        "logit_yes": 25.921875,
+        "logit_no": 23.359375,
+        "disgusting_score": 0.9284088005554476,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004584.jpg",
+        "logit_yes": 25.453125,
+        "logit_no": 24.359375,
+        "disgusting_score": 0.7490872131147276,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200005059.jpg",
+        "logit_yes": 26.0,
+        "logit_no": 22.46875,
+        "disgusting_score": 0.9715639669551474,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000224.jpg",
+        "logit_yes": 25.34375,
+        "logit_no": 23.9375,
+        "disgusting_score": 0.8031737963569014,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004362.jpg",
+        "logit_yes": 24.90625,
+        "logit_no": 24.828125,
+        "disgusting_score": 0.519521321952093,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000107.jpg",
+        "logit_yes": 25.8125,
+        "logit_no": 24.0,
+        "disgusting_score": 0.8596637505099167,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000104.jpg",
+        "logit_yes": 26.265625,
+        "logit_no": 23.828125,
+        "disgusting_score": 0.9196425311777929,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000492.jpg",
+        "logit_yes": 26.421875,
+        "logit_no": 22.0,
+        "disgusting_score": 0.9881308789536605,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000311.jpg",
+        "logit_yes": 25.5,
+        "logit_no": 24.375,
+        "disgusting_score": 0.7549149868676283,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004594.jpg",
+        "logit_yes": 24.84375,
+        "logit_no": 24.09375,
+        "disgusting_score": 0.679178699175393,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000391.jpg",
+        "logit_yes": 25.453125,
+        "logit_no": 24.171875,
+        "disgusting_score": 0.7826624789529376,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000227.jpg",
+        "logit_yes": 25.921875,
+        "logit_no": 23.953125,
+        "disgusting_score": 0.8774767874818408,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000593.jpg",
+        "logit_yes": 25.828125,
+        "logit_no": 23.65625,
+        "disgusting_score": 0.8976952921073469,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000033.jpg",
+        "logit_yes": 25.46875,
+        "logit_no": 24.46875,
+        "disgusting_score": 0.7310585786300049,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004387.jpg",
+        "logit_yes": 25.546875,
+        "logit_no": 24.15625,
+        "disgusting_score": 0.8006920020959545,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004401.jpg",
+        "logit_yes": 26.109375,
+        "logit_no": 23.890625,
+        "disgusting_score": 0.90192067652954,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000568.jpg",
+        "logit_yes": 26.015625,
+        "logit_no": 23.1875,
+        "disgusting_score": 0.9441768588653855,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000254.jpg",
+        "logit_yes": 25.859375,
+        "logit_no": 24.390625,
+        "disgusting_score": 0.8128673178375734,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000102.jpg",
+        "logit_yes": 24.921875,
+        "logit_no": 24.65625,
+        "disgusting_score": 0.5660185351961015,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000302.jpg",
+        "logit_yes": 25.5625,
+        "logit_no": 23.484375,
+        "disgusting_score": 0.888758793492457,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004364.jpg",
+        "logit_yes": 24.40625,
+        "logit_no": 24.859375,
+        "disgusting_score": 0.38861802670584894,
+        "disgusting_conclusion": "No"
+    },
+    {
+        "image_name": "ia_200004627.jpg",
+        "logit_yes": 25.34375,
+        "logit_no": 23.796875,
+        "disgusting_score": 0.8244619263765707,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004390.jpg",
+        "logit_yes": 25.484375,
+        "logit_no": 24.4375,
+        "disgusting_score": 0.7401743620390163,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004662.jpeg",
+        "logit_yes": 25.171875,
+        "logit_no": 23.953125,
+        "disgusting_score": 0.7718434978390747,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000250.jpg",
+        "logit_yes": 25.578125,
+        "logit_no": 22.78125,
+        "disgusting_score": 0.9425067211996141,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004588.jpg",
+        "logit_yes": 25.390625,
+        "logit_no": 24.109375,
+        "disgusting_score": 0.7826624789529375,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000051.jpg",
+        "logit_yes": 25.5625,
+        "logit_no": 24.390625,
+        "disgusting_score": 0.7634837635542925,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004416.jpeg",
+        "logit_yes": 24.796875,
+        "logit_no": 24.234375,
+        "disgusting_score": 0.6370307944803831,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000271.jpg",
+        "logit_yes": 25.5625,
+        "logit_no": 24.09375,
+        "disgusting_score": 0.8128673178375735,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000059.jpg",
+        "logit_yes": 26.265625,
+        "logit_no": 23.765625,
+        "disgusting_score": 0.9241418199787564,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000244.jpg",
+        "logit_yes": 26.0625,
+        "logit_no": 23.515625,
+        "disgusting_score": 0.9273632936392131,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004525.jpg",
+        "logit_yes": 25.09375,
+        "logit_no": 24.515625,
+        "disgusting_score": 0.6406358548398979,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004512.jpg",
+        "logit_yes": 26.15625,
+        "logit_no": 23.953125,
+        "disgusting_score": 0.9005297861178929,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004638.jpg",
+        "logit_yes": 24.859375,
+        "logit_no": 23.84375,
+        "disgusting_score": 0.7341195269001831,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004347.jpg",
+        "logit_yes": 25.890625,
+        "logit_no": 23.9375,
+        "disgusting_score": 0.8757869916479466,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000263.jpg",
+        "logit_yes": 24.875,
+        "logit_no": 24.4375,
+        "disgusting_score": 0.6076631698328916,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000321.jpg",
+        "logit_yes": 26.109375,
+        "logit_no": 23.46875,
+        "disgusting_score": 0.9334308110294984,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004515.jpg",
+        "logit_yes": 25.9375,
+        "logit_no": 23.90625,
+        "disgusting_score": 0.8840392817460332,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004517.jpg",
+        "logit_yes": 25.21875,
+        "logit_no": 23.953125,
+        "disgusting_score": 0.7799929002541068,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000287.jpg",
+        "logit_yes": 26.1875,
+        "logit_no": 23.203125,
+        "disgusting_score": 0.9518632288833652,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004418.jpg",
+        "logit_yes": 26.5625,
+        "logit_no": 23.265625,
+        "disgusting_score": 0.9643214491222695,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000253.jpg",
+        "logit_yes": 25.734375,
+        "logit_no": 23.90625,
+        "disgusting_score": 0.8615382094310355,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000285.jpg",
+        "logit_yes": 25.71875,
+        "logit_no": 23.5625,
+        "disgusting_score": 0.8962513731336204,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000172.jpg",
+        "logit_yes": 26.484375,
+        "logit_no": 22.40625,
+        "disgusting_score": 0.983342959990771,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004550.jpg",
+        "logit_yes": 24.59375,
+        "logit_no": 24.390625,
+        "disgusting_score": 0.5506073655352403,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000065.jpg",
+        "logit_yes": 26.078125,
+        "logit_no": 23.953125,
+        "disgusting_score": 0.8933094060543487,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_400000303.jpg",
+        "logit_yes": 25.421875,
+        "logit_no": 24.015625,
+        "disgusting_score": 0.8031737963569016,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_600000059.jpg",
+        "logit_yes": 26.1875,
+        "logit_no": 23.75,
+        "disgusting_score": 0.9196425311777928,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200000204.jpg",
+        "logit_yes": 25.921875,
+        "logit_no": 23.859375,
+        "disgusting_score": 0.8872045937171067,
+        "disgusting_conclusion": "Yes"
+    },
+    {
+        "image_name": "ia_200004603.jpg",
+        "logit_yes": 26.03125,
+        "logit_no": 24.21875,
+        "disgusting_score": 0.8596637505099168,
+        "disgusting_conclusion": "Yes"
+    }
+]

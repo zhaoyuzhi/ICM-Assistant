@@ -1,0 +1,6169 @@
+[
+    {
+        "image_name": "not-gambing_00002678.jpg",
+        "logit_yes": 21.234375,
+        "logit_no": 26.21875,
+        "gambing_score": 0.006797531550373378,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002548.jpg",
+        "logit_yes": 21.390625,
+        "logit_no": 25.96875,
+        "gambing_score": 0.010169657753872614,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002472.jpg",
+        "logit_yes": 21.640625,
+        "logit_no": 26.53125,
+        "gambing_score": 0.007460643463940166,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002455.jpg",
+        "logit_yes": 24.203125,
+        "logit_no": 25.515625,
+        "gambing_score": 0.21206880435710534,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002564.jpg",
+        "logit_yes": 21.859375,
+        "logit_no": 26.15625,
+        "gambing_score": 0.013428254741968518,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002309.jpg",
+        "logit_yes": 21.890625,
+        "logit_no": 26.34375,
+        "gambing_score": 0.011508149064303403,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002380.jpg",
+        "logit_yes": 21.875,
+        "logit_no": 26.328125,
+        "gambing_score": 0.011508149064303405,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002645.jpg",
+        "logit_yes": 22.078125,
+        "logit_no": 26.125,
+        "gambing_score": 0.017176709012318405,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002532.jpg",
+        "logit_yes": 22.09375,
+        "logit_no": 26.265625,
+        "gambing_score": 0.01518904880798395,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002405.jpg",
+        "logit_yes": 22.375,
+        "logit_no": 26.6875,
+        "gambing_score": 0.013222821752305148,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002630.jpg",
+        "logit_yes": 21.53125,
+        "logit_no": 26.125,
+        "gambing_score": 0.010013570623173134,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002402.jpg",
+        "logit_yes": 22.34375,
+        "logit_no": 26.15625,
+        "gambing_score": 0.02161533276264765,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002527.jpg",
+        "logit_yes": 22.578125,
+        "logit_no": 26.59375,
+        "gambing_score": 0.01771229870341145,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002801.jpg",
+        "logit_yes": 22.40625,
+        "logit_no": 25.984375,
+        "gambing_score": 0.02716923153568105,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002582.jpg",
+        "logit_yes": 22.265625,
+        "logit_no": 26.171875,
+        "gambing_score": 0.019719128107346592,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002544.jpg",
+        "logit_yes": 22.046875,
+        "logit_no": 25.890625,
+        "gambing_score": 0.020964240818127502,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002292.jpg",
+        "logit_yes": 22.3125,
+        "logit_no": 25.90625,
+        "gambing_score": 0.026759283185443145,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002786.jpg",
+        "logit_yes": 21.890625,
+        "logit_no": 25.90625,
+        "gambing_score": 0.017712298703411445,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002344.jpg",
+        "logit_yes": 22.0625,
+        "logit_no": 26.484375,
+        "gambing_score": 0.011869121046339475,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002508.jpg",
+        "logit_yes": 22.53125,
+        "logit_no": 26.5625,
+        "gambing_score": 0.01744248473620534,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002790.jpg",
+        "logit_yes": 21.765625,
+        "logit_no": 26.46875,
+        "gambing_score": 0.008985428752560174,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002654.jpg",
+        "logit_yes": 22.109375,
+        "logit_no": 26.40625,
+        "gambing_score": 0.01342825474196852,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002262.jpg",
+        "logit_yes": 22.265625,
+        "logit_no": 26.296875,
+        "gambing_score": 0.01744248473620534,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002798.jpg",
+        "logit_yes": 21.703125,
+        "logit_no": 26.640625,
+        "gambing_score": 0.0071214287457350995,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002663.jpg",
+        "logit_yes": 22.203125,
+        "logit_no": 26.140625,
+        "gambing_score": 0.019124036750888907,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002304.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 26.15625,
+        "gambing_score": 0.012624949281564409,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002543.jpg",
+        "logit_yes": 21.921875,
+        "logit_no": 25.875,
+        "gambing_score": 0.018833129890434692,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002830.jpg",
+        "logit_yes": 21.90625,
+        "logit_no": 26.25,
+        "gambing_score": 0.012821214266594242,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002373.jpg",
+        "logit_yes": 22.234375,
+        "logit_no": 26.09375,
+        "gambing_score": 0.020645930739218447,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002360.jpg",
+        "logit_yes": 22.5,
+        "logit_no": 26.390625,
+        "gambing_score": 0.020023441289455244,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002872.jpg",
+        "logit_yes": 22.46875,
+        "logit_no": 26.265625,
+        "gambing_score": 0.02194825371486785,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002662.jpg",
+        "logit_yes": 22.75,
+        "logit_no": 25.125,
+        "gambing_score": 0.08509904500702024,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002384.jpg",
+        "logit_yes": 22.546875,
+        "logit_no": 26.25,
+        "gambing_score": 0.024053552894426178,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002474.jpg",
+        "logit_yes": 22.03125,
+        "logit_no": 26.765625,
+        "gambing_score": 0.008711384457705506,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002877.jpg",
+        "logit_yes": 22.046875,
+        "logit_no": 26.8125,
+        "gambing_score": 0.008445626941126032,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002677.jpg",
+        "logit_yes": 22.40625,
+        "logit_no": 26.390625,
+        "gambing_score": 0.018264278351857014,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002458.jpg",
+        "logit_yes": 22.34375,
+        "logit_no": 26.765625,
+        "gambing_score": 0.011869121046339474,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002272.jpg",
+        "logit_yes": 21.90625,
+        "logit_no": 26.515625,
+        "gambing_score": 0.009859855303538789,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002626.jpg",
+        "logit_yes": 21.78125,
+        "logit_no": 26.625,
+        "gambing_score": 0.007815888789288626,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002503.jpg",
+        "logit_yes": 23.203125,
+        "logit_no": 26.296875,
+        "gambing_score": 0.04336579876390677,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002818.jpg",
+        "logit_yes": 22.40625,
+        "logit_no": 26.359375,
+        "gambing_score": 0.018833129890434692,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002729.jpg",
+        "logit_yes": 22.140625,
+        "logit_no": 26.390625,
+        "gambing_score": 0.014063627043245475,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002393.jpg",
+        "logit_yes": 22.21875,
+        "logit_no": 26.265625,
+        "gambing_score": 0.017176709012318405,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002355.jpg",
+        "logit_yes": 23.484375,
+        "logit_no": 26.46875,
+        "gambing_score": 0.0481367711166348,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002690.jpg",
+        "logit_yes": 22.34375,
+        "logit_no": 26.625,
+        "gambing_score": 0.013636835281429878,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002280.jpg",
+        "logit_yes": 22.265625,
+        "logit_no": 26.34375,
+        "gambing_score": 0.01665704000922906,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002243.jpg",
+        "logit_yes": 22.53125,
+        "logit_no": 26.5,
+        "gambing_score": 0.0185465645121173,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002281.jpg",
+        "logit_yes": 22.640625,
+        "logit_no": 26.6875,
+        "gambing_score": 0.017176709012318405,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002761.jpg",
+        "logit_yes": 21.96875,
+        "logit_no": 26.328125,
+        "gambing_score": 0.012624949281564407,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002433.jpg",
+        "logit_yes": 22.828125,
+        "logit_no": 26.65625,
+        "gambing_score": 0.021287351793451054,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002787.jpg",
+        "logit_yes": 22.84375,
+        "logit_no": 26.140625,
+        "gambing_score": 0.035678550877730524,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002450.jpg",
+        "logit_yes": 22.046875,
+        "logit_no": 26.453125,
+        "gambing_score": 0.012053779516236445,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002661.jpg",
+        "logit_yes": 21.28125,
+        "logit_no": 26.171875,
+        "gambing_score": 0.007460643463940165,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002354.jpg",
+        "logit_yes": 23.0625,
+        "logit_no": 26.109375,
+        "gambing_score": 0.045352580554306424,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002538.jpg",
+        "logit_yes": 22.15625,
+        "logit_no": 26.03125,
+        "gambing_score": 0.020332353342658756,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002378.jpg",
+        "logit_yes": 22.171875,
+        "logit_no": 26.265625,
+        "gambing_score": 0.016403032516163058,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002571.jpg",
+        "logit_yes": 21.953125,
+        "logit_no": 26.265625,
+        "gambing_score": 0.01322282175230515,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002596.jpg",
+        "logit_yes": 21.25,
+        "logit_no": 25.953125,
+        "gambing_score": 0.008985428752560174,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002657.jpg",
+        "logit_yes": 22.46875,
+        "logit_no": 26.5625,
+        "gambing_score": 0.016403032516163058,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002388.jpg",
+        "logit_yes": 21.640625,
+        "logit_no": 26.3125,
+        "gambing_score": 0.009268013380914325,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002529.jpg",
+        "logit_yes": 23.046875,
+        "logit_no": 26.125,
+        "gambing_score": 0.044018649862946374,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002362.jpg",
+        "logit_yes": 21.5,
+        "logit_no": 26.140625,
+        "gambing_score": 0.00955939934709153,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002841.jpg",
+        "logit_yes": 22.015625,
+        "logit_no": 26.65625,
+        "gambing_score": 0.00955939934709153,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002703.jpg",
+        "logit_yes": 22.5,
+        "logit_no": 26.4375,
+        "gambing_score": 0.019124036750888904,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002252.jpg",
+        "logit_yes": 21.328125,
+        "logit_no": 26.078125,
+        "gambing_score": 0.008577485413711982,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002609.jpg",
+        "logit_yes": 21.421875,
+        "logit_no": 25.953125,
+        "gambing_score": 0.010652510839726166,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002350.jpg",
+        "logit_yes": 22.3125,
+        "logit_no": 26.390625,
+        "gambing_score": 0.01665704000922906,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002606.jpg",
+        "logit_yes": 22.453125,
+        "logit_no": 26.15625,
+        "gambing_score": 0.024053552894426178,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002512.jpg",
+        "logit_yes": 21.90625,
+        "logit_no": 26.421875,
+        "gambing_score": 0.010818448652863185,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002826.jpg",
+        "logit_yes": 22.390625,
+        "logit_no": 26.375,
+        "gambing_score": 0.01826427835185701,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002284.jpg",
+        "logit_yes": 23.78125,
+        "logit_no": 25.578125,
+        "gambing_score": 0.14223189500989636,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002310.jpg",
+        "logit_yes": 21.96875,
+        "logit_no": 26.15625,
+        "gambing_score": 0.014957086593149989,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002874.jpg",
+        "logit_yes": 21.734375,
+        "logit_no": 26.40625,
+        "gambing_score": 0.009268013380914326,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002577.jpg",
+        "logit_yes": 21.4375,
+        "logit_no": 26.21875,
+        "gambing_score": 0.008315778477474129,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002652.jpg",
+        "logit_yes": 21.640625,
+        "logit_no": 26.5,
+        "gambing_score": 0.00769564717839219,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002255.jpg",
+        "logit_yes": 21.921875,
+        "logit_no": 26.015625,
+        "gambing_score": 0.016403032516163055,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002555.jpg",
+        "logit_yes": 21.921875,
+        "logit_no": 26.0625,
+        "gambing_score": 0.01566364871166832,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002297.jpg",
+        "logit_yes": 21.8125,
+        "logit_no": 26.40625,
+        "gambing_score": 0.010013570623173134,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002484.jpg",
+        "logit_yes": 22.484375,
+        "logit_no": 26.203125,
+        "gambing_score": 0.023689471299374428,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002305.jpg",
+        "logit_yes": 22.671875,
+        "logit_no": 26.15625,
+        "gambing_score": 0.02976009394596422,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002406.jpg",
+        "logit_yes": 22.625,
+        "logit_no": 26.46875,
+        "gambing_score": 0.020964240818127502,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002551.jpg",
+        "logit_yes": 22.078125,
+        "logit_no": 26.15625,
+        "gambing_score": 0.01665704000922906,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002368.jpg",
+        "logit_yes": 23.65625,
+        "logit_no": 25.4375,
+        "gambing_score": 0.14414885303274058,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002776.jpg",
+        "logit_yes": 21.40625,
+        "logit_no": 25.984375,
+        "gambing_score": 0.010169657753872614,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002680.jpg",
+        "logit_yes": 21.921875,
+        "logit_no": 26.25,
+        "gambing_score": 0.013020490113842823,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002410.jpg",
+        "logit_yes": 21.78125,
+        "logit_no": 26.328125,
+        "gambing_score": 0.010489091259938016,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002725.jpg",
+        "logit_yes": 21.421875,
+        "logit_no": 26.234375,
+        "gambing_score": 0.008061991528271641,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002282.jpg",
+        "logit_yes": 22.1875,
+        "logit_no": 26.375,
+        "gambing_score": 0.014957086593149985,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002674.jpg",
+        "logit_yes": 21.734375,
+        "logit_no": 26.21875,
+        "gambing_score": 0.011158031248084035,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002345.jpg",
+        "logit_yes": 22.078125,
+        "logit_no": 26.5,
+        "gambing_score": 0.011869121046339477,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002251.jpg",
+        "logit_yes": 21.9375,
+        "logit_no": 26.015625,
+        "gambing_score": 0.01665704000922906,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002598.jpg",
+        "logit_yes": 21.640625,
+        "logit_no": 26.015625,
+        "gambing_score": 0.012431650853185818,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002514.jpg",
+        "logit_yes": 21.875,
+        "logit_no": 26.328125,
+        "gambing_score": 0.011508149064303405,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002642.jpg",
+        "logit_yes": 21.75,
+        "logit_no": 26.09375,
+        "gambing_score": 0.012821214266594244,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002843.jpg",
+        "logit_yes": 22.875,
+        "logit_no": 26.453125,
+        "gambing_score": 0.027169231535681047,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002371.jpg",
+        "logit_yes": 23.78125,
+        "logit_no": 25.34375,
+        "gambing_score": 0.1732882059293266,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002683.jpg",
+        "logit_yes": 21.890625,
+        "logit_no": 26.328125,
+        "gambing_score": 0.011687257995694434,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002731.jpg",
+        "logit_yes": 21.734375,
+        "logit_no": 26.5625,
+        "gambing_score": 0.00793799410140732,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002633.jpg",
+        "logit_yes": 22.171875,
+        "logit_no": 26.375,
+        "gambing_score": 0.014728613849722674,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002560.jpg",
+        "logit_yes": 21.734375,
+        "logit_no": 25.984375,
+        "gambing_score": 0.014063627043245475,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002491.jpg",
+        "logit_yes": 22.234375,
+        "logit_no": 25.5,
+        "gambing_score": 0.036769466075598736,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002574.jpg",
+        "logit_yes": 22.390625,
+        "logit_no": 26.3125,
+        "gambing_score": 0.019419348182448604,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002844.jpg",
+        "logit_yes": 22.875,
+        "logit_no": 26.84375,
+        "gambing_score": 0.018546564512117298,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002400.jpg",
+        "logit_yes": 22.421875,
+        "logit_no": 26.234375,
+        "gambing_score": 0.02161533276264765,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002705.jpg",
+        "logit_yes": 21.515625,
+        "logit_no": 26.40625,
+        "gambing_score": 0.007460643463940164,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002568.jpg",
+        "logit_yes": 22.171875,
+        "logit_no": 26.09375,
+        "gambing_score": 0.019419348182448608,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002461.jpg",
+        "logit_yes": 22.28125,
+        "logit_no": 26.796875,
+        "gambing_score": 0.010818448652863187,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002691.jpg",
+        "logit_yes": 21.328125,
+        "logit_no": 26.328125,
+        "gambing_score": 0.006692850924284855,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002702.jpg",
+        "logit_yes": 21.890625,
+        "logit_no": 26.109375,
+        "gambing_score": 0.01450357969138198,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002291.jpg",
+        "logit_yes": 22.59375,
+        "logit_no": 26.34375,
+        "gambing_score": 0.022977369910025615,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002395.jpg",
+        "logit_yes": 22.453125,
+        "logit_no": 26.375,
+        "gambing_score": 0.0194193481824486,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002851.jpg",
+        "logit_yes": 21.296875,
+        "logit_no": 25.875,
+        "gambing_score": 0.010169657753872614,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002824.jpg",
+        "logit_yes": 22.21875,
+        "logit_no": 26.296875,
+        "gambing_score": 0.01665704000922906,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002617.jpg",
+        "logit_yes": 22.90625,
+        "logit_no": 26.203125,
+        "gambing_score": 0.03567855087773052,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002470.jpg",
+        "logit_yes": 21.921875,
+        "logit_no": 26.171875,
+        "gambing_score": 0.014063627043245474,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002445.jpg",
+        "logit_yes": 21.734375,
+        "logit_no": 26.359375,
+        "gambing_score": 0.009708476481474066,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002595.jpg",
+        "logit_yes": 22.15625,
+        "logit_no": 26.03125,
+        "gambing_score": 0.020332353342658756,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002760.jpg",
+        "logit_yes": 21.78125,
+        "logit_no": 26.0625,
+        "gambing_score": 0.013636835281429874,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002314.jpg",
+        "logit_yes": 22.171875,
+        "logit_no": 26.671875,
+        "gambing_score": 0.010986942630593181,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002489.jpg",
+        "logit_yes": 22.96875,
+        "logit_no": 26.15625,
+        "gambing_score": 0.03963883910097002,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002303.jpg",
+        "logit_yes": 22.765625,
+        "logit_no": 26.109375,
+        "gambing_score": 0.03410042571231152,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002524.jpg",
+        "logit_yes": 21.953125,
+        "logit_no": 26.078125,
+        "gambing_score": 0.01590639171181471,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002239.jpg",
+        "logit_yes": 23.71875,
+        "logit_no": 25.765625,
+        "gambing_score": 0.11436852618181245,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002651.jpg",
+        "logit_yes": 21.640625,
+        "logit_no": 26.265625,
+        "gambing_score": 0.009708476481474068,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002376.jpg",
+        "logit_yes": 22.375,
+        "logit_no": 26.09375,
+        "gambing_score": 0.023689471299374428,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002807.jpg",
+        "logit_yes": 23.40625,
+        "logit_no": 25.859375,
+        "gambing_score": 0.07921032410902436,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002692.jpg",
+        "logit_yes": 21.703125,
+        "logit_no": 26.1875,
+        "gambing_score": 0.011158031248084035,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002275.jpg",
+        "logit_yes": 22.234375,
+        "logit_no": 26.375,
+        "gambing_score": 0.015663648711668324,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002447.jpg",
+        "logit_yes": 22.078125,
+        "logit_no": 26.484375,
+        "gambing_score": 0.012053779516236448,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002656.jpg",
+        "logit_yes": 21.21875,
+        "logit_no": 25.984375,
+        "gambing_score": 0.008445626941126032,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002658.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 26.234375,
+        "gambing_score": 0.011687257995694433,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002328.jpg",
+        "logit_yes": 22.890625,
+        "logit_no": 25.90625,
+        "gambing_score": 0.04672495862609241,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002242.jpg",
+        "logit_yes": 23.21875,
+        "logit_no": 26.421875,
+        "gambing_score": 0.03904829272622639,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002422.jpg",
+        "logit_yes": 22.34375,
+        "logit_no": 26.328125,
+        "gambing_score": 0.01826427835185701,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002335.jpg",
+        "logit_yes": 22.53125,
+        "logit_no": 26.203125,
+        "gambing_score": 0.024798160195585655,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002481.jpg",
+        "logit_yes": 23.046875,
+        "logit_no": 26.078125,
+        "gambing_score": 0.04603390239924037,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002777.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 26.171875,
+        "gambing_score": 0.01243165085318582,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002519.jpg",
+        "logit_yes": 21.890625,
+        "logit_no": 26.171875,
+        "gambing_score": 0.013636835281429878,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002482.jpg",
+        "logit_yes": 22.34375,
+        "logit_no": 26.34375,
+        "gambing_score": 0.01798620996209156,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002638.jpg",
+        "logit_yes": 22.03125,
+        "logit_no": 26.609375,
+        "gambing_score": 0.010169657753872612,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002273.jpg",
+        "logit_yes": 21.40625,
+        "logit_no": 26.078125,
+        "gambing_score": 0.009268013380914325,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002789.jpg",
+        "logit_yes": 22.453125,
+        "logit_no": 26.5,
+        "gambing_score": 0.01717670901231841,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002347.jpg",
+        "logit_yes": 22.125,
+        "logit_no": 26.15625,
+        "gambing_score": 0.017442484736205337,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002757.jpg",
+        "logit_yes": 21.0,
+        "logit_no": 25.765625,
+        "gambing_score": 0.008445626941126032,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002483.jpg",
+        "logit_yes": 23.265625,
+        "logit_no": 25.84375,
+        "gambing_score": 0.07055959618729296,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002679.jpg",
+        "logit_yes": 22.59375,
+        "logit_no": 26.546875,
+        "gambing_score": 0.018833129890434692,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002542.jpg",
+        "logit_yes": 21.28125,
+        "logit_no": 26.015625,
+        "gambing_score": 0.008711384457705506,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002473.jpg",
+        "logit_yes": 21.671875,
+        "logit_no": 26.265625,
+        "gambing_score": 0.010013570623173136,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002506.jpg",
+        "logit_yes": 22.828125,
+        "logit_no": 26.3125,
+        "gambing_score": 0.02976009394596422,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002294.jpg",
+        "logit_yes": 22.0,
+        "logit_no": 26.15625,
+        "gambing_score": 0.015424552081841137,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002469.jpg",
+        "logit_yes": 21.96875,
+        "logit_no": 26.4375,
+        "gambing_score": 0.011331753531361455,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002507.jpg",
+        "logit_yes": 23.375,
+        "logit_no": 26.09375,
+        "gambing_score": 0.061875985723642724,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002476.jpg",
+        "logit_yes": 22.21875,
+        "logit_no": 26.296875,
+        "gambing_score": 0.01665704000922906,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002737.jpg",
+        "logit_yes": 22.09375,
+        "logit_no": 25.984375,
+        "gambing_score": 0.020023441289455247,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002850.jpg",
+        "logit_yes": 24.078125,
+        "logit_no": 24.875,
+        "gambing_score": 0.31069438321455395,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002715.jpg",
+        "logit_yes": 23.59375,
+        "logit_no": 25.484375,
+        "gambing_score": 0.13117322376181567,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002871.jpg",
+        "logit_yes": 22.59375,
+        "logit_no": 26.15625,
+        "gambing_score": 0.027585282226789992,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002740.jpg",
+        "logit_yes": 22.5625,
+        "logit_no": 26.34375,
+        "gambing_score": 0.022286185539225498,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002861.jpg",
+        "logit_yes": 22.15625,
+        "logit_no": 26.28125,
+        "gambing_score": 0.015906391711814714,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002236.jpg",
+        "logit_yes": 21.65625,
+        "logit_no": 26.25,
+        "gambing_score": 0.010013570623173138,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002510.jpg",
+        "logit_yes": 22.328125,
+        "logit_no": 26.0625,
+        "gambing_score": 0.023330768808480486,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002612.jpg",
+        "logit_yes": 22.734375,
+        "logit_no": 26.640625,
+        "gambing_score": 0.01971912810734659,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002361.jpg",
+        "logit_yes": 22.671875,
+        "logit_no": 26.046875,
+        "gambing_score": 0.03308597838870413,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002258.jpg",
+        "logit_yes": 22.390625,
+        "logit_no": 26.3125,
+        "gambing_score": 0.019419348182448604,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002485.jpg",
+        "logit_yes": 22.703125,
+        "logit_no": 26.296875,
+        "gambing_score": 0.02675928318544315,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002836.jpg",
+        "logit_yes": 23.015625,
+        "logit_no": 26.03125,
+        "gambing_score": 0.046724958626092404,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002846.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 26.453125,
+        "gambing_score": 0.009412589587609823,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002316.jpg",
+        "logit_yes": 22.625,
+        "logit_no": 26.28125,
+        "gambing_score": 0.025178841700601855,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002287.jpg",
+        "logit_yes": 22.21875,
+        "logit_no": 26.046875,
+        "gambing_score": 0.021287351793451054,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002444.jpg",
+        "logit_yes": 22.34375,
+        "logit_no": 26.484375,
+        "gambing_score": 0.015663648711668324,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002424.jpg",
+        "logit_yes": 22.671875,
+        "logit_no": 26.40625,
+        "gambing_score": 0.02333076880848049,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002668.jpg",
+        "logit_yes": 22.375,
+        "logit_no": 26.328125,
+        "gambing_score": 0.018833129890434692,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002306.jpg",
+        "logit_yes": 21.546875,
+        "logit_no": 26.1875,
+        "gambing_score": 0.009559399347091532,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002775.jpg",
+        "logit_yes": 22.5625,
+        "logit_no": 26.390625,
+        "gambing_score": 0.021287351793451054,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002385.jpg",
+        "logit_yes": 22.046875,
+        "logit_no": 26.171875,
+        "gambing_score": 0.015906391711814714,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002270.jpg",
+        "logit_yes": 22.359375,
+        "logit_no": 26.125,
+        "gambing_score": 0.022629200033037256,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002754.jpg",
+        "logit_yes": 22.359375,
+        "logit_no": 26.25,
+        "gambing_score": 0.020023441289455247,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002730.jpg",
+        "logit_yes": 21.8125,
+        "logit_no": 26.484375,
+        "gambing_score": 0.009268013380914325,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002566.jpg",
+        "logit_yes": 22.421875,
+        "logit_no": 26.375,
+        "gambing_score": 0.01883312989043469,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002488.jpg",
+        "logit_yes": 22.9375,
+        "logit_no": 26.09375,
+        "gambing_score": 0.040845715909949315,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002295.jpg",
+        "logit_yes": 21.78125,
+        "logit_no": 26.03125,
+        "gambing_score": 0.014063627043245472,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002247.jpg",
+        "logit_yes": 21.671875,
+        "logit_no": 26.078125,
+        "gambing_score": 0.012053779516236445,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002641.jpg",
+        "logit_yes": 21.3125,
+        "logit_no": 26.1875,
+        "gambing_score": 0.00757724126786081,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002300.jpg",
+        "logit_yes": 22.390625,
+        "logit_no": 25.9375,
+        "gambing_score": 0.02800752060598814,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002771.jpg",
+        "logit_yes": 21.671875,
+        "logit_no": 26.109375,
+        "gambing_score": 0.011687257995694434,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002392.jpg",
+        "logit_yes": 22.015625,
+        "logit_no": 26.5,
+        "gambing_score": 0.011158031248084033,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002565.jpg",
+        "logit_yes": 22.46875,
+        "logit_no": 26.359375,
+        "gambing_score": 0.020023441289455247,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002263.jpg",
+        "logit_yes": 21.765625,
+        "logit_no": 26.25,
+        "gambing_score": 0.011158031248084035,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002586.jpg",
+        "logit_yes": 22.484375,
+        "logit_no": 26.0625,
+        "gambing_score": 0.027169231535681047,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002290.jpg",
+        "logit_yes": 21.828125,
+        "logit_no": 25.921875,
+        "gambing_score": 0.016403032516163055,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002339.jpg",
+        "logit_yes": 22.578125,
+        "logit_no": 26.78125,
+        "gambing_score": 0.014728613849722676,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002644.jpg",
+        "logit_yes": 22.46875,
+        "logit_no": 26.1875,
+        "gambing_score": 0.023689471299374428,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002628.jpg",
+        "logit_yes": 22.375,
+        "logit_no": 26.546875,
+        "gambing_score": 0.015189048807983949,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002828.jpg",
+        "logit_yes": 21.578125,
+        "logit_no": 26.296875,
+        "gambing_score": 0.008847355082930386,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002675.jpg",
+        "logit_yes": 22.1875,
+        "logit_no": 25.65625,
+        "gambing_score": 0.030214587067393977,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002810.jpg",
+        "logit_yes": 21.78125,
+        "logit_no": 26.15625,
+        "gambing_score": 0.012431650853185818,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002372.jpg",
+        "logit_yes": 21.34375,
+        "logit_no": 26.09375,
+        "gambing_score": 0.008577485413711984,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002684.jpg",
+        "logit_yes": 21.625,
+        "logit_no": 26.21875,
+        "gambing_score": 0.010013570623173136,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002260.jpg",
+        "logit_yes": 21.59375,
+        "logit_no": 26.203125,
+        "gambing_score": 0.009859855303538787,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002750.jpg",
+        "logit_yes": 21.078125,
+        "logit_no": 25.671875,
+        "gambing_score": 0.010013570623173136,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002336.jpg",
+        "logit_yes": 22.171875,
+        "logit_no": 26.34375,
+        "gambing_score": 0.01518904880798395,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002669.jpg",
+        "logit_yes": 22.34375,
+        "logit_no": 26.21875,
+        "gambing_score": 0.020332353342658753,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002288.jpg",
+        "logit_yes": 22.03125,
+        "logit_no": 26.125,
+        "gambing_score": 0.016403032516163055,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002697.jpg",
+        "logit_yes": 21.890625,
+        "logit_no": 26.84375,
+        "gambing_score": 0.007011795381497108,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002253.jpg",
+        "logit_yes": 22.359375,
+        "logit_no": 26.234375,
+        "gambing_score": 0.020332353342658753,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002829.jpg",
+        "logit_yes": 21.765625,
+        "logit_no": 26.203125,
+        "gambing_score": 0.011687257995694434,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002312.jpg",
+        "logit_yes": 21.515625,
+        "logit_no": 26.234375,
+        "gambing_score": 0.008847355082930384,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002540.jpg",
+        "logit_yes": 22.390625,
+        "logit_no": 25.90625,
+        "gambing_score": 0.028870906946287907,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002379.jpg",
+        "logit_yes": 21.984375,
+        "logit_no": 26.359375,
+        "gambing_score": 0.012431650853185818,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002738.jpg",
+        "logit_yes": 22.046875,
+        "logit_no": 26.375,
+        "gambing_score": 0.013020490113842821,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002468.jpg",
+        "logit_yes": 22.25,
+        "logit_no": 26.46875,
+        "gambing_score": 0.014503579691381979,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002601.jpg",
+        "logit_yes": 22.140625,
+        "logit_no": 26.359375,
+        "gambing_score": 0.014503579691381977,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002838.jpg",
+        "logit_yes": 21.671875,
+        "logit_no": 25.9375,
+        "gambing_score": 0.013848610215564576,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002799.jpg",
+        "logit_yes": 21.53125,
+        "logit_no": 25.84375,
+        "gambing_score": 0.013222821752305146,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002719.jpg",
+        "logit_yes": 21.84375,
+        "logit_no": 26.34375,
+        "gambing_score": 0.010986942630593181,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002623.jpg",
+        "logit_yes": 22.0625,
+        "logit_no": 26.421875,
+        "gambing_score": 0.012624949281564409,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002647.jpg",
+        "logit_yes": 21.5,
+        "logit_no": 26.4375,
+        "gambing_score": 0.007121428745735101,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002321.jpg",
+        "logit_yes": 22.53125,
+        "logit_no": 26.46875,
+        "gambing_score": 0.019124036750888904,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002334.jpg",
+        "logit_yes": 21.984375,
+        "logit_no": 26.40625,
+        "gambing_score": 0.011869121046339475,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002597.jpg",
+        "logit_yes": 22.203125,
+        "logit_no": 26.1875,
+        "gambing_score": 0.018264278351857014,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002401.jpg",
+        "logit_yes": 22.484375,
+        "logit_no": 26.328125,
+        "gambing_score": 0.0209642408181275,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002426.jpg",
+        "logit_yes": 22.359375,
+        "logit_no": 26.28125,
+        "gambing_score": 0.019419348182448604,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002637.jpg",
+        "logit_yes": 21.296875,
+        "logit_no": 26.25,
+        "gambing_score": 0.007011795381497107,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002795.jpg",
+        "logit_yes": 22.515625,
+        "logit_no": 26.578125,
+        "gambing_score": 0.01691491326672651,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002332.jpg",
+        "logit_yes": 22.140625,
+        "logit_no": 26.640625,
+        "gambing_score": 0.01098694263059318,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002814.jpg",
+        "logit_yes": 22.09375,
+        "logit_no": 26.25,
+        "gambing_score": 0.015424552081841137,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002466.jpg",
+        "logit_yes": 22.8125,
+        "logit_no": 26.65625,
+        "gambing_score": 0.020964240818127502,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002619.jpg",
+        "logit_yes": 22.625,
+        "logit_no": 26.578125,
+        "gambing_score": 0.018833129890434695,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002806.jpg",
+        "logit_yes": 21.578125,
+        "logit_no": 26.3125,
+        "gambing_score": 0.008711384457705508,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002700.jpg",
+        "logit_yes": 21.46875,
+        "logit_no": 26.140625,
+        "gambing_score": 0.009268013380914326,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002390.jpg",
+        "logit_yes": 21.453125,
+        "logit_no": 26.359375,
+        "gambing_score": 0.007345826574477061,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002653.jpg",
+        "logit_yes": 21.328125,
+        "logit_no": 25.984375,
+        "gambing_score": 0.009412589587609823,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002245.jpg",
+        "logit_yes": 22.46875,
+        "logit_no": 26.5625,
+        "gambing_score": 0.016403032516163058,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002665.jpg",
+        "logit_yes": 21.609375,
+        "logit_no": 26.203125,
+        "gambing_score": 0.010013570623173138,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002762.jpg",
+        "logit_yes": 24.09375,
+        "logit_no": 25.640625,
+        "gambing_score": 0.17553807362342932,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002620.jpg",
+        "logit_yes": 22.84375,
+        "logit_no": 26.390625,
+        "gambing_score": 0.028007520605988136,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002387.jpg",
+        "logit_yes": 22.125,
+        "logit_no": 26.265625,
+        "gambing_score": 0.015663648711668324,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002604.jpg",
+        "logit_yes": 21.75,
+        "logit_no": 26.09375,
+        "gambing_score": 0.012821214266594244,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002246.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 26.078125,
+        "gambing_score": 0.013636835281429876,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002667.jpg",
+        "logit_yes": 21.546875,
+        "logit_no": 26.140625,
+        "gambing_score": 0.010013570623173136,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002820.jpg",
+        "logit_yes": 22.953125,
+        "logit_no": 26.375,
+        "gambing_score": 0.03161876726864548,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002699.jpg",
+        "logit_yes": 21.875,
+        "logit_no": 25.734375,
+        "gambing_score": 0.020645930739218447,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002825.jpg",
+        "logit_yes": 22.328125,
+        "logit_no": 25.9375,
+        "gambing_score": 0.026355352846119753,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002813.jpg",
+        "logit_yes": 21.3125,
+        "logit_no": 26.15625,
+        "gambing_score": 0.007815888789288626,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002518.jpg",
+        "logit_yes": 23.03125,
+        "logit_no": 26.390625,
+        "gambing_score": 0.033589505650103976,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002815.jpg",
+        "logit_yes": 23.15625,
+        "logit_no": 26.1875,
+        "gambing_score": 0.04603390239924038,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002502.jpg",
+        "logit_yes": 21.75,
+        "logit_no": 26.328125,
+        "gambing_score": 0.010169657753872612,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002432.jpg",
+        "logit_yes": 22.53125,
+        "logit_no": 26.25,
+        "gambing_score": 0.023689471299374428,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002286.jpg",
+        "logit_yes": 22.796875,
+        "logit_no": 25.84375,
+        "gambing_score": 0.045352580554306424,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002832.jpg",
+        "logit_yes": 21.5625,
+        "logit_no": 26.15625,
+        "gambing_score": 0.010013570623173136,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002605.jpg",
+        "logit_yes": 23.28125,
+        "logit_no": 26.125,
+        "gambing_score": 0.05500528829345415,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002735.jpg",
+        "logit_yes": 22.53125,
+        "logit_no": 26.53125,
+        "gambing_score": 0.01798620996209156,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002418.jpg",
+        "logit_yes": 21.59375,
+        "logit_no": 26.1875,
+        "gambing_score": 0.010013570623173138,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002416.jpg",
+        "logit_yes": 22.421875,
+        "logit_no": 26.6875,
+        "gambing_score": 0.013848610215564574,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002244.jpg",
+        "logit_yes": 23.15625,
+        "logit_no": 25.65625,
+        "gambing_score": 0.07585818002124355,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002655.jpg",
+        "logit_yes": 21.765625,
+        "logit_no": 26.09375,
+        "gambing_score": 0.013020490113842827,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002599.jpg",
+        "logit_yes": 21.859375,
+        "logit_no": 25.921875,
+        "gambing_score": 0.01691491326672651,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002779.jpg",
+        "logit_yes": 22.0625,
+        "logit_no": 26.5625,
+        "gambing_score": 0.010986942630593181,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002434.jpg",
+        "logit_yes": 22.1875,
+        "logit_no": 26.609375,
+        "gambing_score": 0.011869121046339472,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002453.jpg",
+        "logit_yes": 22.125,
+        "logit_no": 26.28125,
+        "gambing_score": 0.015424552081841136,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002797.jpg",
+        "logit_yes": 21.921875,
+        "logit_no": 26.703125,
+        "gambing_score": 0.008315778477474127,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002839.jpg",
+        "logit_yes": 22.140625,
+        "logit_no": 26.15625,
+        "gambing_score": 0.01771229870341145,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002724.jpg",
+        "logit_yes": 21.765625,
+        "logit_no": 26.4375,
+        "gambing_score": 0.009268013380914326,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002394.jpg",
+        "logit_yes": 22.734375,
+        "logit_no": 26.265625,
+        "gambing_score": 0.02843603304485266,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002727.jpg",
+        "logit_yes": 22.640625,
+        "logit_no": 26.015625,
+        "gambing_score": 0.033085978388704126,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002785.jpg",
+        "logit_yes": 22.890625,
+        "logit_no": 26.515625,
+        "gambing_score": 0.025957357197796852,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002796.jpg",
+        "logit_yes": 22.546875,
+        "logit_no": 25.484375,
+        "gambing_score": 0.05033063259747688,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002868.jpg",
+        "logit_yes": 22.921875,
+        "logit_no": 26.328125,
+        "gambing_score": 0.03210070671700818,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002423.jpg",
+        "logit_yes": 22.25,
+        "logit_no": 26.6875,
+        "gambing_score": 0.011687257995694434,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002666.jpg",
+        "logit_yes": 21.734375,
+        "logit_no": 26.28125,
+        "gambing_score": 0.010489091259938018,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002847.jpg",
+        "logit_yes": 22.28125,
+        "logit_no": 26.53125,
+        "gambing_score": 0.014063627043245475,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002743.jpg",
+        "logit_yes": 22.515625,
+        "logit_no": 26.140625,
+        "gambing_score": 0.02595735719779685,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002520.jpg",
+        "logit_yes": 21.921875,
+        "logit_no": 26.390625,
+        "gambing_score": 0.011331753531361453,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002323.jpg",
+        "logit_yes": 22.765625,
+        "logit_no": 26.34375,
+        "gambing_score": 0.027169231535681047,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002498.jpg",
+        "logit_yes": 21.453125,
+        "logit_no": 26.25,
+        "gambing_score": 0.008187909901696235,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002308.jpg",
+        "logit_yes": 22.09375,
+        "logit_no": 26.421875,
+        "gambing_score": 0.013020490113842825,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002495.jpg",
+        "logit_yes": 22.0,
+        "logit_no": 26.4375,
+        "gambing_score": 0.011687257995694433,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002800.jpg",
+        "logit_yes": 22.125,
+        "logit_no": 26.046875,
+        "gambing_score": 0.0194193481824486,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002478.jpg",
+        "logit_yes": 22.46875,
+        "logit_no": 26.328125,
+        "gambing_score": 0.02064593073921845,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002694.jpg",
+        "logit_yes": 22.390625,
+        "logit_no": 26.578125,
+        "gambing_score": 0.01495708659314999,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002509.jpg",
+        "logit_yes": 23.546875,
+        "logit_no": 25.046875,
+        "gambing_score": 0.18242552380635632,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002386.jpg",
+        "logit_yes": 22.53125,
+        "logit_no": 26.15625,
+        "gambing_score": 0.02595735719779685,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002264.jpg",
+        "logit_yes": 21.359375,
+        "logit_no": 25.984375,
+        "gambing_score": 0.009708476481474066,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002772.jpg",
+        "logit_yes": 21.984375,
+        "logit_no": 26.328125,
+        "gambing_score": 0.012821214266594242,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002659.jpg",
+        "logit_yes": 22.78125,
+        "logit_no": 25.8125,
+        "gambing_score": 0.046033902399240385,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002319.jpg",
+        "logit_yes": 22.203125,
+        "logit_no": 26.34375,
+        "gambing_score": 0.015663648711668327,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002635.jpg",
+        "logit_yes": 21.640625,
+        "logit_no": 26.296875,
+        "gambing_score": 0.009412589587609823,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002547.jpg",
+        "logit_yes": 21.703125,
+        "logit_no": 26.015625,
+        "gambing_score": 0.01322282175230515,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002269.jpg",
+        "logit_yes": 22.140625,
+        "logit_no": 26.09375,
+        "gambing_score": 0.018833129890434695,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002504.jpg",
+        "logit_yes": 23.109375,
+        "logit_no": 26.375,
+        "gambing_score": 0.03676946607559873,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002752.jpg",
+        "logit_yes": 22.296875,
+        "logit_no": 26.328125,
+        "gambing_score": 0.01744248473620534,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002254.jpg",
+        "logit_yes": 21.734375,
+        "logit_no": 25.9375,
+        "gambing_score": 0.014728613849722676,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002449.jpg",
+        "logit_yes": 22.828125,
+        "logit_no": 26.40625,
+        "gambing_score": 0.02716923153568105,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002333.jpg",
+        "logit_yes": 22.765625,
+        "logit_no": 26.140625,
+        "gambing_score": 0.03308597838870413,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002854.jpg",
+        "logit_yes": 23.15625,
+        "logit_no": 25.671875,
+        "gambing_score": 0.07477004290796137,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002769.jpg",
+        "logit_yes": 22.84375,
+        "logit_no": 26.234375,
+        "gambing_score": 0.032589744766025344,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002556.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 25.9375,
+        "gambing_score": 0.015663648711668324,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002822.jpg",
+        "logit_yes": 22.765625,
+        "logit_no": 25.921875,
+        "gambing_score": 0.040845715909949315,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002501.jpg",
+        "logit_yes": 23.703125,
+        "logit_no": 26.28125,
+        "gambing_score": 0.07055959618729295,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002494.jpg",
+        "logit_yes": 21.9375,
+        "logit_no": 26.359375,
+        "gambing_score": 0.011869121046339474,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002443.jpg",
+        "logit_yes": 22.0625,
+        "logit_no": 26.5,
+        "gambing_score": 0.011687257995694436,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002277.jpg",
+        "logit_yes": 22.421875,
+        "logit_no": 26.375,
+        "gambing_score": 0.01883312989043469,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002858.jpg",
+        "logit_yes": 24.671875,
+        "logit_no": 24.8125,
+        "gambing_score": 0.4649015713733885,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002717.jpg",
+        "logit_yes": 23.5,
+        "logit_no": 26.078125,
+        "gambing_score": 0.07055959618729296,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002490.jpg",
+        "logit_yes": 23.109375,
+        "logit_no": 26.390625,
+        "gambing_score": 0.03622005586497474,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002528.jpg",
+        "logit_yes": 21.828125,
+        "logit_no": 25.953125,
+        "gambing_score": 0.01590639171181471,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002465.jpg",
+        "logit_yes": 22.40625,
+        "logit_no": 26.65625,
+        "gambing_score": 0.014063627043245475,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002238.jpg",
+        "logit_yes": 23.40625,
+        "logit_no": 25.765625,
+        "gambing_score": 0.08632347658627028,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002583.jpg",
+        "logit_yes": 21.953125,
+        "logit_no": 26.171875,
+        "gambing_score": 0.01450357969138198,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002608.jpg",
+        "logit_yes": 23.25,
+        "logit_no": 25.578125,
+        "gambing_score": 0.08882029240011773,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002714.jpg",
+        "logit_yes": 23.90625,
+        "logit_no": 25.421875,
+        "gambing_score": 0.18010666408646395,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002751.jpg",
+        "logit_yes": 23.65625,
+        "logit_no": 25.703125,
+        "gambing_score": 0.1143685261818125,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002749.jpg",
+        "logit_yes": 22.359375,
+        "logit_no": 26.65625,
+        "gambing_score": 0.01342825474196852,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002711.jpg",
+        "logit_yes": 21.953125,
+        "logit_no": 26.515625,
+        "gambing_score": 0.010328152519305191,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002840.jpg",
+        "logit_yes": 22.15625,
+        "logit_no": 26.1875,
+        "gambing_score": 0.017442484736205344,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002497.jpg",
+        "logit_yes": 21.515625,
+        "logit_no": 26.1875,
+        "gambing_score": 0.009268013380914326,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002585.jpg",
+        "logit_yes": 21.265625,
+        "logit_no": 25.765625,
+        "gambing_score": 0.010986942630593178,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002624.jpg",
+        "logit_yes": 22.3125,
+        "logit_no": 26.578125,
+        "gambing_score": 0.013848610215564577,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002414.jpg",
+        "logit_yes": 21.953125,
+        "logit_no": 26.265625,
+        "gambing_score": 0.01322282175230515,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002237.jpg",
+        "logit_yes": 22.890625,
+        "logit_no": 26.515625,
+        "gambing_score": 0.025957357197796852,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002640.jpg",
+        "logit_yes": 21.859375,
+        "logit_no": 26.546875,
+        "gambing_score": 0.00912563738918052,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002688.jpg",
+        "logit_yes": 22.25,
+        "logit_no": 26.234375,
+        "gambing_score": 0.01826427835185701,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002748.jpg",
+        "logit_yes": 21.9375,
+        "logit_no": 26.15625,
+        "gambing_score": 0.014503579691381979,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002581.jpg",
+        "logit_yes": 22.0625,
+        "logit_no": 26.171875,
+        "gambing_score": 0.01615283482214096,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002343.jpg",
+        "logit_yes": 22.4375,
+        "logit_no": 26.734375,
+        "gambing_score": 0.01342825474196852,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002357.jpg",
+        "logit_yes": 21.84375,
+        "logit_no": 26.765625,
+        "gambing_score": 0.007232763803479049,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002707.jpg",
+        "logit_yes": 21.75,
+        "logit_no": 26.078125,
+        "gambing_score": 0.013020490113842823,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002425.jpg",
+        "logit_yes": 22.484375,
+        "logit_no": 26.375,
+        "gambing_score": 0.020023441289455244,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002320.jpg",
+        "logit_yes": 22.203125,
+        "logit_no": 26.359375,
+        "gambing_score": 0.015424552081841137,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002627.jpg",
+        "logit_yes": 22.09375,
+        "logit_no": 26.5625,
+        "gambing_score": 0.011331753531361455,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002808.jpg",
+        "logit_yes": 23.25,
+        "logit_no": 25.921875,
+        "gambing_score": 0.06465348835622392,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002741.jpg",
+        "logit_yes": 21.859375,
+        "logit_no": 26.359375,
+        "gambing_score": 0.01098694263059318,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002356.jpg",
+        "logit_yes": 21.71875,
+        "logit_no": 26.28125,
+        "gambing_score": 0.010328152519305191,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002584.jpg",
+        "logit_yes": 22.421875,
+        "logit_no": 26.015625,
+        "gambing_score": 0.026759283185443145,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002878.jpg",
+        "logit_yes": 22.1875,
+        "logit_no": 26.1875,
+        "gambing_score": 0.01798620996209156,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002460.jpg",
+        "logit_yes": 22.46875,
+        "logit_no": 26.171875,
+        "gambing_score": 0.024053552894426178,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002794.jpg",
+        "logit_yes": 22.6875,
+        "logit_no": 26.28125,
+        "gambing_score": 0.02675928318544315,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002435.jpg",
+        "logit_yes": 22.65625,
+        "logit_no": 26.484375,
+        "gambing_score": 0.021287351793451054,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002682.jpg",
+        "logit_yes": 21.9375,
+        "logit_no": 26.375,
+        "gambing_score": 0.011687257995694433,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002337.jpg",
+        "logit_yes": 22.421875,
+        "logit_no": 26.40625,
+        "gambing_score": 0.01826427835185701,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002381.jpg",
+        "logit_yes": 21.78125,
+        "logit_no": 26.171875,
+        "gambing_score": 0.012241275291807161,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002523.jpg",
+        "logit_yes": 21.5625,
+        "logit_no": 26.09375,
+        "gambing_score": 0.010652510839726164,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002670.jpg",
+        "logit_yes": 24.078125,
+        "logit_no": 25.53125,
+        "gambing_score": 0.1895210913296776,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002329.jpg",
+        "logit_yes": 22.265625,
+        "logit_no": 26.296875,
+        "gambing_score": 0.01744248473620534,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002525.jpg",
+        "logit_yes": 22.078125,
+        "logit_no": 26.234375,
+        "gambing_score": 0.015424552081841137,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002382.jpg",
+        "logit_yes": 22.25,
+        "logit_no": 25.984375,
+        "gambing_score": 0.02333076880848049,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002359.jpg",
+        "logit_yes": 23.296875,
+        "logit_no": 25.84375,
+        "gambing_score": 0.07263670636078697,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002853.jpg",
+        "logit_yes": 22.5625,
+        "logit_no": 26.171875,
+        "gambing_score": 0.026355352846119756,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002827.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 25.796875,
+        "gambing_score": 0.01798620996209156,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002610.jpg",
+        "logit_yes": 23.96875,
+        "logit_no": 25.28125,
+        "gambing_score": 0.21206880435710537,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002802.jpg",
+        "logit_yes": 23.1875,
+        "logit_no": 26.765625,
+        "gambing_score": 0.027169231535681043,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002499.jpg",
+        "logit_yes": 21.671875,
+        "logit_no": 26.40625,
+        "gambing_score": 0.008711384457705508,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002811.jpg",
+        "logit_yes": 21.953125,
+        "logit_no": 26.28125,
+        "gambing_score": 0.013020490113842823,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002396.jpg",
+        "logit_yes": 23.796875,
+        "logit_no": 25.46875,
+        "gambing_score": 0.1581743527484317,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002739.jpg",
+        "logit_yes": 22.75,
+        "logit_no": 26.03125,
+        "gambing_score": 0.03622005586497474,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002279.jpg",
+        "logit_yes": 22.53125,
+        "logit_no": 25.953125,
+        "gambing_score": 0.03161876726864549,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002417.jpg",
+        "logit_yes": 21.828125,
+        "logit_no": 26.484375,
+        "gambing_score": 0.009412589587609824,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002374.jpg",
+        "logit_yes": 22.984375,
+        "logit_no": 26.125,
+        "gambing_score": 0.04146227271140963,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002698.jpg",
+        "logit_yes": 21.71875,
+        "logit_no": 26.34375,
+        "gambing_score": 0.009708476481474066,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002530.jpg",
+        "logit_yes": 21.296875,
+        "logit_no": 26.15625,
+        "gambing_score": 0.007695647178392188,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002629.jpg",
+        "logit_yes": 22.4375,
+        "logit_no": 26.53125,
+        "gambing_score": 0.016403032516163058,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002511.jpg",
+        "logit_yes": 22.765625,
+        "logit_no": 26.375,
+        "gambing_score": 0.02635535284611975,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002712.jpg",
+        "logit_yes": 21.546875,
+        "logit_no": 26.25,
+        "gambing_score": 0.008985428752560174,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002876.jpg",
+        "logit_yes": 23.453125,
+        "logit_no": 25.9375,
+        "gambing_score": 0.07696083569602614,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002622.jpg",
+        "logit_yes": 22.65625,
+        "logit_no": 26.640625,
+        "gambing_score": 0.01826427835185701,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002285.jpg",
+        "logit_yes": 23.015625,
+        "logit_no": 25.90625,
+        "gambing_score": 0.052618953347713764,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002819.jpg",
+        "logit_yes": 21.90625,
+        "logit_no": 26.375,
+        "gambing_score": 0.011331753531361455,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002464.jpg",
+        "logit_yes": 22.28125,
+        "logit_no": 26.46875,
+        "gambing_score": 0.014957086593149989,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002696.jpg",
+        "logit_yes": 22.140625,
+        "logit_no": 26.46875,
+        "gambing_score": 0.013020490113842825,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002728.jpg",
+        "logit_yes": 22.6875,
+        "logit_no": 26.375,
+        "gambing_score": 0.024423090054107206,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002298.jpg",
+        "logit_yes": 21.421875,
+        "logit_no": 25.796875,
+        "gambing_score": 0.012431650853185823,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002331.jpg",
+        "logit_yes": 23.296875,
+        "logit_no": 25.875,
+        "gambing_score": 0.07055959618729296,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002852.jpg",
+        "logit_yes": 21.703125,
+        "logit_no": 25.9375,
+        "gambing_score": 0.014281933925111154,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002459.jpg",
+        "logit_yes": 22.6875,
+        "logit_no": 26.3125,
+        "gambing_score": 0.02595735719779685,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002351.jpg",
+        "logit_yes": 22.625,
+        "logit_no": 26.234375,
+        "gambing_score": 0.026355352846119753,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002587.jpg",
+        "logit_yes": 21.90625,
+        "logit_no": 25.953125,
+        "gambing_score": 0.017176709012318405,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002364.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 26.25,
+        "gambing_score": 0.03258974476602535,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002391.jpg",
+        "logit_yes": 22.65625,
+        "logit_no": 26.40625,
+        "gambing_score": 0.022977369910025615,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002479.jpg",
+        "logit_yes": 23.65625,
+        "logit_no": 25.96875,
+        "gambing_score": 0.09009299396195185,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002614.jpg",
+        "logit_yes": 21.703125,
+        "logit_no": 26.484375,
+        "gambing_score": 0.008315778477474129,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002791.jpg",
+        "logit_yes": 21.375,
+        "logit_no": 26.296875,
+        "gambing_score": 0.007232763803479049,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002607.jpg",
+        "logit_yes": 22.03125,
+        "logit_no": 26.546875,
+        "gambing_score": 0.010818448652863183,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002732.jpg",
+        "logit_yes": 22.390625,
+        "logit_no": 26.140625,
+        "gambing_score": 0.02297736991002562,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002496.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 26.21875,
+        "gambing_score": 0.011869121046339474,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002713.jpg",
+        "logit_yes": 21.5625,
+        "logit_no": 26.3125,
+        "gambing_score": 0.008577485413711984,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002480.jpg",
+        "logit_yes": 22.328125,
+        "logit_no": 26.46875,
+        "gambing_score": 0.015663648711668324,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002318.jpg",
+        "logit_yes": 22.0625,
+        "logit_no": 26.359375,
+        "gambing_score": 0.013428254741968518,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002744.jpg",
+        "logit_yes": 22.796875,
+        "logit_no": 26.484375,
+        "gambing_score": 0.02442309005410721,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002742.jpg",
+        "logit_yes": 22.53125,
+        "logit_no": 26.625,
+        "gambing_score": 0.016403032516163058,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002768.jpg",
+        "logit_yes": 22.515625,
+        "logit_no": 26.21875,
+        "gambing_score": 0.024053552894426174,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002625.jpg",
+        "logit_yes": 22.78125,
+        "logit_no": 25.78125,
+        "gambing_score": 0.04742587317756679,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002603.jpg",
+        "logit_yes": 21.59375,
+        "logit_no": 26.046875,
+        "gambing_score": 0.011508149064303403,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002672.jpg",
+        "logit_yes": 21.6875,
+        "logit_no": 26.09375,
+        "gambing_score": 0.012053779516236448,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002296.jpg",
+        "logit_yes": 22.390625,
+        "logit_no": 26.328125,
+        "gambing_score": 0.019124036750888904,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002590.jpg",
+        "logit_yes": 21.71875,
+        "logit_no": 26.15625,
+        "gambing_score": 0.011687257995694434,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002849.jpg",
+        "logit_yes": 21.296875,
+        "logit_no": 25.9375,
+        "gambing_score": 0.009559399347091532,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002535.jpg",
+        "logit_yes": 22.8125,
+        "logit_no": 26.625,
+        "gambing_score": 0.02161533276264765,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002821.jpg",
+        "logit_yes": 21.5625,
+        "logit_no": 26.296875,
+        "gambing_score": 0.008711384457705506,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002293.jpg",
+        "logit_yes": 23.171875,
+        "logit_no": 25.9375,
+        "gambing_score": 0.059210250741285934,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002634.jpg",
+        "logit_yes": 22.015625,
+        "logit_no": 26.453125,
+        "gambing_score": 0.011687257995694431,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002457.jpg",
+        "logit_yes": 22.421875,
+        "logit_no": 26.53125,
+        "gambing_score": 0.016152834822140957,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002681.jpg",
+        "logit_yes": 22.234375,
+        "logit_no": 26.375,
+        "gambing_score": 0.015663648711668324,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002869.jpg",
+        "logit_yes": 22.8125,
+        "logit_no": 26.25,
+        "gambing_score": 0.031143830534778462,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002812.jpg",
+        "logit_yes": 21.984375,
+        "logit_no": 26.21875,
+        "gambing_score": 0.014281933925111154,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002493.jpg",
+        "logit_yes": 21.90625,
+        "logit_no": 26.546875,
+        "gambing_score": 0.00955939934709153,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002788.jpg",
+        "logit_yes": 22.5,
+        "logit_no": 26.140625,
+        "gambing_score": 0.025565213923269593,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002600.jpg",
+        "logit_yes": 22.140625,
+        "logit_no": 25.984375,
+        "gambing_score": 0.020964240818127502,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002745.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 26.359375,
+        "gambing_score": 0.029312230751356316,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002301.jpg",
+        "logit_yes": 23.15625,
+        "logit_no": 25.875,
+        "gambing_score": 0.06187598572364272,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002755.jpg",
+        "logit_yes": 23.203125,
+        "logit_no": 26.140625,
+        "gambing_score": 0.050330632597476874,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002708.jpg",
+        "logit_yes": 21.578125,
+        "logit_no": 26.625,
+        "gambing_score": 0.006388320909721285,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002809.jpg",
+        "logit_yes": 22.078125,
+        "logit_no": 26.265625,
+        "gambing_score": 0.014957086593149989,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002615.jpg",
+        "logit_yes": 23.0,
+        "logit_no": 25.921875,
+        "gambing_score": 0.05108273695705249,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002572.jpg",
+        "logit_yes": 22.09375,
+        "logit_no": 26.453125,
+        "gambing_score": 0.012624949281564407,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002326.jpg",
+        "logit_yes": 22.96875,
+        "logit_no": 26.265625,
+        "gambing_score": 0.035678550877730524,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002747.jpg",
+        "logit_yes": 21.859375,
+        "logit_no": 26.28125,
+        "gambing_score": 0.011869121046339474,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002816.jpg",
+        "logit_yes": 22.46875,
+        "logit_no": 26.625,
+        "gambing_score": 0.015424552081841139,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002358.jpg",
+        "logit_yes": 22.796875,
+        "logit_no": 26.171875,
+        "gambing_score": 0.03308597838870413,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002639.jpg",
+        "logit_yes": 21.875,
+        "logit_no": 26.359375,
+        "gambing_score": 0.011158031248084035,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002726.jpg",
+        "logit_yes": 22.4375,
+        "logit_no": 26.703125,
+        "gambing_score": 0.013848610215564576,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002259.jpg",
+        "logit_yes": 21.765625,
+        "logit_no": 26.125,
+        "gambing_score": 0.012624949281564409,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002770.jpg",
+        "logit_yes": 22.578125,
+        "logit_no": 26.46875,
+        "gambing_score": 0.020023441289455244,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002407.jpg",
+        "logit_yes": 22.515625,
+        "logit_no": 27.015625,
+        "gambing_score": 0.010986942630593178,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002437.jpg",
+        "logit_yes": 21.8125,
+        "logit_no": 26.34375,
+        "gambing_score": 0.010652510839726162,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002377.jpg",
+        "logit_yes": 22.296875,
+        "logit_no": 26.578125,
+        "gambing_score": 0.01363683528142988,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002522.jpg",
+        "logit_yes": 22.078125,
+        "logit_no": 26.328125,
+        "gambing_score": 0.014063627043245475,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002536.jpg",
+        "logit_yes": 22.046875,
+        "logit_no": 26.046875,
+        "gambing_score": 0.01798620996209156,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002267.jpg",
+        "logit_yes": 22.25,
+        "logit_no": 26.21875,
+        "gambing_score": 0.018546564512117298,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002477.jpg",
+        "logit_yes": 21.75,
+        "logit_no": 26.21875,
+        "gambing_score": 0.011331753531361455,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002753.jpg",
+        "logit_yes": 22.03125,
+        "logit_no": 26.296875,
+        "gambing_score": 0.013848610215564574,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002671.jpg",
+        "logit_yes": 23.390625,
+        "logit_no": 26.0,
+        "gambing_score": 0.06853749303199023,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002804.jpg",
+        "logit_yes": 23.046875,
+        "logit_no": 26.125,
+        "gambing_score": 0.044018649862946374,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002399.jpg",
+        "logit_yes": 22.65625,
+        "logit_no": 26.4375,
+        "gambing_score": 0.022286185539225494,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002616.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 26.1875,
+        "gambing_score": 0.012241275291807161,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002531.jpg",
+        "logit_yes": 22.0,
+        "logit_no": 26.046875,
+        "gambing_score": 0.017176709012318405,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002413.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 26.515625,
+        "gambing_score": 0.008847355082930384,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002765.jpg",
+        "logit_yes": 22.75,
+        "logit_no": 25.9375,
+        "gambing_score": 0.03963883910097002,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002793.jpg",
+        "logit_yes": 23.03125,
+        "logit_no": 25.53125,
+        "gambing_score": 0.07585818002124356,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002441.jpg",
+        "logit_yes": 22.484375,
+        "logit_no": 26.515625,
+        "gambing_score": 0.01744248473620534,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002710.jpg",
+        "logit_yes": 22.40625,
+        "logit_no": 26.359375,
+        "gambing_score": 0.018833129890434692,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002549.jpg",
+        "logit_yes": 21.765625,
+        "logit_no": 25.984375,
+        "gambing_score": 0.01450357969138198,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002720.jpg",
+        "logit_yes": 22.390625,
+        "logit_no": 26.4375,
+        "gambing_score": 0.017176709012318405,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002576.jpg",
+        "logit_yes": 22.171875,
+        "logit_no": 26.1875,
+        "gambing_score": 0.01771229870341145,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002867.jpg",
+        "logit_yes": 22.734375,
+        "logit_no": 26.25,
+        "gambing_score": 0.028870906946287904,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002276.jpg",
+        "logit_yes": 22.203125,
+        "logit_no": 25.734375,
+        "gambing_score": 0.02843603304485266,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002631.jpg",
+        "logit_yes": 22.1875,
+        "logit_no": 26.421875,
+        "gambing_score": 0.014281933925111151,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002660.jpg",
+        "logit_yes": 22.890625,
+        "logit_no": 26.671875,
+        "gambing_score": 0.022286185539225494,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002516.jpg",
+        "logit_yes": 21.96875,
+        "logit_no": 26.453125,
+        "gambing_score": 0.011158031248084033,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002695.jpg",
+        "logit_yes": 21.5,
+        "logit_no": 26.125,
+        "gambing_score": 0.009708476481474068,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002429.jpg",
+        "logit_yes": 22.703125,
+        "logit_no": 26.390625,
+        "gambing_score": 0.02442309005410721,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002550.jpg",
+        "logit_yes": 21.75,
+        "logit_no": 26.28125,
+        "gambing_score": 0.010652510839726164,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002539.jpg",
+        "logit_yes": 22.65625,
+        "logit_no": 25.8125,
+        "gambing_score": 0.040845715909949315,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002687.jpg",
+        "logit_yes": 22.046875,
+        "logit_no": 26.53125,
+        "gambing_score": 0.011158031248084033,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002552.jpg",
+        "logit_yes": 21.9375,
+        "logit_no": 26.078125,
+        "gambing_score": 0.015663648711668324,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002863.jpg",
+        "logit_yes": 22.9375,
+        "logit_no": 26.28125,
+        "gambing_score": 0.03410042571231151,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002648.jpg",
+        "logit_yes": 21.703125,
+        "logit_no": 26.265625,
+        "gambing_score": 0.010328152519305193,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002352.jpg",
+        "logit_yes": 21.828125,
+        "logit_no": 26.109375,
+        "gambing_score": 0.013636835281429876,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002864.jpg",
+        "logit_yes": 22.515625,
+        "logit_no": 26.140625,
+        "gambing_score": 0.02595735719779685,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002389.jpg",
+        "logit_yes": 22.25,
+        "logit_no": 26.3125,
+        "gambing_score": 0.01691491326672651,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002265.jpg",
+        "logit_yes": 21.59375,
+        "logit_no": 26.21875,
+        "gambing_score": 0.009708476481474068,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002348.jpg",
+        "logit_yes": 22.34375,
+        "logit_no": 26.375,
+        "gambing_score": 0.01744248473620534,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002646.jpg",
+        "logit_yes": 22.40625,
+        "logit_no": 26.515625,
+        "gambing_score": 0.01615283482214096,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002567.jpg",
+        "logit_yes": 21.90625,
+        "logit_no": 25.890625,
+        "gambing_score": 0.018264278351857014,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002833.jpg",
+        "logit_yes": 23.015625,
+        "logit_no": 26.140625,
+        "gambing_score": 0.042087727915618836,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002759.jpg",
+        "logit_yes": 23.03125,
+        "logit_no": 26.328125,
+        "gambing_score": 0.03567855087773052,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002848.jpg",
+        "logit_yes": 23.140625,
+        "logit_no": 26.28125,
+        "gambing_score": 0.04146227271140962,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002870.jpg",
+        "logit_yes": 22.875,
+        "logit_no": 26.265625,
+        "gambing_score": 0.03258974476602535,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002855.jpg",
+        "logit_yes": 23.703125,
+        "logit_no": 25.171875,
+        "gambing_score": 0.1871326821624266,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002367.jpg",
+        "logit_yes": 22.65625,
+        "logit_no": 26.0,
+        "gambing_score": 0.03410042571231151,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002764.jpg",
+        "logit_yes": 22.515625,
+        "logit_no": 26.234375,
+        "gambing_score": 0.023689471299374425,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002324.jpg",
+        "logit_yes": 22.609375,
+        "logit_no": 26.09375,
+        "gambing_score": 0.02976009394596422,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002823.jpg",
+        "logit_yes": 22.953125,
+        "logit_no": 26.75,
+        "gambing_score": 0.021948253714867843,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002271.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 26.203125,
+        "gambing_score": 0.03410042571231152,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002261.jpg",
+        "logit_yes": 21.546875,
+        "logit_no": 25.96875,
+        "gambing_score": 0.011869121046339475,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002420.jpg",
+        "logit_yes": 21.65625,
+        "logit_no": 26.15625,
+        "gambing_score": 0.01098694263059318,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002313.jpg",
+        "logit_yes": 21.984375,
+        "logit_no": 26.4375,
+        "gambing_score": 0.011508149064303403,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002618.jpg",
+        "logit_yes": 22.703125,
+        "logit_no": 26.265625,
+        "gambing_score": 0.027585282226789992,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002505.jpg",
+        "logit_yes": 23.140625,
+        "logit_no": 26.171875,
+        "gambing_score": 0.04603390239924038,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002408.jpg",
+        "logit_yes": 21.890625,
+        "logit_no": 26.625,
+        "gambing_score": 0.008711384457705508,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002283.jpg",
+        "logit_yes": 22.515625,
+        "logit_no": 26.171875,
+        "gambing_score": 0.025178841700601855,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002517.jpg",
+        "logit_yes": 21.875,
+        "logit_no": 26.28125,
+        "gambing_score": 0.012053779516236447,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002533.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 26.171875,
+        "gambing_score": 0.01243165085318582,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002709.jpg",
+        "logit_yes": 21.703125,
+        "logit_no": 26.171875,
+        "gambing_score": 0.011331753531361457,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002397.jpg",
+        "logit_yes": 23.1875,
+        "logit_no": 26.140625,
+        "gambing_score": 0.049589022984031735,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002471.jpg",
+        "logit_yes": 21.65625,
+        "logit_no": 26.390625,
+        "gambing_score": 0.008711384457705508,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002873.jpg",
+        "logit_yes": 22.515625,
+        "logit_no": 26.390625,
+        "gambing_score": 0.020332353342658753,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002487.jpg",
+        "logit_yes": 22.0625,
+        "logit_no": 26.3125,
+        "gambing_score": 0.014063627043245474,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002349.jpg",
+        "logit_yes": 22.453125,
+        "logit_no": 26.453125,
+        "gambing_score": 0.01798620996209156,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002317.jpg",
+        "logit_yes": 21.5,
+        "logit_no": 26.296875,
+        "gambing_score": 0.008187909901696233,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002463.jpg",
+        "logit_yes": 21.875,
+        "logit_no": 26.65625,
+        "gambing_score": 0.00831577847747413,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002859.jpg",
+        "logit_yes": 23.921875,
+        "logit_no": 25.4375,
+        "gambing_score": 0.18010666408646395,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002307.jpg",
+        "logit_yes": 22.28125,
+        "logit_no": 26.296875,
+        "gambing_score": 0.01771229870341145,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002249.jpg",
+        "logit_yes": 22.8125,
+        "logit_no": 26.421875,
+        "gambing_score": 0.02635535284611975,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002842.jpg",
+        "logit_yes": 21.546875,
+        "logit_no": 26.03125,
+        "gambing_score": 0.011158031248084033,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002756.jpg",
+        "logit_yes": 21.703125,
+        "logit_no": 26.3125,
+        "gambing_score": 0.009859855303538787,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002621.jpg",
+        "logit_yes": 23.0,
+        "logit_no": 26.0625,
+        "gambing_score": 0.0446808702726502,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002817.jpg",
+        "logit_yes": 22.375,
+        "logit_no": 26.15625,
+        "gambing_score": 0.022286185539225494,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002486.jpg",
+        "logit_yes": 22.5,
+        "logit_no": 25.78125,
+        "gambing_score": 0.036220055864974746,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002563.jpg",
+        "logit_yes": 22.078125,
+        "logit_no": 26.28125,
+        "gambing_score": 0.014728613849722674,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002866.jpg",
+        "logit_yes": 22.890625,
+        "logit_no": 25.984375,
+        "gambing_score": 0.04336579876390677,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002632.jpg",
+        "logit_yes": 22.515625,
+        "logit_no": 26.578125,
+        "gambing_score": 0.01691491326672651,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002767.jpg",
+        "logit_yes": 22.390625,
+        "logit_no": 26.4375,
+        "gambing_score": 0.017176709012318405,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002383.jpg",
+        "logit_yes": 21.859375,
+        "logit_no": 26.46875,
+        "gambing_score": 0.009859855303538789,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002579.jpg",
+        "logit_yes": 22.03125,
+        "logit_no": 26.21875,
+        "gambing_score": 0.014957086593149989,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002835.jpg",
+        "logit_yes": 22.046875,
+        "logit_no": 26.4375,
+        "gambing_score": 0.01224127529180716,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002311.jpg",
+        "logit_yes": 21.609375,
+        "logit_no": 26.125,
+        "gambing_score": 0.010818448652863185,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002430.jpg",
+        "logit_yes": 22.3125,
+        "logit_no": 26.59375,
+        "gambing_score": 0.013636835281429878,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002454.jpg",
+        "logit_yes": 22.09375,
+        "logit_no": 26.375,
+        "gambing_score": 0.013636835281429876,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002446.jpg",
+        "logit_yes": 22.609375,
+        "logit_no": 26.5625,
+        "gambing_score": 0.018833129890434695,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002366.jpg",
+        "logit_yes": 21.828125,
+        "logit_no": 26.3125,
+        "gambing_score": 0.011158031248084031,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002462.jpg",
+        "logit_yes": 22.734375,
+        "logit_no": 26.375,
+        "gambing_score": 0.02556521392326959,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002419.jpg",
+        "logit_yes": 22.3125,
+        "logit_no": 26.453125,
+        "gambing_score": 0.015663648711668324,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002580.jpg",
+        "logit_yes": 21.734375,
+        "logit_no": 25.921875,
+        "gambing_score": 0.014957086593149989,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002330.jpg",
+        "logit_yes": 22.390625,
+        "logit_no": 25.890625,
+        "gambing_score": 0.029312230751356323,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002676.jpg",
+        "logit_yes": 22.765625,
+        "logit_no": 26.578125,
+        "gambing_score": 0.021615332762647654,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002370.jpg",
+        "logit_yes": 22.515625,
+        "logit_no": 26.40625,
+        "gambing_score": 0.020023441289455244,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002591.jpg",
+        "logit_yes": 22.265625,
+        "logit_no": 26.375,
+        "gambing_score": 0.016152834822140954,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002338.jpg",
+        "logit_yes": 22.75,
+        "logit_no": 26.03125,
+        "gambing_score": 0.03622005586497474,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002341.jpg",
+        "logit_yes": 22.640625,
+        "logit_no": 26.71875,
+        "gambing_score": 0.01665704000922906,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002315.jpg",
+        "logit_yes": 22.125,
+        "logit_no": 26.125,
+        "gambing_score": 0.017986209962091555,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002602.jpg",
+        "logit_yes": 22.03125,
+        "logit_no": 26.125,
+        "gambing_score": 0.016403032516163055,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002248.jpg",
+        "logit_yes": 21.78125,
+        "logit_no": 26.359375,
+        "gambing_score": 0.01016965775387261,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002515.jpg",
+        "logit_yes": 21.765625,
+        "logit_no": 26.125,
+        "gambing_score": 0.012624949281564409,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002340.jpg",
+        "logit_yes": 23.21875,
+        "logit_no": 26.03125,
+        "gambing_score": 0.05665242530797383,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002845.jpg",
+        "logit_yes": 22.28125,
+        "logit_no": 26.40625,
+        "gambing_score": 0.015906391711814714,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002575.jpg",
+        "logit_yes": 22.28125,
+        "logit_no": 26.296875,
+        "gambing_score": 0.01771229870341145,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002857.jpg",
+        "logit_yes": 22.4375,
+        "logit_no": 26.5625,
+        "gambing_score": 0.015906391711814714,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002561.jpg",
+        "logit_yes": 21.703125,
+        "logit_no": 26.140625,
+        "gambing_score": 0.011687257995694434,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002467.jpg",
+        "logit_yes": 22.546875,
+        "logit_no": 26.578125,
+        "gambing_score": 0.017442484736205344,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002268.jpg",
+        "logit_yes": 22.921875,
+        "logit_no": 26.5,
+        "gambing_score": 0.02716923153568105,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002421.jpg",
+        "logit_yes": 21.828125,
+        "logit_no": 26.125,
+        "gambing_score": 0.013428254741968518,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002537.jpg",
+        "logit_yes": 22.390625,
+        "logit_no": 26.40625,
+        "gambing_score": 0.017712298703411445,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002716.jpg",
+        "logit_yes": 22.140625,
+        "logit_no": 26.4375,
+        "gambing_score": 0.01342825474196852,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002403.jpg",
+        "logit_yes": 22.265625,
+        "logit_no": 26.359375,
+        "gambing_score": 0.016403032516163055,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002766.jpg",
+        "logit_yes": 22.296875,
+        "logit_no": 26.4375,
+        "gambing_score": 0.015663648711668324,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002837.jpg",
+        "logit_yes": 22.5,
+        "logit_no": 26.0625,
+        "gambing_score": 0.02758528222678999,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002784.jpg",
+        "logit_yes": 22.671875,
+        "logit_no": 26.046875,
+        "gambing_score": 0.03308597838870413,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002365.jpg",
+        "logit_yes": 22.71875,
+        "logit_no": 26.21875,
+        "gambing_score": 0.029312230751356316,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002803.jpg",
+        "logit_yes": 23.0625,
+        "logit_no": 26.125,
+        "gambing_score": 0.044680870272650205,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002701.jpg",
+        "logit_yes": 22.703125,
+        "logit_no": 26.25,
+        "gambing_score": 0.028007520605988132,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002363.jpg",
+        "logit_yes": 21.34375,
+        "logit_no": 26.03125,
+        "gambing_score": 0.009125637389180518,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002412.jpg",
+        "logit_yes": 22.546875,
+        "logit_no": 26.59375,
+        "gambing_score": 0.01717670901231841,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002404.jpg",
+        "logit_yes": 22.265625,
+        "logit_no": 26.625,
+        "gambing_score": 0.012624949281564407,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002440.jpg",
+        "logit_yes": 22.9375,
+        "logit_no": 26.1875,
+        "gambing_score": 0.037326887344129464,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002274.jpg",
+        "logit_yes": 22.484375,
+        "logit_no": 26.265625,
+        "gambing_score": 0.022286185539225498,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002570.jpg",
+        "logit_yes": 22.484375,
+        "logit_no": 26.34375,
+        "gambing_score": 0.020645930739218447,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002722.jpg",
+        "logit_yes": 22.03125,
+        "logit_no": 26.34375,
+        "gambing_score": 0.013222821752305148,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002427.jpg",
+        "logit_yes": 22.203125,
+        "logit_no": 26.421875,
+        "gambing_score": 0.01450357969138198,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002862.jpg",
+        "logit_yes": 22.625,
+        "logit_no": 26.046875,
+        "gambing_score": 0.03161876726864548,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002289.jpg",
+        "logit_yes": 21.5625,
+        "logit_no": 26.25,
+        "gambing_score": 0.009125637389180518,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002256.jpg",
+        "logit_yes": 21.65625,
+        "logit_no": 26.125,
+        "gambing_score": 0.011331753531361455,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002559.jpg",
+        "logit_yes": 23.6875,
+        "logit_no": 25.765625,
+        "gambing_score": 0.11124120650754304,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002588.jpg",
+        "logit_yes": 21.640625,
+        "logit_no": 26.1875,
+        "gambing_score": 0.010489091259938018,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002856.jpg",
+        "logit_yes": 22.234375,
+        "logit_no": 26.546875,
+        "gambing_score": 0.013222821752305148,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002780.jpg",
+        "logit_yes": 22.96875,
+        "logit_no": 25.1875,
+        "gambing_score": 0.09807932347046004,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002693.jpg",
+        "logit_yes": 21.40625,
+        "logit_no": 26.359375,
+        "gambing_score": 0.007011795381497107,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002500.jpg",
+        "logit_yes": 21.96875,
+        "logit_no": 26.203125,
+        "gambing_score": 0.014281933925111154,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002250.jpg",
+        "logit_yes": 22.46875,
+        "logit_no": 26.453125,
+        "gambing_score": 0.018264278351857014,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002302.jpg",
+        "logit_yes": 22.78125,
+        "logit_no": 26.09375,
+        "gambing_score": 0.03514484640079327,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002778.jpg",
+        "logit_yes": 22.625,
+        "logit_no": 26.375,
+        "gambing_score": 0.022977369910025615,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002553.jpg",
+        "logit_yes": 22.359375,
+        "logit_no": 26.15625,
+        "gambing_score": 0.02194825371486785,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002451.jpg",
+        "logit_yes": 22.40625,
+        "logit_no": 26.546875,
+        "gambing_score": 0.015663648711668324,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002763.jpg",
+        "logit_yes": 23.09375,
+        "logit_no": 25.859375,
+        "gambing_score": 0.05921025074128592,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002664.jpg",
+        "logit_yes": 21.984375,
+        "logit_no": 26.3125,
+        "gambing_score": 0.013020490113842825,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002327.jpg",
+        "logit_yes": 23.359375,
+        "logit_no": 26.09375,
+        "gambing_score": 0.06097518086496482,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002409.jpg",
+        "logit_yes": 22.640625,
+        "logit_no": 26.59375,
+        "gambing_score": 0.018833129890434695,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002805.jpg",
+        "logit_yes": 21.65625,
+        "logit_no": 26.03125,
+        "gambing_score": 0.01243165085318582,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002545.jpg",
+        "logit_yes": 22.140625,
+        "logit_no": 25.84375,
+        "gambing_score": 0.024053552894426178,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002594.jpg",
+        "logit_yes": 22.0625,
+        "logit_no": 26.28125,
+        "gambing_score": 0.014503579691381979,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002346.jpg",
+        "logit_yes": 22.6875,
+        "logit_no": 26.28125,
+        "gambing_score": 0.02675928318544315,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002442.jpg",
+        "logit_yes": 22.734375,
+        "logit_no": 26.34375,
+        "gambing_score": 0.026355352846119753,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002734.jpg",
+        "logit_yes": 22.625,
+        "logit_no": 26.453125,
+        "gambing_score": 0.02128735179345105,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002431.jpg",
+        "logit_yes": 22.0,
+        "logit_no": 26.375,
+        "gambing_score": 0.012431650853185818,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002636.jpg",
+        "logit_yes": 21.390625,
+        "logit_no": 26.21875,
+        "gambing_score": 0.00793799410140732,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002299.jpg",
+        "logit_yes": 23.671875,
+        "logit_no": 25.609375,
+        "gambing_score": 0.1259227648351323,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002534.jpg",
+        "logit_yes": 22.15625,
+        "logit_no": 26.328125,
+        "gambing_score": 0.015189048807983949,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002257.jpg",
+        "logit_yes": 22.515625,
+        "logit_no": 26.203125,
+        "gambing_score": 0.024423090054107206,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002649.jpg",
+        "logit_yes": 22.421875,
+        "logit_no": 26.546875,
+        "gambing_score": 0.01590639171181471,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002411.jpg",
+        "logit_yes": 22.015625,
+        "logit_no": 26.609375,
+        "gambing_score": 0.010013570623173136,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002578.jpg",
+        "logit_yes": 22.03125,
+        "logit_no": 26.15625,
+        "gambing_score": 0.01590639171181471,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002569.jpg",
+        "logit_yes": 21.859375,
+        "logit_no": 26.296875,
+        "gambing_score": 0.011687257995694433,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002557.jpg",
+        "logit_yes": 22.9375,
+        "logit_no": 26.140625,
+        "gambing_score": 0.03904829272622639,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002736.jpg",
+        "logit_yes": 23.828125,
+        "logit_no": 25.703125,
+        "gambing_score": 0.1329642401978293,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002513.jpg",
+        "logit_yes": 22.96875,
+        "logit_no": 26.53125,
+        "gambing_score": 0.02758528222678999,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002781.jpg",
+        "logit_yes": 22.1875,
+        "logit_no": 25.9375,
+        "gambing_score": 0.022977369910025615,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002758.jpg",
+        "logit_yes": 22.4375,
+        "logit_no": 26.265625,
+        "gambing_score": 0.021287351793451058,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002438.jpg",
+        "logit_yes": 22.59375,
+        "logit_no": 26.40625,
+        "gambing_score": 0.021615332762647654,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002613.jpg",
+        "logit_yes": 21.875,
+        "logit_no": 26.40625,
+        "gambing_score": 0.010652510839726166,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002865.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 26.03125,
+        "gambing_score": 0.014281933925111153,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002521.jpg",
+        "logit_yes": 21.96875,
+        "logit_no": 26.15625,
+        "gambing_score": 0.014957086593149989,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002773.jpg",
+        "logit_yes": 21.96875,
+        "logit_no": 26.265625,
+        "gambing_score": 0.01342825474196852,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002611.jpg",
+        "logit_yes": 22.484375,
+        "logit_no": 26.140625,
+        "gambing_score": 0.025178841700601858,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002783.jpg",
+        "logit_yes": 22.484375,
+        "logit_no": 25.546875,
+        "gambing_score": 0.0446808702726502,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002834.jpg",
+        "logit_yes": 22.078125,
+        "logit_no": 26.234375,
+        "gambing_score": 0.015424552081841137,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002353.jpg",
+        "logit_yes": 21.953125,
+        "logit_no": 26.359375,
+        "gambing_score": 0.012053779516236445,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002704.jpg",
+        "logit_yes": 22.359375,
+        "logit_no": 26.28125,
+        "gambing_score": 0.019419348182448604,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002325.jpg",
+        "logit_yes": 22.25,
+        "logit_no": 26.328125,
+        "gambing_score": 0.01665704000922906,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002721.jpg",
+        "logit_yes": 22.90625,
+        "logit_no": 25.9375,
+        "gambing_score": 0.04603390239924038,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002448.jpg",
+        "logit_yes": 21.921875,
+        "logit_no": 26.703125,
+        "gambing_score": 0.008315778477474127,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002774.jpg",
+        "logit_yes": 24.125,
+        "logit_no": 25.140625,
+        "gambing_score": 0.26588047309981694,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002322.jpg",
+        "logit_yes": 22.265625,
+        "logit_no": 26.203125,
+        "gambing_score": 0.019124036750888904,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002452.jpg",
+        "logit_yes": 22.109375,
+        "logit_no": 26.3125,
+        "gambing_score": 0.014728613849722674,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002733.jpg",
+        "logit_yes": 22.296875,
+        "logit_no": 26.3125,
+        "gambing_score": 0.01771229870341145,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002415.jpg",
+        "logit_yes": 21.953125,
+        "logit_no": 26.296875,
+        "gambing_score": 0.012821214266594242,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002562.jpg",
+        "logit_yes": 21.765625,
+        "logit_no": 26.09375,
+        "gambing_score": 0.013020490113842827,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002439.jpg",
+        "logit_yes": 23.421875,
+        "logit_no": 26.46875,
+        "gambing_score": 0.04535258055430641,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002456.jpg",
+        "logit_yes": 22.546875,
+        "logit_no": 26.390625,
+        "gambing_score": 0.020964240818127505,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002792.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 26.0625,
+        "gambing_score": 0.013848610215564574,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002342.jpg",
+        "logit_yes": 22.09375,
+        "logit_no": 26.53125,
+        "gambing_score": 0.011687257995694434,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002673.jpg",
+        "logit_yes": 22.40625,
+        "logit_no": 26.28125,
+        "gambing_score": 0.020332353342658753,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002375.jpg",
+        "logit_yes": 22.375,
+        "logit_no": 26.234375,
+        "gambing_score": 0.020645930739218447,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002689.jpg",
+        "logit_yes": 22.4375,
+        "logit_no": 26.546875,
+        "gambing_score": 0.016152834822140957,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002650.jpg",
+        "logit_yes": 21.703125,
+        "logit_no": 26.5625,
+        "gambing_score": 0.007695647178392187,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002875.jpg",
+        "logit_yes": 21.796875,
+        "logit_no": 26.28125,
+        "gambing_score": 0.011158031248084033,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002718.jpg",
+        "logit_yes": 22.5625,
+        "logit_no": 26.421875,
+        "gambing_score": 0.02064593073921845,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002369.jpg",
+        "logit_yes": 22.859375,
+        "logit_no": 26.203125,
+        "gambing_score": 0.03410042571231152,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002278.jpg",
+        "logit_yes": 22.234375,
+        "logit_no": 26.234375,
+        "gambing_score": 0.017986209962091555,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002428.jpg",
+        "logit_yes": 22.78125,
+        "logit_no": 26.578125,
+        "gambing_score": 0.02194825371486785,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002526.jpg",
+        "logit_yes": 21.484375,
+        "logit_no": 26.109375,
+        "gambing_score": 0.00970847648147407,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002746.jpg",
+        "logit_yes": 21.96875,
+        "logit_no": 26.4375,
+        "gambing_score": 0.011331753531361455,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002541.jpg",
+        "logit_yes": 22.9375,
+        "logit_no": 26.40625,
+        "gambing_score": 0.030214587067393977,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002492.jpg",
+        "logit_yes": 22.703125,
+        "logit_no": 25.640625,
+        "gambing_score": 0.05033063259747688,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002240.jpg",
+        "logit_yes": 22.40625,
+        "logit_no": 26.484375,
+        "gambing_score": 0.016657040009229063,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002589.jpg",
+        "logit_yes": 21.96875,
+        "logit_no": 26.3125,
+        "gambing_score": 0.012821214266594242,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002546.jpg",
+        "logit_yes": 21.828125,
+        "logit_no": 26.140625,
+        "gambing_score": 0.013222821752305148,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002266.jpg",
+        "logit_yes": 22.296875,
+        "logit_no": 26.359375,
+        "gambing_score": 0.01691491326672651,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002475.jpg",
+        "logit_yes": 22.875,
+        "logit_no": 25.921875,
+        "gambing_score": 0.04535258055430642,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002686.jpg",
+        "logit_yes": 21.5625,
+        "logit_no": 26.234375,
+        "gambing_score": 0.009268013380914325,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002782.jpg",
+        "logit_yes": 22.265625,
+        "logit_no": 26.609375,
+        "gambing_score": 0.012821214266594242,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002685.jpg",
+        "logit_yes": 21.984375,
+        "logit_no": 26.421875,
+        "gambing_score": 0.011687257995694434,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002592.jpg",
+        "logit_yes": 21.96875,
+        "logit_no": 25.96875,
+        "gambing_score": 0.017986209962091562,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002706.jpg",
+        "logit_yes": 21.3125,
+        "logit_no": 26.140625,
+        "gambing_score": 0.00793799410140732,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002593.jpg",
+        "logit_yes": 21.828125,
+        "logit_no": 26.234375,
+        "gambing_score": 0.012053779516236445,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002241.jpg",
+        "logit_yes": 22.0,
+        "logit_no": 26.0,
+        "gambing_score": 0.017986209962091555,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002860.jpg",
+        "logit_yes": 23.203125,
+        "logit_no": 26.5625,
+        "gambing_score": 0.03358950565010398,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002831.jpg",
+        "logit_yes": 22.09375,
+        "logit_no": 26.453125,
+        "gambing_score": 0.012624949281564407,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002558.jpg",
+        "logit_yes": 21.984375,
+        "logit_no": 26.234375,
+        "gambing_score": 0.014063627043245475,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002554.jpg",
+        "logit_yes": 21.546875,
+        "logit_no": 26.03125,
+        "gambing_score": 0.011158031248084033,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002643.jpg",
+        "logit_yes": 21.59375,
+        "logit_no": 26.09375,
+        "gambing_score": 0.010986942630593181,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002573.jpg",
+        "logit_yes": 22.109375,
+        "logit_no": 26.0625,
+        "gambing_score": 0.018833129890434692,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002436.jpg",
+        "logit_yes": 22.421875,
+        "logit_no": 26.609375,
+        "gambing_score": 0.014957086593149987,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002723.jpg",
+        "logit_yes": 22.671875,
+        "logit_no": 26.28125,
+        "gambing_score": 0.026355352846119753,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "not-gambing_00002398.jpg",
+        "logit_yes": 22.53125,
+        "logit_no": 26.53125,
+        "gambing_score": 0.01798620996209156,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_24.JPEG",
+        "logit_yes": 24.21875,
+        "logit_no": 25.328125,
+        "gambing_score": 0.24798742624020276,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_156.jpg",
+        "logit_yes": 24.734375,
+        "logit_no": 25.265625,
+        "gambing_score": 0.37022539259558657,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_41.JPEG",
+        "logit_yes": 23.078125,
+        "logit_no": 26.421875,
+        "gambing_score": 0.03410042571231151,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_206.jpg",
+        "logit_yes": 26.390625,
+        "logit_no": 23.234375,
+        "gambing_score": 0.9591542840900508,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_80.jpg",
+        "logit_yes": 25.6875,
+        "logit_no": 24.3125,
+        "gambing_score": 0.7981867777396212,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_237.jpg",
+        "logit_yes": 26.21875,
+        "logit_no": 23.234375,
+        "gambing_score": 0.9518632288833652,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_202.jpeg",
+        "logit_yes": 24.703125,
+        "logit_no": 25.484375,
+        "gambing_score": 0.31405054499180746,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_145.jpg",
+        "logit_yes": 25.796875,
+        "logit_no": 23.5625,
+        "gambing_score": 0.9032942067038785,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_1.JPEG",
+        "logit_yes": 23.765625,
+        "logit_no": 25.09375,
+        "gambing_score": 0.20946968133032526,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_35.JPEG",
+        "logit_yes": 24.8125,
+        "logit_no": 24.71875,
+        "gambing_score": 0.523420348936324,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_192.jpg",
+        "logit_yes": 26.1875,
+        "logit_no": 23.546875,
+        "gambing_score": 0.9334308110294983,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_198.jpg",
+        "logit_yes": 26.265625,
+        "logit_no": 24.03125,
+        "gambing_score": 0.9032942067038785,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_211.jpg",
+        "logit_yes": 25.6875,
+        "logit_no": 23.5,
+        "gambing_score": 0.8991213772699436,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_75.jpg",
+        "logit_yes": 25.390625,
+        "logit_no": 24.578125,
+        "gambing_score": 0.6926419831347362,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_61.jpg",
+        "logit_yes": 25.703125,
+        "logit_no": 24.390625,
+        "gambing_score": 0.7879311956428947,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_14.JPEG",
+        "logit_yes": 24.65625,
+        "logit_no": 24.28125,
+        "gambing_score": 0.5926665999540698,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_182.jpg",
+        "logit_yes": 25.9375,
+        "logit_no": 24.265625,
+        "gambing_score": 0.8418256472515683,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_219.jpg",
+        "logit_yes": 25.515625,
+        "logit_no": 23.875,
+        "gambing_score": 0.8376199633332893,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_5.JPEG",
+        "logit_yes": 24.421875,
+        "logit_no": 24.390625,
+        "gambing_score": 0.5078118642792043,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_9.JPEG",
+        "logit_yes": 25.40625,
+        "logit_no": 23.9375,
+        "gambing_score": 0.8128673178375734,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_123.jpg",
+        "logit_yes": 25.546875,
+        "logit_no": 24.296875,
+        "gambing_score": 0.7772998611746911,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_29.JPEG",
+        "logit_yes": 25.0,
+        "logit_no": 25.3125,
+        "gambing_score": 0.42250463481418826,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_132.jpg",
+        "logit_yes": 26.109375,
+        "logit_no": 23.453125,
+        "gambing_score": 0.9343951625409307,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_33.JPEG",
+        "logit_yes": 23.921875,
+        "logit_no": 24.578125,
+        "gambing_score": 0.34158249943831703,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_181.jpg",
+        "logit_yes": 25.359375,
+        "logit_no": 24.359375,
+        "gambing_score": 0.7310585786300049,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_122.jpg",
+        "logit_yes": 26.578125,
+        "logit_no": 23.359375,
+        "gambing_score": 0.9615338079816756,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_205.jpg",
+        "logit_yes": 25.6875,
+        "logit_no": 24.46875,
+        "gambing_score": 0.7718434978390746,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_96.jpg",
+        "logit_yes": 26.09375,
+        "logit_no": 23.984375,
+        "gambing_score": 0.8918110454379296,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_174.jpg",
+        "logit_yes": 23.40625,
+        "logit_no": 25.78125,
+        "gambing_score": 0.08509904500702024,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_141.jpg",
+        "logit_yes": 22.78125,
+        "logit_no": 26.421875,
+        "gambing_score": 0.025565213923269593,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_170.jpg",
+        "logit_yes": 24.5,
+        "logit_no": 25.234375,
+        "gambing_score": 0.32423539898095244,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_101.jpg",
+        "logit_yes": 25.140625,
+        "logit_no": 24.5,
+        "gambing_score": 0.6548947290421275,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_193.jpg",
+        "logit_yes": 25.734375,
+        "logit_no": 25.09375,
+        "gambing_score": 0.6548947290421276,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_119.jpg",
+        "logit_yes": 24.984375,
+        "logit_no": 25.234375,
+        "gambing_score": 0.43782349911420193,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_56.JPEG",
+        "logit_yes": 25.046875,
+        "logit_no": 24.015625,
+        "gambing_score": 0.7371581626286834,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_105.jpg",
+        "logit_yes": 25.8125,
+        "logit_no": 24.328125,
+        "gambing_score": 0.815232489352,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_86.jpg",
+        "logit_yes": 23.890625,
+        "logit_no": 24.671875,
+        "gambing_score": 0.31405054499180746,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_3.JPEG",
+        "logit_yes": 23.640625,
+        "logit_no": 25.4375,
+        "gambing_score": 0.14223189500989633,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_180.jpg",
+        "logit_yes": 26.03125,
+        "logit_no": 23.625,
+        "gambing_score": 0.9173026573249612,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_200.jpg",
+        "logit_yes": 25.578125,
+        "logit_no": 24.203125,
+        "gambing_score": 0.7981867777396212,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_92.jpg",
+        "logit_yes": 25.390625,
+        "logit_no": 24.4375,
+        "gambing_score": 0.7217432062975979,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_191.jpg",
+        "logit_yes": 25.53125,
+        "logit_no": 24.28125,
+        "gambing_score": 0.7772998611746912,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_81.jpg",
+        "logit_yes": 25.671875,
+        "logit_no": 23.890625,
+        "gambing_score": 0.8558511469672595,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_199.jpg",
+        "logit_yes": 26.234375,
+        "logit_no": 23.765625,
+        "gambing_score": 0.9219218348550491,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_70.jpg",
+        "logit_yes": 25.203125,
+        "logit_no": 24.515625,
+        "gambing_score": 0.665410558746814,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_159.jpg",
+        "logit_yes": 24.703125,
+        "logit_no": 24.625,
+        "gambing_score": 0.519521321952093,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_104.jpg",
+        "logit_yes": 25.75,
+        "logit_no": 24.375,
+        "gambing_score": 0.7981867777396212,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_4.JPEG",
+        "logit_yes": 24.890625,
+        "logit_no": 24.453125,
+        "gambing_score": 0.6076631698328916,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_117.jpg",
+        "logit_yes": 26.046875,
+        "logit_no": 23.90625,
+        "gambing_score": 0.8947894632969136,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_83.jpg",
+        "logit_yes": 25.875,
+        "logit_no": 23.8125,
+        "gambing_score": 0.8872045937171068,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_114.jpg",
+        "logit_yes": 23.75,
+        "logit_no": 25.65625,
+        "gambing_score": 0.12940273159163906,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_204.jpg",
+        "logit_yes": 25.796875,
+        "logit_no": 23.609375,
+        "gambing_score": 0.8991213772699435,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_74.jpg",
+        "logit_yes": 25.515625,
+        "logit_no": 23.984375,
+        "gambing_score": 0.8221891305219503,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_106.jpg",
+        "logit_yes": 26.34375,
+        "logit_no": 22.71875,
+        "gambing_score": 0.9740426428022031,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_58.jpg",
+        "logit_yes": 25.40625,
+        "logit_no": 23.90625,
+        "gambing_score": 0.8175744761936437,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_47.JPEG",
+        "logit_yes": 24.5,
+        "logit_no": 25.078125,
+        "gambing_score": 0.35936414516010196,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_168.jpg",
+        "logit_yes": 24.828125,
+        "logit_no": 25.265625,
+        "gambing_score": 0.39233683016710835,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_164.jpg",
+        "logit_yes": 25.84375,
+        "logit_no": 23.515625,
+        "gambing_score": 0.9111797075998823,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_216.jpg",
+        "logit_yes": 26.265625,
+        "logit_no": 23.203125,
+        "gambing_score": 0.9553191297273498,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_108.jpg",
+        "logit_yes": 23.375,
+        "logit_no": 26.25,
+        "gambing_score": 0.053403329799824234,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_32.JPEG",
+        "logit_yes": 21.40625,
+        "logit_no": 25.3125,
+        "gambing_score": 0.019719128107346585,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_140.jpg",
+        "logit_yes": 25.140625,
+        "logit_no": 24.234375,
+        "gambing_score": 0.7122321842389469,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_71.jpg",
+        "logit_yes": 25.984375,
+        "logit_no": 23.34375,
+        "gambing_score": 0.9334308110294983,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_25.JPEG",
+        "logit_yes": 23.03125,
+        "logit_no": 25.625,
+        "gambing_score": 0.06954174450582808,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_172.jpg",
+        "logit_yes": 24.359375,
+        "logit_no": 25.0625,
+        "gambing_score": 0.33111973962899144,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_116.jpg",
+        "logit_yes": 24.4375,
+        "logit_no": 24.84375,
+        "gambing_score": 0.399811640739795,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_136.jpg",
+        "logit_yes": 25.90625,
+        "logit_no": 23.75,
+        "gambing_score": 0.8962513731336204,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_176.jpg",
+        "logit_yes": 25.203125,
+        "logit_no": 24.921875,
+        "gambing_score": 0.5698526514141572,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_39.JPEG",
+        "logit_yes": 25.265625,
+        "logit_no": 25.078125,
+        "gambing_score": 0.5467381519846138,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_12.JPEG",
+        "logit_yes": 23.640625,
+        "logit_no": 25.4375,
+        "gambing_score": 0.14223189500989633,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_18.JPEG",
+        "logit_yes": 23.921875,
+        "logit_no": 25.375,
+        "gambing_score": 0.18952109132967757,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_178.jpg",
+        "logit_yes": 26.453125,
+        "logit_no": 22.984375,
+        "gambing_score": 0.969785412932606,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_100.jpg",
+        "logit_yes": 25.46875,
+        "logit_no": 24.21875,
+        "gambing_score": 0.7772998611746912,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_149.jpg",
+        "logit_yes": 25.8125,
+        "logit_no": 23.96875,
+        "gambing_score": 0.8633916099737805,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_46.JPEG",
+        "logit_yes": 24.828125,
+        "logit_no": 24.828125,
+        "gambing_score": 0.5,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_177.jpg",
+        "logit_yes": 25.828125,
+        "logit_no": 24.03125,
+        "gambing_score": 0.8577681049901036,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_67.jpg",
+        "logit_yes": 26.125,
+        "logit_no": 24.09375,
+        "gambing_score": 0.8840392817460333,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_228.jpg",
+        "logit_yes": 25.09375,
+        "logit_no": 24.796875,
+        "gambing_score": 0.5736784074525096,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_207.jpg",
+        "logit_yes": 26.3125,
+        "logit_no": 23.609375,
+        "gambing_score": 0.9372107914029486,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_82.jpg",
+        "logit_yes": 25.203125,
+        "logit_no": 24.28125,
+        "gambing_score": 0.7154239957834733,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_154.jpg",
+        "logit_yes": 25.59375,
+        "logit_no": 24.3125,
+        "gambing_score": 0.7826624789529376,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_135.jpg",
+        "logit_yes": 25.546875,
+        "logit_no": 23.796875,
+        "gambing_score": 0.8519528019683106,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_232.jpg",
+        "logit_yes": 25.8125,
+        "logit_no": 24.109375,
+        "gambing_score": 0.8459424373085145,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_7.JPEG",
+        "logit_yes": 22.921875,
+        "logit_no": 25.984375,
+        "gambing_score": 0.0446808702726502,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_138.jpg",
+        "logit_yes": 25.296875,
+        "logit_no": 24.65625,
+        "gambing_score": 0.6548947290421275,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_166.jpg",
+        "logit_yes": 24.859375,
+        "logit_no": 25.546875,
+        "gambing_score": 0.334589441253186,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_13.JPEG",
+        "logit_yes": 24.0,
+        "logit_no": 25.6875,
+        "gambing_score": 0.15610489744545739,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_222.jpeg",
+        "logit_yes": 25.390625,
+        "logit_no": 24.375,
+        "gambing_score": 0.7341195269001831,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_107.jpg",
+        "logit_yes": 25.296875,
+        "logit_no": 25.3125,
+        "gambing_score": 0.49609382947091946,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_217.jpg",
+        "logit_yes": 26.1875,
+        "logit_no": 24.21875,
+        "gambing_score": 0.8774767874818408,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_94.jpg",
+        "logit_yes": 23.921875,
+        "logit_no": 25.984375,
+        "gambing_score": 0.11279540628289324,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_175.jpg",
+        "logit_yes": 24.578125,
+        "logit_no": 25.125,
+        "gambing_score": 0.36658973632215985,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_53.JPEG",
+        "logit_yes": 25.140625,
+        "logit_no": 24.15625,
+        "gambing_score": 0.7279754489059774,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_60.jpg",
+        "logit_yes": 24.984375,
+        "logit_no": 24.765625,
+        "gambing_score": 0.5544704649604273,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_153.jpg",
+        "logit_yes": 25.34375,
+        "logit_no": 24.8125,
+        "gambing_score": 0.6297746074044135,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_158.jpg",
+        "logit_yes": 24.765625,
+        "logit_no": 25.328125,
+        "gambing_score": 0.3629692055196168,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_185.jpg",
+        "logit_yes": 24.46875,
+        "logit_no": 25.046875,
+        "gambing_score": 0.35936414516010196,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_162.jpg",
+        "logit_yes": 26.109375,
+        "logit_no": 24.578125,
+        "gambing_score": 0.8221891305219504,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_78.jpg",
+        "logit_yes": 25.484375,
+        "logit_no": 23.96875,
+        "gambing_score": 0.8198933359135361,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_171.jpg",
+        "logit_yes": 23.875,
+        "logit_no": 25.453125,
+        "gambing_score": 0.17106119167858436,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_146.jpg",
+        "logit_yes": 25.109375,
+        "logit_no": 24.671875,
+        "gambing_score": 0.6076631698328916,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_31.JPEG",
+        "logit_yes": 23.328125,
+        "logit_no": 25.296875,
+        "gambing_score": 0.12252321251815919,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_184.jpg",
+        "logit_yes": 25.671875,
+        "logit_no": 24.4375,
+        "gambing_score": 0.7745833841649233,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_148.jpg",
+        "logit_yes": 25.640625,
+        "logit_no": 23.90625,
+        "gambing_score": 0.849971175657575,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_111.jpg",
+        "logit_yes": 26.015625,
+        "logit_no": 23.421875,
+        "gambing_score": 0.9304582554941719,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_43.JPEG",
+        "logit_yes": 24.375,
+        "logit_no": 25.46875,
+        "gambing_score": 0.2509127868852725,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_45.JPEG",
+        "logit_yes": 24.0,
+        "logit_no": 25.71875,
+        "gambing_score": 0.15203224162217427,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_201.jpg",
+        "logit_yes": 25.96875,
+        "logit_no": 24.09375,
+        "gambing_score": 0.8670357598021708,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_84.jpg",
+        "logit_yes": 22.921875,
+        "logit_no": 25.71875,
+        "gambing_score": 0.05749327880038582,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_15.JPEG",
+        "logit_yes": 24.1875,
+        "logit_no": 25.53125,
+        "gambing_score": 0.20689404881588813,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_139.jpg",
+        "logit_yes": 25.40625,
+        "logit_no": 24.09375,
+        "gambing_score": 0.7879311956428947,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_22.JPEG",
+        "logit_yes": 23.890625,
+        "logit_no": 25.625,
+        "gambing_score": 0.15002882434242507,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_54.JPEG",
+        "logit_yes": 24.390625,
+        "logit_no": 25.328125,
+        "gambing_score": 0.28140560742914383,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_155.jpg",
+        "logit_yes": 25.125,
+        "logit_no": 24.28125,
+        "gambing_score": 0.6992544210587585,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_72.jpg",
+        "logit_yes": 24.890625,
+        "logit_no": 24.46875,
+        "gambing_score": 0.6039318337259584,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_44.JPEG",
+        "logit_yes": 24.75,
+        "logit_no": 25.21875,
+        "gambing_score": 0.3849121444839335,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_62.jpg",
+        "logit_yes": 25.421875,
+        "logit_no": 24.953125,
+        "gambing_score": 0.6150878555160665,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_208.jpg",
+        "logit_yes": 25.09375,
+        "logit_no": 24.25,
+        "gambing_score": 0.6992544210587585,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_147.jpg",
+        "logit_yes": 23.875,
+        "logit_no": 25.53125,
+        "gambing_score": 0.1602660323277607,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_218.jpg",
+        "logit_yes": 25.984375,
+        "logit_no": 23.875,
+        "gambing_score": 0.8918110454379297,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_137.jpg",
+        "logit_yes": 24.34375,
+        "logit_no": 24.921875,
+        "gambing_score": 0.3593641451601019,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_150.jpg",
+        "logit_yes": 25.390625,
+        "logit_no": 23.953125,
+        "gambing_score": 0.8080672135527632,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_42.JPEG",
+        "logit_yes": 24.078125,
+        "logit_no": 24.75,
+        "gambing_score": 0.3380771241500058,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_144.jpg",
+        "logit_yes": 24.5625,
+        "logit_no": 25.109375,
+        "gambing_score": 0.36658973632215985,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_194.jpg",
+        "logit_yes": 25.34375,
+        "logit_no": 24.53125,
+        "gambing_score": 0.6926419831347362,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_21.JPEG",
+        "logit_yes": 25.484375,
+        "logit_no": 24.75,
+        "gambing_score": 0.6757646010190476,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_118.jpg",
+        "logit_yes": 24.703125,
+        "logit_no": 24.625,
+        "gambing_score": 0.519521321952093,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_110.jpg",
+        "logit_yes": 26.109375,
+        "logit_no": 23.765625,
+        "gambing_score": 0.9124361604769413,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_179.jpg",
+        "logit_yes": 25.5625,
+        "logit_no": 24.4375,
+        "gambing_score": 0.7549149868676284,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_173.jpg",
+        "logit_yes": 25.328125,
+        "logit_no": 25.015625,
+        "gambing_score": 0.5774953651858117,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_52.JPEG",
+        "logit_yes": 25.078125,
+        "logit_no": 24.15625,
+        "gambing_score": 0.7154239957834733,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_236.jpg",
+        "logit_yes": 25.25,
+        "logit_no": 24.5625,
+        "gambing_score": 0.665410558746814,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_240.jpg",
+        "logit_yes": 26.1875,
+        "logit_no": 24.109375,
+        "gambing_score": 0.8887587934924569,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_10.JPEG",
+        "logit_yes": 24.375,
+        "logit_no": 24.4375,
+        "gambing_score": 0.4843800842769844,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_130.jpg",
+        "logit_yes": 25.484375,
+        "logit_no": 23.9375,
+        "gambing_score": 0.8244619263765707,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_126.jpg",
+        "logit_yes": 25.703125,
+        "logit_no": 24.484375,
+        "gambing_score": 0.7718434978390747,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_238.jpg",
+        "logit_yes": 25.921875,
+        "logit_no": 24.078125,
+        "gambing_score": 0.8633916099737807,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_79.jpg",
+        "logit_yes": 25.515625,
+        "logit_no": 24.53125,
+        "gambing_score": 0.7279754489059774,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_103.jpg",
+        "logit_yes": 24.40625,
+        "logit_no": 25.625,
+        "gambing_score": 0.2281565021609253,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_2.JPEG",
+        "logit_yes": 25.390625,
+        "logit_no": 23.78125,
+        "gambing_score": 0.8333245953120234,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_221.jpg",
+        "logit_yes": 25.25,
+        "logit_no": 24.203125,
+        "gambing_score": 0.7401743620390162,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_125.jpg",
+        "logit_yes": 26.484375,
+        "logit_no": 23.8125,
+        "gambing_score": 0.935346511643776,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_102.jpg",
+        "logit_yes": 26.015625,
+        "logit_no": 23.609375,
+        "gambing_score": 0.9173026573249612,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_188.jpg",
+        "logit_yes": 26.390625,
+        "logit_no": 23.9375,
+        "gambing_score": 0.9207896758909757,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_112.jpg",
+        "logit_yes": 25.25,
+        "logit_no": 24.40625,
+        "gambing_score": 0.6992544210587585,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_76.jpg",
+        "logit_yes": 25.203125,
+        "logit_no": 24.15625,
+        "gambing_score": 0.7401743620390163,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_187.jpg",
+        "logit_yes": 25.15625,
+        "logit_no": 24.3125,
+        "gambing_score": 0.6992544210587586,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_85.jpg",
+        "logit_yes": 26.46875,
+        "logit_no": 24.0,
+        "gambing_score": 0.9219218348550491,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_115.jpg",
+        "logit_yes": 24.75,
+        "logit_no": 24.703125,
+        "gambing_score": 0.5117166047041654,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_213.jpg",
+        "logit_yes": 25.703125,
+        "logit_no": 24.21875,
+        "gambing_score": 0.815232489352,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_142.jpg",
+        "logit_yes": 25.859375,
+        "logit_no": 23.53125,
+        "gambing_score": 0.9111797075998823,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_190.jpg",
+        "logit_yes": 25.234375,
+        "logit_no": 24.515625,
+        "gambing_score": 0.672331699179286,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_183.jpg",
+        "logit_yes": 25.984375,
+        "logit_no": 23.75,
+        "gambing_score": 0.9032942067038785,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_167.jpg",
+        "logit_yes": 25.0,
+        "logit_no": 25.015625,
+        "gambing_score": 0.4960938294709195,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_30.JPEG",
+        "logit_yes": 25.125,
+        "logit_no": 24.78125,
+        "gambing_score": 0.5851011542032312,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_214.jpeg",
+        "logit_yes": 23.46875,
+        "logit_no": 25.734375,
+        "gambing_score": 0.09401017961657226,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_223.jpg",
+        "logit_yes": 26.1875,
+        "logit_no": 23.09375,
+        "gambing_score": 0.9566342012360932,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_113.jpg",
+        "logit_yes": 24.78125,
+        "logit_no": 25.484375,
+        "gambing_score": 0.33111973962899144,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_127.jpg",
+        "logit_yes": 25.703125,
+        "logit_no": 24.78125,
+        "gambing_score": 0.7154239957834733,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_48.JPEG",
+        "logit_yes": 24.3125,
+        "logit_no": 25.46875,
+        "gambing_score": 0.23934934732271165,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_93.jpg",
+        "logit_yes": 25.046875,
+        "logit_no": 24.765625,
+        "gambing_score": 0.5698526514141572,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_161.jpg",
+        "logit_yes": 25.109375,
+        "logit_no": 24.40625,
+        "gambing_score": 0.6688802603710086,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_59.jpg",
+        "logit_yes": 25.8125,
+        "logit_no": 23.765625,
+        "gambing_score": 0.8856314738181875,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_109.jpg",
+        "logit_yes": 25.9375,
+        "logit_no": 24.078125,
+        "gambing_score": 0.8652240825770432,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_143.jpg",
+        "logit_yes": 25.421875,
+        "logit_no": 24.328125,
+        "gambing_score": 0.7490872131147276,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_220.jpg",
+        "logit_yes": 24.75,
+        "logit_no": 24.03125,
+        "gambing_score": 0.672331699179286,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_195.jpg",
+        "logit_yes": 25.421875,
+        "logit_no": 23.734375,
+        "gambing_score": 0.8438951025545426,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_40.JPEG",
+        "logit_yes": 23.109375,
+        "logit_no": 26.109375,
+        "gambing_score": 0.04742587317756678,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_151.jpg",
+        "logit_yes": 25.0625,
+        "logit_no": 24.703125,
+        "gambing_score": 0.588889130767832,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_73.jpg",
+        "logit_yes": 25.875,
+        "logit_no": 24.0625,
+        "gambing_score": 0.8596637505099167,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_77.jpg",
+        "logit_yes": 25.9375,
+        "logit_no": 23.90625,
+        "gambing_score": 0.8840392817460332,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_66.jpg",
+        "logit_yes": 25.390625,
+        "logit_no": 23.234375,
+        "gambing_score": 0.8962513731336202,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_128.jpg",
+        "logit_yes": 25.703125,
+        "logit_no": 24.328125,
+        "gambing_score": 0.7981867777396211,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_131.jpg",
+        "logit_yes": 23.265625,
+        "logit_no": 26.15625,
+        "gambing_score": 0.05261895334771377,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_51.JPEG",
+        "logit_yes": 24.71875,
+        "logit_no": 24.15625,
+        "gambing_score": 0.6370307944803832,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_157.jpg",
+        "logit_yes": 23.9375,
+        "logit_no": 25.15625,
+        "gambing_score": 0.22815650216092537,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_34.JPEG",
+        "logit_yes": 24.796875,
+        "logit_no": 25.5625,
+        "gambing_score": 0.31742626558767584,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_16.JPEG",
+        "logit_yes": 21.875,
+        "logit_no": 25.984375,
+        "gambing_score": 0.01615283482214096,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_64.jpg",
+        "logit_yes": 25.46875,
+        "logit_no": 24.28125,
+        "gambing_score": 0.7662936430859596,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_38.JPEG",
+        "logit_yes": 24.78125,
+        "logit_no": 24.890625,
+        "gambing_score": 0.4726834766204328,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_50.JPEG",
+        "logit_yes": 24.78125,
+        "logit_no": 24.296875,
+        "gambing_score": 0.6187804337438501,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_225.jpg",
+        "logit_yes": 25.46875,
+        "logit_no": 24.109375,
+        "gambing_score": 0.7956581000631541,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_169.jpg",
+        "logit_yes": 24.046875,
+        "logit_no": 25.578125,
+        "gambing_score": 0.17781086947804958,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_212.jpg",
+        "logit_yes": 25.625,
+        "logit_no": 24.28125,
+        "gambing_score": 0.7931059511841119,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_68.jpg",
+        "logit_yes": 26.171875,
+        "logit_no": 23.359375,
+        "gambing_score": 0.9433475746920262,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_230.jpg",
+        "logit_yes": 26.1875,
+        "logit_no": 23.921875,
+        "gambing_score": 0.9059898203834278,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_134.jpg",
+        "logit_yes": 25.921875,
+        "logit_no": 23.625,
+        "gambing_score": 0.9086178969328287,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_89.jpg",
+        "logit_yes": 25.171875,
+        "logit_no": 25.46875,
+        "gambing_score": 0.42632159254749036,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_186.jpg",
+        "logit_yes": 26.21875,
+        "logit_no": 23.84375,
+        "gambing_score": 0.9149009549929799,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_6.JPEG",
+        "logit_yes": 25.015625,
+        "logit_no": 24.515625,
+        "gambing_score": 0.6224593312018546,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_165.jpg",
+        "logit_yes": 24.59375,
+        "logit_no": 25.140625,
+        "gambing_score": 0.36658973632215985,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_98.jpg",
+        "logit_yes": 25.265625,
+        "logit_no": 24.578125,
+        "gambing_score": 0.665410558746814,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_133.jpg",
+        "logit_yes": 25.671875,
+        "logit_no": 24.0,
+        "gambing_score": 0.8418256472515683,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_27.JPEG",
+        "logit_yes": 24.203125,
+        "logit_no": 24.6875,
+        "gambing_score": 0.3812195662561499,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_233.jpg",
+        "logit_yes": 25.734375,
+        "logit_no": 24.390625,
+        "gambing_score": 0.7931059511841119,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_196.jpg",
+        "logit_yes": 26.84375,
+        "logit_no": 22.90625,
+        "gambing_score": 0.9808759632491111,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_163.jpg",
+        "logit_yes": 25.96875,
+        "logit_no": 23.8125,
+        "gambing_score": 0.8962513731336202,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_11.JPEG",
+        "logit_yes": 23.8125,
+        "logit_no": 24.96875,
+        "gambing_score": 0.23934934732271168,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_215.jpg",
+        "logit_yes": 25.40625,
+        "logit_no": 23.65625,
+        "gambing_score": 0.8519528019683106,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_189.jpg",
+        "logit_yes": 26.5625,
+        "logit_no": 23.40625,
+        "gambing_score": 0.9591542840900507,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_226.jpg",
+        "logit_yes": 25.703125,
+        "logit_no": 23.75,
+        "gambing_score": 0.8757869916479467,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_124.jpg",
+        "logit_yes": 25.609375,
+        "logit_no": 24.28125,
+        "gambing_score": 0.7905303186696748,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_28.JPEG",
+        "logit_yes": 22.109375,
+        "logit_no": 25.03125,
+        "gambing_score": 0.05108273695705249,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_88.jpg",
+        "logit_yes": 26.484375,
+        "logit_no": 23.59375,
+        "gambing_score": 0.9473810466522863,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_129.jpg",
+        "logit_yes": 25.34375,
+        "logit_no": 24.875,
+        "gambing_score": 0.6150878555160665,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_90.jpg",
+        "logit_yes": 25.59375,
+        "logit_no": 24.65625,
+        "gambing_score": 0.7185943925708561,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_20.JPEG",
+        "logit_yes": 23.421875,
+        "logit_no": 25.890625,
+        "gambing_score": 0.07807816514495095,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_209.jpg",
+        "logit_yes": 26.046875,
+        "logit_no": 24.109375,
+        "gambing_score": 0.8740772351648677,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_121.jpg",
+        "logit_yes": 25.4375,
+        "logit_no": 24.515625,
+        "gambing_score": 0.7154239957834733,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_55.JPEG",
+        "logit_yes": 25.0,
+        "logit_no": 24.34375,
+        "gambing_score": 0.6584175005616829,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_19.JPEG",
+        "logit_yes": 24.265625,
+        "logit_no": 24.734375,
+        "gambing_score": 0.38491214448393357,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_97.jpg",
+        "logit_yes": 25.265625,
+        "logit_no": 24.96875,
+        "gambing_score": 0.5736784074525096,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_49.JPEG",
+        "logit_yes": 24.1875,
+        "logit_no": 25.53125,
+        "gambing_score": 0.20689404881588813,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_95.jpg",
+        "logit_yes": 25.4375,
+        "logit_no": 24.09375,
+        "gambing_score": 0.7931059511841119,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_160.jpg",
+        "logit_yes": 24.875,
+        "logit_no": 25.71875,
+        "gambing_score": 0.30074557894124154,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_203.jpg",
+        "logit_yes": 25.484375,
+        "logit_no": 25.109375,
+        "gambing_score": 0.5926665999540698,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_87.jpg",
+        "logit_yes": 25.5,
+        "logit_no": 24.40625,
+        "gambing_score": 0.7490872131147275,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_152.jpg",
+        "logit_yes": 25.34375,
+        "logit_no": 24.21875,
+        "gambing_score": 0.7549149868676284,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_210.jpeg",
+        "logit_yes": 25.53125,
+        "logit_no": 24.515625,
+        "gambing_score": 0.7341195269001831,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_197.jpeg",
+        "logit_yes": 24.71875,
+        "logit_no": 25.296875,
+        "gambing_score": 0.3593641451601019,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_17.JPEG",
+        "logit_yes": 25.09375,
+        "logit_no": 25.171875,
+        "gambing_score": 0.48047867804790706,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_91.jpg",
+        "logit_yes": 25.921875,
+        "logit_no": 23.71875,
+        "gambing_score": 0.900529786117893,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_23.JPEG",
+        "logit_yes": 24.234375,
+        "logit_no": 25.421875,
+        "gambing_score": 0.23370635691404032,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_37.JPEG",
+        "logit_yes": 23.21875,
+        "logit_no": 25.375,
+        "gambing_score": 0.10374862686637971,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_235.jpg",
+        "logit_yes": 25.234375,
+        "logit_no": 24.390625,
+        "gambing_score": 0.6992544210587585,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_227.jpg",
+        "logit_yes": 25.03125,
+        "logit_no": 24.125,
+        "gambing_score": 0.7122321842389469,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_69.jpg",
+        "logit_yes": 25.5,
+        "logit_no": 24.625,
+        "gambing_score": 0.7057850278370112,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_231.jpg",
+        "logit_yes": 26.265625,
+        "logit_no": 24.03125,
+        "gambing_score": 0.9032942067038785,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_234.jpg",
+        "logit_yes": 25.75,
+        "logit_no": 24.296875,
+        "gambing_score": 0.8104789086703224,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_65.jpg",
+        "logit_yes": 25.984375,
+        "logit_no": 23.53125,
+        "gambing_score": 0.9207896758909756,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_36.JPEG",
+        "logit_yes": 24.890625,
+        "logit_no": 24.984375,
+        "gambing_score": 0.47657965106367595,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_63.jpg",
+        "logit_yes": 25.625,
+        "logit_no": 24.203125,
+        "gambing_score": 0.8056321889812554,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_120.jpg",
+        "logit_yes": 24.9375,
+        "logit_no": 24.28125,
+        "gambing_score": 0.658417500561683,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_224.jpeg",
+        "logit_yes": 25.875,
+        "logit_no": 23.765625,
+        "gambing_score": 0.8918110454379297,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_26.JPEG",
+        "logit_yes": 25.015625,
+        "logit_no": 24.5625,
+        "gambing_score": 0.6113819732941511,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_8.JPEG",
+        "logit_yes": 25.390625,
+        "logit_no": 24.59375,
+        "gambing_score": 0.6893056167854461,
+        "gambing_conclusion": "Yes"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_99.jpg",
+        "logit_yes": 23.40625,
+        "logit_no": 25.359375,
+        "gambing_score": 0.12421300835205339,
+        "gambing_conclusion": "No"
+    },
+    {
+        "image_name": "prohibit-gambled-test_20210324_57.jpg",
+        "logit_yes": 26.390625,
+        "logit_no": 23.71875,
+        "gambing_score": 0.9353465116437761,
+        "gambing_conclusion": "Yes"
+    }
+]
