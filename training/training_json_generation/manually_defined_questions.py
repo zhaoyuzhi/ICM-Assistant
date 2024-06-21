@@ -335,7 +335,6 @@ def filter_img_list(img_list):
     text_save(new_trainlist, 'vallist.txt')
 
 
-
 if __name__ == '__main__':
     # use answers_en.txt and questions_en list for english data
     # filter_img_list('vallist.txt')

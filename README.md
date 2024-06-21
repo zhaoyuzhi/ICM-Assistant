@@ -8,10 +8,14 @@
 
 **data** includes tools for data generation pipeline.
 
-# 3 training
+# 3 eval
 
-**training** includes tools for training pipeline.
+**eval** includes tools for performance evaluation pipeline.
 
 # 4 inference
 
 **inference** includes tools for inference pipeline.
+
+# 5 training
+
+**training** includes tools for training pipeline.

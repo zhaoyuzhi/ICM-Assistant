@@ -256,7 +256,6 @@ def filter_img_list(img_list):
     text_save(new_trainlist, '_trainlist.txt')
 
 
-
 if __name__ == '__main__':
     # use answers_en.txt and questions_en list for english data
     mapping = update_mapping_from_txt(filename='answers.txt', trainlist_name='_trainlist.txt', n_sample=11)
