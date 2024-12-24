@@ -2,8 +2,6 @@ from utils import text_readlines, text_save, get_class, check_path
 import random
 import json
 
-# 以下是我自己定义的文件夹名字到违规原因的映射，具体要再改改，可以参考“自研性感分类”
-
 questions = [
     '图中的人物符合了\"性感裸露\"定义吗?请回答是或否, 并解释原因.',
     '这个人物是否符合\"性感裸露\"定义?请回答是或者否，并说出原因',
