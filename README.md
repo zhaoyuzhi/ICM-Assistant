@@ -89,7 +89,7 @@ python eval_scripts/llava_v1.5/eval_MEQ.py
 
 ### Other MLLMs are pending
 
-*For mPLUG-Owl-2, Only Single GPU Inference is supported now. Please set environmental variable (e.g. `export CUDA_VISIBLE_DEVICES=0`) to make sure that the model can be loaded on only one device.*
+<!-- *For mPLUG-Owl-2, Only Single GPU Inference is supported now. Please set environmental variable (e.g. `export CUDA_VISIBLE_DEVICES=0`) to make sure that the model can be loaded on only one device.* -->
 
 
 ## Training
