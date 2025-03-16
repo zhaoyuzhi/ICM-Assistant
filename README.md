@@ -5,7 +5,9 @@
 <div> AAAI 2025 </div>
 
 <div>
-   <a href="https://huggingface.co/datasets/zhaoyuzhi/ICM-Instruct"><strong>Dataset</strong></a> | <a href="hhttps://huggingface.co/collections/zhaoyuzhi/icm-assistant-6790a2053c1b3f65df4e2541"><strong>Model Zoo</strong></a> |  <a href="https://arxiv.org/abs/2412.18216"><strong>Paper</strong></a>
+   <a href="https://huggingface.co/datasets/zhaoyuzhi/ICM-Instruct"><strong>Dataset</strong></a> | 
+   <a href="https://huggingface.co/collections/zhaoyuzhi/icm-assistant-6790a2053c1b3f65df4e2541"><strong>Model Zoo</strong></a> |  
+   <a href="https://arxiv.org/abs/2412.18216"><strong>Paper</strong></a>
    </div>   
 
     
