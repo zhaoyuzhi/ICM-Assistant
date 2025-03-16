@@ -1,6 +1,6 @@
 
     
-<h1>Q-Instruct: Improving Low-level Visual Abilities for Multi-modality Foundation Models</h1>
+<h1>ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation</h1>
 
 <div> AAAI 2025 </div>
 
