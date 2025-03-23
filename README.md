@@ -98,11 +98,11 @@ python eval_scripts/llava_v1.5/eval_MEQ.py
 
 - [Training Docs for LLaVA-v1.5/LLaVA-v1.6](scripts/llava_v1.5)
 - [Training Docs for mPLUG-Owl-2](scripts/mplug_owl_2)
-- [Training Docs for Intern](scripts/llava_v1.5)
+<!-- - [Training Docs for InternVL](scripts/llava_v1.5)
 - [Training Docs for mPLUG-Owl-2](scripts/mplug_owl_2)
 - [Training Docs for LLaVA-v1.5](scripts/llava_v1.5)
 - [Training Docs for mPLUG-Owl-2](scripts/mplug_owl_2)
-
+ -->
 ## License
 
 Researchers and open-source developers are **free** to use the **ICM-Assistant** dataset and the fine-tuned weights as provided for the four MLLMs. We also allow commercial use, while any commercial use should be pre-permitted by our team. Please email `mywu@cse.cuhk.edu.hk` to gain the permission for commercial use.
