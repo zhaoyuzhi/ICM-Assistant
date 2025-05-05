@@ -12,7 +12,7 @@
 
     
   <div style="width: 100%; text-align: center; margin:auto;">
-      <img style="width:100%" src="./fig/teaser.png">
+      <img style="width:100%" src="./fig/teaser.jpg">
   </div>
 </div>   
   
@@ -112,14 +112,16 @@ Researchers and open-source developers are **free** to use the **ICM-Assistant**
 If you consider this work interesting, please feel free to cite it in your work!
 
 ```bibtex
-@misc{wu2025icmassistantinstructiontuningmultimodallarge,
-      title={ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation}, 
-      author={Mengyang Wu and Yuzhi Zhao and Jialun Cao and Mingjie Xu and Zhongming Jiang and Xuehui Wang and Qinbin Li and Guangneng Hu and Shengchao Qin and Chi-Wing Fu},
-      year={2025},
-      eprint={2412.18216},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2412.18216}, 
+@article{icm_wu_2025, 
+    title={ICM-Assistant: Instruction-tuning Multimodal Large Language Models for Rule-based Explainable Image Content Moderation}, 
+    volume={39}, 
+    url={https://ojs.aaai.org/index.php/AAAI/article/view/32908}, 
+    DOI={10.1609/aaai.v39i8.32908}, 
+    number={8}, 
+    journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
+    author={Wu, Mengyang and Zhao, Yuzhi and Cao, Jialun and Xu, Mingjie and Jiang, Zhongming and Wang, Xuehui and Li, Qinbin and Hu, Guangneng and Qin, Shengchao and Fu, Chi-Wing}, year={2025},
+    month={Apr.}, 
+    pages={8413-8422} 
 }
 ```
 
