@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a floral pattern shirt? | Yes. |
+| Yes/No | Is the man in a professional setting? | Yes. |
+| Yes/No | Is the image a candid or unposed photograph? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire revealing or provocative? | No. |
+| Yes/No | Is the setting of the image a professional environment? | Yes. |
+| What | What is the color of the man's shirt? | Red and white. |
+| What | What is the pattern on the man's shirt? | Floral. |
+| How | How does the low exposure level of the image contribute to its atmosphere? | It makes the image appear more formal and professional rather than sensual or provocative. |
+| How | How does the man's attire and setting suggest the purpose of the image? | The man's attire and setting suggest that the image is intended to be a professional or businessrelated photograph, rather than a sexy or provocative one. |

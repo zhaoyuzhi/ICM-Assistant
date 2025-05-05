@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the skirt beige? | Yes. |
+| Yes/No | Is the woman's hand on her hip? | Yes. |
+| Yes/No | Is the woman looking to the side? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the woman's pose and the way she is looking to the side give the image a sense of confidence and allure? | Yes. |
+| What | What color is the woman's top? | White. |
+| What | What is the color of the skirt? | Beige. |
+| How | How is the woman's hand positioned in the image? | On her hip. |
+| How | How is the woman looking in the image? | To the side. |

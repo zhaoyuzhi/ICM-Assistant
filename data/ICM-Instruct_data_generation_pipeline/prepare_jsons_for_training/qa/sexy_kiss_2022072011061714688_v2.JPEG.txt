@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a gray shirt? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Does the image depict an outdoor setting? | Yes. |
+| What | What is the man wearing? | A gray shirt. |
+| What | What is the woman wearing? | A white dress. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the woman's head tilted back as she receives the man's kiss. |
+| How | How does the background appear? | The background appears blurred, suggesting an outdoor setting. |

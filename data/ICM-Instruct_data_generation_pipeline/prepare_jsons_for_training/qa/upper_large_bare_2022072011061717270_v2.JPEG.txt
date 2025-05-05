@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Is the woman in the image wearing matching blue underwear? | Yes. |
+| Yes/No | Is the woman in the image lying on a couch? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image wearing? | A blue bra and matching blue underwear. |
+| What | What is the woman in the image doing? | She is lying on a couch with her head resting on her hand. |
+| How | How is the woman in the image posed? | She is lying on her side with her head resting on her hand. |
+| How | How does the woman in the image appear to be looking? | She is looking directly at the camera. |

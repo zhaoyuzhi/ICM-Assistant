@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of gray shorts? | Yes. |
+| Yes/No | Is the woman's top pink? | Yes. |
+| Yes/No | Does the woman have her left hand on her hip? | Yes. |
+| Yes/No | Is the woman's right hand resting on her thigh? | Yes. |
+| Yes/No | Does the image have a white background? | Yes. |
+| Yes/No | Does the woman's outfit create a sense of allure and confidence? | Yes. |
+| What | What color are the woman's shorts? | Gray. |
+| What | What is the color of the woman's top? | Pink. |
+| How | How is the woman's waist accentuated in the image? | The woman's waist is accentuated by the drawstring waist of her gray shorts. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, with her left hand on her hip and her right hand resting on her thigh, adds a touch of sensuality to the image and creates a confident and alluring atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's arms resting on their hips? | Yes. |
+| Yes/No | Is the brick wall in the background white? | Yes. |
+| Yes/No | Is the dress the person is wearing black? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the chair in the image black? | Yes. |
+| What | What is the person in the image wearing? | A long black dress with a lace back. |
+| What | What is the color of the brick wall in the background? | White. |
+| How | How is the person standing in the image? | With their arms placed on their hips. |
+| How | How does the image create a sense of intimacy and confidence? | Through the exposure of the person's back and the closeup nature of the photo. |

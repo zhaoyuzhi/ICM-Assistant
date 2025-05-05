@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue denim shirt? | Yes. |
+| Yes/No | Are the woman's shorts strapless? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Is the background of the image a fence and trees? | Yes. |
+| Yes/No | Does the woman have her left hand on her hip? | Yes. |
+| Yes/No | Does the woman have her right hand on her thigh? | Yes. |
+| What | What color is the woman's shirt? | Blue. |
+| What | What is the woman's pose in the image? | She is striking a pose with her left hand on her hip and her right hand on her thigh. |
+| How | How does the woman's outfit contribute to the overall allure of the image? | The woman's strapless shirt and shorts reveal her midriff, which is a common feature in sexy outfits, and her pose with her left hand on her hip and her right hand on her thigh adds to the overall allure of the image. |
+| How | How does the background of the image contribute to the overall atmosphere of the image? | The background of the image, which consists of a fence and trees, creates a natural and relaxed atmosphere that complements the woman's sexy outfit and pose. |

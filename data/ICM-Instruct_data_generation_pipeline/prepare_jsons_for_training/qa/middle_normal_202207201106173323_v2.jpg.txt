@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the man in the image wearing a black belt? | Yes. |
+| Yes/No | Is the man in the image wearing khaki pants? | Yes. |
+| Yes/No | Is the man in the image standing with his hands in his pockets? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| What | What is the man in the image wearing on his upper body? | A white shirt. |
+| What | What is the man in the image wearing on his lower body? | Khaki pants. |
+| How | How is the man standing in the image? | With his hands in his pockets. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's hands in his pockets? | Yes. |
+| Yes/No | Is the man wearing a black belt? | Yes. |
+| Yes/No | Are the man's pants khaki? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the man's pose in the image? | He is standing with his hands in his pockets. |
+| What | What is the overall atmosphere of the image? | Calm and nonthreatening. |
+| How | How does the man's attire suggest a casual, relaxed atmosphere? | The man is wearing a white shirt, a black belt, and khaki pants, which are all casual, everyday clothes. |
+| How | How does the exposure level of the image reduce the potential for explicit or suggestive content? | The low exposure level means that only a small portion of the man's body is visible, reducing the potential for any explicit or suggestive content. |

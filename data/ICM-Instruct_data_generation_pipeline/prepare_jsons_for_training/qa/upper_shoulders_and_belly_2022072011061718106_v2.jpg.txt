@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the woman have any visible tattoos or piercings? | No. |
+| Yes/No | Is the woman smiling? | No. |
+| What | What is the primary color of the woman's top? | Blue. |
+| What | What is the pattern on the woman's top? | Checkered. |
+| How | How is the woman posing for the camera? | With her hands on her hips. |
+| How | How would you describe the woman's overall appearance in the image? | Confident and alluring. |

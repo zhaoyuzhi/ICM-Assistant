@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Are the person's movements visible in the image? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What is the color of the person's shirt in the image? | Black. |
+| What | What is the color of the background in the image? | White. |
+| How | How does the low exposure level affect the image? | It makes the image appear dark and difficult to see, and it obscures the details of the person's movements and clothes. |
+| How | How does the absence of any explicit or implied sexual content affect the image? | It makes the image appear neutral and nonsexual, and it eliminates any potential for misinterpretation or offense. |

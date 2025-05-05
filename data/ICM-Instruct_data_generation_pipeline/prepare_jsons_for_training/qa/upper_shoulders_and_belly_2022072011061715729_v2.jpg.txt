@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a midriff-baring skirt? | Yes. |
+| Yes/No | Is the woman in the image posing in a confident manner? | Yes. |
+| Yes/No | Are her hands on her hips? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image suggest a sense of self-assuredness and confidence? | Yes. |
+| What | What is the woman in the image wearing? | A strapless top and a midriffbaring skirt. |
+| What | What is the background of the image? | An outdoor setting with trees and a building. |
+| How | How is the woman posing in the image? | With her hands on her hips. |
+| How | How does the image capture a moment of self-assuredness and confidence? | Through the woman's confident and sexy appearance, contrasted with the blurred outdoor background. |

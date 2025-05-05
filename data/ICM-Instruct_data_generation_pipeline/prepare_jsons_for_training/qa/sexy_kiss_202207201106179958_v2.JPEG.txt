@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Are the man and woman kissing passionately? | Yes. |
+| Yes/No | Does the image have a dark and blurred background? | Yes. |
+| Yes/No | Is the woman's hair styled in a long ponytail? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | Yes. |
+| What | What is the man wearing in the image? | A long black jacket and a white shirt. |
+| What | What is the woman's hairstyle in the image? | A long ponytail. |
+| How | How is the woman looking at the man? | She is looking up at him. |
+| How | How are the man and woman positioned in relation to each other? | They are standing close together, with the man's arms wrapped around the woman's waist. |

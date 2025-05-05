@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the woman's thighs and knees visible in the image? | Yes. |
+| Yes/No | Is she wearing high heels? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the walls and floor in the background white? | Yes. |
+| What | What is the woman lifting in the image? | Her dress. |
+| What | What is the color of the woman's hair? | Long hair (not specified). |
+| How | How is the woman posing in the image? | Confidently and selfassuredly. |
+| How | How does the woman's interaction with her dress contribute to the image's atmosphere? | It adds a sense of allure and mystery. |

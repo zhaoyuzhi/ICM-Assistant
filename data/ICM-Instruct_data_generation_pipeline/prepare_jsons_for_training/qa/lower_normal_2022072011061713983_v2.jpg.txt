@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image walking? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Does the person in the image have any visible tattoos or piercings? | No. |
+| Yes/No | Is the room in the image dimly lit? | Yes. |
+| Yes/No | Does the image feature any explicit content? | No. |
+| Yes/No | Is the person in the image smiling? | No. |
+| What | What is the person in the image wearing? | A white shirt, blue pants, and white sneakers. |
+| What | What is the color of the couch in the background? | Black. |
+| How | How is the overall atmosphere of the image? | Calm and casual. |
+| How | How does the low exposure level of the person affect the image? | It emphasizes the focus on the overall atmosphere of the room rather than the person's appearance. |

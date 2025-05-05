@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige shorts? | Yes. |
+| Yes/No | Does the fabric of the shorts have a textured finish? | Yes. |
+| Yes/No | Is there a belt loop on the waistband of the shorts? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Is the image sexually suggestive or provocative? | No. |
+| What | What is the primary focus of the image? | The person's attire. |
+| What | What is the overall atmosphere of the image? | Modest and nonsexual. |
+| How | How is the person's body visible in the image? | A small portion of the person's body is visible. |
+| How | How does the low exposure level contribute to the image's atmosphere? | It reinforces the modest and nonsexual nature of the image. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Does the image feature any inappropriate or offensive content? | No. |
+| Yes/No | Is the person's pose or expression explicit? | No. |
+| What | What is the color of the person's shorts? | Beige. |
+| What | What is the texture of the fabric of the person's shorts? | Textured. |
+| How | How is the person's waistband fastened? | With a belt loop. |
+| How | How much of the person's body is visible in the image? | A small portion. |

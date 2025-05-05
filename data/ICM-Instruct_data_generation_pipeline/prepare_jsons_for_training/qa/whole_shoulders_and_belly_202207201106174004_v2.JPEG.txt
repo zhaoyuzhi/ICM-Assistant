@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Is the woman carrying a small purse? | Yes. |
+| Yes/No | Is her hair styled in loose waves? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman carrying in her left hand? | A small purse adorned with a chain strap. |
+| What | What is the color of the dress? | Black. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How does the woman carry herself in the image? | Confidently and with selfassurance. |

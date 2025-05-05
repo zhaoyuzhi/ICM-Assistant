@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man positioned on the left in the image? | Yes. |
+| Yes/No | Is the woman positioned on the right in the image? | Yes. |
+| Yes/No | Are the man and woman kissing in the image? | Yes. |
+| Yes/No | Is the man wearing a black shirt in the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the man's shirt in the image? | Black. |
+| What | What is the color of the woman's blouse in the image? | White. |
+| How | How are the man and woman positioned in the image? | The man is positioned on the left, and the woman is positioned on the right. |
+| How | How would you describe the atmosphere created by the image? | Intimate. |

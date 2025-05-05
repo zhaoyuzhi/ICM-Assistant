@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing denim shorts? | Yes. |
+| Yes/No | Is the woman in the image holding a small purse? | Yes. |
+| Yes/No | Does the woman in the image have a short bob haircut? | Yes. |
+| Yes/No | Is the woman in the image wearing earrings? | Yes. |
+| Yes/No | Are there any suggestive elements in the background of the image? | Yes. |
+| What | What is the woman in the image holding in her hand? | A small purse. |
+| What | What is the style of the woman's haircut in the image? | A short bob. |
+| How | How many elements in the background of the image suggest self-expression and personal style? | 2 (a mirror and a sink). |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | The woman's outfit, which includes a strapless top and denim shorts, contributes to the sexy atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Is the woman in the image holding a blue denim jacket? | Yes. |
+| Yes/No | Is the woman in the image standing against a white background? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Does the woman's pose and attire suggest a casual, relaxed atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A gray crop top. |
+| What | What is the woman in the image wearing on her lower body? | Blue jeans. |
+| How | How is the woman in the image standing? | With her hand on her hip. |
+| How | How is the woman in the image looking at the camera? | With a slight smile and direct gaze. |

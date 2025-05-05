@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Is the dress white? | Yes. |
+| Yes/No | Does the dress have a lace trim? | Yes. |
+| Yes/No | Is the woman wearing white heels? | Yes. |
+| Yes/No | Is the image described as sexy? | Yes. |
+| Yes/No | Does the image evoke feelings of desire? | Yes. |
+| What | What color is the dress? | White. |
+| What | What is the woman wearing on her feet? | White heels. |
+| How | How is the woman lifting her dress? | She is lifting it with her hands. |
+| How | How does the image create a seductive atmosphere? | The woman's revealing pose, the alluring combination of white and lace, and the sophistication of the white heels create a seductive atmosphere that is likely to catch the viewer's attention and evoke feelings of desire. |

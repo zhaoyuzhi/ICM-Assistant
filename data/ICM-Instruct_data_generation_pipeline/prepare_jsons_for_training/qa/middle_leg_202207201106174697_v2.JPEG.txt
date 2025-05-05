@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing gray sweatpants? | Yes. |
+| Yes/No | Does the woman have a drawstring at the waist of her sweatpants? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the woman posing with her hand on her hip? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Are the gray sweatpants and white shirt a neutral color palette? | Yes. |
+| What | What is the woman wearing on her lower body? | Gray sweatpants. |
+| What | What is the woman wearing on her upper body? | A white shirt. |
+| How | How is the woman posing in the image? | With her hand on her hip. |
+| How | How does the image make the viewer feel? | It creates an atmosphere of allure and sensuality. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a denim skirt? | Yes. |
+| Yes/No | Is the woman wearing a white t-shirt? | Yes. |
+| Yes/No | Does the skirt have two pockets on the front? | Yes. |
+| Yes/No | Is the graphic on the t-shirt a cartoon character? | Yes. |
+| Yes/No | Is the woman's pose confident and relaxed? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What is the woman's pose in the image? | Hands resting on hips. |
+| What | What is the graphic on the t-shirt? | A cartoon character. |
+| How | How does the combination of the denim skirt and white t-shirt create a contrast? | The contrast highlights the woman's figure. |
+| How | How would you describe the overall atmosphere of the image? | Casual yet stylish. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's arms relaxed at his sides? | Yes. |
+| Yes/No | Does the man have a black fanny pack worn around his waist? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the man have any explicit or suggestive content in the image? | No. |
+| Yes/No | Are the man's legs slightly apart? | Yes. |
+| What | What is the man wearing on his feet? | White sneakers. |
+| What | What is the color of the man's sweatpants? | Black. |
+| How | How is the man's posture in the image? | Relaxed. |
+| How | How does the white background of the image contribute to the overall atmosphere of the scene? | It emphasizes the simplicity of the scene and creates a calm and unassuming atmosphere. |

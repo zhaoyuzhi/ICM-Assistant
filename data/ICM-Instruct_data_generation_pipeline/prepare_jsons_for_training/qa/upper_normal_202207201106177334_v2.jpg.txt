@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing glasses? | Yes. |
+| Yes/No | Is the woman wearing a pink dress? | Yes. |
+| Yes/No | Are both individuals looking at the camera? | Yes. |
+| Yes/No | Is the image explicit or inappropriate? | No. |
+| Yes/No | Does the image suggest a romantic or sexual relationship between the two individuals? | No. |
+| Yes/No | Does the image convey a serious or somber atmosphere? | No. |
+| What | What color is the man's shirt? | Green. |
+| What | What is the woman's dress color? | Pink. |
+| How | How are the two individuals looking at the camera? | Smiling. |
+| What | What does the low exposure level of the image suggest about its intended purpose? | Casual and pleasant moment, not meant to be sexy or provocative. |

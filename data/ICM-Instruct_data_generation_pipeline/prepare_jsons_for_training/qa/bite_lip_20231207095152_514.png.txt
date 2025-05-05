@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple turtleneck? | Yes. |
+| Yes/No | Is the woman in the image wearing dark lipstick? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image biting her lip? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What color is the woman's turtleneck? | Purple. |
+| What | What is the woman's facial expression? | Slight smile. |
+| How | How is the woman's hand positioned in the image? | Resting on her chin. |
+| How | How is the woman's lipstick described in the description? | Dark. |

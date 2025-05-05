@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the person's thighs exposed in the image? | Yes. |
+| Yes/No | Is the person's shirt black and white? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the atmosphere of the image casual? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| What | What is the length of the person's skirt? | Above the knees. |
+| What | What color are the stripes on the person's shirt? | Black. |
+| How | How is the person standing in the image? | Confident and relaxed. |
+| How | How does the background of the image contribute to the overall atmosphere? | It emphasizes the person, making her the focal point and creating a sexy atmosphere. |

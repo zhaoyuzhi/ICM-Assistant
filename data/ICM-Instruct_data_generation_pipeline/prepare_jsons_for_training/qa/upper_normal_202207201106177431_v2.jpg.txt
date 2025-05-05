@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a yellow blazer? | Yes. |
+| Yes/No | Is the woman standing in front of a map of the world? | Yes. |
+| Yes/No | Is the woman speaking into a microphone? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image suggest a formal setting? | Yes. |
+| What | What is the woman's attire? | A yellow blazer and a white shirt. |
+| What | What is the subject matter of the map in the background? | The world. |
+| How | How is the woman standing in relation to the map? | She is standing in front of it. |
+| How | How does the low exposure level of the image affect the focus of the scene? | It emphasizes the woman and the map, rather than the background. |

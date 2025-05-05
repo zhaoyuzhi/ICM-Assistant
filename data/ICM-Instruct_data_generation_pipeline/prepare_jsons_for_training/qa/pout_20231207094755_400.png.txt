@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gold earring? | Yes. |
+| Yes/No | Is the woman's hair blonde? | Yes. |
+| Yes/No | Is the woman making a pouting face? | Yes. |
+| Yes/No | Is the focus of the image on the woman's facial features and expression? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the close-up angle of the photo emphasize the woman's facial features and expression? | Yes. |
+| What | What color is the woman's earring? | Gold. |
+| What | What is the woman's facial expression in the image? | Pouting. |
+| How | How does the close-up angle of the photo enhance the woman's appearance? | It emphasizes her facial features and expression, creating a sense of intimacy and allure. |
+| How | How does the gold earring contribute to the overall atmosphere of the image? | It adds a touch of elegance and sophistication to the woman's appearance, enhancing the alluring atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Are there three buttons on the front of the skirt? | Yes. |
+| Yes/No | Is the skirt cropped at the knee? | Yes. |
+| Yes/No | Is the woman wearing a black and white striped top? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| How | Is the image showcasing the woman's body in a revealing manner? | Yes. |
+| What | What is the color of the skirt? | Black. |
+| What | What is the color of the top? | Black and white striped. |
+| How | How many buttons are on the front of the skirt? | Three. |
+| How | How long is the skirt? | Cropped at the knee. |

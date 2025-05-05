@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the person's feet pointed upwards? | Yes. |
+| Yes/No | Is the rug white? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Is the image intimate? | Yes. |
+| Yes/No | Does the person's attire include black heels? | Yes. |
+| What | What is the person's pose in the image? | Relaxed, with legs spread apart and feet pointed upwards. |
+| What | What is the material of the rug in the image? | Fur. |
+| How | How does the person's attire contribute to the image's atmosphere? | The black stockings and heels suggest a sense of allure and mystery, enhancing the sensuality of the image. |
+| How | How does the setting of the image contribute to its overall atmosphere? | The white fur rug adds a touch of luxury and comfort, creating an intimate and alluring atmosphere. |

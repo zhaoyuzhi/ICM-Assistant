@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a graphic t-shirt? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the person's shoes black? | Yes. |
+| Yes/No | Is the chair in the image made of wood? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's outfit the main focus of the image? | Yes. |
+| What | What is the person's shirt graphic? | An astronaut. |
+| What | What is the color of the person's pants? | Black. |
+| How | How is the person's face not visible in the image? | The exposure level is very low. |
+| How | How does the image's low exposure level affect its overall atmosphere? | It emphasizes the focus on the person's attire and the room's interior, making the image suitable for a wide range of audiences. |

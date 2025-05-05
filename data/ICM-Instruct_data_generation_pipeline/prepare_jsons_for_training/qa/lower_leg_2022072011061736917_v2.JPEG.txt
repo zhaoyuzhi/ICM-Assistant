@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress white? | Yes. |
+| Yes/No | Does the dress have a slit on the left side? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the overall atmosphere of the image minimalistic and clean? | Yes. |
+| What | What is the color of the person's shoes? | White. |
+| What | What is the length of the dress? | Kneelength. |
+| How | How does the person's pose suggest a sense of confidence and allure? | The person's relaxed stance and slightly apart legs create a sense of confidence and allure. |
+| How | How does the white background emphasize the person and their attire? | The white background creates a stark contrast with the person and their attire, making them stand out and drawing the viewer's attention to them. |

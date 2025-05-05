@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a person's face? | Yes. |
+| Yes/No | Are the person's lips pink? | Yes. |
+| Yes/No | Is the person's tongue sticking out? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image feature the person's facial expression? | No. |
+| What | What is the color of the person's lips? | Pink. |
+| What | What is the appearance of the person's lips? | Glossy. |
+| How | How are the lips sticking out? | Not clearly visible. |
+| How | How can the glossy appearance of the lips and the sticking out of the tongue be perceived? | Playful and seductive. |

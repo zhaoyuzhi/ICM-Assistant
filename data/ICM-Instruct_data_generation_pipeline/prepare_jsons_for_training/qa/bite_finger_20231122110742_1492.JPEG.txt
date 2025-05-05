@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing makeup? | Yes. |
+| Yes/No | Are the person's fingernails painted? | Yes. |
+| Yes/No | Is the person making a face in the image? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the person's tongue sticking out? | Yes. |
+| Yes/No | Is the person's mouth slightly open? | Yes. |
+| What | What color are the person's painted fingernails? | Blue and black. |
+| What | What can be inferred about the person's personality based on the image? | The person appears confident and alluring. |
+| How | How does the close-up of the person's face and mouth contribute to the overall atmosphere of the image? | It emphasizes the person's sensuality and intimacy. |
+| How | How does the playful and seductive facial expression contribute to the overall atmosphere of the image? | It adds to the image's provocative and enticing nature. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person lifting their clothes? | Yes. |
+| Yes/No | Is the person wearing red underwear? | Yes. |
+| Yes/No | Is the background of the image black? | Yes. |
+| Yes/No | Is the person wearing a white sweater? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person lifting their clothes revealing? | Red underwear. |
+| What | What is the color of the person's sweater? | White. |
+| How | How is the person posing in the image? | Not specified in the description. |
+| How | How does the black background affect the image? | It accentuates the subject and creates a dramatic atmosphere, adding to the overall sensuality of the image. |

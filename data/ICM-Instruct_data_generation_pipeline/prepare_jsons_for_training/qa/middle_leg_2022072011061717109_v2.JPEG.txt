@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the skirt have a high waist? | Yes. |
+| Yes/No | Are the person's thighs visible in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the person's bag? | Beige. |
+| What | What is the length of the person's skirt? | Short. |
+| How | How does the person's attire contribute to the overall sexy atmosphere of the image? | The black skirt and white shirt reveal the person's thighs, which is a common feature associated with sexy clothing. |
+| How | How does the atmosphere of the image add to its overall allure? | The casual and relaxed atmosphere of the image adds to its overall allure, making it an attractive and enticing scene. |

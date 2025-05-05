@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Is the woman wearing a white skirt? | Yes. |
+| Yes/No | Is the skirt above her knees? | Yes. |
+| Yes/No | Is the woman's pose confident? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the colorful pattern on the woman's top? | Plaid. |
+| What | What is the length of the woman's skirt? | Above her knees. |
+| How | How does the woman's confident pose contribute to the overall allure of the image? | It suggests a sense of selfassurance and attractiveness. |
+| How | How does the colorful plaid pattern of her top add to the overall atmosphere of the picture? | It adds a playful and vibrant touch to the image. |

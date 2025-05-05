@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing jeans? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Is the woman's attire suggestive of intimacy and sensuality? | Yes. |
+| Yes/No | Does the image have a minimalistic aesthetic? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra? | Pink. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How does the contrast between the bra and jeans contribute to the image's overall atmosphere? | The contrast between the soft, delicate nature of the bra and the casual, everyday nature of the jeans creates a sense of vulnerability and sensuality, adding to the intimate and seductive atmosphere of the image. |
+| How | How does the woman's action of putting on the bra add to the image's atmosphere? | The woman's actions of putting on the bra add an element of vulnerability and sensuality, as she is exposing her back and revealing her bra, contributing to the intimate and seductive atmosphere of the image. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing jeans? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Are the jeans blue? | Yes. |
+| Yes/No | Is the woman's back visible in the image? | Yes. |
+| Yes/No | Is the woman's attire suggestive of intimacy and sensuality? | Yes. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| What | What is the color of the bra? | Pink. |
+| How | How is the woman's attire contrasting in the image? | The pink strapless bra and blue jeans create a contrast between the soft and delicate nature of the bra and the casual, everyday nature of the jeans. |
+| How | How does the woman's actions in the image contribute to the overall atmosphere? | The woman's actions of putting on the bra add an element of vulnerability and sensuality, as she is exposing her back and revealing her bra, which contributes to the intimate and seductive atmosphere of the image. |

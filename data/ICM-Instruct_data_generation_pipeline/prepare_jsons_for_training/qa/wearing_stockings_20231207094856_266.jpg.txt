@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the bed covered with a white comforter? | Yes. |
+| Yes/No | Is the person wearing black shorts? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the person's bare feet visible? | Yes. |
+| What | What is the person in the image putting on? | Beige stockings. |
+| What | What is the atmosphere of the image? | Intimate and alluring. |
+| How | How is the person posing in the image? | With their legs crossed. |
+| How | How does the act of putting on stockings signify preparation for an event or occasion? | It suggests that the person is getting ready for a night out or a romantic evening. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person's leg crossed? | Yes. |
+| Yes/No | Are their bare feet visible? | Yes. |
+| Yes/No | Is the bed covered with a white comforter? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the stockings the person is putting on? | Beige. |
+| What | What is the atmosphere of the image? | Intimate and alluring. |
+| How | How is the person's leg positioned? | Crossed. |
+| How | How does the act of putting on stockings signify preparation for an event or occasion? | It suggests the person is getting ready for a potentially romantic or sexual encounter. |

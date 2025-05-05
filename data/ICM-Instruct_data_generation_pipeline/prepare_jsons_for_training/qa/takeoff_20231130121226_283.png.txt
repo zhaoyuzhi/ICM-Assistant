@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person sitting on a white chair? | Yes. |
+| Yes/No | Is the person taking off their clothes? | Yes. |
+| Yes/No | Is the room dimly lit? | Yes. |
+| Yes/No | Does the image capture a vulnerable moment? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and allure? | Yes. |
+| What | What is the person wearing? | A white shirt and white shorts. |
+| What | What is the color of the person's clothing? | White. |
+| How | How is the person sitting? | In a relaxed position. |
+| How | How does the dimly lit room add to the atmosphere of the image? | It creates an intimate atmosphere. |

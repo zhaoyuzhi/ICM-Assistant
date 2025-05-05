@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person lifting weights? | Yes. |
+| Yes/No | Is the weight rack orange? | Yes. |
+| Yes/No | Is the person's back exposed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person lifting weights with? | An orange weight rack. |
+| What | What color are the person's sports bra and shorts? | Black. |
+| How | How is the person's back exposed? | The person is facing away from the camera, and their back is visible. |
+| How | How does the image showcase the person's athletic physique? | The image highlights the person's muscular build, which is often associated with attractiveness and strength. |

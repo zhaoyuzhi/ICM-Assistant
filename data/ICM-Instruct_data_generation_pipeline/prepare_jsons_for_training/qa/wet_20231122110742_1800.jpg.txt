@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting on a bench or chair? | No. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Are there any man-made structures visible in the image? | No. |
+| Yes/No | Is the woman wearing any jewelry? | No. |
+| Yes/No | Does the image depict a sunny day? | No. |
+| Yes/No | Is the woman's dress see-through? | No. |
+| What | What is the woman doing with her hands? | Her hands are clasped in front of her. |
+| What | What is the dominant color of the woman's dress? | White. |
+| How | How does the woman's dress cling to her body? | It clings to her body because it is soaked. |
+| How | How does the garden setting enhance the overall mood of the image? | It enhances the natural and sensual atmosphere of the image. |

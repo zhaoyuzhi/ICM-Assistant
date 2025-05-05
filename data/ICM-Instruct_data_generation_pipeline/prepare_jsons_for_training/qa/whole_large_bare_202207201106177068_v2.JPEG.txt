@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the bikini top black and white with a polka dot pattern? | Yes. |
+| Yes/No | Is the skirt pink and white with a floral pattern? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the color of the bikini top? | Black and white. |
+| What | What is the pattern on the skirt? | Floral. |
+| How | How is the woman sitting on the metal railing? | She is sitting astride it, with her legs straddling it. |
+| How | How does the woman's gaze at the camera contribute to the overall atmosphere of the image? | It adds to the sense of playfulness and relaxation, and creates a sense of intimacy and connection with the viewer. |

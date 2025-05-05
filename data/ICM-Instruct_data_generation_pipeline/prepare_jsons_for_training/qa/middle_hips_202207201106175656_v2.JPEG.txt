@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a gold button on the back of their jeans? | Yes. |
+| Yes/No | Are the jeans slightly torn at the back? | Yes. |
+| Yes/No | Is the image a close-up of the person's buttocks? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the color of the person's jeans? | Blue. |
+| What | What is the material of the gold button on the back of the jeans? | Gold. |
+| How | How are the jeans torn at the back? | Slightly. |
+| How | How does the close-up nature of the image contribute to its overall atmosphere? | It allows the viewer to focus on the details of the person's jeans and the gold button, adding to the overall allure of the image. |

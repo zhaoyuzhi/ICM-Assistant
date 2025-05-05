@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue suit? | Yes. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and passion? | Yes. |
+| What | What color is the man's suit? | Blue. |
+| What | What is the woman's dress color? | Black. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the woman leaning into the man's kiss. |
+| How | How does the image convey a sense of sophistication and elegance? | The image conveys a sense of sophistication and elegance through the man's blue suit and the woman's black dress. |

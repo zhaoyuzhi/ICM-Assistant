@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a jumpsuit? | Yes. |
+| Yes/No | Is the jumpsuit denim? | Yes. |
+| Yes/No | Does the jumpsuit have a black top? | Yes. |
+| Yes/No | Are the person's thighs visible in the image? | Yes. |
+| Yes/No | Is the mirror reflecting the person's image? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What color are the person's shoes? | White. |
+| What | What is the color of the top part of the jumpsuit? | Black. |
+| How | How does the person's pose in front of the mirror suggest confidence? | The person is standing with their feet shoulderwidth apart, with their hands on their hips and their head held high, projecting selfassurance and confidence. |
+| How | How does the combination of the outfit, pose, and mirror create a sexy atmosphere? | The combination of the loosefitting jumpsuit, black top, and white shoes creates a striking contrast that draws attention to the person's body, while the mirror reflection adds depth and emphasizes the person's confidence and selfassurance, creating a sexy atmosphere. |

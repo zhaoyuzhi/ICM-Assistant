@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Is the dress green? | Yes. |
+| Yes/No | Are the stockings black? | Yes. |
+| Yes/No | Is the person sitting on the floor? | Yes. |
+| Yes/No | Do the stockings appear to be made of a shiny material? | Yes. |
+| Yes/No | Is the pose of the person relaxed and confident? | Yes. |
+| What | What color is the dress? | Green. |
+| What | What type of garment covers the legs and feet of the person? | Stockings. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image create a seductive atmosphere? | Through the combination of the stockings, green dress, and pose. |

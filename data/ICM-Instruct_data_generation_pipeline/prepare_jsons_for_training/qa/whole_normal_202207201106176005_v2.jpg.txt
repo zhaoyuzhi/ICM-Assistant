@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the man in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the man looking off to the side in the image? | Yes. |
+| Yes/No | Does the image feature a waterfall in the background? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the woman wearing in the image? | Blue and white outfit. |
+| What | What is the man wearing in the image? | Black and gold. |
+| How | How is the woman standing in the image? | She is standing in front of a rocky cliff. |
+| How | How is the man standing in the image? | He is standing in front of a rocky cliff, looking off to the side. |

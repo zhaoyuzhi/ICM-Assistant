@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the dress black? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the fabric of the dress shiny? | Yes. |
+| Yes/No | Does the image create an atmosphere of seduction and allure? | Yes. |
+| What | What is the color of the dress? | Black. |
+| What | What is the material of the dress? | Shiny fabric. |
+| How | How is the person standing in the image? | With their back facing the camera, confidently. |
+| How | How does the dress reveal the person's back? | The low back and thin straps reveal a large area of the person's back. |

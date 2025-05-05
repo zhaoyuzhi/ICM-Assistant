@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the woman's facial expression playful and seductive? | Yes. |
+| Yes/No | Does the woman's gaze suggest a sense of confidence and allure? | Yes. |
+| Yes/No | Are the woman's earrings large hoops? | Yes. |
+| Yes/No | Is the woman's hair braided? | Yes. |
+| Yes/No | Does the overall atmosphere of the image evoke a sense of intrigue and desire? | Yes. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| What | What does the woman's gaze suggest? | A sense of confidence and allure. |
+| How | How does the woman's pose suggest a sense of confidence and allure? | The woman's pouting pose and upward gaze suggest a sense of confidence and allure. |
+| How | How do the woman's large hoop earrings and braided hair add to her alluring appearance? | The woman's large hoop earrings and braided hair add to her alluring appearance by complementing her playful and seductive facial expression and overall atmosphere of the image, creating a captivating and enticing image. |

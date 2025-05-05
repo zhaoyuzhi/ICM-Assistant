@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Is the person in the image holding a stuffed animal? | Yes. |
+| Yes/No | Is the stuffed animal a teddy bear? | Yes. |
+| Yes/No | Is the image intimate and personal? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| What | What is the person in the image holding? | A white stuffed animal, which appears to be a teddy bear. |
+| What | What is the person in the image wearing? | A black skirt and black stockings. |
+| How | How is the person in the image engaging in a personal activity? | They are in the process of putting on their stockings. |
+| How | How does the presence of the teddy bear add to the atmosphere of the image? | It adds an element of playfulness and innocence to the scene, contrasting with the more adult and intimate aspects of the image. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are they wearing black stockings? | Yes. |
+| Yes/No | Is the person holding a white stuffed animal? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the person in the image engaging in a personal activity? | Yes. |
+| What | What is the person in the image holding? | A white stuffed animal, which appears to be a teddy bear. |
+| What | What is the person wearing? | A black skirt and black stockings. |
+| How | How is the person in the image engaging in a personal activity? | They are in the process of putting on their stockings. |
+| What | What element of the image adds an element of playfulness and innocence to the scene? | The presence of the teddy bear adds an element of playfulness and innocence to the scene. |

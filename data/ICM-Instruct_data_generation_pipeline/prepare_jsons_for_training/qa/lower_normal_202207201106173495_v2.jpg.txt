@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a yellow sweater? | Yes. |
+| Yes/No | Does the person in the image have a neutral pose? | Yes. |
+| Yes/No | Are the person's arms resting at their sides? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image calm and unassuming? | Yes. |
+| What | What is the color of the person's sweater? | Yellow. |
+| What | What is the style of the person's jeans (e.g. tight-fitting, loose-fitting, ripped)? | Loosefitting. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The person's casual attire, including their loosefitting jeans and oversized sweater, contribute to the calm and unassuming atmosphere of the image. |
+| How | How does the person's pose complement their attire? | The person's neutral pose, with their arms resting at their sides, complements their casual attire and contributes to the relaxed atmosphere of the image. |

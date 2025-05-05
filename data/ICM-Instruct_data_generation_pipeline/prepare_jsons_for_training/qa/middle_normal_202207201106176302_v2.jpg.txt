@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the person wearing white shorts? | Yes. |
+| Yes/No | Is the person wearing a white belt? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the person in the image wearing? | A white shirt, white shorts, and a white belt. |
+| What | What is the overall atmosphere of the image? | Modest and simple. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How does the low exposure level of the image contribute to the modesty of the scene? | It emphasizes the person's attire rather than their physical appearance. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the person wearing white shorts? | Yes. |
+| Yes/No | Is the person wearing a white belt? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the person's outfit consisting of? | A white shirt, white shorts, and a white belt. |
+| What | What is the overall atmosphere of the image? | Calm and simple. |
+| How | How does the white color of the person's clothing and the white wall in the background contribute to the atmosphere of the image? | It creates a sense of harmony and tranquility. |
+| How | How does the low exposure level of the image enhance the feeling of simplicity and calmness? | It emphasizes the clean and minimalist vibe of the person's outfit and the background, creating a sense of serenity and peacefulness. |

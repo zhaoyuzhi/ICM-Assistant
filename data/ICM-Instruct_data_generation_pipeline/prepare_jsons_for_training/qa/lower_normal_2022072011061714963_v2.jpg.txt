@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray sweatshirt? | Yes. |
+| Yes/No | Is the person walking towards the camera? | Yes. |
+| Yes/No | Is the living room furniture gray? | Yes. |
+| Yes/No | Does the person have a black watch? | Yes. |
+| Yes/No | Is the exposure level of the person low? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the color of the person's sweatpants? | Gray. |
+| What | What is the person's left foot doing? | Slightly lifted off the ground. |
+| How | How is the person walking? | Towards the camera. |
+| How | How would you describe the person's attire? | Casual, everyday. |

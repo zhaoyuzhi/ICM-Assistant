@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini colorful? | Yes. |
+| Yes/No | Is the person lying on their stomach? | Yes. |
+| Yes/No | Are the person's legs stretched out in front of them? | Yes. |
+| Yes/No | Is the image a close-up of the person's lower body? | Yes. |
+| Yes/No | Does the image capture a moment of relaxation and enjoyment? | Yes. |
+| What | What is the main color of the bikini? | Blue, pink, and yellow stripes. |
+| What | What is the person's pose in the image? | Lying on their stomach with their legs stretched out in front of them. |
+| How | How does the close-up of the person's lower body add to the overall feeling of the image? | It adds an element of intimacy and allure. |
+| How | How does the image evoke feelings of leisure and pleasure? | The beach setting and the person's relaxed pose suggest a carefree and enjoyable atmosphere. |

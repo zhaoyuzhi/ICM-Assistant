@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the beach in the background sandy? | Yes. |
+| Yes/No | Is the sky above the beach clear? | Yes. |
+| Yes/No | Is the woman looking downwards? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| Yes/No | Are the woman's hands on her head? | Yes. |
+| What | What color is the bikini? | Pink and blue. |
+| What | What is the woman's pose in the image? | Hands on head. |
+| How | How does the woman's pose contribute to the image's sexiness? | Confidence and allure. |
+| How | How does the beach setting complement the woman's appearance? | Relaxed and inviting atmosphere. |

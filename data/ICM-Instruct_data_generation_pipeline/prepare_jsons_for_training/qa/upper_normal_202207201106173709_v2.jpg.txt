@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a brown sweater? | Yes. |
+| Yes/No | Does the sweater have a vibrant autumn-themed design? | Yes. |
+| Yes/No | Is the design on the sweater rendered in shades of orange, green, and yellow? | Yes. |
+| Yes/No | Does the woman have a black skirt on? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the main color of the woman's sweater? | Brown. |
+| What | What is the theme of the design on the woman's sweater? | Autumn. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's attire contributes to a warm and inviting scene. |
+| How | How does the background of the image accentuate the colors of the woman's outfit? | The white background contrasts with the warm tones of the woman's sweater, making the colors stand out. |

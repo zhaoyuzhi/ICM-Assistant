@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Is the main subject of the image a slice of pizza? | Yes. |
+| Yes/No | Is the pizza slice placed on a metal tray? | Yes. |
+| Yes/No | Does the pizza slice have a golden crust? | Yes. |
+| Yes/No | Are there any other objects in the image besides the pizza slice? | No. |
+| Yes/No | Does the image feature a woman covering her breasts with potato chips? | No. |
+| What | What is the shape of the pizza slice? | Triangular. |
+| What | What is the color of the pepperoni? | Red. |
+| How | How is the pepperoni cooked? | Freshly cooked. |
+| How | How does the image challenge the viewer's expectations? | By using a common, everyday object in an unconventional and provocative way, and by juxtaposing it with a sensual act. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a cup of coffee? | Yes. |
+| Yes/No | Is the woman in the image wearing a purple dress? | Yes. |
+| Yes/No | Is the image taken in a kitchen? | Yes. |
+| Yes/No | Are there any explicit or suggestive content in the image? | No. |
+| Yes/No | Is the focus of the image on the woman's appearance? | No. |
+| Yes/No | Does the image contain a sink and a book? | Yes. |
+| What | What is the woman doing in the image? | She is holding a cup of coffee and standing in a kitchen. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is not sexy, it's more focused on the woman's actions and the objects around her. |
+| How | How is the woman dressed in the image? | She is wearing a purple dress. |
+| How | How is the image lit? | The exposure level of the image is low, which means that only a small portion of the image is visible. |

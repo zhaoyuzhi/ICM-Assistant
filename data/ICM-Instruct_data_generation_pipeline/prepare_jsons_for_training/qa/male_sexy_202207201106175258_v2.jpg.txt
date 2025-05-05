@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the man's head turned to the side? | Yes. |
+| Yes/No | Are the man's arms outstretched? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the image a close-up shot? | No. |
+| What | What is the man wearing in the image? | Black shorts. |
+| What | What is the man's facial expression? | He is posing for the camera. |
+| How | How is the man standing in the image? | He is standing with his arms outstretched to the sides. |
+| How | How does the image make the viewer feel? | It creates a seductive atmosphere that makes the viewer feel like they are looking at a sexy image. |

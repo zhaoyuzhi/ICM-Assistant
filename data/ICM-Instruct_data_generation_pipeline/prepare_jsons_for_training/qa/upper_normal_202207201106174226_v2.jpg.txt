@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Are the people in the image sitting on a dock? | Yes. |
+| Yes/No | Are they all wearing casual clothing? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the person on the far left wearing a blue shirt? | Yes. |
+| Yes/No | Is the person on the far right wearing a white shirt? | Yes. |
+| Yes/No | Are the people in the image arm around each other? | Yes. |
+| What | What color shirt is the person in the middle wearing? | Pink. |
+| How | How are the people in the image positioned on the dock? | They are sitting with their arms around each other. |
+| How | How can you describe the color scheme of the image? | The image features a predominantly blue and white color scheme, with a pink shirt in the middle. |

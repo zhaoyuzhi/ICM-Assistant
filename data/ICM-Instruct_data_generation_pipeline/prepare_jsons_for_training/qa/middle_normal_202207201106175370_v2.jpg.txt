@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a black belt? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose in the image neutral? | Yes. |
+| Yes/No | Are the shorts loose-fitting? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What is the color of the person's shorts? | Black. |
+| What | What is the color of the buckle on the person's belt? | Silver. |
+| How | How are the person's hands positioned in the image? | Resting in their pockets. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the person in the image wearing a pair of black shorts? | Yes. |
+| Yes/No | Is the belt made of leather? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the person's pose in the image neutral? | Yes. |
+| Yes/No | Does the image have a sexual context? | No. |
+| Yes/No | Are the shorts made of a stretchy fabric? | Yes. |
+| What | What is the color of the person's shorts? | Black. |
+| What | What is the material of the belt? | Leather. |
+| How | How are the person's hands positioned in the image? | Resting in their pockets. |
+| How | How would you describe the overall atmosphere of the image? | Simple and uncluttered. |

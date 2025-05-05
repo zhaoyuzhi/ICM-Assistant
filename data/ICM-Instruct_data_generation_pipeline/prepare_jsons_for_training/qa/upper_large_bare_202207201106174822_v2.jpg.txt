@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Are both women wearing lingerie? | Yes. |
+| Yes/No | Are the women standing side by side? | Yes. |
+| Yes/No | Is the background of the image a simple blue wall? | Yes. |
+| Yes/No | Are the women looking directly at the camera? | Yes. |
+| Yes/No | Do the women's gazes meet the viewer's gaze? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the color of the woman on the left's bra? | Blue. |
+| What | What is the color of the woman on the right's bra? | Pink. |
+| How | How are the women's gazes directed in the image? | Directly at the camera. |

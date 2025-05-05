@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue pants? | Yes. |
+| Yes/No | Is the person's shirt white? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the pants tight-fitting? | No. |
+| Yes/No | Does the shirt have any distinctive features? | No. |
+| What | What color are the pants? | Blue. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| How | How are the pants fitting on the person? | Loosefitting. |
+| How | How does the image focus on the person's attire? | The image focuses on the person's attire rather than their appearance, and the overall atmosphere is neutral and nonsexual. |

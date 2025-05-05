@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a lace trim? | Yes. |
+| Yes/No | Is the woman wearing black stockings? | Yes. |
+| Yes/No | Are the woman's heels black? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman's pose suggest seduction or allure? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the color of the woman's heels? | Black. |
+| How | How is the woman's dress being lifted? | It is being lifted to reveal her legs and thighs. |
+| What | What creates a stark contrast in the image? | The contrast between the black dress and the white background creates a stark contrast. |

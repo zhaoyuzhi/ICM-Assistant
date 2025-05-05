@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Is the woman wearing a striped shirt? | Yes. |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is she holding a book in her left hand? | Yes. |
+| Yes/No | Is the room empty except for the woman and the chair? | Yes. |
+| What | What is the woman holding in her left hand? | A book. |
+| What | What is the floor made of in the room? | Wood. |
+| How | How is the woman standing in the room? | With her legs crossed. |
+| How | How does the image create a sense of intimacy and allure? | Through the combination of the woman's nudity, her pose, and the lack of other people in the room. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's legs spread apart? | Yes. |
+| Yes/No | Is the person wearing denim shorts? | Yes. |
+| Yes/No | Are the person's shoes black? | Yes. |
+| Yes/No | Is the grassy surface natural? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person's pose in the image? | The person is standing with their legs spread apart. |
+| What | What is the person wearing? | The person is wearing denim shorts and black shoes. |
+| How | How does the grassy surface add to the scene? | The grassy surface adds a natural element to the scene. |
+| How | How does the person's pose and the overall atmosphere contribute to the image's sexiness? | The person's pose and the overall atmosphere create an intimate and seductive atmosphere, contributing to the image's sexiness. |

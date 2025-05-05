@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image topless? | Yes. |
+| Yes/No | Is the man holding a box of underwear? | Yes. |
+| Yes/No | Are the underwear in the box different colors? | Yes. |
+| Yes/No | Is the man's body facing the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What brand of underwear is the man wearing? | Goodman. |
+| What | What color are the underwear in the box? | Black, red, and purple. |
+| How | How many pairs of underwear are in the box? | Three. |
+| How | How is the man holding the box? | With his left hand. |

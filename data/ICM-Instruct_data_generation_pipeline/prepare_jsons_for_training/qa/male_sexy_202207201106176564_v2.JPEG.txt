@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Does the man in the image have his arms on his hips? | Yes. |
+| Yes/No | Is the man in the image posing with his hands on his knees? | Yes. |
+| Yes/No | Does the man in the image have a confident expression? | Yes. |
+| Yes/No | Does the image suggest a sense of vulnerability? | Yes. |
+| What | What is the man in the image wearing? | A white tank top and white shorts. |
+| What | What is the man in the image posing with? | His hands on his hips, his hands on his knees, and his arms outstretched. |
+| How | How is the man in the image standing? | He is standing with his feet shoulderwidth apart and his weight evenly distributed on both feet. |
+| How | How does the man in the image carry himself? | He carries himself confidently and with a sense of selfassuredness. |

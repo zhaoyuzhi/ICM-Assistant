@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the pants loose-fitting? | Yes. |
+| Yes/No | Is there a zipper on the back pocket of the pants? | Yes. |
+| Yes/No | Are the person's hands resting at their sides? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and unassuming? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| What | What color are the pants? | Khaki. |
+| What | What is the material of the shirt? | Soft fabric. |
+| How | How is the person posing in the image? | Neutral. |
+| How | How does the white background contribute to the image's atmosphere? | Simplicity. |
+| Yes/No | Is the person in the image wearing a pair of khaki pants? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Does the shirt have a zipper pocket on the front? | No. |
+| Yes/No | Are the pants tight-fitting? | No. |
+| Yes/No | Does the person have their hands resting on their hips? | No. |
+| Yes/No | Is the background of the image plain? | Yes. |
+| What | What is the person's pose in the image? | Neutral. |
+| What | What is the overall atmosphere of the image? | Calm and unassuming. |
+| How | How is the person's attire in the image? | Modest. |
+| How | How would you describe the exposure level of the image? | Low. |

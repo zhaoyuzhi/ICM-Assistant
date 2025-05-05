@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing leggings? | Yes. |
+| Yes/No | Is the background of the image a cityscape? | Yes. |
+| Yes/No | Are the buildings in the background tall? | Yes. |
+| Yes/No | Is the sky in the background clear and blue? | Yes. |
+| Yes/No | Does the woman's outfit expose her midriff? | Yes. |
+| What | What is the woman in the image posing on? | A yoga mat. |
+| What | What color are the buildings in the background? | Gray/Silver. |
+| How | How is the woman's pose on the yoga mat? | Crosslegged. |
+| How | How does the image make you feel? | Relaxed and intrigued. |

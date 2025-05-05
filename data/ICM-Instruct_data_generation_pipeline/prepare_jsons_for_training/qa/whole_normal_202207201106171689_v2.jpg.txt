@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white checkered dress? | Yes. |
+| Yes/No | Is the woman holding a blue purse in her left hand? | Yes. |
+| Yes/No | Is the woman's right hand placed on her hip? | Yes. |
+| Yes/No | Is the image shot in front of a white wall? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the overall atmosphere of the image simple and modest? | Yes. |
+| What | What is the woman wearing in the image? | A black and white checkered dress. |
+| What | What is the color of the purse the woman is holding? | Blue. |
+| How | How is the woman standing in the image? | With her right hand on her hip and her left hand holding a blue purse. |
+| How | How would you describe the overall atmosphere of the image? | Simple and modest. |

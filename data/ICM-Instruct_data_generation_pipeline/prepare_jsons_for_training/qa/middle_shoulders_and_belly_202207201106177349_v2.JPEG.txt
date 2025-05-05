@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Are the person's clothes casual? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the person have a belly button piercing? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| Yes/No | Does the person have any other visible piercings? | No. |
+| What | What color is the person's bikini top? | Black. |
+| What | What color are the person's jeans? | Blue. |
+| How | How is the person's belly button pierced? | With a small, circular stud. |
+| How | How would you describe the person's pose in the image? | Confident and static. |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the contrast between the black bikini top and blue jeans draw attention to the belly button piercing? | Yes. |
+| What | What color is the bikini top? | Black. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How does the image present the person's body? | The image presents the person's body in a revealing manner, highlighting the belly button piercing. |
+| What | What atmosphere does the image convey? | The image conveys an intimate and sensual atmosphere, evoking feelings of desire or allure. |

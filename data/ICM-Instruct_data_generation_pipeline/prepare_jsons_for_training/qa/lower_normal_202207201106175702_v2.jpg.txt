@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Is the woman in the image facing the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the building in the background made of wood? | Yes. |
+| Yes/No | Does the building in the background have a window? | Yes. |
+| What | What is the color of the woman's skirt? | Black. |
+| What | What is the color of the woman's blouse? | Green. |
+| How | How is the woman standing in the image? | Upright. |
+| What | What is the overall atmosphere of the image? | Calm and professional. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Is the woman lying on a bed? | Yes. |
+| Yes/No | Is the woman holding a teddy bear pillow on her chest? | Yes. |
+| Yes/No | Is the image considered sexy? | No. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's body visible in the image? | No. |
+| What | What is the woman lying on? | A bed. |
+| What | What is the woman holding on her chest? | A teddy bear pillow. |
+| How | How is the woman positioned in the image? | She is lying down. |
+| How | How would you describe the overall atmosphere of the image? | Calm and relaxed. |

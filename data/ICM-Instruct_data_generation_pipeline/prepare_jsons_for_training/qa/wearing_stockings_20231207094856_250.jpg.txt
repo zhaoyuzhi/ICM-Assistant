@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black coat? | Yes. |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the image taken in a living room? | Yes. |
+| Yes/No | Is there a white couch in the background of the image? | Yes. |
+| Yes/No | Is there a television in the background of the image? | Yes. |
+| Yes/No | Does the woman's pose in the image suggest that she is putting on her stockings? | Yes. |
+| What | What is the woman in the image wearing? | A black coat and black stockings. |
+| What | What is the background of the image? | A living room with a white couch and a television. |
+| How | How does the woman's pose in the image contribute to the overall sensuality of the image? | The woman's pose while putting on her stockings adds to the overall sensuality of the image. |
+| How | How does the living room setting in the background enhance the sexy feel of the image? | The contrasting and intimate atmosphere created by the living room setting with the white couch and television in the background enhances the sexy feel of the image. |
+| Yes/No | Is the woman in the image wearing a black coat? | Yes. |
+| Yes/No | Are black stockings being worn by the woman in the image? | Yes. |
+| Yes/No | Is the image taken in a living room? | Yes. |
+| Yes/No | Is there a white couch in the background of the image? | Yes. |
+| Yes/No | Is there a television in the background of the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the woman's stockings? | Black. |
+| What | What is the woman doing in the image? | Putting on her black stockings. |
+| How | How does the woman's pose contribute to the overall sensuality of the image? | Her pose while putting on her stockings adds to the overall sensuality of the image. |
+| How | How does the living room setting contribute to the atmosphere of the image? | The living room setting with the white couch and television in the background creates a contrasting and intimate atmosphere, further enhancing the sexy feel of the image. |

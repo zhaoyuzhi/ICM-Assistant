@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a high slit? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Do the black dress and heels create a sense of allure and confidence? | Yes. |
+| Yes/No | Does the woman's pose suggest a sense of confidence? | Yes. |
+| What | What is the woman wearing on her feet? | Black strappy heels. |
+| What | What is the color of the dress? | Black. |
+| How | How does the woman's pose contribute to the seductive atmosphere? | With her hands on her hips, the woman's pose adds to the seductive atmosphere. |
+| How | How do the black dress and heels create a sense of allure and confidence? | The black dress with a high slit and the black strappy heels create a sense of allure and confidence. |

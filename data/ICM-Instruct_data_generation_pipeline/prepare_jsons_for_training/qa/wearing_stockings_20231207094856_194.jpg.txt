@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the man in the image wearing a tie? | Yes. |
+| Yes/No | Are the stockings being put on by the man beige in color? | Yes. |
+| Yes/No | Is the man standing next to a plant in the image? | Yes. |
+| Yes/No | Is the wall in the background of the image white? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability and intimacy? | Yes. |
+| What | What is the man in the image preparing for? | A formal or professional event. |
+| What | What is the color of the man's suit jacket? | Blue. |
+| How | How is the man in the image putting on the stockings? | He is in the process of putting them on. |
+| How | How does the presence of the plant and white wall in the background enhance the overall atmosphere of the image? | It creates a simple and elegant setting that enhances the sense of anticipation and excitement. |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the man in the image wearing a tie? | Yes. |
+| Yes/No | Is the man in the image putting on stockings? | Yes. |
+| Yes/No | Are the stockings beige in color? | Yes. |
+| Yes/No | Is the man standing next to a plant? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| What | What is the man in the image preparing for? | A formal or professional event. |
+| What | What is the color of the man's suit jacket? | Blue. |
+| How | How is the man's appearance described in the image? | He is described as wearing a blue suit jacket, a white shirt, black pants, and beige stockings. |
+| How | How does the presence of the plant and white wall in the background enhance the overall atmosphere of the image? | It creates a simple and elegant setting that enhances the sense of anticipation and excitement in the image. |

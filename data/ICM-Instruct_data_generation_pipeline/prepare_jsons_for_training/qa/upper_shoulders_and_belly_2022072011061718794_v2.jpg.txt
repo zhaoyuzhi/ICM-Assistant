@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Is the woman's pose in the image confident and sexy? | Yes. |
+| Yes/No | Does the dark background of the image contrast with the bright pink of the woman's top? | Yes. |
+| Yes/No | Are the woman's arms outstretched in the image? | Yes. |
+| Yes/No | Is the woman's head tilted back in the image? | Yes. |
+| What | What color is the woman's top in the image? | Pink. |
+| What | What is the woman's pose in the image? | Arms outstretched and head tilted back. |
+| How | How does the dark background of the image affect the overall atmosphere? | It creates a contrast that draws attention to the woman and her outfit, adding to the sexy and confident atmosphere. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | Her confident and alluring pose adds to the sexy and provocative nature of the image. |

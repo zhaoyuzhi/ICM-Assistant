@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Are her arms crossed? | Yes. |
+| Yes/No | Is she wearing a white blouse? | Yes. |
+| Yes/No | Are the shorts blue denim? | Yes. |
+| Yes/No | Do the shorts have a floral pattern on the front? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What is the pattern on the shorts? | Floral. |
+| How | How does the woman's pose suggest her demeanor? | Confident and casual. |
+| How | How does the contrast between the blouse and shorts enhance the image? | It highlights her figure, creating a sexy atmosphere. |

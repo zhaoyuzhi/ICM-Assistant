@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the person's facial expression focused on their lips? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person wearing a necklace? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the person's pouting expression associated with confidence? | Yes. |
+| What | What color is the person's lipstick? | Red. |
+| What | What is the person's facial expression? | Pouting, as if kissing. |
+| How | How does the person's pouting expression contribute to the image's atmosphere? | It adds a sense of allure and confidence. |
+| How | How does the necklace contribute to the person's overall appearance? | It adds a touch of elegance. |

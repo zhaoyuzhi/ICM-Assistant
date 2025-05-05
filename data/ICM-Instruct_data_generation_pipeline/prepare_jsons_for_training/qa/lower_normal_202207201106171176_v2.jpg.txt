@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a black backpack? | Yes. |
+| Yes/No | Are they wearing a white t-shirt? | Yes. |
+| Yes/No | Can you see the person's attire clearly? | Yes. |
+| Yes/No | Is the atmosphere of the image neutral and non-sexual? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color are the person's cargo pants? | Green. |
+| What | What is the person holding in their left hand? | A black backpack. |
+| How | How is the person's attire, in terms of style and appropriateness for the setting? | Casual and functional, appropriate for a student or traveler. |
+| How | How does the wooden floor and simple room setting contribute to the atmosphere of the image? | They contribute to a neutral and nonsexual atmosphere. |

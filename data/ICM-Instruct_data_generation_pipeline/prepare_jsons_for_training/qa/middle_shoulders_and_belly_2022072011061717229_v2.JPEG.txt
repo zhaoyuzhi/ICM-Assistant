@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a purple sweatshirt? | Yes. |
+| Yes/No | Does the person in the image have their belly exposed? | Yes. |
+| Yes/No | Is the person in the image wearing any other clothing? | No. |
+| Yes/No | Does the person in the image have any visible tattoos or piercings? | Yes. |
+| Yes/No | Is the person in the image looking directly at the camera? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| What | What is the color of the sweatshirt the person is wearing? | Purple. |
+| What | What is the person's pose in the image? | Hands on hips, looking directly at the camera. |
+| How | How does the person's pose contribute to the overall allure of the image? | The pose adds a sense of confidence and selfexpression, making the image more appealing and intriguing. |
+| How | How does the purple sweatshirt contribute to the overall atmosphere of the image? | The purple sweatshirt adds a casual and comfortable vibe to the scene, making the image more relatable and inviting. |
+| Yes/No | Is the person in the image wearing a purple sweatshirt? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the person looking directly at the camera? | Yes. |
+| Yes/No | Does the image provide any additional details about the person's appearance or surroundings? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the sweatshirt the person is wearing? | Purple. |
+| What | What is the person's pose in the image? | Hands on hips. |
+| How | How does the person's pose contribute to the allure of the image? | It emphasizes their body and creates a confident, empowered atmosphere. |
+| How | How does the direct gaze of the person at the camera add to the image? | It creates a sense of connection and intimacy between the person in the image and the viewer. |

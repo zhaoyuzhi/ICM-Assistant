@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress black and white? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Is the woman holding a clutch purse? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the image inappropriate or explicit? | No. |
+| What | What is the woman's facial expression? | Slight smile. |
+| What | What is the woman's pose? | Standing with a slight turn to the side. |
+| How | How is the woman's dress styled? | High neckline, short sleeves. |
+| How | How does the woman hold her purse? | With one hand, in a relaxed manner. |

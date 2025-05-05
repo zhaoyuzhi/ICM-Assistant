@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the bra and underwear beige in color? | Yes. |
+| Yes/No | Does the woman have her hands on her chest? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the woman's expression focused? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What is the color of the bra and underwear? | Beige. |
+| How | How does the woman's attire create a contrast against her skin? | The beige color of the bra and underwear creates a soft and alluring contrast against her skin. |
+| How | How does the woman's expression suggest a sense of determination and self-assurance? | Her focused expression indicates a sense of determination and selfassurance. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing matching underwear? | Yes. |
+| Yes/No | Is the image focused on the woman's torso and chest area? | Yes. |
+| Yes/No | Does the woman have her hands on her chest? | Yes. |
+| Yes/No | Does the image capture a sense of confidence and allure? | Yes. |
+| Yes/No | Does the image evoke feelings of allure and desire? | Yes. |
+| What | What is the color of the bra and underwear? | Beige. |
+| What | What is the woman's expression in the image? | Focused and determined. |
+| How | How is the woman presenting herself in the image? | She is presenting herself in a sexy and alluring way, with her hands on her chest and a confident expression. |
+| How | How does the beige color of the bra and underwear contrast against the woman's skin? | The beige color creates a soft and alluring contrast against her skin, adding to the overall sensual atmosphere of the image. |

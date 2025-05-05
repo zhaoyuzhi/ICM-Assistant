@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image pouting? | Yes. |
+| Yes/No | Is the woman looking upwards? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the overall atmosphere of the image playful? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive? | Yes. |
+| Yes/No | Does the woman's facial expression suggest confidence? | Yes. |
+| What | What is the woman's facial expression? | A slight smile and puckered lips. |
+| What | What is the woman's hair color? | Brown. |
+| How | How is the woman looking upwards? | With a flirtatious or seductive gesture. |
+| How | How does the woman's long hair add to her allure? | It enhances her sensuality and intimacy in the scene. |

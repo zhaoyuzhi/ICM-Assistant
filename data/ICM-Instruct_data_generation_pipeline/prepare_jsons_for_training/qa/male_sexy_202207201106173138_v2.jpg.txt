@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image lifting weights? | Yes. |
+| Yes/No | Is the image set in a gym? | Yes. |
+| Yes/No | Is the man's muscular physique prominently displayed? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the man's expression focused? | Yes. |
+| What | What is the man lifting in the image? | A barbell. |
+| What | What is the man's attire in the image? | Black shorts. |
+| How | How is the man's muscular physique displayed? | Prominently. |
+| How | How does the image create an atmosphere of strength and power? | The gym setting, the man's muscular physique, and the serious workout session create an atmosphere of strength and power. |

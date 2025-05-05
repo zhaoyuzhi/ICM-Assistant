@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing sandals? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the woman's arms relaxed at her sides? | Yes. |
+| Yes/No | Are the woman's legs slightly apart? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the color of the woman's skirt? | Beige. |
+| What | What is the color of the woman's sandals? | Gray. |
+| How | How is the woman standing in the image? | With her legs slightly apart and her arms relaxed at her sides. |
+| How | How would you describe the atmosphere of the image? | Calm and unassuming. |

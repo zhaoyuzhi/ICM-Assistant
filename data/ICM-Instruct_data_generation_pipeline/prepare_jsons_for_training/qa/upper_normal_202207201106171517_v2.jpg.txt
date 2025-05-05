@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman standing in front of a bookshelf? | Yes. |
+| Yes/No | Is the woman wearing a white coat with a fur collar? | Yes. |
+| Yes/No | Does the bookshelf behind the woman have a pink background? | Yes. |
+| Yes/No | Are the books on the bookshelf visible? | Yes. |
+| Yes/No | Is the woman posing for the photo? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman wearing on her coat? | A black and white graphic. |
+| What | What is the color of the background behind the bookshelf? | Pink. |
+| How | How does the woman's pose suggest a casual and relaxed setting? | The woman is standing with her feet shoulderwidth apart, with one hand on her hip and the other on the bookshelf, suggesting a relaxed and natural stance. |
+| How | How do the pink background and books on the bookshelf add a touch of warmth and coziness to the image? | The pink background creates a soft and warm tone, while the books on the bookshelf add a sense of homeyness and coziness, creating a welcoming atmosphere. |

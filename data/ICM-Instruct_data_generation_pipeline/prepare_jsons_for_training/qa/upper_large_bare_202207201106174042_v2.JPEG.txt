@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Are the two women wearing bikinis? | Yes. |
+| Yes/No | Is the woman on the left wearing a blue bikini? | Yes. |
+| Yes/No | Is the woman on the right wearing a black and white polka dot bikini? | Yes. |
+| Yes/No | Are the women smiling? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's bikini on the right? | Black and white polka dot. |
+| What | What is the woman on the right wearing? | A black and white polka dot bikini. |
+| How | How are the women posing in the image? | They are standing and smiling. |
+| How | How does the image capture the moment? | It captures a moment of leisure and enjoyment. |

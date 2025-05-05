@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Is the woman carrying a black purse with a gold chain strap? | Yes. |
+| Yes/No | Is the woman looking down at her phone? | Yes. |
+| Yes/No | Are there other people around the woman in the image? | Yes. |
+| Yes/No | Is the woman wearing a strapless dress? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman carrying? | A black purse with a gold chain strap. |
+| What | What is the woman wearing that exposes her midriff? | A strapless dress. |
+| How | How is the woman walking on the sidewalk? | Confidently. |
+| How | How does the presence of other people in the image contribute to the atmosphere? | It suggests that the woman is in a public space, which can contribute to the sexy feel of the image. |

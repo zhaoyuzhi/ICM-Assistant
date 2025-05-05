@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the image set indoors? | No. |
+| Yes/No | Is the man posing in a sexualized way? | Yes. |
+| Yes/No | Does the image include any suggestive props or objects? | No. |
+| Yes/No | Is the man's head tilted to the side? | Yes. |
+| Yes/No | Are the man's hands on his knees? | Yes. |
+| What | What color are the man's jeans? | Blue. |
+| What | What is the man wearing on his wrist? | A watch. |
+| How | How is the man posing in the image? | With his hands on his knees and his head tilted to the side. |
+| How | How does the outdoor setting contribute to the overall atmosphere of the image? | It creates a sense of mystery and intrigue, which adds to the sexy atmosphere. |

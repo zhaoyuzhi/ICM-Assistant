@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire revealing? | No. |
+| Yes/No | Is the focus of the image on the woman's appearance rather than her attire? | No. |
+| What | What is the woman standing in front of? | A wine rack. |
+| What | What is the overall atmosphere of the image? | Not sexy, simple and everyday. |
+| How | How much of the woman's body is visible in the image? | A small portion. |
+| How | How would you describe the woman's attire in the image? | Not revealing. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a green skirt? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman posing in a suggestive manner? | No. |
+| Yes/No | Does the image focus on the woman's body? | No. |
+| What | What is the woman standing in front of? | A wine rack. |
+| What | What is the overall atmosphere of the image? | Not sexy. |
+| How | How is the woman dressed in the image? | She is wearing a white blouse and a green skirt. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the woman's attire and the setting rather than her body or any suggestive poses. |

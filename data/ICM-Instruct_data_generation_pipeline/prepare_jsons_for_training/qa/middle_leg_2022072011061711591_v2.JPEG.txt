@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt made of a dark fabric? | Yes. |
+| Yes/No | Does the skirt have a high waist? | Yes. |
+| Yes/No | Is the person wearing a striped shirt? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the length of the skirt? | Almost kneelength. |
+| What | What is the combination of the skirt and shirt? | Black skirt and striped shirt. |
+| How | How does the high waist of the skirt contribute to the overall look? | It adds an element of mystery and allure. |
+| How | How does the neutral pose of the person enhance the sexy atmosphere? | It allows the viewer to focus on the outfit and the person's body. |

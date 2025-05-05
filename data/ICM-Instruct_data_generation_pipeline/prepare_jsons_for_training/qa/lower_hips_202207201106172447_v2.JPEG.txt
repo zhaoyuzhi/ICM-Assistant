@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Is the person in the image standing against a white wall? | Yes. |
+| Yes/No | Is the person in the image facing away from the camera? | Yes. |
+| Yes/No | Does the person's posture and attire suggest confidence and style? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's leggings? | Red. |
+| What | What color is the person's top? | Black. |
+| How | How is the person standing in the image? | With their back turned towards the camera, facing away. |
+| How | How does the person's attire and posture contribute to the overall atmosphere of the image? | It creates an atmosphere of sensuality and allure, emphasizing the person's confidence and selfassuredness. |

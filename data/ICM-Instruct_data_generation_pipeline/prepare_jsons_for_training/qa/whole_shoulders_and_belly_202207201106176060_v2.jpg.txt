@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding an umbrella? | Yes. |
+| Yes/No | Is the woman wearing a white strapless top? | Yes. |
+| Yes/No | Are the shorts she is wearing white? | Yes. |
+| Yes/No | Does the umbrella have a white logo on it? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the woman standing in front of a black car? | Yes. |
+| What | What is the woman holding in her hand? | An umbrella. |
+| What | What is the color of the woman's outfit? | White. |
+| How | How is the woman's outfit styled? | Strapless and midriffbaring. |
+| How | How does the black car in the background contribute to the overall atmosphere of the image? | It provides a stark contrast to the woman's white outfit, further emphasizing her presence in the image and contributing to the alluring and captivating atmosphere. |

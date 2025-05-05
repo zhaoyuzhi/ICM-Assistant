@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Is the dress backless? | Yes. |
+| Yes/No | Is the woman standing on a red carpet? | Yes. |
+| Yes/No | Is the Oscar statue in the background large? | Yes. |
+| Yes/No | Does the backless design of the dress reveal a large area of the woman's back? | Yes. |
+| Yes/No | Is the overall atmosphere of the image glamorous and sophisticated? | Yes. |
+| What | What is the woman in the image wearing? | A long pink dress with a high slit and a backless design. |
+| What | What is the woman posing in front of? | A large Oscar statue. |
+| How | How does the backless design of the dress contribute to the sexy feel of the image? | It creates a sense of allure and intrigue by exposing a large area of the woman's back. |
+| How | How does the woman's confident pose contribute to the image? | It adds to the glamour and excitement typically associated with the Oscar Awards. |

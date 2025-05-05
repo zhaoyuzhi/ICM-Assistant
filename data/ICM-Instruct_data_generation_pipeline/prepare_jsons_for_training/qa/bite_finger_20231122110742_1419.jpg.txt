@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the person in the image wearing clothes? | Yes. |
+| Yes/No | Is the image taken indoors? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the person in the image doing? | The person is holding their finger in their mouth. |
+| What | What is the overall atmosphere of the image? | Intimate and sensual. |
+| How | How does the image evoke a sense of intimacy and sensuality? | The person's action of putting their finger in their mouth is often associated with a seductive or provocative gesture, and the closeup nature of the image, combined with the person's dark hair, adds to the overall atmosphere of intimacy and allure. |
+| How | How might the image elicit feelings in the viewer? | The image may elicit feelings of desire and arousal in the viewer. |

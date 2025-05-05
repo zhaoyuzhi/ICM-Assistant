@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sweatshirt? | Yes. |
+| Yes/No | Does the woman have the word "Hermes" written on her sweatpants? | Yes. |
+| Yes/No | Is the woman wearing a black face mask? | Yes. |
+| Yes/No | Is the room the woman is in has a checkered floor? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the woman in the image wearing on her lower body? | White sweatpants with the word "Hermes" written on them. |
+| What | What is the color of the face mask the woman is wearing? | Black. |
+| How | How is the woman moving in the image? | In a casual manner. |
+| How | How would you describe the overall atmosphere of the image? | Calm and relaxed. |

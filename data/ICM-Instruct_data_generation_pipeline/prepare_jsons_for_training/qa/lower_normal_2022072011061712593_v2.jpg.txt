@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a navy blue skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the woman in the image have any suggestive or provocative elements in her attire or surroundings? | No. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and professional? | Yes. |
+| Yes/No | Does the image focus on the woman's physical appearance rather than her attire and posture? | No. |
+| What | What color is the woman's skirt in the image? | Navy blue. |
+| What | What is the woman's posture in the image? | Neutral. |
+| How | How does the woman's gaze at the camera contribute to the image's atmosphere? | It contributes to a professional and nonsexual atmosphere. |
+| How | How do the gray wall and white floor provide a neutral backdrop for the woman's attire? | They provide a plain and unobtrusive background that emphasizes the woman's clothing rather than her appearance. |

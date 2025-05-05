@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image dressed in a white shirt and blue jeans? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's posture relaxed and casual? | Yes. |
+| Yes/No | Are the person's arms resting on their knees? | Yes. |
+| Yes/No | Does the image contain any inappropriate or suggestive elements? | No. |
+| Yes/No | Is the exposure level of the person low? | Yes. |
+| What | What is the person's attire in the image? | White shirt and blue jeans. |
+| What | What is the person's posture in the image? | Relaxed and casual, with legs crossed and arms resting on knees. |
+| How | How are the person's arms positioned in the image? | Resting on their knees. |
+| How | How would you describe the overall atmosphere of the image? | Calm and casual. |

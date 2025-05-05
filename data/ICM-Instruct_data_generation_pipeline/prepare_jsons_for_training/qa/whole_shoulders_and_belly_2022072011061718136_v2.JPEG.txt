@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Are the sandals a complementary color to the dress? | Yes. |
+| Yes/No | Is the purse small? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the primary color of the dress? | Pink. |
+| What | What is the color of the purse? | Yellow. |
+| How | How long is the dress? | Down to her ankles. |
+| How | How does the floral pattern add to the dress's elegance? | It adds a touch of femininity and elegance to her outfit. |

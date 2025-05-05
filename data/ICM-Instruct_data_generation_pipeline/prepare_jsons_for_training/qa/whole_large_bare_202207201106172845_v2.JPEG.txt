@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a black corset? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the woman standing in a room with a wooden floor? | Yes. |
+| Yes/No | Are there books in the background of the image? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| What | What is the color of the woman's underwear? | Red. |
+| What | What is the color of the corset? | Black. |
+| How | How many items of clothing is the woman wearing? | 5 (bra, underwear, corset, stockings, shoes). |
+| How | How many objects are in the background of the image? | 3 (books, vase, chair). |

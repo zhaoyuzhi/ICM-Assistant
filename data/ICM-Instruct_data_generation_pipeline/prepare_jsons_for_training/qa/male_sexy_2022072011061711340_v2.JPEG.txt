@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the man's underwear red and black? | Yes. |
+| Yes/No | Is the man facing the camera? | Yes. |
+| Yes/No | Does the image contain any objects other than the man? | No. |
+| Yes/No | Is the atmosphere of the image sensual? | Yes. |
+| What | What is the man's pose in the image? | He is standing with his hands on his hips. |
+| What | What is the color and pattern of the man's underwear? | The underwear is red and black with a bold pattern. |
+| How | How does the man's pose suggest his personality? | The man's confident pose with his hands on his hips suggests a sense of selfassuredness and confidence. |
+| How | How does the image create a sensual atmosphere? | The combination of the man's attire, pose, and the lack of other objects or people in the image creates an atmosphere that is both visually appealing and sensual. |

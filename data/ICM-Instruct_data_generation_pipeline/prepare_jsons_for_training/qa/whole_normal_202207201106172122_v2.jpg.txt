@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Does the woman have a neutral expression? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image contain explicit or suggestive elements? | No. |
+| What | What is the woman sitting on? | A bench. |
+| What | What is the overall atmosphere of the image? | Neutral. |
+| How | How is the woman's attire depicted in the image? | The woman's attire is depicted as casual and modest, with a focus on the white shirt and blue jeans. |
+| How | How does the low exposure level affect the image? | The low exposure level reduces the visual appeal of the image and draws attention away from the woman's appearance and body language, focusing instead on her attire and the bench she is sitting on. |

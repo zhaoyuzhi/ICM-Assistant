@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Are the stockings the woman is putting on black? | Yes. |
+| Yes/No | Does the woman appear to be carefully placing the stockings on her legs? | Yes. |
+| Yes/No | Are the stockings sheer? | Yes. |
+| Yes/No | Does the image convey a sense of allure and sensuality? | Yes. |
+| Yes/No | Is the contrast between the white tank top and black stockings visually striking? | Yes. |
+| What | What is the woman in the image putting on? | Stockings. |
+| What | What is the color of the stockings the woman is putting on? | Black. |
+| How | How is the woman putting on the stockings? | Carefully. |
+| What | What does the act of putting on stockings convey about the woman's confidence? | Selfexpression and confidence. |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Are the stockings the woman is putting on black? | Yes. |
+| Yes/No | Does the woman appear to be carefully placing the stockings on her legs? | Yes. |
+| Yes/No | Are the stockings sheer? | Yes. |
+| Yes/No | Does the image convey a sense of allure and sensuality? | Yes. |
+| Yes/No | Is the woman's attire and the act of putting on stockings a form of self-expression and confidence? | Yes. |
+| What | What is the woman wearing on her upper body? | A white tank top. |
+| What | What color are the stockings the woman is putting on? | Black. |
+| How | How are the stockings the woman is putting on described? | Sheer and with writing on them. |
+| How | How does the woman appear to be placing the stockings on her legs? | Carefully. |

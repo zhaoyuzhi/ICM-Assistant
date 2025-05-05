@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Are the couple sitting on a couch? | Yes. |
+| Yes/No | Are they engaged in a passionate kiss? | Yes. |
+| Yes/No | Is the woman wearing a gray tank top? | Yes. |
+| Yes/No | Is the man wearing a black t-shirt? | Yes. |
+| Yes/No | Is the woman's hand on the man's chin? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and romantic? | Yes. |
+| What | What is the woman wearing? | A gray tank top. |
+| What | What is the man wearing? | A black tshirt. |
+| How | How are the couple positioned on the couch? | The woman is sitting on the man's lap. |
+| How | How does the woman's hand on the man's chin add to the intimacy of the scene? | It suggests a deep emotional connection and physical closeness between the couple. |

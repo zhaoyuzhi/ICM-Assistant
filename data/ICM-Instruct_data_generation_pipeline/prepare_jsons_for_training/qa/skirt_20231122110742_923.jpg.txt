@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow dress? | Yes. |
+| Yes/No | Are high heels visible in the image? | Yes. |
+| Yes/No | Is the woman lifting the dress in the image? | Yes. |
+| Yes/No | Is the dress flowing in the image? | Yes. |
+| Yes/No | Do the high heels add an element of elegance and sophistication? | Yes. |
+| Yes/No | Does the woman's pose and the way she is lifting the dress suggest a sense of confidence and allure? | Yes. |
+| What | What color is the dress? | Yellow. |
+| What | What is the woman's pose in the image? | She is lifting the dress, exposing her legs and thighs. |
+| How | How does the dress add to the overall atmosphere of the image? | The dress flowing adds a sense of movement, and the way the woman is lifting it suggests a sense of confidence and allure, contributing to the sexy atmosphere. |
+| How | How do the high heels contribute to the overall atmosphere of the image? | They add an element of elegance and sophistication, enhancing the overall feeling of allure and confidence in the image. |

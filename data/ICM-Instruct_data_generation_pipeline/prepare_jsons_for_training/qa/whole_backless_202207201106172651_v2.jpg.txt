@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the dress red? | Yes. |
+| Yes/No | Does the dress have a lace-like pattern? | Yes. |
+| Yes/No | Is the person's hair pulled back? | Yes. |
+| Yes/No | Does the image have a sexy feel to it? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| What | What color is the dress? | Red. |
+| What | What is the texture of the dress? | Lacelike. |
+| How | How is the dress tied at the back? | It is not specified in the description. |
+| How | How does the person's pose enhance the sexy feel of the image? | The person's pose, with their hair pulled back, further accentuates the sexy feel of the image. |

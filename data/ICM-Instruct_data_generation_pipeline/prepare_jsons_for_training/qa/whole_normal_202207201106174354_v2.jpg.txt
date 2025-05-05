@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| Yes/No | Is the woman in the image sitting on a couch? | Yes. |
+| What | What is the woman in the image holding in her hand? | A phone. |
+| What | What is the color of the woman's sweater? | White. |
+| How | How is the woman sitting on the couch? | Comfortably. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

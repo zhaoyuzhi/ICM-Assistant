@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the pants made of a soft fabric? | Yes. |
+| Yes/No | Is the logo on the shirt white? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire modest? | Yes. |
+| What | What is the color of the person's shirt? | Black. |
+| What | What is the color of the person's pants? | Black. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How would you describe the overall atmosphere of the image? | Calm and neutral, focusing on the person's attire rather than their appearance. |

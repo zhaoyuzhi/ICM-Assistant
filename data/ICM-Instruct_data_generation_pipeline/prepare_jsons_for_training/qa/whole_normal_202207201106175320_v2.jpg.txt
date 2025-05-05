@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a maroon blouse? | Yes. |
+| Yes/No | Are the woman's pants black? | Yes. |
+| Yes/No | Is the woman's pose in the image confident and poised? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman's attire appropriate for a formal setting? | Yes. |
+| Yes/No | Does the image have a calm and composed atmosphere? | Yes. |
+| What | What color is the woman's blouse? | Maroon. |
+| What | What is the woman's pose in the image? | She is standing with her left hand resting on her hip and her right hand lightly touching her collar. |
+| How | How is the woman's blouse styled? | It has a buttondown front. |
+| How | How do the black pants complement the woman's outfit? | They complement the blouse and complete her outfit. |

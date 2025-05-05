@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the couple kissing passionately in the image? | Yes. |
+| Yes/No | Does the image depict a romantic atmosphere? | Yes. |
+| Yes/No | Is the woman's head tilted back in the image? | Yes. |
+| Yes/No | Is the man's face pressed against the woman's? | Yes. |
+| What | What is the color of the woman's hair in the image? | Blonde. |
+| What | What is the color of the man's shirt in the image? | Black. |
+| How | How are the couple positioned in the image? | They are locked in a tender embrace, with the woman's head tilted back and the man's face pressed against hers. |
+| How | How would you describe the atmosphere of the image? | Intimate and romantic. |

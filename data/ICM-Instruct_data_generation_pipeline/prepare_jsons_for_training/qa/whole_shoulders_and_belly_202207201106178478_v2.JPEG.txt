@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the woman have a cell phone in her right hand? | Yes. |
+| Yes/No | Is the woman standing in front of a bookshelf? | Yes. |
+| Yes/No | Does the woman have her left hand on her hip? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the dress? | Red. |
+| What | What is the woman holding in her right hand? | A cell phone. |
+| How | How is the woman standing? | With her left hand on her hip. |
+| How | How does the dress contribute to the atmosphere of the image? | It adds a sense of allure and confidence. |

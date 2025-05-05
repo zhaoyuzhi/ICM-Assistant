@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are jeans visible in the image? | Yes. |
+| Yes/No | Is the woman carrying a purse and a cell phone? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have a confident stride? | Yes. |
+| Yes/No | Is the building in the background prominent? | No. |
+| What | What type of clothing is the woman wearing? | A strapless top, jeans, and a denim jacket. |
+| What | What is the woman carrying in her hand? | A purse and a cell phone. |
+| How | How does the woman's attire contribute to the sexy atmosphere? | The strapless top and denim jacket give off a casual yet stylish vibe, while the jeans add a touch of everyday wear, creating an image that is both sexy and relatable. |
+| How | How does the woman's demeanor enhance the sexy atmosphere? | Her confident stride down the street suggests a sense of selfassuredness and confidence in her appearance. |

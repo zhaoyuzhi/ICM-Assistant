@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Are the women in the image wearing blue bikinis? | Yes. |
+| Yes/No | Are the women in the image dancing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the women in the image facing the camera? | No. |
+| Yes/No | Is the image shot in a tropical location? | Yes. |
+| What | What are the women in the image wearing? | Blue bikinis. |
+| What | What is the main color of the image? | Blue. |
+| How | How are the women in the image standing? | In various poses, with some having their backs turned. |
+| How | How does the image make you feel? | Confident, sexy, and relaxed. |

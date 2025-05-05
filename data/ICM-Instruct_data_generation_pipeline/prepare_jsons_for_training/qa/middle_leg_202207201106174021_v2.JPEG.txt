@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt black? | Yes. |
+| Yes/No | Does the woman have a purse? | Yes. |
+| Yes/No | Is the purse gold? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the wall in the background gray? | Yes. |
+| What | What color is the sweater the woman is wearing? | Green. |
+| What | What is the woman's pose in the image? | Confident and stylish. |
+| How | How does the woman's attire create a visually appealing contrast? | The combination of the black skirt, green sweater, and gold purse creates a visually appealing contrast. |
+| How | How does the woman's pose and confident stance add to the overall allure of the image? | The woman's pose and confident stance add to the overall allure of the image by suggesting a sense of elegance and style. |

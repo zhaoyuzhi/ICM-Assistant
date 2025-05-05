@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the swimsuit a bikini? | Yes. |
+| Yes/No | Are the person's legs extended upwards? | Yes. |
+| Yes/No | Is the person's body upside down in the water? | Yes. |
+| Yes/No | Is the swimsuit red and blue in color? | Yes. |
+| Yes/No | Is the water around the person splashing? | Yes. |
+| What | What is the color of the swimsuit? | Red and blue. |
+| What | What is the person's body position in the water? | Upside down. |
+| How | How is the person's movement in the water depicted? | With splashing water. |
+| How | How does the bright colors of the swimsuit contrast with the blue of the water? | The bright colors stand out against the blue water, creating a dynamic and alluring atmosphere. |

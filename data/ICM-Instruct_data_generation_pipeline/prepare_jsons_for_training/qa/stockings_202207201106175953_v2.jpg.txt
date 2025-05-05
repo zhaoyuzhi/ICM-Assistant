@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a school uniform? | Yes. |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Are the stockings white? | Yes. |
+| Yes/No | Is the person's hand resting on their knee? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and suggestive? | Yes. |
+| Yes/No | Does the image feature a contrast between the person's school uniform and their suggestive attire? | Yes. |
+| What | What is the primary color of the person's skirt? | Blue. |
+| What | What is the person's hand resting on? | Their knee. |
+| How | How are the stockings worn? | They are worn kneehigh. |
+| How | How does the close-up nature of the photo emphasize the person's legs and stockings? | It creates a focus on the lower half of the body, drawing attention to the stockings and legs. |

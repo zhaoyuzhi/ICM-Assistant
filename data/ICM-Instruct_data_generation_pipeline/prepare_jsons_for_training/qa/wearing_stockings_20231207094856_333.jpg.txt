@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Is the person in the image sitting on a wooden floor? | Yes. |
+| Yes/No | Is the person in the image putting on black stockings? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person holding the stocking up with their left hand? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image wearing? | A white dress and black stockings. |
+| What | What is the person in the image doing? | Putting on black stockings. |
+| How | How are the stockings being pulled up? | The person is holding the stocking up with their left hand. |
+| How | How does the wooden floor contribute to the atmosphere of the image? | It provides a warm and natural backdrop, enhancing the overall atmosphere of the image. |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Is the person sitting on a wooden floor? | Yes. |
+| Yes/No | Is the person putting on black stockings? | Yes. |
+| Yes/No | Are the stockings being pulled up over the person's knees? | Yes. |
+| Yes/No | Is the person holding the stocking up with their left hand? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person wearing? | A white dress and black stockings. |
+| What | What is the background of the image? | A wooden floor. |
+| How | How are the stockings being put on? | The person is holding the stocking up with their left hand and pulling it up over their knees. |
+| What | What is the mood of the image? | The mood of the image is intimate, vulnerable, and sensual. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Does the woman have her eyes closed? | Yes. |
+| Yes/No | Are the woman's lips slightly parted? | Yes. |
+| Yes/No | Is the woman's facial expression associated with seduction or allure? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman's facial expression? | Pouting. |
+| How | How are the woman's lips? | Slightly parted. |
+| How | How are the woman's eyes? | Closed. |

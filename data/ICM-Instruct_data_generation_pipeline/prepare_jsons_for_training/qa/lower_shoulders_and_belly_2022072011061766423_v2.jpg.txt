@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Does the person have their arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Does the image convey a sense of balance? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image capture a moment of self-expression and confidence? | Yes. |
+| What | What color are the leggings? | Blue. |
+| What | What is the color of the stripe running down the side of the leggings? | White. |
+| How | How are the person's arms positioned? | Relaxed at their sides. |
+| How | How do the person's legs create a sense of balance in the image? | Slightly apart. |

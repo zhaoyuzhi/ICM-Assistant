@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the woman sitting on a bed? | Yes. |
+| Yes/No | Are the bed sheets white? | Yes. |
+| Yes/No | Is the woman's dress black? | Yes. |
+| Yes/No | Does the woman have her legs crossed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's pose in the image? | Legs crossed. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The black stockings and dress suggest sensuality and allure, creating a seductive atmosphere. |
+| How | How does the contrast between the woman's clothing and the white bed sheets affect the image? | The contrast emphasizes the woman's presence and adds to the overall allure and confidence she exudes. |

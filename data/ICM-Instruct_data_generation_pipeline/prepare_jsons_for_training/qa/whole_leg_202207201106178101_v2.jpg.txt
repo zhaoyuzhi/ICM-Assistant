@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Does the blouse have a high neckline? | Yes. |
+| Yes/No | Are the sleeves of the blouse long? | Yes. |
+| Yes/No | Is the skirt floral? | Yes. |
+| Yes/No | Are the heels black? | Yes. |
+| What | What color is the blouse? | White. |
+| What | What is the pattern on the skirt? | Floral. |
+| How | How does the woman's pose suggest confidence? | She has her hands placed on her hips, accentuating her figure. |
+| How | How does the combination of the white blouse, floral skirt, and black heels create a contrast? | The contrast between the white blouse, floral skirt, and black heels creates a visually appealing and attentiongrabbing image. The white blouse provides a clean, classic base that complements the skirt, while the black heels add an element of sophistication to her overall look. |

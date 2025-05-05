@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black tank top? | Yes. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the woman's left hand on her hip? | Yes. |
+| Yes/No | Is the woman's right hand on her thigh? | Yes. |
+| Yes/No | Is the background of the image plain gray? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A black tank top with a white logo on the left side. |
+| What | What is the woman in the image wearing on her lower body? | Black pants or a skirt (not visible in the image). |
+| How | How is the woman in the image standing? | She is standing with her feet shoulderwidth apart and her arms raised above her head. |
+| How | How does the woman's pose in the image contribute to its overall sexiness? | Her pose, with her arms raised above her head and her hand on her hip, adds to the overall allure of the image and creates a seductive atmosphere. |

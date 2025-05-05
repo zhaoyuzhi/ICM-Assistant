@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Are the people in the background wearing red and gold armor and helmets? | Yes. |
+| Yes/No | Is the image set against a yellow background? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the image depict a historical scene? | Yes. |
+| What | What is the man in the image pointing towards? | A group of people in similar attire. |
+| What | What is the color of the man's hat and robe? | Black and red/gold. |
+| How | How are the Chinese characters and red banner related to the image? | They are used to emphasize the cultural and historical context of the image. |
+| What | What does the low exposure level of the image suggest about its intended purpose? | It suggests that the image is not meant to be a provocative or sensual image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige jacket? | Yes. |
+| Yes/No | Is the woman in the image wearing a brown skirt? | Yes. |
+| Yes/No | Are the woman's heels beige? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman have her hands placed on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's jacket? | Beige. |
+| What | What is the color of the woman's skirt? | Brown. |
+| How | How does the woman's pose convey confidence and allure? | The woman's pose, with her hands placed on her hips, conveys a sense of selfassuredness and allure. |
+| How | How does the background of the image emphasize the subject? | The white background further emphasizes the subject, drawing attention to her outfit and pose. |

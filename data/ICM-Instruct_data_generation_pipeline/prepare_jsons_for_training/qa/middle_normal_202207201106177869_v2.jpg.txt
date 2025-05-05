@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue sweatpants? | Yes. |
+| Yes/No | Is the person's blouse light blue? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the person looking downwards? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the color of the person's sweatpants? | Blue. |
+| What | What is the color of the person's blouse? | Light blue. |
+| How | How are the person's hands positioned in the image? | On their hips. |
+| How | How is the person looking in the image? | Downwards. |
+| Yes/No | Is the person in the image wearing a pair of blue sweatpants? | Yes. |
+| Yes/No | Does the blouse match the color of the sweatpants? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and comfortable? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Are there any inappropriate or offensive elements in the image? | No. |
+| What | What is the color of the sweatpants? | Blue. |
+| What | What type of clothing is the person wearing? | Athletic attire. |
+| How | How is the waist of the sweatpants designed? | With a drawstring. |
+| How | How would you describe the overall atmosphere of the image? | Casual and comfortable. |

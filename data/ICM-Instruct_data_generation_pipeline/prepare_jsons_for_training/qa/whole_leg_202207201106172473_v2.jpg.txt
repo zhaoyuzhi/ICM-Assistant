@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the background plain and white? | Yes. |
+| Yes/No | Does the tracksuit feature a white graphic on the front? | Yes. |
+| Yes/No | Is the tracksuit cropped at the waist? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A blue tracksuit. |
+| What | What is the color of the tracksuit? | Blue. |
+| How | How is the woman posing in the image? | With her hands casually tucked into her pockets. |
+| What | What is the effect of the white background on the image? | It emphasizes the subject, making her the sole focus. |

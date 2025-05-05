@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Does the skirt have gold buttons? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Are there two pockets on the front of the skirt? | Yes. |
+| Yes/No | Is the woman standing in a room with a gray floor and a white wall? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What is the color of the woman's top? | White. |
+| How | How does the woman's pose accentuate her body? | Her pose, with her hand on her hip, accentuates her body and adds to the overall allure of the image. |

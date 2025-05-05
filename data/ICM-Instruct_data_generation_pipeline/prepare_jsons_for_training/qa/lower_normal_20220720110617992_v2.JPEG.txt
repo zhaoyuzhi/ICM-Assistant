@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt made of a textured fabric? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image depict any explicit or suggestive clothing or actions? | No. |
+| Yes/No | Is the focus of the image on the person's attire and the setting? | Yes. |
+| Yes/No | Is the exposure level of the person in the image low? | Yes. |
+| What | What is the color of the person's top? | Gray. |
+| What | What is the overall atmosphere of the image? | Casual and everyday. |
+| How | How is the person standing on the sidewalk? | The person is standing casually, without any provocative or sensual poses. |
+| How | How does the image depict the person's attire? | The image depicts the person's attire in a casual and nonsexual manner, with a focus on the texture and style of the skirt and top. |

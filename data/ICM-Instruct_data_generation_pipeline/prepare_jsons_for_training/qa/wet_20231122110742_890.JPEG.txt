@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the dancer male? | Yes. |
+| Yes/No | Is the dancer wearing a white shirt? | Yes. |
+| Yes/No | Is the dancer wearing black pants? | Yes. |
+| Yes/No | Is the dancer's left hand on his knee? | Yes. |
+| Yes/No | Is the dancer's right hand extended outward? | Yes. |
+| Yes/No | Are the dancer's clothes soaked? | Yes. |
+| What | What is the color of the dancer's shirt? | White. |
+| What | What is the color of the dancer's pants? | Black. |
+| How | How is the dancer's pose? | Dynamic. |
+| How | How does the lighting in the image contribute to the overall atmosphere? | Dramatic and focused on the dancer, enhancing the sexy and alluring atmosphere. |

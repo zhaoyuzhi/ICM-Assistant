@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black sweatshirt? | Yes. |
+| Yes/No | Does the sweatshirt have white text and a graphic of a person on it? | Yes. |
+| Yes/No | Is the person wearing headphones? | Yes. |
+| Yes/No | Does the person have black hair? | Yes. |
+| Yes/No | Is the background of the image a concrete wall with a red stripe? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the main focus of the image? | The concrete wall with a red stripe. |
+| What | What is the person's position in the image? | Sitting on the ground. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It creates a neutral and uninteresting background. |
+| How | How does the person's clothing and appearance contribute to the overall atmosphere of the image? | They are not the main focus of the image and do not create a suggestive or provocative atmosphere. |

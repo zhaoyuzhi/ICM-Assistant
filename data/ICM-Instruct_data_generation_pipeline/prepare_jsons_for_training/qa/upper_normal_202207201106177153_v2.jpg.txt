@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing glasses? | Yes. |
+| Yes/No | Is the pillow white? | Yes. |
+| Yes/No | Is the blanket pink? | Yes. |
+| Yes/No | Is the man lying down? | Yes. |
+| Yes/No | Is the image appropriate for viewing? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the man wearing? | A white tshirt and glasses. |
+| What | What is the color of the blanket? | Pink. |
+| How | How is the man positioned in the bed? | Lying down. |
+| How | How would you describe the overall atmosphere of the image? | Calm and relaxed. |

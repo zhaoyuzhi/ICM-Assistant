@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image holding her hand to her face? | Yes. |
+| Yes/No | Is the woman in the image carrying a black purse? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image appear to be a street scene? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image adjusting? | Her makeup or hair. |
+| What | What is the color of the woman's top? | Pink. |
+| How | How is the woman's purse attached to her shoulder? | With a gold chain strap. |
+| How | How does the woman's pose in the image contribute to its overall atmosphere? | It adds a sense of confidence and allure. |

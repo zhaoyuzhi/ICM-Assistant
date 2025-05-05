@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman lying on a towel? | Yes. |
+| Yes/No | Is the beach setting sunny? | No. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman's body fully covered by the towel? | No. |
+| What | What is the woman wearing? | A white bikini top and white bikini bottoms. |
+| What | What is the woman lying on? | A towel. |
+| How | How is the woman's body positioned in the image? | The woman's body is exposed and spread out on the sand. |
+| How | How does the woman's direct gaze at the camera contribute to the overall atmosphere of the image? | It creates a sense of intimacy and allure. |

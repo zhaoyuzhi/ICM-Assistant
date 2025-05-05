@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young girl? | Yes. |
+| Yes/No | Is the girl wearing a gray cardigan? | Yes. |
+| Yes/No | Does the cardigan have a yellow and white pattern? | Yes. |
+| Yes/No | Is the girl wearing a blue skirt? | Yes. |
+| Yes/No | Are the girl's braids playful? | Yes. |
+| Yes/No | Is the girl looking downwards? | Yes. |
+| What | What color is the girl's cardigan? | Gray. |
+| What | What is the girl's hair style? | Braids. |
+| How | How is the girl's cardigan adorned? | With a yellow and white pattern. |
+| How | How is the girl looking? | Downwards. |

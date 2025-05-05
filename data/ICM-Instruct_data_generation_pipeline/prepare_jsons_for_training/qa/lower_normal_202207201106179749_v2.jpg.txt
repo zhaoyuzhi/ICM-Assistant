@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Does the image suggest a romantic or intimate context? | No. |
+| What | What is the person in the image wearing on their feet? | White sneakers. |
+| What | What is the color of the person's attire in the image? | Black and white. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |

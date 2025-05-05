@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress long-sleeved? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the woman's hair wet? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's facial expression in the image? | Serious. |
+| What | What is the likely reason for the woman's wet clothes? | Rain. |
+| How | How does the garden setting contribute to the image's atmosphere? | It adds a natural and intimate element. |
+| How | How does the woman's serious expression contribute to the image's atmosphere? | It evokes feelings of intensity or passion. |

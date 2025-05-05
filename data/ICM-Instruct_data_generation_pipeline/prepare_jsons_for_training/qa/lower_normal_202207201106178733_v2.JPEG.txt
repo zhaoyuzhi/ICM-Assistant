@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black sweatshirt? | Yes. |
+| Yes/No | Are his hands tucked into his pockets? | Yes. |
+| Yes/No | Is the brick wall behind him composed of red bricks? | Yes. |
+| Yes/No | Is there a yellow caution tape running horizontally across the image? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the man wearing on his lower body? | Black sweatpants with white text. |
+| What | What is the color of the brick wall? | Red. |
+| How | How is the man positioned in front of the brick wall? | He is standing in front of it, looking directly at the camera. |
+| How | How does the image create a sense of engagement with the viewer? | The man's direct gaze into the camera and his casual pose create a sense of engagement with the viewer. |

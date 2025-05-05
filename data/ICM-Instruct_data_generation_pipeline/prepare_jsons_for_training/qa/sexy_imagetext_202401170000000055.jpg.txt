@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the man and woman wearing matching white clothes? | Yes. |
+| Yes/No | Is the bed covered with a blue blanket? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the slogan at the bottom of the image add to the sexy atmosphere? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the woman wearing in the image? | A white dress. |
+| What | What is the man wearing in the image? | A white shirt. |
+| How | How is the blue blanket on the bed different from the rest of the image? | It provides a contrasting color. |

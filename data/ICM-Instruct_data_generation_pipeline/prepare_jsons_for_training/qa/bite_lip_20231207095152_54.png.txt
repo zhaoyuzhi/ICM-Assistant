@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white striped shirt? | Yes. |
+| Yes/No | Does the woman have long blonde hair? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image have a seductive or alluring atmosphere? | Yes. |
+| Yes/No | Is the image likely to evoke feelings of desire and intrigue in the viewer? | Yes. |
+| What | What color is the woman's shirt? | Black and white. |
+| What | What is the woman's facial expression? | Serious. |
+| How | How is the woman biting her lip? | She is biting her lower lip with her upper teeth. |
+| How | How does the image make the viewer feel? | Desire and intrigue. |

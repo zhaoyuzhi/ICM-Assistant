@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| How | Is the image from a movie or TV show? | Yes. |
+| Yes/No | Are the two characters in a workshop? | Yes. |
+| Yes/No | Is the man holding a bucket? | Yes. |
+| Yes/No | Is the woman holding a spray bottle? | Yes. |
+| Yes/No | Are the characters interacting with each other? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| What | What is the man wearing? | Tank top and shorts. |
+| What | What is the woman wearing? | Sweater and overalls. |
+| What | What is the focus of the image? | The interaction between the two characters and the environment they are in. |

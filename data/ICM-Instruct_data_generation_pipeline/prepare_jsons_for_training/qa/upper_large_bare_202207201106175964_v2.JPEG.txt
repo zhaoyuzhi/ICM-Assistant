@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top strapless? | Yes. |
+| Yes/No | Does the bikini bottom have a string or tie at the sides? | Yes. |
+| Yes/No | Is the woman laying on a blue lounge chair? | Yes. |
+| Yes/No | Are the sunglasses worn by the woman made of a lightweight, durable material? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| What | What type of furniture is the woman laying on? | A blue lounge chair. |
+| What | What type of eyewear is the woman wearing? | Sunglasses. |
+| How | How is the woman adjusting the fit of her bikini bottom? | With a string or tie at the sides. |
+| How | How does the woman appear to be feeling in the image? | Relaxed and happy. |

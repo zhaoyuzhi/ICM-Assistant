@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini the person's only article of clothing? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the image taken indoors? | No. |
+| Yes/No | Does the image depict a sexualized scene? | Yes. |
+| Yes/No | Is the person in the image male? | No. |
+| What | What is the person in the image doing? | Walking on the beach. |
+| What | What is the person's attire in the image? | A bikini. |
+| How | How is the person's body positioned in the image? | The person is walking away from the camera, with their backside visible. |
+| How | How does the image make the viewer feel? | The image creates a sense of allure and intrigue, associated with sexy beach scenes. |

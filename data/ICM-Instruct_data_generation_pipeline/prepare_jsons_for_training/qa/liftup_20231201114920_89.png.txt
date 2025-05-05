@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the TV turned on? | No. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Is the dress modest? | Yes. |
+| Yes/No | Is the woman lifting her dress? | Yes. |
+| Yes/No | Is the room dimly lit? | Yes. |
+| What | What is the woman doing in the image? | She is in the middle of a dance move. |
+| What | What is the atmosphere of the image? | Sexy. |
+| How | How is the woman's posture? | Confident and comfortable. |
+| How | How does the dimly lit room and large flat-screen TV contribute to the atmosphere of the image? | They create an intimate and seductive environment that enhances the sexy feel of the image. |

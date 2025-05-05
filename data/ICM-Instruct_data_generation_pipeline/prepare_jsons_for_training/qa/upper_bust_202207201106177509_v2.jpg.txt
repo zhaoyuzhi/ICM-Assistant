@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a tank top? | Yes. |
+| Yes/No | Is the tank top cropped at the waist? | Yes. |
+| Yes/No | Is the woman standing against a plain white wall? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the woman's pose seductive? | Yes. |
+| What | What is the woman wearing? | A white tank top. |
+| What | What is the color of the tank top? | White. |
+| How | How is the woman standing? | She is standing with her chest exposed. |
+| How | How does the plain white wall in the background affect the image? | It emphasizes the subject and draws attention to her and her attire, adding to the seductive nature of the image. |

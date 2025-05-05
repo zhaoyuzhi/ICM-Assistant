@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person in the process of undressing? | Yes. |
+| Yes/No | Is the skirt made of a stretchy fabric? | Yes. |
+| Yes/No | Does the blouse have a sheer neckline? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person holding up with one hand? | The skirt. |
+| What | What is the color of the skirt? | Black. |
+| How | How is the person holding up the skirt? | With one hand. |
+| How | How does the person's hand rest on their hip? | With a sense of confidence and selfassuredness. |

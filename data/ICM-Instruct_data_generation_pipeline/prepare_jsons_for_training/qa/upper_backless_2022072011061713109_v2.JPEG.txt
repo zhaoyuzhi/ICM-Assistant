@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black nightgown? | Yes. |
+| Yes/No | Does the nightgown have a lace trim? | Yes. |
+| Yes/No | Does the woman have a plunging neckline? | Yes. |
+| Yes/No | Are the straps of the nightgown thin? | Yes. |
+| Yes/No | Is the woman leaning against a white wall? | Yes. |
+| Yes/No | Do the woman's arms rest on her hips? | Yes. |
+| What | What color is the nightgown? | Black. |
+| What | What is the woman's pose in the image? | She is leaning against a white wall, with her arms resting on her hips. |
+| How | How does the woman's attire create a sense of intimacy? | The woman's attire, specifically the plunging neckline and thin straps, reveals a large area of her back, creating a sense of intimacy. |
+| How | How does the image create a sense of allure? | The image creates a sense of allure due to the woman's confident and sensual pose, the black nightgown with a lace trim, and the contrasting white background. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of navy blue sweatpants? | Yes. |
+| Yes/No | Is the man in the image wearing a white sneaker? | Yes. |
+| Yes/No | Is the man in the image facing the camera? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the man's posture in the image neutral? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man in the image wearing on his lower body? | A pair of navy blue sweatpants. |
+| What | What is the man in the image wearing on his feet? | A white sneaker. |
+| How | How is the man in the image standing? | With a neutral posture. |
+| How | How is the image focused? | The image is focused on the man's lower body and legs. |

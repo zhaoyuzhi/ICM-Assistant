@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Are the shorts black? | Yes. |
+| Yes/No | Do the shorts have a marbled texture? | Yes. |
+| Yes/No | Is the top simple yet elegant? | Yes. |
+| Yes/No | Does the woman have her hands in her pockets? | Yes. |
+| What | What color is the woman's top? | White. |
+| What | What is the texture of the shorts? | Marbled. |
+| How | How does the woman exude confidence in the image? | She stands confidently with her hands in her pockets. |
+| How | How does the round neckline of the top contrast with the bold shorts? | The round neckline of the top creates a soft contrast with the bold shorts, adding a balance between the two. |

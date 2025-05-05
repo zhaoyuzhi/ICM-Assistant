@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red top? | Yes. |
+| Yes/No | Is the woman in the image wearing red pants? | Yes. |
+| Yes/No | Is the woman in the image wearing a red jacket? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the woman in the image posing with her mouth open? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A strapless and midriffbaring top. |
+| What | What is the woman in the image wearing on her lower body? | Red pants. |
+| How | How is the woman in the image posing? | With her hands on her hips and her mouth open. |
+| How | How does the red color of the woman's outfit contribute to the atmosphere of the image? | It adds to the sexy feel, as red is often associated with passion and intensity. |

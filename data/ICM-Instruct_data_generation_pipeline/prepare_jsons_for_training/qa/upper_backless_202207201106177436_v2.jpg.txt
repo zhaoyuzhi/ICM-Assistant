@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Are the leggings the person is wearing gray? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Do the thin straps and low back of the sports bra expose a significant portion of the person's back? | Yes. |
+| Yes/No | Are the back of the legs visible due to the low back of the sports bra? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What color are the leggings the person is wearing? | Gray. |
+| What | What is the design of the black sports bra? | Thin straps and low back. |
+| How | How does the black sports bra expose the person's back? | The thin straps and low back design expose a large area of the person's back. |
+| How | How do the gray leggings contribute to the sexy atmosphere of the image? | The gray leggings add to the overall revealing look of the person's attire, contributing to the sexy atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the woman wearing glasses? | Yes. |
+| Yes/No | Is the woman wearing red lipstick? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color is the woman's hair? | Gray. |
+| What | What is the woman's facial expression? | Seductive and mysterious. |
+| How | How does the woman's biting her lip add to the image's atmosphere? | It adds a sense of mystery and intrigue. |
+| How | How do the glasses the woman is wearing contribute to her appearance? | They add an intellectual touch to her appearance. |

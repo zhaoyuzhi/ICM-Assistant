@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue off-the-shoulder top? | Yes. |
+| Yes/No | Is the woman wearing a brown skirt? | Yes. |
+| Yes/No | Is the woman holding a black purse in her right hand? | Yes. |
+| Yes/No | Is the woman looking at her phone with her left hand? | Yes. |
+| Yes/No | Are there people behind the woman in the street? | Yes. |
+| Yes/No | Is the woman's midriff exposed? | Yes. |
+| What | What is the woman holding in her right hand? | A black purse. |
+| What | What is the woman looking at on her phone? | A message or photo. |
+| How | How is the woman's top off-the-shoulder? | It is strapless. |
+| How | How is the woman's skirt styled? | It is midriffbaring. |

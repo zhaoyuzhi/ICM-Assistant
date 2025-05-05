@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding a phone? | Yes. |
+| Yes/No | Is the person wearing a blue shirt? | Yes. |
+| Yes/No | Does the phone screen display a chat with a friend? | Yes. |
+| Yes/No | Is the background of the image a blurred building with a glass window? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the person in the image holding in their hand? | A phone. |
+| What | What is the color of the person's shirt? | Blue. |
+| How | How is the background of the image blurred? | The background is blurred because it is not in focus. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level creates a dark and moody atmosphere, which further emphasizes the nonsexual nature of the image. |

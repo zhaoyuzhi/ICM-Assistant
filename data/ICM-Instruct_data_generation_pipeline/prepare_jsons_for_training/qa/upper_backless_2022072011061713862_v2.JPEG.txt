@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing black underwear? | Yes. |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Does the image contain any explicit content? | No. |
+| What | What is the woman in the image wearing? | A black bra and black underwear. |
+| What | What is the focus of the image? | The woman's back and black lace underwear. |
+| How | How is the woman posed in the image? | With her back turned towards the camera, facing away from it. |
+| How | How does the contrast between the black clothing and white wall contribute to the image's impact? | It adds visual interest and highlights the woman's attire. |

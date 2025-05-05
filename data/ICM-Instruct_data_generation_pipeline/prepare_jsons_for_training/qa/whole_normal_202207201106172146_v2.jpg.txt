@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pajama set? | Yes. |
+| Yes/No | Does the pajama set have a graphic of a bird on it? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image focus on the woman's physical appearance? | No. |
+| What | What is the color of the pajama set? | Orange. |
+| What | What is the overall atmosphere of the image? | Casual and comfortable. |
+| How | How is the woman posing in the photo? | She is smiling and appears to be posing for the photo. |
+| How | How much of the woman's body is visible in the photo? | Only a small portion. |

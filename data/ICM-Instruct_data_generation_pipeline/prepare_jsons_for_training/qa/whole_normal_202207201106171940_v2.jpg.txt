@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the man using a long metal tool to stir the chocolate? | Yes. |
+| Yes/No | Is the pot filled with chocolate? | Yes. |
+| Yes/No | Is the man holding the tool above the pot? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the man in the image doing? | He is stirring chocolate. |
+| What | What is the exposure level of the image? | Low. |
+| How | How is the man stirring the chocolate? | He is using a long metal tool. |
+| What | What is the atmosphere of the image? | It is not sexy, it focuses on the process of making chocolate. |

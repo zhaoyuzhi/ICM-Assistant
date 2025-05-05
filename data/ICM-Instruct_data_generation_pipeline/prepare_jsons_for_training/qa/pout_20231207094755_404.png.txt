@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Is the woman's expression seductive? | Yes. |
+| Yes/No | Is the background of the image out of focus? | Yes. |
+| Yes/No | Does the image feature the woman's full body? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the woman's facial expression in the image? | Pouting or kissing face. |
+| What | What is the color of the woman's hair in the image? | Blonde. |
+| How | How are the woman's lips depicted in the image? | Puckered. |
+| How | How does the close-up focus on the woman's face contribute to the image's overall mood? | It creates a sense of intimacy and allure. |

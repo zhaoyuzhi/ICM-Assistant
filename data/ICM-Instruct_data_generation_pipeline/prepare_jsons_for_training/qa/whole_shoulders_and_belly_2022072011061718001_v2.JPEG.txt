@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Does the woman have her hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman wearing a choker necklace? | Yes. |
+| Yes/No | Is the woman posing with her hand on her hip? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman exposing her shoulders and upper back? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman's hairstyle? | Loose waves. |
+| How | How is the woman posing in the image? | With her hand on her hip. |
+| How | How would you describe the atmosphere created by the image? | Sexy and confident. |

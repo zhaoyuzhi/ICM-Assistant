@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the person holding a blue umbrella? | Yes. |
+| Yes/No | Is the person walking on a street? | Yes. |
+| Yes/No | Does the image evoke a sense of vulnerability? | Yes. |
+| Yes/No | Does the image evoke a sense of sensuality? | Yes. |
+| What | What is the color of the umbrella? | Blue. |
+| What | What is the person's body language suggesting? | Vulnerability and intimacy. |
+| How | How are the person's clothes soaked? | By the rain. |
+| How | How does the blue umbrella contribute to the image's atmosphere? | It suggests protection and intimacy, which adds to the overall sexy atmosphere. |

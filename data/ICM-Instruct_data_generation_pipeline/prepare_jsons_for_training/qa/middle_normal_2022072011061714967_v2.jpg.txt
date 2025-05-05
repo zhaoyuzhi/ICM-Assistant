@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the child the main subject of the image? | Yes. |
+| Yes/No | Is the child wearing a school uniform? | Yes. |
+| Yes/No | Are the child's hands visible in the image? | Yes. |
+| Yes/No | Is the child leaning against a white background? | Yes. |
+| Yes/No | Does the image contain any provocative or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the child wearing? | A white shirt, a blue tie, and black shorts. |
+| What | What is the child's pose in the image? | The child is leaning against a white background with their hands casually tucked into their pockets. |
+| How | How is the child's attire depicted in the image? | The child's attire is depicted as the main focus of the image, with a low exposure level emphasizing the child's innocence and the focus on their school uniform rather than any other elements in the image. |
+| How | How does the low exposure level of the image affect the overall atmosphere of the image? | The low exposure level of the image contributes to the overall innocent and nonsexual atmosphere of the image, emphasizing the child's school attire and pose rather than any potential sexual elements. |
+| Yes/No | Is the boy in the image wearing a school uniform? | Yes. |
+| Yes/No | Is the boy looking directly at the camera? | No. |
+| Yes/No | Are there any sexual or inappropriate elements in the image? | No. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the boy's body fully visible in the image? | No. |
+| What | What is the boy's facial expression? | He is looking off to the side. |
+| What | What is the boy's body language? | He has his hands in his pockets. |
+| How | How is the boy dressed? | He is dressed in a white shirt, blue tie, and black shorts. |
+| What | What is the atmosphere of the image? | The atmosphere is not sexy, it's simple and innocent. |

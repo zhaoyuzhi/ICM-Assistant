@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | No. |
+| Yes/No | Are the men smiling? | No. |
+| Yes/No | Is there any explicit content in the image? | No. |
+| Yes/No | Are the men standing in a provocative or sensual pose? | No. |
+| Yes/No | Is there any writing or text in the image? | No. |
+| Yes/No | Are the men looking at the camera? | No. |
+| What | What is the color of the cap worn by the man on the left? | Blue. |
+| What | What is the color of the sweatshirt worn by the man on the right? | Black. |
+| What | What are the men looking at? | Their feet. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Is the couch green? | Yes. |
+| Yes/No | Is the woman holding a small purse? | Yes. |
+| Yes/No | Are the woman's heels black? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Is the image exposed? | No. |
+| What | What is the woman wearing on her feet? | Black heels. |
+| What | What is the color of the woman's dress? | Red. |
+| How | How is the woman's dress styled? | It is longsleeved and has a high neckline, giving it a modest appearance. |
+| How | How does the low exposure level of the image affect the focus of the scene? | It emphasizes the woman and her attire, making them stand out against the white background. |

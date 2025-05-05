@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the men in the image kissing? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Are the men wearing earrings? | Yes. |
+| Yes/No | Does the image depict a tender moment? | Yes. |
+| Yes/No | Is the atmosphere of the image dramatic? | Yes. |
+| What | What are the men in the image wearing? | Black jacket, white shirt with a graphic, and earrings. |
+| What | What is the color of the background in the image? | Dark. |
+| How | How are the men positioned in the image? | They are standing and kissing, with their lips locked. |

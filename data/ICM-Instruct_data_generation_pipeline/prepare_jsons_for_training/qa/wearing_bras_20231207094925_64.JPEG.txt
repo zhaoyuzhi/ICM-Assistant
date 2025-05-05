@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra being fastened with a blue clasp? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the woman wearing a white tank top? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| What | What is the color of the bra? | Beige. |
+| What | What is the woman doing in the image? | Adjusting the bra. |
+| How | How is the bra being fastened? | With a blue clasp. |
+| How | How does the woman look while adjusting the bra? | Focused and determined. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| Yes/No | Is the woman adjusting the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the woman wearing underneath the bra? | A white tank top. |
+| What | What is the color of the clasp used to fasten the bra? | Blue. |
+| How | How is the woman's expression while adjusting the bra? | Focused and determined. |
+| How | How does the image make you feel? | It creates an atmosphere of allure and sensuality. |

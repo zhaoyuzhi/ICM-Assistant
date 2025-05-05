@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the women in the image wearing lingerie? | Yes. |
+| Yes/No | Is the woman on the left wearing glasses? | Yes. |
+| Yes/No | Is the woman on the right wearing a gold necklace? | Yes. |
+| Yes/No | Are the women posing for the camera? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the dominant color of the image? | Pink and white. |
+| What | What is the woman on the left wearing on her upper body? | A pink bra and glasses. |
+| How | How are the women posing in the image? | They are standing side by side and smiling. |
+| How | How does the woman on the left have her hair styled? | She has her hair up in a ponytail. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini a two-piece swimsuit? | Yes. |
+| Yes/No | Is the woman lying on her stomach on a sandy beach? | Yes. |
+| Yes/No | Is her head resting on her hand? | Yes. |
+| Yes/No | Is she wearing a large amount of jewelry, including a necklace and earrings? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A blue bikini. |
+| What | What is the setting of the image? | A sandy beach. |
+| How | How is the woman posing in the image? | She is lying on her stomach with her head resting on her hand. |
+| How | How does the image create a sexy atmosphere? | The woman's attire, the beach setting, and her confidence and selfassuredness create a sexy and alluring image. |

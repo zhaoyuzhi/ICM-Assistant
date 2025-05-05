@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white off-the-shoulder top? | Yes. |
+| Yes/No | Are the pants the woman is wearing patterned? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's pose confident? | Yes. |
+| What | What is the woman wearing on her upper body? | A white offtheshoulder top with a ruffled neckline. |
+| What | What is the pattern on the woman's pants? | A floral print. |
+| How | How is the woman's top cropped? | It is cropped at the waist, revealing her midriff. |
+| How | How is the woman posing in the image? | She is posing confidently and looking directly at the camera. |

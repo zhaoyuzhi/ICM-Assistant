@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have short sleeves? | Yes. |
+| Yes/No | Is the woman wearing a black hat? | Yes. |
+| Yes/No | Are the woman's heels black? | Yes. |
+| Yes/No | Is the woman's left hand on her hip? | Yes. |
+| Yes/No | Is the woman's right hand on her thigh? | Yes. |
+| What | What is the color of the woman's dress? | Black. |
+| What | What is the color of the woman's hat? | Black. |
+| How | How many sleeves does the woman's dress have? | 2 (short sleeves). |
+| How | How many hands are visible in the image? | 2 (left hand on hip, right hand on thigh). |

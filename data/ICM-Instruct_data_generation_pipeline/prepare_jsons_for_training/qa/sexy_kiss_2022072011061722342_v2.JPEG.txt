@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a plaid shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a ponytail holder? | Yes. |
+| Yes/No | Are the man and woman in the image standing outside in a field? | Yes. |
+| Yes/No | Is the man in the image sporting a beard? | Yes. |
+| Yes/No | Does the image capture a romantic moment between the man and woman? | Yes. |
+| Yes/No | Does the outdoor setting of the image add to its romantic atmosphere? | Yes. |
+| What | What is the man in the image wearing? | A plaid shirt. |
+| What | What is the woman in the image wearing? | A ponytail holder. |
+| How | How does the man's beard contribute to the overall mood of the image? | It adds a rugged and masculine touch to the image, which complements the romantic and intimate atmosphere. |
+| How | How does the outdoor setting of the image contribute to its overall mood? | The outdoor setting adds a sense of freedom and natural beauty to the image, which enhances the romantic and intimate atmosphere created by the couple's kiss. |

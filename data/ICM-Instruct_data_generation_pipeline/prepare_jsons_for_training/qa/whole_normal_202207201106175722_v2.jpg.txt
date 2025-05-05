@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a floral dress? | Yes. |
+| Yes/No | Does the dress have long sleeves? | Yes. |
+| Yes/No | Is the neckline of the dress high? | Yes. |
+| Yes/No | Is the woman standing in front of a brown curtain? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image depict the woman in a suggestive pose? | No. |
+| What | What is the woman wearing in the image? | A floral dress. |
+| What | What is the color of the curtain in the background? | Brown. |
+| How | How is the woman standing in the image? | She is standing straight. |
+| How | How would you describe the overall atmosphere of the image? | Calm and modest. |

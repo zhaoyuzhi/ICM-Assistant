@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman's blouse beige? | Yes. |
+| Yes/No | Does the woman have a black purse? | Yes. |
+| Yes/No | Is the woman standing with her hands on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What is the woman's pose in the image? | She is standing with her hands on her hips. |
+| What | What is the color of the woman's purse? | Black. |
+| How | How does the high waist of the skirt contribute to the image's overall effect? | It creates a sense of allure and mystery. |
+| How | How does the contrast between the beige blouse and black skirt contribute to the image's overall effect? | It highlights the woman's figure and adds a touch of elegance and sophistication to the overall look. |

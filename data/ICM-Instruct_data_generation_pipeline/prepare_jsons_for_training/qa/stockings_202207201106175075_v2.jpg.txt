@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's legs covered in black stockings? | Yes. |
+| Yes/No | Is the person wearing black heels? | Yes. |
+| Yes/No | Is the person holding a book in their hand? | Yes. |
+| Yes/No | Is the atmosphere in the image sexy? | Yes. |
+| Yes/No | Is the person lying on a couch? | Yes. |
+| What | What is the person in the image reading? | The book is not visible, so it's not possible to determine the title or content. |
+| What | What is the color of the person's hair? | The person's hair is not visible in the image, so it's not possible to determine the color. |
+| How | How is the person positioned on the couch? | The person is lying down on the couch with their head and upper body supported by pillows or cushions. |
+| How | How does the lighting in the image contribute to the overall atmosphere? | The lighting in the image is dim and intimate, which adds to the sexy and relaxed atmosphere. The shadows created by the lighting also highlight the person's curves and features, further enhancing the sensual nature of the image. |

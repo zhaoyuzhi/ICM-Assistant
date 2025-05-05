@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the playground in the background? | Yes. |
+| Yes/No | Are the colors of the woman's skirt neutral? | Yes. |
+| Yes/No | Does the woman's pose suggest any provocative intentions? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the woman tying her skirt with? | A bow. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How are the colors of the woman's skirt described? | Neutral. |
+| How | How does the woman's attire suggest her intentions? | Nonsexual. |

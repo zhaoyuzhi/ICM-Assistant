@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black nightgown? | Yes. |
+| Yes/No | Does the nightgown have a sheer panel on the back? | Yes. |
+| Yes/No | Are the straps of the nightgown thin? | Yes. |
+| Yes/No | Is the neckline of the nightgown deep? | Yes. |
+| Yes/No | Is the person leaning against a white wall? | Yes. |
+| Yes/No | Is the person's back turned to the camera? | Yes. |
+| What | What color is the nightgown? | Black. |
+| What | What is the person's pose in the image? | Leaning against the wall with their back turned to the camera. |
+| How | How does the person's attire contribute to the overall allure of the image? | The black nightgown with its sheer panel on the back reveals a large area of the person's back, which is often associated with a sense of allure and sensuality. |
+| How | How does the person's pose contribute to the intimate atmosphere of the image? | The person's pose, leaning against the wall with their back turned to the camera, adds to the intimate atmosphere, making the viewer feel as if they are part of the scene. |

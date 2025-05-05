@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's clothes buttoned up? | No. |
+| Yes/No | Is the person's shirt white? | Yes. |
+| Yes/No | Are there boats in the background of the image? | Yes. |
+| Yes/No | Is the person's attitude towards the camera confident? | Yes. |
+| Yes/No | Does the image give a relaxed and inviting atmosphere? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the person holding onto with one hand? | Their shirt. |
+| How | How is the person standing? | Standing with their feet shoulderwidth apart. |
+| How | How are the boats in the background situated? | Moored in the water, with one boat tied to the dock. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing cargo pants? | Yes. |
+| Yes/No | Is the shirt the person is wearing navy blue? | Yes. |
+| Yes/No | Are the cargo pants olive green? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a romantic or seductive context? | No. |
+| What | What color are the cargo pants? | Olive green. |
+| What | What is the color of the shirt the person is wearing? | Navy blue. |
+| How | How many pockets do the cargo pants have? | Multiple, including a large one on the back and smaller ones on the sides. |
+| How | How is the person dressed in the image? | In a casual outfit consisting of cargo pants and a navy blue shirt. |
+| Yes/No | Is the person in the image wearing a pair of olive green cargo pants? | Yes. |
+| Yes/No | Is the shirt the person is wearing navy blue? | Yes. |
+| Yes/No | Are the pants the person is wearing multi-pocketed? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Is the image taken from a side angle? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the person's shirt? | Navy blue. |
+| What | What is the primary focus of the image? | The person's clothing and overall composition. |
+| How | How many pockets do the person's pants have? | Multiple, including a large pocket on the back and smaller pockets on the sides. |
+| What | What is the exposure level of the image? | Very low. |

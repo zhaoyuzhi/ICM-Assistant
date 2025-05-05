@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are the man's arms relaxed at his sides? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image feature a contrast between the man's skin tone and the white pants? | Yes. |
+| Yes/No | Is the man's pose confident and assertive? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man wearing on his lower body? | White pants. |
+| What | What is the color of the background in the image? | White. |
+| How | How are the man's arms positioned in the image? | Relaxed at his sides. |
+| How | How does the contrast between the man's skin tone and the white pants contribute to the image's atmosphere? | It creates a visually striking image and adds to the sexy feel. |

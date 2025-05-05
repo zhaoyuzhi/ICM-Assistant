@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What is the woman doing with her lip? | Biting it. |
+| How | How is the woman's hair styled? | It is not specified in the description, but it appears to be straight and possibly slightly wavy. |
+| How | How is the image lit? | It is not specified in the description, but the lighting appears to be soft and natural, possibly with some subtle shadows on the woman's face. |

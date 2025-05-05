@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a brown jacket? | Yes. |
+| Yes/No | Is the woman's shirt white? | Yes. |
+| Yes/No | Are the woman's pants black? | Yes. |
+| Yes/No | Is the woman holding a brown purse? | Yes. |
+| Yes/No | Is the couch brown and checkered? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| What | What is the woman's pose in the image? | She is sitting on the couch with her legs crossed. |
+| What | What is the color of the woman's purse? | Brown. |
+| How | How is the woman's outfit complementing her skin tone? | The brown jacket and pants complement her skin tone. |
+| How | How does the checkered couch contribute to the atmosphere of the scene? | The checkered couch adds a cozy and comfortable atmosphere to the scene. |

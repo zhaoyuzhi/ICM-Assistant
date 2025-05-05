@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Does the skirt have the word "Toronto" written on it? | Yes. |
+| Yes/No | Is the woman posing with her hands on her hips? | Yes. |
+| Yes/No | Is the image perceived as sexy by many viewers? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Does the top have the word "Victor" written on it? | Yes. |
+| What | What is the color of the woman's skirt? | Gray. |
+| What | What is the word written on the woman's top? | Victor. |
+| How | How is the woman posing in the image? | With her hands on her hips. |
+| What | What is the overall atmosphere of the image? | Sexy. |

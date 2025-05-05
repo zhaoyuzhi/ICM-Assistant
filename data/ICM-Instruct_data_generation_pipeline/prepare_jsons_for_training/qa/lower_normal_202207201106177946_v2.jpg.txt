@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sweater? | Yes. |
+| Yes/No | Are the person's pants torn? | Yes. |
+| Yes/No | Is the person wearing sneakers? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Does the person's outfit reveal any suggestive physical attributes? | No. |
+| Yes/No | Is the image sexually suggestive or inappropriate? | No. |
+| What | What color is the person's sweater? | Brown. |
+| What | What brand are the person's sneakers? | Nike. |
+| How | How is the person's attire simple and casual? | The person is wearing a simple brown sweater, gray pants, and white sneakers, with no revealing clothing or suggestive poses. |
+| How | How does the blue background contribute to the atmosphere of the image? | The blue background adds a calm and unassuming atmosphere to the image, which complements the person's casual outfit and pose. |

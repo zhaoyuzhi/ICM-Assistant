@@ -1,0 +1,32 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person standing on a black stool? | Yes. |
+| Yes/No | Is the person holding black stockings in her hands? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Is there a white shelf in the background? | Yes. |
+| Yes/No | Is there a pink stuffed animal on the shelf? | Yes. |
+| What | What is the person in the image wearing? | A white sweater and black pants. |
+| What | What is the color of the stockings the person is putting on? | Black. |
+| How | How is the atmosphere of the image described? | Intimate and alluring, creating a sense of intrigue and desire. |
+| How | How does the contrast between the black stockings and the white sweater and black pants contribute to the visual appeal of the image? | It adds to the visual appeal by creating a striking contrast that draws the viewer's attention to the stockings and enhances the overall sexiness of the image. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person standing on a black stool? | Yes. |
+| Yes/No | Is the person holding black stockings in their hands? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Is there a white shelf in the background? | Yes. |
+| Yes/No | Is there a pink stuffed animal on the shelf? | Yes. |
+| What | What is the person wearing? | A white sweater and black pants. |
+| What | What is the person doing in the image? | Putting on black stockings. |
+| How | How is the atmosphere of the image? | Intimate and alluring. |
+| How | How does the pink stuffed animal in the background affect the image? | It adds a touch of playfulness and innocence to the scene. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person standing on a black stool? | Yes. |
+| Yes/No | Is the person holding black stockings in their hands? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Is there a white shelf in the background? | Yes. |
+| Yes/No | Is there a pink stuffed animal on the shelf? | Yes. |
+| What | What is the person wearing? | A white sweater and black pants. |
+| What | What is the person doing in the image? | Putting on black stockings. |
+| How | How is the atmosphere of the image? | Intimate and alluring. |
+| How | How does the pink stuffed animal in the background affect the image? | It adds a touch of playfulness and innocence to the scene. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing? | Yes. |
+| Yes/No | Does the image contain any other people or objects? | No. |
+| Yes/No | Is the man's build muscular? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the man's hands on his hips? | Yes. |
+| What | What is the man wearing? | A pair of jeans and a belt. |
+| What | What is the man's body language? | He is standing with his hands on his hips, showcasing his muscular physique. |
+| How | How would you describe the atmosphere of the image? | Bold and confident. |
+| How | How does the man's muscular build and body language contribute to the image's overall feel? | They suggest confidence and strength, which adds to the sexy feel. |

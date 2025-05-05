@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing Adidas clothing? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the person walking in a casual pace? | Yes. |
+| Yes/No | Is the image taken in a hallway? | Yes. |
+| Yes/No | Does the person have a watch on their left wrist? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What color are the person's sweatpants? | Blue and white. |
+| What | What type of clothing is the person wearing? | Athletic clothing (Adidas sweatpants and shirt). |
+| How | How is the person moving in the image? | At a casual pace. |
+| What | What is the atmosphere of the image? | Calm and nonthreatening. |

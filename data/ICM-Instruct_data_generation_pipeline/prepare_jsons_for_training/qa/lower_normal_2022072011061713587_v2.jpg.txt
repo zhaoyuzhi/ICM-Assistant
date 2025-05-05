@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the clapperboard behind the man black? | Yes. |
+| Yes/No | Does the man have a slight smile on his face? | Yes. |
+| Yes/No | Are the man's jeans torn or frayed? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the man's pose in the image? | Casual, relaxed. |
+| What | What is the color of the clapperboard behind the man? | Black. |
+| How | How are the man's hands positioned in the image? | Tucked into pockets. |
+| How | How does the man's attire suggest the atmosphere of the image? | Casual, relaxed. |

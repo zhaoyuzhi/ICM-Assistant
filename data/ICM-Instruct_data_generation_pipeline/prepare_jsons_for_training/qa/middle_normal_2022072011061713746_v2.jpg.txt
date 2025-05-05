@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants ripped? | Yes. |
+| Yes/No | Is the person holding their shirt with one hand? | Yes. |
+| Yes/No | Is the person standing in front of a red bus? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the image feature the person's face? | No. |
+| What | What is the person holding in their other hand? | Their pants. |
+| What | What is the color of the bus in the background? | Red. |
+| How | How is the person's shirt being held up? | With one hand. |
+| How | How much of the person's body is visible in the image? | A small portion. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Does the person have a black bag? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What color is the bus in the image? | Red. |
+| What | What is the person's facial expression? | Looking down. |
+| How | How is the person standing in front of the bus? | Standing. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the person's actions and the surrounding environment rather than their physical appearance. |

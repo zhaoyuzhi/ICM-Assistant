@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue and white checkered dress? | Yes. |
+| Yes/No | Is the woman lifting her dress in the image? | Yes. |
+| Yes/No | Is the woman holding her dress with her left hand in the image? | Yes. |
+| Yes/No | Are the woman's legs exposed in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the woman's attire give off a playful and flirtatious vibe? | Yes. |
+| What | What is the woman wearing in the image? | A blue and white checkered dress with a white cardigan. |
+| What | What is the woman doing in the image? | Lifting her dress and exposing her legs. |
+| How | How is the woman holding her dress? | With her left hand. |
+| How | How does the image make you feel? | Seductive and alluring. |

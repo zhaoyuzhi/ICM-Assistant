@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple long-sleeved shirt? | Yes. |
+| Yes/No | Are her legs crossed in the image? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the woman's pose in the image modest and non-threatening? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexy or provocative atmosphere? | No. |
+| What | What is the woman wearing in the image? | A purple longsleeved shirt and matching leggings. |
+| What | What is the overall atmosphere of the image? | Calm and relaxed. |
+| How | How is the woman posing in the image? | With her legs crossed and her hands resting on her knees. |
+| How | How does the low exposure level of the image enhance the feeling of calmness? | It reduces the focus on the woman's body and clothing, and instead emphasizes the simplicity of the scene. |

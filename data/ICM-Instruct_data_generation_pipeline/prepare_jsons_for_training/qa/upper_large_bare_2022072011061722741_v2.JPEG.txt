@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image wearing a hat? | Yes. |
+| Yes/No | Is the image set outdoors? | Yes. |
+| Yes/No | Is there a pool visible in the background of the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's attire in the image appropriate for swimming or sunbathing? | Yes. |
+| What | What is the woman in the image wearing on her head? | A hat. |
+| What | What is the woman in the image wearing on her body? | A bikini. |
+| How | How is the woman's attire in the image contributing to the overall atmosphere? | The woman's bikini and hat contribute to a leisurely and relaxed atmosphere, which is often associated with sexy images. |
+| How | How does the outdoor setting with a pool in the background contribute to the overall atmosphere of the image? | The outdoor setting with a pool in the background creates a leisurely and relaxed atmosphere, which is often associated with sexy images. |

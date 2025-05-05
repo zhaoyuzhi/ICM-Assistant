@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Is the woman in the image wearing matching blue underwear? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Are her hands placed on her hips? | Yes. |
+| Yes/No | Is the background of the image a mirror? | Yes. |
+| Yes/No | Is there a light in the background of the image? | Yes. |
+| What | What color is the woman's bra and underwear? | Blue. |
+| What | What is the woman's pose in the image? | She has her hands on her hips. |
+| How | How does the mirror in the background enhance the image? | It creates a sense of symmetry and adds to the overall aesthetic of the photo. |
+| How | How does the light in the background enhance the image? | It highlights the woman and makes her the focal point of the scene. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the leggings the woman is wearing high-waisted? | Yes. |
+| Yes/No | Does the sports bra have a mesh panel on the front? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Is the pose the woman is striking suggestive or sexual? | Yes. |
+| Yes/No | Are the colors of the sports bra and leggings matching? | Yes. |
+| What | What is the woman's left hand resting on? | Her thigh. |
+| What | What is the woman's right hand resting on? | Her hip. |
+| How | How is the woman's left hand positioned in the image? | It is resting on her thigh. |
+| How | How is the woman's right hand positioned in the image? | It is resting on her hip. |

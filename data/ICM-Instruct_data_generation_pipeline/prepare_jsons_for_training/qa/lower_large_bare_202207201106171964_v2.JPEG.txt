@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Are they wearing white tights? | Yes. |
+| Yes/No | Is the sweater they're wearing gray? | Yes. |
+| Yes/No | Are their legs crossed? | Yes. |
+| Yes/No | Is the bed covered with a pink blanket? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy and vulnerability? | Yes. |
+| What | What color is the sweater the person is wearing? | Gray. |
+| What | What is the person's lower body exposed, revealing? | Their legs and feet. |
+| How | How does the person's position suggest intimacy and vulnerability? | Their legs are crossed, and their lower body is exposed, implying a sense of relaxation and openness. |
+| How | How does the combination of the pink blanket, white pillow, and gray sweater create an atmosphere? | It creates a cozy and inviting atmosphere that enhances the sense of intimacy and vulnerability in the image. |

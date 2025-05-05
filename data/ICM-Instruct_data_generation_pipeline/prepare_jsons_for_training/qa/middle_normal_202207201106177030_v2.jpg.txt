@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a bright or bold outfit? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Does the image have a sexy or explicit atmosphere? | No. |
+| Yes/No | Does the person have their hands visible in the image? | Yes. |
+| What | What is the person wearing in the image? | Khaki pants and a white shirt. |
+| What | What is the person's body language in the image? | Casually tucked into their pockets, facing away from the camera. |
+| How | How much of the person's body is visible in the image? | Only a small portion. |
+| How | How would you describe the overall atmosphere of the image? | Nonsexy, casual, and lowkey. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a pair of khaki pants? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the person wearing a watch? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What is the person's attire in the image? | Khaki pants and a white shirt. |
+| What | What is the person's posture in the image? | Standing with their back to the camera, hands tucked into their pockets. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The person's attire contributes to a neutral and nonsexual image. |
+| How | How does the low exposure level affect the image? | The low exposure level emphasizes the person's casual clothing and stance, rather than their physical appearance or body language. |

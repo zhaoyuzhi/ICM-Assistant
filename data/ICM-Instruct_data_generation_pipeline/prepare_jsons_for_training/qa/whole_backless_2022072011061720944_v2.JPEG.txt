@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the swimsuit pink? | Yes. |
+| Yes/No | Does the swimsuit have a low back? | Yes. |
+| Yes/No | Is the woman standing on a boat? | Yes. |
+| Yes/No | Is she leaning on a railing? | Yes. |
+| Yes/No | Is she looking over her shoulder? | Yes. |
+| What | What color is the swimsuit? | Pink. |
+| What | What is the woman doing with her body? | She is standing and leaning on a railing. |
+| How | How is the woman posing? | She is posing confidently and relaxedly, with her body facing the water. |
+| How | How does the image make you feel? | It feels lively, inviting, and alluring. |

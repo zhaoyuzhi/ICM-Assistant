@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the women wearing clothes? | Yes. |
+| Yes/No | Is the background of the image dark blue? | Yes. |
+| Yes/No | Are the women smiling? | Yes. |
+| Yes/No | Are the women looking directly at the camera? | Yes. |
+| Yes/No | Does the image feature any men? | No. |
+| What | What is the main color of the women's clothing? | Red, black. |
+| What | What is the color of the background? | Dark blue. |
+| How | How are the women positioned in the image? | Left, right. |
+| How | How do the women's smiles and direct gazes contribute to the overall feeling of the image? | Alluring, provocative. |

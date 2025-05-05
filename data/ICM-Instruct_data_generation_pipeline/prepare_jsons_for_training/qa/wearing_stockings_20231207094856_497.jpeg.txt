@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person's black thigh-high sock visible in the image? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black stockings and a black thighhigh sock, with beige stockings being put on. |
+| What | What is the color of the background in the image? | White. |
+| How | How are the person's legs positioned in the image? | Slightly apart, with their feet pointed towards the ground. |
+| How | How does the image make the viewer feel? | Intimate and sensual. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a black thigh-high sock? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person in the process of putting on beige stockings? | Yes. |
+| What | What color are the person's stockings? | Black and beige. |
+| What | What is the person's thigh-high sock color? | Black. |
+| How | How are the person's legs positioned? | Slightly apart. |
+| How | How does the contrast between the black stockings and beige stockings add to the image's allure? | It creates a striking visual contrast that highlights the person's legs and adds to the sensual atmosphere of the image. |

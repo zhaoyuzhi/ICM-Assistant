@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman making a kissing face? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards? | Yes. |
+| Yes/No | Does the image have a playful atmosphere? | Yes. |
+| Yes/No | Is the image seductive? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the woman's facial expression? | Puckered, kissing face. |
+| How | How does the woman's expression contribute to the image's overall atmosphere? | It adds to the playful and seductive atmosphere. |
+| How | How does the image make you feel? | Confident, allured. |

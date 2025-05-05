@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink jacket? | Yes. |
+| Yes/No | Is the dress light-colored? | Yes. |
+| Yes/No | Is the jacket open? | Yes. |
+| Yes/No | Is the woman standing in a hallway? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the woman lifting in the image? | Her dress. |
+| What | What color is the jacket the woman is wearing? | Pink. |
+| How | How is the woman's attire contributing to the overall allure of the image? | The combination of her white dress and pink jacket creates a sexy and alluring look. |
+| How | How is the woman's action of lifting her dress contributing to the seductive atmosphere in the image? | The action of lifting her dress is a common association with sensuality and allure, which adds to the seductive atmosphere in the image. |

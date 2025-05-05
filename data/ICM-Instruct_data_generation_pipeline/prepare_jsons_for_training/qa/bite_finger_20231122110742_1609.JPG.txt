@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person in the image wearing any clothing? | No. |
+| Yes/No | Is the person's eye contact with the viewer? | No. |
+| Yes/No | Is the person's expression playful? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| What | What is the person in the image doing? | Putting their finger in their mouth. |
+| What | What is the background of the image? | Plain white. |
+| How | How does the person's facial expression contribute to the overall mood of the image? | It adds a sense of intensity and seriousness. |
+| How | How does the plain white background affect the focus of the image? | It puts the focus solely on the person's facial features and the action of putting their finger in their mouth. |

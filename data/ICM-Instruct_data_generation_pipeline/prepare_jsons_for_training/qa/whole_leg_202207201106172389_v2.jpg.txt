@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a ruffled collar? | Yes. |
+| Yes/No | Is the dress short, revealing the woman's thighs? | Yes. |
+| Yes/No | Is the woman wearing gold earrings? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the blue building in the background? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the woman holding in her hand? | A gold purse. |
+| How | How does the woman's attire contribute to the sexy atmosphere of the image? | The woman's black dress, which exposes her thighs, and her gold earrings and purse, add a touch of glamour and sophistication to her appearance, creating a sexy and alluring atmosphere. |
+| How | How does the blue building in the background contribute to the overall effect of the image? | The blue building provides a contrasting color to the woman's outfit, making her the focal point of the image and creating a sense of depth and dimension. |

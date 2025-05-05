@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sequined dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the dress made of a shiny material? | Yes. |
+| Yes/No | Is the person holding a small clutch purse? | Yes. |
+| Yes/No | Is the background white with a logo? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the material of the dress? | Sequins or metallic fabric. |
+| What | What is the person holding in their left hand? | A small clutch purse. |
+| How | How does the dress create a sense of allure and seduction? | The plunging neckline and shimmering material create a sense of allure and seduction. |
+| How | How does the background contribute to the overall atmosphere of the image? | The white backdrop and logo suggest a glamorous and highprofile setting, which contributes to the overall sexy atmosphere of the image. |

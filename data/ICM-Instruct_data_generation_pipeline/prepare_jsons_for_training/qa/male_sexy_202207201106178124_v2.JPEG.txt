@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the man in the image standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| Yes/No | Are the man's arms flexed in the image? | Yes. |
+| Yes/No | Is the image sexy because of the man's muscular build? | Yes. |
+| Yes/No | Is the image sexy because of the beach setting? | Yes. |
+| What | What is the man's attire in the image? | Blue and white striped swimsuit. |
+| What | What is the man's physique like in the image? | Muscular. |
+| How | How is the man standing in the image? | With his arms flexed. |
+| How | How does the beach setting contribute to the image's sexiness? | It adds a sense of relaxation, leisure, and enjoyment. |

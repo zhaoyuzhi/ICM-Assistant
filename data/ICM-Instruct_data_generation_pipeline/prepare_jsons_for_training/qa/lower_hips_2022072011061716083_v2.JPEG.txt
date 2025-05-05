@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Is the person wearing gray leggings? | Yes. |
+| Yes/No | Is the person wearing white sneakers? | Yes. |
+| Yes/No | Does the person have their left hand on their hip? | Yes. |
+| Yes/No | Does the person have their right hand resting on their thigh? | Yes. |
+| Yes/No | Is the atmosphere of the image confident and self-assured? | Yes. |
+| What | What color are the leggings? | Gray. |
+| What | What is the person's posture? | Relaxed, with left hand on hip and right hand resting on thigh. |
+| How | How does the person's attire contribute to the overall aesthetic of the image? | The gray leggings and white sneakers add a clean and modern look. |
+| How | How does the background contribute to the focus on the subject of the image? | The white wall and wooden floor provide a neutral backdrop that emphasizes the person in the foreground. |

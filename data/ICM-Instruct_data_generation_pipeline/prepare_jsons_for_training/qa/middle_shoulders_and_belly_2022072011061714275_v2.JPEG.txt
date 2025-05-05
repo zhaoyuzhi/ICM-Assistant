@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a top? | Yes. |
+| Yes/No | Is the woman in the image wearing pants? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman leaning against a wall in the image? | Yes. |
+| Yes/No | Does the woman have a ponytail in the image? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the color of the woman's top? | Brown. |
+| What | What is the color of the woman's jeans? | Blue. |
+| How | How is the woman's hair styled in the image? | In a ponytail. |
+| What | What is the overall atmosphere created by the image? | Casual, relaxed, and sexy. |
+| Yes/No | Is the woman in the image wearing a top? | Yes. |
+| Yes/No | Is the woman in the image wearing jeans? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | Yes. |
+| Yes/No | Is the woman leaning against a wall? | Yes. |
+| Yes/No | Is the wall in the image yellow? | Yes. |
+| Yes/No | Does the image create a sense of confidence and allure? | Yes. |
+| What | What is the woman's pose in the image? | She is leaning against a wall with her belly exposed. |
+| What | What is the color of the woman's top? | Brown. |
+| How | How is the woman's hair styled in the image? | Her hair is styled in a ponytail. |
+| How | How does the woman's pose and facial expression contribute to the overall atmosphere of the image? | Her pose and facial expression create a sense of intrigue and mystery, which enhances the sexy vibe of the image. |

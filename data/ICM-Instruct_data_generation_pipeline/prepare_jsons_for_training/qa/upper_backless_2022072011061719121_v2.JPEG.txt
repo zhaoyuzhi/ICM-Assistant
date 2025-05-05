@@ -1,0 +1,13 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a bow on the back? | Yes. |
+| Yes/No | Is the neckline of the dress plunging? | Yes. |
+| Yes/No | Is the woman standing in front of a chandelier? | Yes. |
+| Yes/No | Are there other decorative items in the background? | Yes. |
+| Yes/No | Does the image have an overall elegant and sophisticated atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy and alluring quality? | Yes. |
+| What | What color is the dress? | Red. |
+| What | What is the design of the neckline of the dress? | Plunging. |
+| How | How is the woman standing in front of the chandelier? | She is standing. |
+| How | How does the image make you feel when you look at it? | Captivated. |

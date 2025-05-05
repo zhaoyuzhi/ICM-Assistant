@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing black underwear? | Yes. |
+| Yes/No | Is the person in the image lifting their shirt? | Yes. |
+| Yes/No | Is the person in the image exposing their stomach? | Yes. |
+| Yes/No | Are the pillows on the bed pink and white? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What color are the pillows on the bed? | Pink and white. |
+| How | How is the person posing in the image? | The person is lifting their shirt and exposing their stomach in a provocative and confident pose. |
+| What | What creates a contrast in the image? | The combination of the white shirt and black underwear creates a contrast that highlights the person's body. |

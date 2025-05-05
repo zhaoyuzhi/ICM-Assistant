@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the scissors in the person's right hand? | Yes. |
+| Yes/No | Is the person's left hand in their pocket? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the person have any visible tattoos or piercings? | No. |
+| Yes/No | Is the person smiling or making a facial expression? | No. |
+| What | What is the person holding in their right hand? | Scissors. |
+| What | What is the person's left hand doing? | In their pocket. |
+| How | How is the person standing or sitting? | Not specified in the description. |
+| How | How is the scissors being held? | Open and pointing towards the person's left hand. |
+| Yes/No | Is the person in the image wearing khaki pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image holding a pair of scissors? | Yes. |
+| Yes/No | Are the scissors open and pointing towards the person's right side? | Yes. |
+| Yes/No | Is the person's right hand in their pocket? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What is the person in the image holding in their left hand? | Scissors. |
+| What | What is the person in the image wearing on their lower body? | Khaki pants. |
+| How | How are the scissors positioned in the person's hand? | Open and pointing towards the person's right side. |
+| How | How is the person's right hand positioned? | In their pocket. |

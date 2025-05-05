@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black? | Yes. |
+| Yes/No | Is the woman in the image holding a stocking? | Yes. |
+| Yes/No | Is the woman in the image standing in a room with a white couch and TV? | Yes. |
+| Yes/No | Is the woman in the image creating a sexy atmosphere? | Yes. |
+| Yes/No | Are the woman's actions in the image associated with sensuality and allure? | Yes. |
+| Yes/No | Is the woman's posture in the image suggestive? | Yes. |
+| What | What is the woman in the image putting on? | Black stockings. |
+| What | What is the color of the woman's coat and skirt in the image? | Black. |
+| How | How is the woman holding the stocking in the image? | With her right hand. |
+| How | How is the woman pulling up the stocking in the image? | Up her left leg. |
+| Yes/No | Is the woman in the image wearing black? | Yes. |
+| Yes/No | Is the woman standing in a room with a white couch and TV? | Yes. |
+| Yes/No | Is the woman holding a stocking in her right hand? | Yes. |
+| Yes/No | Is the woman pulling the stocking up her left leg? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Are black coats and skirts often associated with mystery and allure? | Yes. |
+| What | What is the woman holding in her right hand? | A stocking. |
+| What | What is the woman doing in the image? | Putting on a stocking. |
+| How | How is the woman pulling up the stocking? | She is holding the stocking with her right hand and pulling it up her left leg. |
+| What | What atmosphere does the image create? | A sexy and alluring atmosphere. |

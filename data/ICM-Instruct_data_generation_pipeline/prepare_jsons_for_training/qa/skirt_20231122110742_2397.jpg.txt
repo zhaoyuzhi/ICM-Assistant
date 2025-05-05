@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Are her high heels visible in the image? | Yes. |
+| Yes/No | Is the woman standing on a wooden floor? | Yes. |
+| Yes/No | Is the dress flowing or moving in some way? | Yes. |
+| Yes/No | Is the woman's skirt flipping up in the image? | Yes. |
+| Yes/No | Does the image have a sexy or alluring atmosphere? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the woman's facial expression in the image? | (Not specified in the description). |
+| How | How is the woman lifting her dress? | (Not specified in the description). |
+| What | What is the atmosphere of the image? | Sensual, intimate, and alluring. |

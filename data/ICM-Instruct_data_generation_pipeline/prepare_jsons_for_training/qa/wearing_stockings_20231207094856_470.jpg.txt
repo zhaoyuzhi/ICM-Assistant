@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person holding a beige stocking with their left hand? | Yes. |
+| Yes/No | Is the right hand of the person holding the other end of the stocking? | Yes. |
+| Yes/No | Is the bed covered with a white comforter? | Yes. |
+| Yes/No | Is there a white pillow on the bed? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What color are the person's shorts? | Black. |
+| How | How is the person holding the stocking with their left hand? | They are holding the stocking with their left hand. |
+| How | How is the person holding the other end of the stocking with their right hand? | They are holding the other end of the stocking with their right hand. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person holding a beige stocking with their left hand? | Yes. |
+| Yes/No | Is the person holding the other end of the stocking with their right hand? | Yes. |
+| Yes/No | Is the bed covered with a white comforter? | Yes. |
+| Yes/No | Is there a white pillow on the bed? | Yes. |
+| What | What is the person in the image doing? | Putting on beige stockings. |
+| What | What color are the stockings? | Beige. |
+| How | How is the person holding the stocking with their left hand? | They are holding it with their left hand. |
+| How | How is the person holding the other end of the stocking with their right hand? | They are holding it with their right hand. |

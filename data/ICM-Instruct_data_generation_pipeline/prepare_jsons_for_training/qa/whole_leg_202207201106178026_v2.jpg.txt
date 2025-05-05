@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| Yes/No | Are the person's arms resting at their sides? | Yes. |
+| Yes/No | Does the image have a minimalistic atmosphere? | Yes. |
+| What | What color is the person's shirt? | Black. |
+| What | What is the person's pose? | Neutral. |
+| How | How are the person's legs positioned? | Shoulderwidth apart. |
+| How | How does the black shirt and socks contrast with the white background? | They contrast sharply, drawing attention to the person's body and the way their clothes fit. |

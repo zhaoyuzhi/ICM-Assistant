@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black knee-high socks? | Yes. |
+| Yes/No | Is the person in the image wearing orange thigh-high stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Is the person in the image putting on the stockings? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the combination of the person's attire and the act of putting on stockings add to the image's sexiness? | Yes. |
+| What | What color are the knee-high socks? | Black. |
+| What | What color are the thigh-high stockings? | Orange. |
+| How | How is the person putting on the stockings? | The person is in the process of putting on the stockings, with the black socks already in place. |
+| How | How does the plaid skirt contribute to the overall look of the image? | The plaid skirt adds a playful and feminine touch to the overall look, making the image even more appealing and seductive. |
+| Yes/No | Is the person in the image wearing a pair of black knee-high socks? | Yes. |
+| Yes/No | Is the person in the image wearing a pair of orange thigh-high stockings? | Yes. |
+| Yes/No | Is the person in the image putting on the stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the combination of the person's attire and the act of putting on stockings add to the image's sex appeal? | Yes. |
+| What | What color are the knee-high socks? | Black. |
+| What | What color are the thigh-high stockings? | Orange. |
+| How | How is the person putting on the stockings? | The person is in the process of putting on the stockings, with the black socks already in place. |
+| How | How does the plaid skirt add to the overall look of the image? | The plaid skirt adds a playful and feminine touch to the overall look, making the image even more appealing and seductive. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a dress shirt? | Yes. |
+| Yes/No | Are the sleeves of the dress shirt red and blue? | Yes. |
+| Yes/No | Is the man wearing a belt? | Yes. |
+| Yes/No | Does the belt buckle have the letters "WAM" on it? | Yes. |
+| Yes/No | Are the jeans the man is wearing blue? | Yes. |
+| Yes/No | Is the background of the image a mirror reflection? | Yes. |
+| What | What is the man's pose in front of the mirror? | Standing. |
+| What | What is the focus of the image? | The man's outfit and pose in front of the mirror. |
+| How | How is the atmosphere of the image? | Casual and professional. |
+| How | How is the exposure of the image? | Low. |

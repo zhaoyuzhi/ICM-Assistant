@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person's midriff exposed? | Yes. |
+| What | What is the color of the person's shirt? | White. |
+| What | What is the unique detail added by the person's belly button? | A piercing. |
+| How | How are the person's hands positioned in the image? | On their hips. |
+| How | How does the image create a sense of intimacy and allure? | Through the combination of the person's exposed midriff, the contrasting white shirt, the pierced belly button, and the confident stance, with no other distractions or objects in the image. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image show the person's movements? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the exposure level of the image high? | Yes. |
+| What | What is the person wearing in the image? | A white shirt. |
+| What | What is the main focus of the image? | The person's belly. |
+| How | How is the person's body positioned in the image? | Not discernible from the image. |
+| How | How does the white shirt contribute to the overall atmosphere of the image? | It adds simplicity and elegance. |

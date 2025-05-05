@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a hoodie? | Yes. |
+| Yes/No | Are her arms crossed in front of her body? | Yes. |
+| Yes/No | Is she looking down at her phone? | Yes. |
+| Yes/No | Does the living room have a wooden floor? | Yes. |
+| Yes/No | Is the wall in the background white? | Yes. |
+| Yes/No | Does the woman's outfit reveal her thighs? | Yes. |
+| What | What is the woman wearing on her feet? | White sneakers. |
+| What | What is the color of the woman's hoodie? | Black and white. |
+| How | How is the woman standing in the living room? | With her arms crossed and looking down at her phone. |
+| How | How would you describe the atmosphere in the image? | Casual and relaxed. |

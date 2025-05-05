@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a white bikini? | Yes. |
+| Yes/No | Is the woman walking on the beach? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the water splashing around the woman? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A white bikini top and white bottoms. |
+| What | What is the woman doing in the image? | Walking on the beach with her arms raised above her head. |
+| How | How is the woman moving through the water? | She is walking through the water, which is splashing around her. |
+| How | How does the image capture the woman's body in motion? | The image captures the woman's body in motion as she walks through the water, with her arms raised above her head. |

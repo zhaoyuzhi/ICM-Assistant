@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a cardboard box? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing black dress shoes? | Yes. |
+| Yes/No | Does the person have a shiny finish on their shoes? | Yes. |
+| Yes/No | Is the person wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a lace top? | Yes. |
+| What | What color are the person's shoes? | Black. |
+| What | What is the material of the person's dress? | Lace. |
+| How | How is the person's pose in the image? | Confident and alluring. |
+| How | How does the cardboard box element add to the image's atmosphere? | It adds a sense of casualness to the otherwise formal setting. |

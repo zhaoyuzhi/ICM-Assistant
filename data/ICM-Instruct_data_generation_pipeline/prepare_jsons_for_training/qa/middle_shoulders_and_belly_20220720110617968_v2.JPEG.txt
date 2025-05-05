@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing in the image? | Blue jeans. |
+| What | What is the noticeable feature of the person's attire in the image? | The person's belly button. |
+| How | How does the person's attire contribute to the atmosphere of the image? | The blue jeans contribute to a casual and relaxed atmosphere. |
+| How | How does the image make the viewer feel? | The image creates a sense of allure and intrigue, making the viewer feel drawn to it. |
+| Yes/No | Is the person in the image wearing a floral top? | Yes. |
+| Yes/No | Are the person's jeans tight? | Yes. |
+| Yes/No | Is the person's navel pierced? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| How | Does the image show the person's belly? | Yes. |
+| Yes/No | Is the person wearing a silver barbell in their navel? | Yes. |
+| What | What is the person wearing on their upper body? | A floral top. |
+| What | What is the person's piercing in their navel? | A silver barbell. |
+| How | How is the person's waist visible in the image? | The person's jeans are tight, revealing their waist. |
+| How | How does the person's floral top contribute to the sexy atmosphere of the image? | The loose fit of the floral top allows the person's belly to be seen, adding to the sexy atmosphere. |

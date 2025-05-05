@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray sweatshirt? | Yes. |
+| Yes/No | Is the person wearing a skirt? | Yes. |
+| Yes/No | Are the person's shoes black? | Yes. |
+| Yes/No | Is the person carrying a purse? | Yes. |
+| Yes/No | Is the image shot in a sexy or provocative manner? | No. |
+| Yes/No | Does the person's outfit suggest a formal or dressy occasion? | No. |
+| What | What is the color of the person's sweatshirt? | Gray. |
+| What | What is the person carrying? | A black purse. |
+| How | How is the person's exposure level in the image? | Low. |
+| What | What atmosphere does the image convey? | Casual and everyday. |

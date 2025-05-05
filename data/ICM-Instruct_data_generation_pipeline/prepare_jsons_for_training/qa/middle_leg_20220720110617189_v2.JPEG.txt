@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink blouse? | Yes. |
+| Yes/No | Are the woman's shorts white? | Yes. |
+| Yes/No | Is the woman holding a white purse in her left hand? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's attire and the way she carries herself confident and alluring? | Yes. |
+| What | What color is the woman's blouse? | Pink. |
+| What | What is the woman holding in her left hand? | A white purse. |
+| How | How does the woman's outfit contrast with the white wall in the background? | The woman's outfit creates a striking contrast against the white wall, drawing attention to her body. |
+| How | How does the image capture a moment of poised elegance? | The image captures a moment of poised elegance by showcasing a confident and alluring woman who is elegantly dressed and carrying herself with poise. |

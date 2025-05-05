@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige pantsuit? | Yes. |
+| Yes/No | Is the person's pose in the image sexual or suggestive? | No. |
+| Yes/No | Does the image feature any explicit or provocative elements? | No. |
+| Yes/No | Is the person's attire in the image neutral and professional? | Yes. |
+| Yes/No | Does the white background contribute to the image's calm and professional atmosphere? | Yes. |
+| Yes/No | Is the image focused on the person's physical appearance rather than their outfit and pose? | No. |
+| What | What color is the person's pantsuit in the image? | Beige. |
+| What | What is the person's belt color in the image? | Brown. |
+| How | How is the person's pose in the image? | Neutral, with their hands resting at their sides. |
+| How | How does the white background emphasize the simplicity of the image? | It creates a clean and minimalistic look, drawing attention to the person's outfit and pose rather than a busy or cluttered background. |
+| Yes/No | Is the person in the image wearing a pantsuit? | Yes. |
+| Yes/No | Is the pantsuit beige in color? | Yes. |
+| Yes/No | Does the pantsuit include a pair of wide-legged pants? | Yes. |
+| Yes/No | Is the person wearing a belt with gold buckles? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and professional? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the person's pantsuit? | Beige. |
+| What | What is the color of the belt worn by the person? | Brown. |
+| How | How are the person's hands positioned in the image? | At their sides. |
+| How | How would you describe the overall mood of the image? | Neutral and professional. |

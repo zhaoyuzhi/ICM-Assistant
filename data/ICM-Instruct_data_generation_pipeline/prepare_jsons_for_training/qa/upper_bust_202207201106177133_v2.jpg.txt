@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman's breast the main focus of the image? | Yes. |
+| Yes/No | Is the image close-up? | Yes. |
+| Yes/No | Does the woman's hand rest on her chest? | Yes. |
+| Yes/No | Is the overall atmosphere of the picture casual? | No. |
+| Yes/No | Is the image associated with a sexy or provocative feeling? | Yes. |
+| What | What is the woman's hand doing in the image? | Resting on her chest. |
+| What | What is the woman's breast doing in the image? | Deliberately showing its curve. |
+| How | How is the woman's body positioned in the image? | Not specified in the description. |
+| How | How is the woman's hand positioned on her chest? | Not specified in the description. |

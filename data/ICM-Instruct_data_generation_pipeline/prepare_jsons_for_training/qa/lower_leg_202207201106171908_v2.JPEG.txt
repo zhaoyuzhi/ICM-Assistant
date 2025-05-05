@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Are the shorts brightly colored? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Are the sneakers white? | Yes. |
+| Yes/No | Is the background of the image plain? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| What | What color are the shorts? | Pink and orange. |
+| What | What is the person's pose in the image? | Confident and relaxed. |
+| How | How are the shorts styled? | Frayed hem. |
+| How | How do the white sneakers complement the outfit? | They provide a contrast to the colorful shorts, making the person stand out. |

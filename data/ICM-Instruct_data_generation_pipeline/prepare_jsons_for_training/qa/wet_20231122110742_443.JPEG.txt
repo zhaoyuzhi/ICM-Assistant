@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white bracelet on her left wrist? | Yes. |
+| Yes/No | Are the woman's clothes soaked? | Yes. |
+| Yes/No | Is the faucet spraying water onto the woman? | Yes. |
+| Yes/No | Are the water droplets visible on the woman's clothes? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman reaching out to in the image? | A faucet. |
+| What | What is the purpose of the faucet in the image? | To spray water onto the woman. |
+| How | How are the woman's clothes soaked? | They are wet because she has been in the water for some time. |
+| How | How does the act of reaching out to the faucet and being sprayed with water contribute to the overall atmosphere of the image? | It creates a sense of vulnerability and sensuality, adding to the sexy atmosphere. |

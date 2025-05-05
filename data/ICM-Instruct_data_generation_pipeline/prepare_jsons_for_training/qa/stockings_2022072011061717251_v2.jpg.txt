@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Does the image have a seductive and provocative atmosphere? | Yes. |
+| Yes/No | Are the person's feet resting on the bed? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black stockings. |
+| What | What is the person in the image wearing as their upper garment? | A black dress. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image create a sense of mystery and allure? | Through the combination of the person's attire and the intimate setting, with a focus on the black stockings and dress creating a sense of intrigue. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Are the shoes in the image ballet slippers? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and style? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the combination of blue leggings and ballet slippers create a sense of elegance and grace? | Yes. |
+| What | What color are the leggings in the image? | Blue. |
+| What | What type of shoes are the person wearing in the image? | Ballet slippers. |
+| How | How does the person's pose and attire suggest confidence and style? | The person's confident pose and stylish attire, including blue leggings and ballet slippers, suggest a sense of confidence and style. |
+| How | How does the image evoke a sense of intrigue? | The image evokes a sense of intrigue by combining a sense of elegance and grace with a touch of boldness and confidence, capturing the viewer's attention and inviting further exploration. |

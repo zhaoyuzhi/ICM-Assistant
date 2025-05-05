@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black jacket? | Yes. |
+| Yes/No | Are they wearing a beanie? | Yes. |
+| Yes/No | Does the person have any exposed skin? | No. |
+| Yes/No | Is the image considered sexy? | No. |
+| Yes/No | Does the person have a distinctive orange stripe on their pants? | Yes. |
+| Yes/No | Are they walking on a street? | Yes. |
+| What | What color are the person's shoes? | Black. |
+| What | What color is the person's beanie? | Black. |
+| How | How much of the person's body is visible in the image? | A small portion. |
+| What | What is the focus of the image? | The person's clothing and movement. |

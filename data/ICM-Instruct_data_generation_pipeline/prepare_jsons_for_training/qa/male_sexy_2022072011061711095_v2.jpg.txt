@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man lifting a dumbbell? | Yes. |
+| Yes/No | Is the image taken in a gym setting? | Yes. |
+| Yes/No | Is the man's focus on his upper body strength? | Yes. |
+| How | Does the image showcase the man's physique? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man lifting in the image? | A dumbbell. |
+| What | What is the man's attire in the image? | Black shorts. |
+| How | How is the man's movement in the image? | He is lifting a dumbbell, suggesting he is in the middle of a workout. |
+| How | How does the image showcase the man's physique? | The image captures a moment of intense physical activity, highlighting the man's muscular physique and determination. |

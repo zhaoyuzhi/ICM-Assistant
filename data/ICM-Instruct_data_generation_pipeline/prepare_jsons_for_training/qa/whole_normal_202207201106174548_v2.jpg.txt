@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young girl? | Yes. |
+| Yes/No | Is the girl wearing a pink shirt? | Yes. |
+| Yes/No | Does the shirt have white text? | Yes. |
+| Yes/No | Is the girl wearing a white headband? | Yes. |
+| Yes/No | Are the blue jeans the girl is wearing casual? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color is the background of the image? | White. |
+| What | What type of material does the girl's shirt appear to be made of? | Sequins. |
+| How | How does the white background enhance the mood of the image? | It creates a lighthearted and carefree atmosphere. |
+| How | How does the low-key exposure level affect the image? | It focuses attention on the girl and her outfit, rather than any potential innuendo or suggestive content. |

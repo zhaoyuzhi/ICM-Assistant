@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the device in the man's hand a smartphone? | No. |
+| Yes/No | Does the image have a sexual connotation? | Yes. |
+| Yes/No | Is the background of the image colorful? | No. |
+| Yes/No | Does the man have any visible tattoos? | No. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| What | What is the man holding in his hand? | A large, gray, rectangular device. |
+| What | What is the color of the background in the image? | Gray. |
+| How | How is the man standing in relation to the background? | He is standing against a gray background. |
+| How | How does the device the man is holding relate to the overall atmosphere of the image? | The device could be perceived as a symbol of power or control, contributing to the sexy atmosphere. |

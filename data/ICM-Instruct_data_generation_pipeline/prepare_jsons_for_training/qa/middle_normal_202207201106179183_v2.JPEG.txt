@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the jeans ripped or torn? | No. |
+| Yes/No | Is the shirt black? | No. |
+| Yes/No | Does the image contain any explicit content? | No. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Does the image have a sexual or provocative tone? | No. |
+| What | What color are the jeans? | Blue. |
+| What | What is the color of the shirt? | Gray. |
+| How | How are the jeans styled? | Faded, slightly wrinkled. |
+| What | What is the exposure level of the image? | Low. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the jeans ripped or distressed? | No. |
+| Yes/No | Is the t-shirt brightly colored? | No. |
+| Yes/No | Does the image have a sexual context? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image feature any provocative or seductive clothing? | No. |
+| What | What color are the jeans? | Blue. |
+| What | What is the color of the t-shirt? | Gray. |
+| How | How are the jeans styled? | They are slightly faded and have a wornin look, giving them a vintage feel. |
+| How | How does the low exposure level contribute to the overall atmosphere of the image? | It emphasizes the casual and nonsexual nature of the image and focuses attention on the person's clothing and the overall atmosphere. |

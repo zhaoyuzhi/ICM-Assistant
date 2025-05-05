@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any color other than black, blue, and skin tone? | No. |
+| Yes/No | Are the man's arms crossed over his chest? | Yes. |
+| Yes/No | Is the image associated with a sense of intimacy and vulnerability? | Yes. |
+| What | What is the man wearing on his lower body? | Black and blue striped underwear. |
+| What | What is the man's facial expression? | Direct gaze. |
+| How | How is the man's confidence conveyed in the image? | Through his crossed arms and direct gaze. |
+| How | How does the image create a sense of connection with the viewer? | Through the man's direct gaze and confident pose. |

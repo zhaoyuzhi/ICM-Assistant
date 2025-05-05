@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a person's face? | Yes. |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Are the person's lips puckered? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image feature the person's nose? | Yes. |
+| Yes/No | Is the photo a close-up? | Yes. |
+| What | What is the facial expression of the person in the image? | Pouting. |
+| What | What is the focal point of the image? | The person's lips and nose. |
+| How | How are the person's lips depicted in the image? | Puckered. |
+| How | How is the image's close-up nature contributing to its overall atmosphere? | It allows the viewer to focus on the person's facial features, enhancing the sense of allure and sensuality. |

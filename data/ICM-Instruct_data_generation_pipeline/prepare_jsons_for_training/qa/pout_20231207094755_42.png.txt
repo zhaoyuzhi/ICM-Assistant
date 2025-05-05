@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman pouting? | Yes. |
+| Yes/No | Is the woman's facial expression playful? | Yes. |
+| Yes/No | Is the woman's facial expression seductive? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards? | Yes. |
+| Yes/No | Does the image create an alluring atmosphere? | Yes. |
+| What | What is the woman's hair color? | Blonde. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| How | How is the woman pouting? | As if kissing. |
+| How | How does the image create an alluring atmosphere? | Through the woman's seductive facial expression, blonde hair, and playful pouting action. |

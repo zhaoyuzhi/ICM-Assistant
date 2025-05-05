@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt long? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Does the woman have a black purse on her shoulder? | Yes. |
+| Yes/No | Is the room's floor made of wood? | Yes. |
+| What | What is the woman's pose in the image? | Neutral. |
+| What | What is the atmosphere of the image? | Calm and neutral. |
+| How | How long is the skirt? | The skirt is long, but the exact length is not specified in the description. |
+| How | How does the woman's pose in the image relate to the room's interior? | The woman's pose is neutral and does not interact with the room's interior in any significant way. |

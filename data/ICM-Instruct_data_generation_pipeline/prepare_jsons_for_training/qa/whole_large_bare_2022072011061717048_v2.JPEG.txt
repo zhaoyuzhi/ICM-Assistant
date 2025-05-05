@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top pink? | Yes. |
+| Yes/No | Does the bikini bottom have a floral pattern? | No. |
+| Yes/No | Is the woman lying on her stomach? | Yes. |
+| Yes/No | Is her head resting on her hand? | Yes. |
+| Yes/No | Are there any other objects or people visible in the image? | No. |
+| What | What color is the bikini bottom? | Blue. |
+| What | What is the woman's pose in the image? | Lying on her stomach with her head resting on her hand. |
+| How | How does the beach setting enhance the allure of the image? | The beach setting is often associated with relaxation and leisure, which can evoke feelings of desire and pleasure, and it provides a scenic and tranquil backdrop for the woman's sensual pose. |
+| How | How does the woman's attire contribute to the overall sensuality of the image? | The bikini reveals a significant amount of her body, which is typically associated with a sense of intimacy and allure, and the floral pattern on the top adds a touch of femininity and elegance. |

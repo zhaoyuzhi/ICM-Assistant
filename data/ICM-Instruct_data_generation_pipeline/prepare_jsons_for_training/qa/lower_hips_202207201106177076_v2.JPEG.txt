@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of gray leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Is the person in the image striking a pose with their left hand on their hip? | Yes. |
+| Yes/No | Is the person in the image resting their right hand on their thigh? | Yes. |
+| How | Does the image showcase the person's buttocks prominently? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the leggings the person is wearing? | Gray. |
+| What | What is the color of the person's sports bra? | Black. |

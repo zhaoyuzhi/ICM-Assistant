@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the woman have ruffled sleeves? | Yes. |
+| Yes/No | Is the woman's skirt ruffled at the hem? | Yes. |
+| Yes/No | Is the woman wearing white tights? | Yes. |
+| Yes/No | Is the woman wearing lace stockings? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What type of stockings is the woman wearing? | Lace stockings. |
+| How | How is the woman's dress being lifted? | The woman is lifting her dress herself. |
+| How | How does the white background enhance the image? | It makes the woman and her attire the focus of the image, creating an intimate and provocative atmosphere. |

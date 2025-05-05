@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the image taken in a well-lit setting? | No. |
+| Yes/No | Does the woman's attire cover her entire body? | No. |
+| Yes/No | Is the woman's facial expression visible in the image? | No. |
+| What | What is the woman's pose in the image? | She is sitting on a chair with her arms raised above her head. |
+| What | What is the dominant color of the woman's attire in the image? | Black. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | It exposes a large area of her back, creating a sense of allure and sensuality. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | It adds to the overall atmosphere of confidence and allure. |

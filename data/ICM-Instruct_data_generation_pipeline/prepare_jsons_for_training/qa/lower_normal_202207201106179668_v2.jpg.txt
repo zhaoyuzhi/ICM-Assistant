@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the man in the image wearing black pants? | Yes. |
+| Yes/No | Is the man in the image facing the camera? | Yes. |
+| Yes/No | Is the man in the image looking down? | Yes. |
+| Yes/No | Does the image feature any suggestive or provocative content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and unassuming? | Yes. |
+| What | What is the man in the image wearing? | A white shirt and black pants. |
+| What | What is the color of the wall in the room? | White. |
+| How | How is the man positioned in the image? | He is positioned with his left hand in his pocket and his right hand resting on his hip. |
+| How | How would you describe the overall design of the room? | Simple and minimalist. |

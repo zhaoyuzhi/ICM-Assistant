@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the women wearing shorts? | Yes. |
+| Yes/No | Is the background white? | Yes. |
+| Yes/No | Are the women standing? | Yes. |
+| Yes/No | Is the image sensual? | Yes. |
+| Yes/No | Does the image feature any text or other objects? | No. |
+| What | What are the women wearing? | Black and white shorts. |
+| What | What is the primary focus of the image? | The women's legs and thighs. |
+| How | How are the women positioned in the image? | The woman on the left is positioned slightly to the left of the woman on the right. |
+| How | How does the white background affect the image? | It emphasizes the women's legs and shorts, making them the central point of interest. |

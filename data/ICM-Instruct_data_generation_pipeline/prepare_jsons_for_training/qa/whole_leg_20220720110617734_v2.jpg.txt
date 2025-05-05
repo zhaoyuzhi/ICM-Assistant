@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a gold belt? | Yes. |
+| Yes/No | Is the woman in the image carrying a purse with a gold chain strap? | Yes. |
+| Yes/No | Are there other people walking around the woman in the image? | Yes. |
+| Yes/No | Is the city street lined with buildings? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What is the woman carrying in her hand? | A cup. |
+| How | How is the woman's outfit revealing? | Her thighs are exposed. |
+| What | What does the woman's posture and the way she carries herself while walking down the street contribute to? | The overall sexy atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a necklace? | Yes. |
+| Yes/No | Does the person in the image have their eyes closed? | Yes. |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Is the person in the image confident? | Yes. |
+| Yes/No | Does the gold necklace add a touch of elegance to the image? | Yes. |
+| What | What is the person in the image wearing around their neck? | A gold necklace. |
+| What | What is the facial expression of the person in the image? | A pouting facial expression. |
+| How | How are the person's lips positioned in the image? | They are puckered. |
+| How | How does the image make the viewer feel? | Intrigued and captivated. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black crop top? | Yes. |
+| Yes/No | Are the person's pants striped? | Yes. |
+| Yes/No | Is the person's outfit strapless? | Yes. |
+| Yes/No | Is the person's midriff visible? | Yes. |
+| Yes/No | Is the person holding a phone? | Yes. |
+| Yes/No | Is the background of the image a blue and white checkered bed? | Yes. |
+| What | What is the color of the person's crop top? | Black. |
+| What | What is the pattern on the person's pants? | Striped. |
+| How | How is the person's outfit contributing to the sexy atmosphere of the image? | The person's strapless and midriffbaring outfit reveals their midriff, which is a common feature in sexy clothing. The black crop top and striped pants add to the overall allure of the image. |
+| How | How does the person's pose and the way they hold the phone contribute to the sexy atmosphere of the image? | The person's pose and the way they hold the phone contribute to the sexy atmosphere of the image by creating a sense of relaxed confidence and sensuality. |

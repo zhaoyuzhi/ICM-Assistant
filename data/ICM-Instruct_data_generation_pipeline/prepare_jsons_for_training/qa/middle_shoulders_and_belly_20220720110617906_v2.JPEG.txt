@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the plaid pattern on the back pocket of the jeans add a unique touch to the outfit? | Yes. |
+| Yes/No | Does the person's posture and the way their belly is exposed suggest confidence and self-assuredness? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Do the blue jeans complement the person's figure? | Yes. |
+| What | What is the color of the jeans in the image? | Blue. |
+| What | What is the design on the back pocket of the jeans? | Plaid. |
+| How | How does the person's exposed belly add to the overall atmosphere of the image? | It adds a sense of vulnerability and confidence, making the image more intriguing and alluring. |
+| How | How do the blue jeans and plaid pattern on the back pocket complement the person's figure? | The blue jeans are a classic and versatile piece of clothing that complement the person's figure, while the plaid pattern on the back pocket adds a playful and stylish element to the overall look. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the black top contrasting with the blue jeans? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the plaid pattern on the back pocket add a playful element to the image? | Yes. |
+| What | What is the person wearing on their upper body? | A black top. |
+| What | What is the unique touch added to the jeans? | A plaid pattern on the back pocket. |
+| How | How does the image showcase the person's body? | In a confident and uninhibited manner. |
+| How | How does the combination of elements in the image create a vibe? | It creates an alluring and seductive vibe. |

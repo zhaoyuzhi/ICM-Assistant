@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the man have a beard? | Yes. |
+| Yes/No | Is the background of the image dark green? | Yes. |
+| Yes/No | Is the man's shirt black? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the man's expression in the image? | Serious. |
+| What | What is the focus of the image? | The man's serious expression and the contrasting colors of his appearance against the background. |
+| How | How does the man's serious expression contrast with the low exposure level? | The serious expression and low exposure level create a contrast that suggests the image is not meant to be sensual or provocative. |
+| How | How do the colors of the man's hair and shirt contrast with the background? | The dark hair and shirt contrast with the dark green background, creating a striking visual effect. |

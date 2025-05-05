@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the person's posture suggestive of confidence? | Yes. |
+| Yes/No | Does the image take place on a beach? | Yes. |
+| Yes/No | Is the bikini bottom the only piece of clothing visible in the image? | Yes. |
+| What | What is the color of the bikini bottom? | Brown. |
+| What | What is the person's posture in the image? | Standing with hands on hips. |
+| How | How much skin is revealed by the bikini bottom? | Significant amount. |
+| How | How does the beach setting contribute to the overall atmosphere of the image? | It adds to the sense of relaxation, leisure, and enjoyment, enhancing the sexy feel of the image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's hands placed on their knees? | Yes. |
+| Yes/No | Is the person in the process of putting on white stockings? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Does the plaid skirt and black heels add a touch of elegance and sophistication to the scene? | Yes. |
+| What | What is the person in the image wearing on their feet? | Black heels. |
+| What | What is the person in the image putting on? | White stockings. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How are the person's hands placed in the image? | On their knees. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing black heels? | Yes. |
+| Yes/No | Is the person putting on white stockings? | Yes. |
+| Yes/No | Is the image intimate and sensual? | Yes. |
+| Yes/No | Does the plaid skirt and black heels add elegance and sophistication to the scene? | Yes. |
+| What | What is the person in the image putting on? | White stockings. |
+| What | What is the atmosphere of the image? | Intimate and sensual. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How are the person's hands positioned in the image? | Placed on their knees. |

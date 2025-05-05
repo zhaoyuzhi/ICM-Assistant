@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the woman making a pouting face? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the pouting expression add to the seductive nature of the image? | Yes. |
+| What | What color is the woman's shirt? | Blue. |
+| What | What is the woman's hair color? | Dark. |
+| How | How is the woman looking upwards? | With a slight tilt of her head and a raising of her eyebrows. |
+| How | How does the combination of the woman's long dark hair, blue shirt, and upward gaze create a sense of confidence and allure? | It creates a sense of confidence and allure by highlighting the woman's beauty and drawing attention to her features in a subtle yet captivating way. |

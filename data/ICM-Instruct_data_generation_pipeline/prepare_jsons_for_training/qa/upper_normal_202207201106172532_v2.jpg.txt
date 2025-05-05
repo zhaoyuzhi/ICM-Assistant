@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the woman's focus on unlocking the door? | Yes. |
+| Yes/No | Does the image contain any inappropriate behavior? | No. |
+| Yes/No | Are there any indications of sexual content in the image? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the woman holding in her hand? | A key. |
+| What | What is visible inside the door? | A pile of clothes and a pair of jeans. |
+| How | How is the woman standing in relation to the door? | She is standing in front of the door. |
+| How | How does the image's low exposure level contribute to its overall atmosphere? | It emphasizes the calm and ordinary nature of the scene. |

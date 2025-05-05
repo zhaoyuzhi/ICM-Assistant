@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman wearing a yellow sweater? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Does the woman have a confident facial expression? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's hair? | Brown. |
+| What | What is the woman wearing? | A yellow sweater. |
+| How | How does the woman's facial expression contribute to the image's atmosphere? | It adds to the sexy feel of the image by being confident and playful. |
+| How | How does the dark background affect the image? | It puts the focus on the woman and emphasizes her facial features and the playful gesture of sticking out her tongue, creating a seductive atmosphere. |

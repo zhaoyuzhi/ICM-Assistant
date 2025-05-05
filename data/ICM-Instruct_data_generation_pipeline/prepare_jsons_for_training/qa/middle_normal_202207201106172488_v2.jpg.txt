@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of gray trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Does the person in the image have their hands in their pockets? | Yes. |
+| Yes/No | Is the atmosphere in the image casual and relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level in the image low? | Yes. |
+| What | What color are the person's trousers in the image? | Gray. |
+| What | What color is the person's shirt in the image? | Blue. |
+| How | How are the person's hands positioned in the image? | In their pockets. |
+| How | How would you describe the atmosphere in the image? | Casual and relaxed. |
+| Yes/No | Is the person in the image wearing a pair of gray trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Does the person in the image have their hands in their pockets? | Yes. |
+| Yes/No | Is the atmosphere in the image casual and relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level in the image low? | Yes. |
+| What | What color are the person's trousers in the image? | Gray. |
+| What | What color is the person's shirt in the image? | Blue. |
+| How | How are the person's hands positioned in the image? | In their pockets. |
+| What | What does the person's pose and attire suggest about the atmosphere in the image? | Casual and relaxed. |

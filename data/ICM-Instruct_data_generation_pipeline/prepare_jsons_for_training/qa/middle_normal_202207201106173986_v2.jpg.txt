@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of gray sweatpants? | Yes. |
+| Yes/No | Does the person have their hand tucked into their pocket? | Yes. |
+| Yes/No | Is the light blue shirt contrasting nicely with the gray sweatpants? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Are the gray sweatpants and light blue shirt typical clothing items for a casual day out or workout? | Yes. |
+| What | What color are the sweatpants? | Gray. |
+| What | What is the person's hand doing? | Tucked into their pocket. |
+| How | How is the fit of the sweatpants? | Adjustable and comfortable. |
+| How | How does the light blue shirt contrast with the gray sweatpants? | Nicely. |
+| Yes/No | Is the person in the image wearing a pair of gray sweatpants? | Yes. |
+| Yes/No | Does the person have a drawstring waist? | Yes. |
+| Yes/No | Is the person wearing a light blue shirt? | Yes. |
+| Yes/No | Is the person's hand tucked into their pocket? | Yes. |
+| Yes/No | Is the image taken from the waist down? | Yes. |
+| Yes/No | Does the image reveal any sensitive or private areas of the person? | No. |
+| What | What color are the sweatpants? | Gray. |
+| What | What color is the shirt? | Light blue. |
+| How | How is the person's hand positioned? | Casually tucked into their pocket. |
+| What | What is the overall atmosphere of the image? | Relaxed and casual. |

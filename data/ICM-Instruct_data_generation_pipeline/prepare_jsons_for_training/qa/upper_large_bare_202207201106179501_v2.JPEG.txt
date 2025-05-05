@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black lace bra? | Yes. |
+| Yes/No | Is the woman in the image standing in a room with a bed? | Yes. |
+| Yes/No | Is the woman in the image holding a rose in her hand? | Yes. |
+| Yes/No | Does the image have a romantic atmosphere? | Yes. |
+| Yes/No | Is the woman's attire and pose in the image suggestive of allure and confidence? | Yes. |
+| Yes/No | Does the image feature a vase of flowers in the background? | Yes. |
+| What | What is the woman in the image holding in her hand? | A rose. |
+| What | What is the color of the woman's bra and underwear in the image? | Black. |
+| How | How does the woman's pose in the image enhance its romantic atmosphere? | The woman's pose, with the rose in her hand, adds a romantic element to the image, further enhancing its allure. |
+| How | How does the contrast between the woman's attire and the white background affect the image? | The black lace bra and underwear create a contrast with the white background, drawing attention to the woman's figure. |

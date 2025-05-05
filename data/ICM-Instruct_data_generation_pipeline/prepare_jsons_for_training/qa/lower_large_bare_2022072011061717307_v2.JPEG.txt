@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of striped underwear? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the person's lower body the main focus of the image? | Yes. |
+| Yes/No | Are there any other clothing items worn by the person in the image? | No. |
+| Yes/No | Is the exposure level of the image high? | Yes. |
+| How | Does the image showcase the person's movements? | No. |
+| What | What is the color scheme of the striped underwear? | Pink, blue, and green. |
+| What | What is the atmosphere of the image? | Sensual and provocative. |
+| How | How is the person standing in the image? | Statically. |
+| How | How is the image visually striking? | The white background emphasizes the person and their attire, creating a sense of intimacy and allure. |

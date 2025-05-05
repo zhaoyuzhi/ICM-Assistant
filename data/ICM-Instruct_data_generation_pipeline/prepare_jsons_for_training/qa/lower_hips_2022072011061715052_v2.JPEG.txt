@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the jeans tight-fitting? | Yes. |
+| Yes/No | Does the sweatshirt have a logo or design? | No. |
+| Yes/No | Is the background cluttered? | No. |
+| Yes/No | Is the person's posture relaxed? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What color is the sweatshirt? | Gray. |
+| What | What is the person's attire accentuating? | Their curves. |
+| How | How does the person's posture contribute to the image's overall atmosphere? | It adds to the relaxed and confident atmosphere. |
+| How | How does the tight-fitting clothing enhance the image's allure? | It accentuates the person's body shape and creates a sense of selfassurance. |

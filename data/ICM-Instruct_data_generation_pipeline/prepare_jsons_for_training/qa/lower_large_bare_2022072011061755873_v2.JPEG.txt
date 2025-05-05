@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the person's legs spread apart? | Yes. |
+| Yes/No | Is the person's lower body exposed? | Yes. |
+| Yes/No | Are the person's knees bent? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the person's skirt? | Black. |
+| What | What is the color of the sheets and pillow? | White. |
+| How | How are the person's legs positioned? | Spread apart, bent knees. |
+| How | How does the image make you feel? | Seductive, alluring. |

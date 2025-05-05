@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing jean shorts? | Yes. |
+| Yes/No | Does the woman in the image have her hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image a pink wall? | Yes. |
+| Yes/No | Is there a poster of a woman's face on the background wall? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| What | What color is the woman's top? | White. |
+| What | What is the word written on the woman's top? | Glamour. |
+| How | How is the woman posing in the image? | With her hand on her hip. |
+| How | How would you describe the overall atmosphere of the image? | Glamorous and sophisticated. |

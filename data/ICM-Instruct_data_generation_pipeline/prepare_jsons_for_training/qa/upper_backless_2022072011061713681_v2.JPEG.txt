@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Is the woman wearing a flower in her hair? | Yes. |
+| Yes/No | Is the background of the image beige? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the dress? | White. |
+| What | What is the woman wearing in her hair? | A white flower. |
+| How | How does the dress create an alluring appearance? | The dress has a deep neckline and a large area of the woman's back is exposed, creating a sense of mystery and intrigue. |
+| How | How does the background contribute to the overall atmosphere of the image? | The beige background provides a neutral backdrop that allows the viewer to focus on the woman and her attire, making the image feel more intimate and alluring. |

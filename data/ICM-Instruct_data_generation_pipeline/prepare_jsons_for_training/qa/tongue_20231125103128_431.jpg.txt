@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have a serious expression on her face? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the woman wearing red lipstick? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's gesture in the image? | Sticking out her tongue. |
+| What | What color lipstick is the woman wearing? | Red. |
+| How | How does the woman's expression contrast with her gesture? | The woman's serious expression contrasts with her playful and flirtatious gesture of sticking out her tongue. |
+| How | How does the red lipstick contribute to the overall atmosphere of the image? | The red lipstick adds a bold and confident touch to the woman's appearance, contributing to the overall atmosphere of confidence and allure. |

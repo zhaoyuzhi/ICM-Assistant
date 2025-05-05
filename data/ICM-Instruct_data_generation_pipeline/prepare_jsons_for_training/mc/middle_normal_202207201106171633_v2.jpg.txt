@@ -1,0 +1,14 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What is the dominant color of the person's outfit? |A) Black |B) White |C) Red |D) Blue |B. |
+| What type of belt is the person wearing? |A) Leather |B) Fabric |C) Metal |D) Plastic |B. |
+| What is the exposure level of the image? |A) High |B) Low |C) Medium |D) Unknown |B. |
+| Are the person's movements discernible in the image? |A) Yes |B) No |C) Maybe |D) Unknown |B. |
+| What is the overall atmosphere of the image? |A) Provocative |B) Sexy |C) Calm |D) Unknown |C. |
+| Is the image typically associated with sexy or provocative imagery? |A) Yes |B) No |C) Maybe |D) Unknown |B. |
+| What is the focus of the image? |A) The person's physical appearance |B) The person's attire |C) The surrounding environment |D) Unknown |B. |
+| What is the color of the person's top in the image? |A. Black |B. White |C. Red |D. Blue |B. |
+| What is the color of the person's skirt in the image? |A. Black |B. White |C. Red |D. Blue |B. |
+| What is the material of the person's belt in the image? |A. Leather |B. Plastic |C. Metal |D. Fabric |C. |
+| What is the exposure level of the image? |A. High |B. Low |C. Medium |D. Very Low |D. |
+| What is the overall atmosphere of the image? |A. Sexy |B. Calm |C. Provocative |D. Unassuming |B. |

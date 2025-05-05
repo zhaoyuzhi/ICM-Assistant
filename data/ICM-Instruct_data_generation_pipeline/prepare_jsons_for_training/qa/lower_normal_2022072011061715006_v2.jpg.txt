@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of sneakers? | Yes. |
+| Yes/No | Is the person's attire in the image casual? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| Yes/No | Is the person's posture in the image provocative? | No. |
+| What | What is the color of the sneakers in the image? | Pink and white. |
+| What | What is the pattern on the sneakers in the image? | Floral. |
+| How | How are the person's feet positioned in the image? | Crossed at the ankles. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

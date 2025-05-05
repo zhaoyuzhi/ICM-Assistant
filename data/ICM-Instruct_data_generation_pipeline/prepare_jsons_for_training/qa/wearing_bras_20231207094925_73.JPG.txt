@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a leopard print bra? | Yes. |
+| Yes/No | Is the bra black and brown with a leopard print pattern? | Yes. |
+| Yes/No | Is the woman holding the straps of the bra with both hands? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman looking down at her hands as she adjusts the bra? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a leopard print bra and adjusting the straps. |
+| What | What is the color of the leopard print pattern on the bra? | Black and brown. |
+| How | How is the woman holding the straps of the bra? | She is holding them with both hands. |
+| How | How does the woman look while adjusting the bra? | She looks confident and playful. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra leopard print? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman looking down at her hands as she adjusts the bra? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's pose confident and playful? | Yes. |
+| What | What is the woman adjusting in the image? | The straps of her bra. |
+| What | What is the color and pattern of the bra? | Black and brown with a leopard print pattern. |
+| How | How is the woman's smile described in the image? | Confident and playful. |
+| How | How is the woman's pose described in the image? | Confident and playful. |

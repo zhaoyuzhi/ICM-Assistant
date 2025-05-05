@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a tank top? | Yes. |
+| Yes/No | Are the shorts the woman is wearing black? | Yes. |
+| Yes/No | Does the tank top have sleeves? | No. |
+| Yes/No | Is the woman's back facing the camera? | Yes. |
+| Yes/No | Are the shorts high-waisted? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and vulnerability? | Yes. |
+| What | What is the woman wearing on her upper body? | A gray tank top. |
+| What | What is the woman wearing on her lower body? | Black polka dot shorts. |
+| How | How does the woman's pose suggest a sense of ease and comfort? | The woman's arms are relaxed at her sides, suggesting a natural and carefree stance. |
+| How | How does the combination of the gray tank top and black shorts create a contrast? | The contrast between the lightcolored tank top and the darkcolored shorts creates a visual focal point on the woman's back, drawing the viewer's attention to her upper body. |

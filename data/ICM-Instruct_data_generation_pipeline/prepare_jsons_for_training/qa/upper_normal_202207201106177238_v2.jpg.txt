@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the tablet device displaying a calendar application? | Yes. |
+| Yes/No | Does the calendar application display the days of the week on the left and the dates on the right? | Yes. |
+| Yes/No | Is the calendar application in Chinese? | Yes. |
+| Yes/No | Is the tablet device placed on a white surface? | Yes. |
+| Yes/No | Is the background of the image a gradient of blue and white? | Yes. |
+| Yes/No | Does the image contain any human figures or suggest any intimate or provocative content? | No. |
+| What | What is the focus of the image? | The tablet and its display (a calendar application). |
+| What | What is the overall atmosphere of the image? | Calm and professional. |
+| How | How is the tablet device attached to the keyboard? | Not specified in the description. |
+| How | How does the background of the image transition from blue to white? | Gradually, with a gradient effect. |

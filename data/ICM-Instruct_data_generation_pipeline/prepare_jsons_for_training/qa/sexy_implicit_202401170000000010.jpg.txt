@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | No. |
+| Yes/No | Does the image feature a man and a woman? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual and intimate? | Yes. |
+| Yes/No | Are there any objects in the room that are not the man, woman, or dining table? | No. |
+| Yes/No | Is the silhouette made of paper or cardboard? | Yes. |
+| Yes/No | Is the image in color? | No. |
+| What | What is the color of the wall? | Green. |
+| What | What is the approximate number of objects in the room? | 5 (man, woman, dining table, vase of flowers, and chair). |
+| How | How is the man positioned in relation to the woman? | The man is standing on the woman, who is sitting on a chair. |
+| How | How would you describe the overall mood of the image? | Elegant, sophisticated, alluring, intriguing, and passionate. |

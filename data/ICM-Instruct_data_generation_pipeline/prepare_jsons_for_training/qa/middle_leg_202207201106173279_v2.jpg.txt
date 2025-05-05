@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a brown shirt? | Yes. |
+| Yes/No | Are the shorts the woman is wearing cropped at the knee? | Yes. |
+| Yes/No | Is the purse the woman is holding black? | Yes. |
+| Yes/No | Is the background of the image purple? | Yes. |
+| Yes/No | Does the woman have a confident expression? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the woman holding in her left hand? | A black purse. |
+| What | What is the color of the background in the image? | Purple. |
+| How | How is the woman holding the purse? | She is holding it with the chain strap in her left hand. |
+| How | How would you describe the atmosphere of the image? | Sexy/alluring. |

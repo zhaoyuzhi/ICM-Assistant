@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the children related? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the children smiling? | No. |
+| Yes/No | Is the bench made of wood? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What is the primary color of the children's clothing? | Darkcolored (not specified). |
+| What | What is the pattern on the socks of the child on the left? | White sock with black stripes. |
+| How | How are the children sitting on the bench? | They are sitting together, with the child on the left slightly closer to the camera. |

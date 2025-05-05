@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing high heels? | Yes. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Does the image feature a large area of the person's lower body exposed? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| Yes/No | Does the person's pose and attire suggest confidence and allure? | Yes. |
+| What | What is the person in the image wearing on their feet? | High heels. |
+| What | What is the person in the image wearing on their lower body? | Shorts. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image make you feel? | The image is likely to evoke strong emotions and reactions from viewers, such as feelings of attraction, intrigue, or allure. |

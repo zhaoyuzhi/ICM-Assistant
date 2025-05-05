@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Are the stockings lacy? | Yes. |
+| Yes/No | Is the material of the stockings sheer? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the image set in a bedroom? | Yes. |
+| What | What color are the stockings? | White. |
+| What | What is the person's attire in the image? | White stockings and a white dress. |
+| How | How do the stockings contribute to the image's overall atmosphere? | They add a sense of elegance and sophistication. |
+| How | How does the setting of the image enhance the intimate atmosphere? | The bedroom setting creates an intimate atmosphere, and the presence of a bed in the background further enhances it. |

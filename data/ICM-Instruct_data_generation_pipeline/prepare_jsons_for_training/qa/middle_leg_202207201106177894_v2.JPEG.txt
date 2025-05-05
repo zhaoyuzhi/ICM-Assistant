@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a black denim skirt? | Yes. |
+| Yes/No | Does the skirt have a frayed hem? | Yes. |
+| Yes/No | Is the woman wearing a red shirt? | Yes. |
+| Yes/No | Are her thighs exposed in the image? | No. |
+| Yes/No | Is the woman standing with her hands on her hips? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's shirt? | Red. |
+| What | What is the style of the woman's skirt? | Highwaisted with a frayed hem. |
+| How | How does the woman's pose suggest self-assurance? | She is standing with her hands on her hips, which is a confident pose. |
+| How | How does the image create a bold and eye-catching contrast? | The highwaisted skirt and red shirt create a bold and eyecatching contrast, while the frayed hem of the skirt adds a touch of casualness to the overall look. |

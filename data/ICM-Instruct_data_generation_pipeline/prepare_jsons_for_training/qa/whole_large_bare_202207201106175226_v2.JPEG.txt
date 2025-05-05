@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman lying on her stomach? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the object the woman is resting her head on round? | Yes. |
+| Yes/No | Is the atmosphere of the image relaxed and fun? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing? | A white bikini. |
+| What | What is the woman resting her head on? | A large, round object. |
+| How | How is the woman posed? | She is lying on her stomach. |
+| How | How does the image evoke feelings of relaxation and enjoyment? | The woman's smile and the beach setting create a sense of leisure and enjoyment. |

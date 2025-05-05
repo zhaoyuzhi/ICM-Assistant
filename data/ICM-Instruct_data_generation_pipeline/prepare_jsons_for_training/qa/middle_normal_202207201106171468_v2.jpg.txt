@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the woman's pants light blue? | Yes. |
+| Yes/No | Is the woman's posture neutral and non-threatening? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the focus of the image on the woman's attire and posture rather than her body? | Yes. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| What | What color are the woman's pants? | Light blue. |
+| What | What is the woman's posture in the image? | Hands on hips. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It emphasizes the focus on the woman's clothing and posture rather than her body, contributing to a nonsexual atmosphere. |
+| How | How does the woman's attire and posture contribute to the atmosphere of the image? | The simple and modest attire and neutral posture contribute to a nonsexual atmosphere. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the woman's pants light blue? | Yes. |
+| Yes/No | Is the woman's pose suggestive or provocative? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire appropriate for a professional or formal setting? | Yes. |
+| Yes/No | Does the image suggest a sexual context? | No. |
+| What | What is the woman's pose in the image? | She is standing with her hands placed on her hips. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is professional or formal, rather than sexy or provocative. |
+| How | How does the low exposure level of the image affect the focus of the image? | The low exposure level of the image emphasizes the focus on the woman's clothing and pose, rather than her body. |
+| How | How does the woman's attire suggest a professional or formal setting? | The woman's attire, specifically her white blouse with blue stripes and light blue pants, suggests a professional or formal setting. |

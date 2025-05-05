@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's pants blue? | Yes. |
+| Yes/No | Do the woman's pants have gold buttons? | Yes. |
+| Yes/No | Is the woman standing in front of a building? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's top? | Blue and white. |
+| What | What is the woman's hair style? | Ponytail. |
+| How | How are the woman's pants adorned? | With gold buttons. |
+| How | How would you describe the woman's overall appearance in the image? | Confident and stylish. |

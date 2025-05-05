@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing pants? | Yes. |
+| Yes/No | Is the woman in the image sitting on a couch? | Yes. |
+| Yes/No | Is the woman in the image putting on a new bra? | Yes. |
+| Yes/No | Does the image capture the woman from the waist up? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's bra? | Beige. |
+| What | What color are the woman's pants? | White. |
+| How | How does the contrast between the bra and pants highlight the woman's figure? | The contrast creates a visual difference that draws attention to her curves and contours, creating a sense of definition and shape. |
+| How | How does the act of putting on a bra contribute to the overall atmosphere of the image? | The act of putting on a bra suggests a sense of intimacy and vulnerability, which adds to the seductive and sensual nature of the image. Additionally, the act of putting on a bra is often associated with selfexpression and confidence, which could also contribute to the overall atmosphere of the image. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing pants? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Are the pants white in color? | Yes. |
+| Yes/No | Is the woman putting on a new bra in the image? | Yes. |
+| Yes/No | Does the image capture the woman from the waist up? | Yes. |
+| What | What is the woman doing in the image? | Putting on a new bra. |
+| What | What is the color of the woman's pants in the image? | White. |
+| How | How does the contrast between the beige bra and white pants highlight the woman's figure? | The contrast creates a visual difference between the bra and pants, drawing attention to the woman's figure. |
+| How | How does the act of putting on a bra contribute to the overall atmosphere of the image? | The act of putting on a bra can be associated with sensuality and selfexpression, adding to the seductive nature of the image. |

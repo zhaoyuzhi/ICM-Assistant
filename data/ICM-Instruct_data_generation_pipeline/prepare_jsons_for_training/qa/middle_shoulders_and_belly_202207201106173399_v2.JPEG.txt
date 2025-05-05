@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are they wearing pink pants? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Are they wearing a belly chain? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| Yes/No | Does the image have a confident atmosphere? | Yes. |
+| What | What is the person in the image wearing around their waist? | A belly chain. |
+| What | What is the person's pose in the image? | Standing with their hands in their pockets. |
+| How | How is the person's belly exposed in the image? | The person is wearing a crop top or a shirt that is rolled up, exposing their belly. |
+| How | How does the person's choice of clothing and accessories contribute to the overall atmosphere of the image? | The person's choice of clothing and accessories, such as the belly chain, adds to the sexy and confident atmosphere of the image. |
+| Yes/No | Is the person in the image wearing a belly chain? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's pants pink? | Yes. |
+| Yes/No | Is the person wearing a white top? | Yes. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| Yes/No | Does the image convey a sense of allure? | Yes. |
+| What | What color are the person's pants? | Pink. |
+| What | What is the person wearing around their waist? | A belly chain. |
+| How | How does the person's attire suggest the atmosphere of the image? | The person's attire suggests a casual, relaxed atmosphere. |
+| How | How does the belly chain add to the person's appearance? | The belly chain adds an element of boldness and confidence to the person's appearance. |

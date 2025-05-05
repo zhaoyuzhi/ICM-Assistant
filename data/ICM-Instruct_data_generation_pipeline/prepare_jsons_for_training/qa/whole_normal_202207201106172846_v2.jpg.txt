@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman sleeping on a couch? | Yes. |
+| Yes/No | Is the couch modern? | Yes. |
+| Yes/No | Is the woman wearing a yellow sweater? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| What | What is the woman resting her head on? | Her hand. |
+| What | What is the color of the couch? | Gray. |
+| How | How is the woman lying on the couch? | On her side. |
+| What | What atmosphere does the image convey? | Calm and peaceful. |

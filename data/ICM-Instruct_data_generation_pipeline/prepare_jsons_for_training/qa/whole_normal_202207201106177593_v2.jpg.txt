@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image set indoors? | No. |
+| Yes/No | Are the man and woman dressed in formal attire? | Yes. |
+| Yes/No | Is the table made of wood? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| Yes/No | Are the man and woman holding any objects in their hands? | No. |
+| What | What is the woman wearing? | A pink shirt. |
+| What | What is the man wearing? | A suit. |
+| How | How is the table clothed? | With a white tablecloth. |
+| How | How would you describe the exposure level of the image? | Very low. |

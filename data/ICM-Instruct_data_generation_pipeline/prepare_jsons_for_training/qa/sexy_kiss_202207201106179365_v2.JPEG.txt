@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the people in the image kissing? | Yes. |
+| Yes/No | Is the man wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a yellow shirt? | Yes. |
+| Yes/No | Are the people in the image standing close to each other? | Yes. |
+| Yes/No | Does the image evoke a sense of romance and intimacy? | Yes. |
+| What | What color is the man's shirt? | Blue. |
+| What | What color is the woman's shirt? | Yellow. |
+| How | How are the people in the image standing in relation to each other? | They are standing close to each other, with the woman's head tilted back as they kiss. |
+| How | How does the image evoke a sense of romance and intimacy? | The image evokes a sense of romance and intimacy through the close proximity of the two people, the intimate act of kissing, and the contrasting colors of their clothing. |

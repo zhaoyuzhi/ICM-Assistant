@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man and woman in the image standing close to each other? | Yes. |
+| Yes/No | Does the man have his arms wrapped around the woman? | Yes. |
+| Yes/No | Are the woman's eyes closed in the image? | Yes. |
+| Yes/No | Does the image depict a romantic and sensual atmosphere? | Yes. |
+| What | What is the color of the man's shirt in the image? | Yellow. |
+| What | What is the color of the woman's shirt in the image? | White. |
+| How | How are the man and woman positioned in relation to each other in the image? | They are standing close to each other, with the man's arms wrapped around the woman. |
+| How | How does the woman's body language suggest her feelings towards the man in the image? | She is leaning into the kiss and her closed eyes suggest a strong emotional connection and intensity of their embrace. |

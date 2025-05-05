@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra strapless? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra? | Beige. |
+| What | What is the woman doing with her hands? | Adjusting the bra straps. |
+| How | How is the woman feeling while putting on her bra? | Comfortable and confident. |
+| How | How does the image create an atmosphere? | Alluring and attractive. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra strapless? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Are the straps of the bra thin? | Yes. |
+| Yes/No | Is the color of the bra beige? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman doing in the image? | Adjusting her bra to fit her body. |
+| What | What is the color of the bra the woman is wearing? | Beige. |
+| How | How is the woman adjusting the bra? | She is holding the straps of the bra with both hands. |
+| What | What suggests that the woman is comfortable and confident in her appearance? | Her smile and the way she is adjusting the bra. |

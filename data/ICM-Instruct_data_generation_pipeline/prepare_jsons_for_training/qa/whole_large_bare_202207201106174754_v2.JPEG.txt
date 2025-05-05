@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bed made of wood? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Is the woman's expression on her face serious? | Yes. |
+| Yes/No | Does the bikini top and bottom reveal a significant amount of the woman's body? | Yes. |
+| What | What is the color of the bikini top? | Pink and white with a floral pattern. |
+| What | What is the color of the bikini bottom? | Blue and white with a floral pattern. |
+| How | How is the woman posing on the bed? | She is lying down, looking off to the side. |
+| How | How would you describe the overall atmosphere of the image? | Sensual and intimate. |

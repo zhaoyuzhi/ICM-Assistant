@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing navy blue sweatpants? | Yes. |
+| Yes/No | Does the person have a drawstring waist in their sweatpants? | Yes. |
+| Yes/No | Is the person also wearing a navy blue sweatshirt? | Yes. |
+| Yes/No | Is the image taken from a side angle? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| What | What color are the sweatpants? | Navy blue. |
+| What | What is the focus of the image? | The person's lower body. |
+| How | How is the person's waist adjusted in their sweatpants? | With a drawstring. |
+| What | What does the low exposure level of the image suggest about its purpose? | That it is meant to showcase the person's outfit and style rather than their physical appearance. |
+| Yes/No | Is the person in the image wearing navy blue sweatpants? | Yes. |
+| Yes/No | Does the person have a drawstring waist? | Yes. |
+| Yes/No | Is the sweatshirt navy blue? | Yes. |
+| Yes/No | Is the image taken from a side angle? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| What | What color are the sweatpants? | Navy blue. |
+| What | What is the person's attire? | Navy blue sweatpants and sweatshirt. |
+| How | How is the person's waist adjusted? | With a drawstring. |
+| What | What atmosphere does the image suggest? | Relaxed and comfortable. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman sitting on a wooden chair? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the atmosphere of the image confident and alluring? | Yes. |
+| What | What is the woman wearing? | A white dress that reaches down to her knees. |
+| What | What is the woman's pose? | She is sitting on a wooden chair with her legs crossed. |
+| How | How does the woman's smile add to the image? | Her smile adds a friendly and approachable element to the image. |
+| How | How does the wooden chair enhance the overall feel of the image? | The wooden chair adds a natural and casual touch to the scene, further enhancing the overall sexy feel of the image. |

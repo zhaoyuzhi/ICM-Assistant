@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the rose in the image fresh? | Yes. |
+| Yes/No | Is the bed in the image covered with a white sheet? | Yes. |
+| Yes/No | Is the image intimate and sensual? | Yes. |
+| Yes/No | Does the image feature a romantic or romanticized theme? | Yes. |
+| What | What color is the woman's bra in the image? | Blue. |
+| What | What color is the rose in the image? | Pink. |
+| How | How is the woman posed in the image? | She is lying on a bed. |
+| How | How does the image create an atmosphere of intimacy and sensuality? | Through the woman's exposed upper body, the lace bra, and the rose. |

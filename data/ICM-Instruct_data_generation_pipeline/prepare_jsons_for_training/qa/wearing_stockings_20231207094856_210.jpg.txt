@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person in the image putting on brown stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person in the image have a focused gaze on their feet? | Yes. |
+| What | What color is the person's shirt in the image? | Yellow. |
+| What | What is the person in the image putting on? | Brown stockings. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the act of putting on stockings contribute to the overall atmosphere of the image? | It creates a sense of anticipation and intrigue, and can be perceived as sensual and intimate. |
+| Yes/No | Is the person in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Is the skirt plaid? | Yes. |
+| Yes/No | Are they putting on brown stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person looking at their feet? | Yes. |
+| What | What color is the person's shirt? | Yellow. |
+| What | What is the pattern of the skirt? | Plaid. |
+| How | How are the stockings being put on? | The stockings are being pulled up the person's legs and resting on a stack of folded clothes. |
+| What | What is the atmosphere of the image? | The atmosphere is sexy, playful, confident, sensual, intimate, and intriguing. |

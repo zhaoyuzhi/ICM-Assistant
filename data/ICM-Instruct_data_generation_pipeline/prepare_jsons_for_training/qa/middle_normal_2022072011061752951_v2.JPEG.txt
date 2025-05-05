@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Are the jeans slightly ripped? | Yes. |
+| Yes/No | Is the person standing with their back to the camera? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| What | What is the color of the person's top? | Black. |
+| What | What is the condition of the jeans? | Slightly ripped. |
+| How | How is the person standing in the image? | With their back to the camera. |
+| How | How does the low exposure level of the image affect the viewer's attention? | It focuses the viewer's attention on the person's clothing, specifically the jeans and black top. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's back to the camera? | Yes. |
+| Yes/No | Are the jeans ripped at the knees? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| How | Does the image showcase the person's body? | No. |
+| What | What color are the jeans? | Blue. |
+| What | What is the person's top black? | A black top. |
+| How | How are the jeans ripped? | At the knees. |
+| How | How much of the person's body is visible in the image? | A small portion. |

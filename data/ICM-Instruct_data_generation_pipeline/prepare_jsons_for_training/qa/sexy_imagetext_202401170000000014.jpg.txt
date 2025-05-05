@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image kneeling? | Yes. |
+| Yes/No | Is the woman in the image wearing red high heels? | Yes. |
+| Yes/No | Is the woman in the image placing her feet on the man's shoulders? | Yes. |
+| Yes/No | Is the man in the image looking up at the woman? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the image set in a room with a couch and a lamp in the background? | Yes. |
+| What | What is the woman doing in the image? | She is placing her feet on the man's shoulders. |
+| What | What is the man doing in the image? | He is looking up at the woman with a surprised expression. |
+| How | How does the woman's action of placing her feet on the man's shoulders suggest a sense of dominance and control? | It suggests a power dynamic where the woman is in control and the man is submissive. |
+| How | How does the setting in a room with a couch and a lamp create a cozy and private environment? | It creates a sense of intimacy and privacy, suggesting that the couple is alone and comfortable in their own space. |

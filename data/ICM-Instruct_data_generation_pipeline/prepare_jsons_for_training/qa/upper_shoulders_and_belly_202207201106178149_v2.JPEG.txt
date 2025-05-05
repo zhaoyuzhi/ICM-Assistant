@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are her arms crossed over her chest? | Yes. |
+| Yes/No | Is she looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What is the woman wearing on her upper body? | A strapless top. |
+| What | What color is the jacket she is wearing? | Red. |
+| How | How is the woman's pose in the image? | She has her arms crossed over her chest. |
+| What | What does the woman's outfit, including the strapless top and jacket, convey? | Confidence and allure. |

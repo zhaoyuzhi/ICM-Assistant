@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have straps? | No. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Is the necklace made of silver? | Yes. |
+| Yes/No | Does the woman's expression suggest she is deep in thought? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What color is the dress? | Black. |
+| What | What is the woman's pose? | She is looking off to the side, giving the impression that she is deep in thought. |
+| How | How does the contrast between the black dress and silver necklace contribute to the image's overall atmosphere? | It creates a visually striking image that draws attention to her upper body and adds a sense of elegance. |
+| How | How does the woman's expression contribute to the image's overall atmosphere? | Her thoughtful expression adds a layer of intrigue to the scene, contributing to the image's overall allure. |

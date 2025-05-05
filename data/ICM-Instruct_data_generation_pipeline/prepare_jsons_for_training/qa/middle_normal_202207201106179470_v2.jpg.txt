@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of olive green shorts? | Yes. |
+| Yes/No | Does the person have a white drawstring on their shorts? | Yes. |
+| Yes/No | Is there a small white logo on the left leg of the shorts? | Yes. |
+| Yes/No | Is the person wearing a white t-shirt? | Yes. |
+| Yes/No | Does the person have a black watch? | Yes. |
+| Yes/No | Is the background of the image a building with a glass window? | Yes. |
+| What | What is the color of the person's shorts? | Olive green. |
+| What | What is the color of the person's t-shirt? | White. |
+| How | How many logo(s) are on the person's shorts? | One. |
+| What | What is the exposure level of the image? | Low. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a watch? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the image focused on the person's casual attire? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color are the shorts the person is wearing? | Olive green. |
+| What | What is the name of the label on the left leg of the shorts? | JONG STUDIOS. |
+| How | How many items of clothing is the person wearing? | 3 (shorts, tshirt, watch). |
+| What | What is the overall atmosphere of the image? | Calm and nonthreatening. |

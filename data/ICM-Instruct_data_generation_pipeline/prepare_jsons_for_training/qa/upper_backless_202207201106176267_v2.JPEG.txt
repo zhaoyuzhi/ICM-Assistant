@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person's back fully covered in the image? | No. |
+| Yes/No | Does the person have any visible tattoos or scars on their back? | No. |
+| Yes/No | Is the floral hair accessory the dominant feature of the image? | No. |
+| Yes/No | Does the image depict the person engaging in any activity or action? | No. |
+| Yes/No | Is the overall atmosphere of the image playful or casual? | No. |
+| What | What color is the person's shirt? | White and blue striped. |
+| What | What is the person's hair style? | Bun. |
+| How | How is the person's back exposed? | The person's back is exposed due to the large area of their shirt being removed or pulled away. |
+| How | How would you describe the person's expression? | The person's expression is not visible as they are facing away from the camera. |

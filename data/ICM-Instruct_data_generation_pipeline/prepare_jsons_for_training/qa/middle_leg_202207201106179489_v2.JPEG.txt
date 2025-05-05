@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt black? | Yes. |
+| Yes/No | Does the skirt have a slit up the front? | Yes. |
+| Yes/No | Are the person's thighs exposed? | Yes. |
+| Yes/No | Is the person's hair long? | Yes. |
+| Yes/No | Is the person's hair pulled back into a ponytail? | Yes. |
+| What | What is the person's pose in the image? | Standing confidently on the balcony. |
+| What | What is the background of the image? | A railing and trees, suggesting an outdoor setting. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The black skirt with a slit up the front and the person's pose create a sense of allure and sensuality. |
+| How | How does the outdoor setting contribute to the overall atmosphere of the image? | The outdoor setting and the railing in the background provide a sense of openness and freedom, which can be perceived as sexy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the woman in the image wearing a black glove on her left hand? | Yes. |
+| Yes/No | Is the woman's shirt unbuttoned in the image? | Yes. |
+| Yes/No | Does the woman have her left hand on her hip in the image? | Yes. |
+| Yes/No | Does the woman have her right hand on her chest in the image? | Yes. |
+| What | What color is the woman's shirt in the image? | White. |
+| What | What is the woman's pose in the image? | She is posing with her left hand on her hip and her right hand on her chest. |
+| How | How many gloves is the woman wearing in the image? | One. |
+| How | How many hands does the woman have on her body in the image? | Two. |

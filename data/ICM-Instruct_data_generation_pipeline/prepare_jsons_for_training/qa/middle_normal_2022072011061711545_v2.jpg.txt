@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Are the woman's arms relaxed at her sides? | Yes. |
+| Yes/No | Are the woman's legs slightly apart? | Yes. |
+| Yes/No | Is the background of the image a street with a building and a tree? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the woman's stance in the image? | Her legs are slightly apart, and her arms are relaxed at her sides. |
+| What | What is the focus of the image? | The focus of the image is on the woman's outfit and her stance. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level emphasizes the focus on the woman's attire and posture rather than her appearance, creating a nonsexual atmosphere. |
+| How | How does the image convey a non-sexual atmosphere? | The image does not provide any visual cues that suggest a sexual context, and the low exposure level further emphasizes the focus on the woman's attire and posture rather than her appearance. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman holding a black purse in her left hand? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the woman's face clearly visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman wearing on her upper body? | A black top. |
+| What | What is the woman's hair style in the image? | Loose waves. |
+| How | How is the woman holding her purse? | In her left hand. |
+| How | How would you describe the overall atmosphere of the image? | Casual and chic. |

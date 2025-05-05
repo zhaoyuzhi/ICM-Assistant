@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Does the person have a belly button piercing? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and sensuality? | Yes. |
+| Yes/No | Is the person's pose in the image casual and relaxed? | Yes. |
+| What | What is the most prominent feature in the image? | The belly button piercing. |
+| What | What is the overall atmosphere conveyed by the image? | Casual and relaxed. |
+| How | How does the person's attire contribute to the image's sex appeal? | The casual attire, consisting of a white shirt and blue jeans, adds to the overall allure of the image. |
+| How | How does the image showcase the person's body in a vulnerable and intimate manner? | The exposed belly and the belly button piercing showcase the person's body in a vulnerable and intimate manner. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the person have a belly button piercing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-expression? | Yes. |
+| What | What is the main focus of the image? | The belly button piercing. |
+| What | What is the atmosphere created by the person's outfit? | Relaxed and comfortable. |
+| How | How does the person's pose contribute to the image's overall message? | The person's pose suggests confidence and selfexpression. |
+| How | How does the image's use of color contribute to its overall impact? | The use of white and blue creates a visually appealing contrast that draws attention to the person's body and piercing. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing boxing gloves? | Yes. |
+| Yes/No | Is the man in the image standing in a fighting stance? | Yes. |
+| Yes/No | Is the background of the image a boxing ring? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image wearing on his feet? | Shorts. |
+| What | What is the man in the image holding in his hands? | Nothing. |
+| How | How is the man in the image standing? | In a fighting stance with his right leg extended and his left leg bent. |
+| How | How does the image create an atmosphere of intensity and physicality? | The man's fighting stance and the boxing ring in the background create an atmosphere of intensity and physicality. |

@@ -1,0 +1,13 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the umbrella open? | Yes. |
+| Yes/No | Is the woman wearing sunglasses? | Yes. |
+| Yes/No | Does the image depict a sexual context or suggestive behavior? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the woman's attire include a blue shirt? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the woman holding in her right hand? | An open black umbrella. |
+| What | What is the woman wearing on her feet? | The description does not provide information about the woman's footwear, so this question cannot be answered. |
+| How | How is the woman standing in the image? | The description does not provide information about the woman's posture or stance, so this question cannot be answered. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | The low exposure level adds to the tranquil mood of the image, creating a calm and serene atmosphere. |

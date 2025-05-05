@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's clothes wet? | Yes. |
+| Yes/No | Is the person walking away from the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Does the image suggest a romantic or sensual context? | Yes. |
+| What | What is the person in the image wearing? | A white shirt and black pants. |
+| What | What is the texture of the person's clothes? | Wet. |
+| How | How does the person's posture contribute to the image's atmosphere? | The person's vulnerable posture adds to the image's sexy atmosphere. |
+| How | How does the background contribute to the image's atmosphere? | The neutral gray wall allows the viewer to focus on the person and their wet clothes, adding to the image's intrigue and mystery. |

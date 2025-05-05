@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black polo shirt? | Yes. |
+| Yes/No | Does the man have a red stripe on the collar of his shirt? | Yes. |
+| Yes/No | Is there a white logo on the left chest of the man's shirt? | Yes. |
+| Yes/No | Is the man wearing sunglasses? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and non-threatening? | Yes. |
+| What | What is the color of the building in the background of the image? | White. |
+| What | What is the man wearing on his left wrist? | A watch. |
+| How | How is the exposure level of the image? | Very low. |
+| How | How much of the image is visible? | A small portion. |

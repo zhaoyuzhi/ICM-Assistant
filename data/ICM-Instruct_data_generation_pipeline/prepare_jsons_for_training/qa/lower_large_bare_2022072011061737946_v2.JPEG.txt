@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a white fur rug? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person wearing black high heels in the image? | Yes. |
+| Yes/No | Is the person's lower half exposed in the image? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| What | What is the person sitting on in the image? | A white fur rug. |
+| What | What is the color of the person's high heels in the image? | Black. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image make you feel? | The image creates a sense of comfort and vulnerability, with a touch of sophistication and allure. It makes me feel relaxed and intrigued. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a gray shirt? | Yes. |
+| Yes/No | Is the woman resting her head on the man's shoulder? | Yes. |
+| Yes/No | Are the man and woman smiling? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the man and woman? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the slogan associated with the image? | "He broke in. He must have been waiting for a long time". |
+| What | What might the viewer be curious about regarding the story behind the scene? | The nature of the relationship between the man and woman, and the context in which they are hugging. |
+| How | How does the dimly lit room contribute to the atmosphere of the image? | It adds to the sense of intimacy and mystery, making the viewer feel like they are seeing something private and exclusive. |
+| How | How does the image suggest a sense of anticipation and desire? | The slogan implies that the man has been waiting for a long time, and the intimate nature of the hug suggests a strong desire for physical connection. |

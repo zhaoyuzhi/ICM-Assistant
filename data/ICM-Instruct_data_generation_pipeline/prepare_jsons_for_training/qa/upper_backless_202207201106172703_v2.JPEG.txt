@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing any clothing? | No. |
+| Yes/No | Is the person's hair styled in a braided ponytail? | Yes. |
+| Yes/No | Is the person touching their hair? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| What | What is the person in the image touching? | Their hair. |
+| What | What is the style of the person's hair in the image? | Braided ponytail. |
+| How | How is the person's hair styled in the image? | The person's hair is braided into a ponytail and appears to be adjusted or played with by the person. |
+| How | How does the image make the person's back look? | The image emphasizes the person's back, making it appear exposed and vulnerable. |

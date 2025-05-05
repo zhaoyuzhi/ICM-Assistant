@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink coat? | Yes. |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Are the woman's shoes white? | Yes. |
+| Yes/No | Is the woman's dress being lifted? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's coat? | Pink. |
+| What | What is the woman's dress being lifted to reveal? | Her legs. |
+| How | How is the woman's outfit contributing to the overall atmosphere of the image? | The woman's outfit, which includes a pink coat, white dress, and white shoes, adds to the overall allure and sensuality of the image. |
+| How | How is the woman's action of lifting her dress associated with sensuality and allure? | The woman's action of lifting her dress is often associated with sensuality and allure because it can be seen as a seductive gesture that draws attention to her legs and lower body. |

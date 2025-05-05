@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a striped sweatshirt? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is she wearing white sneakers? | Yes. |
+| Yes/No | Is the couch positioned against a gray wall? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's posture relaxed? | Yes. |
+| What | What is the woman wearing on her lower body? | Black pants. |
+| What | What is the color of her sneakers? | White. |
+| How | How is the woman positioned on the couch? | She is sitting with her legs crossed and her arms resting on her knees. |
+| What | What is the overall atmosphere of the image? | Calm and casual. |

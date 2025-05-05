@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the woman in the image standing in a room? | Yes. |
+| Yes/No | Does the image feature a wooden floor? | Yes. |
+| Yes/No | Is there a window visible in the background of the image? | Yes. |
+| Yes/No | Does the image convey a sensual atmosphere? | Yes. |
+| What | What color is the woman's bra? | Brown. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| How | How is the woman posing in the image? | Confidently. |
+| How | How does the woman look at the camera? | Seductively. |

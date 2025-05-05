@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image sitting on a bed? | Yes. |
+| Yes/No | Does the woman in the image have her legs crossed? | Yes. |
+| Yes/No | Is the bed covered with a white comforter? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her upper body? | A pink bikini top. |
+| What | What is the color of the comforter on the bed? | White. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How does the woman's pose on the bed contribute to the overall allure of the image? | Her legs are crossed, adding to the intimacy and sensuality of the image. |

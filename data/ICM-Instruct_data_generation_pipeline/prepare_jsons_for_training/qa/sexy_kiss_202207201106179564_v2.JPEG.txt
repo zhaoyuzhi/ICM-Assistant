@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a brown jacket? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the image set in a park? | Yes. |
+| Yes/No | Are there trees and flowers in the background? | Yes. |
+| Yes/No | Does the image have a romantic and intimate atmosphere? | Yes. |
+| What | What is the man wearing? | A brown jacket. |
+| What | What is the woman wearing? | A white dress. |
+| How | How are the man and woman positioned in the image? | The woman is leaning in to kiss the man, who is looking down at her. |
+| How | How does the contrast between the man's jacket and the woman's dress contribute to the image? | The contrast adds visual interest to the scene and enhances the romantic and intimate mood. |

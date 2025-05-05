@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Are the person's shoulders covered in the image? | No. |
+| Yes/No | Is the swimsuit designed with thin straps? | Yes. |
+| Yes/No | Is the swimsuit a solid color? | No. |
+| Yes/No | Does the image evoke a sense of relaxation and leisure? | Yes. |
+| What | What is the color of the swimsuit? | Blue. |
+| What | What is the person's posture in the image? | Sitting on the edge of the pool, facing away from the camera. |
+| How | How does the swimsuit's design contribute to the overall atmosphere of the image? | The low back and thin straps reveal the person's body shape and curves, adding to the allure and sense of intimacy. |
+| How | How does the setting of the image contribute to the overall atmosphere? | The person sitting on the edge of a swimming pool evokes a sense of leisure and relaxation, which is often associated with attractive and desirable qualities. |

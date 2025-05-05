@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman have a direct gaze? | Yes. |
+| Yes/No | Is the focus of the image on the woman's attire? | Yes. |
+| Yes/No | Does the image contain any inappropriate content? | No. |
+| What | What is the woman wearing in the image? | A black and pink floral dress. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the woman positioned on the chair in the image? | She is sitting with her back straight and her feet planted firmly on the ground. |
+| How | How would you describe the overall atmosphere of the image? | Warm and engaging. |

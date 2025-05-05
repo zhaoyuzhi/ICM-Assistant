@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue denim shirt? | Yes. |
+| Yes/No | Are the man's pants olive green? | Yes. |
+| Yes/No | Is the man's pose in the image relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Are the man's hands visible in the image? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What is the color of the man's shirt? | Blue. |
+| What | What is the color of the man's pants? | Olive green. |
+| How | How is the man standing in the image? | With his hands in his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Casual and nonthreatening. |
+| Yes/No | Is the man in the image wearing a blue denim shirt? | Yes. |
+| Yes/No | Are the man's pants olive green? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| How | Does the image show a small portion of the man's body? | Yes. |
+| Yes/No | Is the man's pose and attire suggestive of a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Does the image evoke a sexy or provocative mood? | No. |
+| What | What is the color of the man's shirt? | Blue. |
+| What | What is the color of the man's pants? | Olive green. |
+| How | How much of the man's body is visible in the image? | A small portion. |
+| How | How would you describe the atmosphere of the image? | Casual and relaxed. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a bra and jeans? | Yes. |
+| Yes/No | Is the person holding a shirt over their head? | Yes. |
+| Yes/No | Is the beach deserted? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the person's clothes casual and comfortable? | Yes. |
+| What | What is the person holding over their head? | A shirt. |
+| What | What is the person wearing? | A white bra and blue jeans. |
+| How | How is the person standing? | The person is standing with their back to the camera. |
+| How | How does the beach setting add to the overall atmosphere of the image? | The beach setting at night adds an element of intimacy and romance to the image. |

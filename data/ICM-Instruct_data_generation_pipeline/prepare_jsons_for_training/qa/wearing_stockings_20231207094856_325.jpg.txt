@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a plaid skirt? | Yes. |
+| Yes/No | Is the woman kneeling on the floor? | Yes. |
+| Yes/No | Is the woman's left leg bent? | Yes. |
+| Yes/No | Is the woman's right hand on her left knee? | Yes. |
+| What | What is the woman doing in the image? | Putting on stockings. |
+| What | What is the woman looking at? | Her feet. |
+| How | How is the woman's right leg positioned? | Extended straight out in front of her. |
+| How | How is the woman's left leg positioned? | Bent at the knee. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a plaid skirt? | Yes. |
+| Yes/No | Is the woman kneeling on the floor? | Yes. |
+| Yes/No | Is the woman's left leg bent? | Yes. |
+| Yes/No | Is the woman's right hand on her left knee? | Yes. |
+| What | What is the woman doing in the image? | Putting on stockings. |
+| What | What is the woman's facial expression? | Focused. |
+| How | How is the woman's right leg positioned? | Extended straight out in front of her. |
+| How | How is the woman's left leg positioned? | Bent, with her foot being pulled up by the stockings. |

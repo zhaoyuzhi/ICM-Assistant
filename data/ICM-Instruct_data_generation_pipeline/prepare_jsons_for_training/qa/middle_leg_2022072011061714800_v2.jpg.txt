@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing denim shorts? | Yes. |
+| Yes/No | Does the person have their hands resting on their hips? | Yes. |
+| Yes/No | Is the top the person is wearing black? | Yes. |
+| Yes/No | Are the shorts high-waisted? | Yes. |
+| How | Does the image showcase the person's body in a confident and relaxed manner? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the person's top? | Black. |
+| What | What is the style of the shorts (e.g. ripped, distressed, high-waisted)? | Highwaisted. |
+| How | How are the shorts fastened (e.g. zipper, buttons, velcro)? | Buttons. |
+| How | How would you describe the person's pose (e.g. relaxed, confident, awkward)? | Confident and relaxed. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing only underwear? | Yes. |
+| Yes/No | Is the underwear gray? | Yes. |
+| Yes/No | Does the underwear have a ribbed texture? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color are the shorts? | Gray. |
+| What | What is the texture of the shorts? | Ribbed. |
+| How | How are the person's legs positioned? | Slightly apart. |
+| How | How are the person's hands positioned? | On their hips. |

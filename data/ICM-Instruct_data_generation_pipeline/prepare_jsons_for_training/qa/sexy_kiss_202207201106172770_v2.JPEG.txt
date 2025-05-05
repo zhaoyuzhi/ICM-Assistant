@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Does the woman have brown hair? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the background dark and blurred? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | A white shirt. |
+| What | What is the woman wearing? | A black shirt. |
+| How | How is the woman's head positioned? | Tilted back. |
+| How | How would you describe the background of the image? | Dark and blurred, suggesting a nighttime setting. |

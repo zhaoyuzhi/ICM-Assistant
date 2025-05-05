@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Are the person's eyes looking upwards and to the left? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the image a close-up of the person's face? | Yes. |
+| Yes/No | Does the image evoke a strong visual response from the viewer? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the facial expression of the person in the image? | Pouting. |
+| What | What is the person in the image looking at? | Upwards and to the left. |
+| How | How are the person's lips positioned in the image? | Slightly parted. |
+| How | How does the image make the viewer feel? | Seductive and captivating. |

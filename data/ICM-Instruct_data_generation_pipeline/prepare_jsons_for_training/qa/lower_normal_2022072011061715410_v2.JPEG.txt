@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of brown pants? | Yes. |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Does the woman in the image have a distinctive pocket on her pants? | Yes. |
+| Yes/No | Are the woman's pants loose-fitting? | Yes. |
+| Yes/No | Is the woman in the image posing in a sexual or provocative manner? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the color of the woman's pants in the image? | Brown. |
+| What | What is the color of the woman's top in the image? | Black. |
+| How | How are the woman's hands positioned in the image? | At her sides. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

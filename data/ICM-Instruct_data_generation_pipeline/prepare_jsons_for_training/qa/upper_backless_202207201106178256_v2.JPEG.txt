@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a colorful top? | Yes. |
+| Yes/No | Is the person's skin visible in the image? | Yes. |
+| Yes/No | Is the person holding a yellow cloth in their hand? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| Yes/No | Is the person's posture in the image suggestive? | Yes. |
+| Yes/No | Does the image feature a large area of the person's back exposed? | Yes. |
+| What | What is the color of the person's top? | Colorful. |
+| What | What is the person holding in their hand? | Yellow cloth. |
+| How | How is the person's posture in the image? | Confident. |
+| How | How does the person's attire, posture, and body language contribute to the overall atmosphere of the image? | They create a seductive and alluring image. |

@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin dressed in white? | Yes. |
+| Yes/No | Does the mannequin have a neutral pose? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the mannequin wearing on its left leg? | A rose design on the left leg of the white shorts. |
+| What | What is the mannequin wearing on its feet? | White shoes. |
+| How | How does the mannequin's attire create contrast? | The white shorts and tshirt create a contrast with the white shoes. |
+| How | How does the neutral pose of the mannequin add to the overall allure of the image? | The neutral pose allows the focus to be on the mannequin's attire and physical appearance, adding to the overall allure of the image. |

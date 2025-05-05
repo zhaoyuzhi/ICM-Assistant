@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a blue skirt? | Yes. |
+| Yes/No | Is the room in the image dimly lit? | Yes. |
+| Yes/No | Does the woman's posture and attire suggest a sense of modesty and elegance? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire and the overall setting of the bedroom provocative or revealing? | No. |
+| What | What is the woman wearing in the image? | A white blouse and a blue skirt. |
+| What | What is the atmosphere of the room in the image? | Calm and serene. |
+| How | How is the woman standing in the image? | With a sense of modesty and elegance. |
+| How | How does the low exposure level contribute to the nature of the image? | It contributes to the modest and respectful nature of the image by avoiding explicit or suggestive content. |

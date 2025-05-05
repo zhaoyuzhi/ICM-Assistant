@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a green dress? | Yes. |
+| Yes/No | Are they wearing gray tights? | Yes. |
+| Yes/No | Are they putting on beige knee-high socks? | Yes. |
+| Yes/No | Are their legs crossed? | Yes. |
+| Yes/No | Are their knees bent? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| What | What color is the person's dress? | Green. |
+| What | What color are the person's tights? | Gray. |
+| How | How are the person's legs positioned? | Crossed and bent. |
+| How | How does the image evoke feelings? | Allure, desire. |
+| Yes/No | Is the person in the image sitting on a chair? | Yes. |
+| Yes/No | Is the person wearing a green dress? | Yes. |
+| Yes/No | Are they wearing gray tights? | Yes. |
+| Yes/No | Is the person putting on beige knee-high socks? | Yes. |
+| Yes/No | Are their legs crossed? | Yes. |
+| Yes/No | Are their knees bent? | Yes. |
+| What | What color is the dress? | Green. |
+| What | What color are the tights? | Gray. |
+| How | How are the person's legs positioned? | Crossed and bent. |
+| What | What atmosphere does the image convey? | Intimate, personal, and sexy. |

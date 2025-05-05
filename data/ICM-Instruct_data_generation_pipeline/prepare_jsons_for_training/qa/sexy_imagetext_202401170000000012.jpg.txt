@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding the man's face? | Yes. |
+| Yes/No | Is the man in the image enjoying the woman's touch? | Yes. |
+| Yes/No | Is the woman wearing a red shirt with the word "Victor" on it? | Yes. |
+| Yes/No | Is the man wearing a black bow tie? | Yes. |
+| Yes/No | Is the background of the image a green wall with a silver balloon and a picture hanging on it? | Yes. |
+| Yes/No | Does the image evoke a sense of romance and intimacy? | Yes. |
+| What | What is the woman wearing in the image? | A red shirt with the word "Victor" on it. |
+| What | What is the man wearing in the image? | A black bow tie. |
+| How | How is the woman holding the man's face in her hands? | Gently, with her fingers cupped around his face. |
+| How | How does the image suggest a level of intimacy and closeness between the two individuals? | Through the woman's actions of holding the man's face and the man's apparent enjoyment. |

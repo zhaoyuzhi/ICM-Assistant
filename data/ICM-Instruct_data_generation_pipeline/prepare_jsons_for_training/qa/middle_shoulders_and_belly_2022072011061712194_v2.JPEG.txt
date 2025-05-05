@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a tattoo? | Yes. |
+| Yes/No | Is the tattoo on the person's lower abdomen? | Yes. |
+| Yes/No | Does the tattoo depict a ladybug? | Yes. |
+| Yes/No | Are the person's blue jeans torn at the knees? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the tattoo draw attention to the person's body art? | Yes. |
+| What | What is the design of the tattoo? | A small, intricate ladybug with a red body and black spots. |
+| What | What is the color of the person's blue jeans? | Blue. |
+| How | How does the tattoo contribute to the overall atmosphere of the image? | It adds a bold and confident element, reflecting the person's personal style and selfexpression. |
+| How | How does the torn knees of the blue jeans contribute to the overall atmosphere of the image? | They add a casual and laidback element, suggesting a sense of individuality and nonconformity. |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Does the person have a belly button piercing? | Yes. |
+| Yes/No | Is the belly button piercing a small, circular design? | Yes. |
+| Yes/No | Is the belly button ring larger and more elaborate? | Yes. |
+| Yes/No | Does the belly button ring feature a beetle design? | Yes. |
+| What | What is the person's belly button piercing design? | Small, circular. |
+| What | What is the design on the belly button ring? | Beetle. |
+| How | How does the person's exposed belly contribute to the image's sexiness? | It showcases their body and personal style in a confident and bold way. |
+| How | How does the beetle design on the belly button ring add to the image's overall style? | It adds an artistic and edgy element to the person's look. |

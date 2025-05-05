@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the woman holding a bouquet of flowers? | Yes. |
+| Yes/No | Is the image set in a garden? | Yes. |
+| Yes/No | Are there trees and flowers surrounding the woman? | Yes. |
+| Yes/No | Is the image overall sexy? | Yes. |
+| What | What is the woman holding in her hand? | A bouquet of flowers. |
+| What | What is the dominant color of the woman's dress? | White. |
+| How | How does the woman's attire reveal her confidence? | The plunging neckline and exposed back showcase her confidence in her appearance. |
+| How | How does the garden setting contribute to the overall atmosphere of the image? | The natural beauty and tranquility of the garden create an intimate and romantic atmosphere, which complements the woman's sexy attire and overall demeanor. |

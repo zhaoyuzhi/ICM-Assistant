@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman's finger in her mouth? | Yes. |
+| Yes/No | Does the woman have blue eyes? | Yes. |
+| Yes/No | Is the woman wearing pink lipstick? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What color is the woman's lipstick? | Pink. |
+| How | How is the woman's gaze directed? | Straight at the camera. |
+| How | How does the image create a sense of connection and intensity? | Through the woman's direct gaze and serious expression. |

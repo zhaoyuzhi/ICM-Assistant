@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless black dress? | Yes. |
+| Yes/No | Are her shoulders and upper back exposed in the image? | Yes. |
+| Yes/No | Is her hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the lighting in the image soft and diffused? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive or alluring? | Yes. |
+| Yes/No | Does the image have an intimate and alluring atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A strapless black dress. |
+| What | What is the woman's hairstyle in the image? | A ponytail. |
+| How | How is the woman posing in the image? | She is posing with her profile visible, looking off to the side. |
+| How | How does the lighting in the image enhance the overall atmosphere? | The soft and diffused lighting adds an intimate and alluring quality to the image. |

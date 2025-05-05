@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are the woman's pants black? | Yes. |
+| Yes/No | Is the woman's outfit strapless? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's hair blowing in the wind? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's shirt? | Pink. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How does the woman's outfit expose her midriff? | The outfit is strapless. |
+| How | How does the wind blowing the woman's hair add to the image's atmosphere? | It adds a dynamic element and draws attention to her body. |

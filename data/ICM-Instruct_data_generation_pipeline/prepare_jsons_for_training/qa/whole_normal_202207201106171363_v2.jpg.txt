@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress green? | Yes. |
+| Yes/No | Does the woman have a belt around her waist? | Yes. |
+| Yes/No | Is the woman's pose neutral? | Yes. |
+| Yes/No | Is she looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What color is the woman's dress? | Green. |
+| What | What is the woman holding in her hand? | A small clutch purse. |
+| How | How is the woman's pose? | Neutral. |
+| How | How does the glass door behind the woman add depth to the image? | It is reflective. |

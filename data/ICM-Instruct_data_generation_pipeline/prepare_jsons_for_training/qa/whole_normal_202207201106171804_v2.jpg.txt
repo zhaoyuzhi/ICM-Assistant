@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the man in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the image brightly lit? | No. |
+| Yes/No | Are the subjects standing on a rocky beach? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the image focus on the physical appearance of the individuals? | No. |
+| What | What is the woman wearing in the image? | Blue and gold outfit. |
+| What | What is the man wearing in the image? | Black and gold outfit. |
+| How | How are the subjects standing on the rocky beach? | They are standing with their feet on the rocks, with the ocean visible in the background. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It emphasizes the focus on the cultural elements and the environment, rather than on the subjects' physical features. |

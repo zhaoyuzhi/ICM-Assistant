@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Does the woman have any visible tattoos or piercings? | No. |
+| Yes/No | Is the woman wearing any jewelry? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman's mouth open? | No. |
+| Yes/No | Are the woman's eyes open? | No. |
+| What | What is the woman's facial expression in the image? | Seductive. |
+| What | What color is the woman's hair in the image? | Brown. |
+| How | How is the woman's hair styled in the image? | Long and flowing. |
+| How | How is the woman's body positioned in the image? | Kneeling or sitting with her legs folded under her. |

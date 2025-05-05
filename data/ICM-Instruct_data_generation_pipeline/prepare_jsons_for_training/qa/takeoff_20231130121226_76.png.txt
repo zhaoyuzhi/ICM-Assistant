@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Is the woman looking at the camera? | Yes. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Is the image set indoors? | Yes. |
+| Yes/No | Is the woman wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| What | What color is the woman's shirt? | Blue. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How does the woman's pose contribute to the image's overall atmosphere? | Confident and seductive. |
+| How | How does the contrast between the blue shirt and black skirt enhance the image's appeal? | Draws attention to her body, creating a sexy atmosphere. |

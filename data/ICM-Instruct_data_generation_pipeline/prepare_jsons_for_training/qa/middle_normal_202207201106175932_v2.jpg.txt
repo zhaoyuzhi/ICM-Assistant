@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of light blue sweatpants? | Yes. |
+| Yes/No | Does the person have a hood on their sweatpants? | Yes. |
+| Yes/No | Is the zipper on the front of the sweatpants? | Yes. |
+| Yes/No | Are the sweatpants the main focus of the image? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What color are the sweatpants? | Light blue. |
+| What | What is the person holding open? | Their sweatpants. |
+| How | How are the sweatpants being held open? | The person is holding them open. |
+| What | What is the focus of the image? | The person's clothing, specifically their sweatpants. |
+| Yes/No | Is the person in the image wearing a pair of light blue sweatpants? | Yes. |
+| Yes/No | Does the person have a hood on their sweatpants? | Yes. |
+| Yes/No | Is there a zipper running down the front of the sweatpants? | Yes. |
+| Yes/No | Are the sweatpants the main focus of the image? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color are the sweatpants? | Light blue. |
+| What | What is the person holding open? | The sweatpants. |
+| How | How are the sweatpants being held open? | The person is holding them open. |
+| What | What is the atmosphere of the image? | Casual and neutral. |

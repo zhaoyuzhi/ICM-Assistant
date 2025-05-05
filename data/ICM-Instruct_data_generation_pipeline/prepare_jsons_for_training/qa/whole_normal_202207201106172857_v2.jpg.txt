@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants blue? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the person standing in a doorway? | Yes. |
+| Yes/No | Is the person indoors? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What color is the person's shirt? | White. |
+| What | What is the person's gender? | Not determinable from the description. |
+| How | How is the person standing in the doorway? | Not specified in the description. |
+| What | What is the atmosphere of the image? | Calm and ordinary. |

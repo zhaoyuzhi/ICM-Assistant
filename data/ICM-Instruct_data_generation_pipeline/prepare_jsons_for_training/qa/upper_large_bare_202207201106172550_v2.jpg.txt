@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a body of water? | Yes. |
+| Yes/No | Are palm trees visible in the background of the image? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the bikini top the woman is wearing black and white striped? | Yes. |
+| What | What color is the hat the woman is wearing? | Brown. |
+| What | What is the overall atmosphere of the image? | Sexy. |
+| How | How is the woman posing in the image? | Confidently. |
+| How | How does the image evoke a sense of leisure and vacation? | The background of palm trees and body of water creates a relaxed and carefree atmosphere. |

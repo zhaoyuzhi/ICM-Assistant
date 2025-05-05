@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Does the skirt have a zipper? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the purse black? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | No. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What color is the skirt? | Brown. |
+| What | What is the woman carrying in her hand? | A black purse. |
+| How | How does the white blouse complement the brown skirt? | It provides a clean, classic base that allows the skirt to stand out. |
+| How | How does the black purse add a touch of modernity to the woman's outfit? | It adds a practical and stylish accessory that complements the overall look. |

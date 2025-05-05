@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the man's pose suggestive of confidence and self-assurance? | Yes. |
+| Yes/No | Are the man's pants formal or casual? | Casual. |
+| Yes/No | Does the image contain any bright or bold colors? | No. |
+| Yes/No | Is the atmosphere of the image relaxed and intimate? | Yes. |
+| What | What is the man's facial expression in the image? | Not specified in the description. |
+| What | What is the color of the man's pants? | Gray. |
+| How | How is the man's pose in the image? | He is leaning against a wooden wall with his hands on his hips. |
+| How | How does the wooden wall complement the man's skin tone? | It provides a natural and rustic backdrop that complements the man's skin tone. |

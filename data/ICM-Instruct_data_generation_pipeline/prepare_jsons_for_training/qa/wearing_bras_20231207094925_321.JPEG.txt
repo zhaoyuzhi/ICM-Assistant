@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Does the bra have a lace trim? | Yes. |
+| Yes/No | Is the woman standing in a room with a white background? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the woman's expression focused? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What is the color of the bra? | White. |
+| How | How is the woman holding the bra? | With both hands, adjusting it to fit her body. |
+| How | How does the white bra contribute to the overall atmosphere of the image? | It adds a sense of allure and sophistication to the image. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Does the bra have a lace trim? | Yes. |
+| Yes/No | Is there a bow on the back of the bra? | Yes. |
+| Yes/No | Is the woman standing in a room with a white background? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What is the color of the bra? | White. |
+| How | How is the woman holding the bra? | With both hands, adjusting it to fit her body. |
+| How | How does the white bra, lace trim, and bow contribute to the overall atmosphere of the image? | They create a clean, minimalist, and intimate atmosphere, and also add a sense of allure and sophistication. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow dress? | Yes. |
+| Yes/No | Are the socks being rolled up and placed on the person's feet? | Yes. |
+| Yes/No | Is the person in the image putting on socks? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the person in the image wearing any other clothing items besides the yellow dress and socks? | No. |
+| What | What color is the dress worn by the person in the image? | Yellow. |
+| What | What is the person in the image doing? | Putting on socks. |
+| How | How are the socks being rolled up and placed on the person's feet? | The socks are being rolled up and placed on the person's feet in a gentle and careful manner. |
+| How | How does the image capture the moment of the person putting on socks? | The image captures the moment of the person putting on socks by showing the person's hands as they roll up the socks and place them on their feet. The image also shows the person's face, which conveys a sense of concentration and intimacy. |
+| Yes/No | Is the person in the image wearing a yellow dress? | Yes. |
+| Yes/No | Are the socks being rolled up and placed on the person's feet? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the person putting on the socks? | Yes. |
+| Yes/No | Does the image include a private and personal act? | Yes. |
+| What | What color is the dress worn by the person in the image? | Yellow. |
+| What | What is the person in the image doing? | Putting on white kneehigh socks. |
+| How | How are the socks being rolled up? | They are being rolled up and placed on the person's feet. |
+| What | What atmosphere does the image create? | An atmosphere of sensuality and allure. |

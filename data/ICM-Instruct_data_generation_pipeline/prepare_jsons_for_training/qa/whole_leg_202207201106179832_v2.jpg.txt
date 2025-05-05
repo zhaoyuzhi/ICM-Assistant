@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a black and white checkered sweater? | Yes. |
+| Yes/No | Does the sweater have a cropped waist? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| What | What is the color of the woman's boots? | Black. |
+| What | What is the woman carrying in her hand? | A black purse. |
+| How | How is the woman posing in the image? | She is leaning slightly to the side. |
+| What | What is the atmosphere created by the woman's outfit and pose? | Seductive. |

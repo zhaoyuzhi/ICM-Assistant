@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the man in the image hugging the woman? | Yes. |
+| Yes/No | Is the image set in a bathtub? | Yes. |
+| Yes/No | Does the advertisement suggest that the woman's aunt tasted the product and lost control? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image imply a level of intimacy and sensuality between the man and woman? | Yes. |
+| What | What is the woman wearing in the image? | A white dress. |
+| What | What is the suggestive nature of the advertisement? | The advertisement suggests that the woman's aunt tasted the product and lost control, implying a level of intimacy and sensuality. |
+| How | How is the atmosphere of the image? | The atmosphere of the image is seductive and provocative. |
+| How | How does the close proximity of the man and woman contribute to the image's allure? | The close proximity of the man and woman in the bathtub emphasizes their intimacy and sensuality, adding to the overall allure of the image. |

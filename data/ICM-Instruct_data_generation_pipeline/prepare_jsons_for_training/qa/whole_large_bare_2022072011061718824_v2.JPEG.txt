@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top white? | Yes. |
+| Yes/No | Does the bikini bottom have a tie at the side? | Yes. |
+| Yes/No | Is the woman posing with her hand on her hip? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Are there trees and bushes in the background? | Yes. |
+| What | What color is the bikini bottom? | Blue. |
+| What | What is the woman's pose in the image? | She is posing with her hand on her hip and her head tilted to the side. |
+| How | How many objects are in the background? | 3 (trees, bushes, and grassy hillside). |

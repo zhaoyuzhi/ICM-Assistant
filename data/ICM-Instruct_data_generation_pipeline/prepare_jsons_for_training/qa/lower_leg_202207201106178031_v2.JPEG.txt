@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing sneakers? | Yes. |
+| Yes/No | Is the person in the image standing against a white background? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color are the person's shorts? | Olive green. |
+| What | What is the focal point of the image? | The person's legs and thighs. |
+| How | How are the person's arms positioned? | Relaxed at their sides. |
+| How | How does the white background enhance the visibility of the person's attire and body? | It creates a clean and minimalist backdrop that draws the viewer's attention to the person's attire and body. |

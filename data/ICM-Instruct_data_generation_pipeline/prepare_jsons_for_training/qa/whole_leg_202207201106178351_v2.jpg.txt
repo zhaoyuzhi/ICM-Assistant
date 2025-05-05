@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing gray shorts? | Yes. |
+| Yes/No | Is the woman in the image standing on one leg? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image convey a sense of movement? | Yes. |
+| What | What is the woman in the image wearing on her feet? | Gray sneakers. |
+| What | What is the color of the woman's t-shirt? | White. |
+| How | How is the woman standing in the image? | With her left leg extended behind her and her right leg bent at the knee. |
+| How | How does the image convey a sense of allure? | Through the woman's pose and the exposure of her thighs. |

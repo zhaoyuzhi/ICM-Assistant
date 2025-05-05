@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Does the person in the image have a large area of their body exposed? | Yes. |
+| Yes/No | Are the person's curls loose? | Yes. |
+| Yes/No | Is the bikini top red and white? | Yes. |
+| Yes/No | Is the skirt red and white? | Yes. |
+| What | What is the color of the bikini top? | Red and white. |
+| What | What is the color of the skirt? | Red and white. |
+| How | How is the person's hair styled? | Loose curls. |
+| How | How does the person's pose and attire suggest confidence and allure? | The person's legs are crossed, adding to the overall allure of the image, and their attire, a bikini top and skirt, reveals a large area of their body, which is typically associated with sensuality and allure. |

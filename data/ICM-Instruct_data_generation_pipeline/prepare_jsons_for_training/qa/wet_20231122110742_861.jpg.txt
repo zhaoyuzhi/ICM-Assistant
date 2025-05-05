@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the person leaning against a rock? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Are the person's eyes closed? | Yes. |
+| Yes/No | Does the image suggest that the person has been in the water for some time? | Yes. |
+| What | What is the person wearing? | A white shirt and a white dress shirt. |
+| What | What is the overall atmosphere of the image? | Intimate, sensual, and alluring. |
+| How | How are the person's clothes soaked? | They have been in the water for some time. |
+| How | How does the image capture a moment of vulnerability and sensuality? | Through the person's closed eyes, wet clothes, and intimate setting. |

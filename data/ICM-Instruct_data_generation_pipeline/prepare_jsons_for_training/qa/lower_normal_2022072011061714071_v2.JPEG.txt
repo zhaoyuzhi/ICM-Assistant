@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Is the woman in the image posing suggestively? | No. |
+| Yes/No | Is the image inappropriate or provocative? | No. |
+| Yes/No | Is the focus of the image on the woman's attire? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| What | What is the woman in the image wearing? | A long skirt and a white blouse. |
+| What | What is the woman in the image posing with? | Her hands on her hips. |
+| How | How is the woman in the image standing? | She is standing with her feet shoulderwidth apart. |
+| How | How is the woman's head tilted in the image? | Her head is tilted slightly to the side. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman's facial expression cheerful and confident? | Yes. |
+| Yes/No | Is the woman wearing pink lipstick? | Yes. |
+| Yes/No | Does the image create an atmosphere of allure and confidence? | Yes. |
+| Yes/No | Is the woman's hair dark? | Yes. |
+| Yes/No | Does the pink lipstick add a touch of color and femininity to the woman's appearance? | Yes. |
+| What | What is the woman's facial expression in the image? | Cheerful and confident. |
+| What | What color is the woman's lipstick in the image? | Pink. |
+| How | How does the woman's playful and confident expression combined with her flirtatious tongue sticking out create an atmosphere? | It creates an atmosphere of allure and confidence. |
+| How | How does the pink lipstick and dark hair combine to create a visually appealing image? | The pink lipstick and dark hair provide a contrast that creates a visually appealing and seductive image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a shirt or top? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman's hair visible in the image? | No. |
+| Yes/No | Does the image contain any text or logos? | No. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image depict the woman engaging in any activity or is she just posing? | No. |
+| What | What color are the woman's jeans? | Blue. |
+| What | What type of jewelry is the woman wearing in her belly button? | A belly button ring. |
+| How | How would you describe the woman's pose in the image? | Confident and selfassured. |
+| How | How would you describe the atmosphere of the image? | Bold and unapologetic. |
+| Yes/No | Is the woman in the image wearing a shirt or top? | No. |
+| Yes/No | Are the woman's pants ripped or distressed? | No. |
+| Yes/No | Is the woman's belly button pierced? | Yes. |
+| Yes/No | Is the woman's hair visible in the image? | No. |
+| Yes/No | Is the woman's face visible in the image? | Yes. |
+| Yes/No | Is the woman's pose suggestive or provocative? | Yes. |
+| What | What color are the woman's pants? | Blue. |
+| What | What is the location of the woman's belly button? | Center of her belly. |
+| How | How are the woman's hands positioned in the image? | Casually tucked into her pockets. |
+| How | How would you describe the overall atmosphere of the image? | Sexy and alluring. |

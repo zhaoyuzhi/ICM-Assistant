@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the man and woman in the image wearing matching tank tops? | No. |
+| Yes/No | Is the woman's hand resting on the man's chest? | Yes. |
+| Yes/No | Are the couple lying on a bed? | No. |
+| Yes/No | Is the atmosphere of the image intimate and romantic? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the man's tank top? | Black. |
+| What | What is the color of the woman's tank top? | White. |
+| How | How is the woman's hand resting on the man's chest? | Gently. |
+| How | How are the couple positioned on the couch? | They are lying down, with the woman's head resting on the man's chest. |

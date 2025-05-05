@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman sitting on a yellow chair? | Yes. |
+| Yes/No | Is the woman wearing a blue off-the-shoulder top? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is she looking off to the side? | Yes. |
+| Yes/No | Does the chair have a curved backrest? | Yes. |
+| Yes/No | Is the background light blue? | Yes. |
+| What | What color is the woman's top? | Blue. |
+| What | What color are the woman's sneakers? | White. |
+| How | How is the woman's top strapless? | It is offtheshoulder. |
+| How | How does the woman's crossed legs and looking off to the side contribute to the image's atmosphere? | It creates a sense of intrigue and allure. |

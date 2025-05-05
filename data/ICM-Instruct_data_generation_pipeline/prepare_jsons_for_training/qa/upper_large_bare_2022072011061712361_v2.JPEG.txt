@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top black? | Yes. |
+| Yes/No | Does the bikini bottom have a colorful pattern? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the color of the bikini bottom? | Blue. |
+| What | What is the material of the bikini top? | Colorful pattern. |
+| How | How is the woman's hair styled in the image? | Blowing in the wind. |
+| How | How does the image make you feel? | Alluring and inviting. |

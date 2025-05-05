@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Does the skirt have a pleated design? | Yes. |
+| Yes/No | Is the woman's sweater white? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the woman's skirt? | Brown. |
+| What | What is the woman holding in her left hand? | A black purse. |
+| How | How does the skirt's design contribute to the sexy atmosphere of the image? | The pleated design of the skirt adds a touch of elegance and sophistication, which contributes to the overall sexy atmosphere of the image. |
+| How | How does the woman's pose enhance the sexy vibe of the image? | The woman's pose, with her left hand on her hip and her right hand holding a purse, creates a sense of confidence and poise that enhances the sexy vibe of the image. |

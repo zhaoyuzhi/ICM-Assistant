@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the wall behind them white? | Yes. |
+| Yes/No | Is the floor wooden? | Yes. |
+| Yes/No | Is the person's head turned to the side? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What color is the person's shirt? | Gray. |
+| What | What is the person's body language? | The person is standing with their body facing the camera, but their head is turned to the side. |
+| How | How is the person standing? | They are standing on a wooden floor. |
+| How | How does the image convey intimacy and vulnerability? | The person is naked from the waist down, and the simplicity and minimalism of the scene, with the person standing in front of a white wall, creates an atmosphere of intimacy and vulnerability. |

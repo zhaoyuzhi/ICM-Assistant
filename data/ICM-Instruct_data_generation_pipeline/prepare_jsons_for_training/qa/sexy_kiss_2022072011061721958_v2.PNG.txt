@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Is the man's hand on the woman's face? | Yes. |
+| Yes/No | Are the man and woman smiling? | Yes. |
+| What | What is the color of the man's shirt? | White. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How is the woman's head tilted? | To the side. |
+| How | How are the man and woman standing in relation to each other? | Close together. |

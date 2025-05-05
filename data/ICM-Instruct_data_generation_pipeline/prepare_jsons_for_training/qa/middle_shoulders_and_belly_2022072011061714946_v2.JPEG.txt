@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are leggings worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman in a workout or exercise setting? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and empowerment? | Yes. |
+| What | What is the woman wearing in the image? | A sports bra and leggings. |
+| What | What does the woman's attire suggest about her? | That she is dedicated to maintaining her fitness and wellbeing. |
+| How | How does the image showcase the woman's athletic physique? | By featuring her exposed belly and athletic attire. |
+| How | How does the image convey a sense of confidence and empowerment? | By highlighting the woman's strength and determination in pursuing her fitness goals. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are leggings worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| Yes/No | Is the woman in a fitness or exercise setting? | Yes. |
+| Yes/No | Does the image convey a sense of empowerment and self-assuredness? | Yes. |
+| What | What is the woman wearing in the image? | A sports bra and leggings. |
+| What | What does the woman's attire and exposed belly suggest about her? | That she is dedicated to fitness and wellness and feels confident and vulnerable. |
+| How | How does the image convey a sense of empowerment and self-assuredness? | Through the woman's athletic body, her commitment to fitness and wellness, and her confidence in exposing her belly. |
+| How | How does the image suggest the woman is feeling? | The image suggests the woman is feeling confident, vulnerable, and empowered. |

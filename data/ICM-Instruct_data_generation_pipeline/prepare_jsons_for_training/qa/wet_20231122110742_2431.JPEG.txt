@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white rain jacket? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the red and yellow logo on the jacket a pop of color? | Yes. |
+| Yes/No | Is the person's body form visible through the clinging clothes? | Yes. |
+| What | What color is the rain jacket? | White. |
+| What | What is the logo on the left chest of the rain jacket? | Red and yellow. |
+| How | How is the atmosphere of the image described? | Sensual and alluring. |
+| How | How do the clothes cling to the person's body? | Revealing their form. |

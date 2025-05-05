@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink skirt? | Yes. |
+| Yes/No | Are white tights visible in the image? | Yes. |
+| Yes/No | Is the woman standing in a room with a white floor? | Yes. |
+| Yes/No | Is the woman facing the camera? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A pink skirt and white tights. |
+| What | What is the color of the floor and wall in the background of the image? | White. |
+| How | How is the woman posing in the image? | She is standing and posing for the photo. |
+| How | How does the background of the image contribute to the overall atmosphere of the image? | The white floor and wall help to highlight the woman and her attire, making her the focal point of the image and contributing to the sensual atmosphere. |

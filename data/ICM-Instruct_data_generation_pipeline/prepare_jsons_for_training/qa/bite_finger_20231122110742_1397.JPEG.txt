@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | No. |
+| Yes/No | Is the person in the image wearing any clothing? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Does the image contain any explicit sexual content? | No. |
+| Yes/No | Is the person in the image standing or sitting? | Sitting. |
+| What | What is the person in the image holding in their mouth? | Their finger. |
+| What | What is the person in the image's hair color? | Dark. |
+| How | How is the person's gesture in the image associated with sensuality and allure? | The gesture of holding their finger in their mouth is a common one associated with sensuality and allure. |
+| How | How does the close-up shot of the person's face contribute to the overall atmosphere of the image? | The closeup shot creates an intimate and suggestive atmosphere, emphasizing the person's sensuality and allure. |

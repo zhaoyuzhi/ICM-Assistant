@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants beige? | Yes. |
+| Yes/No | Is the person's pose casual? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire neutral? | Yes. |
+| Yes/No | Does the low exposure level of the image contribute to a non-sexual atmosphere? | Yes. |
+| What | What is the person's pose in the image? | The person is standing with their hands in their pockets. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is casual and relaxed. |
+| How | How does the person's attire contribute to the non-sexual atmosphere of the image? | The person's attire is neutral and does not evoke any sexual feelings. |
+| How | How does the low exposure level of the image contribute to the non-sexual atmosphere? | The low exposure level of the image only shows a small portion of the person's body, which further emphasizes the casual and nonsexual nature of the image. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants beige? | Yes. |
+| Yes/No | Is the person's posture relaxed? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire modest? | Yes. |
+| What | What is the person's attire in the image? | White shirt and beige pants. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It emphasizes the casual and relaxed nature of the scene. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | It suggests a modest and simple style, which further contributes to the casual and relaxed atmosphere. |

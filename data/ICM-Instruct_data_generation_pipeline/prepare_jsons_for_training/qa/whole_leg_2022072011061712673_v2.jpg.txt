@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a t-shirt? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Is the woman wearing a belt? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Does the mirror reflect the woman's image? | Yes. |
+| What | What color are the woman's shorts? | Olive green. |
+| What | What color is the woman's t-shirt? | White. |
+| How | How does the woman's outfit contribute to the sexy atmosphere of the image? | The woman's outfit, particularly her shorts, exposes her thighs, adding a sense of allure and confidence to her appearance. The combination of the olive green shorts and white tshirt creates a contrast that draws attention to her legs, further enhancing the sexy atmosphere of the image. |
+| How | How does the mirror's reflection add an interesting visual element to the image? | The mirror's reflection adds an interesting visual element, making the viewer feel as if they are looking at the woman from multiple angles. |

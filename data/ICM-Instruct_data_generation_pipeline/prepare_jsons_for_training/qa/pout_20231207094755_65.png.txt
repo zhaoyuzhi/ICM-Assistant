@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a hat? | Yes. |
+| Yes/No | Does the person in the image have long hair? | Yes. |
+| Yes/No | Is the person in the image making a pouting or kissing face? | Yes. |
+| Yes/No | Are the person's eyes closed in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the person in the image have a confident expression? | Yes. |
+| What | What is the color of the person's hat in the image? | Red. |
+| What | What is the person's facial expression in the image? | Pouting or kissing face. |
+| How | How are the person's lips positioned in the image? | Slightly parted. |
+| How | How can the overall atmosphere of the image be described? | Alluring and seductive. |

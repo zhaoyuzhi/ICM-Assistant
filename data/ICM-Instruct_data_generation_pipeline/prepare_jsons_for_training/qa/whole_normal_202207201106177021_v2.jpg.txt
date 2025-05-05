@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman posing for the photo? | Yes. |
+| Yes/No | Are the leaves on the tree green? | No. |
+| Yes/No | Is the woman's attire revealing or suggestive? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the woman wearing? | A black and white dress. |
+| What | What is the color of the leaves on the tree? | Orange. |
+| How | How is the woman posing for the photo? | She is standing in front of the tree and appears to be posing for the photo. |
+| How | How would you describe the exposure level of the image? | Very low. |

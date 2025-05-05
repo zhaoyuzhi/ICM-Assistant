@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the woman have a floral pattern on her blouse? | Yes. |
+| Yes/No | Is the woman holding up her hands in a gesture of surprise or excitement? | Yes. |
+| Yes/No | Are there two pairs of shoes in front of the woman on the couch? | Yes. |
+| Yes/No | Is one pair of shoes black and the other pink? | Yes. |
+| Yes/No | Does the image have a low exposure level, focusing on the woman's actions and the shoes rather than her appearance? | Yes. |
+| What | What is the woman's gesture suggestive of? | Surprise or excitement. |
+| What | What is the overall atmosphere of the image? | Neutral and nonsexual. |
+| How | How many pairs of shoes are in front of the woman on the couch? | Two. |
+| How | How does the woman's gesture of surprise or excitement, combined with the low exposure level, contribute to the overall atmosphere of the image? | It creates a more neutral and nonsexual atmosphere than if the image were more focused on the woman's appearance. |
+| Yes/No | Is the image sexually explicit? | No. |
+| How | Does the image show any nudity? | No. |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Does the blouse have a floral pattern? | Yes. |
+| Yes/No | Is the woman holding a black sandal? | Yes. |
+| Yes/No | Is the woman holding a pink high heel? | Yes. |
+| What | What is the primary color of the woman's blouse? | White. |
+| What | What is the color of the woman's pink high heel? | Pink. |
+| How | How does the woman hold the shoes? | Casually, with one hand resting on her lap and the other hand holding the shoes. |
+| What | What is the overall atmosphere of the image? | Mildly sexy. |

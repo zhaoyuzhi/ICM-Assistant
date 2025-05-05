@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman standing against a white background? | Yes. |
+| Yes/No | Is the woman wearing a light blue blouse with a collar? | Yes. |
+| Yes/No | Is the woman wearing a dark blue denim skirt? | Yes. |
+| Yes/No | Does the skirt have a frayed hem? | Yes. |
+| Yes/No | Is the woman holding a small purse in her left hand? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What color is the woman's blouse? | Light blue. |
+| What | What is the woman holding in her left hand? | A small purse. |
+| How | How is the woman's skirt styled? | Highwaisted with a frayed hem. |
+| How | How does the woman carry herself in the image? | Confidently and alluringly. |

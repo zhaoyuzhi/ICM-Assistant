@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the skirt made of a shiny fabric? | No. |
+| Yes/No | Are there any bright colors in the image? | No. |
+| Yes/No | Does the person have any visible tattoos or piercings? | No. |
+| Yes/No | Is the atmosphere of the image energetic or busy? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the color of the skirt? | Light brown. |
+| What | What type of footwear is the person wearing? | Sandals. |
+| How | How long is the skirt? | Down to the ankles. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

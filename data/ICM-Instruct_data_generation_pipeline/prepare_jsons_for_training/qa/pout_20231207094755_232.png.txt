@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman pouting in the image? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards? | Yes. |
+| Yes/No | Does the woman have a playful facial expression? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| How | How is the woman's hair styled? | Long and flowing. |
+| How | How would you describe the woman's demeanor in the image? | Confident and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white strapless dress? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman standing in front of a building with columns? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What is the woman biting her lip? | Herself. |
+| How | How does the woman's serious expression and biting her lip create an atmosphere? | It creates an intense and alluring atmosphere. |
+| How | How does the white strapless dress add to the sexy vibe? | It is often associated with sensuality and elegance. |

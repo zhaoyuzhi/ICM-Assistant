@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a school uniform? | Yes. |
+| Yes/No | Is the person standing with their legs apart? | Yes. |
+| Yes/No | Are the person's shoes black? | Yes. |
+| Yes/No | Is the background of the image a sign with Japanese text? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | A school uniform consisting of a skirt and socks, black shoes. |
+| What | What is the background of the image? | A sign with Japanese text. |
+| How | How is the person standing in the image? | With their legs apart, suggesting confidence and selfassuredness. |
+| How | How does the image convey a sense of intrigue? | The Japanese text in the background adds an element of intrigue, as it is not immediately clear what the text says or what it represents. |

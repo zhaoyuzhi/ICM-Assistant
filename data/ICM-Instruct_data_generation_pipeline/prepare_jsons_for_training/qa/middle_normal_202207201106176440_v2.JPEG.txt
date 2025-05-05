@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's jeans black? | No. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Does the image evoke any sexual connotations? | No. |
+| What | What is the color of the person's shirt? | White. |
+| What | What is the distinctive feature of the person's jeans? | A red and white logo on the back pocket. |
+| How | How is the person's body positioned in the image? | The person is standing with their back to the camera, focusing on the lower half of their body. |
+| How | How would you describe the overall atmosphere of the image? | Simple, everyday scene with no explicit or suggestive content, emphasizing the person's clothing rather than their body or appearance. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the jeans the person is wearing light-colored? | No. |
+| Yes/No | Is the shirt the person is wearing revealing or provocative? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image formal or professional? | No. |
+| Yes/No | Does the image focus on the person's physical appearance rather than their attire or stance? | No. |
+| What | What is the color of the person's shirt? | White. |
+| What | What is the color of the person's jeans? | Dark blue. |
+| How | How are the jeans fitting the person? | Wellfitted, accentuating the person's waist and hips. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

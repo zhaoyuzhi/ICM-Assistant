@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are they wearing gray sweatpants? | Yes. |
+| Yes/No | Are they wearing black gloves? | Yes. |
+| Yes/No | Is the person's back exposed? | Yes. |
+| Yes/No | Does the image convey a sense of athleticism? | Yes. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| What | What color are the sweatpants? | Gray. |
+| What | What type of gloves are they wearing? | Black. |
+| How | How is the person's posture? | Confident and selfassured. |
+| How | How does the image make you feel? | The image makes me feel like the person in the image is strong, selfassured, and powerful, which can be perceived as sexy. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person putting on pink stockings? | Yes. |
+| Yes/No | Is the image set in a room with a chair and closet? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with sensuality and allure? | Yes. |
+| What | What is the color of the stockings and towel? | Pink. |
+| What | What is the overall atmosphere of the image? | Intimate and sensual. |
+| How | How does the image capture a private and intimate moment? | The image shows the person in the process of putting on stockings, which is a private and intimate act. |
+| How | How does the pink color of the stockings and towel contribute to the overall sensuality of the image? | The pink color adds to the overall sensuality of the image by creating a sense of femininity and allure. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person dressed in black? | Yes. |
+| Yes/No | Is the person wearing a pink towel? | Yes. |
+| Yes/No | Is the person putting on pink stockings? | Yes. |
+| Yes/No | Is the image intimate and sensual? | Yes. |
+| Yes/No | Does the image capture a private moment? | Yes. |
+| What | What is the person in the image putting on? | Pink stockings. |
+| What | What color is the towel wrapped around the person's leg? | Pink. |
+| How | How is the person in the image enhancing their appearance? | By putting on stockings. |
+| How | How does the image create a sense of intimacy and allure? | Through the use of pink color, intimate setting, and private moment. |

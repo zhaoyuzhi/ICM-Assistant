@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top halter-neck style? | Yes. |
+| Yes/No | Are the bikini bottoms high-waisted? | Yes. |
+| Yes/No | Is the woman posing in a confident manner? | Yes. |
+| Yes/No | Is the background of the image a rocky cliff? | Yes. |
+| Yes/No | Does the image evoke a sense of freedom and confidence? | Yes. |
+| What | What color are the bikini top and bottom? | Blue. |
+| What | What is the woman's pose in the image? | Hands on hips, head tilted to the side. |
+| How | How does the rocky cliff in the background add to the overall atmosphere of the image? | It adds a touch of raw, untamed beauty. |
+| How | How does the woman's attire and pose suggest a sense of freedom and confidence? | The bikini and confident pose suggest a sense of liberation and selfassurance. |

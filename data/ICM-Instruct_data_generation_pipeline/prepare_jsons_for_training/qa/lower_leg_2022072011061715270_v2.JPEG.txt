@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white denim shorts? | Yes. |
+| Yes/No | Is the person's shirt cropped at the waist? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Does the person have a sexy pose? | Yes. |
+| Yes/No | Are the white denim shorts a classic and timeless fashion choice? | Yes. |
+| What | What is the person wearing on their legs? | The person is wearing their legs. |
+| What | What is the person's pose in the image? | The person is standing with a sense of freedom and carefree enjoyment. |
+| How | How does the frayed hem of the shorts add to the overall look of the image? | The frayed hem of the shorts adds a touch of casualness and nonchalance to the overall look of the image, enhancing the sexy vibe. |
+| How | How does the beach setting enhance the sexy vibe of the image? | The beach setting enhances the sexy vibe of the image by creating a visually appealing and alluring scene that captures the viewer's attention. |

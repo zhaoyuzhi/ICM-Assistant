@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a bra and jeans? | Yes. |
+| Yes/No | Is the person holding a towel above their head? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the image set at night? | Yes. |
+| Yes/No | Is the person in the process of taking off their clothes? | Yes. |
+| What | What is the person holding above their head? | A white towel. |
+| What | What is the person wearing apart from the bra and jeans? | Nothing else is visible in the image. |
+| How | How is the person holding their clothes? | With their hands. |
+| How | How does the image create a sense of mystery and allure? | Through the combination of the beach setting, nighttime darkness, and the person's vulnerable position. |

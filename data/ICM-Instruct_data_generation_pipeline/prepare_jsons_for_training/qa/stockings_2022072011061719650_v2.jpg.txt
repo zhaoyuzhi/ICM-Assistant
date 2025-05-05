@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the setting of the image indoors? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the woman's pose in the image? | Confident. |
+| What | What is the atmosphere created by the image? | Sensual, intimate, and alluring. |
+| How | How does the black stockings and bra contribute to the image's atmosphere? | They create a sense of intimacy and allure. |
+| How | How does the setting in the room with a couch and chair enhance the image's atmosphere? | It adds to the sensuality and intimacy of the scene. |

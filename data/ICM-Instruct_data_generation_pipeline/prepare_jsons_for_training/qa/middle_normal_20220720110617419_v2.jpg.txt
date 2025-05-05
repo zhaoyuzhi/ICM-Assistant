@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts the man is wearing predominantly white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose in the image neutral? | Yes. |
+| Yes/No | Are the shorts adorned with a floral pattern? | Yes. |
+| Yes/No | Does the image have a calm and non-threatening atmosphere? | Yes. |
+| What | What is the man's pose in the image? | He has his hands casually tucked into his pockets. |
+| What | What is the dominant color of the shorts the man is wearing? | White. |
+| How | How are the shorts accented? | They are accented with shades of pink and blue. |
+| How | How does the white background contribute to the overall atmosphere of the image? | It contributes to the simplicity and innocence of the image, making it nonthreatening. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts the man is wearing predominantly white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose in the image neutral? | Yes. |
+| Yes/No | Are the shorts adorned with a floral pattern? | Yes. |
+| Yes/No | Does the image feature any intimate or provocative actions? | No. |
+| What | What is the man's pose in the image? | He is standing with his hands casually tucked into his pockets. |
+| What | What is the primary color of the shorts the man is wearing? | White. |
+| How | How are the shorts accented? | They are accented with shades of pink, blue, and green. |
+| How | How would you describe the overall atmosphere of the image? | Simple and unassuming. |

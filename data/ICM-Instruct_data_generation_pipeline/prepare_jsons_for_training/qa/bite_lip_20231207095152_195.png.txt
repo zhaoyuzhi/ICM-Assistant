@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a person's face? | Yes. |
+| Yes/No | Does the person in the image have a bold red lipstick on? | Yes. |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the person's lipstick? | Pink. |
+| What | What is the gesture that the person is making with their lips? | Biting. |
+| How | How does the close-up shot of the person's face contribute to the image's atmosphere? | It highlights their facial features and creates a sense of intimacy. |
+| How | How does the person's facial expression and lip-biting contribute to the image's atmosphere? | The neutral expression and slight parting of the lips create a sense of intrigue and mystery, while the bold lipstick and lipbiting gesture contribute to the image's sexiness. |

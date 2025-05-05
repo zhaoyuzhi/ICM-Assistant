@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red sweater? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman in the image facing the camera? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| What | What color is the sweater the woman is wearing? | Red. |
+| What | What color are the jeans the woman is wearing? | Blue. |
+| How | How does the woman's pose with her hands on her hips add to the overall allure of the image? | It creates a confident and selfassured appearance. |
+| How | How does the combination of the red sweater and blue jeans add to the visual appeal of the image? | It creates a contrasting color scheme that draws attention to the woman's figure. |

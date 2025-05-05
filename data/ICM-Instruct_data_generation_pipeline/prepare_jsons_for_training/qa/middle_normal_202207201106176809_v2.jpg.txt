@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the image depict a casual, everyday setting? | Yes. |
+| Yes/No | Does the person's pose suggest a relaxed, casual atmosphere? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the person in the image wearing? | Black shorts and a white shirt. |
+| What | What is the overall atmosphere of the image? | Casual and everyday. |
+| How | How is the person standing in the image? | With their hands on their hips. |
+| How | How much of the person's body is visible in the image? | Only a small portion. |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the image depict a casual, everyday setting? | Yes. |
+| Yes/No | Is the person's pose in the image suggestive or explicit? | No. |
+| Yes/No | Does the image evoke any sexual connotations? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What is the person in the image wearing? | Black shorts and a white shirt. |
+| What | What is the overall atmosphere of the image? | Casual and everyday. |
+| How | How is the person standing in the image? | With their hands on their hips. |
+| How | How much of the person's body is visible in the image? | Only a small portion. |

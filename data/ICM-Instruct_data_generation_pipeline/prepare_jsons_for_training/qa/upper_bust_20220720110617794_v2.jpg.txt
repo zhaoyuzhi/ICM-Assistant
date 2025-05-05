@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light blue? | Yes. |
+| Yes/No | Does the bra have a lace trim? | Yes. |
+| Yes/No | Is the woman sitting on a white couch? | Yes. |
+| Yes/No | Is the woman holding a book in her hands? | Yes. |
+| Yes/No | Is the image intimate and sensual? | Yes. |
+| What | What is the woman holding in her hands? | A book. |
+| What | What is the color of the bra? | Light blue. |
+| How | How is the bra trimmed? | With lace. |
+| How | How is the woman's pose in the image? | Sensual and confident. |

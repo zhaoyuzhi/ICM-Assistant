@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Are the person's legs bent? | Yes. |
+| Yes/No | Is the person's body facing the camera? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Are there any other objects in the image? | No. |
+| Yes/No | Does the person's pose suggest confidence? | Yes. |
+| What | What is the color of the person's dress? | Pink. |
+| What | What is the color of the yoga mat? | Blue. |
+| How | How are the person's feet positioned on the mat? | They are positioned with the knees bent and the feet flat on the mat. |
+| How | How does the image capture a moment of self-expression and confidence? | It captures a moment of selfexpression and confidence through the person's pose and attire, which suggests a sense of confidence and poise. |

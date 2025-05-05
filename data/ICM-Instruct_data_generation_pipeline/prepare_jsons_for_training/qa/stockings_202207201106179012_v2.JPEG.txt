@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shoes? | Yes. |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Are the person's feet resting on the floor in the image? | Yes. |
+| What | What is the person in the image wearing on their legs? | White stockings and a black skirt. |
+| What | What is the person in the image wearing on their feet? | Black shoes. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How are the person's feet positioned in the image? | Resting on the floor. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are blue denim shorts being worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman in the image holding a straw bag? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual? | Yes. |
+| Yes/No | Is the overall atmosphere of the image confident? | Yes. |
+| What | What is the woman in the image holding in her right hand? | Her right hand is hanging loosely at her side. |
+| What | What is the color of the woman's shorts in the image? | Blue. |
+| How | How is the woman's left hand positioned in the image? | Her left hand is resting on her hip. |
+| How | How would you describe the woman's pose in the image? | Relaxed and confident. |

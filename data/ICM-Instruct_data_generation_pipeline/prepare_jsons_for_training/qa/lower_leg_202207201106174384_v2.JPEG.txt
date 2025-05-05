@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Is the person's hair styled in loose waves? | Yes. |
+| Yes/No | Is the wooden deck made of planks? | Yes. |
+| Yes/No | Is there a car in the background? | Yes. |
+| Yes/No | Is the atmosphere of the image confident and bold? | Yes. |
+| What | What is the person wearing on their feet? | Black heels. |
+| What | What is the person's hair style? | Loose waves. |
+| How | How are the person's legs positioned? | Slightly turned outward. |
+| How | How does the image portray the person's body? | Confidently and boldly. |

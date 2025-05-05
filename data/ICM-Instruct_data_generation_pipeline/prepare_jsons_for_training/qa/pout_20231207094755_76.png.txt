@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Are the person's eyes visible in the image? | No. |
+| Yes/No | Is the image focused on the person's lips and nose? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person's nose tilted upwards? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What facial expression does the person have? | Pouting. |
+| What | What is the main focus of the image? | The person's lips and nose. |
+| How | How are the person's lips positioned in the image? | Slightly parted. |
+| How | How is the person's nose tilted in the image? | Slightly upwards. |

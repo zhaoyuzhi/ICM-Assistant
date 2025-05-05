@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue skirt? | Yes. |
+| Yes/No | Are they sitting on a wooden desk? | Yes. |
+| Yes/No | Is the background of the image a classroom? | Yes. |
+| Yes/No | Does the person have their legs crossed? | Yes. |
+| Yes/No | Is the person resting their head on their hand? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person wearing on their legs? | White stockings. |
+| What | What is the person's attire suggestive of? | A seductive or provocative appearance. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the person's posture suggest a sense of relaxation and confidence? | The person is resting their head on their hand and their legs are crossed, indicating a comfortable and relaxed position. |

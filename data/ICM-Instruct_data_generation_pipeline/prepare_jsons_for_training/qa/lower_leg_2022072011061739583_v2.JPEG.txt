@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are the person's feet bare? | Yes. |
+| Yes/No | Is the person wearing white socks? | Yes. |
+| Yes/No | Is the room in the image a bathroom? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the person's shorts? | Black. |
+| What | What color is the person's shirt? | Brown. |
+| How | How is the person wearing their socks? | Bare feet with white socks. |
+| How | How does the mirror in the background suggest the person's awareness of their appearance? | The mirror suggests the person is posing for the photo. |

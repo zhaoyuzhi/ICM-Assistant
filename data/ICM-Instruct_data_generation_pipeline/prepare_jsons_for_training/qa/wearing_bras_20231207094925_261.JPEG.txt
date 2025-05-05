@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra a push-up style? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Are the woman's hands on her chest? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a white bra. |
+| What | What is the style of the bra? | The bra is a pushup style. |
+| How | How does the woman's action of putting on the bra suggest confidence and self-assuredness? | The woman's actions suggest confidence and selfassuredness because she is taking the time to carefully adjust the bra, indicating that she values her appearance and wants to feel confident and attractive. |
+| How | How does the contrast between the white bra and the woman's skin tone make her appear more attractive? | The contrast between the white bra and the woman's skin tone creates a visual contrast that can make her appear more attractive and alluring, as the white color can accentuate her skin tone and create a striking visual effect. |
+| Yes/No | Is the woman in the image putting on a bra? | Yes. |
+| Yes/No | Is the bra a push-up style? | Yes. |
+| Yes/No | Is the woman's skin tone contrasting with the white color of the bra? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual and alluring? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a white bra. |
+| What | What is the style of the bra? | The bra is a pushup style. |
+| How | How does the woman's action of putting on the bra suggest a sense of confidence and self-assuredness? | The woman's actions suggest a sense of confidence and selfassuredness because she is taking the time to carefully adjust the bra and ensure that it fits properly, indicating that she values her appearance and wants to feel attractive. |
+| How | How does the white color of the bra contrast with the woman's skin tone? | The white color of the bra creates a visual contrast with the woman's skin tone, which can make her appear more attractive and alluring. |

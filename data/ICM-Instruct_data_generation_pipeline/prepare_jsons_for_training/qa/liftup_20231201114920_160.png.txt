@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue and white top? | Yes. |
+| Yes/No | Is the person in the image standing in front of a blue background? | Yes. |
+| Yes/No | Does the person's attire suggest confidence and allure? | Yes. |
+| Yes/No | Are the person's actions in the image seductive and enticing? | Yes. |
+| Yes/No | Does the blue background add a cool and calming tone to the image? | Yes. |
+| Yes/No | Does the image evoke a sense of desire in the viewer? | Yes. |
+| What | What is the person in the image lifting? | Their clothes. |
+| What | What is the dominant color of the person's top? | Blue. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | It suggests confidence and allure, adding to the seductive and enticing nature of the image. |
+| How | How does the blue background enhance the visual appeal of the image? | It adds a cool and calming tone, creating a contrast with the person's actions and attire, and drawing the viewer's attention to the image. |

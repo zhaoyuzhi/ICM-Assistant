@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's arms tucked into their pockets? | Yes. |
+| Yes/No | Is the person wearing white sneakers? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the person's attire in the image? | A white shirt and blue jeans. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How are the person's arms positioned in the image? | They are casually tucked into their pockets. |
+| How | How is the person's head tilted in the image? | It is slightly tilted to the side. |

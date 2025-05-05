@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the boy in the image wearing a basketball uniform? | Yes. |
+| Yes/No | Is the basketball hoop in the background blue? | Yes. |
+| Yes/No | Is the boy's left foot on the basketball hoop? | Yes. |
+| Yes/No | Are the boy's socks striped? | Yes. |
+| How | Does the image show any skin or revealing clothing? | No. |
+| Yes/No | Is the overall atmosphere of the image focused on the boy's passion for basketball? | Yes. |
+| What | What is the boy's jersey number? | The boy's jersey number is not visible in the image. |
+| What | What is the color of the boy's sneakers? | The boy's sneakers are blue and white. |
+| How | How is the boy positioned in relation to the basketball hoop? | The boy is positioned with his left foot on the basketball hoop and his right foot on the ground. |
+| How | How does the image convey the boy's passion for basketball? | The image conveys the boy's passion for basketball through his athletic attire and active participation in the sport. |

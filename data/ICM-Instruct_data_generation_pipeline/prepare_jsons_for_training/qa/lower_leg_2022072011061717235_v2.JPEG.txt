@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black and white striped shirt? | Yes. |
+| Yes/No | Are the person's sneakers black and white? | Yes. |
+| Yes/No | Is the person's head turned to the side in the image? | Yes. |
+| Yes/No | Is the purse the person is holding black? | Yes. |
+| Yes/No | Are the shorts the person is wearing black? | Yes. |
+| Yes/No | Is the chair in the background black? | Yes. |
+| What | What is the color of the person's sneakers? | Black and white. |
+| What | What is the color of the purse the person is holding? | Black. |
+| How | How is the person's head positioned in the image? | Turned to the side. |
+| How | How does the black purse contribute to the overall atmosphere of the image? | It adds an element of sophistication. |

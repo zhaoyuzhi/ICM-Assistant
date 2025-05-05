@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing shoes? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the background of the image colored? | Yes. |
+| Yes/No | Does the man have any visible tattoos or piercings? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the man's attire in the image? | Navy blue briefs. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man standing in the image? | With his hands placed on his hips. |
+| What | What does the man's pose with his hands on his hips suggest? | Confidence and selfassuredness. |

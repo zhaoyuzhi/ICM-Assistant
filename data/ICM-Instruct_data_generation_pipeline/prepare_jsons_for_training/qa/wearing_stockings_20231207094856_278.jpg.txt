@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the person's foot visible in the image? | Yes. |
+| Yes/No | Is the person using a white ribbon to hold the stocking in place? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the color of the stockings the person is wearing? | White. |
+| What | What is the person using to hold the stocking in place? | A white ribbon. |
+| How | How is the person wearing the stockings? | The person is in the process of putting them on. |
+| How | How does the image create a monochromatic and minimalist aesthetic? | The image uses a single color, white, for the stockings, floor, and wall, creating a cohesive and simple visual effect. |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the person's foot visible in the image? | Yes. |
+| Yes/No | Is the person using a white ribbon to hold the stocking in place? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the person in the image putting on? | White stockings. |
+| What | What is the color of the floor and wall in the background of the image? | White. |
+| How | How is the person holding the stocking in place? | With a white ribbon. |
+| How | How can the atmosphere of the image be described? | Sensual, intimate, and minimalist. |

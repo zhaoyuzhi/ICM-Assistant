@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the man's pose confident and relaxed? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man's underwear contrast with his skin tone? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and alluring? | Yes. |
+| What | What is the man's underwear color? | Black and blue. |
+| What | What is the man's body type? | Muscular. |
+| How | How is the man's pose? | Confident and relaxed. |
+| How | How does the image make you feel? | Sensual and allured. |

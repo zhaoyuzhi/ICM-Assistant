@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Are the leggings tight-fitting? | Yes. |
+| Yes/No | Does the person have their left leg extended behind them? | Yes. |
+| Yes/No | Is their right leg bent at the knee? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What color are the leggings? | Blue. |
+| What | What is the pose of the person in the image? | Standing with left leg extended behind and right leg bent at the knee. |
+| How | How are the leggings tight-fitting? | They are tightfitting because they are stretched over the person's form and curves. |
+| How | How does the pose contribute to the image's appeal? | The pose adds a sense of movement and confidence, which contributes to the overall sensual and confident atmosphere of the image. |

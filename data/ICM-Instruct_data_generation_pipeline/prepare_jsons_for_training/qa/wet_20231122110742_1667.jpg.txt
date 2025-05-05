@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting in a bathtub? | Yes. |
+| Yes/No | Is the person wearing a white dress? | Yes. |
+| Yes/No | Is the dress soaked? | Yes. |
+| Yes/No | Is the person holding a rose? | Yes. |
+| Yes/No | Is the person's gaze directed upwards? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and allure? | Yes. |
+| What | What is the person in the image holding? | A rose. |
+| What | What is the person's gaze directed towards? | The ceiling or the camera. |
+| How | How does the person's wet clothes contribute to the atmosphere of the image? | They add to the sensuality and intimacy of the scene. |
+| How | How does the upward gaze of the person enhance the sense of intimacy and intrigue? | It makes the viewer feel like they are part of the scene and creates a sense of connection with the person. |

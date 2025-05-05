@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink sweater? | Yes. |
+| Yes/No | Are the stockings blue? | Yes. |
+| Yes/No | Is the person sitting on a white couch? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and sensuality? | Yes. |
+| What | What color is the sweater the person is wearing? | Pink. |
+| What | What color are the stockings? | Blue. |
+| How | How are the stockings being pulled up the person's legs? | Thighhigh. |
+| What | What does the image convey? | Sense of allure and sensuality. |
+| Yes/No | Is the person in the image wearing blue thigh-high stockings? | Yes. |
+| Yes/No | Is the person sitting on a white couch? | Yes. |
+| Yes/No | Is the person wearing a pink sweater? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and sensuality? | Yes. |
+| What | What color are the stockings? | Blue. |
+| What | What is the person wearing on their upper body? | A pink sweater. |
+| How | How are the stockings being pulled up the person's legs? | They are being pulled up slowly and sensually. |
+| How | How does the image create a sense of allure and sensuality? | The image creates a sense of allure and sensuality through the use of bold, contrasting colors, the intimate act of putting on stockings, and the person's sensual expressions and movements. |

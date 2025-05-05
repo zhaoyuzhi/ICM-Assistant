@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue blazer? | Yes. |
+| Yes/No | Is the woman in the image wearing a white dress with a floral pattern? | Yes. |
+| Yes/No | Is the woman in the image lifting her dress to reveal her legs? | Yes. |
+| Yes/No | Is the background of the image beige? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| What | What is the main focus of the image? | The woman's legs. |
+| What | What is the mood of the image? | Sexy and alluring. |
+| How | How is the woman standing in the image? | She is standing against a beige wall. |
+| How | How does the woman's pose suggest she feels about her body? | It suggests she is confident and comfortable in her own skin. |

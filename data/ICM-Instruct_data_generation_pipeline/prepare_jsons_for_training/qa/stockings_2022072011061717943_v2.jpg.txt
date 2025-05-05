@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing fishnet stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Are the fishnet stockings sheer? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's hands resting on their knees? | Yes. |
+| What | What is the person in the image wearing on their legs? | Fishnet stockings. |
+| What | What is the person in the image wearing on their upper body? | A polka dot shirt. |
+| How | How are the fishnet stockings contributing to the image's atmosphere? | They are adding a seductive and provocative element to the image. |
+| How | How is the polka dot shirt contributing to the image's atmosphere? | It is adding a playful and lighthearted touch to the image. |

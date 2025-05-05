@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray leggings set? | Yes. |
+| Yes/No | Is the person standing on one leg? | Yes. |
+| Yes/No | Is the person's left hand on their hip? | Yes. |
+| Yes/No | Is the person's right hand on their thigh? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Are the person's buttocks visible in the image? | Yes. |
+| What | What is the person's gaze directed towards? | The camera. |
+| What | What is the color of the leggings set? | Gray. |
+| How | How is the person standing? | On one leg, with their left leg bent at the knee. |
+| How | How does the image make people feel? | Sexy, confident, and selfassured. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green dress? | Yes. |
+| Yes/No | Is the dress made of a shiny material? | Yes. |
+| Yes/No | Is the woman lifting her dress up with her left hand? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the doorway setting suggest that the woman might be inviting someone into her space? | Yes. |
+| What | What color is the woman's dress? | Green. |
+| What | What is the material of the woman's dress? | Possibly silk or satin. |
+| How | How is the woman lifting her dress up? | With her left hand. |
+| How | How does the shiny material of the dress add to the allure of the image? | It reflects light and draws attention to the woman's legs. |

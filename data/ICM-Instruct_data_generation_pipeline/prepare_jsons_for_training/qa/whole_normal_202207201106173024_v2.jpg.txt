@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a full-body costume? | Yes. |
+| Yes/No | Is the costume predominantly red and white? | Yes. |
+| Yes/No | Does the costume have a silver headpiece? | Yes. |
+| Yes/No | Is the person holding their hands behind their back? | Yes. |
+| Yes/No | Are their legs slightly apart? | Yes. |
+| Yes/No | Is the room's wall pink? | Yes. |
+| What | What is the person's pose in the image? | Neutral, with hands behind their back and legs slightly apart. |
+| What | What is the main focus of the image? | The person's costume and the room's decor. |
+| How | How is the exposure level of the image? | Very low, not revealing any explicit or suggestive content. |
+| How | How does the image's atmosphere come across? | Not sexy, due to the person's Gundam costume and the room's nonsexual decor. |

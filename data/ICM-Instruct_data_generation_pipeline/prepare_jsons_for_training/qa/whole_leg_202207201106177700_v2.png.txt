@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Are the woman's arms covered in the image? | Yes. |
+| Yes/No | Is the woman's skirt short? | Yes. |
+| Yes/No | Does the woman have a direct gaze at the camera? | Yes. |
+| Yes/No | Is there a building in the background of the image? | Yes. |
+| Yes/No | Does the image have a curved design on the sidewalk? | Yes. |
+| What | What is the woman wearing on her upper body? | A gray sweater. |
+| What | What is the pattern on the woman's skirt? | A floral pattern. |
+| How | How does the woman's outfit create a contrast in the image? | The gray sweater and white skirt with a floral pattern create a contrast that draws attention to her thighs, which are exposed due to the short skirt. |
+| How | How does the background contribute to the overall feeling of the image? | The red awning in the background provides a contrast to the woman's outfit and adds visual interest to the scene, but the focus remains on the woman and her attire, creating an intimate and inviting feeling. |

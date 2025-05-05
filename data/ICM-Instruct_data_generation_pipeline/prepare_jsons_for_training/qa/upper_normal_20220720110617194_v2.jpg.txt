@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman in the image wearing jewelry? | Yes. |
+| Yes/No | Is the woman in the image praying? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image portray a sense of tranquility and reverence? | Yes. |
+| Yes/No | Does the image portray a sense of sensuality or allure? | No. |
+| What | What is the woman in the image praying with? | Her hands clasped together. |
+| What | What does the woman's posture and way of praying suggest? | A sense of tranquility and reverence. |
+| How | How does the low exposure level of the image affect its atmosphere? | It emphasizes the calm and peaceful atmosphere of the image. |
+| How | How does the white dress and pearl jewelry contribute to the overall atmosphere of the image? | They convey a sense of purity and innocence. |

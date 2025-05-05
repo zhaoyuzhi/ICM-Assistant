@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a bra? | Yes. |
+| Yes/No | Are they wearing jeans? | Yes. |
+| Yes/No | Is the person holding a glass? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and vulnerability? | Yes. |
+| What | What color is the person's bra? | Green. |
+| What | What is the person holding in their hand? | A glass. |
+| How | How is the person posed in the image? | They are standing with their back to the camera and looking over their shoulder. |
+| What | What might the person be enjoying, according to the image? | A drink. |

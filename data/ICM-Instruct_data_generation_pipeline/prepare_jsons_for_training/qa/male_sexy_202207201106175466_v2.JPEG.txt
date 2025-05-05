@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are the man's arms raised in the image? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image suggest a sense of strength and power? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man have a fighting stance? | Yes. |
+| What | What is the man wearing in the image? | Boxing shorts. |
+| What | What is the man's facial expression in the image? | Not specified in the description. |
+| How | How does the man's raised arms contribute to the overall atmosphere of the image? | They suggest a sense of triumph and power. |
+| How | How does the blurred background affect the focus of the image? | It puts the focus solely on the man. |

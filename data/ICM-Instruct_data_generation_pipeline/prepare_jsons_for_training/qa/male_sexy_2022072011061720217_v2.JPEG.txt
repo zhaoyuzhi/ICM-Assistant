@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the man standing in the image? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other people or objects? | No. |
+| Yes/No | Is the image visually striking and alluring? | Yes. |
+| What | What is the man's body language in the image? | He is standing with his body facing the camera, looking directly at it. |
+| What | What is the mood of the image? | The mood of the image is sexy and intimate, with a sense of vulnerability. |
+| How | How does the plain white background affect the image? | It emphasizes the man's physique and form, making the image visually striking. |
+| How | How does the man's direct gaze into the camera affect the image? | It adds a sense of connection and engagement with the viewer. |

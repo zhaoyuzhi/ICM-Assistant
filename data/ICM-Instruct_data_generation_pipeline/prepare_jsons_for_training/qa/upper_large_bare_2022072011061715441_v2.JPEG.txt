@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing headphones and a microphone in the image? | Yes. |
+| Yes/No | Is the image set indoors or outdoors? | Outdoors. |
+| Yes/No | Does the image convey a sensual or provocative atmosphere? | Yes. |
+| Yes/No | Is the woman in the image a performer or entertainer? | Yes. |
+| What | What is the woman wearing in the image? | A bikini top and headphones with a microphone. |
+| What | What is the woman's occupation in the image? | Performer or entertainer. |
+| How | How is the woman's upper body exposed in the image? | The woman's shoulders and arms are exposed due to the bikini top. |
+| How | How does the image convey a sensual or provocative atmosphere? | The image conveys a sensual or provocative atmosphere through the woman's attire, the exposure of her upper body, and her association with headphones and a microphone. |

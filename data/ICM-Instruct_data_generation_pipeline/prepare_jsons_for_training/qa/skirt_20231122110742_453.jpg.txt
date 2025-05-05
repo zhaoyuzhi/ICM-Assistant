@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a floral dress? | Yes. |
+| Yes/No | Is the dress revealing her legs and thighs? | Yes. |
+| Yes/No | Is the woman holding her dress up with her left hand? | Yes. |
+| Yes/No | Are her high heels visible in the image? | Yes. |
+| Yes/No | Is the image taken in a room with a mirror? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| What | What is the woman doing with her left hand? | She is holding up her dress. |
+| What | What is the woman wearing on her feet? | High heels. |
+| How | How is the woman's pose in the image? | Confident and alluring. |
+| How | How does the mirror in the room add depth to the image? | It reflects the woman's pose, making the scene even more enticing. |

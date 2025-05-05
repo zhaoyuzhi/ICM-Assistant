@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing tactical pants? | Yes. |
+| Yes/No | Are the pants designed for comfort and functionality? | Yes. |
+| Yes/No | Is the man's attire typically associated with sexy or provocative imagery? | No. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image professional? | Yes. |
+| What | What is the man wearing on his feet? | Black shoes. |
+| What | What is the color of the man's belt? | Black. |
+| How | How are the pants designed? | They are designed for comfort and functionality. |
+| How | How does the image draw focus to the man and his attire? | The background is blurred, drawing focus to the man and his clothing. |

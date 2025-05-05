@@ -1,0 +1,13 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | --- | ---. |
+| Yes/No | Is the woman in the image dressed in a business suit? | Yes. |
+| Yes/No | Is the woman holding a cell phone? | Yes. |
+| Yes/No | Is the phone screen displaying a weather app? | Yes. |
+| Yes/No | Is the woman standing in front of a window? | Yes. |
+| Yes/No | Is the image dimly lit? | Yes. |
+| Yes/No | Does the image have a romantic or intimate context? | No. |
+| What | What is the woman holding in her right hand? | A cell phone. |
+| What | What is displayed on the phone screen? | A weather app with various icons representing different weather conditions. |
+| How | How is the woman standing in front of the window? | She is standing in front of the window, which is wet and reflecting her image and the phone. |
+| How | How does the low exposure level of the image relate to its context? | The low exposure level of the image emphasizes the professional nature of the image and suggests that the image's focus is on the woman's professional attire and the weather app on her phone, related to work or business matters. |

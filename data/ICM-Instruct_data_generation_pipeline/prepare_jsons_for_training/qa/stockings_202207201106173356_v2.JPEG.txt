@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Are the stockings white? | Yes. |
+| Yes/No | Does the person have their legs bent at the knees? | Yes. |
+| Yes/No | Are the person's feet pointed towards the sky? | Yes. |
+| Yes/No | Is the person wearing a bra? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| What | What color are the stockings? | White. |
+| What | What is the color of the bra? | Pink. |
+| How | How are the person's legs positioned? | Bent at the knees and pointed towards the sky. |
+| How | How does the image create a sense of vulnerability and intimacy? | Through the person's pose, the white stockings, and the contrasting pink bra. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Does the bikini top have a floral pattern? | Yes. |
+| Yes/No | Is the woman's hand on her hip in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | The woman is posing with her hand on her hip and her head tilted to the side. |
+| What | What is the color of the bikini top? | The bikini top is black and white with a floral pattern. |
+| How | How does the woman's pose contribute to the overall allure of the image? | The woman's pose, with her hand on her hip and her head tilted to the side, adds to the overall allure of the image by creating a seductive and confident atmosphere. |
+| How | How does the floral pattern on the bikini top contribute to the image's overall atmosphere? | The floral pattern on the bikini top adds a touch of femininity and elegance to the image, which contributes to its overall sexy atmosphere. |

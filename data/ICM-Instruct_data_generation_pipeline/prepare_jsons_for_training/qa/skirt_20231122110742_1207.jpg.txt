@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress flowing and lightweight? | Yes. |
+| Yes/No | Does the woman have a confident pose? | Yes. |
+| Yes/No | Is the dress lifted up to reveal the woman's thighs? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | The woman is lifting the dress up to reveal her thighs. |
+| What | What is the fabric of the dress made of? | The dress appears to be made of a lightweight fabric. |
+| How | How is the woman holding the dress up? | The woman is lifting the dress up with her hand. |
+| How | How does the woman's pose and the way she is holding the dress add to the overall allure of the image? | The woman's confident pose and the way she is holding the dress up add to the overall allure of the image, creating a seductive atmosphere. |

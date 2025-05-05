@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing pants? | No. |
+| Yes/No | Does the man have any tattoos or piercings visible in the image? | No. |
+| Yes/No | Is the man's hair visible in the image? | No. |
+| Yes/No | Are there any other people or objects in the image? | No. |
+| Yes/No | Is the image in color or black and white? | Color. |
+| What | What is the color of the man's underwear? | Blue. |
+| What | What is the man's pose in the image? | Standing with hands on hips. |
+| How | How does the man's pose accentuate his physique? | It highlights his muscular physique and confidence. |
+| How | How does the image create a sexy vibe? | The man's toplessness and pose, along with the pop of color from the blue underwear, create a visually appealing and alluring atmosphere. |

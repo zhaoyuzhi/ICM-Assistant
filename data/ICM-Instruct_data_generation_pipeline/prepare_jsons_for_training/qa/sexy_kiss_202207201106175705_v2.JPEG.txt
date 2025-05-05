@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Are the two men in the image kissing? | Yes. |
+| Yes/No | Are the men in the image clothed? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the men in the image standing? | No. |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy? | Yes. |
+| What | What is the color of the shirt worn by the man on the left? | White. |
+| What | What is the color of the shirt worn by the man on the right? | Blue. |
+| How | How are the men in the image positioned? | They are in a passionate embrace, their lips locked in a kiss. |

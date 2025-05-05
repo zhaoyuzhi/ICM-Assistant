@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image dressed in formal attire? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the man's arms crossed? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man wearing? | A light blue blazer and a white shirt. |
+| What | What is the color of the background? | White. |
+| How | How is the man standing? | With his arms crossed. |
+| What | What can be inferred about the atmosphere of the image based on the man's attire and posture? | The atmosphere is professional and formal rather than sexy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a face mask? | Yes. |
+| Yes/No | Is the woman's shirt pink? | Yes. |
+| Yes/No | Is the woman exposing her cleavage in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the black face mask add an element of mystery to the image? | Yes. |
+| Yes/No | Is the woman holding her shirt open in the image? | Yes. |
+| What | What is the color of the woman's shirt? | Pink. |
+| What | What is the woman's attire in the image? | A black face mask and a pink shirt. |
+| How | How is the woman exposing her chest in the image? | By pulling up the collar of her shirt and holding it open. |
+| How | How does the black face mask add an element of mystery to the image? | It covers the woman's face, obscuring her identity and creating an air of secrecy. |

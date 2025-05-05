@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man dressed in a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a denim jacket? | Yes. |
+| Yes/No | Are the man and woman locked in a passionate kiss? | Yes. |
+| Yes/No | Does the image have a romantic atmosphere? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the man and woman? | Yes. |
+| What | What is the color of the man's shirt? | Blue. |
+| What | What is the woman's hair style? | Long. |
+| How | How are the man and woman positioned in the image? | Standing close together. |
+| How | How does the denim jacket worn by the woman add to the overall atmosphere of the image? | It adds a casual and relaxed vibe. |

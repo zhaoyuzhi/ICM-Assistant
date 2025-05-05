@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pajamas? | Yes. |
+| Yes/No | Is the couch made of leather? | Yes. |
+| Yes/No | Is the person's head visible in the image? | No. |
+| Yes/No | Are the pajamas colorful? | Yes. |
+| Yes/No | Does the image suggest any sexual activity or inappropriate behavior? | No. |
+| Yes/No | Does the person's posture suggest a sense of ease and comfort? | Yes. |
+| What | What is the person wearing? | Pajamas. |
+| What | What is the color of the couch? | White. |
+| How | How are the person's legs positioned? | Crossed at the ankles and slightly bent. |
+| How | How does the image focus on the person's attire? | The image highlights the person's colorful pajamas and relaxed posture. |

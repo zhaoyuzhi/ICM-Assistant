@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image standing? | Yes. |
+| Yes/No | Is the man smiling? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man wearing a blue sweater? | Yes. |
+| Yes/No | Is the image a close-up shot? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the man's pose in the image? | He is standing with his hands casually tucked into his pockets. |
+| What | What is the overall atmosphere of the image? | The atmosphere is calm and relaxed. |
+| How | How is the man's demeanor in the image? | His demeanor is friendly and approachable. |
+| How | How does the low exposure level of the image emphasize the non-sexual nature of the image? | The low exposure level highlights the man's friendly demeanor and casual setting, rather than any potential sexual implications. |

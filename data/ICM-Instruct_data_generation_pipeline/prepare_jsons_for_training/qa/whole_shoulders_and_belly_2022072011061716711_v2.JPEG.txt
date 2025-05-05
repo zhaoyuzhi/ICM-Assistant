@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman's midriff exposed in the image? | Yes. |
+| Yes/No | Is the woman holding a cell phone in her hand? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the woman appear confident and comfortable in her attire? | Yes. |
+| Yes/No | Is the combination of the woman's outfit and the fact that she is walking down a street with a cell phone in her hand suggest a sense of casual confidence? | Yes. |
+| What | What is the woman wearing in the image? | A strapless top and cargo pants. |
+| What | What is the sexy aspect of the image? | The woman's outfit is revealing, and she is walking down a street with a cell phone, suggesting a sense of casual confidence. |
+| How | How does the woman appear in the image? | The woman appears confident and comfortable in her attire, with an overall atmosphere of relaxation and casualness. |
+| How | How does the combination of the woman's outfit and the fact that she is walking down a street with a cell phone create an image? | It creates an image that is both stylish and alluring. |

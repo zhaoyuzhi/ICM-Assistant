@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Does the woman have a purse with a silver chain strap? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Are the sweatpants loose-fitting? | Yes. |
+| Yes/No | Does the t-shirt have white text on it? | Yes. |
+| Yes/No | Is the woman's posture relaxed yet poised? | Yes. |
+| What | What color is the woman's t-shirt? | Black. |
+| What | What is the color of the purse's chain strap? | Silver. |
+| How | How is the woman's purse positioned? | On her left side. |
+| How | How would you describe the overall atmosphere of the image? | Confident and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Is the woman dressed in black? | Yes. |
+| Yes/No | Does the image depict a sexy or suggestive scene? | No. |
+| Yes/No | Is the woman's purse made of leather? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Does the image feature any bright colors? | No. |
+| What | What is the woman doing in the image? | She is engrossed in her phone. |
+| What | What is the woman's attire in the image? | A black top and skirt, with a black purse. |
+| How | How is the woman's purse attached to her body? | With a chain strap. |
+| How | How would you describe the exposure level of the image? | Low, focusing on the woman and her immediate surroundings. |

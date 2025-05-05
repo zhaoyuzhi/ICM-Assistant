@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a white building? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman in the image looking downwards? | Yes. |
+| Yes/No | Are the woman's hands placed on her hips? | Yes. |
+| What | What is the woman wearing on her lower body? | A beige short skirt. |
+| What | What is the woman wearing on her upper body? | A white blouse. |
+| How | How is the woman standing in the image? | With her hands on her hips and looking downwards. |
+| How | How would you describe the exposure level of the image? | Very low, with only a small portion of the woman's body visible. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Is the woman in the image looking downwards? | Yes. |
+| Yes/No | Are the woman's hands placed on her hips? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| What | What is the woman wearing in the image? | A beige short skirt and a white blouse. |
+| What | What is the woman's stance in the image? | She is standing with her hands on her hips. |
+| How | How is the woman's attire in the image? | Modest and not revealing or provocative. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It adds to the modesty of the image and focuses attention on the woman's stance and attire rather than her body or potential sexual content. |

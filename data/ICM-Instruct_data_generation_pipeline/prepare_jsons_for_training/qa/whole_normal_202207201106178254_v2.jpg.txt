@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sweater? | Yes. |
+| Yes/No | Is the woman in the image wearing a blue denim skirt? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the woman in the image have her hands tucked into her pockets? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the woman in the image wearing? | A pink sweater and a blue denim skirt. |
+| What | What is the woman in the image looking at? | The camera. |
+| How | How are the woman's hands positioned in the image? | They are tucked into her pockets. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and nonthreatening. |

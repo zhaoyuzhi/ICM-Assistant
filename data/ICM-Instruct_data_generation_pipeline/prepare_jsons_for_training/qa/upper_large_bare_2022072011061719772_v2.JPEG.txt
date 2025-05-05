@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the person in the image wearing a gold chain? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Is the person posing in a way that exposes their upper body? | Yes. |
+| Yes/No | Does the gold chain add a touch of elegance and allure to the image? | Yes. |
+| Yes/No | Does the blue and gold bikini top give off a sense of confidence and boldness? | Yes. |
+| What | What color is the bikini top? | Blue and gold. |
+| What | What is the person posing in a way that exposes their upper body? | They are posing with their arms raised and their chest forward. |
+| How | How does the gold chain around the person's neck add to the overall allure of the image? | It adds a touch of luxury and draws attention to the person's neck and face. |
+| How | How does the plain white wall in the background help to draw attention to the person and their attire? | It creates a clean and simple background that helps to focus the viewer's attention on the person and their attire, making them stand out more. |

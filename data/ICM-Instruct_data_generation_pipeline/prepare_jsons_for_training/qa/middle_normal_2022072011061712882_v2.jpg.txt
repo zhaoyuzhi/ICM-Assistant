@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a top with a high neckline? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the person's pose in the image suggestive or provocative? | No. |
+| Yes/No | Does the image contain any sexy or provocative elements? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What is the person in the image wearing? | A green skirt and a black top. |
+| What | What is the fabric of the skirt? | Possibly cotton or linen. |
+| How | How is the person posing in the image? | With a neutral pose, hands resting at their sides. |
+| How | How would you describe the overall atmosphere of the image? | Modest and simple, with a focus on the person's attire rather than their body. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt short? | Yes. |
+| Yes/No | Does the shirt have visible cleavage or revealing details? | No. |
+| Yes/No | Are the person's hands resting at their sides? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What color is the skirt? | Green. |
+| What | What is the overall atmosphere of the image? | Calm and unassuming. |
+| How | How does the person's pose appear? | Neutral. |
+| How | How does the image focus on the person's clothing and pose? | The image focuses on the person's clothing and pose rather than their physical appearance, emphasizing the modesty and simplicity of the scene. |

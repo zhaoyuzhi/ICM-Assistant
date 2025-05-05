@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress olive-colored? | Yes. |
+| Yes/No | Does the dress have a wide, flowing skirt? | Yes. |
+| Yes/No | Are the person's shoes black? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the color of the person's dress? | Olive. |
+| What | What is the person's attire does not reveal? | Skin or intimate actions. |
+| How | How does the white background emphasize the person and their clothing? | It creates a clean and plain background that draws the viewer's attention to the person and their attire. |
+| How | How does the image create a sense of movement? | The flowing skirt of the dress creates a sense of movement, suggesting that the person is walking or dancing. |

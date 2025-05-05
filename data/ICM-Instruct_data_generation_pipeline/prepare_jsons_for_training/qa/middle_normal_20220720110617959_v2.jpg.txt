@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin dressed in a navy blue pair of shorts and a white shirt? | Yes. |
+| Yes/No | Does the mannequin have a belt loop and a button closure on its shorts? | Yes. |
+| Yes/No | Is the mannequin positioned in a way that appears to be walking? | Yes. |
+| Yes/No | Is the mannequin's left leg slightly forward? | Yes. |
+| Yes/No | Is the mannequin's right arm bent at the elbow? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the mannequin's shorts? | Navy blue. |
+| What | What is the color of the mannequin's shirt? | White. |
+| How | How is the mannequin positioned in the image? | The mannequin is positioned in a way that appears to be walking, with its left leg slightly forward and its right arm bent at the elbow. |
+| How | How does the mannequin's shorts fasten? | The shorts have a belt loop and a button closure. |
+| Yes/No | Is the mannequin wearing a belt? | Yes. |
+| Yes/No | Are the shorts designed to be worn with a belt? | Yes. |
+| Yes/No | Is the mannequin dressed in a sexually explicit or suggestive manner? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and neutral? | Yes. |
+| Yes/No | Is the image suitable for a wide range of audiences? | Yes. |
+| What | What color are the shorts? | Navy blue. |
+| What | What color is the belt? | Brown. |
+| How | How is the mannequin positioned in the image? | The mannequin is positioned in such a way that the shorts are the main focus of the image. |
+| How | How is the belt fastened around the mannequin's waist? | The belt is fastened around the mannequin's waist in a normal way, not too tight or too loose. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini a two-piece swimsuit? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Are the woman's hands resting on her knees in the image? | Yes. |
+| Yes/No | Is the bikini designed with a checkered pattern? | Yes. |
+| Yes/No | Does the image depict a relaxed and casual atmosphere? | Yes. |
+| What | What is the primary color scheme of the bikini? | Blue and white. |
+| What | What is the woman's pose in the image? | Sitting with legs spread apart and hands resting on her knees. |
+| How | How does the woman's pose contribute to the overall allure of the image? | It adds to the overall allure of the image by creating a confident and assertive atmosphere. |
+| How | How does the bikini, which is a common choice for beachwear, contribute to the image's sensuality and allure? | It creates an atmosphere of freedom and relaxation, which is often associated with sensuality and allure. |

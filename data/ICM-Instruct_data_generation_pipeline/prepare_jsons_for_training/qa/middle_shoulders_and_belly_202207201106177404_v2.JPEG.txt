@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a patch on their belly? | Yes. |
+| Yes/No | Is the patch a small, rectangular device with a small button on the top? | Yes. |
+| Yes/No | Is the person in the image wearing a green device in their pocket? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the device on the person's belly? | A patch. |
+| What | What is the purpose of the button on the patch? | Unknown. |
+| How | How is the person wearing the patch on their belly? | It is adhered to their skin. |
+| How | How does the green device in their pocket relate to the patch on their belly? | Unknown. |
+| Yes/No | Is the person in the image wearing a patch on their belly? | Yes. |
+| Yes/No | Is the device in the person's pocket green and black in color? | Yes. |
+| Yes/No | Is the person's shirt orange in color? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing on their belly? | A patch. |
+| What | What is the color of the device in the person's pocket? | Green and black. |
+| How | How is the patch connected to the device in the person's pocket? | It is connected via a wire or cord. |
+| How | How does the image create a sense of intimacy and allure? | The combination of the person's exposed belly, the patch, and the green and black device in their pocket creates a sense of intimacy and allure. Additionally, the casual and relaxed atmosphere and the orange color of the person's shirt contribute to the overall sexy feel of the image. |

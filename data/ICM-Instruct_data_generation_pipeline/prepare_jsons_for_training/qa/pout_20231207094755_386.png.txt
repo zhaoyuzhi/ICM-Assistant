@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the woman making a peace sign with her fingers? | Yes. |
+| Yes/No | Does the woman have her eyes closed? | Yes. |
+| Yes/No | Is the woman's facial expression playful and seductive? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's hair curly? | Yes. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| What | What is the woman doing with her fingers? | Making a peace sign. |
+| How | How does the woman's facial expression contribute to the overall atmosphere of the image? | It adds a sense of playfulness and allure. |
+| How | How does the red lipstick contribute to the overall atmosphere of the image? | It adds a sense of boldness and sensuality. |

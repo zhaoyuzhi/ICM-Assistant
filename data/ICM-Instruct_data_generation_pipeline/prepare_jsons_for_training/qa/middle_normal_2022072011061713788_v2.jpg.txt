@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a navy blue sweatshirt? | Yes. |
+| Yes/No | Are the person's hands in their pockets? | Yes. |
+| Yes/No | Is the image taken from the waist down? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What color are the sweatpants? | Gray. |
+| What | What color is the sweatshirt? | Navy blue. |
+| How | How are the person's hands positioned? | In their pockets. |
+| How | How is the image focused? | On the person's attire rather than their physical appearance. |
+| Yes/No | Is the person in the image wearing a pair of gray sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a navy blue sweatshirt? | Yes. |
+| Yes/No | Does the person in the image have their hands in their pockets? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the color of the sweatpants? | Gray. |
+| What | What is the color of the sweatshirt? | Navy blue. |
+| How | How are the person's hands positioned in the image? | In their pockets. |
+| How | How would you describe the person's stance in the image? | Casual and relaxed. |

@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Are they wearing a white shirt and black shorts? | Yes. |
+| Yes/No | Are they putting on black stockings? | Yes. |
+| Yes/No | Is the bed covered with a white comforter and a pink pillow? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their feet? | Black stockings. |
+| What | What is the color of the pillow on the bed? | Pink. |
+| How | How is the person in the image preparing for a night out or special occasion? | By putting on stockings. |
+| What | What atmosphere does the image convey? | Intimate and alluring. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person wearing black shorts? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the stockings the person is putting on black? | Yes. |
+| Yes/No | Is the bed covered with a white comforter? | Yes. |
+| Yes/No | Is there a pink pillow on the bed? | Yes. |
+| What | What is the person in the image doing? | Putting on black stockings. |
+| What | What is the color of the person's shirt? | White. |
+| How | How is the person's legs positioned? | Crossed. |
+| How | How does the image capture a moment of intimacy and vulnerability? | The person is in a private space, wearing revealing clothing, and engaging in a sensual act. |

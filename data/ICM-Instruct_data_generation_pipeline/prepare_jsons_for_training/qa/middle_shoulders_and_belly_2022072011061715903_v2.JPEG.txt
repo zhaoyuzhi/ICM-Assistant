@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are the person's pants open? | Yes. |
+| Yes/No | Is the person's stomach exposed? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing on their lower body? | Blue jeans. |
+| What | What is the color of the person's belt? | Blue. |
+| How | How is the person's shirt open? | The person is holding their pants open, revealing their stomach. |
+| What | What can be seen as a display of confidence and self-assurance in the image? | The person is comfortable enough to reveal their body in this manner. |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Are the person's pants unbuttoned? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Are the person's shoes visible in the image? | No. |
+| Yes/No | Is the person's hair visible in the image? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the person holding in their hand? | Their pants. |
+| How | How is the person's belly exposed? | The person is holding their pants open, revealing their waist and stomach. |
+| What | What does the fact that the person is holding their pants open suggest? | A sense of vulnerability or confidence. |

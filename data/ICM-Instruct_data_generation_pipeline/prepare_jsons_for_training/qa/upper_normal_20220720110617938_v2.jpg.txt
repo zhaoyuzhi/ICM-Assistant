@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a serene and peaceful atmosphere? | Yes. |
+| Yes/No | Is the woman's pose in the image modest? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall mood of the image calm and composed? | Yes. |
+| What | What is the woman in the image wearing? | A white dress. |
+| What | What is the background of the image? | A blurred forest. |
+| How | How is the woman standing in the image? | Modestly. |
+| How | How does the image convey a sense of tranquility and calmness? | Through the low exposure level and the woman's pose and overall composition. |

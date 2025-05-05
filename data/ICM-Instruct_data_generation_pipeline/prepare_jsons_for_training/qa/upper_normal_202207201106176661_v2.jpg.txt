@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue and gold dress? | Yes. |
+| Yes/No | Is the woman leaning on a couch in the image? | Yes. |
+| Yes/No | Is the woman's head resting on her hand in the image? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image calm and relaxed? | Yes. |
+| Yes/No | Does the image suggest a casual and comfortable setting? | Yes. |
+| What | What is the primary focus of the image? | The woman's attire and relaxed posture. |
+| What | What is the overall atmosphere of the image? | Calm and relaxed. |
+| How | How is the woman's posture in the image? | Casual and comfortable. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the woman's attire and relaxed posture rather than her physical appearance or any potential allusions to intimacy. |

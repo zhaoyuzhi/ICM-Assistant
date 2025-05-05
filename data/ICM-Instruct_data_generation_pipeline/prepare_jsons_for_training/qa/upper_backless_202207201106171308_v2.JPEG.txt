@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a towel? | Yes. |
+| Yes/No | Is the person's back partially covered by the towel? | Yes. |
+| Yes/No | Does the person have a messy bun hairstyle? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and longing? | Yes. |
+| Yes/No | Does the person's attire and exposed skin create a sense of intimacy and allure? | Yes. |
+| What | What is the person wearing in the image? | A white towel wrapped around their body. |
+| What | What is the person's hairstyle in the image? | A messy bun. |
+| How | How is the person's back exposed in the image? | The towel is draped over their back, revealing a large area of their skin. |
+| How | How does the image create a sense of intimacy and allure? | The combination of the beach setting, the casual attire, and the exposure of the back creates an atmosphere of intimacy and allure, evoking feelings of desire and longing. |

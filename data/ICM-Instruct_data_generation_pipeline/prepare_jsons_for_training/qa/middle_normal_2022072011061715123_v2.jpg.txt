@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man in the image holding his hands in his pockets? | Yes. |
+| Yes/No | Is the image an appropriate image? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the man's pose suggest a sense of comfort and ease? | Yes. |
+| What | What is the man in the image wearing on his lower body? | Gray shorts with a black stripe down the side. |
+| What | What is the man in the image holding in his hands? | Nothing, his hands are in his pockets. |
+| How | How many pockets does the man's shorts have? | 2 pockets on the front. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man leaning on his hand? | Yes. |
+| Yes/No | Is there a couch in the room? | Yes. |
+| Yes/No | Is there a vase in the room? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Is there explicit nudity in the image? | No. |
+| What | What color are the shorts the man is wearing? | Gray with a black stripe. |
+| How | How is the man leaning on his hand? | Casually. |
+| What | What is the overall atmosphere of the image? | Casual, everyday setting. |

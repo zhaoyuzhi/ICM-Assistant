@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black suit? | Yes. |
+| Yes/No | Are black stockings being worn by the person in the image? | Yes. |
+| Yes/No | Is the person in the image holding a cigarette? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image suggest a well-lit and comfortable environment? | Yes. |
+| Yes/No | Is the person in the image looking directly at the camera? | Yes. |
+| What | What is the person in the image wearing? | A black suit and black stockings. |
+| What | What is the person in the image holding? | A cigarette. |
+| How | How is the person in the image standing? | In a confident pose. |
+| How | How does the image evoke emotions in the viewer? | It evokes strong emotions such as seduction and confidence due to the combination of the person's attire, their pose, and the overall aesthetic of the image. |
+| Yes/No | Is the person in the image wearing a black suit? | Yes. |
+| Yes/No | Is the person holding a cigarette in their hand? | Yes. |
+| Yes/No | Are they putting on black stockings? | Yes. |
+| Yes/No | Is the environment well-lit? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image evoke strong emotions? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person holding in their hand? | A cigarette. |
+| How | How is the person standing in the image? | Confidently, with a touch of sophistication and elegance. |
+| How | How does the image evoke emotions in the viewer? | Through the combination of the person's attire, cigarette, pose, and confident look. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a hat? | Yes. |
+| Yes/No | Is the woman wearing a dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | Yes. |
+| Yes/No | Is the woman looking up at the man? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the man wearing? | A blue shirt and a black hat. |
+| What | What is the woman wearing? | A white dress. |
+| How | How is the man leaning in to kiss the woman? | With his lips pressed against hers. |
+| How | How is the woman looking at the man? | With her head tilted back and her eyes looking up at him. |

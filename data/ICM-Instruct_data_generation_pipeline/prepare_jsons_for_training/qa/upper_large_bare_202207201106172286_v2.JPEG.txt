@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image set in a beach or park setting? | Yes. |
+| Yes/No | Are both women wearing green and white tops? | Yes. |
+| Yes/No | Is the woman on the left wearing a bikini top? | Yes. |
+| Yes/No | Is the woman on the right wearing a sports bra? | Yes. |
+| Yes/No | Are both women holding a volleyball? | Yes. |
+| Yes/No | Are both women smiling and looking directly at the camera? | Yes. |
+| What | What are the women holding in their hands? | A volleyball. |
+| What | What is the background of the image? | A park or beach setting. |
+| How | How are the women standing? | Side by side. |
+| How | How are the women holding the volleyball? | The woman on the right is holding it in her right hand, while the woman on the left is holding it in her left hand. |

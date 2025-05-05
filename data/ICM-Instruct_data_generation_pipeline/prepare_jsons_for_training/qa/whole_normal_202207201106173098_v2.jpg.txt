@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman looking upwards with a smile on her face? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a sexy or seductive atmosphere? | No. |
+| What | What is the woman's facial expression in the image? | She is smiling. |
+| What | What is the material of the woman's dress? | The dress appears to be made of a shiny material. |
+| How | How is the woman's hair styled in the image? | Her hair is styled in loose waves. |
+| How | How does the blurred background contribute to the overall atmosphere of the image? | It emphasizes the woman and her actions, making the image more about her and her expression rather than focusing on her appearance. |

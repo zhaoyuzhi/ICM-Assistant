@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the dress red and gold? | Yes. |
+| Yes/No | Does the dress have intricate designs? | Yes. |
+| Yes/No | Is the person's hair styled in a braid? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person have a large area of their back exposed? | Yes. |
+| What | What is the color of the dress? | Red and gold. |
+| What | What is the style of the person's hair? | Braided. |
+| How | How is the person posing in the image? | With their back facing the camera, showcasing the backless design of the dress. |
+| How | How does the image create a sense of allure and mystery? | Through the combination of the person's attire and pose, emphasizing their curves and the intricate details of the dress. |

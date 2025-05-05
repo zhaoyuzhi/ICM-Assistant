@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman holding a laptop? | Yes. |
+| Yes/No | Is the sign on the wall in the background? | Yes. |
+| Yes/No | Does the sign read "You are happy"? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the woman wearing? | A floral dress. |
+| What | What is the message on the sign? | "You are happy". |
+| How | How is the woman standing in relation to the sign? | She is standing in front of the sign. |
+| How | How does the low exposure level of the image affect the atmosphere? | It creates a more uplifting and positive atmosphere by emphasizing the woman's actions and the sign's message, rather than the background. |

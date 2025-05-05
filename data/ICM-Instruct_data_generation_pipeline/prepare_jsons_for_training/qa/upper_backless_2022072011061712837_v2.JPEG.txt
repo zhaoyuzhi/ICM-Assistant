@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a gray sports bra? | Yes. |
+| Yes/No | Are black leggings being worn by the woman? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the woman lifting weights in a gym? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing? | A gray sports bra and black leggings. |
+| What | What is the woman doing in the image? | Lifting weights. |
+| How | How is the woman's hair styled? | Pulled back into a ponytail. |
+| How | How does the image capture the woman's moment? | It captures a moment of strength and determination. |

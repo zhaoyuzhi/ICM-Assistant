@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing lipstick? | Yes. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Are the person's eyes visible in the image? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| Yes/No | Does the image convey a sense of passion? | Yes. |
+| What | What color is the person's lipstick? | Red. |
+| What | What is the person doing with their lips in the image? | Biting them. |
+| How | How does the close-up nature of the image affect the viewer's perception of the person's lips? | It draws attention to the shape and color of the lips and emphasizes their allure. |
+| How | How does the person's biting motion contribute to the overall atmosphere of the image? | It adds a sense of intensity and passion, enhancing the seductive appeal of the image. |

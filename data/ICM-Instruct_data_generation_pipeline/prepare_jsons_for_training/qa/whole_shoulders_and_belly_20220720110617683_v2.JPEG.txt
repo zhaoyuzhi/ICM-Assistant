@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are her jeans blue? | Yes. |
+| Yes/No | Is she standing with her hands on her hips? | Yes. |
+| Yes/No | Is she looking over her shoulder? | Yes. |
+| Yes/No | Is the background plain? | Yes. |
+| Yes/No | Is the woman's midriff exposed? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips and looking over her shoulder. |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | The woman's strapless top and pose create a sense of confidence and sophistication, which enhances the sexy atmosphere of the image. |
+| How | How does the pose add to the overall allure of the image? | The woman's pose with her hands on her hips and her gaze over her shoulder adds to the overall allure of the image, creating a sense of seductiveness and an alluring appearance. |

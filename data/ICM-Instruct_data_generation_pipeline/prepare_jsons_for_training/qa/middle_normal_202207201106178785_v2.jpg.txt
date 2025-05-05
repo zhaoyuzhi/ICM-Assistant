@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of beige sweatpants? | Yes. |
+| Yes/No | Does the woman have her hand in her pocket? | Yes. |
+| Yes/No | Is the zipper of the sweatpants open or closed? | Closed. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman posing in a sexual or provocative way? | No. |
+| Yes/No | Is the image focused on the woman's physical appearance rather than her clothing or pose? | No. |
+| What | What is the primary color of the woman's sweatpants? | Beige. |
+| What | What is the woman holding in her hand? | Her hand is in her pocket. |
+| How | How is the woman's pose in the image? | Casual, everyday. |
+| How | How would you describe the overall atmosphere of the image? | Casual and everyday, rather than sensual or provocative. |
+| Yes/No | Is the woman in the image wearing a pair of beige sweatpants? | Yes. |
+| Yes/No | Does the woman have her hands in her pockets? | Yes. |
+| Yes/No | Are the sweatpants made of a soft, stretchy fabric? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's top black? | Yes. |
+| Yes/No | Are the woman's legs slightly apart? | Yes. |
+| What | What is the woman wearing on her bottom half? | Beige sweatpants. |
+| What | What is the woman wearing on her top half? | Black top. |
+| How | How are the sweatpants fastened? | With a zipper on the side. |
+| How | How would you describe the overall atmosphere of the image? | Casual and comfortable. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a black sweater? | Yes. |
+| Yes/No | Are her arms crossed? | Yes. |
+| Yes/No | Is the background a plain white wall? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image feature any suggestive poses or close-ups? | No. |
+| What | What color is the woman's sweater? | Black. |
+| What | What is the overall atmosphere of the image? | Calm and simple. |
+| How | How is the woman's face visible in the image? | The woman's face is not clearly visible due to the low exposure level. |
+| How | How does the image focus on the woman's attire and the plain background? | The image focuses on the woman's attire and the plain background by highlighting their simplicity and lack of provocative elements. |

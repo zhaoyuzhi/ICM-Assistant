@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple t-shirt? | Yes. |
+| Yes/No | Does the graphic design on the t-shirt depict a cake? | Yes. |
+| Yes/No | Is the woman standing in front of a wooden table? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| Yes/No | Is the woman wearing a revealing or provocative outfit? | No. |
+| What | What is the woman wearing in the image? | A purple tshirt with a graphic design of a cake. |
+| What | What is the material of the table in the background? | Wood. |
+| How | How is the woman standing in the image? | She is standing in front of a wooden table. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It emphasizes the casual and nonsexual nature of the scene. |

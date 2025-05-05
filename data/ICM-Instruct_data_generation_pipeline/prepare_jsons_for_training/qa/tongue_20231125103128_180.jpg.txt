@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have a playful expression? | Yes. |
+| Yes/No | Is the image a close-up of the woman's face? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman doing in the image? | Sticking out her tongue. |
+| What | What is the woman's facial expression? | Playful and inviting. |
+| How | How does the close-up view of the woman's face highlight her features? | It emphasizes her beauty and makes her look more alluring. |
+| How | How does the image evoke feelings in the viewer? | It evokes feelings of enjoyment and pleasure. |

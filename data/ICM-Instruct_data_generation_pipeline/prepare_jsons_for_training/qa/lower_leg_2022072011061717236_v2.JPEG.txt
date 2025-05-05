@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white shorts? | Yes. |
+| Yes/No | Is the person in the image wearing white sneakers? | Yes. |
+| Yes/No | Is the person's top cropped at the waist? | Yes. |
+| Yes/No | Are the person's legs the main focus of the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the person's pose and attire suggest confidence? | Yes. |
+| What | What is the person in the image wearing? | White shorts, white sneakers, and a white cropped top. |
+| What | What is the background of the image? | Not specified in the description. |
+| How | How are the person's legs positioned in the image? | The person is standing with their legs apart. |
+| How | How does the contrast between the person's clothing and the background contribute to the overall atmosphere of the image? | It creates a striking visual effect that enhances the sexy atmosphere. |

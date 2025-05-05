@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white crop top? | Yes. |
+| Yes/No | Does the crop top have the word "flawless" written on it? | Yes. |
+| Yes/No | Are the woman's gray sweatpants cropped at the midriff? | No. |
+| Yes/No | Does the image feature a white background? | Yes. |
+| Yes/No | Is the woman's pose with her hands on her hips? | Yes. |
+| What | What is the message conveyed by the word "flawless" on the crop top? | Confident and empowering. |
+| What | What is the overall atmosphere created by the combination of the woman's outfit, pose, and the white background in the image? | Sexy. |
+| How | How does the cropped top and gray sweatpants give a casual yet stylish look? | The cropped top and gray sweatpants create a casual yet stylish look by combining a relaxed, comfortable outfit with a fashionable and trendy crop top design. |
+| How | How does the woman's pose with her hands on her hips add to the overall allure of the image? | The woman's pose with her hands on her hips adds to the overall allure of the image by creating a sense of confidence and assertiveness, drawing the viewer's attention to her body and outfit. |

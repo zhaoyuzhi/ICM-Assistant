@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a beige skirt? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Are her heels beige? | Yes. |
+| Yes/No | Is she carrying a white purse? | Yes. |
+| Yes/No | Is the background plain white? | Yes. |
+| What | What is the length of the woman's skirt? | Just above her knees. |
+| What | What is the style of the woman's blouse? | Shortsleeved with a collar. |
+| How | How does the woman's attire create a sense of simplicity and elegance? | The modest attire and plain background create a sense of simplicity and elegance. |
+| How | How does the image not contain any explicit or suggestive content? | The image does not contain any explicit or suggestive content, and the woman's attire and posture are modest. |

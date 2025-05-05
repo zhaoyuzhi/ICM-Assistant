@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Are they in the process of putting on white stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Does the image capture a moment of vulnerability? | Yes. |
+| Yes/No | Does the image have a sexy feel? | Yes. |
+| What | What is the person in the image wearing? | White shirt, plaid skirt, white stockings. |
+| What | What is the person in the image doing? | Putting on white stockings. |
+| How | How are they putting on the stockings? | Focused and precise movements. |
+| What | What does the overall atmosphere of the image evoke in the viewer? | Feelings of connection and intimacy. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's movements precise and focused? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Does the image capture a moment of vulnerability? | Yes. |
+| Yes/No | Is the act of putting on stockings an element of sensuality? | Yes. |
+| What | What is the person in the image putting on? | White stockings. |
+| What | What is the color of the person's shirt? | White. |
+| How | How are the person's movements while putting on the stockings? | Focused and precise. |
+| What | What does the overall atmosphere of the image evoke in the viewer? | Feelings of connection and intimacy. |

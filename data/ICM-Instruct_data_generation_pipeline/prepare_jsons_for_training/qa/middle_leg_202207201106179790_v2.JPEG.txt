@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pink Nike shorts? | Yes. |
+| Yes/No | Does the person have a drawstring waist? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Is the Nike logo displayed on the left leg of the shorts? | Yes. |
+| Yes/No | Is the person wearing a pink top? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the shorts? | Pink. |
+| What | What is the logo displayed on the left leg of the shorts? | Nike. |
+| How | How does the drawstring waist contribute to the overall allure of the image? | It creates a comfortable fit and reveals the person's body shape, adding to the sense of movement and allure. |
+| How | How does the pink color of the shorts and top enhance the image? | It adds a soft, feminine touch and creates a visually appealing contrast with the person's thighs, further enhancing the sexy atmosphere. |

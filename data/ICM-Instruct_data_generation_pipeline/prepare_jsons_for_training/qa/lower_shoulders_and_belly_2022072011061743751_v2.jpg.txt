@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's feet bare in the image? | Yes. |
+| Yes/No | Is the room in the image equipped with a wooden floor? | Yes. |
+| Yes/No | Is there a couch present in the background of the image? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| What | What is the primary color of the person's leggings in the image? | Blue. |
+| What | What is the surface material of the floor in the image? | Wood. |
+| How | How does the exposure of the person's belly contribute to the image's overall atmosphere? | It creates a sense of intimacy and allure. |
+| How | How does the presence of the couch in the background enhance the image's atmosphere? | It adds to the cozy and comfortable setting, further immersing the viewer in the scene. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are her arms on her hips? | Yes. |
+| Yes/No | Is her shirt unbuttoned? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Are blue jeans considered casual and comfortable clothing? | Yes. |
+| Yes/No | Does her pose accentuate her midriff? | Yes. |
+| What | What color is the woman's shirt? | Pink. |
+| What | What type of clothing is the woman wearing? | Blue jeans. |
+| How | How is the woman's shirt unbuttoned? | It is strapless. |
+| How | How does the woman's pose create a sense of confidence? | By accentuating her midriff and creating a relaxed, yet alluring, vibe. |

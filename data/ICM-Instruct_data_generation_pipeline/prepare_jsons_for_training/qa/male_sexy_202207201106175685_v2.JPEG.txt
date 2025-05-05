@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing pants? | No. |
+| Yes/No | Does the image feature a woman? | No. |
+| Yes/No | Is the background of the image colorful? | No. |
+| Yes/No | Does the man have any tattoos or piercings visible in the image? | No. |
+| Yes/No | Is the image shot in a natural setting, such as outdoors? | No. |
+| What | What is the primary color of the man's underwear? | Orange. |
+| What | What is the man's body position in the image? | Standing, facing the camera. |
+| How | How does the image convey a sense of intimacy and vulnerability? | Through the man's toplessness and the stark contrast of the white background. |
+| How | How does the orange underwear contribute to the overall atmosphere of the image? | It adds a pop of color and draws attention to the man's body. |

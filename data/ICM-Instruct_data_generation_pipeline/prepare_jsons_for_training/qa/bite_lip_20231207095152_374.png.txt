@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman wearing a yellow dress? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman looking downwards? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's dress? | Yellow. |
+| What | What is the woman's facial expression? | Serious. |
+| How | How is the woman's pose? | Confident and seductive. |
+| How | How does the woman's biting lip add to the image's atmosphere? | It adds to her alluring and seductive demeanor. |

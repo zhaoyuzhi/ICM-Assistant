@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Is the stuffed animal a pink teddy bear? | Yes. |
+| Yes/No | Is the person's hair long? | Yes. |
+| Yes/No | Is the dress white? | Yes. |
+| Yes/No | Are the stockings sheer? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the person holding in their lap? | A stuffed animal (a pink teddy bear). |
+| What | What is the color of the ribbon around the stuffed animal's neck? | Red. |
+| How | How are the stockings covering the person's legs and feet? | They are covering the person's legs and feet fully, as they are meant to. |
+| How | How does the presence of the stuffed animal add to the atmosphere of the image? | The stuffed animal adds a playful and innocent element to the scene, contrasting with the stockings and creating an intimate and sensual atmosphere. |

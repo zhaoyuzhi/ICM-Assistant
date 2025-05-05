@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Is the woman adjusting the bra? | Yes. |
+| Yes/No | Is the image in black and white? | Yes. |
+| Yes/No | Does the image have a classic and timeless feel? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What is the color scheme of the image? | Black and white. |
+| How | How does the contrast between the woman's skin and the white bra contribute to the image's overall atmosphere? | It creates a visually striking image that draws attention to her body and the act of putting on the bra, contributing to its sensual and evocative atmosphere. |
+| How | How does the image's black and white color scheme contribute to its overall atmosphere? | It adds a sense of nostalgia and sophistication to the image, enhancing its sensual and evocative feel. |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Is the woman adjusting her bra? | Yes. |
+| Yes/No | Is the image in black and white? | Yes. |
+| Yes/No | Is the woman wearing a black bra underneath the white one? | Yes. |
+| Yes/No | Does the image have a classic and timeless feel to it? | Yes. |
+| Yes/No | Does the image have a sensual and evocative atmosphere? | Yes. |
+| What | What is the woman adjusting in the image? | She is adjusting her bra. |
+| What | What is the color scheme of the image? | The color scheme of the image is black and white. |
+| How | How does the contrast between the woman's skin and the white bra affect the image? | It creates a visually striking image that draws attention to her body and the act of putting on the bra. |
+| How | How does the image make the viewer feel? | It creates a sensual and evocative atmosphere that contributes to its sexy feel. |

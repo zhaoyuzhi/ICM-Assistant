@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink shorts? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are her hands resting on her hips? | Yes. |
+| Yes/No | Is the garden in the background lush with greenery? | Yes. |
+| Yes/No | Does the woman's pose create a sense of allure and confidence? | Yes. |
+| Yes/No | Does the image have a natural and serene setting? | Yes. |
+| What | What color are the woman's shorts? | Pink. |
+| What | What is the woman's pose in the image? | Confident, with her hands resting on her hips. |
+| How | How are the woman's shorts designed at the front? | They are designed with a tie at the front. |
+| How | How does the garden setting contrast with the woman's assertive stance? | The garden setting adds a touch of nature and tranquility to the scene, contrasting with the woman's assertive stance. |

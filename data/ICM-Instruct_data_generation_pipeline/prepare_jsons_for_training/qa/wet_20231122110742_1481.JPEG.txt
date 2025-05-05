@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the person holding a water bottle in their hand? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image suggest that the person has been engaging in physical activity? | Yes. |
+| Yes/No | Is the person's posture relaxed? | Yes. |
+| What | What is the person in the image wearing? | A white tshirt and black shorts. |
+| What | What is the person holding in their hand? | A water bottle. |
+| How | How are the person's clothes wet? | They are soaked. |
+| How | How does the image create an atmosphere that is both alluring and intriguing? | Through the combination of the person's wet clothes, relaxed posture, and casual setting. |

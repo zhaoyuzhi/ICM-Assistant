@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Are the stockings beige in color? | Yes. |
+| Yes/No | Does the person have their legs crossed? | Yes. |
+| Yes/No | Is the couch brown in color? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Are the stockings designed with a high waist and wide waistband? | Yes. |
+| What | What is the person wearing on their feet? | The person is not wearing any shoes, their feet are bare. |
+| What | What is the color of the couch? | Brown. |
+| How | How are the stockings designed? | The stockings are designed with a high waist and a wide waistband, providing a snug fit around the thighs. |
+| How | How is the person sitting on the couch? | The person is sitting on the couch with their legs crossed and their feet resting on the armrest of the couch. |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Are the stockings designed with a high waist and a wide waistband? | Yes. |
+| Yes/No | Is the person sitting on a brown couch? | Yes. |
+| Yes/No | Are their legs crossed and their feet resting on the armrest of the couch? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Is the image sexy because it captures a moment of intimacy and allure? | Yes. |
+| What | What is the person wearing in the image? | Beige stockings. |
+| What | What is the color of the couch in the image? | Brown. |
+| How | How are the stockings designed? | With a high waist and a wide waistband. |
+| How | How is the person's posture in the image? | Relaxed and confident, with their legs crossed and feet resting on the armrest. |

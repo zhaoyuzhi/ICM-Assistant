@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink skirt? | Yes. |
+| Yes/No | Is the woman's body the main focus of the image? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and relaxed? | Yes. |
+| What | What is the woman sitting on in the image? | A chair. |
+| What | What is the color of the woman's blouse? | Red. |
+| How | How is the woman's body positioned in the image? | The woman is sitting. |
+| How | How would you describe the exposure level of the image? | Low. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the person's mouth open in the image? | Yes. |
+| Yes/No | Is the person's finger inside their mouth in the image? | Yes. |
+| Yes/No | Is the image a close-up of the person's face and neck? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color lipstick is the person wearing? | Red. |
+| What | What is the person's facial expression in the image? | Not visible. |
+| How | How is the person's finger positioned in the image? | Inside their mouth. |
+| How | How does the image's atmosphere contribute to its sexy appearance? | It's intimate and seductive. |

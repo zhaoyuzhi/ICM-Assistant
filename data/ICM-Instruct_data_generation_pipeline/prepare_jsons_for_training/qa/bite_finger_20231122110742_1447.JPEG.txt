@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the person have long black hair? | Yes. |
+| Yes/No | Is the person's facial expression visible in the image? | No. |
+| Yes/No | Is the hand gesture made by the person provocative? | Yes. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| What | What is the person's hair color? | Black. |
+| What | What is the person's shirt color? | Black. |
+| How | How is the person's hand gesture perceived? | As provocative and sensual. |
+| How | How does the image make the viewer feel? | Captivated and intimate. |

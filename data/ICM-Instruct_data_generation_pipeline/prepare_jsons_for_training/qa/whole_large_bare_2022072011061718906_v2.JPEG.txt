@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | Yes. |
+| Yes/No | Are the women smiling? | No. |
+| Yes/No | Is the image taken outdoors? | Yes. |
+| Yes/No | Are the women standing close together? | No. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| Yes/No | Does the image feature any men? | No. |
+| What | What is the main color of the woman's bikini who is facing the camera? | White. |
+| What | What is the color of the sky in the background of the image? | Blue. |
+| How | How are the women standing in relation to each other? | One is facing the camera, the other is facing away. |

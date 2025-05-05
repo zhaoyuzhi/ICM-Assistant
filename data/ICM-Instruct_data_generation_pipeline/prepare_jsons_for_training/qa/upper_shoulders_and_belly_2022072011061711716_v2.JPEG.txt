@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the blouse have a ruffled collar? | Yes. |
+| Yes/No | Are the sleeves of the blouse off-the-shoulder? | Yes. |
+| Yes/No | Is the woman's pose in the image neutral? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the main focus of the woman's outfit in the image? | The white blouse. |
+| What | What is the sexy element of the woman's outfit in the image? | The offtheshoulder sleeves and the ruffled collar. |
+| How | How does the woman's pose in the image contribute to the overall feel of the image? | The woman's confident and alluring pose enhances the sexy feel of the image. |
+| How | How does the plain white wall in the background affect the focus of the image? | The plain white wall puts the focus entirely on the woman, making the image even more seductive. |

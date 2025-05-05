@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting on a stone wall? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Does the skirt have a slit on the side? | Yes. |
+| Yes/No | Is the woman wearing a black bracelet on her left wrist? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's attire in the image? | A black skirt and a white shirt. |
+| What | What is the color of the stone wall? | Gray. |
+| How | How does the woman's pose on the stone wall contribute to the overall atmosphere of the image? | It adds to the overall allure and intimacy of the image. |
+| How | How does the exposure of the woman's thighs contribute to the image's atmosphere? | It creates a sense of sensuality and intimacy. |

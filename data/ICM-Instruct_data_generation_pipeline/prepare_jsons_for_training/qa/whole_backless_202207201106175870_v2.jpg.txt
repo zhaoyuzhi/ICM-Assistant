@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the dress made of a shiny material? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the person's pose suggest confidence and allure? | Yes. |
+| What | What is the color of the dress? | Red. |
+| What | What is the material of the dress? | Shiny. |
+| How | How does the dress expose the person's back? | The dress has a slit in the back, and the person's back is exposed due to the flowing nature of the garment. |
+| How | How does the person's pose enhance the allure of the image? | The person's pose, with their back to the camera, draws attention to the dress and the exposed skin, enhancing the allure by creating a sense of intimacy and sensuality. |

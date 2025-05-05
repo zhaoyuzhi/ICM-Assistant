@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the woman's jeans high-waisted? | Yes. |
+| Yes/No | Does the woman have a midriff-baring design on her blouse? | Yes. |
+| Yes/No | Is the woman's left hand resting on her hip? | Yes. |
+| Yes/No | Is the woman's right hand resting on her thigh? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the woman's jeans? | Blue. |
+| What | What is the woman's pose in the image? | She is striking a pose with her left hand on her hip and her right hand resting on her thigh. |
+| How | How does the white blouse and blue jeans combination highlight the woman's figure? | The contrast between the lightcolored blouse and the darkcolored jeans creates a visual distinction that draws attention to the woman's figure. |
+| How | How do the ruffled sleeves add a touch of femininity to the woman's outfit? | The ruffled sleeves add a delicate and feminine touch to the woman's overall look, which contributes to the sexy atmosphere of the image. |

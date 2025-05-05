@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of khaki shorts? | Yes. |
+| Yes/No | Is the person wearing a black t-shirt? | Yes. |
+| Yes/No | Does the person have their arms folded across their chest? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color are the person's sneakers? | White and black. |
+| What | What is the logo on the left leg of the person's shorts? | Small logo. |
+| How | How are the person's arms positioned? | Folded across their chest. |
+| How | How are the person's legs positioned? | Slightly apart. |

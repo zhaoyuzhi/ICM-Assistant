@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black swimsuit? | Yes. |
+| Yes/No | Does the swimsuit have a gold trim? | Yes. |
+| Yes/No | Is the woman sitting on a white surface? | Yes. |
+| Yes/No | Is her back facing the camera? | Yes. |
+| Yes/No | Are the straps of the swimsuit thin? | Yes. |
+| Yes/No | Does the swimsuit have a low back? | Yes. |
+| What | What is the pose of the woman in the image? | She is sitting with her back facing the camera. |
+| What | What is the color of the surface on which the woman is sitting? | White. |
+| How | How does the gold trim on the swimsuit contribute to the atmosphere of the image? | It adds a touch of elegance and luxury. |
+| How | How does the revealing nature of the swimsuit contribute to the atmosphere of the image? | It creates a sense of allure and seduction. |

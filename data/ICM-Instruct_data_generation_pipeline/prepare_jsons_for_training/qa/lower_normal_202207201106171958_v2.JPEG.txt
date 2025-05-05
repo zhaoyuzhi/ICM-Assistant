@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress olive green? | Yes. |
+| Yes/No | Does the dress have a slit on the left side? | Yes. |
+| Yes/No | Is the woman wearing black heels? | Yes. |
+| Yes/No | Is the woman's pose neutral? | Yes. |
+| Yes/No | Does the image suggest a formal or semi-formal occasion? | Yes. |
+| What | What is the color of the woman's dress? | Olive green. |
+| What | What is the woman's pose in the image? | Neutral. |
+| How | How is the dress cinched at the waist? | With a tie. |
+| How | How do the black heels complement the color of the dress? | They match the olive green color of the dress, creating a cohesive and stylish look. |

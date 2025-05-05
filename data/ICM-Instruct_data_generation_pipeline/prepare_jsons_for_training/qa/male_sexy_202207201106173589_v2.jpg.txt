@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image topless? | Yes. |
+| Yes/No | Is the man wearing a black belt? | Yes. |
+| Yes/No | Is the man wearing black shorts? | Yes. |
+| Yes/No | Are the man's arms raised in a fighting stance? | Yes. |
+| Yes/No | Is the background of the image black and white? | Yes. |
+| Yes/No | Does the image feature a muscular man in a fighting stance? | Yes. |
+| What | What is the man's attire in the image? | A black belt and black shorts. |
+| What | What is the man's physique in the image? | Muscular. |
+| How | How does the black and white background emphasize the man's physique? | It creates a stark contrast between the man's body and the background, drawing the viewer's attention to his muscularity. |
+| How | How does the image convey intensity and power? | The man's raised arms and fighting stance suggest a powerful and intense moment, and the black and white background adds to the dramatic effect. |

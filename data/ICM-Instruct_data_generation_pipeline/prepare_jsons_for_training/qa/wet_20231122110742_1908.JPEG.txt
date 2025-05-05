@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying down? | Yes. |
+| Yes/No | Are they wearing a white t-shirt and blue jeans? | Yes. |
+| Yes/No | Are their clothes soaked? | Yes. |
+| Yes/No | Is the person covering their face with their hand? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's clothes? | White and blue. |
+| What | What is the person's hand doing? | Covering their face. |
+| How | How are the person's clothes soaked? | They have been in the water for some time. |
+| How | How does the image evoke a sense of intimacy and vulnerability? | The person is in a vulnerable position in the bathtub, their clothes are soaked, and they are covering their face with their hand. |

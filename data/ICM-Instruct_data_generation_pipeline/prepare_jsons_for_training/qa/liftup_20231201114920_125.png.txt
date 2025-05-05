@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are her arms crossed? | Yes. |
+| Yes/No | Is she standing in the center of the image? | Yes. |
+| Yes/No | Are the other two women standing on either side of her? | Yes. |
+| Yes/No | Is the background dark blue? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What color are the other two women's shirts? | Pink, black. |
+| How | How is the woman in the white shirt lifting her clothes? | She is lifting her shirt up. |
+| What | What atmosphere does the image create? | Sensuality, allure. |

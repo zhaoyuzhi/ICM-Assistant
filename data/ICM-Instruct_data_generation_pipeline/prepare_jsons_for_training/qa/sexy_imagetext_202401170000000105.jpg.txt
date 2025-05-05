@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lifting her hair? | Yes. |
+| Yes/No | Is the woman looking down? | Yes. |
+| Yes/No | Is she wearing a black top? | Yes. |
+| Yes/No | Does the image appear to be an advertisement for a country doctor? | Yes. |
+| Yes/No | Does the woman's pose and the overall atmosphere of the image suggest sexiness? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the woman doing in the image? | Lifting her hair and looking down. |
+| What | What does the slogan suggest about the country doctor? | That the country doctor is attractive and charming. |
+| How | How is the woman's pose creating a sense of mystery and allure? | The woman's pose creates a sense of mystery and allure by suggesting vulnerability and intimacy. |
+| How | How is the overall atmosphere of the image seductive and enticing? | The use of soft focus, warm colors, and the woman's pose create a seductive and enticing atmosphere. |

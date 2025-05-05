@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Does the woman in the image have long black hair? | Yes. |
+| Yes/No | Is the background of the image a weather forecast? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| Yes/No | Does the woman in the image appear to be in a state of surprise or shock? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the woman in the image wearing? | A blue shirt. |
+| What | What is the background of the image? | A weather forecast. |
+| How | How does the woman in the image appear to be feeling? | Surprised or shocked. |
+| How | How does the image focus on the weather forecast? | The image focuses on the weather forecast rather than the woman's appearance, suggestin. |

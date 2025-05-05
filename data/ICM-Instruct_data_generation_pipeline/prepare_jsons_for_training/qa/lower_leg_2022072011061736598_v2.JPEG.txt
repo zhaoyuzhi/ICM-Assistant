@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing denim shorts? | Yes. |
+| Yes/No | Is the person's top black? | Yes. |
+| Yes/No | Are the shorts high-waisted? | Yes. |
+| Yes/No | Does the person have their legs apart? | Yes. |
+| Yes/No | Is the background plain white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person wearing on their bottom half? | Denim shorts. |
+| What | What is the color of the person's top? | Black. |
+| How | How are the shorts styled? | Highwaisted with a frayed hem. |
+| How | How does the person's pose suggest their confidence? | With their legs apart, suggesting selfassurance and assertiveness. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a denim skirt? | Yes. |
+| Yes/No | Does the skirt have gold buttons? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the blouse white? | Yes. |
+| Yes/No | Does the blouse have a floral pattern? | Yes. |
+| What | What is the color of the skirt? | Denim. |
+| What | What is the pattern on the blouse? | Floral. |
+| How | How does the person's pose suggest confidence and self-assuredness? | The person's hands are on their hips, and they are standing in a relaxed, confident stance. |
+| How | How does the contrast between the casual and elegant elements of the outfit contribute to the overall feel of the image? | The contrast creates a sense of allure and mystery, making the image both stylish and sexy. |

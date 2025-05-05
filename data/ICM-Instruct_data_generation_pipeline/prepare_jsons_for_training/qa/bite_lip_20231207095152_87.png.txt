@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image Asian? | Yes. |
+| Yes/No | Is the woman wearing a white tank top? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the woman's facial expression? | A slight smile. |
+| What | What is the woman's hair color? | Brown. |
+| How | How is the woman looking at the camera? | Directly. |
+| How | How would you describe the woman's attitude in the image? | Confident and alluring. |

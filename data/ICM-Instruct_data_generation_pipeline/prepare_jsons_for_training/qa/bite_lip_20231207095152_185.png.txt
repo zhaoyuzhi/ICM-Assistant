@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Are there white flowers on the dress? | Yes. |
+| Yes/No | Is the woman holding her arm up to her face? | Yes. |
+| Yes/No | Is she biting her lip? | Yes. |
+| Yes/No | Is her facial expression serious? | Yes. |
+| Yes/No | Is she looking down at the camera? | Yes. |
+| What | What color is the dress? | Pink. |
+| What | What is the woman doing with her arm? | She is holding it up to her face. |
+| How | How is the woman's expression? | Serious. |
+| How | How is the image described overall? | Sexy and captivating. |

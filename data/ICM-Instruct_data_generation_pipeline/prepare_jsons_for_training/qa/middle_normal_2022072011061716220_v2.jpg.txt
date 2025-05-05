@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are olive green cargo shorts visible in the image? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the man appear to be casually dressed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and non-threatening? | Yes. |
+| What | What color is the man's t-shirt? | White. |
+| What | What type of pants is the man wearing? | Olive green cargo shorts. |
+| How | How is the man's posture described in the image? | Relaxed and nonchalant. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the man's clothing and demeanor rather than his physical appearance. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are khaki cargo shorts visible in the image? | Yes. |
+| Yes/No | Is the man's hand in his pocket? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image depict a relaxed and informal setting? | Yes. |
+| Yes/No | Is the man's posture casual and non-threatening? | Yes. |
+| What | What color is the man's t-shirt? | White. |
+| What | What type of pants is the man wearing? | Khaki cargo shorts. |
+| How | How is the man's hand positioned in the image? | In his pocket. |
+| How | How would you describe the overall atmosphere of the image? | Casual and nonthreatening. |

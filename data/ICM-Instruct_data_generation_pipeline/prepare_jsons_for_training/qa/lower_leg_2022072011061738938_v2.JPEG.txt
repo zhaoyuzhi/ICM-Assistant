@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Are the person's shorts white? | Yes. |
+| Yes/No | Does the person have a frayed hem on their shorts? | Yes. |
+| Yes/No | Is there a button on the back of the person's shorts? | Yes. |
+| Yes/No | Are the person's legs long and slender? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| What | What color are the flowers in the vase? | White. |
+| What | What is the color of the person's sneakers? | White. |
+| How | How many colors are present in the image? | 4 (yellow, white, black, green). |
+| How | How does the person's pose contribute to the overall allure of the image? | The person's confident and relaxed pose adds to the overall allure of the image. |

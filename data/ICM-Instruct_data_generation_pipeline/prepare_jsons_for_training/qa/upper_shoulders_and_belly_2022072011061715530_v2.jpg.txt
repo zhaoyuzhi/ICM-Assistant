@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Does the woman have a necklace on? | Yes. |
+| Yes/No | Are her hair styled in loose waves? | Yes. |
+| Yes/No | Is she making a peace sign with her fingers? | Yes. |
+| Yes/No | Is the background a plain white wall? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's top? | White. |
+| What | What is the pattern on the woman's top? | Red hearts. |
+| How | How is the woman's hair styled? | Loose waves. |
+| What | What gesture is the woman making with her fingers? | Peace sign. |

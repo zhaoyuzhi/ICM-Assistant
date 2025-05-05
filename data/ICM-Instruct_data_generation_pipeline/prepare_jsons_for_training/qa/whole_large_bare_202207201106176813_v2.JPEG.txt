@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Are the boots the woman is wearing black and red? | Yes. |
+| Yes/No | Does the woman have her legs crossed in the image? | Yes. |
+| Yes/No | Is the bed in the image white? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman's attire and pose in the image considered sexy? | Yes. |
+| What | What color are the woman's gloves in the image? | Black and red. |
+| What | What is the woman's pose in the image? | Sitting with her legs crossed. |
+| How | How many attractive features does the woman's attire reveal in the image? | 3 (cleavage, legs, and arms). |
+| How | How does the woman's pose contribute to the overall allure of the image? | It adds to the seductive atmosphere and highlights her attractive features. |

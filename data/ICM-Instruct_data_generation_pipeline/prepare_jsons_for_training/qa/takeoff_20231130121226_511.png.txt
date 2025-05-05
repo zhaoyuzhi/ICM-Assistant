@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image removing her clothes? | Yes. |
+| Yes/No | Is the woman's top white? | Yes. |
+| Yes/No | Does the woman's top have hearts on it? | Yes. |
+| Yes/No | Are the woman's pants blue? | Yes. |
+| Yes/No | Is the woman's right hand on her hip? | Yes. |
+| Yes/No | Is there a wooden desk in the background? | Yes. |
+| What | What color are the woman's pants? | Blue. |
+| What | What is the woman holding onto with her left hand? | Her pants. |
+| How | How is the woman taking off her clothes? | She is holding her pants up with her left hand and has her right hand on her hip. |
+| How | How would you describe the atmosphere of the image? | Sexy, sensual, and intimate. |

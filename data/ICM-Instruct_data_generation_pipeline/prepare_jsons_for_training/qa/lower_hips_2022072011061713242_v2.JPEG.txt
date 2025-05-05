@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing yellow leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Are the person's sneakers black and white? | Yes. |
+| Yes/No | Is the person in the image engaged in some form of physical activity or exercise? | Yes. |
+| How | Does the image showcase the person's buttocks? | Yes. |
+| Yes/No | Does the person's pose and attire create an atmosphere of confidence and allure? | Yes. |
+| What | What color are the leggings? | Yellow. |
+| What | What type of shoes is the person wearing? | Black and white sneakers. |
+| How | How many legs are extended in the person's pose? | One. |
+| How | How would you describe the person's attitude in the image? | Confident and alluring. |

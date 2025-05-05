@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a blue skirt? | Yes. |
+| Yes/No | Are the person's legs the main focus of the image? | Yes. |
+| Yes/No | Is the image intimate and suggestive? | Yes. |
+| Yes/No | Does the image feature any bold colors? | No. |
+| What | What is the person sitting on? | A white surface. |
+| What | What is the dominant color of the person's attire? | Blue. |
+| How | How are the person's legs crossed? | With the left leg resting on the right knee. |
+| How | How does the image's composition contribute to its atmosphere? | The contrast between the white surface and the person's colorful attire emphasizes the subject and creates an intimate and suggestive atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a brown jacket? | Yes. |
+| Yes/No | Is the woman wearing a black jacket? | Yes. |
+| Yes/No | Are the couple's lips pressed together? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and romantic? | Yes. |
+| Yes/No | Does the image evoke a sense of passion and desire? | Yes. |
+| Yes/No | Is the image associated with romantic or romantic-comedy movies? | Yes. |
+| What | What is the couple's relationship to each other? | They are kissing, indicating a romantic relationship. |
+| What | What is the color of the woman's jacket? | Black. |
+| How | How are the couple's lips pressed together? | They are pressed together in a passionate kiss. |
+| How | How does the image evoke a sense of passion and desire? | The close proximity of the couple, their locked lips, and the overall atmosphere of the image evoke a sense of passion and desire. |

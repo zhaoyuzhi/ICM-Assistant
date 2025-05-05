@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image wearing a hat? | Yes. |
+| Yes/No | Is the dress polka dot? | Yes. |
+| Yes/No | Is the image overly bright or dark? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the girl's expression innocent? | Yes. |
+| Yes/No | Are the natural surroundings visible in the image? | Yes. |
+| What | What is the girl sitting on? | A wicker basket. |
+| What | What is the overall atmosphere of the image? | Calm and peaceful. |
+| How | How does the low exposure level contribute to the image's appearance? | It helps to capture the details and maintain a nonsexy appearance. |
+| How | How does the serene setting contribute to the image's atmosphere? | It enhances the sense of calm and tranquility in the image. |

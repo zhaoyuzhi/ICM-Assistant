@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a sweater? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | No. |
+| Yes/No | Is the man's pose suggestive or provocative? | No. |
+| Yes/No | Does the image contain any elements that suggest a romantic or intimate context? | No. |
+| Yes/No | Is the man's attire revealing or tight-fitting? | No. |
+| Yes/No | Does the image focus on the man's physical appearance or body language? | No. |
+| What | What is the dominant color of the man's sweater? | Beige. |
+| What | What type of footwear is the man wearing? | Brown boots. |
+| How | How is the man leaning against the wall? | Casually. |
+| How | How would you describe the overall atmosphere of the picture? | Not sexy, casual and relaxed. |

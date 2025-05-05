@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sweater? | Yes. |
+| Yes/No | Is the woman in the image holding a coffee cup? | Yes. |
+| Yes/No | Is the woman in the image standing in a room with a chandelier? | Yes. |
+| Yes/No | Does the woman in the image have her left hand placed on her hip? | Yes. |
+| Yes/No | Is the woman in the image wearing white sneakers? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her lower body? | A denim skirt. |
+| What | What is the woman in the image holding in her right hand? | A coffee cup. |
+| How | How is the woman in the image standing? | With her left hand on her hip and her right hand holding a coffee cup. |
+| How | How would you describe the woman's pose in the image? | Confident and stylish. |

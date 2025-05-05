@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white pants and a white shirt? | Yes. |
+| Yes/No | Is the person in the image holding their pants open? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| Yes/No | Is the person's hand visible in the image? | Yes. |
+| Yes/No | Is the image appropriate? | Yes. |
+| Yes/No | Does the image focus on the person's body or intimate details? | No. |
+| What | What is the person in the image holding their pants open with? | Their hand. |
+| What | What is the overall atmosphere of the image? | Casual and nonsexual. |
+| How | How much skin is visible in the image? | A small amount. |
+| How | How does the image convey its non-sexual atmosphere? | Through the low exposure level and the focus on the person's clothing and hand rather than their body or intimate details. |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person's left hand holding their pants up? | Yes. |
+| Yes/No | Is the person's right hand in their pocket? | Yes. |
+| How | Does the image show a sexy or provocative scene? | No. |
+| Yes/No | Does the low exposure level of the image emphasize the modesty of the scene? | Yes. |
+| What | What is the person's gender? | The person's gender cannot be determined from the description. |
+| What | What is the person's facial expression? | The person's facial expression cannot be determined from the description. |
+| How | How is the person's left hand holding their pants up? | The person's left hand is holding their pants up by the waistband. |
+| How | How is the person's right hand positioned? | The person's right hand is in their pocket. |

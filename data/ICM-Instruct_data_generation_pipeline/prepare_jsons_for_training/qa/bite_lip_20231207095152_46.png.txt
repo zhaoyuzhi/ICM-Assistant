@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray sweater? | Yes. |
+| Yes/No | Does the woman have a gold necklace? | Yes. |
+| Yes/No | Is the object in the woman's hand red and heart-shaped? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the woman holding in her hand? | A red heartshaped object. |
+| What | What is the color of the woman's sweater? | Gray. |
+| How | How is the woman's facial expression? | Serious. |
+| How | How is the woman biting her lip? | She is biting her lower lip. |

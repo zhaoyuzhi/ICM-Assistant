@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a blue and white floral print top? | Yes. |
+| Yes/No | Is the woman wearing a matching blue and white floral print skirt? | Yes. |
+| Yes/No | Is the woman posing with her hands on her hips? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the woman wearing in the image? | A blue and white floral print top and skirt. |
+| What | What is the woman's pose in the image? | She is posing with her hands on her hips. |
+| How | How is the woman's body visible in the image? | Only a small portion of her body is visible due to the low exposure level. |
+| How | How does the floral print on her clothing contribute to the overall atmosphere of the image? | It contributes to a casual and modest atmosphere rather than a sensual or provocative one. |

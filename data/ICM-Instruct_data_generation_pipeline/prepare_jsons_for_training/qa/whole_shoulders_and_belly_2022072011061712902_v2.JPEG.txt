@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are her arms stretched out to the sides? | Yes. |
+| Yes/No | Are her legs slightly apart? | Yes. |
+| Yes/No | Is she wearing black leggings? | Yes. |
+| Yes/No | Is she wearing pink socks? | Yes. |
+| Yes/No | Is the blue wall in the background? | Yes. |
+| What | What color is the woman's sports bra? | Black. |
+| What | What color are her leggings? | Black. |
+| How | How many colors are visible in the image? | 3 (blue, black, pink). |
+| What | What is the overall atmosphere of the image? | Confident and assertive. |

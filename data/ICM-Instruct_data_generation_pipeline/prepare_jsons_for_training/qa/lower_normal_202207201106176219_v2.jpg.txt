@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's arms raised or bent? | No. |
+| Yes/No | Is the person wearing shoes? | No. |
+| Yes/No | Is the person's head visible in the image? | No. |
+| Yes/No | Does the person have any visible tattoos or piercings? | No. |
+| Yes/No | Is the image in black and white or color? | Color. |
+| What | What is the person's attire in the image? | Gray sweatpants and a gray shirt. |
+| What | What is the overall atmosphere of the image? | Casual and comfortable. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |
+| How | How would you describe the person's posture in the image? | Relaxed. |

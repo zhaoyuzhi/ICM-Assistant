@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Does the woman in the image have a purse? | Yes. |
+| Yes/No | Is the purse black? | Yes. |
+| Yes/No | Does the purse have a white cow print pattern? | Yes. |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What color is the woman's blouse? | Green. |
+| How | How is the woman's left hand positioned? | Resting on her hip. |
+| How | How is the woman's right hand positioned? | Placed on her thigh. |

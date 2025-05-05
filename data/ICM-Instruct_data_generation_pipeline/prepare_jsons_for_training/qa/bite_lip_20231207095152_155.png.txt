@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image biting her lip? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Is the woman's hair long and dark? | Yes. |
+| Yes/No | Does the image suggest a sense of intensity and passion? | Yes. |
+| Yes/No | Does the image have a sensual tone? | Yes. |
+| What | What color is the woman's hair? | Dark. |
+| What | What is the woman looking at? | Off to the side. |
+| How | How is the woman's expression serious? | She is biting her lip and looking off to the side. |
+| How | How does the image create a sense of mystery and intrigue? | The woman's serious expression and the way she is biting her lip suggest a sense of intensity and passion. |

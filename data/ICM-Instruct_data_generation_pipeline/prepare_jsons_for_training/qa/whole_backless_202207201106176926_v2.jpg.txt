@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Are the sleeves off-the-shoulder? | Yes. |
+| Yes/No | Is there a cutout in the back of the dress? | Yes. |
+| Yes/No | Is the woman standing with her hands on her hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image bold and confident? | Yes. |
+| What | What is the woman's attire in the image? | A red dress with a deep neckline and offtheshoulder sleeves. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips. |
+| How | How does the dress feature a cutout in the back? | The dress features a large cutout in the back, revealing a significant area of the woman's back. |
+| How | How does the woman's pose contribute to the image's atmosphere? | The woman's pose, with her hands on her hips, adds to the confident and assertive atmosphere of the image, further enhancing its sexy appeal. |

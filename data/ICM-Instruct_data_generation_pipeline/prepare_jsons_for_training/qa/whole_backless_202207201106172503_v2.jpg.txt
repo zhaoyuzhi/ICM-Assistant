@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Is the image seductive and alluring? | Yes. |
+| Yes/No | Does the red dress draw attention to the person's curves? | Yes. |
+| What | What is the color of the dress? | Red. |
+| What | What is the atmosphere of the image? | Seductive and alluring. |
+| How | How does the dress accentuate the person's body? | The dress is formfitting, accentuating the person's curves. |
+| How | How does the white wall in the background affect the image? | It provides a stark contrast to the person's figure, further emphasizing the focus on the body. |

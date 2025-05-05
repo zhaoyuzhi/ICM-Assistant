@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the person in the image wearing black shoes? | Yes. |
+| Yes/No | Is the person in the image walking on a street? | Yes. |
+| Yes/No | Is the person in the image crossing their legs? | Yes. |
+| Yes/No | Is the person in the image wearing a black sock on their right foot? | Yes. |
+| Yes/No | Is the person in the image walking with their left foot in front of their right foot? | Yes. |
+| What | What color is the person's skirt in the image? | Black. |
+| What | What color are the person's shoes in the image? | Black. |
+| How | How is the person walking in the image? | With their left foot in front of their right foot. |
+| How | How many feet are visible in the image? | Two. |

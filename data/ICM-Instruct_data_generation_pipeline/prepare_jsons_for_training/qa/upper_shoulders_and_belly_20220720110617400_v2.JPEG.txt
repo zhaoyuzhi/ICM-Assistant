@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun? | Yes. |
+| Yes/No | Is the woman sitting on a beach chair? | Yes. |
+| Yes/No | Is the woman's foot resting on her knee? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's attire in the image? | A strapless yellow dress. |
+| What | What is the woman's hairstyle in the image? | A bun. |
+| How | How is the woman's pose in the image? | She is sitting on a beach chair with her foot resting on her knee. |
+| How | How does the beach setting enhance the atmosphere of the image? | It adds a sense of leisure and relaxation to the image. |

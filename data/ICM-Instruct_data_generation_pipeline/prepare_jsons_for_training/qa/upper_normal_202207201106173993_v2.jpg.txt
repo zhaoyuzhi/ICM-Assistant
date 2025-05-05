@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a bouquet of white roses? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Does the woman have a ring on her finger? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What is the woman holding in the image? | A bouquet of white roses. |
+| What | What is the overall atmosphere of the image? | Cheerful and pleasant. |
+| How | How is the woman's happiness conveyed in the image? | Through her smile. |
+| How | How does the image highlight the beauty of the white roses? | Through the low exposure level, which emphasizes the elegance of the roses. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Are the shorts beige with a white stripe on the side? | Yes. |
+| Yes/No | Does the person have their hands placed on their hips? | Yes. |
+| Yes/No | Is the drawstring at the waist of the shorts visible in the image? | Yes. |
+| Yes/No | Does the image convey a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the shorts? | Beige. |
+| What | What is the design of the shorts? | Drawstring at the waist. |
+| How | How are the shorts fitting the person? | Comfortably. |
+| How | How does the person's pose and attire contribute to the overall allure of the image? | The pose and attire create a sense of confidence and allure, making the image sexy. |

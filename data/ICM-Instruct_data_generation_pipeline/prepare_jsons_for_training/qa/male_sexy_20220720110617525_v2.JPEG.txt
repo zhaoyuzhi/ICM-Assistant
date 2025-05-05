@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing red boxer briefs? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| Yes/No | Does the image suggest a sense of strength and confidence? | Yes. |
+| Yes/No | Is the overall atmosphere of the image bold and confident? | Yes. |
+| What | What is the man in the image wearing? | A pair of red boxer briefs. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man posing in the image? | With his arms on his hips. |
+| How | How does the red color of the briefs contrast with the white background? | It creates a striking contrast that makes the man stand out. |

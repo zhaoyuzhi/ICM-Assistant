@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a black bra? | Yes. |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the bed covered with a white comforter? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What is the person in the image wearing? | Black stockings and a black bra. |
+| What | What is the person in the image lying on? | A bed with a white comforter and a wooden headboard. |
+| How | How are the person's legs positioned in the image? | The person's legs are bent at the knees and crossed. |
+| How | How does the image portray the person? | The image portrays the person in a vulnerable and intimate position, creating an intimate and seductive scene. |

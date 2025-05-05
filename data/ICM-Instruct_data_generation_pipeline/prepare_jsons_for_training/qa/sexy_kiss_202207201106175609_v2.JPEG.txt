@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a beard in the image? | Yes. |
+| Yes/No | Is the woman wearing a black dress in the image? | Yes. |
+| Yes/No | Are the couple kissing in the image? | Yes. |
+| Yes/No | Does the image depict a moment of intimacy and affection between the couple? | Yes. |
+| Yes/No | Is the overall atmosphere of the image warm and passionate? | Yes. |
+| Yes/No | Does the man have dark hair in the image? | Yes. |
+| What | What is the woman wearing in the image? | A black dress. |
+| What | What is the man's facial hair like in the image? | A beard. |
+| How | How are the couple positioned in the image? | They are standing close together, with the man's left hand on the woman's waist and his right hand on the back of her head, while the woman has her arms wrapped around the man's neck. |
+| How | How would you describe the mood of the image? | The mood of the image is sensual, intimate, and passionate. |

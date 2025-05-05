@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the trees in the background tall and leafy? | Yes. |
+| Yes/No | Is the woman's left hand resting on her hip? | Yes. |
+| Yes/No | Does the woman have a relaxed expression on her face? | Yes. |
+| Yes/No | Are the shorts the woman is wearing blue? | Yes. |
+| Yes/No | Is the woman's right hand touching her thigh? | Yes. |
+| What | What color are the woman's shorts? | Blue. |
+| What | What is the woman's pose in the image? | Confident and relaxed. |
+| How | How does the woman's hand on her hip contribute to the image's overall mood? | It adds a sense of confidence and allure. |
+| How | How does the natural setting of the road and trees contrast with the woman's appearance? | The natural setting creates a sense of peace and tranquility, while the woman's stylish and confident appearance adds a sense of glamour and allure, creating a visually appealing contrast. |

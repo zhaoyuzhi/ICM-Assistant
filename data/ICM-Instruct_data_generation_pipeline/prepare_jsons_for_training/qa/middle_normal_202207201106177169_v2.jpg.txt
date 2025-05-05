@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a t-shirt? | Yes. |
+| Yes/No | Does the man in the image have any explicit or suggestive content? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the shorts the man is wearing predominantly white? | Yes. |
+| Yes/No | Does the man in the image have his hands in his pockets? | Yes. |
+| What | What is the pattern on the man's shorts? | Floral. |
+| What | What color is the man's t-shirt? | White. |
+| How | How are the man's shorts accented? | With blue and green flowers. |
+| How | How is the man looking in the image? | Directly at the camera. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts the man is wearing white? | Yes. |
+| Yes/No | Does the floral pattern on the shorts contain blue and green colors? | Yes. |
+| Yes/No | Is the man in the image engaged in any specific action? | No. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Does the image contain any elements that suggest a romantic or intimate atmosphere? | No. |
+| What | What is the man's pose in the image? | Neutral. |
+| What | What is the focus of the image? | The man and his attire. |
+| How | How would you describe the exposure level of the image? | Low. |
+| How | How would you describe the overall atmosphere of the image? | Calm and neutral. |

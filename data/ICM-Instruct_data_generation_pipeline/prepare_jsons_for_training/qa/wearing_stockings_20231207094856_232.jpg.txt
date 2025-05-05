@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting on a toy train? | Yes. |
+| Yes/No | Is the woman wearing a gray dress? | Yes. |
+| Yes/No | Is the woman wearing black stockings? | Yes. |
+| Yes/No | Is the woman holding a pink stuffed animal? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the toy train? | Blue and yellow. |
+| What | What is the woman holding in her hand? | A pink stuffed animal. |
+| How | How is the woman's dress styled? | It is a gray dress. |
+| How | How does the woman look while putting on her stockings? | She looks elegant and sophisticated. |
+| Yes/No | Is the woman in the image sitting on a toy train? | Yes. |
+| Yes/No | Is the woman wearing a gray dress? | Yes. |
+| Yes/No | Is the woman wearing black stockings? | Yes. |
+| Yes/No | Is the woman holding a pink stuffed animal? | Yes. |
+| Yes/No | Is the image set in an unconventional setting? | Yes. |
+| Yes/No | Does the image have a playful and whimsical atmosphere? | Yes. |
+| What | What color is the toy train? | Blue and yellow. |
+| What | What type of animal is the stuffed animal the woman is holding? | Pink. |
+| How | How is the woman's dress styled? | Gray. |
+| How | How does the woman's stockings complement her outfit? | Black. |

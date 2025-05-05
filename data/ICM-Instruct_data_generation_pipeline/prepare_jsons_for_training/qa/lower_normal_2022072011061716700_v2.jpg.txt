@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a polka dot skirt? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Are the woman's arms raised or stretched out in the image? | No. |
+| Yes/No | Is the woman in the image standing in a suggestive or provocative pose? | No. |
+| Yes/No | Is the image focused on the woman's body or sexualized in any way? | No. |
+| Yes/No | Does the image depict the woman engaging in any intimate or sexual activity? | No. |
+| What | What is the woman wearing on her upper body in the image? | A white top. |
+| What | What is the woman's facial expression in the image? | A slight smile. |
+| How | How is the woman standing in the room? | With her arms relaxed at her sides. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

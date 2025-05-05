@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blazer? | Yes. |
+| Yes/No | Is the woman in the image wearing black pants? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the woman in the image have a black purse? | Yes. |
+| Yes/No | Is the image revealing any inappropriate or explicit content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman in the image wearing on her feet? | The woman in the image is wearing shoes, the type of shoes are not specified in the description. |
+| What | What is the color of the woman's blazer? | Orange. |
+| How | How is the woman's movement depicted in the image? | The woman's movement is depicted as walking on a street. |
+| How | How does the exposure level of the image ensure that the image is appropriate for viewers? | The exposure level of the image is very low, which means that the image does not reveal any inappropriate or explicit content, ensuring that the image is appropriate for viewers. |

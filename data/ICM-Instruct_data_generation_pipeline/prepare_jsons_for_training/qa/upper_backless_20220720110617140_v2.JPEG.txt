@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red tank top? | Yes. |
+| Yes/No | Are the woman's arms crossed in front of her? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman's back turned towards the camera? | Yes. |
+| Yes/No | Does the image create an alluring and confident atmosphere? | Yes. |
+| What | What is the color of the woman's tank top? | Red. |
+| What | What is the color of the woman's jeans? | Blue. |
+| How | How does the strapless design of the tank top contribute to the image's allure? | It creates a sense of exposure and highlights the woman's shoulders and upper back. |
+| How | How does the woman's pose with her arms crossed contribute to the image's confidence and self-assuredness? | It creates a sense of power and assertiveness, emphasizing the woman's independence and selfsecurity. |

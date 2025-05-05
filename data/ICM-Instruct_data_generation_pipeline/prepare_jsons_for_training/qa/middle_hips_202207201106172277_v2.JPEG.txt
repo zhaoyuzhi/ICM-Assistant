@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing denim shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the person in the image posing in a sexy or suggestive way? | Yes. |
+| Yes/No | Does the image feature a close-up of a person's face? | No. |
+| Yes/No | Is the person in the image wearing high-waisted shorts? | Yes. |
+| What | What is the color of the person's shirt? | Red and white striped. |
+| What | What is the design on the back pocket of the shorts? | Pink and white. |
+| How | How is the person's hair styled in the image? | Not visible. |
+| How | How does the person's outfit contribute to the overall aesthetic of the image? | The highwaisted denim shorts and red and white striped shirt create a stylish and fashionable look that complements the person's body, while the pink and white design on the back pocket adds a touch of personality and color to the outfit. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image speaking into a microphone? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a weather map? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the woman's attire in the image professional? | Yes. |
+| Yes/No | Does the image suggest that the woman is providing weather-related information or commentary? | Yes. |
+| Yes/No | Does the image contain any elements that are typically associated with a sexy or provocative context? | No. |
+| What | What is the woman in the image discussing? | Weather conditions. |
+| What | What is the color scheme of the weather map in the image? | Shades of blue and green. |
+| How | How does the woman's attire suggest she is providing weather-related information or commentary? | The woman is wearing a red blazer, which is a professional and practical attire for a weather reporter or commentator. |
+| How | How does the low exposure level of the image emphasize the focus on the woman and her actions? | The low exposure level means that the focus is on the woman and her actions, rather than on her appearance. This emphasizes the professional and informative nature of the image, and suggests that the woman is providing weatherrelated information or commentary. |

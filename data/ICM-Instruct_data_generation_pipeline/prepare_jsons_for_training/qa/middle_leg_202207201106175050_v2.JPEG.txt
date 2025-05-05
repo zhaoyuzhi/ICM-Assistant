@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman's outfit simple? | Yes. |
+| Yes/No | Does the woman have a confident stride? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have a purse? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What is the woman's purse made of? | Brown. |
+| How | How does the woman carry her purse? | She carries it with her hand. |
+| How | How does the woman's posture suggest she is in motion? | She is walking with a confident stride. |

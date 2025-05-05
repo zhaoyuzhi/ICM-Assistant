@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple jacket? | Yes. |
+| Yes/No | Does the jacket have a white collar? | Yes. |
+| Yes/No | Is the jacket designed with a zipper running down the front? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual or provocative context? | No. |
+| What | What is the primary color of the jacket? | Purple. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How is the focus of the image drawn to the woman and her attire? | The background is blurred, emphasizing the focus on the woman and her clothing. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and professional. |

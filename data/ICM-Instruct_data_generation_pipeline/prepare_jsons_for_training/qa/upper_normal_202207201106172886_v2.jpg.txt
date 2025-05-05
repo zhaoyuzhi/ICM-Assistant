@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman smiling? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the path the woman is walking on paved? | No. |
+| Yes/No | Are there any bright or vibrant colors in the image? | No. |
+| Yes/No | Is the woman's hair visible in the image? | No. |
+| What | What is the woman's jacket color? | Blue. |
+| What | What is the woman's shirt color? | White. |
+| How | How is the woman's movement in the image? | Slow and relaxed. |
+| How | How would you describe the atmosphere of the image? | Calm and peaceful. |

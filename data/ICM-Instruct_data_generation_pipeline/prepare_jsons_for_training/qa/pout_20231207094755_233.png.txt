@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person's nose slightly curled? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's face? | Yes. |
+| Yes/No | Is the person's skin tone light? | Yes. |
+| Yes/No | Are the person's lips a shade of pink? | Yes. |
+| What | What is the facial expression of the person in the image? | Pouting. |
+| What | What is the focal point of the image? | The person's lips and nose. |
+| How | How does the close-up shot of the person's face contribute to the overall atmosphere of the image? | It creates an atmosphere of intimacy and allure by highlighting the person's lips and nose, making them the focal point of the image. |
+| How | How does the person's pouting expression contribute to the overall atmosphere of the image? | It adds to the overall allure of the image, emphasizing the person's lips and nose and creating a sense of desire and attraction. |

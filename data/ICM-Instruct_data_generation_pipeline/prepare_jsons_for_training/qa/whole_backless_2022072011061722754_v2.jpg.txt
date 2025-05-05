@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Are the person's arms outstretched to the sides? | Yes. |
+| Yes/No | Is the dress made of a shiny fabric? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the dress? | Blue. |
+| What | What is the material of the dress? | Shiny fabric. |
+| How | How is the person standing in the image? | With their arms outstretched to the sides. |
+| How | How would you describe the person's pose in the image? | Confident and selfassured. |

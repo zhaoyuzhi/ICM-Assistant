@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow crop top? | Yes. |
+| Yes/No | Are her jean shorts blue? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is her head tilted to the side? | Yes. |
+| Yes/No | Does the top have a rainbow design on the front? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's crop top? | Yellow. |
+| What | What is the design on the front of the top? | Rainbow. |
+| How | How is the woman standing in the image? | With her hands on her hips and her head tilted to the side. |
+| How | How does the woman's pose contribute to the sexy atmosphere of the image? | Her confident and seductive pose adds to the sexy atmosphere. |

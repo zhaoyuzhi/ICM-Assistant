@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the stockings being put on over the person's legs? | Yes. |
+| Yes/No | Is the person wearing a pink pillow? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the wooden chair in the background add to the overall allure of the image? | Yes. |
+| Yes/No | Are the pink stockings and pillow associated with femininity and softness? | Yes. |
+| What | What is the person in the image putting on? | Pink stockings. |
+| What | What is the color of the person's shirt? | Black. |
+| How | How are the stockings being put on? | Over the person's legs. |
+| How | How does the image create an atmosphere of sensuality and allure? | Through the combination of the person's actions, the pink stockings and pillow, and the simple wooden chair in the background. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the stockings being put on over the person's legs? | Yes. |
+| Yes/No | Is the person wearing a pink pillow? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the wooden chair in the background simple and uncluttered? | Yes. |
+| Yes/No | Are the pink stockings and pillow associated with femininity and softness? | Yes. |
+| What | What is the person in the image putting on? | Pink stockings. |
+| What | What is the person in the image wearing on their legs? | Pink stockings. |
+| How | How is the person in the image putting on the stockings? | Over their legs. |
+| How | How does the image create an atmosphere of sensuality and allure? | Through the combination of the person's actions, the pink stockings and pillow, and the simple setting. |

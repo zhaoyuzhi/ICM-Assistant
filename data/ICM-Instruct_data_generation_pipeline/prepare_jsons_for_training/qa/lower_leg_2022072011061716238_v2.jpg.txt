@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing bright green high heels? | Yes. |
+| Yes/No | Is the woman sitting on a white couch? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color are the woman's high heels? | Bright green. |
+| What | What is the woman holding in her hand? | A purse. |
+| How | How is the woman sitting on the couch? | With her legs crossed. |
+| How | How does the image make the woman the focal point? | By blurring the background and drawing attention to her with the striking contrast of her attire and pose. |

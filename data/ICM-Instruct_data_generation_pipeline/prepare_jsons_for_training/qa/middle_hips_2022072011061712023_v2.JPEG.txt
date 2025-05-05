@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a leopard print top? | Yes. |
+| Yes/No | Are the jeans torn on the knees? | Yes. |
+| Yes/No | Is the person's underwear visible in the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image feature a close-up shot of the person's buttocks? | Yes. |
+| What | What color are the jeans in the image? | Blue. |
+| What | What is the pattern on the person's top in the image? | Leopard print. |
+| How | How are the jeans torn in the image? | They are torn on the knees and in the back pocket. |
+| How | How does the close-up shot of the person's buttocks contribute to the overall allure of the image? | It allows for a detailed view of the person's attire and body, which can be considered alluring to some viewers. |

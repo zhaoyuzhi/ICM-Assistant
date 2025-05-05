@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a pink sweater? | Yes. |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Are the woman and man smiling? | Yes. |
+| Yes/No | Is the image revealing any inappropriate or explicit content? | No. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| Yes/No | Is the overall atmosphere of the image light-hearted and friendly? | Yes. |
+| What | What is the woman wearing? | A pink sweater and blue jeans. |
+| What | What is the man wearing? | A white shirt and black pants. |
+| How | How are the woman and man interacting with each other? | They are smiling and appear to be enjoying their time together. |
+| How | How would you describe the exposure level of the image? | Very low. |

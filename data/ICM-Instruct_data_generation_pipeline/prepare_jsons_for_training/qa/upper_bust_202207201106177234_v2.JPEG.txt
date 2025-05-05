@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white crop top? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are black pants worn by the woman in the image? | Yes. |
+| Yes/No | Does the image capture the woman's full body? | No. |
+| Yes/No | Is the image taken in a bathroom? | Yes. |
+| Yes/No | Is the woman's hand resting on her hip? | Yes. |
+| What | What is the woman wearing on her upper body? | A white crop top. |
+| What | What is the color of the pants the woman is wearing? | Black. |
+| How | How is the woman's gaze in the image? | Focused and confident. |
+| How | How does the image create a sense of intimacy? | The image is taken in a bathroom, a private space where people often feel comfortable and at ease. |

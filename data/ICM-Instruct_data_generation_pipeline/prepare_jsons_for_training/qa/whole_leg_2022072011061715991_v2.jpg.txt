@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman sitting on a couch? | Yes. |
+| Yes/No | Is the woman wearing a blue dress? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Are her arms resting on the armrest of the couch? | Yes. |
+| Yes/No | Is the couch gray and made of leather? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| What | What is the woman's expression? | Neutral. |
+| What | What color is the dress the woman is wearing? | Blue. |
+| How | How are the woman's legs positioned? | Crossed. |
+| How | How does the woman's attire and pose suggest confidence and allure? | The short dress and crossed legs create a sexy atmosphere, and the neutral expression adds a sense of mystery and intrigue. |

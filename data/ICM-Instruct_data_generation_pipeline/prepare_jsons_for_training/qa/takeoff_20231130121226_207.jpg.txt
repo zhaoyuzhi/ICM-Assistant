@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Is the image set at night? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the woman holding a towel over her head? | Yes. |
+| Yes/No | Does the image have a romantic atmosphere? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| What | What color is the woman's top? | Yellow. |
+| What | What color are the woman's pants? | Blue. |
+| How | How is the woman holding the towel? | Over her head. |
+| What | What does the woman's actions suggest? | Vulnerability and allure. |

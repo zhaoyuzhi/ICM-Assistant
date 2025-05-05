@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a woman's breast? | Yes. |
+| Yes/No | Is the woman wearing a green bra? | Yes. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Does the image depict any other objects or people? | No. |
+| Yes/No | Is the woman's actions explicitly depicted in the image? | No. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| What | What is the color of the woman's bra? | Green. |
+| What | What is the woman wearing around her neck? | A necklace. |
+| How | How does the woman's choice of wearing a green bra contribute to the image's atmosphere? | It adds a pop of color and can be perceived as confident and bold. |
+| How | How does the woman's necklace contribute to her appearance in the image? | It enhances her appearance and adds an element of sophistication. |

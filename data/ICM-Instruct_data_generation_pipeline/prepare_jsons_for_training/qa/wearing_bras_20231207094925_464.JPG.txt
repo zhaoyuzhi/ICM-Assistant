@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the bra black? | Yes. |
+| Yes/No | Is the skirt brown? | Yes. |
+| Yes/No | Is the woman putting on the bra in the image? | Yes. |
+| Yes/No | Is the image set against a plain background? | Yes. |
+| What | What is the woman wearing in the image? | A black bra and a brown skirt. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How does the black bra contrast with the brown skirt? | The black bra creates a striking contrast against the brown skirt, drawing attention to the woman's figure. |
+| How | How does the image create a sexy atmosphere? | The combination of the woman's clothing, her actions, and the setting create a sexy atmosphere in the image. The way the woman is putting on the bra adds a sense of intimacy and vulnerability, and the plain background further emphasizes the woman and her attire. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a brown skirt? | Yes. |
+| Yes/No | Is the woman in the image putting on a bra? | Yes. |
+| Yes/No | Does the image capture the woman from the back and the front? | Yes. |
+| Yes/No | Is the bra's design visible in the image? | Yes. |
+| How | Does the image showcase the woman's body? | Yes. |
+| What | What is the color of the bra in the image? | Black. |
+| What | What is the color of the skirt in the image? | Brown. |
+| How | How does the woman's body look in the image? | The woman's body looks fit and toned, with the bra and skirt accentuating her curves. |
+| How | How does the image convey a sense of intimacy and vulnerability? | The image conveys a sense of intimacy and vulnerability because the woman is seen putting on a bra, which is an intimate act, and her body is visible, which adds to the vulnerability. Additionally, the plain background and the contrast between the black bra and brown skirt create a sense of exposure and vulnerability. |

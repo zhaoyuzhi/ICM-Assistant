@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Are the woman's facial expressions suggestive? | Yes. |
+| What | What is the woman's attire in the image? | Bikini top and skirt. |
+| What | What is the woman's facial expression in the image? | Slight smile. |
+| How | How is the woman's pose in the image? | Lying on a couch. |
+| How | How does the woman's direct gaze contribute to the image's atmosphere? | It adds to the overall allure and seduction of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman in the image standing up? | No. |
+| What | What is the woman in the image wearing? | A black bra. |
+| What | What is the woman in the image looking at? | Nothing in particular, she is looking downwards. |
+| How | How is the woman in the image posed? | She is posed in a way that highlights her breast and the curve of her body, suggesting modesty and confidence. |
+| How | How does the close-up nature of the photo contribute to the overall atmosphere of the image? | It creates a sense of intimacy and allure, allowing the viewer to focus on the woman's breast and body curve. |

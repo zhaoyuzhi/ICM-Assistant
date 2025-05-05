@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the woman's hand on the man's chest? | Yes. |
+| Yes/No | Is the man's hand on the woman's face? | Yes. |
+| Yes/No | Are the man and woman's eyes closed? | Yes. |
+| What | What is the color of the woman's dress? | White. |
+| What | What is the color of the man's shirt? | Black. |

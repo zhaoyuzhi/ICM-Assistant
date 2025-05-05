@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image wearing a green hoodie? | Yes. |
+| Yes/No | Is the woman in the image standing on a staircase? | Yes. |
+| Yes/No | Is the woman in the image resting her right hand on the railing of the staircase? | Yes. |
+| Yes/No | Is the background of the image yellow? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the woman in the image wearing? | A green hoodie. |
+| What | What is the woman in the image doing with her left hand? | Placing it on her hip. |
+| How | How is the woman in the image standing on the staircase? | She is standing with her feet shoulderwidth apart, with one foot on each step. |
+| How | How does the low exposure level of the image affect the overall atmosphere of the image? | It suggests that the image is not meant to be provocative or sensual, and gives the image a friendly and approachable vibe. |

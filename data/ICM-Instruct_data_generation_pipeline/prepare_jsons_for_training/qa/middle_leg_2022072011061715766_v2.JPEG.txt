@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the woman's skirt have a high waist? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the woman carrying a pink purse? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What color is the woman's purse? | Pink. |
+| How | How does the woman's skirt accentuate her body? | It accentuates her waistline and hips. |
+| How | How does the pink purse add to the image's atmosphere? | It adds a pop of color and draws attention to the woman's outfit, enhancing the sexy feel of the image. |

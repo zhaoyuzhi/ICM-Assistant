@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are they wearing black socks? | Yes. |
+| Yes/No | Is the person's leg crossed? | Yes. |
+| Yes/No | Is the blanket pink and white? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the person in a private setting? | Yes. |
+| What | What is the person in the image doing? | Putting on black stockings. |
+| What | What is the overall atmosphere of the image? | Intimate and sensual. |
+| How | How are the person's feet resting on the blanket? | They are resting on the blanket with their legs crossed. |
+| How | How does the image capture a private moment of the person? | It shows the person in a vulnerable position, wearing revealing clothing, and engaging in an activity that is often associated with a seductive or alluring appearance. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing black socks? | Yes. |
+| Yes/No | Is the person putting on black stockings? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the setting of the image private? | Yes. |
+| What | What is the person in the image wearing on their feet? | Black socks. |
+| What | What is the person in the image putting on? | Black stockings. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image capture the person? | In a private moment, wearing revealing clothing, and engaging in an activity associated with a seductive or alluring appearance. |

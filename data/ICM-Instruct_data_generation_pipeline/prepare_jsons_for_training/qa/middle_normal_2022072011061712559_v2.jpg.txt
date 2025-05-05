@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the man's hands placed on his hips? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the image well-lit? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire casual? | Yes. |
+| What | What color are the man's shorts? | Gray. |
+| What | What is the focus of the image? | The man's attire and pose. |
+| How | How is the man standing in the image? | With his hands on his hips and looking directly at the camera. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and straightforward. |
+| Yes/No | Is the man in the image wearing a pair of gray shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose in the image neutral? | Yes. |
+| Yes/No | Are the man's hands resting in his pockets? | Yes. |
+| Yes/No | Does the image have a sexual context? | No. |
+| What | What is the man's attire in the image? | Gray shorts and a black shirt. |
+| What | What is the overall atmosphere of the image? | Casual and nonsexual. |
+| How | How does the image portray the man's pose? | Neutral, with hands resting in pockets. |
+| How | How does the image's low-key exposure level contribute to its atmosphere? | It reinforces the nonsexual context and focuses attention on the man's casual attire and the white background. |

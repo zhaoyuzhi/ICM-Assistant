@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a green t-shirt? | Yes. |
+| Yes/No | Is the word "REEEN" written on the man's t-shirt? | Yes. |
+| Yes/No | Is the office setting modern? | Yes. |
+| Yes/No | Is the man standing in a relaxed posture? | Yes. |
+| Yes/No | Are his hands tucked into his pockets? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man's attire in the image? | A green tshirt with the word "REEEN" written on it. |
+| What | What is the atmosphere of the image? | Calm and professional. |
+| How | How is the man standing in the image? | In a relaxed posture with his hands tucked into his pockets. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It emphasizes the focus on the man's attire and demeanor, rather than his physical appearance, and reinforces the calm and professional atmosphere of the image. |

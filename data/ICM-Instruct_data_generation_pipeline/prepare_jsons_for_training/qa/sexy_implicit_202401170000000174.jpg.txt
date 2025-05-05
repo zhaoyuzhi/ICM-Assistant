@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image naked? | Yes. |
+| Yes/No | Are the lollipops in the image heart-shaped? | Yes. |
+| Yes/No | Is the woman's skin tone light? | Yes. |
+| Yes/No | Is the woman's hair blonde? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the overall atmosphere of the image seductive and provocative? | Yes. |
+| What | What are the lollipops in the image made of? | A sweet substance (likely sugar). |
+| What | What is the woman's expression in the image? | Surprised. |
+| What | What is the woman's state of being in the image? | Naked. |

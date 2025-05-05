@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a shoe? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Does the shoe have a strap around the ankle? | Yes. |
+| Yes/No | Is the background of the image a blue wall? | Yes. |
+| Yes/No | Does the image contain any explicit content? | No. |
+| Yes/No | Are the woman's movements in the image calm and focused on the shoe? | Yes. |
+| What | What color is the shoe? | White. |
+| What | What is the woman's hair color? | Black. |
+| How | How is the woman holding the shoe? | She is holding it in her hand. |
+| What | What is the woman's facial expression in the image? | Calm and focused. |

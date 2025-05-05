@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white plaid shirt? | Yes. |
+| Yes/No | Is the woman sticking out her tongue in the image? | Yes. |
+| Yes/No | Does the woman have long black hair in the image? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the woman's facial expression confident and inviting? | Yes. |
+| Yes/No | Is the image cropped to focus solely on the woman's face? | No. |
+| What | What color is the woman's shirt in the image? | Black and white. |
+| What | What gesture is the woman making with her tongue in the image? | Sticking it out. |
+| How | How does the woman's facial expression contribute to the overall mood of the image? | It adds to the allure and intrigue. |
+| How | How does the image create a sense of allure and intrigue? | Through the woman's playful and seductive pose and confident and inviting facial expression. |

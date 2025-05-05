@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a jacket? | Yes. |
+| Yes/No | Are the woman's arms outstretched in the image? | Yes. |
+| Yes/No | Are the woman's legs bent in the image? | Yes. |
+| Yes/No | Is there a plant in the background of the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's sports bra? | Black. |
+| What | What color is the woman's jacket? | Blue. |
+| How | How many colors are in the image? | 3 (black, blue, and green). |
+| How | How would you describe the atmosphere of the image? | Energetic and movementoriented. |

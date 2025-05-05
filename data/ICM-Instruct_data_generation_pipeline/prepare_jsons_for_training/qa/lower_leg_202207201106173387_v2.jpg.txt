@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a blouse? | Yes. |
+| Yes/No | Does the person in the image have bare feet? | Yes. |
+| Yes/No | Is the purse the person is holding made of black leather? | Yes. |
+| Yes/No | Does the person in the image have any jewelry on? | No. |
+| Yes/No | Is the atmosphere of the image provocative? | Yes. |
+| What | What is the primary color of the person's skirt? | Black. |
+| What | What is the color of the person's blouse? | Yellow. |
+| How | How is the person's purse attached to their wrist? | With a silver chain strap. |
+| How | How many straps does the person's sandal have? | 2 (one for each foot). |

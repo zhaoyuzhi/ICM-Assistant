@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Are the women in the image wearing short dresses? | Yes. |
+| Yes/No | Are the women carrying handbags? | Yes. |
+| Yes/No | Are the women wearing white shoes? | Yes. |
+| Yes/No | Is the image set in a casual outdoor setting? | Yes. |
+| Yes/No | Is the atmosphere of the image relaxed? | Yes. |
+| How | Does the image showcase the women's legs and thighs? | Yes. |
+| What | What color is the dress worn by the woman on the left? | White. |
+| What | What color is the dress worn by the woman on the right? | Blue. |
+| What | What is the primary focus of the image? | The women's legs and thighs. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black tank top? | Yes. |
+| Yes/No | Is the woman in the image lying on a bed with white sheets? | Yes. |
+| Yes/No | Does the advertising slogan in the image suggest a sense of intimacy and allure? | Yes. |
+| Yes/No | Is the woman's pose in the image confident and seductive? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| Yes/No | Is the advertising slogan in the image written in Chinese? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A black tank top. |
+| What | What is the color of the sheets on the bed in the image? | White. |
+| How | How does the woman's pose in the image give off a confident and seductive vibe? | The woman's hand is on her chin, which implies a sense of selfassurance and confidence, and her body language suggests a relaxed and sensual state. |
+| How | How does the advertising slogan in the image suggest a sense of intimacy and allure? | The advertising slogan, "窃贼误闯阴道内" (The thief accidentally broke into the vagina), implies a sense of intimacy and allure because it suggests a violation of personal space and privacy, and it uses explicit language that creates a sense of sexual tension. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black strapless swimsuit? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | Yes. |
+| Yes/No | Is she wearing sunglasses? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Is the woman looking over her shoulder towards the ocean? | Yes. |
+| What | What is the woman wearing in the image? | A black strapless swimsuit, a ponytail, and sunglasses. |
+| What | What is the atmosphere of the scene in the image? | Relaxed and inviting. |
+| How | How is the woman's back exposed in the image? | Her black strapless swimsuit exposes a large area of her back. |
+| How | How does the beach setting and ocean in the background enhance the image? | It creates a relaxed and inviting atmosphere that enhances the sexy vibe of the image. |

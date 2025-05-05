@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image dressed in a white shirt and black pants? | Yes. |
+| Yes/No | Is the person in the image holding their hands up in a praying position? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image suggest a moment of prayer or meditation? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual context? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and peaceful? | Yes. |
+| What | What is the person in the image doing? | They are holding their hands up in a praying position, suggesting a moment of prayer or meditation. |
+| What | What is the background of the image? | The background of the image is a tree. |
+| How | How does the low exposure level of the image contribute to the overall atmosphere? | The low exposure level of the image emphasizes the focus on the person's actions and the surrounding environment rather than their physical appearance, contributing to a serene and peaceful scene. |
+| How | How does the person's pose and the tree in the background contribute to the overall atmosphere of the image? | The person's pose, the tree in the background, and the overall atmosphere of the image all contribute to a serene and peaceful scene. |

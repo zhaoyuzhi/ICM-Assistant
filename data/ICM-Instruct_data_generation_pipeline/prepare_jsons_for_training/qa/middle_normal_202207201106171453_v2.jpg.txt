@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a sweater? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose in the image sexually suggestive? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Does the image evoke any sexual connotations? | No. |
+| What | What color are the person's shorts? | Navy blue. |
+| What | What is the person's attire in the image? | A pair of navy blue shorts and a white sweater. |
+| How | How does the person's pose in the image contribute to the overall atmosphere? | The person's pose and attire suggest a casual and relaxed atmosphere. |
+| How | How does the image's low exposure level contribute to its overall nature? | The low exposure level further contributes to the overall innocent and nonsexual nature of the image. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a sweater? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose in the image relaxed and casual? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What color are the person's shorts? | Navy blue. |
+| What | What is the color of the person's sweater? | White. |
+| How | How is the person's pose in the image? | The person is standing with their hands placed on their hips. |
+| How | How would you describe the overall atmosphere of the image? | Calm and relaxed. |

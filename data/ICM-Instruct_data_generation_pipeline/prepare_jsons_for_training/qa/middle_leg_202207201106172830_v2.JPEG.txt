@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing purple shorts? | Yes. |
+| Yes/No | Does the person have their hands resting at their sides? | Yes. |
+| Yes/No | Is the shirt pink? | Yes. |
+| Yes/No | Is the person's gender clearly visible? | No. |
+| Yes/No | Is the person's age clearly visible? | No. |
+| How | Does the image showcase the person's body in a confident and alluring way? | Yes. |
+| What | What color are the shorts? | Purple. |
+| What | What color is the shirt? | Pink. |
+| How | How is the waist of the shorts designed? | High waist. |
+| How | How does the image create a sense of style and individuality? | Through the high waist of the shorts and the zipper fly. |

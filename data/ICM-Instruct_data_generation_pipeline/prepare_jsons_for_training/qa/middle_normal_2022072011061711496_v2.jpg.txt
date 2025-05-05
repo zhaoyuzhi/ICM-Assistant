@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing gray cargo pants? | Yes. |
+| Yes/No | Is the man in the image holding his pants open? | Yes. |
+| Yes/No | Is the man in the image wearing a gray t-shirt? | Yes. |
+| Yes/No | Is the image taken from the waist down? | Yes. |
+| How | Does the image show the man's underwear? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the man in the image holding his pants open with? | His hands. |
+| What | What is the color of the man's t-shirt? | Gray. |
+| How | How is the man in the image standing? | Straight, with his feet shoulderwidth apart. |
+| How | How does the image convey a sense of casualness? | The man is standing with a relaxed posture, and the fact that he is holding his pants open suggests a casual, everyday scene. |
+| Yes/No | Is the man in the image wearing a pair of gray cargo pants? | Yes. |
+| Yes/No | Is the man pulling up the waistband of his pants? | Yes. |
+| Yes/No | Does the man's t-shirt match the color of his pants? | Yes. |
+| How | Does the image show any provocative or suggestive elements? | No. |
+| Yes/No | Is the man's body fully covered in the image? | Yes. |
+| How | Does the image show the man's face? | No. |
+| What | What is the color of the man's pants? | Gray. |
+| What | What is the location of the small label on the man's pants? | Back waistband. |
+| How | How is the man's t-shirt different from his pants? | It's the same color. |
+| How | How does the man's action of pulling up his waistband reveal the inside of his pants? | It shows the inside seam of the pants. |

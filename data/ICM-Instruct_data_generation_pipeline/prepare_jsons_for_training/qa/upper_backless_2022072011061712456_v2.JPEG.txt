@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress have a ruffled neckline? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Are the tulips in the person's hands purple? | Yes. |
+| Yes/No | Is the bush in the background covered in pink flowers? | Yes. |
+| Yes/No | Does the image have a sexy and alluring mood? | Yes. |
+| What | What color are the tulips in the person's hands? | Purple. |
+| What | What is the color of the flowers in the bush in the background? | Pink. |
+| How | How does the person's dress reveal their back? | The dress has a large exposed area in the back. |
+| How | How do the purple tulips and pink flowers in the background contribute to the overall mood of the image? | They create an atmosphere of sensuality and elegance, and add a touch of softness and natural beauty to the scene. |

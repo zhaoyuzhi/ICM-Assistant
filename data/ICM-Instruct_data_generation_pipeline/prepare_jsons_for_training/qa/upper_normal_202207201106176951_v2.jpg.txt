@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman holding a brown purse? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Is the woman holding a white mask in her right hand? | Yes. |
+| Yes/No | Is the coffee shop setting suggestive or explicit? | No. |
+| Yes/No | Does the woman appear to be in a relaxed posture? | Yes. |
+| What | What is the woman holding in her left hand? | A brown purse. |
+| What | What is the woman holding in her right hand? | A white mask. |
+| How | How is the woman standing in the coffee shop? | She is standing in a relaxed posture. |
+| How | How does the woman appear to be feeling in the image? | She appears to be feeling calm and relaxed. |

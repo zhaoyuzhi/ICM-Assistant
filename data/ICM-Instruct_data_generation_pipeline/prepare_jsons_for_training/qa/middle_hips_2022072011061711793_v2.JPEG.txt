@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jean shorts? | Yes. |
+| Yes/No | Is the person's top black? | Yes. |
+| Yes/No | Are the jean shorts ripped in multiple places? | Yes. |
+| Yes/No | Is the background of the image a bathroom? | Yes. |
+| Yes/No | Is the person's pose casual and relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's shorts? | Blue. |
+| What | What is the person's top contrasted with? | The blue of the shorts. |
+| How | How many places are the jean shorts ripped? | Multiple. |
+| How | How does the bathroom setting contribute to the image's atmosphere? | It adds a sense of intimacy. |

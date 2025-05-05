@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman in the image fastening the bra straps? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image suggest a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the overall atmosphere of the image evocative? | Yes. |
+| Yes/No | Does the image depict the woman putting on the bra? | Yes. |
+| What | What is the woman in the image wearing? | A beige bra. |
+| What | What is the background color of the image? | White. |
+| How | How is the woman holding the bra? | With both hands. |
+| How | How does the plain white background affect the image? | It emphasizes the woman and her actions, making the image more alluring. |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman holding in her hands? | The bra. |
+| What | What is the color of the bra? | Beige. |
+| How | How is the woman fastening the straps of the bra? | She is holding the bra with both hands and is in the middle of fastening the straps. |
+| What | What does the plain white background of the image do? | It puts the focus on the woman and her actions, making the image more alluring. |

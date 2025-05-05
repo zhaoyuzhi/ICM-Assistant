@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of a lightweight fabric? | Yes. |
+| Yes/No | Does the floral pattern on the dress add a touch of elegance to her outfit? | Yes. |
+| Yes/No | Is the woman standing in a hallway? | Yes. |
+| Yes/No | Does the woman's confident pose create an atmosphere of allure and sensuality? | Yes. |
+| Yes/No | Are the woman's legs and thighs exposed in the image? | Yes. |
+| What | What is the woman lifting in the image? | Her dress. |
+| What | What is the background of the image? | A neutral hallway. |
+| How | How does the floral pattern on the dress add to the image's atmosphere? | It adds a touch of femininity and elegance. |
+| How | How does the flowing fabric of the dress contribute to the image's overall effect? | It adds a sense of movement and fluidity. |

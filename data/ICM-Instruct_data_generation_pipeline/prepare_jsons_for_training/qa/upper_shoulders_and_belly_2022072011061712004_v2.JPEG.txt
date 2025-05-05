@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple crop top? | Yes. |
+| Yes/No | Are the woman's leggings black? | Yes. |
+| Yes/No | Is the woman's outfit strapless? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's crop top? | Purple. |
+| What | What is the woman's pose in the image? | She has her hand on her hip and her head is tilted to the side. |
+| How | How does the woman's outfit expose her stomach? | The outfit is strapless and midriffbaring. |
+| How | How does the woman's pose and attire suggest confidence and self-assuredness? | The woman's pose and attire create a sense of confidence and allure, suggesting a sense of selfassuredness. |

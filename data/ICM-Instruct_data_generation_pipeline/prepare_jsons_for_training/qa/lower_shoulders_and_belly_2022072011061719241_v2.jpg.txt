@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Does the person have their belly exposed? | Yes. |
+| Yes/No | Are the person's arms bent at the elbows? | Yes. |
+| Yes/No | Is the person standing with their legs apart? | Yes. |
+| Yes/No | Is the image in a dynamic pose? | Yes. |
+| Yes/No | Does the image create a sense of intimacy? | Yes. |
+| What | What color are the leggings the person is wearing? | Blue. |
+| What | What part of the person's body is exposed in the image? | Their belly. |
+| How | How are the person's arms positioned in the image? | Bent at the elbows. |
+| How | How does the image make the viewer feel? | Allured and intimate. |

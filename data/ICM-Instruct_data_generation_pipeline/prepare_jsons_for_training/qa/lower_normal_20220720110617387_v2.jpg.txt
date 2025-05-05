@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of blue jean shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the man looking off to the side? | Yes. |
+| Yes/No | Does the image feature a sexy or provocative pose? | No. |
+| Yes/No | Is the room in the image dimly lit? | Yes. |
+| What | What is the man's facial expression in the image? | Slight smile. |
+| What | What is the man's pose in the image? | Casual and relaxed. |
+| How | How are the man's hands positioned in the image? | Tucked into his pockets. |
+| How | How is the room in the image lit? | Dimly lit. |

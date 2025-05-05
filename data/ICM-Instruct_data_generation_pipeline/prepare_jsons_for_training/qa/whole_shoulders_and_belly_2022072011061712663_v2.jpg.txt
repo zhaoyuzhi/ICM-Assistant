@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a low neckline? | Yes. |
+| Yes/No | Are there buttons down the front of the dress? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| What | What color is the dress the woman is wearing? | Red. |
+| What | What is the woman's pose on the couch? | She is sitting with her hand on her knee. |
+| How | How does the woman's attire contribute to the sexy feel of the image? | The red dress and low neckline reveal her skin, creating a sensual atmosphere. |
+| How | How does the woman's pose contribute to the sexy feel of the image? | Her pose suggests selfassuredness and allure, adding to the overall sexy feel of the image. |

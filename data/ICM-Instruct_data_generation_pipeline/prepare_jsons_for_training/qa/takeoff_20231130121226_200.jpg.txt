@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the person's hair styled in loose waves? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the person taking off their clothes? | Yes. |
+| Yes/No | Does the image have a sexy or alluring atmosphere? | Yes. |
+| What | What is the person wearing? | A white shirt. |
+| What | What is the person's hairstyle? | Loose waves. |
+| How | How is the person's shirt being held open? | With one hand. |
+| How | How does the image's atmosphere contribute to its overall impact? | The sexy atmosphere is created by the combination of the person's attire, the beach setting, and the act of taking off clothes, which evokes feelings of desire and attraction in the viewer. |

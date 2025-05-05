@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing black underwear? | Yes. |
+| Yes/No | Is the ocean dark blue in the image? | Yes. |
+| Yes/No | Are the sky and ocean contrasting in color? | Yes. |
+| Yes/No | Is the woman's attire simple and revealing? | Yes. |
+| What | What is the woman holding in her left hand? | Her shirt. |
+| What | What is the color of the woman's underwear? | Black. |
+| How | How is the woman positioned in the water? | She is standing in the ocean. |
+| How | How is the woman's body being depicted in the image? | Her body is being shown off through her attire and actions. |

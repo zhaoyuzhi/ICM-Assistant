@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the clothes in the image formal? | No. |
+| Yes/No | Is the exposure level in the image high? | No. |
+| Yes/No | Does the image suggest that the person is confident and self-assured? | Yes. |
+| What | What is the main focus of the image? | The person's belly. |
+| What | What is the overall atmosphere of the image? | Relaxed and inviting. |
+| How | How is the person's belly showcased in the image? | The person's belly is visible and the main focus of the image. |
+| How | How does the image suggest that the person is confident and self-assured? | The person is comfortable enough to expose their belly, and the casual clothing and relaxed atmosphere suggest confidence and selfassuredness. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the wall in the background floral? | Yes. |
+| Yes/No | Does the image convey a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's shirt? | Black. |
+| What | What pattern is on the wall? | Floral. |
+| How | How is the person's attire in the image? | Casual and relaxed. |
+| How | How does the image make you feel? | It creates a sense of vulnerability and intimacy, which can be perceived as sexy. |

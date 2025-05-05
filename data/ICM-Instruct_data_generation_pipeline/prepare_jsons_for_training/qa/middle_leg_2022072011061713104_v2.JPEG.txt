@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a pair of pink shorts? | Yes. |
+| Yes/No | Does the woman have a drawstring waist? | Yes. |
+| Yes/No | Are the shorts cropped at the thigh? | Yes. |
+| Yes/No | Is the woman wearing a white t-shirt? | Yes. |
+| Yes/No | Does the woman have a small purse? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the shorts? | Pink. |
+| What | What is the woman carrying in her hand? | A small purse. |
+| How | How are the shorts designed? | They have a drawstring waist and are cropped at the thigh. |
+| How | How does the combination of the pink shorts and white t-shirt create an atmosphere? | It creates a contrast that draws attention to the woman's legs and suggests a sense of confidence and selfassuredness. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress flowing? | Yes. |
+| Yes/No | Is the woman's back turned towards the camera? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Does the image depict a body of water in the background? | Yes. |
+| Yes/No | Is the sky above blue with scattered clouds? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her back turned towards the camera. |
+| What | What is the woman's attire in the image? | She is wearing a white dress with a high neckline and long sleeves. |
+| How | How does the woman's dress contrast with the lawn and sky in the image? | The white dress contrasts with the green lawn and blue sky, making the woman the focal point of the image. |
+| How | How does the flowing fabric of the dress contribute to the overall atmosphere of the image? | The flowing fabric of the dress gives a sense of movement and elegance, adding to the seductive and captivating atmosphere of the image. |

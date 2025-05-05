@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a bikini top? | Yes. |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Is the sword in the woman's right hand? | Yes. |
+| Yes/No | Is the sword red? | Yes. |
+| Yes/No | Is the woman standing in a body of water? | Yes. |
+| What | What is the woman holding in her right hand? | A large red sword. |
+| What | What is the woman's expression? | Neutral. |
+| How | How is the woman standing in the body of water? | She is standing with the water surrounding her. |
+| How | How does the woman's pose and gaze create a sense of connection with the viewer? | The woman's direct gaze and confident pose create a sense of connection and engagement with the viewer. |

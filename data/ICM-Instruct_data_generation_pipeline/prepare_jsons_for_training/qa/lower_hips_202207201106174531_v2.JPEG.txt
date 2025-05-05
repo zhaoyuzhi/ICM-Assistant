@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Are they wearing yellow leggings? | Yes. |
+| Yes/No | Is the chair blue? | Yes. |
+| Yes/No | Does the person have their legs spread apart? | Yes. |
+| Yes/No | Are they wearing a white sports bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's leggings? | Yellow. |
+| What | What is the color of the chair? | Blue. |
+| How | How is the person's pose in the image? | Confident/selfassured. |
+| How | How does the image make you feel? | Intimate/provocative. |

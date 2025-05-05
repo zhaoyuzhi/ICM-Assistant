@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the person have a black bracelet on? | Yes. |
+| Yes/No | Is the background of the image a blurred orange color? | Yes. |
+| Yes/No | Is the person's pose in the image suggestive of confidence and self-assurance? | Yes. |
+| Yes/No | Does the image have a sexy and captivating atmosphere? | Yes. |
+| What | What is the unique detail on the person's jeans? | A zipper on the side. |
+| What | What is the color of the person's bracelet? | Black. |
+| How | How does the person's pose and the way their belly is exposed contribute to the image's sexiness? | The pose and exposed belly create a sense of intimacy and allure. |
+| How | How does the contrast between the blue jeans and the black bracelet add to the image's visual interest? | The contrast adds a pop of color and creates visual tension, drawing the viewer's eye to the person's waist. |
+| Yes/No | Is the woman in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman posing with her hand on her hip? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's pose add a sense of confidence and allure to the image? | Yes. |
+| Yes/No | Are the blue jeans the main focus of the image? | Yes. |
+| What | What is the woman wearing in the image? | A pair of blue jeans. |
+| What | What is the woman's pose in the image? | She is posing with her hand on her hip. |
+| How | How does the woman's pose add a sense of confidence and allure to the image? | The woman's pose showcases her outfit and creates a sense of confidence and allure because of its suggestive nature. |
+| How | How does the image create a sense of allure and confidence? | The image creates a sense of allure and confidence through the woman's pose and the revealing nature of her outfit, which are often associated with sexy images. |

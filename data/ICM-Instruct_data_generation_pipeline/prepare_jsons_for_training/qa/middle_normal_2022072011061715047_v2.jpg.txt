@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's hands in his pockets? | Yes. |
+| Yes/No | Is the man wearing a brown belt? | Yes. |
+| Yes/No | Are the man's pants khaki? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a casual, relaxed atmosphere? | Yes. |
+| What | What is the man's pose in the image? | Standing with hands in pockets. |
+| What | What is the dominant color of the man's attire? | Khaki. |
+| How | How does the low exposure level of the image affect its content? | It emphasizes the casual nature of the scene and reduces the potential for sexual interpretation. |
+| How | How does the image's focus on the man's attire and pose contribute to its overall atmosphere? | It creates a sense of everyday normalcy and relaxation. |
+| Yes/No | Is the man in the image wearing a pair of khaki pants? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose in the image relaxed and casual? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and non-threatening? | Yes. |
+| What | What is the man's pose in the image? | He is standing with his hands in his pockets. |
+| What | What is the color of the man's shirt in the image? | White. |
+| How | How is the man's attire in the image? | His attire is neutral. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is calm and nonthreatening. |

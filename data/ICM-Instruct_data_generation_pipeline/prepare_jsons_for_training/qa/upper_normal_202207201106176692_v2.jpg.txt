@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding a bowl of food? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are there vegetables in the bowl of food? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Is the focus of the image on the person's hand holding the bowl of food? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and ordinary? | Yes. |
+| What | What is the person holding in their hand? | A bowl of food. |
+| What | What is in the background of the image? | A plate of food. |
+| How | How is the person holding the bowl of food? | The person is holding the bowl with one hand. |
+| How | How does the low exposure level of the image affect the scene? | It emphasizes the simplicity and innocence of the scene and draws attention to the person's hand and the bowl of food. |

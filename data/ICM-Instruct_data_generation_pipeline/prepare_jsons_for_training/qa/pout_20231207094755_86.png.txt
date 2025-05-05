@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the woman's hair blonde? | Yes. |
+| Yes/No | Is the woman making a pouting or kissing face? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards? | Yes. |
+| Yes/No | Is the image taken from a close-up perspective? | Yes. |
+| Yes/No | Does the image create a seductive and enticing atmosphere? | Yes. |
+| What | What color is the woman's lipstick? | Red. |
+| What | What is the woman's facial expression? | Pouting or kissing face. |
+| How | How does the close-up perspective of the image emphasize the woman's facial features and expression? | It makes her appear more alluring and inviting. |
+| How | How does the red lipstick add to the woman's appearance? | It adds a bold and vibrant touch. |

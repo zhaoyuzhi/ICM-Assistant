@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the ocean water a light blue color? | No. |
+| Yes/No | Is the woman removing her shirt? | Yes. |
+| Yes/No | Is the image taken in a swimming pool? | No. |
+| Yes/No | Is the woman's actions suggestive of freedom and confidence? | Yes. |
+| What | What is the woman doing in the image? | She is removing her shirt, which is a bikini top. |
+| What | What is the color of the ocean water in the image? | Deep blue. |
+| How | How is the woman removing her shirt? | She is pulling it down while it's unbuttoned. |
+| How | How does the image create a sense of tranquility and allure? | The deep blue color of the ocean water and the woman's actions of removing her clothes suggest a sense of relaxation and sensuality. |

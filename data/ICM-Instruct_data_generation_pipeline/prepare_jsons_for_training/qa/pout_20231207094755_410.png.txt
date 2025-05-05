@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the woman's facial expression exaggerated? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Are the woman's eyes closed in the image? | Yes. |
+| Yes/No | Is the woman's pouting expression associated with confidence? | Yes. |
+| Yes/No | Does the red lipstick add a bold touch to the woman's appearance? | Yes. |
+| What | What color is the woman's lipstick? | Red. |
+| What | What is the woman's facial expression in the image? | Pouting or kissing face. |
+| How | How does the woman's pouting expression contribute to the image's atmosphere? | It adds to the seductive and alluring nature of the image. |
+| How | How does the red lipstick enhance the woman's appearance? | It adds a bold and vibrant touch to her appearance, complementing her pouting expression and enhancing her allure. |

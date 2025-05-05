@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Are the woman's arms covered? | No. |
+| Yes/No | Is the beach setting suggestive of a warm, sunny day? | Yes. |
+| Yes/No | Does the image depict the woman engaging in any sport or physical activity? | No. |
+| Yes/No | Is the woman's attire appropriate for a formal occasion? | No. |
+| What | What color is the woman's bikini top? | Purple. |
+| What | What is the woman's facial expression? | Looking down and to the left. |
+| How | How are the woman's arms positioned? | Relaxed at her sides. |
+| How | How does the image evoke a sense of relaxation and enjoyment? | Through the beach setting, the woman's attire, and her pose. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra black? | Yes. |
+| Yes/No | Does the bra have a floral pattern? | Yes. |
+| Yes/No | Is the woman putting on the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture the woman's face? | No. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What is the color of the bra? | Black. |
+| How | How does the image capture the woman's body? | The image captures the woman's torso and the bra from the back, highlighting the details of her body and the bra. |
+| How | How does the image enhance the sensual atmosphere? | The closeup shot from the back, the focus on the bra and the woman's body, and the association of black and floral patterns with sensuality and allure all contribute to creating a sexy and alluring image. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Does the bra have a floral pattern? | Yes. |
+| Yes/No | Is the woman putting on the bra in the image? | Yes. |
+| Yes/No | Is the image captured from the back of the woman? | Yes. |
+| Yes/No | Does the image focus on the woman's torso and the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A black bra with a floral pattern. |
+| What | What is the significance of the floral pattern on the bra? | It is often associated with sensuality and allure. |
+| How | How is the woman adjusting the straps of the bra? | She is putting on the bra. |
+| How | How does the close-up shot from the back highlight the details of the bra and the woman's body? | It enhances the sensual atmosphere and draws attention to the woman's body. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants white? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Are the person's fingers curled in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the main focus of the image? | The person's belly. |
+| What | What is the aesthetic of the person's attire in the image? | Minimalistic and elegant. |
+| How | How are the person's hands positioned in the image? | Placed on their hips with slightly curled fingers. |
+| How | How does the image capture the person's belly? | Closeup view. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Are the person's fingers curled? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image showcase the person's body in a vulnerable and intimate manner? | Yes. |
+| What | What is the main focus of the image? | The person's belly. |
+| What | What is the atmosphere of the image? | Sensual and alluring. |
+| How | How are the person's hands positioned on their hips? | With the fingers slightly curled. |
+| How | How does the image make the viewer feel? | Intimate and confident. |

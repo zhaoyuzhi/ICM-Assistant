@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a red shirt? | Yes. |
+| Yes/No | Are the man's pants blue? | Yes. |
+| Yes/No | Is the man standing in front of a flower background? | Yes. |
+| Yes/No | Is the man smiling? | Yes. |
+| Yes/No | Is the image overexposed? | No. |
+| Yes/No | Does the image convey a sense of happiness? | Yes. |
+| What | What is the man's facial expression? | Smiling. |
+| What | What is the background of the image? | Flower background. |
+| How | How does the low exposure level affect the image's mood? | Enhances the image's calming effect. |
+| How | How does the image make you feel? | Positive and uplifted. |

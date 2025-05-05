@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are they standing on a beach? | Yes. |
+| Yes/No | Is the man wearing a white suit? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are they holding hands? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| What | What is the man wearing? | A white suit and glasses. |
+| What | What is the woman wearing? | A white dress. |
+| How | How are the couple standing? | They are standing with their feet shoulderwidth apart, facing each other, and leaning in to kiss. |
+| How | How is the ocean visible in the background? | The ocean is visible in the background, stretching out vastly and providing a serene and picturesque setting for the couple's intimate moment. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person's mouth slightly open? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's face? | Yes. |
+| Yes/No | Is the person's facial expression confident? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person's facial expression? | Confident and seductive. |
+| What | What is the pose of the person in the image? | Pouting. |
+| How | How are the person's lips positioned in the image? | Slightly parted. |
+| How | How is the person's mouth positioned in the image? | Slightly open. |

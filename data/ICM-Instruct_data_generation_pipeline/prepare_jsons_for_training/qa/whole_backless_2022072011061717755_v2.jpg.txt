@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a burgundy dress? | Yes. |
+| Yes/No | Does the dress have a lace-up back? | Yes. |
+| Yes/No | Are the sleeves of the dress missing? | Yes. |
+| Yes/No | Is the dress ruffled at the bottom? | Yes. |
+| Yes/No | Is the person standing in a room with a blue wall? | Yes. |
+| Yes/No | Is there a gray couch in the room? | Yes. |
+| What | What color is the wall in the room? | Blue. |
+| What | What is the color of the couch in the room? | Gray. |
+| How | How is the person's posture in the image? | The person is facing away from the camera, creating a sense of mystery and allure. |
+| What | What does the combination of the person's attire and posture create? | The combination creates a seductive atmosphere that makes the viewer feel drawn to the person and their appearance. |

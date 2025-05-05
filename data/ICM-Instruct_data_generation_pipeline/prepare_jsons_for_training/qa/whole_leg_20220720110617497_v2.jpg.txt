@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Are the sweatpants made of a stretchy material? | Yes. |
+| Yes/No | Does the woman have her hands in her pockets? | Yes. |
+| Yes/No | Is the t-shirt short-sleeved? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | No. |
+| What | What color are the sweatpants? | Gray. |
+| What | What is the material of the t-shirt? | Soft fabric. |
+| How | How does the woman's pose contribute to the image's sexiness? | The woman's pose with her hands in her pockets adds a sense of confidence and allure. |
+| How | How does the contrast between the black t-shirt and gray sweatpants highlight the woman's body? | The contrast creates a visual focus on the woman's body, drawing attention to her curves and shape. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the woman's shorts rolled up at the bottom? | Yes. |
+| Yes/No | Is the woman carrying a woven purse? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the woman's sneakers white? | Yes. |
+| What | What color is the woman's shirt? | Black and white striped. |
+| What | What is the woman carrying in her hand? | A woven purse. |
+| How | How are the woman's shorts rolled up? | They are rolled up at the bottom. |
+| How | How does the woman carry her purse? | She carries it in her hand. |

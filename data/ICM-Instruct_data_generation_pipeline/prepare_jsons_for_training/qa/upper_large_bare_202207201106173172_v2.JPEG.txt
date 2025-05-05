@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a necklace? | Yes. |
+| Yes/No | Is the bed covered with a white sheet? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Is the woman's head resting on her hand? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the color of the bikini top? | White. |
+| What | What is the shape of the pendant on the necklace? | Rectangular. |
+| How | How is the woman posing in the image? | She is lying down with her head resting on her hand. |
+| How | How would you describe the overall composition of the image? | The image is composed of the woman lying on a bed, with a white sheet and a gold necklace adding to the intimate and seductive atmosphere. |

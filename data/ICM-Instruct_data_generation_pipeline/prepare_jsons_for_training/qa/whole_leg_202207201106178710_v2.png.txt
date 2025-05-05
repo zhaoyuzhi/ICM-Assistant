@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the woman looking up at the painting? | Yes. |
+| Yes/No | Is the painting depicting a group of people on a boat in the ocean? | Yes. |
+| Yes/No | Does the woman's pose create a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Does the image have a sexy feel to it? | Yes. |
+| What | What is the woman's hair style in the image? | Bun. |
+| What | What is the woman's facial expression in the image? | Focused/engaged. |
+| How | How is the woman positioned in front of the painting? | Standing. |
+| How | How does the woman's body language suggest she is engaged with the artwork? | Looking up/focused gaze. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the man have a necklace around his neck? | Yes. |
+| Yes/No | Is the image in a sexual or intimate setting? | Yes. |
+| Yes/No | Does the man have any other jewelry on besides the necklace? | No. |
+| Yes/No | Is the image in color or black and white? | Color. |
+| Yes/No | Is the image taken indoors or outdoors? | No. |
+| What | What is the man wearing around his neck? | A necklace. |
+| What | What can be inferred about the man's clothing from the image? | That he is shirtless. |
+| How | How does the necklace add to the man's appearance? | It adds a touch of elegance and sophistication. |
+| How | How does the image evoke feelings in the viewer? | It evokes feelings of desire and attraction. |

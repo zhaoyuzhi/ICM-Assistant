@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a black coat? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's posture neutral? | Yes. |
+| Yes/No | Is the room in the image cluttered? | No. |
+| What | What is the color of the woman's dress? | Black. |
+| What | What is the color of the woman's coat? | Black. |
+| How | How is the woman positioned in the room? | In front of a white wall and a window. |
+| How | How would you describe the atmosphere of the image? | Nonsexual and innocent. |

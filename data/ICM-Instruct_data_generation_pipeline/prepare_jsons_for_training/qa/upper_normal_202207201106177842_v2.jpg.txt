@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding two pairs of shoes? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Does the person have black hair? | Yes. |
+| Yes/No | Are the shoes red and black in color? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the person holding in the image? | Two pairs of shoes. |
+| What | What is the color of the shoes? | Red and black. |
+| How | How is the person holding the shoes? | The person is holding the shoes in front of their body, with one pair in each hand. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is simple and straightforward, with no hidden or suggestive elements. |

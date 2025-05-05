@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the dress revealing? | Yes. |
+| Yes/No | Is the woman exposing her legs in the image? | Yes. |
+| Yes/No | Does the woman have any jewelry on? | Yes. |
+| Yes/No | Is the image seductive? | Yes. |
+| Yes/No | Would the image be considered appropriate for a professional setting? | No. |
+| What | What is the woman lifting in the image? | Her dress. |
+| What | What is the woman wearing around her neck? | A necklace. |
+| How | How is the woman's dress styled? | It has a high slit and a long skirt. |
+| How | How does the image make you feel? | It evokes feelings of desire and fascination. |

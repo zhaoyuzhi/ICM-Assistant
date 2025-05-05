@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black underwear? | Yes. |
+| Yes/No | Does the underwear have a custom name on it? | Yes. |
+| Yes/No | Are the lips on the underwear red? | Yes. |
+| Yes/No | Is the name "kiss me" written on the underwear? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the woman's pose accentuate her body and the underwear? | Yes. |
+| What | What is the name written on the underwear? | "Kiss me". |
+| What | What color are the lips on the underwear? | Red. |
+| How | How does the black color of the underwear contrast with the red lips? | The black color of the underwear contrasts starkly with the red lips, making the name "kiss me" stand out prominently. |
+| How | How does the woman's pose accentuate her body and the underwear? | The woman's pose, with her hands on her hips, accentuates her body and the underwear, making the image more alluring. |

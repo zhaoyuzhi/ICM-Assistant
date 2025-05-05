@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black tank top? | Yes. |
+| Yes/No | Are the leggings worn by the person white? | No. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Does the person have a bun hairstyle? | Yes. |
+| Yes/No | Is the white wall in the background clean and minimalistic? | Yes. |
+| Yes/No | Does the criss-cross pattern on the tank top add an element of intrigue and mystery? | Yes. |
+| What | What is the unique design feature on the back of the tank top? | Crisscross pattern. |
+| What | What is the subtle detail added by the white dots on the leggings? | Enhances the overall look. |
+| How | How does the person's hairstyle contribute to the overall atmosphere of the image? | Playfulness. |
+| How | How does the contrast between the person's attire and the white wall contribute to the image? | It makes the person stand out. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image contain any other discernible objects or text? | No. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image have a simple and straightforward atmosphere? | Yes. |
+| What | What is the person in the image wearing? | A black shirt. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the person standing in the image? | Not specified. |
+| How | How does the image's lack of explicit details contribute to its non-sexy nature? | The lack of explicit details, such as the person's face, contributes to the image's nonsexy nature by not providing any suggestive or explicit content. |

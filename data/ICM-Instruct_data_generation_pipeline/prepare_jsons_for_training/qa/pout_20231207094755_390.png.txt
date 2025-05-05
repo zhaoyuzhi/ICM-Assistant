@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Does the person in the image have long brown hair? | Yes. |
+| Yes/No | Is the person in the image making a pouting facial expression? | Yes. |
+| Yes/No | Are the person's eyes closed in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and allure? | Yes. |
+| What | What is the person's facial expression in the image? | Pouting. |
+| What | What is the person's hair color in the image? | Brown. |
+| How | How does the person's facial expression and close-up nature of the image create a sense of intimacy and allure? | The pouting facial expression and closeup nature of the image create a sense of intimacy and allure by emphasizing the person's lips and eyes, which are often associated with sensuality and attractiveness. |
+| How | How does the person's long brown hair and black top add to the overall aesthetic of the image? | The person's long brown hair and black top add to the overall aesthetic of the image by creating a visually appealing contrast between light and dark colors, and by framing the person's face and body in a way that emphasizes their features and curves. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of pink shorts? | Yes. |
+| Yes/No | Does the woman have a drawstring waist? | Yes. |
+| Yes/No | Is the woman's top cropped at the waist? | Yes. |
+| Yes/No | Does the woman have a neutral pose? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the woman's shorts? | Pink. |
+| What | What pattern does the woman's top have? | Polka dots. |
+| How | How is the woman's top cropped? | At the waist. |
+| How | How is the woman's pose described? | Neutral. |

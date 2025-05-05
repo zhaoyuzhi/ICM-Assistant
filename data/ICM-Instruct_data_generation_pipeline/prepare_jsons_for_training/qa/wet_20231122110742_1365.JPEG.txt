@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying down? | Yes. |
+| Yes/No | Is the bathtub filled with water? | Yes. |
+| Yes/No | Is the person wearing a white dress? | Yes. |
+| Yes/No | Are there flowers in the bathtub? | Yes. |
+| Yes/No | Does the image depict a romantic atmosphere? | Yes. |
+| Yes/No | Is the person's appearance in the image sexy? | Yes. |
+| What | What is the person's position in the bathtub? | The person is lying down in the bathtub. |
+| What | What is the color of the dress the person is wearing? | The person is wearing a white dress. |
+| How | How did the person's dress get wet? | The dress got wet because the person is lying in a bathtub filled with water. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is romantic, intimate, and indulgent. |

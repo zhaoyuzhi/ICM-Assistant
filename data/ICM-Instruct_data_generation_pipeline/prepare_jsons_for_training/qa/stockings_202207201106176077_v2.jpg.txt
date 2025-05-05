@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Are the stockings pink? | Yes. |
+| Yes/No | Does the bow on the front of the stockings add a touch of elegance to the overall look? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's feet resting on the bed? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What type of garment is the person wearing on their legs? | Stockings. |
+| What | What is the color of the bow on the front of the stockings? | Pink. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How do the person's feet appear to be resting on the bed? | Resting. |

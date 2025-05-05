@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman lying on a bed? | Yes. |
+| Yes/No | Are the sheets and pillows white? | Yes. |
+| Yes/No | Is the floral print on the woman's bikini bottom blue? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's bikini top? | White. |
+| What | What is the color of the floral print on the woman's bikini bottom? | Blue. |
+| How | How is the woman posing in the image? | With her legs spread apart and her hands on her knees. |
+| How | How does the contrasting background affect the image? | It makes the woman and her outfit stand out. |

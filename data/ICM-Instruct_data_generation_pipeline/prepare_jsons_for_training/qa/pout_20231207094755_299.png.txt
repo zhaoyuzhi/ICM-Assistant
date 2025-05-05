@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image making a pouting facial expression? | Yes. |
+| Yes/No | Is the woman's hair long and brown? | Yes. |
+| Yes/No | Is the woman wearing a leopard print shirt? | Yes. |
+| Yes/No | Are the woman's lips puckered as if she is about to kiss? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Does the image have a sexy and captivating atmosphere? | Yes. |
+| What | What is the woman's facial expression in the image? | Pouting. |
+| What | What is the woman wearing in the image? | A leopard print shirt. |
+| How | How are the woman's lips positioned in the image? | Puckered. |
+| How | How are the woman's eyes positioned in the image? | Closed. |

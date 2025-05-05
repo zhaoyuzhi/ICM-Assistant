@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Is the person wearing a white dress? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's arms resting on their knees? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image have a sexy and alluring atmosphere? | Yes. |
+| What | What color are the person's heels? | Black. |
+| What | What is the length of the person's dress? | Long. |
+| How | How are the person's legs positioned? | Crossed. |
+| How | How is the person's body facing in the image? | Facing the left side. |

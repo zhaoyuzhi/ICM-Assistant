@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige sweater? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is the person holding an orange in their hand? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the person holding in their hand? | An orange. |
+| What | What is the color of the person's belt? | Black. |
+| How | How is the person standing in relation to the window? | In front of it. |
+| How | How would you describe the focus of the image? | On the person's casual attire and the simple act of holding an orange. |
+| Yes/No | Is the person in the image wearing a beige sweater? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is the person holding an orange in their hand? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| Yes/No | Is the person posing in a provocative manner? | No. |
+| What | What is the person holding in their hand? | An orange. |
+| What | What is the dominant color of the person's outfit? | Beige. |
+| How | How is the person standing in relation to the window? | In front of. |
+| How | How does the low exposure level affect the image? | It emphasizes the focus on the person's clothing and the orange, rather than on their body or appearance. |

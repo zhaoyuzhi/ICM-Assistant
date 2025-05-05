@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Is the dress long? | Yes. |
+| Yes/No | Are there mountains in the distance? | Yes. |
+| Yes/No | Is the pool filled with blue water? | Yes. |
+| Yes/No | Does the woman have her back to the camera? | Yes. |
+| What | What color is the dress? | Blue and white. |
+| What | What is the design of the dress? | Striped. |
+| How | How is the woman standing on the balcony? | Confidently. |
+| How | How does the overall atmosphere of the image feel? | Sexy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Does the image have a colorful background? | No. |
+| Yes/No | Is the man's skin tone dark? | No. |
+| Yes/No | Does the image depict a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the man's facial expression neutral? | No. |
+| What | What is the man's hair color? | Blonde. |
+| What | What is the color of the background? | White. |
+| How | How is the man looking off to the side? | Slightly smiling. |
+| How | How does the plain white background affect the image? | It emphasizes the man's physique and the overall atmosphere. |

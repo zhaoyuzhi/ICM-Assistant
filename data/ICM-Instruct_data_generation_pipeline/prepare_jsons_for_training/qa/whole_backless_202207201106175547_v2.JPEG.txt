@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the dress tight-fitting? | Yes. |
+| Yes/No | Does the dress have a bow on the back? | Yes. |
+| Yes/No | Is the woman's back facing the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's pose alluring? | Yes. |
+| What | What is the woman's pose in the image? | She is sitting on a chair with her back facing the camera. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How is the bow on the back of the dress tied? | It is tied in a knot. |
+| How | How does the woman's pose and the way her dress is tied in a knot add to the overall allure of the image? | They create a seductive atmosphere and accentuate her figure, making her look alluring. |

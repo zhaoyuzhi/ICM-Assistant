@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow jacket? | Yes. |
+| Yes/No | Is the woman in a formal or business-related setting? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman gesturing with her hands? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image suggest an ongoing conversation or presentation? | Yes. |
+| What | What is the woman wearing on her upper body? | A blue shirt. |
+| What | What is the woman's attire suggesting about the context of the image? | A formal or businessrelated setting. |
+| How | How is the woman's gesture interpreted in the image? | Possibly indicating an ongoing conversation or presentation. |
+| How | How does the low exposure level of the image affect its overall atmosphere? | It emphasizes the seriousness of the situation. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman kissing each other? | Yes. |
+| Yes/No | Are the man's hands placed on the woman's shoulders? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the man's shirt? | Blue. |
+| What | What is the woman's dress color? | Black. |
+| How | How are the man's hands placed on the woman's shoulders? | Gently. |
+| How | How is the woman's embrace around the man's neck? | Passionately. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is their head tilted to the side? | Yes. |
+| Yes/No | Are they holding their hand in their pocket? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the color of the wall in the background? | Red. |
+| What | What is the person's pose in the image? | Standing with their hand in their pocket and their head tilted to the side. |
+| How | How does the red wall in the background contribute to the overall atmosphere of the image? | It adds a bold color contrast, but does not contribute to the overall sensuality of the image. |
+| How | How does the low exposure level of the image affect the focus of the image? | It focuses attention on the person's clothing and pose rather than their physical appearance. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is their head tilted to the side? | Yes. |
+| Yes/No | Are they holding their hand in their pocket? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the color of the wall in the background? | Red. |
+| What | What is the person's pose in the image? | Standing with a slight tilt of the head. |
+| How | How is the person's hand positioned in the image? | In their pocket. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, simple and not revealing. |

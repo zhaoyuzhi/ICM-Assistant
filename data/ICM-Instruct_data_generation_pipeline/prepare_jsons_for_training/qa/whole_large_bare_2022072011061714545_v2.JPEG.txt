@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a wig? | Yes. |
+| Yes/No | Are the woman's glasses yellow? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the image visually appealing? | Yes. |
+| What | What color is the bikini top? | Blue and yellow. |
+| What | What color is the skirt? | Yellow. |
+| How | How many colors are in the woman's wig? | 2 (black and red). |
+| How | How many elements contribute to the sexy atmosphere in the image? | 4 (bikini top, skirt, pool, and wig). |

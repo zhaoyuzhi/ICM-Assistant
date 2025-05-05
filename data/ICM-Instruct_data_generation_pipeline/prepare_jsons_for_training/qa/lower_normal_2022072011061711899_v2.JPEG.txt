@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress long? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Does the woman have her hands resting at her sides? | Yes. |
+| Yes/No | Is the image well-lit? | Yes. |
+| Yes/No | Is the woman's face visible? | No. |
+| What | What color is the dress? | Dark green. |
+| What | What is the woman's pose in the image? | Neutral. |
+| How | How does the image focus on the woman's attire? | The image emphasizes the woman's dress and overall appearance rather than her physical appearance, and the white background and lack of distractions contribute to this focus. |
+| How | How does the image maintain the woman's privacy? | The image does not show the woman's face, and the dress does not suggest any intimate or provocative actions, maintaining the woman's privacy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | No. |
+| Yes/No | Are the couple smiling? | No. |
+| Yes/No | Is the man wearing a hat? | No. |
+| Yes/No | Is the woman wearing jewelry? | No. |
+| Yes/No | Is the stone building in the background a church? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What is the man sitting on the bench holding? | He is holding a cane. |
+| What | What is the woman sitting on the bench wearing? | She is wearing a black outfit. |
+| How | How would you describe the mood of the image? | The mood of the image is calm and peaceful. |
+| How | How does the low exposure level of the image enhance the scene? | The low exposure level enhances the serene and contemplative mood of the scene by creating a sense of darkness and shadow. |

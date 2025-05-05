@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image looking upwards? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman's hair long and black? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the woman's gaze seem to be directed towards the viewer? | No. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What is the woman doing with her lip? | Biting it. |
+| How | How does the woman's gaze contribute to the image's atmosphere? | It adds to the sense of tension and anticipation. |
+| How | How does the image's overall atmosphere make the viewer feel? | It evokes a sense of desire. |

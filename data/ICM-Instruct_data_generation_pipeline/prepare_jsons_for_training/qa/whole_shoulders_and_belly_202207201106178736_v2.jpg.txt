@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a white skirt? | Yes. |
+| Yes/No | Does the woman in the image have a purse? | Yes. |
+| Yes/No | Is the woman in the image smoking a cigarette? | Yes. |
+| Yes/No | Is the woman in the image walking on a sidewalk? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her feet? | The description doesn't mention what the woman is wearing on her feet. |
+| What | What is the color of the woman's purse? | The description doesn't mention the color of the woman's purse. |
+| How | How is the woman holding her cigarette? | The description doesn't mention how the woman is holding her cigarette. |
+| What | What is the woman's facial expression in the image? | The description doesn't mention the woman's facial expression. |

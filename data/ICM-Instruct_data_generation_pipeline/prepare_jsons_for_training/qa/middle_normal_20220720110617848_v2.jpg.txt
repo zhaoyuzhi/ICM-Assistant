@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Are the person's hands in their pockets? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image focus on the person's appearance or body language? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and unassuming? | Yes. |
+| What | What is the color of the person's trousers? | Beige. |
+| What | What is the person's pose in the image? | Standing with hands in pockets. |
+| How | How is the person's attire in the image? | Neutral. |
+| How | How would you describe the focus of the image? | On the person's clothing and posture. |
+| Yes/No | Is the person in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose and attire neutral? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the focus of the image on the person's casual clothing and pose? | Yes. |
+| What | What color are the person's pants? | Beige. |
+| What | What is the person's pose in the image? | Standing with their hand in their pocket. |
+| How | How does the person's pose and attire suggest the atmosphere of the image? | The person's pose and attire suggest a casual and relaxed atmosphere. |
+| How | How does the low exposure level contribute to the overall atmosphere of the image? | The low exposure level further contributes to the overall atmosphere of the image, emphasizing the casual and relaxed nature of the scene. |

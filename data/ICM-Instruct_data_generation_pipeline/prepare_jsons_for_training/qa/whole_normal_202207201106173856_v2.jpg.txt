@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pink t-shirt? | Yes. |
+| Yes/No | Are her pants white? | Yes. |
+| Yes/No | Is her hair styled in a bob? | Yes. |
+| Yes/No | Is the background a plain white wall? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the woman's pose in the image? | Modest. |
+| What | What is the woman's attire in the image? | Pink tshirt and white pants. |
+| How | How is the woman's hair styled in the image? | In a bob. |
+| How | How does the image focus on the woman's appearance? | It highlights her style and appearance rather than her physical attributes. |

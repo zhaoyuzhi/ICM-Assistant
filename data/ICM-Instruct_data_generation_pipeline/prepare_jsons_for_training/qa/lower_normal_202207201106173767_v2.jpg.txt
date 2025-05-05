@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a black suit? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the woman's hands resting at her sides? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Does the woman's attire suggest a professional or formal setting? | Yes. |
+| Yes/No | Does the image have a sexual context or suggestive poses? | No. |
+| What | What is the woman's attire in the image? | A black blazer and black pants. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the woman standing in the image? | With a neutral pose. |
+| How | How does the image convey a sense of professionalism and formality? | Through the woman's attire and the simplicity of the background. |

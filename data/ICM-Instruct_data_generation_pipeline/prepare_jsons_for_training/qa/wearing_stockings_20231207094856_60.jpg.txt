@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the person's left hand holding the stockings? | Yes. |
+| Yes/No | Is the person's right hand pulling the stocking up their leg? | Yes. |
+| Yes/No | Is the stocking being pulled up the person's left leg? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest a sense of attention to detail and self-care? | Yes. |
+| What | What is the person in the image wearing? | White stockings. |
+| What | What is the color of the stockings? | White. |
+| How | How is the person holding the stockings? | With their left hand. |
+| How | How is the stocking being pulled up the person's leg? | With their right hand. |
+| Yes/No | Is the person in the image putting on a pair of stockings? | Yes. |
+| Yes/No | Is the person in the image standing on a tiled floor? | Yes. |
+| Yes/No | Is the person in the image holding the stockings with their left hand? | Yes. |
+| Yes/No | Is the person in the image pulling the stocking up their left leg? | Yes. |
+| Yes/No | Is the color of the stockings white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the stockings in the image? | White. |
+| How | How is the person in the image pulling up the stockings? | With their right hand. |
+| How | How does the tiled floor in the image contribute to the atmosphere of the photo? | It provides a neutral and clean background that emphasizes the subject and action. |

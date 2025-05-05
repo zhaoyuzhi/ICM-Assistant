@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini orange and black in color? | Yes. |
+| Yes/No | Is the bikini well-fitted, revealing a significant amount of the woman's upper body? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the image sexy because of the woman's attire and the overall atmosphere of the scene? | Yes. |
+| What | What type of swimwear is the woman wearing in the image? | A bikini. |
+| What | What is the color of the bikini the woman is wearing? | Orange and black. |
+| How | How is the bikini fitted on the woman's body? | It is wellfitted, revealing a significant amount of her upper body. |
+| How | How does the woman appear to be feeling in the image? | She appears to be enjoying her time on the beach and is smiling. |

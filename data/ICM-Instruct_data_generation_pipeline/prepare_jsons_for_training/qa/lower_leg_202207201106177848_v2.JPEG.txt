@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person standing on the fence? | Yes. |
+| Yes/No | Are the trees in the background? | Yes. |
+| Yes/No | Is the person wearing white sneakers? | Yes. |
+| Yes/No | Is the person's shirt white? | Yes. |
+| Yes/No | Is the fence made of wood? | Yes. |
+| What | What is the person wearing on their feet? | White sneakers. |
+| What | What is the color of the person's shirt? | White. |
+| How | How are the person's arms positioned? | Resting on their knees. |
+| How | How are the trees in the background? | Grassy field. |

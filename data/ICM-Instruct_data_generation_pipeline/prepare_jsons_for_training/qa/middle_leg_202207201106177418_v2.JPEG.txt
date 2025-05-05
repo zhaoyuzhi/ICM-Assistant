@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white skirt? | Yes. |
+| Yes/No | Is the skirt short? | Yes. |
+| Yes/No | Does the skirt have a slit on the side? | Yes. |
+| Yes/No | Is the woman wearing a green top? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's skirt? | White. |
+| What | What color is the woman's top? | Green. |
+| How | How does the woman's attire reveal her thighs? | The skirt is short and has a slit on the side. |
+| What | What atmosphere does the image convey? | Sensual and alluring. |

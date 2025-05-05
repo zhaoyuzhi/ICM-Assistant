@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man looking down at his phone? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire modest? | Yes. |
+| What | What is the man doing in the image? | He is looking down at his phone. |
+| What | What is the color of the man's shirt? | Blue. |
+| How | How is the man standing in the image? | He is standing casually with his hands tucked into his pockets. |
+| How | How does the white background affect the overall mood of the image? | It emphasizes the simplicity of the scene and creates a relaxed atmosphere. |

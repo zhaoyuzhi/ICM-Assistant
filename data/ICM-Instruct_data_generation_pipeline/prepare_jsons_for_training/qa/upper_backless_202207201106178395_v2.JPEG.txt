@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink bra? | Yes. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person's hair in a braid? | Yes. |
+| Yes/No | Is the person standing behind a metal railing? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and style? | Yes. |
+| What | What is the color of the bra and skirt? | Pink. |
+| What | What is the person's hairstyle? | Braid. |
+| How | How does the person's stance contribute to the atmosphere of the image? | The person's confident stance adds to the overall atmosphere of allure and sensuality in the image. |
+| How | How does the metal railing contrast with the rest of the scene? | The metal railing adds an interesting contrast to the scene, creating a striking visual effect that complements the person's outfit and pose. |

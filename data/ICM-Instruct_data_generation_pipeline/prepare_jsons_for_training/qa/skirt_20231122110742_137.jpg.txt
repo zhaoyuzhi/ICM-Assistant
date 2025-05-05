@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the dress made of a shiny material? | Yes. |
+| Yes/No | Is the woman lifting the skirt of her dress? | Yes. |
+| Yes/No | Are the woman's legs exposed in the image? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and allure? | Yes. |
+| What | What is the woman's pose in the image? | The woman is standing with one leg bent and the other leg straight, lifting the skirt of her dress with one hand and resting the other hand on her hip. |
+| What | What is the material of the woman's dress? | The dress appears to be made of a shiny material, possibly silk or satin. |
+| How | How is the woman lifting the skirt of her dress? | The woman is lifting the skirt with one hand, holding it above her knee and exposing her legs. |
+| How | How does the woman's pose and the way she is lifting the skirt create a sense of intimacy and allure? | The woman's pose and the way she is lifting the skirt create a sense of intimacy and allure by emphasizing her legs and exposing her body in a suggestive way, while also conveyancing a sense of confidence and selfassuredness. |

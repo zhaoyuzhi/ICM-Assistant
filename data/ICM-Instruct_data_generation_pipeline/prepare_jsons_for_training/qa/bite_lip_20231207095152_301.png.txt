@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple turtleneck? | Yes. |
+| Yes/No | Is the woman biting her lip in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's facial expression serious in the image? | Yes. |
+| Yes/No | Is the purple turtleneck a pop of color in the image? | Yes. |
+| What | What color is the woman's turtleneck in the image? | Purple. |
+| What | What is the woman's facial expression in the image? | Serious. |
+| How | How is the woman biting her lip in the image? | Seductively. |
+| How | How does the woman's choice of outfit contribute to the image's atmosphere? | Confidently and stylishly. |

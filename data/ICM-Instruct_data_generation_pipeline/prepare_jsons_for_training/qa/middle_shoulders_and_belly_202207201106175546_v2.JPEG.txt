@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a silver belly button? | Yes. |
+| Yes/No | Is the silver belly button the main focus of the image? | Yes. |
+| Yes/No | Is the person in the image wearing anything else other than the silver belly button? | No. |
+| What | What is the person in the image wearing? | A silver belly button. |
+| What | What is the main focus of the image? | The silver belly button. |
+| How | How many silver belly buttons is the person in the image wearing? | One. |
+| How | How is the silver belly button attached to the person's belly? | It is not specified in the description. |
+| Yes/No | Is the person in the image wearing a silver belly button cover? | Yes. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white belt? | Yes. |
+| How | Does the image show the person's skin? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their belly? | A silver belly button cover. |
+| What | What is the person in the image wearing on their waist? | A white belt. |
+| How | How is the person's body language in the image? | Confident and selfassured. |
+| How | How does the close-up shot of the person's body contribute to the image's atmosphere? | It makes the image more intimate and alluring. |

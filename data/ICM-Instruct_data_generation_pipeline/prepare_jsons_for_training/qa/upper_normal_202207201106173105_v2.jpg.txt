@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the man in the image talking on his cell phone? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the man's physical appearance? | No. |
+| What | What is the man in the image doing? | Talking on his cell phone. |
+| What | What is the color of the man's shirt? | Black. |
+| How | How is the image lit? | Low exposure. |
+| How | How does the image's low exposure level affect the focus of the image? | It emphasizes the focus on the man's actions and the car's interior, rather than on his physical appearance or any potential intimacy. |

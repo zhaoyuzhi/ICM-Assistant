@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing lipstick? | Yes. |
+| Yes/No | Are her eyes closed in the image? | Yes. |
+| Yes/No | Is she wearing a necklace in the image? | Yes. |
+| What | What color is the lipstick the woman is wearing? | Pink. |
+| What | What is the woman's expression in the image? | Pouty. |
+| How | How are the woman's lips depicted in the image? | Slightly parted. |
+| How | How is the image taken? | From a closeup perspective. |

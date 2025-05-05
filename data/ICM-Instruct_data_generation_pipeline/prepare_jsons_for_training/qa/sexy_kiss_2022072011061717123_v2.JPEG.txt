@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a hat? | Yes. |
+| Yes/No | Is the woman leaning in to kiss the man? | Yes. |
+| Yes/No | Are both individuals dressed in dark clothing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image evoke feelings of desire? | Yes. |
+| Yes/No | Is the image a depiction of human connection? | Yes. |
+| What | What is the man wearing? | A black hat. |
+| What | What is the woman's hair like? | Long. |
+| How | How are the individuals positioned in the image? | The woman is leaning in to kiss the man, who is reciprocating the gesture. |
+| How | How does the image make you feel? | It evokes feelings of desire and intimacy. |

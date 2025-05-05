@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the person's upper body exposed in the image? | Yes. |
+| Yes/No | Is the person holding a phone in their hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bikini top and bottom? | Yellow. |
+| What | What is the person holding in their hand? | A phone. |
+| How | How is the person standing in relation to the camera? | The person is standing in front of the camera, with their body facing the camera. |
+| How | How does the mirror in the background add to the overall allure of the image? | The mirror adds depth to the image, making it more visually appealing. |

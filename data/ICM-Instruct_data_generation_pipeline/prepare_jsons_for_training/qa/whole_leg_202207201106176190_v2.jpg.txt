@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image using a cell phone? | Yes. |
+| Yes/No | Is the woman in the image dressed in a short skirt? | Yes. |
+| Yes/No | Is the woman in the image dressed in a brown top? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image wearing? | A short skirt and a brown top. |
+| What | What is the woman in the image doing? | Talking on her cell phone. |
+| How | How is the woman's attire in the image? | The woman's attire is casual and revealing. |
+| How | How does the woman's confident stride contribute to the overall atmosphere of the image? | The woman's confident stride adds to the overall relaxed and sexy atmosphere of the image. |

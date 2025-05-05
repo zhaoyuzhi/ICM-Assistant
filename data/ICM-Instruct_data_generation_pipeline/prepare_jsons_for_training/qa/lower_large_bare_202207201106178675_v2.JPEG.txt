@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing underwear? | Yes. |
+| Yes/No | Is the setting of the image a bedroom? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Does the image portray an intimate atmosphere? | Yes. |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Is the underwear in the image light blue? | Yes. |
+| What | What color are the flowers in the vase? | Pink. |
+| What | What is the color of the comforter on the bed? | White. |
+| How | How does the lace trim on the underwear contribute to the overall feeling of the image? | It adds a touch of elegance and sophistication. |
+| How | How does the overall atmosphere of the image make the viewer feel? | It creates a sense of sensuality and allure. |

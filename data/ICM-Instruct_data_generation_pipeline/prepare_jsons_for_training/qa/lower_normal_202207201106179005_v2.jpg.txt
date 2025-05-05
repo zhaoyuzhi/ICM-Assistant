@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the woman's pants gray? | Yes. |
+| Yes/No | Is the woman holding a black purse? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman's posture appear upright? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman holding in her hand? | A black purse. |
+| What | What is the color of the woman's pants? | Gray. |
+| How | How is the woman standing in the image? | She is standing upright. |
+| How | How does the overall atmosphere of the image feel? | It feels calm and neutral. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray tank top? | Yes. |
+| Yes/No | Are the person's arms outstretched? | Yes. |
+| Yes/No | Is the person standing in front of a black door? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the person's attire and pose suggestive of confidence and self-assurance? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What color is the person's tank top? | Gray. |
+| What | What is the design on the back of the person's tank top? | Crisscross. |
+| How | How is the person standing in front of the black door? | Standing with arms outstretched. |
+| How | How does the image convey a sense of vulnerability and intimacy? | Through the large area of the person's back exposed by the gray tank top with a crisscross design. |

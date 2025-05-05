@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a blue jacket? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the background white? | Yes. |
+| Yes/No | Is the woman's pose neutral? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the woman's attire focused on? | The woman's attire is focused on her jacket and shirt, rather than her body. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is calm and professional, rather than sensual or provocative. |
+| How | How is the woman standing? | The woman is standing in a neutral pose. |
+| How | How is the image lit? | The image is lit in a way that creates a low exposure level, with the focus on the woman's attire rather than her body. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray bodysuit? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Does the bodysuit accentuate the person's body shape? | Yes. |
+| Yes/No | Do the white sneakers have a thick sole? | Yes. |
+| Yes/No | Does the person's pose suggest confidence and self-assuredness? | Yes. |
+| What | What color is the bodysuit? | Gray. |
+| What | What type of shoes is the person wearing? | White sneakers. |
+| How | How does the bodysuit accentuate the person's body shape? | It is formfitting, highlighting the person's curves and body shape. |
+| How | How does the person's pose suggest confidence and self-assuredness? | The person is posing with their back facing the camera, showing off their buttocks, which is a common pose associated with sexy images, suggesting confidence and selfassuredness. |

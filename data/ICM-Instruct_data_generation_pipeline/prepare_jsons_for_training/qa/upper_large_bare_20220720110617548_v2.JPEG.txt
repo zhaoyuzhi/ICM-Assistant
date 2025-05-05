@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing a ponytail? | Yes. |
+| Yes/No | Is the woman in the image wearing a cross necklace? | Yes. |
+| Yes/No | Is the woman in the image posing seductively? | Yes. |
+| Yes/No | Is the overall atmosphere of the image provocative? | Yes. |
+| What | What is the woman in the image wearing? | A black bra and black stockings. |
+| What | What is the woman in the image's hair style? | A ponytail. |
+| How | How is the woman in the image posing? | With her hand on her hip and her head tilted to the side. |
+| How | How would you describe the atmosphere of the image? | Seductive and provocative. |

@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the stockings being worn by the person beige? | Yes. |
+| Yes/No | Is the person in the image wearing black socks? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What color are the stockings being worn by the person? | Beige. |
+| How | How is the person in the image putting on the stockings? | They are bending their legs and pulling the stockings up. |
+| What | What does the combination of the beige stockings and skirt, along with the black socks, create? | A contrast that adds to the overall allure of the image. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are they wearing beige stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on their stockings? | Yes. |
+| Yes/No | Are they wearing black socks? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image wearing on their legs? | Beige stockings and black socks. |
+| What | What is the color of the skirt the person is wearing? | Beige. |
+| How | How is the person in the image looking while putting on their stockings? | They are looking down. |
+| How | How does the combination of beige stockings and skirt, along with black socks, contribute to the overall allure of the image? | It creates a contrast that adds to the overall allure of the image. |

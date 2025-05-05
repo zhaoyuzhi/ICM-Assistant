@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Is the woman in the image revealing her midriff? | Yes. |
+| Yes/No | Does the image feature an urban or modern background? | Yes. |
+| Yes/No | Is the woman in the image standing confidently? | Yes. |
+| Yes/No | Does the image create a sexy and alluring atmosphere? | Yes. |
+| Yes/No | Are the blue jeans in the image a contrast to the white crop top? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A white crop top with a chain detail on the chest. |
+| What | What is the woman in the image wearing on her lower body? | Blue jeans. |
+| How | How does the woman in the image stand? | Confidently. |
+| How | How does the image create an urban and modern feel? | The image features a glass window in the background, which adds an urban and modern touch to the overall atmosphere. |

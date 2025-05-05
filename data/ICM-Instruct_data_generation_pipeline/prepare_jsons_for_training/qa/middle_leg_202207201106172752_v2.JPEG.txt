@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a short skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Is the woman in the image taking a selfie? | Yes. |
+| Yes/No | Does the woman's outfit expose her thighs? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her lower body? | A short skirt and a lace skirt. |
+| What | What is the woman in the image holding in her hand? | A phone. |
+| How | How is the woman in the image posing? | She is taking a selfie. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed, with a sexy undertone. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Is the person in the image standing in a field? | Yes. |
+| Yes/No | Are there trees in the background of the image? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Are the person's buttocks prominently displayed in the image? | Yes. |
+| What | What is the person in the image wearing? | Blue jeans and a white top. |
+| What | What is the background of the image? | A field with grass and trees. |
+| How | How is the person posing in the image? | The person is standing with their buttocks prominently displayed, suggesting a casual and relaxed atmosphere. |
+| How | How does the image make you feel? | The image evokes a sense of sensuality and confidence, and the casual attire and outdoor setting contribute to an intimate and alluring atmosphere. |

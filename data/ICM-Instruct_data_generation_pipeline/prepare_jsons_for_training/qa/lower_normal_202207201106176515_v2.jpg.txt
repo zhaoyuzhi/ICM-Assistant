@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the person's body facing the camera? | Yes. |
+| Yes/No | Does the image contain any suggestive poses or elements? | No. |
+| Yes/No | Does the person's attire appear to be appropriate for a casual setting? | Yes. |
+| What | What is the fabric of the skirt? | Soft. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| How | How is the person's pose in the image? | Neutral. |
+| How | How does the white background contribute to the image's atmosphere? | It helps to keep the focus on the person and their attire, rather than any potential distractions. |

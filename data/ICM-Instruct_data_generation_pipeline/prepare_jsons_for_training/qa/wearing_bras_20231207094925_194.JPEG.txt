@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Is the woman's shirt white? | Yes. |
+| Yes/No | Does the woman have a necklace on? | Yes. |
+| Yes/No | Is the bra the woman is putting on lacy? | Yes. |
+| Yes/No | Is the woman holding the bra with both hands? | Yes. |
+| Yes/No | Is the woman in the process of fastening the bra? | Yes. |
+| What | What color is the bra the woman is putting on? | White. |
+| What | What is the woman holding in her hands? | The bra. |
+| How | How is the woman fastening the bra? | She is holding it with both hands and in the process of fastening it. |
+| What | What atmosphere does the image create? | A seductive atmosphere. |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Is the woman's shirt white? | Yes. |
+| Yes/No | Is the bra the woman is putting on lacy? | Yes. |
+| What | What is the woman holding in her hands? | The bra. |
+| What | What is the woman wearing around her neck? | A necklace. |
+| How | How is the woman fastening the bra? | With both hands. |
+| What | What atmosphere does the image convey? | Seductive. |

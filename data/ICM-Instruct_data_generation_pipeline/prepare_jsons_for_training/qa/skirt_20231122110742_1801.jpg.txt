@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the woman in the image wearing high heels? | Yes. |
+| Yes/No | Is the locker behind the woman open? | Yes. |
+| Yes/No | Is the woman lifting her dress? | Yes. |
+| Yes/No | Are the woman's legs and thighs exposed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman lifting her dress with? | Her hands. |
+| What | What is the color of the woman's dress? | Pink. |
+| How | How is the woman standing in front of the locker? | She is standing with her feet shoulderwidth apart, facing the locker. |
+| How | How is the woman holding her dress? | She is holding the dress with both hands, lifting it up to her thighs. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a black hat? | Yes. |
+| Yes/No | Is the woman in the image holding a bouquet of flowers? | Yes. |
+| Yes/No | Does the dress have a strapless design? | Yes. |
+| Yes/No | Does the dress have a midriff-baring design? | Yes. |
+| Yes/No | Is the woman carrying a white purse? | Yes. |
+| What | What is the dominant color scheme of the image? | Black and white. |
+| What | What does the woman carry in her hand? | A bouquet of flowers. |
+| How | How does the woman carry herself in the image? | With confidence and poise. |
+| How | How would you describe the overall atmosphere of the image? | Elegant and sophisticated. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green dress? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Is the woman positioned in the center of the image? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image have a calm and serene atmosphere? | Yes. |
+| What | What is the color of the woman's dress? | Green. |
+| What | What is the woman holding in her hand? | A purse. |
+| How | How is the woman positioned in the image? | She is standing in the center, facing the camera. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

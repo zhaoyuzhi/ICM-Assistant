@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a bag of snacks? | Yes. |
+| Yes/No | Is the bag of snacks predominantly white? | Yes. |
+| Yes/No | Does the label on the bag display Chinese characters? | Yes. |
+| Yes/No | Is the woman wearing a watch? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman holding in the image? | A large bag of snacks. |
+| What | What is the color of the bag of snacks? | White, with a blue and pink label. |
+| How | How is the woman dressed in the image? | She is wearing a white shirt. |
+| How | How is the image focused? | The image is focused on the woman and the bag of snacks, with a low exposure level. |

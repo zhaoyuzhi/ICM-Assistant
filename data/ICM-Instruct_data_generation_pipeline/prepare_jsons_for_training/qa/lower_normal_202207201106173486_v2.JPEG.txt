@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the background of the image black? | Yes. |
+| Yes/No | Are the man's pants black? | Yes. |
+| Yes/No | Does the man have a neutral pose? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Are there any suggestive or provocative elements in the image? | No. |
+| Yes/No | Does the image evoke feelings of desire or attraction? | No. |
+| What | What color are the man's pants? | Black with white stripes. |
+| What | What is the man's pose in the image? | Hands resting on hips. |
+| How | How is the overall atmosphere of the image? | Simple and straightforward. |
+| How | How does the image adhere to the prior information provided? | It focuses solely on the man's attire, without any suggestive or provocative elements, and is appropriate and respectful. |

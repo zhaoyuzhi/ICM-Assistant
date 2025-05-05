@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black high heels? | Yes. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs spread apart in the image? | Yes. |
+| Yes/No | Is the image set against a natural backdrop? | Yes. |
+| Yes/No | Does the person's pose suggest confidence? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image wearing? | Black high heels and a black dress. |
+| What | What is the backdrop of the image? | A grassy area. |
+| How | How are the person's legs positioned in the image? | Spread apart. |
+| How | How would you describe the overall atmosphere of the image? | Seductive and alluring. |

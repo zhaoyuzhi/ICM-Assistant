@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Are the woman's hands resting on her knees in the image? | Yes. |
+| Yes/No | Is the bed covered with a white sheet? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's bra and underwear? | Purple. |
+| What | What is the woman's pose in the image? | She is sitting with her legs spread apart and her hands resting on her knees. |
+| How | How does the woman's pose contribute to the overall allure of the image? | The woman's pose, with her legs spread apart and her hands resting on her knees, creates a sense of intimacy and confidence, contributing to the overall allure of the image. |
+| How | How does the combination of the woman's attire and pose create a sense of intimacy and allure? | The combination of the woman's purple bra and underwear, along with her sexy pose, creates a sense of intimacy and allure, making the image sexy. |

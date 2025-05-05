@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Does the bra have a lace-up design on the back? | Yes. |
+| Yes/No | Is the woman adjusting the bra with her hands? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest the woman is preparing for an event or getting ready for the day? | Yes. |
+| What | What is the woman wearing? | A beige bra. |
+| What | What is the unique element in the bra's design? | A laceup design on the back. |
+| How | How is the woman adjusting the bra? | With her hands. |
+| How | How does the lace-up design on the back of the bra add to the image's sexiness? | It suggests that the bra is not just functional but also fashionable, adding an element of intrigue and allure. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Does the bra have a lace-up design on the back? | Yes. |
+| Yes/No | Is the woman adjusting the bra with her hands? | Yes. |
+| Yes/No | Does the image depict a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman adjusting on her body? | The woman is adjusting her bra. |
+| What | What is the color of the bra? | The color of the bra is beige. |
+| How | How is the bra designed on the back? | The bra has a laceup design on the back. |
+| How | How is the woman feeling in the image? | The woman is feeling intimate and vulnerable in the image. |

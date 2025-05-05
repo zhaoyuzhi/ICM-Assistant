@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the woman in the image lying on a bed? | Yes. |
+| Yes/No | Does the image feature the woman's exposed back? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Does the image capture a private moment of the woman? | Yes. |
+| What | What is the color of the comforter in the image? | White. |
+| What | What is the color of the woman's bra and underwear? | Gray. |
+| How | How is the woman positioned on the bed? | She is lying down, possibly sleeping or resting. |
+| How | How does the close-up view of the woman's body emphasize her form and curves? | The closeup view accentuates her body shape and form, with the contrast between her skin and the white comforter creating a stark visual emphasis on her curves. |

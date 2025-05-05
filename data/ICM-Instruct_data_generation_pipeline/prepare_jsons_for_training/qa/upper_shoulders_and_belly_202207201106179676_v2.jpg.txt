@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a white blouse with a low neckline? | Yes. |
+| Yes/No | Does the woman's hair have a casual, wavy style? | Yes. |
+| Yes/No | Is the woman standing in front of a stone wall? | Yes. |
+| Yes/No | Is the woman smiling and looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy and alluring atmosphere? | Yes. |
+| What | What is the woman's attire in the image? | A white blouse with a low neckline and loose waves. |
+| What | What is the background of the image? | A rustic stone wall. |
+| How | How does the woman's hair add to her overall look in the image? | Her casual yet stylish hair adds a touch of sophistication to her look. |
+| How | How does the stone wall in the background contrast with the woman's attire? | The rough texture of the stone wall provides a contrast to the woman's smooth, white blouse and her loose waves. |

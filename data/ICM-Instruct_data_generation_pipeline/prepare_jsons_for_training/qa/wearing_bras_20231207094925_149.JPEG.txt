@@ -1,0 +1,18 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman wearing in the image? | A black bra. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| How | How is the woman holding the straps of the bra? | She is holding them with her hands. |
+| How | How does the image make you feel? | It creates a sense of intimacy and allure. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Does the image provide additional details about the woman's appearance or the surrounding environment? | No. |
+| Yes/No | Is the woman's attire in the image associated with sensuality and allure? | Yes. |
+| Yes/No | Does the woman's action of putting on the bra convey confidence and assertiveness? | Yes. |
+| What | What is the woman wearing in the image? | A black bra. |
+| What | What is the woman doing in the image? | Putting on the bra. |
+| How | How is the woman's attire in the image creating a sense of intimacy and allure? | The woman's black bra is associated with sensuality and allure, and her actions of putting it on convey confidence and assertiveness, creating a sense of intimacy and allure. |
+| How | How does the image convey a sense of sexy? | The image conveys a sense of sexy through the woman's attire and actions, which create a sense of intimacy and allure. |

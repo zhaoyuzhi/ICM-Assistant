@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray bra? | Yes. |
+| Yes/No | Is the image a close-up of the woman's upper body? | Yes. |
+| Yes/No | Is the woman leaning against a white wall? | Yes. |
+| Yes/No | Is the woman's gaze directed off to the side? | Yes. |
+| Yes/No | Does the image emphasize the curve of the woman's chest? | Yes. |
+| Yes/No | Is the image sexy due to the woman's confident and assertive pose? | Yes. |
+| What | What is the woman wearing in the image? | A gray bra. |
+| What | What is the background of the image? | A white wall. |
+| How | How is the woman posing in the image? | She is leaning against a white wall and showing off her chest. |
+| How | How does the close-up nature of the image affect the viewer's perception of the woman's body? | It allows for a detailed view of her body and emphasizes her curves. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wet? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing blue shorts? | Yes. |
+| Yes/No | Have they been swimming? | Yes. |
+| Yes/No | Are they walking towards the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's gender? | The person's gender cannot be determined from the description. |
+| What | What is the person's facial expression? | The description does not mention the person's facial expression. |
+| How | How is the person's hair styled? | The person's hair is wet, suggesting that it has been styled in a natural, effortless way. |
+| How | How does the person's wet clothing suggest they have been enjoying themselves? | The person's wet clothing suggests that they have been enjoying themselves in the pool, as it would be unusual for someone to be walking around in wet clothes outside of a pool area. |

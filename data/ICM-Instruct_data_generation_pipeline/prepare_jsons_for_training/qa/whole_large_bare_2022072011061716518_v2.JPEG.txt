@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the bed covered with a white sheet? | Yes. |
+| Yes/No | Are the woman's legs spread apart? | Yes. |
+| Yes/No | Is the woman's torso turned towards the camera? | Yes. |
+| Yes/No | Does the image have an intimate and seductive atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A black bra and matching black underwear. |
+| What | What is the color of the sheet covering the bed? | White. |
+| How | How are the woman's legs positioned in the image? | Spread apart. |
+| How | How is the woman's torso positioned in the image? | Turned towards the camera. |

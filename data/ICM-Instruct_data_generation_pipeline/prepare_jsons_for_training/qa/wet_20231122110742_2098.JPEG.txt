@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image carrying a blue bag? | Yes. |
+| Yes/No | Is the person in the image walking away from the camera? | Yes. |
+| Yes/No | Are the person's clothes wet? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the image evoke a sense of mystery and intrigue? | Yes. |
+| What | What is the person in the image carrying in their hand? | A blue bag. |
+| What | What is the person in the image wearing that is wet? | A white shirt. |
+| How | How is the person in the image walking? | They are walking away from the camera. |
+| How | How does the image make you feel? | It evokes a sense of mystery and intrigue, and the wet clothes can create a sense of allure and sensuality. |

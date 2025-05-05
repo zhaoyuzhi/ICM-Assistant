@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have long blonde hair? | Yes. |
+| Yes/No | Is the woman's facial expression playful and flirtatious? | Yes. |
+| Yes/No | Is the overall atmosphere of the image light-hearted and fun? | Yes. |
+| Yes/No | Does the image have a hint of sensuality? | Yes. |
+| Yes/No | Is the woman's body language confident and comfortable? | Yes. |
+| What | What color is the woman's hair? | Blonde. |
+| What | What is the woman doing with her tongue? | Sticking it out. |
+| How | How would you describe the woman's facial expression? | Playful and flirtatious. |
+| How | How would you describe the overall atmosphere of the image? | Lighthearted and fun with a hint of sensuality. |

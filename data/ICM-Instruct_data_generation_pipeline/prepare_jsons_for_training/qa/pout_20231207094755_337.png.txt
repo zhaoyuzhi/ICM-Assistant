@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing makeup? | Yes. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Does the image feature any bold colors? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Does the image have a blurred background? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the person in the image's facial expression? | Pouting. |
+| What | What is the dominant color of the image? | Skin tones. |
+| How | How is the person's facial expression in the image? | Sultry. |
+| How | How are the person's lips in the image? | Pink and puffy. |

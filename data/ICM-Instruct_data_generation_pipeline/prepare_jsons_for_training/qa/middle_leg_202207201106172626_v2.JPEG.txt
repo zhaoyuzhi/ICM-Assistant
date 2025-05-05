@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the shorts the woman is wearing cropped at the knee? | Yes. |
+| Yes/No | Does the image have a relaxed and casual feel? | Yes. |
+| Yes/No | Is the color palette of the image neutral? | Yes. |
+| How | Does the image showcase the woman's legs and thighs? | Yes. |
+| Yes/No | Does the woman have her hands in her pockets? | Yes. |
+| What | What is the woman wearing on her lower body? | Gray shorts. |
+| What | What is the woman's pose in the image? | Standing with her hands in her pockets. |
+| How | How does the woman's pose contribute to the image's overall feel? | The woman's pose with her hands in her pockets adds a sense of confidence and selfassuredness, contributing to the image's overall relaxed and casual feel. |
+| How | How does the image's color palette contribute to its overall mood? | The neutral color palette of the image, created by the combination of gray shorts and a white sweater, adds to the overall calmness and allure of the image. |

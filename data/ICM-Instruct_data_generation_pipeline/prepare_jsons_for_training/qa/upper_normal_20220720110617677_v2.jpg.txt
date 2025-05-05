@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the boy in the image wearing a blue denim jacket? | Yes. |
+| Yes/No | Is the boy's t-shirt white? | Yes. |
+| Yes/No | Is the background of the image pinkish-red? | Yes. |
+| Yes/No | Is the image a close-up shot of the boy's face? | No. |
+| Yes/No | Does the boy's clothing depict any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image seductive or provocative? | No. |
+| What | What is the boy's posing like in the image? | The boy is standing in front of a mirror, with his reflection visible in the mirror. |
+| What | What is the color of the boy's clothing? | The boy is wearing a blue denim jacket and a white tshirt. |
+| How | How is the exposure level of the image? | The exposure level of the image is low. |
+| How | How does the pinkish-red background contribute to the atmosphere of the image? | The pinkishred background contrasts with the boy's clothing and contributes to a casual and innocent atmosphere. |

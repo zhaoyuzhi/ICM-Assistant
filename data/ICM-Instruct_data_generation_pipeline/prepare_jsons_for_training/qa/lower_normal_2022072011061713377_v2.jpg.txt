@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing black pants? | Yes. |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the man's sneakers black and white? | Yes. |
+| Yes/No | Is the man's posture neutral? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What color are the man's pants? | Black. |
+| What | What is the man's posture in the image? | Neutral. |
+| How | How much of the man's body is visible in the image? | Only a small portion. |
+| What | What is the overall atmosphere of the image? | Simple and straightforward. |

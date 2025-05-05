@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the jeans ripped or distressed? | No. |
+| Yes/No | Is the person wearing any jewelry? | No. |
+| Yes/No | Does the image contain any explicit content? | No. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Is the image in color or black and white? | Color. |
+| What | What is the color of the person's shirt? | White. |
+| What | What is the style of the jeans? | Classic. |
+| How | How is the person's posture in the image? | Straightforward, not suggestive or provocative. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and nonsexual. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the jeans dark wash? | No. |
+| Yes/No | Is the person wearing a black belt? | No. |
+| Yes/No | Does the image have a sexual context? | No. |
+| Yes/No | Is the person's body the main focus of the image? | No. |
+| Yes/No | Are the jeans ripped or distressed? | No. |
+| What | What color is the person's shirt? | White. |
+| What | What is the color of the belt buckle? | Silver. |
+| How | How would you describe the atmosphere of the image? | Casual and relaxed. |
+| How | How would you describe the focus of the image? | The person's clothing and the overall setting. |

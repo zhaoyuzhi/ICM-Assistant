@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a purple shirt? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the person holding a brown purse in their left hand? | Yes. |
+| Yes/No | Are the person's shorts cropped at the knee? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image create a sense of intrigue and allure? | Yes. |
+| What | What color are the person's sneakers? | White. |
+| What | What is the person holding in their left hand? | A brown purse. |
+| How | How is the person looking at the stairs? | They are looking down at the stairs. |
+| How | How does the person's pose and the way they are looking down at the stairs create a sense of intrigue and allure? | The person's pose and the way they are looking down at the stairs create a sense of intrigue and allure because it suggests a sense of playfulness and flirtation, and the way they are looking at the stairs implies a sense of curiosity and mystery. |

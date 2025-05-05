@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Does the underwear have a red outline? | Yes. |
+| Yes/No | Is the text on the underwear written in a bold, playful font? | Yes. |
+| Yes/No | Is the woman posing with her hand on her hip? | Yes. |
+| Yes/No | Does the image have a playful and seductive atmosphere? | Yes. |
+| What | Does the phrase "oh what fun is to ride" suggest a sense of adventure and excitement? | Yes. |
+| What | What is the color of the outline on the underwear? | Red. |
+| What | What is the phrase written on the underwear? | "oh what fun is to ride". |
+| How | How is the text on the underwear written? | In a bold, playful font. |
+| How | How is the woman posing in the image? | With her hand on her hip. |

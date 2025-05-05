@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Are the boxer briefs black and white? | No. |
+| Yes/No | Does the image suggest a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and self-assuredness? | Yes. |
+| What | What color are the boxer briefs? | Blue and white. |
+| What | What is the man's facial expression? | Direct gaze. |
+| How | How does the man's body look? | Welldefined, with visible muscles. |
+| How | How does the image make the viewer feel? | Engaging, personal. |

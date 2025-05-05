@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue dress? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the sleeves of the dress long? | Yes. |
+| Yes/No | Is the person's hand resting in their pocket? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image focus on the person's attire and posture rather than their skin or other body parts? | Yes. |
+| What | What color is the dress? | Blue. |
+| What | What is the person's hand doing? | Resting in their pocket. |
+| How | How is the dress designed? | With a high neckline and long sleeves. |
+| How | How does the low exposure level affect the image? | It emphasizes the person's clothing and posture rather than their physical attributes. |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of a lightweight fabric? | Yes. |
+| Yes/No | Is the tie tied in a knot? | Yes. |
+| Yes/No | Is the person's hand tucked into their pocket? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the dress? | Blue. |
+| What | What is the material of the dress? | Cotton or linen. |
+| How | How is the tie tied? | In a knot. |
+| How | How does the person's posture suggest they are feeling? | Relaxed and comfortable. |

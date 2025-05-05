@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | Yes. |
+| Yes/No | Are the women wearing revealing clothing? | Yes. |
+| Yes/No | Is the background light blue? | Yes. |
+| Yes/No | Are the women smiling? | Yes. |
+| Yes/No | Are the women looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the women's shorts? | Blue and black. |
+| What | What color is the background? | Light blue. |
+| What | What are the women's facial expressions? | Smiling. |

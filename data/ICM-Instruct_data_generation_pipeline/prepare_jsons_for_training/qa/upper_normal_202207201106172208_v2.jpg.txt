@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Is the woman standing in front of a white wall? | Yes. |
+| Yes/No | Is the woman's pose neutral? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| How | Does the dress show any visible cleavage or revealing details? | No. |
+| Yes/No | Does the image contain any elements that suggest a sexual context? | No. |
+| What | What color is the woman's dress? | Pink. |
+| What | What is the woman's pose? | Neutral. |
+| How | How is the woman's dress styled? | Simple and modest. |
+| What | What is the overall atmosphere of the image? | Calm and unassuming. |

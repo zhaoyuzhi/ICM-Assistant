@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray and white striped shirt? | Yes. |
+| Yes/No | Are the shorts the woman is wearing blue and white polka dot? | Yes. |
+| Yes/No | Is the woman's pose in the image confident and relaxed? | Yes. |
+| Yes/No | Are the woman's legs slightly apart in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What is the woman's shirt featuring? | A graphic of stars. |
+| What | What color are the shorts the woman is wearing? | Blue and white polka dot. |
+| How | How is the woman's pose in the image? | Confident and relaxed. |
+| How | How are the woman's legs positioned in the image? | Slightly apart. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | No. |
+| Yes/No | Are the man and woman fully clothed? | Yes. |
+| Yes/No | Is the image shot indoors? | No. |
+| Yes/No | Is the man's shirt black? | Yes. |
+| Yes/No | Is the woman's shirt white? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| What | What is the man wearing? | A black shirt. |
+| What | What is the woman wearing? | A white shirt. |
+| How | How are the man and woman positioned in the image? | They are standing close together, with the man's left hand on the woman's waist and the woman's right hand on the man's shoulder. |
+| How | How would you describe the atmosphere of the image? | Warm, romantic, and alluring. |

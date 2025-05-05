@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing jewelry? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the image set in a dimly lit room? | No. |
+| Yes/No | Does the woman have a serious expression? | No. |
+| Yes/No | Is the woman's hair blonde? | No. |
+| Yes/No | Does the image suggest the woman is engaged in an activity? | No. |
+| What | What is the woman's facial expression? | A slight smile. |
+| What | What is the woman's body language? | Seductive. |
+| How | How is the woman's lip? | Biting her lower lip. |
+| How | How is the atmosphere of the image? | Intimate and seductive. |

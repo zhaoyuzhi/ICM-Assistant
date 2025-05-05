@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of a soft, flowing fabric? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman looking down at her dress? | Yes. |
+| Yes/No | Is the exposure level of the woman low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the woman's dress? | Light brown. |
+| What | What is the woman doing with her dress? | Adjusting or examining it. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How does the image focus on the woman's attire and the natural setting? | The image emphasizes the woman's modest dress and the serene atmosphere of the natural setting, rather than her physical appearance. |

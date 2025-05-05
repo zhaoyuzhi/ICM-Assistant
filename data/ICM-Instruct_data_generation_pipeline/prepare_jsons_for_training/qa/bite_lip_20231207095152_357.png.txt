@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Are the person's lips pink? | Yes. |
+| Yes/No | Is the image focused on the person's face? | Yes. |
+| Yes/No | Does the person have a neutral facial expression? | Yes. |
+| Yes/No | Is there any text or other objects in the image? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's facial expression in the image? | Neutral. |
+| What | What is the main focus of the image? | The person's lips and nose. |
+| How | How are the person's lips bitten? | They are slightly bitten, which is a common gesture associated with sensuality and confidence. |
+| How | How does the close-up nature of the image contribute to its overall atmosphere? | It allows the viewer to focus on the person's lips and nose, which are typically considered attractive features, and creates a sense of intimacy and allure. |

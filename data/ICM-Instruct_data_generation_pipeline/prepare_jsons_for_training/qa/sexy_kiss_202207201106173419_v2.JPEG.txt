@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black suit? | Yes. |
+| Yes/No | Is the woman in the image wearing a brown sweater? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image evoke feelings of love and desire? | Yes. |
+| Yes/No | Is the atmosphere of the image warm and intimate? | Yes. |
+| What | What is the man in the image wearing? | A black suit. |
+| What | What is the woman in the image wearing? | A brown sweater. |
+| How | How are the man and woman positioned in the image? | They are locked in an intimate embrace, with the man holding the woman close to him and their lips meeting in a passionate kiss. |
+| How | How does the image make the viewer feel? | The image evokes feelings of love and desire, and creates a sense of warmth and intimacy. |

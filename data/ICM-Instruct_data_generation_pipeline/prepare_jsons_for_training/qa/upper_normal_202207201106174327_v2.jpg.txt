@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man smiling in the image? | Yes. |
+| Yes/No | Is the woman smiling in the image? | No. |
+| Yes/No | Are the man and woman standing close together? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Does the image convey a sense of intimacy or allure? | No. |
+| Yes/No | Is the man's jacket black? | No. |
+| What | What is the man wearing in the image? | Gray jacket. |
+| What | What is the woman wearing in the image? | White blouse. |
+| How | How is the man's smile described in the image? | Slight smile. |
+| How | How is the woman's gaze described in the image? | Direct gaze. |

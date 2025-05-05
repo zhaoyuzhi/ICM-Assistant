@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red top? | Yes. |
+| Yes/No | Does the woman have a gold bracelet on her wrist? | Yes. |
+| Yes/No | Is the woman biting her lip in the image? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the woman's top? | Red. |
+| What | What is the woman doing with her hand on her head? | She is placing her hand on her head. |
+| How | How is the woman's facial expression? | Serious. |
+| How | How does the woman's biting of her lip add to the image? | It adds intensity and passion to the image. |

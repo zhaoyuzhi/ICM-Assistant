@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image holding a red and gold Chinese New Year greeting card? | Yes. |
+| Yes/No | Is the girl wearing a white dress? | Yes. |
+| Yes/No | Does the card have Chinese characters on it? | Yes. |
+| Yes/No | Is the girl smiling and looking at the card? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the overall atmosphere of the image family-oriented and joyful? | Yes. |
+| What | What is the girl holding in the image? | A red and gold Chinese New Year greeting card. |
+| What | What color is the girl's dress? | White. |
+| How | How is the girl's mood in the image? | Happy and excited. |
+| How | How does the low exposure level of the image affect the scene? | It emphasizes the innocence and purity of the scene and focuses attention on the girl and the card she is holding. |

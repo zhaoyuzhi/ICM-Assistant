@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink top? | Yes. |
+| Yes/No | Is the woman's facial expression one of biting her lip? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's hair long and brown? | Yes. |
+| Yes/No | Does the image feature a beige wall in the background? | Yes. |
+| Yes/No | Is the woman sitting in the image? | Yes. |
+| What | What color is the woman's top? | Pink. |
+| What | What color is the woman's hair? | Brown. |
+| How | How does the woman's facial expression suggest she might be feeling? | Shy, excited, or anticipatory. |
+| How | How does the image's content and atmosphere work together? | They create a seductive and captivating visual experience. |

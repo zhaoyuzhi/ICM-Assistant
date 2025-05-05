@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the pants the main focus of the image? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose in the image casual and everyday? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the image's atmosphere simple and straightforward? | Yes. |
+| What | What is the color of the pants in the image? | Light blue. |
+| What | What is the person's pose in the image? | Standing with their back to the camera. |
+| How | How does the image's low exposure level contribute to its atmosphere? | It emphasizes the focus on the pants and creates a nonsexual atmosphere. |
+| How | How does the person's attire contribute to the image's non-sexual atmosphere? | The casual and everyday attire does not convey any sexual or provocative messages. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the person wearing a zipper pocket on their pants? | Yes. |
+| Yes/No | Is the image sexually suggestive or provocative? | No. |
+| Yes/No | Does the image focus on the person's body or intimate areas? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What color are the person's pants? | Light blue. |
+| What | What is the person's posture in the image? | Relaxed, with hands on hips. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the person's attire and stance rather than their physical appearance. |
+| How | How does the image differ from a sexually suggestive or provocative image? | It does not contain any suggestive or provocative elements and focuses on the person's clothing and posture rather than their body or intimate areas. |

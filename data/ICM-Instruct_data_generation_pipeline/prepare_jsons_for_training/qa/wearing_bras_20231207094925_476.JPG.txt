@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a light blue bra? | Yes. |
+| Yes/No | Is the woman in the image standing with her back to the camera? | No. |
+| Yes/No | Is the woman in the image touching her chest? | Yes. |
+| Yes/No | Is the image a close-up of the woman's face? | Yes. |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| What | What is the color of the bra the woman is wearing? | Light blue. |
+| What | What is the woman doing in the second photo? | She is touching her chest. |
+| How | How is the woman standing in the first photo? | She is standing with her back to the camera. |
+| How | How is the woman's face positioned in the third photo? | She is looking straight at the camera. |
+| Yes/No | Is the woman in the image wearing a light blue bra? | Yes. |
+| Yes/No | Are the straps of the bra thin? | Yes. |
+| Yes/No | Is the woman's back to the camera in the first photo? | Yes. |
+| Yes/No | Are the woman's hands on her chest in the second photo? | Yes. |
+| Yes/No | Is the close-up of the woman's face in the third photo? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the bra the woman is wearing? | Light blue. |
+| What | What is the woman's facial expression in the close-up photo? | Confident and alluring. |
+| How | How is the woman's confidence and allure conveyed in the image? | Through her facial expression and body language, specifically her hands on her chest and the closeup of her face. |

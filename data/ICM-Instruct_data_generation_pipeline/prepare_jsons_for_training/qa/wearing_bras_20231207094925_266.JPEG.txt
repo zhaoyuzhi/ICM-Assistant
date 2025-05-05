@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Does the bra have red trim? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What color is the bra? | White. |
+| What | What is the woman doing in the image? | She is in the process of putting on the bra. |
+| How | How does the woman's use of her fingers to adjust the bra contribute to the image's sensuality? | It suggests a sense of care and attention to detail in her appearance, adding to the overall seductive atmosphere of the image. |
+| How | How does the image create a seductive atmosphere? | The image captures a moment of intimacy and vulnerability, the woman's undressing is associated with sensuality and allure, and the white bra with red trim adds a touch of elegance and sophistication to the scene. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white with red trim? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| What | What color is the bra the woman is wearing? | White with red trim. |
+| How | How is the woman adjusting the bra? | Using her fingers. |
+| What | What atmosphere does the image create? | Seductive. |

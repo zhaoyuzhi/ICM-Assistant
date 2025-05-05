@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black sweatshirt? | Yes. |
+| Yes/No | Are his pants black? | Yes. |
+| Yes/No | Is he wearing white sneakers? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What is the man's pose in the image? | He is standing with his hands casually tucked into his pockets. |
+| What | What is the focus of the image? | The focus of the image is on the man and his clothing. |
+| How | How is the man dressed in the image? | He is dressed in a casual, relaxed manner. |
+| How | How does the white background affect the image? | The white background emphasizes the simplicity of the scene and draws attention to the man and his clothing. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Are the woman's hands placed on her hips? | Yes. |
+| Yes/No | Is the woman wearing a black shirt? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What color is the woman's shirt? | Black. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How does the woman's confident pose contribute to the image's overall aesthetic? | The woman's confident pose with her hands on her hips creates a sense of allure and confidence, adding to the overall aesthetic of the image. |
+| How | How does the woman's smile contribute to the image's atmosphere? | The woman's smile conveys a sense of happiness and selfassuredness, contributing to the sexy atmosphere of the image. |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Are her pants open? | Yes. |
+| Yes/No | Is her stomach exposed? | Yes. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| Yes/No | Is the overall atmosphere of the image alluring? | Yes. |
+| Yes/No | Does the image feature any suggestive content? | Yes. |
+| What | What color is the woman's shirt? | Black. |
+| What | What is the woman's pose in the image? | She is holding her pants open, revealing her stomach. |
+| How | How does the woman's attire contribute to the image's sexy appeal? | Her black shirt and blue jeans add a casual and relaxed vibe to the image, further enhancing its sexy appeal. |
+| How | How does the image capture a moment of vulnerability and confidence? | The woman's pose, with her pants open, exposes her stomach, which is a part of the human body that is often associated with sensuality and allure, and her confident expression suggests a sense of selfassuredness. |

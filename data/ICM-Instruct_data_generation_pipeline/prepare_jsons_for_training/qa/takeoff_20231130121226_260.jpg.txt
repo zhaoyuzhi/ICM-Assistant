@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a pink dress? | Yes. |
+| Yes/No | Is the woman holding her dress with her left hand? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Is the woman taking off her clothes? | Yes. |
+| Yes/No | Does the image have a romantic atmosphere? | Yes. |
+| What | What color is the dress the woman is wearing? | Pink. |
+| What | What is the woman doing with her left hand? | Holding her dress. |
+| How | How is the woman's pose in the image? | Confident and relaxed. |
+| How | How does the flowing dress contribute to the overall feeling of the image? | It adds to the sensual and alluring atmosphere. |

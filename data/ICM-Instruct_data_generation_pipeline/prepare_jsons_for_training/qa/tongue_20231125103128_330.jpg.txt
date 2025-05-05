@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the woman's eyes in the image? | Blue. |
+| What | What is the facial expression of the woman in the image? | Confident. |
+| How | How is the woman's tongue posed in the image? | Sticking out. |
+| How | How does the woman look directly at the camera? | Confidently. |

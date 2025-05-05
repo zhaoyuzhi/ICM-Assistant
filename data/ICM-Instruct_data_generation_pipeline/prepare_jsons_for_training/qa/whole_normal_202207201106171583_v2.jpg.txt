@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black blouse? | Yes. |
+| Yes/No | Does the blouse have a high collar? | Yes. |
+| Yes/No | Are the sleeves of the blouse long? | Yes. |
+| Yes/No | Is the room in the image minimalist in design? | Yes. |
+| Yes/No | Is the floor in the room made of wood? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the woman wearing in the image? | A black blouse with a high collar and long sleeves. |
+| What | What is the color of the wall in the room? | White. |
+| How | How does the mirror reflect the woman's image? | It reflects her image directly, adding depth to the image. |
+| How | How does the room's design contribute to the image's atmosphere? | The simple and uncluttered design contributes to the image's calm and serene atmosphere. |

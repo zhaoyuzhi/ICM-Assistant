@@ -1,0 +1,13 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress sheer? | Yes. |
+| Yes/No | Does the dress have a lace-like pattern? | Yes. |
+| Yes/No | Is the woman wearing a hat? | Yes. |
+| Yes/No | Is the hat white? | Yes. |
+| Yes/No | Is the bench made of wood? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's attire in the image? | A white, sheer dress with a lacelike pattern and a white hat with a wide brim. |
+| What | What is the location of the bench in the image? | Outdoors, on a grassy area with trees in the distance. |
+| How | How is the woman posing in the image? | She is lying on the bench, looking directly at the camera with a slight smile on her face. |
+| How | How does the background of the image contribute to its overall atmosphere? | The natural setting of the grassy area and trees in the distance contrasts with the woman's attire and pose, enhancing the sensual atmosphere of the image. |

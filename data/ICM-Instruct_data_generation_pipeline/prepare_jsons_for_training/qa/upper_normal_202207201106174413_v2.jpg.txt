@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a blue blouse? | Yes. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Does the image have a formal or professional setting? | Yes. |
+| Yes/No | Is the background of the image a cloudy sky? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color is the woman's blouse? | Blue. |
+| What | What is the atmosphere of the image? | Calm and serene. |
+| How | How are the woman's hands positioned in the image? | Clasped in front of her. |
+| How | How would you describe the woman's attire in the image? | Formal and elegant. |

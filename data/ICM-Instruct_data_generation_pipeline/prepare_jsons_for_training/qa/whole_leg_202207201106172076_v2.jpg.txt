@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray sweatshirt? | Yes. |
+| Yes/No | Does the sweatshirt have the word "LADER" written on it? | Yes. |
+| Yes/No | Is the person wearing a black skirt? | Yes. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| Yes/No | Are the person's thighs exposed? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the sweatshirt? | Gray. |
+| What | What is the color of the skirt? | Black. |
+| How | How does the oversized sweatshirt affect the person's appearance? | It makes the person's thighs more visible, creating a contrast with the black skirt. |
+| How | How does the image create a sexy atmosphere? | The combination of the gray sweatshirt and black skirt creates a contrast, making the person's thighs more visible, and the neutral pose of the person adds to the overall sexy atmosphere of the image. |

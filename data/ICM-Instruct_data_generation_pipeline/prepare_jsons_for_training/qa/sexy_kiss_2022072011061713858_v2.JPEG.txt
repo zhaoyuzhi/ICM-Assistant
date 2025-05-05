@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are the man's hands on the woman's shoulders? | Yes. |
+| Yes/No | Are the couple kissing passionately? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image convey a strong emotional connection between the couple? | Yes. |
+| What | What is the man wearing? | A white shirt. |
+| What | What is the woman wearing? | A white dress. |
+| How | How are the couple's lips meeting in the kiss? | They are meeting tenderly. |
+| How | How do the man's hands on the woman's shoulders suggest a sense of security and closeness? | They suggest a sense of security and closeness because they are placed on her shoulders in a gentle and protective manner. |

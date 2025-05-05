@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige dress? | Yes. |
+| Yes/No | Is the woman in the image wearing black tights? | Yes. |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Are there two women in the image? | Yes. |
+| Yes/No | Is the other woman in the image wearing a gray dress? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's dress? | Beige. |
+| What | What color are the tights of the woman lifting her dress? | Black. |
+| How | How is the woman lifting her dress? | By lifting it with her hands. |
+| How | How does the presence of another woman in a similar pose enhance the atmosphere of the image? | It creates a sense of intimacy and sensuality. |

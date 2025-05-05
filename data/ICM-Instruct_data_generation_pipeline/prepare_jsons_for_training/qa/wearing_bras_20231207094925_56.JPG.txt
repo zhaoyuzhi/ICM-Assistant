@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Does the bra have a lace trim? | Yes. |
+| Yes/No | Is the woman putting on the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image showcase the woman's body? | Yes. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| What | What color is the bra? | White. |
+| How | How does the lace trim add to the image? | It adds a touch of elegance and sophistication. |
+| How | How does the image evoke feelings? | It evokes feelings of allure and desire. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Does the bra have a lace trim? | Yes. |
+| Yes/No | Is the woman putting on the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image showcase the woman's body? | Yes. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| What | What is the color of the bra? | White. |
+| How | How does the lace trim add to the image? | It adds a touch of elegance and sophistication. |
+| How | How does the image evoke feelings? | It evokes feelings of allure and desire. |

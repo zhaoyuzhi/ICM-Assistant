@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Are the balloons in the image pink? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman wearing sunglasses? | Yes. |
+| Yes/No | Are there palm trees visible in the background of the image? | Yes. |
+| Yes/No | Is the woman walking on a sandy beach? | Yes. |
+| What | What is the woman holding in her hands? | Two large pink balloons. |
+| What | What is the color of the woman's bikini? | Pink. |
+| How | How is the woman's posture in the image? | Confident and relaxed. |
+| How | How does the image create a visually appealing scene? | The combination of the woman's attire, the beach setting, and her confident posture creates a sexy and alluring atmosphere that captures the viewer's attention. |

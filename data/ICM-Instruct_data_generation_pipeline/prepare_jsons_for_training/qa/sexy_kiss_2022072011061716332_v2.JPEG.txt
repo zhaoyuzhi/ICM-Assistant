@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Does the woman have a ponytail? | Yes. |
+| Yes/No | Is the man leaning in to kiss the woman on the cheek? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Does the man have a tattoo on his left arm? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | A black jacket. |
+| What | What is the woman wearing? | A white dress. |
+| How | How is the man's head positioned in relation to the woman's? | The man's head is leaning in to kiss the woman on the cheek. |
+| How | How would you describe the overall atmosphere of the image? | Romantic and sensual. |

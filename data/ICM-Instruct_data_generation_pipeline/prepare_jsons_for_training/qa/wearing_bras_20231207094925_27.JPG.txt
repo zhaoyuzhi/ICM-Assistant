@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Are the woman's jeans also blue? | Yes. |
+| Yes/No | Is the woman holding the straps of the bra with her hands? | Yes. |
+| Yes/No | Is the image focused on the woman's upper body and the bra? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the blue bra associated with sensuality and allure? | Yes. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| What | What color are the woman's bra and jeans? | Blue. |
+| How | How is the woman holding the bra straps? | With her hands. |
+| How | How does the image convey a sense of allure and sensuality? | Through the woman's attire and actions, which emphasize the details of her clothing and the act of putting on the bra, creating a closeup view that highlights her upper body and the bra. |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman in the image holding the straps of the bra with her hands? | Yes. |
+| Yes/No | Is the image focused on the woman's upper body and the bra? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the blue bra associated with sensuality and allure? | Yes. |
+| What | What is the woman doing in the image? | She is putting on the bra. |
+| What | What is the color of the bra the woman is wearing? | Blue. |
+| How | How is the woman holding the bra in the image? | She is holding the straps with her hands. |
+| How | How does the image make the viewer feel? | It evokes feelings of allure and sensuality. |

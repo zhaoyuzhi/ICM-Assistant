@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a black garter belt? | Yes. |
+| Yes/No | Is the woman in the image lying on a yellow couch? | Yes. |
+| Yes/No | Are her legs crossed in the image? | Yes. |
+| Yes/No | Is her upper body exposed in the image? | Yes. |
+| Yes/No | Is she looking directly at the camera? | Yes. |
+| What | What color is the couch in the image? | Yellow. |
+| What | What color is the bra and garter belt the woman is wearing? | Black. |
+| How | How is the woman's upper body exposed in the image? | Her upper body is exposed because she is wearing a bra and her arms are not covering her chest. |
+| How | How does the yellow couch contrast with the woman's presence in the image? | The yellow couch provides a contrasting background that accentuates her presence in the image, making her stand out. |

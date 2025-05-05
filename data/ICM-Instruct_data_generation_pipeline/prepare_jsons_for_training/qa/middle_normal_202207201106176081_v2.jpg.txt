@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the person's pants brown? | Yes. |
+| Yes/No | Is the person holding a cup in their hand? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the person's outfit consist of a white top and brown pants? | Yes. |
+| What | What is the color of the person's top? | White. |
+| What | What is the color of the person's pants? | Brown. |
+| How | How is the person standing in the room? | Not specified in the description. |
+| How | How much of the person is visible in the frame? | A small portion. |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the person in the image holding a coffee cup? | Yes. |
+| Yes/No | Is the person in the image wearing a brown skirt? | Yes. |
+| Yes/No | Is the person in the image wearing brown pants? | Yes. |
+| Yes/No | Is the person in the image standing in a room with a white wall? | Yes. |
+| Yes/No | Is the person in the image standing on a wooden floor? | Yes. |
+| What | What is the person in the image holding in their right hand? | A coffee cup. |
+| What | What is the color of the person's blouse? | White. |
+| How | How is the person's left hand positioned in the image? | Placed on their hip. |
+| How | How would you describe the overall atmosphere of the image? | Calm and relaxed. |

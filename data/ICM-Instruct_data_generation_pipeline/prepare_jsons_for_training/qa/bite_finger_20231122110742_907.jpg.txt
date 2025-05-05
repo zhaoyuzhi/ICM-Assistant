@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Does the person in the image have dark hair? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person's chin slightly tucked in? | Yes. |
+| Yes/No | Does the person have a neutral expression? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's facial expression? | Neutral. |
+| What | What is the color of the person's top? | Black. |
+| How | How are the person's lips positioned? | Slightly parted. |
+| How | How is the person's chin positioned? | Slightly tucked in. |

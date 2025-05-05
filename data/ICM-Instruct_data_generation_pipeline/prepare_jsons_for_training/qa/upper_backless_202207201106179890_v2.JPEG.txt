@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red bra? | Yes. |
+| Yes/No | Does the bra have thin straps? | Yes. |
+| Yes/No | Is the neckline of the bra deep? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| Yes/No | Does the person have a significant amount of their back exposed? | Yes. |
+| Yes/No | Is the background of the image a white bed and a white curtain? | Yes. |
+| What | What color is the bra? | Red. |
+| What | What color is the underwear? | Red. |
+| How | How many straps does the bra have? | Thin straps. |
+| How | How would you describe the atmosphere of the image? | Sexy, alluring, and confident. |

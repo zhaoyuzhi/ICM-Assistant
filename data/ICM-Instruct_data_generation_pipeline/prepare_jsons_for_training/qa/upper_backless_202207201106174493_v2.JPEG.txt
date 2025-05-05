@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image exposing a large area of her back? | Yes. |
+| Yes/No | Are blue pants being worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a window? | Yes. |
+| Yes/No | Is the cityscape in the background of the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A black bra with a crisscross design. |
+| What | What is the woman in the image looking at? | A cityscape. |
+| How | How is the woman's back exposed in the image? | The woman's back is exposed due to the crisscross design of her black bra. |
+| How | How does the cityscape in the background enhance the image's atmosphere? | The cityscape in the background adds an element of urban sophistication, making the image feel more intriguing and enticing. |

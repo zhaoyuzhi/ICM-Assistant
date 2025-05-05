@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lower lip? | Yes. |
+| Yes/No | Are the person's lips pink? | Yes. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Are the person's teeth visible? | Yes. |
+| Yes/No | Is the image a close-up of the person's face? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person doing with their lips? | Biting their lower lip. |
+| What | What is the color of the person's lips? | Pink. |
+| How | How does the person's facial expression contribute to the image's sexiness? | The neutral facial expression adds a sense of mystery and intrigue, which can be perceived as sexy. |
+| How | How does the close-up perspective of the image emphasize the person's lips and facial expression? | The closeup perspective focuses the viewer's attention on the lips and facial expression, making them the central elements of the image and emphasizing their sensuality and allure. |

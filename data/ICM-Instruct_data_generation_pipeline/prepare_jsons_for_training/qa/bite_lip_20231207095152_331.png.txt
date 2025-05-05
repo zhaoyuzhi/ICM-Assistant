@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing headphones? | Yes. |
+| Yes/No | Is the woman's hair long and dark? | Yes. |
+| Yes/No | Is the woman wearing a silver necklace? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image have a seductive or alluring atmosphere? | Yes. |
+| Yes/No | Does the woman's facial expression create a sense of intrigue and desire? | Yes. |
+| What | What is the woman wearing around her neck? | A silver necklace. |
+| What | What is the woman doing with her lips? | Biting them. |
+| How | How does the woman's facial expression contribute to the image's atmosphere? | It creates a sense of intrigue and desire. |
+| How | How does the headphones contribute to the image's atmosphere? | They suggest a sense of intimacy and connection. |

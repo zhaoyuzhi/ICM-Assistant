@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Are blue jeans being worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman's hand on her hip in the image? | Yes. |
+| Yes/No | Is the image a close-up of the woman's torso? | Yes. |
+| Yes/No | Does the woman's pose in the image emphasize the curve of her breast? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color is the woman's tank top? | White. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How is the woman posing in the image? | With her hand on her hip and her breast emphasized. |
+| What | What atmosphere does the image create? | Seductive and alluring. |

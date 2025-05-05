@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white polo shirt? | Yes. |
+| Yes/No | Is the logo on the woman's shirt red? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman's pose in the image? | She is sitting on a chair. |
+| What | What is the color of the logo on the woman's shirt? | Red. |
+| How | How is the woman's hair styled in the image? | Her hair is styled in a bun. |
+| How | How does the woman appear in the image? | She appears to be in a relaxed and casual setting, possibly at work or in a professional environment. |

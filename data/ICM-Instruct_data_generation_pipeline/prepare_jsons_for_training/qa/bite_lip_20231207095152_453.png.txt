@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person's mouth open in the image? | Yes. |
+| Yes/No | Are the person's teeth visible in the image? | Yes. |
+| Yes/No | Is the person wearing lip gloss in the image? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's lips? | Yes. |
+| Yes/No | Is the person's expression playful or seductive? | Yes. |
+| Yes/No | Are the person's lips slightly puckered in the image? | Yes. |
+| What | What is the color of the person's lip gloss? | Red. |
+| What | What is the overall atmosphere of the image? | Intimate and alluring. |
+| How | How are the person's lips adorned in the image? | They are adorned with shiny red lip gloss. |
+| How | How does the image evoke a sense of desire and intrigue? | The image evokes a sense of desire and intrigue by focusing intimately on the person's lips and teeth, which are often associated with sensuality and sexuality, and by creating a playful and alluring expression through the slightly puckered lips and slightly bared teeth. |

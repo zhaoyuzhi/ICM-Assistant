@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue dress? | Yes. |
+| Yes/No | Is the dress patterned with flowers? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is their left leg bent? | Yes. |
+| Yes/No | Is their right leg straight? | Yes. |
+| Yes/No | Are the stockings being pulled up their right leg? | Yes. |
+| What | What color is the dress? | Blue. |
+| What | What is the person doing in the image? | Putting on stockings. |
+| How | How is the person's left leg positioned? | Bent. |
+| How | How is the person's right leg positioned? | Straight. |
+| Yes/No | Is the person in the image wearing a blue dress? | Yes. |
+| Yes/No | Is the dress patterned with flowers? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is the person's left leg bent? | Yes. |
+| Yes/No | Is the person's right leg straight? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's right leg? | Yes. |
+| What | What color is the dress? | Blue. |
+| What | What is the pattern on the dress? | Floral. |
+| How | How is the person's left leg positioned? | Bent. |
+| How | How is the person's right leg positioned? | Straight. |

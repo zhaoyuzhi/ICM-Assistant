@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a tank top? | Yes. |
+| Yes/No | Is the man holding a bottle of lotion? | Yes. |
+| Yes/No | Is the man's left hand resting on his knee? | Yes. |
+| Yes/No | Is the background of the image a gym setting? | Yes. |
+| How | Does the image showcase the man's well-defined muscles? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man holding in his right hand? | A bottle of lotion. |
+| What | What is the color of the man's tank top? | Black. |
+| How | How is the man's physique described in the image? | Muscular. |
+| How | How does the gym setting contribute to the overall atmosphere of the image? | It creates an atmosphere of strength and fitness. |

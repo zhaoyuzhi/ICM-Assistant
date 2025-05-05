@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman wearing a dress or a skirt? | Yes. |
+| Yes/No | Are the boots made of leather? | Yes. |
+| Yes/No | Does the woman have a tattoo or a piercing? | No. |
+| Yes/No | Is the woman smiling or laughing? | No. |
+| Yes/No | Is there any explicit or suggestive content in the image? | No. |
+| What | What is the woman's hair style? | Loose waves. |
+| What | What is the color of the woman's boots? | Brown. |
+| How | How are the boots designed? | Pointed toe. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

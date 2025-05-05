@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman posing seductively? | Yes. |
+| Yes/No | Is the red door in the background slightly ajar? | Yes. |
+| Yes/No | Does the woman have her left hand on her hip? | Yes. |
+| Yes/No | Does the woman have her right hand resting on her thigh? | Yes. |
+| Yes/No | Is the image generally colored in shades of red and blue? | No. |
+| What | What color is the woman's top? | White. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How is the woman standing in relation to the red door? | In front of it, with the door slightly ajar. |
+| How | How does the woman's pose contrast with the red door? | Her casual confidence and allure contrast with the door's formality. |

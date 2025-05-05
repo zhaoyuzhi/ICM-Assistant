@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing fishnet stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| Yes/No | Is the woman leaning on a table in the image? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her legs? | Fishnet stockings. |
+| What | What color are the woman's heels? | Red. |
+| How | How are the woman's legs positioned in the image? | Crossed. |
+| How | How does the woman lean on the table in the image? | Confidently and seductively. |

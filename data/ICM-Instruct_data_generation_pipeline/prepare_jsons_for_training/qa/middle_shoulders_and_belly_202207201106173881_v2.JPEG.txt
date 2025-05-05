@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image taken from a close-up perspective? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the main focus of the image? | The person's belly. |
+| What | What is the overall atmosphere of the image? | Intimate and personal. |
+| How | How does the close-up perspective contribute to the image's intimacy? | It allows the viewer to focus on the person's skin and the details of their attire, creating a sense of connection and inviting the viewer to appreciate the beauty and sensuality of the human body. |
+| How | How does the contrast between the white shirt and blue jeans enhance the image's appeal? | It highlights the person's figure and adds an element of intrigue and allure, making the image more captivating and sensual. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans tight? | Yes. |
+| Yes/No | Is the person's navel pierced? | Yes. |
+| Yes/No | Is the piercing a silver barbell? | Yes. |
+| Yes/No | Is the person's hair visible? | Yes. |
+| Yes/No | Is the person looking down? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What color are the person's jeans? | Blue. |
+| How | How is the person's shirt styled? | Loose. |
+| How | How are the person's jeans fitting? | Tight. |

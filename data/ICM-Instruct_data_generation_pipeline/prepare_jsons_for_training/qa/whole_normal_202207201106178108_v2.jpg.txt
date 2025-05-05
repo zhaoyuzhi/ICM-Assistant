@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a high neckline and long sleeves? | Yes. |
+| Yes/No | Is the woman wearing a pearl necklace and earrings? | Yes. |
+| Yes/No | Is the woman wearing a bracelet on her left wrist? | Yes. |
+| Yes/No | Is the background of the image a gradient of red and blue? | Yes. |
+| What | What is the woman's attire in the image? | A modest white dress with a high neckline and long sleeves, complemented by a pearl necklace and earrings, and a bracelet on her left wrist. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is nonsexual, due to the woman's modest attire and the low exposure level of the image. |
+| How | How is the woman's attire complemented by her accessories? | The woman's attire is complemented by her pearl necklace and earrings, which add a touch of elegance to her outfit. |
+| How | How does the low exposure level of the image affect the focus of the image? | The low exposure level of the image ensures that the focus remains on the woman and her attire, rather than any potential distractions or inappropriate content. |

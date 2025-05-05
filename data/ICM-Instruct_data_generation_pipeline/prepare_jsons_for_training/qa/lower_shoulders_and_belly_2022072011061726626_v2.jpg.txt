@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What color are the leggings in the image? | Blue. |
+| What | What is the person's pose in the image? | Standing with their belly exposed and their arms relaxed at their sides. |
+| How | How do the tight-fitting leggings accentuate the person's body? | They draw attention to the person's waist and hips. |
+| How | How does the white background affect the image? | It contrasts with the blue of the leggings and the person's skin, making the person the focal point of the image. |

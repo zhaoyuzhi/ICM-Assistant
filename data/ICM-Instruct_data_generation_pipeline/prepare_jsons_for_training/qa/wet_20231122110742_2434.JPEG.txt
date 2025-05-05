@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image holding a white cloth? | Yes. |
+| Yes/No | Is the man's shirt wet? | Yes. |
+| Yes/No | Does the image have a moody and melancholic atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the rainy weather add to the sexy atmosphere? | Yes. |
+| Yes/No | Is the man's pose intriguing and mysterious? | Yes. |
+| What | What is the young man holding in his right hand? | A white cloth. |
+| What | What is the cause of the man's wet clothes? | Rain or a recent shower. |
+| How | How does the rainy weather contribute to the image's atmosphere? | It creates a sense of longing and desire. |
+| How | How does the man's pose add to the image's intrigue and mystery? | It suggests a sense of vulnerability and intimacy. |

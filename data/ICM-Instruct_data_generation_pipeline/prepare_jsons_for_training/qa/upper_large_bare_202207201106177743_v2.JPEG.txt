@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a necklace? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the woman facing the camera? | Yes. |
+| Yes/No | Does the bikini top have a blue and red color scheme? | Yes. |
+| Yes/No | Is the necklace red and gold? | Yes. |
+| What | What is the primary color scheme of the bikini top? | Blue and red. |
+| What | What is the material of the necklace? | Red and gold. |
+| How | How is the woman standing on the beach? | She is standing with her body facing the camera. |
+| How | How does the woman appear to be feeling in the image? | She appears to be enjoying herself and is smiling. |

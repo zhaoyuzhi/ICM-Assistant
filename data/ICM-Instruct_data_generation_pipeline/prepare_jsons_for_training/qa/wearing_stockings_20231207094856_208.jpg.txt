@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are her stockings also black? | Yes. |
+| Yes/No | Is her left hand on her thigh? | Yes. |
+| Yes/No | Is her right hand on her knee? | Yes. |
+| Yes/No | Does the image convey a sense of allure and mystery? | Yes. |
+| What | What is the woman doing in the image? | She is putting on her stockings. |
+| What | What is the color of the dress and stockings? | Black. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The black dress and stockings create a sense of allure and mystery. |
+| How | How does the act of putting on stockings add to the atmosphere of the image? | It adds a sense of intimacy and vulnerability. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image putting on her stockings? | Yes. |
+| Yes/No | Is there a wooden stool in the background of the image? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image doing? | She is putting on her stockings. |
+| What | What is the color of the dress and stockings the person is wearing? | The dress and stockings are black. |
+| How | How does the person in the image look? | She looks seductive and alluring. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is seductive and alluring. |

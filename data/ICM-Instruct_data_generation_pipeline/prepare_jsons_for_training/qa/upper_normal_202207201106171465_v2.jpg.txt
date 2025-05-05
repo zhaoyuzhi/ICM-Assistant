@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a brown sweatshirt? | Yes. |
+| Yes/No | Is the logo on the sweatshirt white? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman standing? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's pose in the image? | Neutral. |
+| What | What is the focus of the image? | The woman's clothing and her direct gaze. |
+| How | How is the image lit? | Low exposure level. |
+| How | How does the low exposure level affect the image? | It emphasizes the focus on the woman's clothing and her expression, rather than her body. |

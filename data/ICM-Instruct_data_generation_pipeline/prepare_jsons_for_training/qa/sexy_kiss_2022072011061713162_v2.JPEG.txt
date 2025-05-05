@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a red dress? | Yes. |
+| Yes/No | Are the couple kissing passionately? | Yes. |
+| Yes/No | Are the man's hands gently placed on the woman's face? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | A black shirt. |
+| What | What is the woman wearing? | A red dress. |
+| How | How are the couple standing? | Close to each other. |
+| How | How are the man's hands placed on the woman's face? | Gently. |

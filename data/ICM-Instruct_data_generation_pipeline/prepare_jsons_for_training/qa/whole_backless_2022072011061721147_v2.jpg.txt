@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a ruffled collar? | Yes. |
+| Yes/No | Is the dress low back? | Yes. |
+| Yes/No | Are the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the image focused on the woman and her dress? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the woman's pose in the image? | Slightly turned to the side. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| How | How does the woman's pose emphasize the dress's design? | The woman's slightly turned side and clear view of the dress highlights its ruffled collar and low back, drawing attention to its sensual and alluring design. |
+| How | How does the image create a seductive atmosphere? | The combination of the woman's attire, pose, and the focus on her and the dress creates a visually appealing and evocative image that is associated with sensuality and allure. |

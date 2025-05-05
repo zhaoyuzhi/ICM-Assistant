@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Is the woman smiling in the image? | No. |
+| Yes/No | Is the woman's hair blonde? | Yes. |
+| Yes/No | Is the woman wearing a black and white top? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip in the image? | Yes. |
+| What | What is the woman in the image looking at? | Something or someone out of the frame. |
+| What | What is the primary color of the woman's top? | Black and white. |
+| How | How is the woman's expression in the image? | Serious and alluring. |
+| How | How does the woman's biting her lip contribute to the image's atmosphere? | It adds a sense of tension and anticipation. |

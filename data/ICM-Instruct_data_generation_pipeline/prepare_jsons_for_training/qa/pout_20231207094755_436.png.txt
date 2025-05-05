@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman pouting in the image? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards in the image? | Yes. |
+| Yes/No | Does the image have a playful atmosphere? | Yes. |
+| Yes/No | Does the image have a flirtatious atmosphere? | Yes. |
+| Yes/No | Is the woman's facial expression the main focus of the image? | Yes. |
+| What | What is the woman's facial expression in the image? | Pouting. |
+| What | What is the overall mood of the image? | Playful and flirtatious. |
+| How | How does the woman's pouting expression and puckered lips contribute to the image's allure? | They create a sense of allure and confidence. |
+| How | How does the playful and flirtatious atmosphere add to the image's overall allure? | It makes the image more enticing and seductive. |

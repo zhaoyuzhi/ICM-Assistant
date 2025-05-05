@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's pajama pants wet? | Yes. |
+| Yes/No | Is the man's gaze directed downwards? | Yes. |
+| Yes/No | Does the image have a moody and intense atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man's expression on his face? | Serious. |
+| What | What is the man wearing on his lower body? | Blue pajama pants. |
+| How | How is the man's t-shirt wet? | It appears to be soaked. |
+| How | How long has the man been in the water? | It is implied that he has been in the water for some time. |

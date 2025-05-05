@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Does the skirt have a slit on the side? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman standing with her hands on her hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color is the woman's skirt? | Beige. |
+| What | What is the woman's blouse made of? | White with a ruffled collar and long sleeves. |
+| How | How is the woman standing in the image? | With her hands on her hips and her head slightly tilted to the side. |
+| How | How would you describe the woman's pose in the image? | Confident and selfassured. |

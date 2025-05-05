@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the purse beige? | Yes. |
+| Yes/No | Are the woman's legs slightly apart? | Yes. |
+| Yes/No | Is the woman's top fitted? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What color is the woman's skirt? | Beige. |
+| What | What is the woman holding in her hand? | A purse. |
+| How | How long is the woman's skirt? | Kneelength. |
+| How | How does the purse contrast with the skirt and top? | The purse is beige with a white handle, which contrasts nicely with the brown top and beige skirt. |

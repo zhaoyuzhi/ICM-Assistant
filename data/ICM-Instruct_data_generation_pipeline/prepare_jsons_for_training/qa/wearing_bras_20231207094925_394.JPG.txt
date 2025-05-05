@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Is the woman holding the bra with both hands? | Yes. |
+| Yes/No | Is the woman adjusting the bra? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Does the image capture an intimate moment? | Yes. |
+| What | What is the woman doing in the image? | Putting on a pink bra. |
+| What | What is the color of the bra? | Pink. |
+| How | How is the woman adjusting the bra? | By holding the straps with both hands. |
+| How | How does the contrast between the woman's top and the bra affect the image? | It draws attention to the bra and the woman's cleavage, adding to the visual appeal. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Is the woman holding the straps of the bra with both hands? | Yes. |
+| Yes/No | Is the woman adjusting the bra? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Is the image close-up? | Yes. |
+| What | What is the woman doing in the image? | Putting on a pink bra. |
+| What | What is the color of the bra? | Pink. |
+| How | How is the woman holding the bra? | With both hands, adjusting the straps. |
+| How | How does the image make the viewer feel? | It may evoke feelings of desire and arousal due to the intimate nature of the act and the contrast between the white top and pink bra. |

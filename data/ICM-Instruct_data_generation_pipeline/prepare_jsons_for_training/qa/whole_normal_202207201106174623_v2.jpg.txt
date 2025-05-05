@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Are the women in the image wearing the same color shirt? | Yes. |
+| Yes/No | Are the women looking directly at the camera? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the atmosphere of the image calm and straightforward? | Yes. |
+| Yes/No | Does the image have a sexual context or suggestive elements? | No. |
+| What | What is the main focus of the image? | The women's clothing and their interaction with the camera. |
+| What | What is the exposure level of the image? | Low. |
+| How | How are the women standing in relation to each other? | Side by side. |
+| How | How do the women's expressions appear in the image? | Neutral. |

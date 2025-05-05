@@ -1,0 +1,12 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What is the color of the person's shirt in the image? |A. Blue |B. Pink |C. Green |D. Yellow |B. |
+| What is the style of the person's jeans in the image? |A. Low-rise |B. High-waisted |C. Skinny |D. Bootcut |B. |
+| What is visible in the back pocket of the person's jeans in the image? |A. A phone |B. A wallet |C. Keys |D. Nothing |D. |
+| What is the overall atmosphere of the image? |A. Sexy |B. Casual |C. Formal |D. Provocative |B. |
+| Is the image explicit or suggestive in any way? |A. Yes |B. No |C. Maybe |D. I'm not sure |B. |
+| What is the main color of the person's jeans in the image? |A. Black |B. Blue |C. White |D. Red |B. |
+| What is the style of the person's jeans in the image? |A. Skinny |B. High-waisted |C. Distressed |D. Bootcut |B. |
+| What is the person wearing on their upper body in the image? |A. A jacket |B. A t-shirt |C. A blouse |D. A sweater |B. |
+| What is the focus of the image in terms of the person's body? |A. Full body |B. Lower body |C. Upper body |D. Face |B. |
+| What is the overall atmosphere of the image? |A. Formal |B. Casual |C. Sexy |D. Provocative |B. |

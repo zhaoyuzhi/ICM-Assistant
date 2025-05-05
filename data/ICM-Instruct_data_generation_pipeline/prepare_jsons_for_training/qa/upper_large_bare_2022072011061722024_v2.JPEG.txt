@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a thong? | Yes. |
+| Yes/No | Is the woman in the image holding a shirt? | Yes. |
+| Yes/No | Is the shirt black and white? | Yes. |
+| Yes/No | Does the woman have any tattoos visible in the image? | No. |
+| Yes/No | Is the woman smiling? | No. |
+| What | What is the woman holding over her shoulder? | A black and white polka dot shirt. |
+| What | What is the color of the woman's bra and thong? | White. |
+| How | How is the woman standing in the image? | She is standing with one leg bent and the other leg straight, with her weight shifted onto her back leg. |
+| How | How would you describe the woman's pose in the image? | Confident and alluring. |

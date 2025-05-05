@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a light blue shirt? | Yes. |
+| Yes/No | Is the woman biting her lip in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera in the image? | Yes. |
+| Yes/No | Does the image have a seductive or alluring atmosphere? | Yes. |
+| Yes/No | Is the woman's facial expression serious in the image? | Yes. |
+| Yes/No | Does the image feature a close-up shot of the woman's face? | Yes. |
+| What | What color is the woman's shirt in the image? | Light blue. |
+| What | What is the woman doing with her lip in the image? | Biting it. |
+| How | How does the woman's expression create a sense of intensity and focus in the image? | Her serious expression, combined with her direct gaze and the act of biting her lip, creates a sense of intensity and focus. |
+| How | How does the light blue shirt contrast with the woman's serious expression in the image? | The light blue shirt adds a soft contrast to the seriousness of her expression, making her appear more approachable and inviting. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are her jeans blue? | Yes. |
+| Yes/No | Is her hair styled in a bun? | Yes. |
+| Yes/No | Is she wearing hoop earrings? | Yes. |
+| Yes/No | Is she posing with her hands on her hips? | Yes. |
+| Yes/No | Is she looking directly at the camera? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the design on her top? | White. |
+| How | How is her hair styled? | In a bun. |
+| How | How is she posing? | With her hands on her hips and looking directly at the camera. |

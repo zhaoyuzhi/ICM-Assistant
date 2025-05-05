@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a white shirt with red trim? | Yes. |
+| Yes/No | Are blue shorts visible in the image? | Yes. |
+| Yes/No | Is the woman standing in front of a window? | Yes. |
+| Yes/No | Is a cityscape visible outside the window? | Yes. |
+| Yes/No | Is the woman's stomach exposed in the image? | Yes. |
+| What | What is the color of the woman's hair? | Black. |
+| What | What is the color of the woman's shorts? | Blue. |
+| How | How is the woman lifting her shirt? | By raising it up above her stomach. |
+| How | How is the cityscape visible outside the window? | It is visible through a gap in the curtains or blinds. |

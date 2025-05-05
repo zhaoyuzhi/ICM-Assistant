@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Is the dress made of a sheer fabric? | Yes. |
+| Yes/No | Is the woman lifting her dress in the image? | Yes. |
+| Yes/No | Are the woman's legs and thighs visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the blue wall in the background of the image? | Yes. |
+| What | What color is the woman's dress? | Pink. |
+| What | What is the woman doing in the image? | Lifting her dress. |
+| How | How does the woman's pose in the image contribute to its overall appeal? | The woman's confident pose and the revealing nature of her dress create an atmosphere of allure and sensuality. |
+| How | How does the contrast between the pink dress and the blue wall contribute to the image's overall appeal? | The contrast between the pink dress and the blue wall accentuates the woman's figure and adds to the overall aesthetic of the image, making it more visually appealing. |

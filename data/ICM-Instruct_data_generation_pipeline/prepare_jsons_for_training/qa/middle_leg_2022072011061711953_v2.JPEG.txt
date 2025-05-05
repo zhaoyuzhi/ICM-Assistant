@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing blue denim shorts? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman standing in a grassy field? | Yes. |
+| Yes/No | Are the shorts frayed at the hem? | Yes. |
+| Yes/No | Is the woman wearing a yellow shirt? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| What | What color are the woman's shorts? | Blue. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How does the woman's pose convey her confidence? | The pose suggests selfassurance and selfconfidence. |
+| How | How does the color contrast between the shorts and shirt contribute to the image's overall atmosphere? | The contrast creates a vibrant and eyecatching effect, contributing to the image's sexy atmosphere. |

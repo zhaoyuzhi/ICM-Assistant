@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lying on the floor? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Does the advertisement in the image suggest that the woman is a widow? | Yes. |
+| Yes/No | Does the advertisement in the image suggest that the woman later married a village doctor? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and intriguing? | Yes. |
+| Yes/No | Does the pink dress add to the allure of the image? | Yes. |
+| What | What is the woman's expression on her face in the image? | Ambiguous. |
+| What | What is the setting of the image in terms of the floor? | Wooden. |
+| How | How does the woman's ambiguous expression contribute to the overall atmosphere of the image? | It adds to the seductive and intriguing nature of the image. |
+| How | How does the wooden floor contribute to the overall atmosphere of the image? | It provides a warm and cozy setting, enhancing the intimate and seductive mood of the image. |

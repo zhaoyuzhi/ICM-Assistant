@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Is the person in the image posing in a confident manner? | Yes. |
+| Yes/No | Is the person in the image posing in a seductive manner? | Yes. |
+| Yes/No | Does the image feature a plain white background? | Yes. |
+| Yes/No | Are the bright red leggings and black sports bra creating a striking contrast? | Yes. |
+| What | What is the color of the leggings the person is wearing? | Red. |
+| What | What is the color of the sports bra the person is wearing? | Black. |
+| How | How is the person posing in the image? | With their left hand on their hip and their right hand resting on their thigh. |
+| How | How does the white background affect the overall feel of the image? | It makes the image feel more intimate and personal, putting the focus entirely on the person and their attire. |

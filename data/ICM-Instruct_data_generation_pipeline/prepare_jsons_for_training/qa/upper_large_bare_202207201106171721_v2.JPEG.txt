@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue bikini? | Yes. |
+| Yes/No | Does the bikini have a ruffled design? | Yes. |
+| Yes/No | Is the bottom of the bikini a high-waisted style? | Yes. |
+| Yes/No | Is the person lying on a towel on the beach? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the exposure level of the image high? | Yes. |
+| What | What color is the bikini? | Blue. |
+| What | What is the style of the bottom of the bikini? | Highwaisted. |
+| How | How is the person lying on the towel? | The person is lying on the towel in a sunbathing position. |

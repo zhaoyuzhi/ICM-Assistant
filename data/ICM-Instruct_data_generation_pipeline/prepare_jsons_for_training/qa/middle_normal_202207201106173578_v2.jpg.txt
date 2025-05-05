@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Are the person's pants slightly open? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the person's outfit modest? | Yes. |
+| What | What color are the person's pants? | White. |
+| What | What is the person holding in their hand? | Their hand is in their pocket. |
+| How | How is the person standing? | The person is standing against a white background. |
+| How | How does the image focus on the person's clothing and posture? | The image focuses on the person's clothing and posture rather than their physical appearance. |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Are the person's pants slightly open? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image contain any explicit or provocative details? | No. |
+| What | What is the person's hand doing in the pocket? | The person's hand is holding onto something inside their pocket. |
+| What | What is the focus of the image? | The focus of the image is on the person's clothing, specifically their white pants and their hand in their pocket. |
+| How | How is the person standing in the image? | The person is standing upright, with their feet shoulderwidth apart and their weight evenly distributed on both feet. |
+| How | How does the white background affect the overall atmosphere of the image? | The white background creates a clean and minimalistic appearance, which contributes to the overall calm and unassuming atmosphere of the image. |

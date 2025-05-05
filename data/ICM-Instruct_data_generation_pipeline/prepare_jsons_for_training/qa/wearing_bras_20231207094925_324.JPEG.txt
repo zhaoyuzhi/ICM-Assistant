@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image adjusting her bra? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman's shirt white? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the woman holding in her hands? | A beige bra. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How is the woman's hair styled? | Long and dark. |
+| How | How is the woman adjusting her bra? | With both hands. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a shirt? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman's hair dark? | Yes. |
+| Yes/No | Is the bra beige? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How is the woman holding the bra? | She is holding it with both hands and appears to be adjusting it. |
+| What | What is the perspective of the image? | Closeup. |

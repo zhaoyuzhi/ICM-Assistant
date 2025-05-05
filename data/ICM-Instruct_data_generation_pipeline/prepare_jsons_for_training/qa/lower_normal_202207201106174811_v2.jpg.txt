@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image carrying a suitcase? | Yes. |
+| Yes/No | Is the suitcase gold-colored? | Yes. |
+| Yes/No | Does the suitcase have wheels? | Yes. |
+| Yes/No | Is the man dressed in a blue shirt? | Yes. |
+| Yes/No | Are there any romantic or intimate elements in the image? | No. |
+| Yes/No | Is the atmosphere of the image calm and ordinary? | Yes. |
+| What | What is the man doing in the image? | Walking with a suitcase. |
+| What | What color is the man's shirt? | Blue. |
+| How | How is the suitcase being transported? | With a black handle and wheels. |
+| How | How would you describe the overall atmosphere of the image? | Calm and ordinary. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow crop top? | Yes. |
+| Yes/No | Are the woman's shorts blue denim? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Does the outfit have a strapless and midriff-baring design? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the woman's shorts? | Blue. |
+| What | What is the woman's pose in the image? | Hands on hips, head tilted to the side. |
+| How | How does the woman's outfit contribute to the sexy atmosphere of the image? | The strapless and midriffbaring top reveals her midriff, and the blue denim shorts add a casual and relaxed vibe. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The pose with hands on hips and head tilted to the side gives the image a confident and alluring feel. |

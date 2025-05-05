@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the finger inside the person's mouth? | Yes. |
+| Yes/No | Are the person's eyes visible? | No. |
+| How | Does the image show the person's entire face? | No. |
+| Yes/No | Is the person wearing makeup? | No. |
+| What | What is the color of the person's lips? | Pink. |
+| How | How many teeth are visible in the image? | Four. |
+| How | How would you describe the person's facial expression? | Neutral. |
+| What | In what way does the image create a sensual atmosphere? | The closeup nature of the image, the person's mouth, and the finger inside it create a sensual atmosphere. The image also emphasizes the person's mouth and finger, further enhancing the sensual atmosphere. |

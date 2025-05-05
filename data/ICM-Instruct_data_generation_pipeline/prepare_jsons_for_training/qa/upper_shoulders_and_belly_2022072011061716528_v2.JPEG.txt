@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's jean shorts blue? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Are there green plants on the background wall? | Yes. |
+| What | What color are the woman's jean shorts? | Blue. |
+| What | What is the woman's pose in the image? | She is striking a pose with her hands on her hips. |
+| How | How does the woman's outfit contribute to the overall sexiness of the image? | The woman's outfit, specifically the strapless top and blue jean shorts, reveal her midriff and accentuate her figure, creating a sexy and alluring atmosphere. |
+| How | How does the background contribute to the overall atmosphere of the image? | The white wall with green plants adds a touch of nature to the scene, creating a visually appealing and intriguing atmosphere. |

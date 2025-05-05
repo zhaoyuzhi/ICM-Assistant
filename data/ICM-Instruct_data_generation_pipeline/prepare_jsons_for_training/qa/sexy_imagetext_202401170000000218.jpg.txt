@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a leopard print top? | Yes. |
+| Yes/No | Is the woman holding a billiard cue? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| Yes/No | Is the woman's pose in the image relaxed? | Yes. |
+| Yes/No | Does the image feature a pool table? | Yes. |
+| What | What is the woman wearing in the image? | A leopard print top. |
+| What | What is the woman holding in the image? | A billiard cue. |
+| How | How does the woman's pose in the image contribute to its overall atmosphere? | The woman's relaxed pose contributes to the image's overall atmosphere of mystery and intrigue. |
+| How | How does the leopard print top and billiard cue add to the image's allure? | The leopard print top adds a touch of boldness and confidence to the woman's appearance, while the billiard cue adds an element of playfulness and allure. |

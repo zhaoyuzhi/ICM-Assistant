@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's clothes soaked? | Yes. |
+| Yes/No | Is the couple sitting in a bathtub filled with water? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and longing? | Yes. |
+| What | What is the woman wearing? | A white shirt and blue shorts. |
+| What | What is the man wearing? | A white shirt and black shorts. |
+| How | How is the woman looking at the man? | She is looking back at him. |
+| How | How is the man looking at the woman? | He is looking at her. |

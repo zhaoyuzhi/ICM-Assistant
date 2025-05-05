@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Does the woman have a purse slung over her shoulder? | Yes. |
+| Yes/No | Is the woman's midriff exposed in the image? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the woman have any distinguishing features, such as tattoos or scars? | No. |
+| What | What is the name of the woman in the image? | JULI (based on the writing on her top). |
+| What | What is the color of the woman's jeans? | Blue. |
+| How | How is the woman standing in the image? | With her feet shoulderwidth apart and her hands on her hips. |
+| How | How would you describe the woman's facial expression in the image? | Confident and selfassured. |

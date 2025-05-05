@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image wearing a blue denim skirt? | Yes. |
+| Yes/No | Are the woman's shoes white? | Yes. |
+| Yes/No | Is the woman holding a black purse in her left hand? | Yes. |
+| Yes/No | Is the woman's pose neutral? | Yes. |
+| Yes/No | Is the image appropriate? | Yes. |
+| What | What color is the woman's skirt? | Blue. |
+| What | What is the woman holding in her left hand? | A black purse. |
+| How | How is the woman's skirt styled? | It is long and has a high waist, giving it a unique silhouette. |
+| How | How is the woman's pose? | Neutral. |

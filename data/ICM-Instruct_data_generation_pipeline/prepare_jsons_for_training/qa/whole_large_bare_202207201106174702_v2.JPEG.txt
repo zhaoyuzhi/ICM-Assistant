@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman sitting on a bed? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the bikini top gray? | Yes. |
+| Yes/No | Is the bikini bottom white? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color is the bikini top? | Gray. |
+| What | What is the woman's pose in the image? | She is sitting on a bed with her arms raised above her head. |
+| How | How does the woman appear in the image? | She appears relaxed and comfortable. |
+| How | How does the image make you feel? | It makes me feel like the woman is confident and selfassured. |

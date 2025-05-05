@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image dressed in a casual outfit? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the atmosphere of the image neutral and non-sexual? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the man's clothes and posture casual and non-threatening? | Yes. |
+| What | What is the man wearing on his feet? | White sneakers. |
+| What | What is the color of the man's sweatpants? | Gray. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and nonsexual. |

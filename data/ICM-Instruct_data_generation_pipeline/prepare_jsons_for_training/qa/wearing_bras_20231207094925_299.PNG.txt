@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are the straps of the bra visible in the image? | Yes. |
+| Yes/No | Is the bra red? | Yes. |
+| Yes/No | Do the polka dots on the bra contrast with the red color? | Yes. |
+| Yes/No | Is the woman's back visible in the image? | Yes. |
+| Yes/No | Does the image capture a moment of personal care and intimacy? | Yes. |
+| What | What is the woman doing in the image? | Putting on her bra. |
+| What | What is the color of the bra? | Red. |
+| How | How does the woman's action of putting on the bra suggest a sense of intimacy and vulnerability? | The action of putting on a bra is a private and personal act, and the image captures a moment of vulnerability as the woman is in the process of dressing. |
+| How | How does the close-up view of the woman's back and the bra highlight the details of her attire and the act of dressing? | The closeup view allows the viewer to see the details of the bra and the woman's attire, and emphasizes the act of dressing as a personal and intimate moment. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are the straps of the bra visible in the image? | Yes. |
+| Yes/No | Is the bra red? | Yes. |
+| Yes/No | Does the bra have white polka dots? | Yes. |
+| Yes/No | Is the woman putting on the bra in the image? | Yes. |
+| Yes/No | Is the image close-up? | Yes. |
+| What | What color is the bra? | Red. |
+| What | What is the woman doing in the image? | Putting on the bra. |
+| How | How does the color contrast of the bra and polka dots create a visual effect? | The red and white create a visually striking contrast. |

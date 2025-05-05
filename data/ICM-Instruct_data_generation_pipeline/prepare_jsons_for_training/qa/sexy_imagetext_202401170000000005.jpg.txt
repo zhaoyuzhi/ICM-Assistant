@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man hugging the woman from behind? | Yes. |
+| Yes/No | Are both the man and woman smiling? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and closeness between the man and woman? | Yes. |
+| What | What is the man doing to the woman? | Hugging her from behind. |
+| What | What is the woman wearing? | A white shirt. |
+| How | How are the man and woman positioned in the image? | The man is standing behind the woman, with his arms around her. |
+| How | How would you describe the atmosphere of the image? | Playful and intimate. |

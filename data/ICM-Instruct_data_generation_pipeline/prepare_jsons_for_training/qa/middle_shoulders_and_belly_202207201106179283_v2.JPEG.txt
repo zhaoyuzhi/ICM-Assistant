@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Does the person have a belly button piercing? | Yes. |
+| Yes/No | Is the belly button piercing a small silver barbell? | Yes. |
+| Yes/No | Does the person have a navel piercing? | Yes. |
+| Yes/No | Is the navel piercing a larger silver barbell? | Yes. |
+| What | What is the color of the person's blouse? | White. |
+| What | What is the color of the person's jeans? | Blue. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed, with a sexy vibe. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Does the person have a belly button piercing? | Yes. |
+| Yes/No | Does the person have a navel piercing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image showcase the person's body? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What type of piercing does the person have? | Belly button and navel piercings. |
+| How | How does the image make the person look? | Confident and alluring. |
+| How | How does the image make the person feel? | Sensual and confident. |

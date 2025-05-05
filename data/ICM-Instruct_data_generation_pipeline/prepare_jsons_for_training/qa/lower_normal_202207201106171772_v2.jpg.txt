@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are they wearing gray sweatpants? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are there any provocative or suggestive elements in the image? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and neutral? | Yes. |
+| Yes/No | Do the white sneakers and watch stand out in the image? | No. |
+| What | What is the person wearing on their left wrist? | A watch. |
+| What | What is the color of the person's sneakers? | White. |
+| How | How is the person standing in the image? | Against a white background. |
+| How | How would you describe the person's attire? | Simple and not revealing. |

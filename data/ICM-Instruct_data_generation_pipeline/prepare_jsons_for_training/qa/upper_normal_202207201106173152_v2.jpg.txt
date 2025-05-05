@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the man in the image standing up? | No. |
+| Yes/No | Is the desk in front of the man cluttered? | Yes. |
+| Yes/No | Is there a computer monitor on the desk? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the man in the image doing? | He is giving a speech or presentation. |
+| What | What is the man wearing? | A gray vest and a black tie. |
+| How | How is the man's posture in the image? | He is sitting with his hands raised. |
+| How | How would you describe the overall atmosphere of the image? | Professional and serious. |

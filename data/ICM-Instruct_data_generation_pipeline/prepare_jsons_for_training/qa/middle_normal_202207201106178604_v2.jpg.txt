@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Are her hands in her pockets? | Yes. |
+| Yes/No | Is her nail polish white? | Yes. |
+| Yes/No | Is the style of the trousers classic? | Yes. |
+| Yes/No | Is the woman's posture relaxed? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| What | What is the color of the woman's trousers? | Beige. |
+| What | What is the woman's posture in the image? | Relaxed. |
+| How | How are the woman's hands positioned in the image? | In her pockets. |
+| How | How would you describe the overall atmosphere of the image? | Calm and unassuming. |
+| Yes/No | Is the woman in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Does the woman have her hands in her pockets? | Yes. |
+| Yes/No | Is the woman's pose relaxed and confident? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire casual and modest? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and composed? | Yes. |
+| What | What is the color of the woman's trousers? | Beige. |
+| What | What is the style of the woman's pants? | Casual yet stylish. |
+| How | How are the woman's trousers fastened? | With a button and zipper fly. |
+| How | How much of the woman's body is visible in the image? | Only a small portion, focusing on her torso and legs. |

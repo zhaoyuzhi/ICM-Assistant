@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini yellow? | Yes. |
+| Yes/No | Are the woman's legs crossed? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bikini? | Yellow. |
+| What | What is the woman's pose in the image? | Sitting with her legs crossed. |
+| How | How is the woman's attire in the image? | The woman is wearing a yellow bikini top and bottom. |
+| How | How does the woman's smile contribute to the atmosphere of the image? | The woman's slight smile adds a touch of personality and warmth to the overall atmosphere. |

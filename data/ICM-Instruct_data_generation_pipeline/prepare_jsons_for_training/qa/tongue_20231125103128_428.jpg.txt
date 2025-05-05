@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have long black hair? | Yes. |
+| Yes/No | Is the woman's facial expression sad or melancholic? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image feature a pink background? | Yes. |
+| What | What is the woman's facial expression? | Somewhat sad or melancholic. |
+| What | What is the tone of the image? | Soft and warm. |
+| How | How does the woman's pose contrast with her facial expression? | The playful pose of sticking out her tongue contrasts with her sad or melancholic facial expression. |
+| How | How does the image create an intriguing and captivating atmosphere? | The contrast between the woman's playful pose and her sad expression creates an intriguing and captivating atmosphere that draws the viewer's attention. |

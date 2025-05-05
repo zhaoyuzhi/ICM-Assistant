@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin dressed in a black dress? | Yes. |
+| Yes/No | Does the mannequin have a sheer skirt? | Yes. |
+| Yes/No | Is the mannequin positioned in a way that it appears to be lifting the skirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| Yes/No | Is the pose of the mannequin alluring? | Yes. |
+| What | What is the color of the dress? | Black. |
+| What | What is the material of the skirt? | Sheer. |
+| How | How is the mannequin positioned? | The mannequin is positioned in a way that it appears to be lifting the skirt, revealing its legs. |
+| How | How does the white background enhance the image? | The white background contrasts with the black dress and accentuates the details of the outfit, making the image more provocative and attentiongrabbing. |

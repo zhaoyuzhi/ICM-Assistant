@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Does the woman have her legs apart? | Yes. |
+| Yes/No | Is the garter belt also white? | Yes. |
+| Yes/No | Does the image have a plain white background? | Yes. |
+| Yes/No | Is the woman's attire and pose suggestive or sexy? | Yes. |
+| What | What color are the stockings? | White. |
+| What | What is the woman's pose in the image? | Standing with legs apart, hands on hips. |
+| How | How are the stockings trimmed? | With lace. |
+| How | How is the woman standing in the image? | Legs apart, hands on hips. |

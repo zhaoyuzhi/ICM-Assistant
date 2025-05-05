@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Does the person have their belly exposed? | Yes. |
+| Yes/No | Is the person wearing a gold belly chain? | Yes. |
+| Yes/No | Does the person have their hand on their hip? | Yes. |
+| Yes/No | Are the person's nails painted white? | Yes. |
+| What | What color is the person's top? | White. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How many stars are on the person's belly chain? | 3 (small stars) and 1 (larger star at the end). |
+| How | How does the person's pose exude confidence and allure? | The person's hand is placed on their hip, and their nails are painted white, which adds a touch of elegance and attention to detail. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Does the person have a belly button ring? | Yes. |
+| Yes/No | Is the belly button ring gold? | Yes. |
+| Yes/No | Is the person's hand placed on their hip? | Yes. |
+| Yes/No | Is the person looking off to the side? | Yes. |
+| What | What color is the person's top? | White. |
+| What | What is the shape of the person's belly button ring? | Star. |
+| How | How is the person's hand positioned in the image? | Placed on their hip. |
+| How | How would you describe the overall atmosphere of the image? | Confident and alluring. |

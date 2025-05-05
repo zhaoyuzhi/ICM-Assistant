@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of ripped denim shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Does the image have a sexy and casual vibe? | Yes. |
+| Yes/No | Is the person in the image posing in a suggestive manner? | Yes. |
+| Yes/No | Does the image feature a tattoo on the person's left thigh? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What is the person in the image wearing on their lower body? | Ripped denim shorts. |
+| What | What is the person in the image wearing on their upper body? | A black top. |
+| How | How are the ripped denim shorts torn? | They are torn in the back. |
+| How | How does the image convey a sense of self-assuredness and allure? | Through the person's attire and pose. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the person lifting their shirt? | Yes. |
+| Yes/No | Are they exposing their belly? | Yes. |
+| Yes/No | Is the person wearing sunglasses? | Yes. |
+| Yes/No | Are they wearing a face mask? | Yes. |
+| What | What color is the background of the image? | White. |
+| What | What is the person lifting their shirt with? | Their hands. |
+| How | How is the person lifting their shirt? | By holding the hem with their hands and lifting it up. |
+| Yes/No | Why is the image sexy? | Because the person is lifting their clothes, exposing their belly, and wearing sunglasses and a face mask, creating a sense of intrigue and mystery. |

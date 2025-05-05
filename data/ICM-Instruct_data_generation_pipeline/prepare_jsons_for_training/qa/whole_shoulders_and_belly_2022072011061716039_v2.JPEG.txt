@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a tank top? | Yes. |
+| Yes/No | Is the woman in the image wearing jeans? | Yes. |
+| Yes/No | Does the woman in the image have her hand on her head? | Yes. |
+| Yes/No | Does the woman in the image have her hand on her hip? | Yes. |
+| Yes/No | Is the background of the image plain gray? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image wearing on her feet? | The description doesn't mention what the woman is wearing on her feet. |
+| What | What is the woman in the image doing with her left hand? | The woman in the image is placing her left hand on her head. |
+| How | How is the woman in the image posing? | The woman in the image is posing with her right hand on her hip and her left hand on her head. |
+| How | How does the plain gray background affect the image? | The plain gray background puts the focus entirely on the woman, emphasizing her and creating a sexy atmosphere. |

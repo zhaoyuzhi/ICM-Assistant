@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the woman posing on a rock in the image? | Yes. |
+| Yes/No | Does the woman have her left hand on her hip in the image? | Yes. |
+| Yes/No | Does the woman have her right hand resting on her thigh in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and alluring? | Yes. |
+| What | What is the woman wearing in the image? | A black bikini top and bottom. |
+| What | What is the woman's pose in the image? | She is posing with her left hand on her hip and her right hand resting on her thigh. |
+| How | How does the woman's attire and pose suggest a sense of confidence and allure? | The woman's confident pose and the exposure of her upper body reveal her welldefined muscles, suggesting a sense of confidence and allure. |
+| How | How does the contrast between the black bikini and the natural tones of the rock emphasize the woman's form? | The contrast between the black bikini and the natural tones of the rock creates a visual contrast that draws attention to the woman's form, emphasizing her curves and muscles. |

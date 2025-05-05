@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the person's back to the camera? | Yes. |
+| Yes/No | Are the jeans tight? | Yes. |
+| Yes/No | Does the image have a sexy feel? | Yes. |
+| Yes/No | Does the person's pose and attire suggest confidence and self-assuredness? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What color is the shirt? | Black. |
+| How | How are the jeans tight? | They are tightly fitted, accentuating the person's shape. |
+| How | How does the contrast between the blue jeans and black shirt contribute to the image's overall feel? | It adds to the image's overall sexy and alluring atmosphere. |

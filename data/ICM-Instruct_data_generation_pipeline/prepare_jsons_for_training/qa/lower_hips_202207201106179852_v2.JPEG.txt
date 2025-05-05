@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the person in the image standing with their legs bent? | Yes. |
+| Yes/No | Is the person in the image wearing white sneakers? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person in the image have their hand on their hip? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black and white patterned leggings. |
+| What | What is the person in the image wearing on their feet? | White sneakers. |
+| How | How is the person in the image standing? | With their left leg bent and their right leg straight. |
+| How | How is the person in the image posing? | With their left hand on their hip and their right hand on their thigh. |

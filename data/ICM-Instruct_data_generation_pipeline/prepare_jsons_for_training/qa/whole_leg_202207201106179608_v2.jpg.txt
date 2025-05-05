@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue crop top? | Yes. |
+| Yes/No | Is the woman in the image wearing white shorts? | Yes. |
+| Yes/No | Is the woman in the image holding a small purse? | Yes. |
+| Yes/No | Is the room in the image minimalistic and clean? | Yes. |
+| Yes/No | Does the woman in the image have her left hand placed on her hip? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| What | What is the color of the woman's crop top? | Blue. |
+| What | What is the woman holding in her right hand? | A small purse. |
+| How | How is the woman standing in the image? | With her left hand on her hip and her right hand holding a purse. |
+| How | How would you describe the overall atmosphere of the image? | Confident and alluring. |

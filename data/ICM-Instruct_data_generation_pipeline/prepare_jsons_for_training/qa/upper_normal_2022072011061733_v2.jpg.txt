@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image set in a medical setting? | Yes. |
+| Yes/No | Are the people in the image wearing protective clothing? | Yes. |
+| Yes/No | Is the person using a microscope? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the image depict a sterile environment? | Yes. |
+| Yes/No | Is the atmosphere of the image focused on precision and accuracy? | Yes. |
+| What | What are the people in the image doing? | Conducting scientific or medical research. |
+| What | What is the purpose of the low exposure level in the image? | To emphasize the seriousness and professionalism of the scene. |
+| How | How are the people in the image dressed? | They are wearing protective clothing, including masks and gloves. |
+| How | How does the low exposure level reinforce the atmosphere of the image? | It reinforces the idea that this is a professional environment and emphasizes the focus on precision and accuracy. |

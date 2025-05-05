@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Are they wearing brown pants? | Yes. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the person's attire rather than their body? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What color is the person's top? | Black. |
+| What | What color are the person's pants? | Brown. |
+| How | How many silver buckles are on the person's leather belt? | N/A (not specified in the description). |
+| What | What is the overall atmosphere of the image? | Neutral and professional. |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Are they wearing brown pants? | Yes. |
+| Yes/No | Is the person's belt brown with a silver buckle? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the person looking off to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the person's pose in the image? | The person is standing with their hands on their hips and looking off to the side. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is neutral and professional. |
+| How | How is the person's attire in the image? | The person is wearing a black top and brown pants, with a brown belt and silver buckle. |
+| How | How does the white background contribute to the atmosphere of the image? | The white background contributes to the neutral atmosphere of the image by providing a clean and plain backdrop that focuses attention on the person's clothing and pose. |

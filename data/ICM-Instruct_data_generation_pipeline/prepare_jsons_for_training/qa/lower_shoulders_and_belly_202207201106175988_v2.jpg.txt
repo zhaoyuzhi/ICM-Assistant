@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's white sneakers contrasting with the blue wall and white door? | Yes. |
+| Yes/No | Is the image sexy because of the person's pose and exposure? | Yes. |
+| Yes/No | Does the image give an athletic and sporty vibe due to the blue leggings and black sports bra? | Yes. |
+| What | What color are the person's leggings? | Blue. |
+| What | What color is the person's sports bra? | Black. |
+| How | How is the person standing in the image? | They are striking a pose with one hand on their hip and the other on their thigh. |
+| How | How do the white sneakers contrast with the blue wall and white door? | They provide a contrast by being a different color, making the person stand out in the room. |

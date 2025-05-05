@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Does the bikini top have a floral pattern? | Yes. |
+| Yes/No | Is the bikini bottom black and gold? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman standing in front of a pool? | Yes. |
+| Yes/No | Is a palm tree visible in the background? | Yes. |
+| What | What is the color of the bikini bottom? | Black and gold. |
+| What | What is the design of the bikini bottom? | Highwaisted. |
+| How | How does the floral pattern on the bikini top add to the overall atmosphere of the image? | It adds a touch of elegance. |
+| How | How does the high-waisted bikini bottom accentuate the woman's figure? | It accentuates her waist and hips. |

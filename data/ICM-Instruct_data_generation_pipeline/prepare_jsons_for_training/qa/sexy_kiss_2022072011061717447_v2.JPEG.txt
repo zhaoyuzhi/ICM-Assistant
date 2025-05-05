@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white jacket? | Yes. |
+| Yes/No | Is the woman wearing a pink dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Does the woman have her arms wrapped around the man's waist? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the man leaning in to kiss the woman on? | Her cheek. |
+| What | What color is the woman's dress? | Pink. |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other, with the woman's arms wrapped around the man's waist. |
+| How | How does the blurred background of the crowd create a sense of depth and focus in the image? | It creates a sense of depth and focus by drawing attention to the couple in the foreground. |

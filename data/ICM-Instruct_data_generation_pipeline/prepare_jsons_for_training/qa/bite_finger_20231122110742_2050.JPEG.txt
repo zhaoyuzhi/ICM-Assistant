@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a person's face? | Yes. |
+| Yes/No | Does the person in the image have red lipstick on? | Yes. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Are the person's eyes visible in the image? | No. |
+| Yes/No | Does the image give a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's lipstick? | Red. |
+| What | What is the person's facial expression? | Neutral. |
+| How | How are the person's lips positioned in the image? | Slightly parted. |
+| How | How is the person's chin positioned in the image? | Slightly tucked in. |

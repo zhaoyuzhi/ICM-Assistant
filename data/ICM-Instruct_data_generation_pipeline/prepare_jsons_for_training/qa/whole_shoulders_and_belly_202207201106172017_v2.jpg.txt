@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's shorts also white? | Yes. |
+| Yes/No | Is the woman wearing a hat? | Yes. |
+| Yes/No | Is the woman standing on a street? | Yes. |
+| Yes/No | Is there a building visible in the background? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She has her hand on her hip. |
+| What | What is the overall mood of the image? | The image is sexy, confident, and relaxed. |
+| How | How does the woman's outfit contribute to the image's allure? | The woman's strapless top and shorts are both white, which creates a sense of confidence and selfassuredness. |
+| How | How does the woman's pose add to the image's overall allure? | The woman's pose, with her hand on her hip, adds to the overall allure of the image by suggesting a sense of confidence and selfassuredness. |

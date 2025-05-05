@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the bathtub filled with water? | No. |
+| Yes/No | Are there rose petals in the bathtub? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman's attire soaked? | Yes. |
+| Yes/No | Does the woman have a pink straw in her hand? | Yes. |
+| What | What is the woman holding in her hand? | A clear glass with a pink straw. |
+| What | What color are the rose petals in the bathtub? | Pink. |
+| How | How is the woman's attire soaked? | Her clothes are wet, suggesting she has been in the bathtub or has been splashed with water. |
+| How | How does the pink straw in the woman's hand add to the scene? | The pink straw adds an element of playfulness and whimsy to the otherwise sensual and intimate atmosphere. |

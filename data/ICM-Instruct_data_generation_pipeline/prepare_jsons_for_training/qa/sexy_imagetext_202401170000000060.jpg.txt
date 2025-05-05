@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man and woman in a romantic relationship? | Yes. |
+| Yes/No | Are they in a public place? | No. |
+| Yes/No | Is the man Forcefully holding the woman? | No. |
+| Yes/No | Is the woman comfortable with the man's actions? | Yes. |
+| Yes/No | Is the image explicitly sexual? | No. |
+| Yes/No | Does the image suggest a power imbalance between the man and woman? | No. |
+| What | What is the man doing to the woman? | The man is holding the woman against a wall. |
+| What | What is the woman's facial expression? | The woman is blushing. |
+| How | How is the man holding the woman? | The man is holding the woman close to his body, with his hands on her hips. |
+| How | How is the woman responding to the man's actions? | The woman is blushing and leaning into the man. |

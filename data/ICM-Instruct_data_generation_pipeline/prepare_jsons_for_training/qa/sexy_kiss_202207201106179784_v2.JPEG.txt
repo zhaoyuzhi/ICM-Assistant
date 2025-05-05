@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman wearing a purple dress? | Yes. |
+| Yes/No | Are the couple locked in a passionate kiss? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the couple the main focus of the image? | Yes. |
+| What | What is the color of the woman's dress? | Purple. |
+| What | What is the man's shirt color? | White. |
+| How | How are the couple positioned in the image? | The man is positioned on the right, and the woman is positioned on the left. |
+| How | How do the couple's lips meet in the kiss? | Their lips meet in a tender embrace, creating an intimate atmosphere. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Are the black stockings associated with a sexy or alluring appearance? | Yes. |
+| What | What is the person in the image doing? | The person is putting on black stockings. |
+| What | What is the color of the person's shirt? | The person's shirt is white. |
+| How | How is the person's atmosphere created in the image? | The person's atmosphere is created through their actions and attire, specifically the act of putting on stockings, which is often associated with a sexy or alluring appearance, and the cozy and intimate atmosphere of the bed with a white blanket. |
+| How | How do the black stockings contribute to the overall atmosphere of the image? | The black stockings contribute to the overall sexy and alluring atmosphere of the image, as they are often associated with a seductive or alluring appearance. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the person wearing a black skirt? | Yes. |
+| Yes/No | Are they wearing black stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the person's shirt? | White. |
+| How | How is the person's atmosphere created in the image? | Through the use of black stockings, a white shirt, and a black skirt, as well as the person's actions of putting on stockings, which create a cozy and intimate atmosphere. |
+| How | How would you describe the person's actions in the image? | The person is in the act of putting on black stockings, which is often associated with a sexy or alluring appearance. |

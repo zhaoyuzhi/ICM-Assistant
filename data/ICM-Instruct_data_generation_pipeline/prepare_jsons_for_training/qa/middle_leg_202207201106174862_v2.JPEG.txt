@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt navy blue? | Yes. |
+| Yes/No | Does the skirt have a pleated design? | Yes. |
+| Yes/No | Is the person wearing a white sweater? | Yes. |
+| Yes/No | Is the person's pose confident and assertive? | Yes. |
+| How | Does the image showcase the person's legs and thighs? | Yes. |
+| What | What is the color of the skirt? | Navy blue. |
+| What | What is the person's pose in the image? | Confident and assertive, with hands placed on hips. |
+| How | How does the contrast between the dark skirt and white sweater contribute to the image? | It adds to the visual interest, making the image more captivating. |
+| How | How does the person's confident pose and short skirt contribute to the overall allure of the image? | They create a sense of allure and sensuality in the image. |

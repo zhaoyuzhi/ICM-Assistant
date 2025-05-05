@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman in the image posing with her hand on her hip? | Yes. |
+| Yes/No | Is the top cropped at the waist, revealing the woman's stomach? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| Yes/No | Does the woman's outfit expose her midriff? | Yes. |
+| What | What color is the woman's top? | Purple. |
+| What | What is the woman's pose in the image? | Hand on hip. |
+| How | How is the woman's top styled? | Strapless. |
+| How | How are the woman's jeans styled? | Cropped. |

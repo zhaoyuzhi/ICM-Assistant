@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's jeans casual and stylish? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Is the background of the image a building? | Yes. |
+| Yes/No | Does the woman's pose and attire suggest confidence and self-assuredness? | Yes. |
+| What | What is the woman holding in her hand? | A purse. |
+| What | What is the style of the woman's jeans? | Casual and stylish. |
+| How | How does the woman's pose suggest confidence and self-assuredness? | The woman is standing with her feet shoulderwidth apart, with her head held high and her shoulders back, giving off a confident and selfassured vibe. |
+| How | How does the image evoke a sense of desire? | The combination of the woman's sexy attire, confident pose, and the building background creates an atmosphere that is both alluring and intriguing, evoking a sense of desire in the viewer. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked from their thighs to their ankles? | Yes. |
+| Yes/No | Are they wearing a denim skirt? | Yes. |
+| Yes/No | Are they wearing white sneakers? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person's pose confident and assertive? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| What | What is the person wearing on their lower half? | A denim skirt. |
+| What | What type of shoes is the person wearing? | White sneakers. |
+| How | How is the person standing in the image? | With their legs slightly apart and their hands on their hips. |
+| How | How would you describe the overall atmosphere of the image? | Sexy and confident. |

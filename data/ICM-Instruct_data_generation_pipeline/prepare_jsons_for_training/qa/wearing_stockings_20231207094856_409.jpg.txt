@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Is the woman wearing a black hat? | Yes. |
+| Yes/No | Are the stockings brown? | Yes. |
+| Yes/No | Is the couch brown? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman holding in her hands? | Stockings. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How is the woman's appearance described? | Seductive and alluring. |
+| How | How does the act of putting on stockings contribute to the image's sexiness? | It involves exposing the legs and can be seen as a form of selfexpression. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Is the woman wearing a black hat? | Yes. |
+| Yes/No | Are the stockings brown? | Yes. |
+| Yes/No | Is the couch brown? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on stockings. |
+| What | What color are the stockings? | Brown. |
+| How | How is the woman holding the stockings? | She is holding them in her hands. |
+| How | How can the act of putting on stockings be seen? | It can be seen as a sensual and intimate moment. |

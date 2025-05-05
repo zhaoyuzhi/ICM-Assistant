@@ -1,0 +1,18 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | Yes. |
+| Yes/No | Are the women smiling? | No. |
+| Yes/No | Are the women looking at each other? | No. |
+| Yes/No | Is the image taken during the daytime? | Yes. |
+| Yes/No | Is the woman in the strapless top wearing a bra? | No. |
+| Yes/No | Are the women holding hands? | No. |
+| What | What is the woman in the strapless top wearing on her feet? | High heels. |
+| What | What is the brand of the cell phone the woman in the crop top is using? | iPhone. |
+| Yes/No | Is the image colorful? | Yes. |
+| Yes/No | Are the women smiling? | No. |
+| Yes/No | Are the women looking at each other? | No. |
+| Yes/No | Is the image taken during the daytime? | Yes. |
+| Yes/No | Is the woman in the strapless top wearing a bra? | No. |
+| Yes/No | Are the women holding hands? | No. |
+| What | What is the woman in the strapless top wearing on her feet? | High heels. |
+| What | What is the brand of the cell phone the woman in the crop top is using? | iPhone. |

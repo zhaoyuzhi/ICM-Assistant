@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image lifting her skirt up? | Yes. |
+| Yes/No | Are the woman's legs visible in the image? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image depict the woman in a natural environment? | No. |
+| What | What is the woman lifting her skirt up with? | Her hands. |
+| What | What is the woman's facial expression in the image? | Not visible/neutral. |
+| How | How is the woman's skirt being lifted up? | By her hands, in a seductive manner. |
+| How | How does the contrast between the black skirt and white shirt contribute to the image's overall atmosphere? | It creates a sense of elegance and sophistication, adding to the sensual and alluring nature of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman's facial expression playful and seductive? | Yes. |
+| Yes/No | Are the woman's lips puckered? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Does the image have a flirtatious and alluring atmosphere? | Yes. |
+| Yes/No | Does the image evoke a strong emotional response from the viewer? | Yes. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| What | What is the overall atmosphere of the image? | Flirtatious and alluring. |
+| How | How are the woman's lips positioned? | Puckered. |
+| How | How are the woman's eyes positioned? | Closed. |

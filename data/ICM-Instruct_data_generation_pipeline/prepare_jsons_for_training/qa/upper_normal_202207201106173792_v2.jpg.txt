@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a purple sweater? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's attire in the image? | A purple sweater. |
+| What | What is the overall atmosphere of the image? | Nonsexual and friendly. |
+| How | How is the woman positioned in the image? | In a relaxed and comfortable position. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It emphasizes that the image is not intended to be provocative or sensual. |

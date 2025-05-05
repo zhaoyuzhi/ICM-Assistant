@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have blonde hair? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Does the woman have a relaxed facial expression? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's expression suggest that she is confident and comfortable in her own skin? | Yes. |
+| What | What color is the woman's hair? | Blonde. |
+| What | What is the woman wearing? | A white top. |
+| How | How is the woman's facial expression? | Relaxed and confident. |
+| How | How does the woman's expression suggest she feels about expressing herself? | Unafraid and bold. |

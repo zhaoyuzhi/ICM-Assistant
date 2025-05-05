@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a wooden floor? | Yes. |
+| Yes/No | Are the person's legs the main focus of the image? | Yes. |
+| Yes/No | Is the person wearing white stockings? | Yes. |
+| Yes/No | Is the person wearing a blue sweater? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's knees bent? | Yes. |
+| What | What color are the person's stockings? | White. |
+| What | What is the color of the person's sweater? | Blue. |
+| How | How are the person's legs positioned? | Crossed and bent. |
+| How | How does the image create a sense of intimacy? | Through the person's pose and the contrasting colors of the blue sweater and white stockings. |

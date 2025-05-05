@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the child the main subject of the image? | Yes. |
+| Yes/No | Is the child wearing a pink onesie with a cat face on the chest? | Yes. |
+| Yes/No | Is the child walking on a grassy field? | Yes. |
+| Yes/No | Is the image explicit or suggestive? | No. |
+| Yes/No | Does the image contain any inappropriate content? | No. |
+| Yes/No | Is the overall atmosphere of the image innocent and playful? | Yes. |
+| What | What is the child's onesie adorned with? | A cat face. |
+| What | What is the child doing in the image? | Walking on a grassy field. |
+| How | How is the child moving in the image? | Towards the right side. |
+| How | How would you describe the exposure level of the image? | Very low. |

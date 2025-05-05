@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Does the blouse have a ruffled collar? | Yes. |
+| Yes/No | Are the sleeves of the blouse off-the-shoulder? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Are the jeans cropped at the ankle? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What is the woman's pose in the image? | She is striking a pose with her hand on her hip and her head slightly tilted to the side. |
+| How | How does the woman's outfit add to the overall atmosphere of the image? | The woman's outfit, particularly the white blouse with a ruffled collar and offtheshoulder sleeves, adds a touch of elegance to her overall look. The blue jeans cropped at the ankle add a casual yet chic vibe to her outfit, creating an atmosphere that is both stylish and alluring. |
+| How | How does the woman's pose contribute to the overall mood of the image? | The woman's pose, with her hand on her hip and her head tilted to the side, gives off a confident and sexy vibe, contributing to the overall atmosphere of the image being both stylish and alluring. |

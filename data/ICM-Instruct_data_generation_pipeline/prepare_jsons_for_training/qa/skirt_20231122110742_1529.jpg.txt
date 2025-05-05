@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige dress? | Yes. |
+| Yes/No | Is the woman exposing her thighs in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the woman's facial expression in the image? | Serious. |
+| What | What is the color of the couch and wall in the background? | White. |
+| How | How is the woman's dress being lifted? | By her own hand. |
+| How | How would you describe the atmosphere of the image? | Intense and captivating. |

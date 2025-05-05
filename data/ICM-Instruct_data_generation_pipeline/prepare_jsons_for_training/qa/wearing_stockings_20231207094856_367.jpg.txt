@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a knee brace? | Yes. |
+| Yes/No | Is the person in the image putting on pink stockings? | Yes. |
+| Yes/No | Is the background of the image white checkered? | Yes. |
+| Yes/No | Are the stockings being pulled up the leg? | Yes. |
+| Yes/No | Is the image intimate and sensual? | Yes. |
+| Yes/No | Does the image evoke a sense of anticipation and desire? | Yes. |
+| What | What is the person in the image putting on? | Pink stockings. |
+| What | What is the color of the background in the image? | White. |
+| How | How are the stockings being put on? | The person is pulling them up their leg. |
+| How | How does the image make the viewer feel? | The image evokes a sense of intimacy and sensuality, and may make the viewer feel anticipatory or desirous. |
+| Yes/No | Is the person in the image wearing a knee brace? | Yes. |
+| Yes/No | Is the person in the image putting on stockings? | Yes. |
+| Yes/No | Are the stockings pink? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image evoke a sense of anticipation and desire? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the stockings? | Pink. |
+| How | How is the knee brace being wrapped around the knee? | It is being wrapped around the knee in a way that is associated with intimacy and sensuality. |
+| How | How are the stockings being put on? | They are being pulled up the leg in a sensual and intimate manner. |

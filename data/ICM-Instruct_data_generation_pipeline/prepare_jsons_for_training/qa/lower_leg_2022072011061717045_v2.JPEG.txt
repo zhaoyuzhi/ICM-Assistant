@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Is the person's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Are the person's thighs exposed in the image? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image appear to be set in a fast food restaurant? | Yes. |
+| Yes/No | Does the person's pose suggest confidence and allure? | Yes. |
+| What | What is the person in the image wearing? | A plaid skirt and a white shirt. |
+| What | What is the person's pose in the image? | Their legs are crossed and their knees are bent. |
+| How | How is the person's hair styled in the image? | It is pulled back into a ponytail. |
+| How | How does the person's attire and pose contribute to the overall atmosphere of the image? | The plaid skirt and exposed thighs create a sexy atmosphere, while the crossed legs and bent knees suggest confidence and allure. The casual setting of a fast food restaurant adds an element of informality to the image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Are they wearing stockings? | Yes. |
+| Yes/No | Is the person's leg spread apart? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Does the image portray a sense of sensuality? | Yes. |
+| Yes/No | Is the person's hand on their leg? | Yes. |
+| What | What is the person in the image wearing? | White bra and white stockings. |
+| What | What is the color of the couch in the image? | Gray. |
+| How | How is the person's leg positioned in the image? | Spread apart. |
+| How | How does the image portray the act of putting on stockings? | As a form of selfcare and selfexpression. |
+| Yes/No | Is the person in the image wearing lingerie? | Yes. |
+| Yes/No | Are they wearing stockings? | Yes. |
+| Yes/No | Is the couch gray? | Yes. |
+| Yes/No | Is the person's bra white? | Yes. |
+| Yes/No | Are their hands on their legs? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the person in the image doing? | Putting on stockings. |
+| What | What color are the person's stockings? | White. |
+| How | How is the person's bra related to the overall atmosphere of the image? | It's white and contributes to the image's intimate and sensual atmosphere. |
+| How | How does the act of putting on stockings add to the overall atmosphere of the image? | It's a form of selfcare and selfexpression, adding to the intimacy and sensuality of the image. |

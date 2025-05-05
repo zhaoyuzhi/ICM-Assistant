@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a leotard? | Yes. |
+| Yes/No | Is the leotard backless? | Yes. |
+| Yes/No | Are the tights beige? | Yes. |
+| Yes/No | Are the ballet slippers gold? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| What | What color is the leotard? | Brown. |
+| What | What color are the ballet slippers? | Gold. |
+| How | How is the person standing in the image? | With their back facing the camera. |
+| How | How does the backless design of the leotard contribute to the image's atmosphere? | It creates a sense of intimacy and allure. |

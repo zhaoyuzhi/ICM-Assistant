@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman looking upwards and to the left? | Yes. |
+| Yes/No | Does the image feature a bed? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the slogan suggest a sense of desire and longing? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman's facial expression? | Slight smile. |
+| How | How is the woman's hair styled? | Long and straight. |
+| How | How does the blurred background contribute to the overall atmosphere of the image? | It creates an intimate and private setting. |

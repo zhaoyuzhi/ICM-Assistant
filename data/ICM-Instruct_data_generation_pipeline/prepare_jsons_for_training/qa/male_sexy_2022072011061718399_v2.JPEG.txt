@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing? | Yes. |
+| Yes/No | Does the image contain any other people? | No. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any objects other than the man? | No. |
+| What | What is the man wearing in the image? | A pair of underwear. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man standing in the image? | With his arms crossed. |
+| How | How does the man look at the camera? | Directly. |

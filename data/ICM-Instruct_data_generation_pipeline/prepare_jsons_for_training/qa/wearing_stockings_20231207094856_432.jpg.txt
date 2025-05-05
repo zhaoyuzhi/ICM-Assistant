@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink sweater? | Yes. |
+| Yes/No | Are the person's pants beige? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Does the image suggest a sense of intimacy and sensuality? | Yes. |
+| Yes/No | Are the stockings being put on in a way that creates an atmosphere of allure and intrigue? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and sensuality? | Yes. |
+| What | What color is the sweater the person is wearing? | Pink. |
+| What | What color are the person's pants? | Beige. |
+| How | How are the stockings being put on? | In a way that suggests a sense of intimacy and sensuality. |
+| What | What does the image create? | An atmosphere of allure and intrigue. |
+| Yes/No | Is the person in the image wearing a pink sweater? | Yes. |
+| Yes/No | Are the stockings being put on in a way that suggests intimacy and sensuality? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the stockings? | Beige. |
+| What | What is the person wearing that creates a visual contrast with the stockings? | Pink sweater and beige pants. |
+| How | How are the stockings being put on? | In a careful and deliberate process. |
+| What | What does the way the stockings are being put on suggest about the person's attitude towards self-care and attention to detail? | It suggests a sense of selfcare and attention to detail. |

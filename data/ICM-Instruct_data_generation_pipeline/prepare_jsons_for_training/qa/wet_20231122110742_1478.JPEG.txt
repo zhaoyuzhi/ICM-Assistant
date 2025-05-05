@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue plaid skirt? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the woman's right hand resting on her head? | Yes. |
+| Yes/No | Are there rocks and foliage surrounding the stream? | Yes. |
+| Yes/No | Is the woman's attire soaked? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman holding in her left hand? | Her hair. |
+| What | What is the woman's pose in the image? | She is sitting in the stream with her right hand resting on her head. |
+| How | How is the woman's hair styled in the image? | It is pulled back into a ponytail. |
+| How | How is the woman sitting in the stream? | She is sitting with her left hand holding her hair and her right hand resting on her head. |

@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking up? | Yes. |
+| Yes/No | Is the bra the woman is wearing a peach color? | Yes. |
+| Yes/No | Is the image focused on the woman's upper body? | Yes. |
+| Yes/No | Does the image give an impression of confidence? | Yes. |
+| Yes/No | Does the image give an impression of intimacy? | Yes. |
+| What | What color is the bra the woman is wearing? | Peach. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How is the woman looking in the image? | She is smiling and looking up. |
+| How | How does the image make you feel? | It gives an impression of confidence and allure. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra peach-colored? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman looking up? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra the woman is wearing? | Peach. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How is the woman's confidence and allure depicted in the image? | Through her smile and looking up. |
+| How | How does the image create an atmosphere that is both alluring and confident? | Through the combination of the woman's smile, the color of the bra, and her intimate act of putting it on. |

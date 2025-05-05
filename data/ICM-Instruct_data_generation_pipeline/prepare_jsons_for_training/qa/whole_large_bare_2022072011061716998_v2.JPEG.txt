@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bikini? | Yes. |
+| Yes/No | Is the woman in the image walking on a beach? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the black bikini a common choice for beachwear? | Yes. |
+| Yes/No | Is the woman's body exposed in the image? | Yes. |
+| Yes/No | Does the beach setting evoke feelings of desire and allure? | Yes. |
+| What | What is the woman in the image wearing? | A black bikini. |
+| What | What is the setting of the image? | A beach. |
+| How | How is the woman's attire functional? | The black bikini is functional as it provides coverage while allowing for ease of movement in the water. |
+| How | How does the beach setting contribute to the overall allure of the image? | The beach setting contributes to the overall allure of the image by providing a sense of relaxation and leisure activities, which can evoke feelings of desire and allure. |

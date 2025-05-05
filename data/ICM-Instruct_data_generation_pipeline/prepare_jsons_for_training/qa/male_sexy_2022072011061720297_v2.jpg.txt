@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image engaged in a physical activity? | Yes. |
+| Yes/No | Does the image include any additional details about the man's clothing? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man have a focused expression? | Yes. |
+| Yes/No | Is the overall atmosphere of the image physically attractive and alluring? | Yes. |
+| What | What is the man lifting in the image? | Weights. |
+| What | What is the man's facial expression in the image? | Focused. |
+| How | How is the man engaging in physical activity in the image? | Lifting weights. |
+| What | What is the atmosphere of the image? | Physically attractive and alluring. |

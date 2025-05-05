@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a suit? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the background of the image a gray building? | Yes. |
+| Yes/No | Does the woman have her head tilted back? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's neck? | Yes. |
+| What | What color is the man's tie? | Green. |
+| What | What is the color of the door in the background? | Blue. |
+| How | How is the overall atmosphere of the image? | Intimate and romantic. |
+| How | How does the man's gray suit and green tie add to the scene? | They add a formal touch to the scene. |

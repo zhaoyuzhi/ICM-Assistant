@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white tank top? | Yes. |
+| Yes/No | Does the tank top have a lace-up design on the back? | Yes. |
+| Yes/No | Is the tank top cropped at the waist? | Yes. |
+| Yes/No | Are the person's blue jeans causal and comfortable? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| How | Does the image showcase a large area of the person's back? | Yes. |
+| What | What is the color of the person's tank top? | White. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the tank top designed on the back? | Laceup. |
+| How | How does the image evoke feelings in the viewer? | Desire and longing. |

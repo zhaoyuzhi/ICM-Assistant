@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini low-rise? | Yes. |
+| Yes/No | Is the woman posing with her hands on her hips? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the bikini? | Yellow and orange. |
+| What | What is the woman's confidence level in the image? | High. |
+| How | How does the woman's pose convey her confidence? | She is posing with her hands on her hips, looking directly at the camera. |
+| How | How do the colors of the bikini contribute to the overall allure of the image? | The bright colors of the bikini, yellow and orange, add to the overall allure of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing sunglasses? | Yes. |
+| Yes/No | Does the woman have brown hair? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Does the woman have a confident expression? | Yes. |
+| Yes/No | Is the atmosphere of the image playful and flirtatious? | Yes. |
+| What | What color is the woman's top? | White. |
+| What | What is the shape of the sunglasses frame? | Heartshaped. |
+| How | How is the woman's smile described in the description? | Slight. |
+| How | How does the woman look in the image? | Flirtatious and confident. |

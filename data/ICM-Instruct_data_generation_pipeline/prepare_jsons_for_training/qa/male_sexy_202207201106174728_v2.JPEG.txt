@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing pants? | No. |
+| Yes/No | Is the man in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man in the image wearing underwear? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What brand of underwear is the man wearing? | Marks & Spencer. |
+| What | What is the man's facial expression? | Looking directly at the camera. |
+| How | How is the man's body positioned in the image? | Facing the camera. |
+| How | How does the man's facial expression contribute to the overall atmosphere of the image? | It creates a sense of connection and engagement with the viewer. |

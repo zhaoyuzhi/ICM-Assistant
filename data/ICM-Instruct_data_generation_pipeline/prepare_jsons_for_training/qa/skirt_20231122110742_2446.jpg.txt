@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the woman's legs exposed in the image? | Yes. |
+| Yes/No | Is the woman lifting her dress in the image? | Yes. |
+| Yes/No | Is the image set in a private or personal space? | Yes. |
+| Yes/No | Does the image create a sense of seduction and allure? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What color are the woman's socks? | White. |
+| How | How is the woman's dress being lifted? | The woman is lifting her dress herself. |
+| How | How does the image create a sense of intimacy? | The image is set in a room with a counter and cabinet, suggesting a private or personal space. |

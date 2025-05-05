@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman wearing a flower crown? | Yes. |
+| Yes/No | Does the woman have loose curls in her hair? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the woman's attire and gaze create a sense of intimacy? | Yes. |
+| What | What is the woman wearing on her head? | A flower crown. |
+| What | What is the woman's hairstyle? | Loose curls. |
+| How | How is the woman looking at the camera? | Directly. |
+| How | How does the woman's attire and gaze create a sense of connection with the viewer? | The strapless outfit and flower crown suggest a sense of freedom and carefree spirit, while her direct gaze creates a sense of intimacy and allure. |

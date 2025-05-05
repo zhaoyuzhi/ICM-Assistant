@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing high heels? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the image in a public space? | Yes. |
+| Yes/No | Is the person's pose suggesting self-assurance? | Yes. |
+| Yes/No | Do the denim shorts add to the overall sexy appearance? | Yes. |
+| What | What is the person wearing? | Denim shorts rolled up at the bottom and high heels. |
+| What | What is the atmosphere of the image? | Confidence and selfassuredness. |
+| How | How are the person's legs positioned? | Apart. |
+| How | How do the denim shorts and high heels contribute to the sexy atmosphere? | They add to the overall allure of the image and emphasize the person's confident and selfassured appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a strapless pink top? | Yes. |
+| Yes/No | Are her shorts white? | Yes. |
+| Yes/No | Does the woman have braids? | Yes. |
+| Yes/No | Is her hair styled in braids? | Yes. |
+| Yes/No | Is the woman's pose suggestive of confidence and style? | Yes. |
+| What | What is the woman wearing on her upper body? | A strapless pink top. |
+| What | What is the woman wearing on her lower body? | White shorts. |
+| How | How is the woman's hair styled? | The woman's hair is styled in braids. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose with her hand on her hip accentuates her figure and adds to the sexy atmosphere of the image. |

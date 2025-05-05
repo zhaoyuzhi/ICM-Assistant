@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the image focused on the woman's upper body and the bra she is wearing? | Yes. |
+| Yes/No | Does the image capture the woman's expression as she adjusts the bra cups? | Yes. |
+| Yes/No | Is the woman's expression determined and confident? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and attraction in the viewer? | Yes. |
+| What | What color is the bra the woman is wearing? | Beige. |
+| What | What is the woman doing in the image? | Adjusting the bra cups. |
+| How | How does the woman's attire contribute to the sexy atmosphere of the image? | The beige bra adds a soft and alluring touch to her appearance. |
+| How | How does the woman's expression suggest confidence and self-assurance? | Her focused and determined expression as she adjusts the cups suggests confidence and selfassurance. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Is the woman holding the bra cups with both hands? | Yes. |
+| Yes/No | Is the image focusing on the woman's upper body? | Yes. |
+| Yes/No | Does the image convey an intimate atmosphere? | Yes. |
+| Yes/No | Does the woman have a determined expression on her face? | Yes. |
+| What | What is the woman doing in the image? | Adjusting the bra cups. |
+| What | What is the color of the bra the woman is wearing? | Beige. |
+| How | How is the woman presenting herself in the image? | Confidently and selfassuredly. |
+| How | How does theimage evoke feelings in the viewer? | Desire and attraction. |

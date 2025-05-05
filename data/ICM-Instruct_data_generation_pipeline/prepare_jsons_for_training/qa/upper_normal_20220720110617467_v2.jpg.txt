@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image lying on a camping mattress? | Yes. |
+| Yes/No | Are the man and woman wearing matching shirts? | No. |
+| Yes/No | Is the tent set up on a grassy field? | Yes. |
+| Yes/No | Are there trees visible in the background of the image? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and peaceful? | Yes. |
+| What | What is the color of the man's shirt? | Black. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How are the man and woman positioned on the camping mattress? | They are both lying on their stomachs, with their heads resting on their hands. |
+| What | What is the setting of the image, based on the background elements visible in the image? | The setting of the image is a natural, outdoor environment, with a grassy field and trees visible in the background. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a blue face mask? | Yes. |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Does the image provide any details about the woman's attire other than the bra and face mask? | No. |
+| Yes/No | Is the woman's environment visible in the image? | No. |
+| Yes/No | Does the image suggest a sense of intimacy and vulnerability? | Yes. |
+| What | What color is the woman's bra? | White. |
+| What | What color is the woman's face mask? | Blue. |
+| What | In what way is the woman removing her clothes? | She is taking off her clothes with her hands on her head. |
+| Yes/No | Can you describe the contrasting visual effect created by the white bra and blue face mask? | The contrast between the white bra and blue face mask creates a striking visual effect, which can be perceived as attractive. |

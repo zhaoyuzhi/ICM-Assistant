@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Are the woman's clothes soaked? | Yes. |
+| Yes/No | Does the image have a sensual and alluring atmosphere? | Yes. |
+| What | What is the woman's attire in the image? | A white blouse. |
+| What | What is the background of the image? | A beach. |
+| How | How is the woman posing in the image? | With her hand on her hip. |
+| How | How does the wind affect the woman's hair in the image? | It is flowing in the wind. |

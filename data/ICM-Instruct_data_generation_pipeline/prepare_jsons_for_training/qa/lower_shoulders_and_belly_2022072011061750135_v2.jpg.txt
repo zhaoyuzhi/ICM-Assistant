@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing leggings? | Yes. |
+| Yes/No | Are the leggings blue and gray? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Is the background of the image a blue wall? | Yes. |
+| What | What is the color of the stool? | Black. |
+| What | What is the color of the wall in the background? | Blue. |
+| How | How is the person's posture? | Confident. |
+| How | How does the image create a sense of allure and intrigue? | The person's pose and the exposure of their belly create a sense of allure and intrigue. |

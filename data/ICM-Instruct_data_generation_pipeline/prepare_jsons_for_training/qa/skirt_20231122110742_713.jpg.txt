@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of a lightweight fabric? | Yes. |
+| Yes/No | Is the woman lifting the skirt of her dress? | Yes. |
+| Yes/No | Are the woman's thighs and knees visible in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Is there a large window in the background of the image? | Yes. |
+| What | What is the woman lifting the skirt of her dress revealing? | Her thighs and knees. |
+| What | What is the mood of the image? | Sensual and inviting. |
+| How | How is the woman's pose in the image? | Carefree and confident. |
+| How | How does the lightweight fabric of the dress contribute to the overall atmosphere of the image? | It adds to the overall sensual and alluring atmosphere. |

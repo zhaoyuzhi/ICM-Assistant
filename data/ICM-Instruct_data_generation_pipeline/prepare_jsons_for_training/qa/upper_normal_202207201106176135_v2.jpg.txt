@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image holding a flower? | Yes. |
+| Yes/No | Is the flower yellow? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Is the image set in a field of yellow flowers? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the woman holding in her hand? | A yellow flower. |
+| What | What is the atmosphere of the image? | Peaceful and serene. |
+| How | How is the woman interacting with the environment? | She is holding a yellow flower and appears to be smiling. |
+| How | How would you describe the overall mood of the image? | Peaceful and serene. |

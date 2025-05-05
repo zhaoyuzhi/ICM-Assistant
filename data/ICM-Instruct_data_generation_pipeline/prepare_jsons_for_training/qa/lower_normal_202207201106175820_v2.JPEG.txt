@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing oversized pants? | Yes. |
+| Yes/No | Are the pants a dark green color? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| Yes/No | Is the focus of the image on the person's clothing rather than their body? | Yes. |
+| Yes/No | Does the low exposure level of the person in the image contribute to a non-sexy atmosphere? | Yes. |
+| What | What is the color of the person's shirt? | Black. |
+| What | What is the overall atmosphere of the image? | Casual, comfortable, and nonsexy. |
+| How | How do the oversized pants contribute to the image's non-sexy atmosphere? | They conceal the person's body shape and draw attention to the clothing rather than the person's figure. |
+| How | How does the low exposure level of the person in the image contribute to the non-sexy atmosphere? | It minimizes the visibility of the person's body and emphasizes the clothing, creating a more modest and less provocative image. |

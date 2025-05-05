@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing denim shorts? | Yes. |
+| Yes/No | Is the person's boot black? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Does the image evoke a sense of desire and fascination? | Yes. |
+| What | What color are the person's shorts? | Denim. |
+| What | What is the length of the person's boot? | Kneehigh. |
+| How | How are the person's arms positioned? | Relaxed at their sides. |
+| How | How are the person's legs positioned? | Slightly apart. |

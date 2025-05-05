@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are they wearing gray shorts? | Yes. |
+| Yes/No | Are they putting on white stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Does the image portray a sense of vulnerability? | Yes. |
+| Yes/No | Is the person sitting on a bed? | Yes. |
+| What | What is the person in the image putting on? | White stockings. |
+| What | What is the overall atmosphere of the image? | Intimate and personal. |
+| How | How are the person's legs positioned? | Bent at the knees. |
+| How | How does the image evoke a sense of allure and sensuality? | Through the portrayal of a private moment, the association of stockings with sensuality, and the intimate atmosphere created by the setting and the act of getting dressed. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are they wearing gray shorts? | Yes. |
+| Yes/No | Are they putting on white stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the person in the image putting on? | White stockings. |
+| What | What is the color of the person's shirt? | Black. |
+| How | How are the person's legs positioned in the image? | Bent at the knees. |
+| What | What does the image suggest about the setting? | Private and relaxed. |

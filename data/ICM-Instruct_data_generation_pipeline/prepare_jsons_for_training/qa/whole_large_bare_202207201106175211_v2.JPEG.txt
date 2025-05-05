@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman standing in front of a white wall? | Yes. |
+| Yes/No | Is the woman holding a drink in her hand? | Yes. |
+| Yes/No | Is the woman's hair blowing in the wind? | Yes. |
+| Yes/No | Does the image have a high exposure level? | Yes. |
+| Yes/No | Is the woman wearing any clothing covering her torso or lower body? | No. |
+| What | What is the woman wearing on her top? | A colorful bikini top. |
+| What | What is the woman's hair style? | Blowing in the wind. |
+| How | How is the woman standing in the image? | Standing in front of a white wall. |
+| How | How is the wind affecting the woman's hair? | It is blowing her hair. |

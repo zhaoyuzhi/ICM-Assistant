@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman's hair blonde? | Yes. |
+| Yes/No | Are her eyes open? | No. |
+| Yes/No | Is she smiling? | No. |
+| Yes/No | Is she facing the camera? | Yes. |
+| Yes/No | Is there a background in the image? | No. |
+| Yes/No | Is she wearing any jewelry? | No. |
+| What | What is the woman's facial expression? | Pouting/kissing face. |
+| What | What is the atmosphere of the image? | Seductive/alluring. |
+| How | How are her lips positioned? | Puckered. |
+| How | How does the close-up view of the image emphasize her features? | It emphasizes her facial expression and invitingness. |

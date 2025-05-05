@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman standing? | Yes. |
+| Yes/No | Is the background white? | Yes. |
+| Yes/No | Is the woman holding a black purse? | Yes. |
+| Yes/No | Is the woman wearing a black and white polka dot skirt? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Does the image contain explicit content? | No. |
+| What | What color is the woman's skirt? | Black and white. |
+| What | What is the woman holding in her hand? | A black purse. |
+| How | How is the woman standing? | Upright. |
+| How | How does the image suggest a professional or formal setting? | Through the woman's modest attire and posture. |

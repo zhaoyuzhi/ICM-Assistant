@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying down? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the person's lower body and feet exposed? | Yes. |
+| Yes/No | Is the bed covered with a floral pattern? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the person lying on? | A floral blanket. |
+| What | What is the pattern on the bed and blanket? | Floral. |
+| How | How does the image evoke feelings? | It evokes feelings of desire and longing. |
+| How | How does the floral pattern contribute to the atmosphere? | It adds a touch of warmth and coziness, enhancing the overall intimate and sensual atmosphere. |

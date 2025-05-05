@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman's hair dark? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Does the woman have a confident facial expression? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the image flirtatious? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the woman's facial expression? | Confident and inviting. |
+| How | How is the woman's tongue sticking out? | Playfully and flirtatiously. |
+| How | How does the black dress contribute to the image's sensuality? | It adds a sense of sophistication and elegance. |

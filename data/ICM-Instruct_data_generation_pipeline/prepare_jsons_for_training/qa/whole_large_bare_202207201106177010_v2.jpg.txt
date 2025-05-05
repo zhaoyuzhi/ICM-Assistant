@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the wall in the background white? | Yes. |
+| Yes/No | Is the couch in the background blue? | Yes. |
+| Yes/No | Are the woman's arms crossed in front of her body? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color is the woman's bra? | Beige. |
+| What | What color is the woman's underwear? | Beige. |
+| How | How is the woman's pose in the image? | Confident and alluring. |
+| What | What atmosphere does the image create? | Sensual and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Is the woman in the image sitting or standing? | Standing. |
+| Yes/No | Is the woman in the image indoors or outdoors? | Indoors. |
+| What | What color is the woman's bra? | Pink. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| How | How does the woman's pose in the image contribute to its overall atmosphere? | The woman's confident pose enhances the overall atmosphere of the image, making it a captivating and seductive portrait. |
+| How | How does the exposure of the woman's upper body contribute to the image's impact? | The large area of her upper body exposed adds a sense of intimacy and allure to the image. |

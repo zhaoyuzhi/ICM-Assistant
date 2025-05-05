@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink shirt? | Yes. |
+| Yes/No | Is the woman in the image standing in a room with a wooden floor? | Yes. |
+| Yes/No | Is the woman in the image posing with her left hand on her hip? | Yes. |
+| Yes/No | Is the woman in the image wearing gray shorts? | Yes. |
+| Yes/No | Does the woman in the image have a white design on her shirt? | Yes. |
+| Yes/No | Is the word "SHILL" written on the woman's shirt in black cursive letters? | Yes. |
+| What | What is the color of the woman's shirt? | Pink. |
+| What | What is the woman's pose in the image? | Relaxed, with her left hand on her hip and her right hand hanging loosely at her side. |
+| How | How is the woman's outfit stylish? | The woman's outfit is stylish because it includes a pink shirt and gray shorts, which are casual yet stylish, and the white design on her shirt adds a touch of uniqueness to her look. |
+| How | How does the woman's pose exude confidence and allure? | The woman's pose exudes confidence and allure because she is standing with her left hand on her hip and her right hand hanging loosely at her side, which creates an atmosphere of allure and confidence. |

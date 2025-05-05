@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a brown top? | Yes. |
+| Yes/No | Does the image reveal the woman's legs? | Yes. |
+| Yes/No | Is the woman holding a small purse in her hand? | Yes. |
+| Yes/No | Does the image suggest the woman is confident? | Yes. |
+| Yes/No | Does the image suggest the woman is sexually attractive? | Yes. |
+| What | What is the woman holding in her hand? | A small purse. |
+| What | What color is the woman's top? | Brown. |
+| How | How is the woman standing in the image? | With her legs crossed. |
+| How | How does the woman hold her purse? | The woman holds her purse with her hand. |

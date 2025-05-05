@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image wearing a blue dress? | Yes. |
+| Yes/No | Is the girl's hair styled in a bun? | Yes. |
+| Yes/No | Is the girl wearing red lipstick? | Yes. |
+| Yes/No | Is the background of the image a gradient of blue and purple? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the girl's pose in the image? | She is striking a pose with her left hand on her hip and her right hand on her thigh. |
+| What | What is the girl's outfit in the image? | She is wearing a blue dress with a red lipstick. |
+| How | How is the girl's hair styled in the image? | Her hair is styled in a bun. |
+| How | How does the low exposure level contribute to the image's atmosphere? | The low exposure level contributes to a soft and diffused appearance, which makes the image appear less sexy and more modest. |

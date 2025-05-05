@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person have a pocket on the right side of their leggings? | Yes. |
+| What | What color are the leggings? | Blue. |
+| What | What is the material of the leggings? | Stretchy material. |
+| How | How are the leggings fitting the person's body? | Formfitting. |
+| How | How is the person looking at the camera? | Directly. |

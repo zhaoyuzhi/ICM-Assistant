@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the shorts ripped at the knees? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the person looking downwards? | Yes. |
+| Yes/No | Are there yellow flowers in the background? | Yes. |
+| What | What color are the flowers in the background? | Yellow. |
+| What | What is the person's gender? | Cannot be determined from the description. |
+| How | How are the person's shorts ripped? | At the knees. |
+| How | How does the person's pose make the image sexy? | The pose highlights the person's legs and creates a sense of intimacy and allure. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a green shirt? | Yes. |
+| Yes/No | Are the man's shorts khaki? | Yes. |
+| Yes/No | Is the man's pose relaxed and confident? | Yes. |
+| Yes/No | Is the image intended to be provocative or suggestive? | No. |
+| Yes/No | Does the man's attire or pose suggest any intimate or sexual activity? | No. |
+| Yes/No | Is the focus of the image on the man's body or potential sexual content? | No. |
+| What | What is the color of the man's shirt? | Green. |
+| What | What is the man's pose in the image? | Hands on hips. |
+| How | How is the man dressed in the image? | Casually. |
+| How | How does the low exposure level of the image reinforce the appropriateness of the image? | It emphasizes the man's casual attire and pose rather than his body or any potential sexual content. |
+| Yes/No | Is the man in the image wearing a green shirt? | Yes. |
+| Yes/No | Are the man's shorts khaki? | Yes. |
+| Yes/No | Is the man displaying any provocative or suggestive poses? | No. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's body fully visible in the image? | No. |
+| What | What color is the man's shirt? | Green. |
+| What | What type of pants is the man wearing? | Khaki shorts. |
+| How | How is the man standing in the image? | With his hands on his hips. |
+| What | What is the overall atmosphere of the image? | Casual and neutral. |

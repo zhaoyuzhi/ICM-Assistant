@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Is the wall in the background white? | Yes. |
+| Yes/No | Are the sneakers black? | Yes. |
+| Yes/No | Is the floor wooden? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual? | Yes. |
+| Yes/No | Does the image feature a confident and sexy demeanor? | Yes. |
+| What | What color are the leggings? | Black with a gray stripe. |
+| What | What type of shoes is the person wearing? | Black sneakers. |
+| How | How would you describe the person's pose? | Confident and alluring. |
+| What | What emotion does the image evoke? | Sexiness and allure. |

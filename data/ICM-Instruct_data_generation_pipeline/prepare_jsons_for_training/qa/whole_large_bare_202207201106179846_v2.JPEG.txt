@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the bikini standing in front of a railing? | Yes. |
+| Yes/No | Is the woman in the hat standing behind the woman in the bikini? | Yes. |
+| Yes/No | Are the other women in the image also posing for the photo? | Yes. |
+| Yes/No | Is the image sexy due to the exposure of the woman in the bikini? | Yes. |
+| Yes/No | Does the woman in the bikini have her hand on the railing? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the attire of the woman in the bikini? | A bikini. |
+| What | What is the attire of the woman in the hat? | A hat. |
+| How | How is the woman in the bikini standing in front of the railing? | She is standing with her hand on the railing. |
+| How | How are the other women posing for the photo? | They are posing in a way that creates a sense of camaraderie and shared allure. |

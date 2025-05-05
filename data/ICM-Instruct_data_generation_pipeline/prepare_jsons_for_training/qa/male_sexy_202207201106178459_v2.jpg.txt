@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image topless? | Yes. |
+| Yes/No | Is the man wearing a black tank top? | Yes. |
+| Yes/No | Is the man wearing black shorts? | Yes. |
+| Yes/No | Is the man in a gym setting? | Yes. |
+| Yes/No | Is the man lifting weights? | Yes. |
+| Yes/No | Does the image depict the man in a sexy manner? | Yes. |
+| What | What is the man lifting weights with? | A weight machine. |
+| What | What is the overall atmosphere of the image? | Athletic and intense. |
+| How | How is the man's physique depicted in the image? | He is in good shape and possibly working on his physique. |
+| How | How does the image suggest that the man is engaged in a workout? | He is lifting weights and the gym setting implies he is working out. |

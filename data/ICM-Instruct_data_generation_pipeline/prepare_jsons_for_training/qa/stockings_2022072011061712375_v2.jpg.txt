@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing high heels? | Yes. |
+| Yes/No | Is the dresser in the image made of wood? | Yes. |
+| Yes/No | Does the dresser in the image have a floral pattern? | Yes. |
+| Yes/No | Is the woman in the image standing in front of the dresser? | Yes. |
+| Yes/No | Is the woman in the image resting her right hand on the dresser? | Yes. |
+| What | What color are the stockings the woman is wearing? | White. |
+| What | What color are the high heels the woman is wearing? | Black. |
+| What | What is the material of the dresser in the image? | Wood. |

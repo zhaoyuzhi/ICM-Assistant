@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing fishnet stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing black heels? | Yes. |
+| Yes/No | Are the stockings sheer? | Yes. |
+| Yes/No | Do the heels have a strap around the ankle? | Yes. |
+| Yes/No | Is the woman looking down at the floor? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman's attire in the image? | Fishnet stockings and black heels. |
+| What | What is the woman's pose in the image? | Legs crossed. |
+| How | How do the fishnet stockings contribute to the image's sexiness? | They are sheer and cover the woman's legs up to her knees, creating a sense of sensuality and allure. |
+| How | How do the black heels contribute to the image's sexiness? | They add an element of sophistication and glamour to the woman's overall appearance, enhancing the sexiness of the image. |

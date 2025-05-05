@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying down? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the person's head resting on their hand? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image portray a sense of relaxation and indulgence? | Yes. |
+| What | What is the person's body position in the image? | The person is lying in a bathtub with their head resting on their hand. |
+| What | What is the dominant color of the person's shirt? | White. |
+| How | How is the person's body situated in the bathtub? | The person is lying down in the bathtub with their body submerged in water. |
+| How | How does the image evoke feelings of comfort and luxury? | The image evokes feelings of comfort and luxury through the depiction of a relaxed and indulgent atmosphere, with the person enjoying a leisurely bath in a clean and wellmaintained bathtub. The soaked clothes and the act of lying in the bathtub also contribute to these feelings. |

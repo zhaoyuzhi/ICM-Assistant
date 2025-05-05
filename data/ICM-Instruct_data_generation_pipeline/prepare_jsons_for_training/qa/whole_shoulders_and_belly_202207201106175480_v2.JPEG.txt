@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman holding a shopping bag? | Yes. |
+| Yes/No | Is the woman wearing a purse? | Yes. |
+| Yes/No | Is the blouse ruffled? | Yes. |
+| Yes/No | Are the jeans blue? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What is the woman holding in her hand? | A shopping bag. |
+| How | How is the woman's midriff exposed? | The woman is wearing a strapless blouse. |
+| What | What does the woman's confident stride and the casual setting of the street contribute to? | The overall sexy atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a silver chain necklace? | Yes. |
+| Yes/No | Is the woman in the image leaning over a white surface? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the woman's pose and the low angle of the shot create a sense of intimacy and allure? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| What | What is the woman in the image wearing? | A black bra and a silver chain necklace. |
+| What | What is the woman in the image leaning over? | A white surface. |
+| How | How does the woman's pose and the low angle of the shot create a sense of intimacy and allure? | The woman's pose and the low angle of the shot create a sense of intimacy and allure by emphasizing the woman's back and the chain necklace, making the image feel more personal and provocative. |
+| How | How does the image suggest a sense of confidence and allure? | The image suggests a sense of confidence and allure through the woman's attire and pose, which convey a sense of selfassurance and sensuality. The low angle shot further enhances this sense of confidence and allure, making the image feel more dynamic and seductive. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a gray jacket? | Yes. |
+| Yes/No | Is the man's shirt white? | Yes. |
+| Yes/No | Are the man's pants black? | Yes. |
+| Yes/No | Is the man wearing a watch on his left wrist? | Yes. |
+| Yes/No | Is the car behind the man black and silver? | Yes. |
+| Yes/No | Does the image depict any intimate or provocative content? | No. |
+| What | What is the color of the man's jacket? | Gray. |
+| What | What is the color of the car behind the man? | Black and silver. |
+| How | How is the man's attire in the image? | Casual. |
+| How | How is the exposure level of the image? | Low. |

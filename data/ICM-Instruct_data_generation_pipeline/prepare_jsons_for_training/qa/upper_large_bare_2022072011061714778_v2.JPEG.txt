@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing black underwear? | Yes. |
+| Yes/No | Is the cardigan the woman is wearing open? | Yes. |
+| Yes/No | Does the image feature a white couch in the background? | Yes. |
+| Yes/No | Are the walls in the background white? | Yes. |
+| Yes/No | Does the overall atmosphere of the image convey a sense of sensuality and provocation? | Yes. |
+| What | What color is the cardigan the woman is wearing? | Black. |
+| What | What is the color of the walls and couch in the background? | White. |
+| How | How is the woman's torso exposed in the image? | The cardigan is open. |
+| How | How does the contrast between the woman's clothing and the background contribute to the overall atmosphere of the image? | The dark clothing against the white background emphasizes the woman's presence and creates a striking visual contrast, adding to the sensual and provocative atmosphere. |

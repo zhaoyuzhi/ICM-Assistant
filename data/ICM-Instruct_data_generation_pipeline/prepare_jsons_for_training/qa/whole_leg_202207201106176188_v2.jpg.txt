@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have the word "Calvin Klein" written on it? | Yes. |
+| Yes/No | Is the woman standing against a plain white background? | Yes. |
+| Yes/No | Are the shorts the woman is wearing also from Calvin Klein? | Yes. |
+| Yes/No | Are the shorts revealing? | Yes. |
+| Yes/No | Is the woman's pose confident and relaxed? | Yes. |
+| What | What is the woman's gaze directed at? | The camera. |
+| What | What is the overall atmosphere of the image? | Sexy. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | Her confident and relaxed pose, with her hands resting on her hips, adds to the sexy atmosphere. |
+| How | How does the background contribute to the overall atmosphere of the image? | The plain white background puts the focus entirely on the woman and highlights her figure, contributing to the sexy atmosphere. |

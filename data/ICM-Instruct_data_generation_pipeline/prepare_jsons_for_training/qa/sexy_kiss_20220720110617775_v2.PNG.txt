@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| Yes/No | Is the background of the image dark and blurred? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and passion between the couple? | Yes. |
+| What | What is the color of the man's shirt? | Black. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How is the woman leaning into the man's kiss? | She is leaning back and tilting her head. |
+| How | How does the dark background enhance the intimacy of the scene? | It creates a sense of privacy and intensity. |

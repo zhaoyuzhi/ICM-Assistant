@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the background of the image a gradient of red and blue? | Yes. |
+| Yes/No | Is the woman holding a phone to her ear? | Yes. |
+| Yes/No | Is the woman wearing earrings? | Yes. |
+| Yes/No | Is the woman wearing a pearl necklace? | Yes. |
+| What | What is the woman holding in her hand? | A phone. |
+| What | What is the pattern on the woman's dress? | Floral. |
+| How | How is the woman's mood in the image? | Happy and cheerful. |
+| How | How would you describe the overall atmosphere of the image? | Pleasant and innocent. |

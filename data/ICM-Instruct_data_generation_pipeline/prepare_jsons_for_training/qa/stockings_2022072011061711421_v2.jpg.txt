@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person resting their chin on their hand? | Yes. |
+| Yes/No | Is the bed covered with a white sheet? | Yes. |
+| Yes/No | Does the image create a sense of relaxation? | Yes. |
+| Yes/No | Does the image create a sense of confidence? | Yes. |
+| What | What is the color of the person's dress? | Red. |
+| What | What is the color of the person's stockings? | Black. |
+| How | How are the person's legs positioned? | Crossed. |
+| How | How is the person resting their chin? | On their hand. |

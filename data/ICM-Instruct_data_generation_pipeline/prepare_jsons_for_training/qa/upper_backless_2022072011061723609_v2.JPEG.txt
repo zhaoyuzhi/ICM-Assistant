@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue tank top? | Yes. |
+| Yes/No | Is the person in the image wearing a pink bra? | Yes. |
+| Yes/No | Does the tank top have a unique design with a cutout in the back? | Yes. |
+| Yes/No | Are the person's arms placed on their hips? | Yes. |
+| Yes/No | Is the person looking at their phone? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What color is the tank top? | Blue. |
+| What | What is the person's pose in the image? | Arms on hips. |
+| How | How does the person's attire add an element of intimacy to the image? | The cutout in the tank top reveals a hint of skin and the pink bra. |
+| How | How does the person's pose suggest confidence and self-assuredness? | With their arms on their hips, the person exudes a sense of confidence and selfassuredness. |

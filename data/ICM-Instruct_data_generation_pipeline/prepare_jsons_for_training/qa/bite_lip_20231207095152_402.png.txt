@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing earphones? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the woman smiling? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the woman have short hair? | No. |
+| Yes/No | Is the woman's facial expression relaxed? | No. |
+| What | What is the woman biting her lip for? | To convey a sense of confidence and allure. |
+| What | What does the image suggest the woman might be listening to? | Something intently or engaging in a private conversation. |
+| How | How does the woman's facial expression contribute to the overall atmosphere of the image? | It adds a sense of seriousness and contemplation. |
+| How | How does the image portray the woman's confidence? | Through her serious expression and biting her lip. |

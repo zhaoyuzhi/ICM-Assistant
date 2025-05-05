@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image wearing a pink sweater? | Yes. |
+| Yes/No | Does the bookshelf in the background contain books of various colors and sizes? | Yes. |
+| Yes/No | Is the girl's eyes closed in the image? | Yes. |
+| Yes/No | Is the image revealing any explicit or inappropriate content? | No. |
+| Yes/No | Does the image suggest a sense of tranquility and innocence? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and peaceful? | Yes. |
+| What | What is the girl wearing in the image? | A pink sweater adorned with a green leaf pattern. |
+| What | What is in the background of the image? | A bookshelf filled with books of various colors and sizes. |
+| How | How does the exposure level of the image describe the girl's expression? | The low exposure level suggests a sense of tranquility and innocence. |
+| How | How does the bookshelf in the background add to the setting of the image? | It adds to the academic and peaceful setting of the image. |

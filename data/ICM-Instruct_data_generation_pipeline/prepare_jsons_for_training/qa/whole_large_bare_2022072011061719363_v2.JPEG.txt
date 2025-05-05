@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top red and white? | Yes. |
+| Yes/No | Is the bikini bottom black and white? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| Yes/No | Are the woman's hands on her knees in the image? | Yes. |
+| Yes/No | Is the rock on which the woman is sitting gray? | Yes. |
+| What | What is the color of the bikini top? | Red and white. |
+| What | What is the color of the bikini bottom? | Black and white. |
+| How | How is the woman posing in the image? | With her legs crossed and hands on her knees. |
+| How | How does the rock on which the woman is sitting contrast with the rest of the image? | It provides a natural and contrasting element to the scene, creating a visually appealing contrast between the woman's attire and the surrounding environment. |

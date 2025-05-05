@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra blue? | Yes. |
+| Yes/No | Does the bra have a floral pattern? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture the woman from the waist up? | Yes. |
+| What | What is the color of the bra? | Blue. |
+| What | What is the pattern on the bra? | Floral. |
+| How | How is the woman putting on the bra? | She is adjusting the straps. |
+| What | What does the image evoke? | A sense of intimacy and vulnerability, and a strong visual impact. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra blue? | Yes. |
+| Yes/No | Does the bra have a floral pattern? | Yes. |
+| Yes/No | Is the woman putting on the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture the woman from the waist up? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a blue floral bra. |
+| What | What color is the bra that the woman is wearing? | Blue. |
+| How | How does the woman's attire and actions create a sense of intimacy and vulnerability? | The woman's attire, a blue floral bra, adds a touch of elegance and allure to her appearance, while her actions of adjusting the straps create a sense of intimacy and vulnerability. |
+| How | How does the image evoke a strong visual impact? | The combination of the woman's attire, her actions, and the focus on her torso and chest area create a strong visual impact and a feeling of allure, making the image sexy. |

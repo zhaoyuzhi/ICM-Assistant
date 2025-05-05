@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's eyes open? | No. |
+| Yes/No | Is the person's head tilted to the side? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Does the image contain any provocative or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the person's facial expression? | The person's facial expression is not clearly visible due to the low exposure level. |
+| What | What is the color of the person's shirt? | The person is wearing a white shirt. |
+| How | How is the person's head positioned in the image? | The person's head is tilted to the side. |
+| How | How would you describe the exposure level of the image? | The exposure level of the image is very low, which means that the image is not welllit and the details are not clear. |

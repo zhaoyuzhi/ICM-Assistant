@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding flowers? | Yes. |
+| Yes/No | Is the woman wearing a denim skirt? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Does the skirt have pockets? | Yes. |
+| Yes/No | Is the woman wearing a striped shirt? | Yes. |
+| Yes/No | Is the shirt tucked into the skirt? | Yes. |
+| What | What is the woman holding in her hand? | Yellow flowers. |
+| What | What is the woman wearing on her lower body? | A highwaisted denim skirt. |
+| How | How is the woman standing on the dock? | She is standing with her feet shoulderwidth apart, with one foot slightly in front of the other. |
+| How | How does the image create an atmosphere of serenity and peacefulness? | The image creates an atmosphere of serenity and peacefulness through the use of soft colors, natural lighting, and a tranquil setting, with the woman standing on the dock surrounded by water. |

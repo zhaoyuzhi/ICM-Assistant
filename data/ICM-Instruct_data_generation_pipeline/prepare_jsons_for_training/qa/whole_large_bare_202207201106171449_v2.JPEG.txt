@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image holding a volleyball? | Yes. |
+| Yes/No | Is the woman in the image in a crouched position? | Yes. |
+| Yes/No | Is the image set in a beach setting? | Yes. |
+| Yes/No | Is the woman in the image actively engaged in a sport? | Yes. |
+| Yes/No | Does the image have a sexy tone? | Yes. |
+| What | What is the woman in the image holding in her right hand? | A volleyball. |
+| What | What is the woman in the image wearing on her bottom half? | White shorts. |
+| How | How is the woman in the image positioned? | In a crouched position. |
+| How | How does the image make you feel? | Excited and anticipatory. |

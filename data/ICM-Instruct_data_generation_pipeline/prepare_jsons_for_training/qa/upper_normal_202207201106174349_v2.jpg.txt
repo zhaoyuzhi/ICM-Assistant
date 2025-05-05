@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image using a phone? | Yes. |
+| Yes/No | Is the woman dressed in a white blouse with ruffled sleeves? | Yes. |
+| Yes/No | Is the woman wearing a black necklace? | Yes. |
+| Yes/No | Is the desk in front of the woman equipped with a laptop and a lamp? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman using her phone for? | It is not possible to determine the exact purpose of the woman's phone use based on the image alone, but it could be for workrelated tasks or personal activities. |
+| What | What is the purpose of the lamp on the desk? | The lamp is likely used to illuminate the workspace and provide adequate lighting for the woman to see while working on her laptop. |
+| How | How is the woman's phone being used in the image? | The woman is engrossed in her phone, suggesting that she is actively using it for some purpose. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | The low exposure level helps create a professional and focused atmosphere, emphasizing the workrelated setting and the woman's engagement with her phone and computer. |

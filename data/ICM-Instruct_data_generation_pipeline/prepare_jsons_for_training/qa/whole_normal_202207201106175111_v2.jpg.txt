@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image wearing a yellow dress? | Yes. |
+| Yes/No | Is the girl holding an orange in her right hand? | Yes. |
+| Yes/No | Is the girl holding a banana in her left hand? | Yes. |
+| Yes/No | Is the background of the image a balcony with a railing and a palm tree? | Yes. |
+| Yes/No | Does the image feature a sexy or provocative atmosphere? | No. |
+| Yes/No | Is the girl looking down at the banana? | Yes. |
+| What | What is the girl holding in her right hand? | An orange. |
+| What | What is the girl holding in her left hand? | A banana. |
+| How | How is the girl holding the banana? | She is holding it with her left hand. |
+| How | How is the girl holding the orange? | She is holding it with her right hand. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress have a collared neckline? | Yes. |
+| Yes/No | Are there buttons down the front of the dress? | Yes. |
+| Yes/No | Is the woman carrying a purse? | Yes. |
+| Yes/No | Is the purse brown? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What is the woman's pose in the image? | Relaxed. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| How | How is the woman's dress cinched at the waist? | With a belt. |
+| How | How does the image focus on the woman's outfit and accessories? | By emphasizing the details of the denim dress and purse rather than the woman's body or personal appearance. |

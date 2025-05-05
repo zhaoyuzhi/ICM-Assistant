@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless shirt? | Yes. |
+| Yes/No | Are her arms on her head? | Yes. |
+| Yes/No | Is she leaning against a brick wall? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's outfit revealing? | Yes. |
+| Yes/No | Does the pose add to the overall sexy atmosphere? | Yes. |
+| What | What color is the woman's shirt? | Orange. |
+| What | What color are her jeans? | Blue. |
+| How | How is the woman leaning against the brick wall? | With her arms on her head. |
+| What | What does the brick wall add to the image? | A sense of confidence and allure, a rustic and urban feel. |

@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing green shorts? | Yes. |
+| Yes/No | Does the person's shirt match their shorts? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Does the person's attire reveal any skin or body parts? | No. |
+| Yes/No | Is the image focused on the person's outfit and overall appearance? | Yes. |
+| What | What color are the person's shorts? | Green. |
+| What | What is the person's shirt color? | Green. |
+| How | How does the low exposure level of the image contribute to the lack of sensuality? | It does not focus on the person's body or facial features, emphasizing the person's outfit and overall appearance instead. |
+| Yes/No | Is the person in the image wearing green shorts? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are there two pockets on the front of the shorts? | Yes. |
+| Yes/No | Is the person wearing a green shirt that matches the shorts? | Yes. |
+| Yes/No | Does the image contain any inappropriate or offensive elements? | No. |
+| What | What color are the shorts in the image? | Green. |
+| What | What is the focus of the image? | The person's clothing and overall appearance. |
+| How | How does the low exposure level of the image affect the viewer's attention? | It focuses the viewer's attention on the clothing and overall appearance, rather than on any explicit or suggestive content. |

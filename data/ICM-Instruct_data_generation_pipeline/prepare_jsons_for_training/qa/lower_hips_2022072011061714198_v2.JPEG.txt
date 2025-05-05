@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Is the person in the image wearing sneakers? | Yes. |
+| Yes/No | Does the person in the image have their legs spread apart? | Yes. |
+| Yes/No | Is the person in the image looking over their shoulder? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the image a celebration of the person's body and confidence? | Yes. |
+| What | What color are the leggings the person is wearing? | Beige. |
+| What | What type of shoes is the person wearing? | White sneakers. |
+| How | How is the person posing in the image? | With their legs spread apart and their hands on their hips. |
+| What | What does the person's pose and the way they are looking over their shoulder create? | A sense of allure and intrigue. |

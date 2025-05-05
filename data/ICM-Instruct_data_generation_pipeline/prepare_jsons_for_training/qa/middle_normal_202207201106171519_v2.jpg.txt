@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of light blue sweatpants? | Yes. |
+| Yes/No | Does the sweatpants have a zipper pocket on the right side? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and everyday? | Yes. |
+| What | What is the color of the sweatpants? | Light blue. |
+| What | What is the focus of the image? | The person's attire. |
+| How | How is the person dressed in the image? | Casually. |
+| How | How does the image evoke a sense of sexuality? | It doesn't evoke a sense of sexuality. |
+| Yes/No | Is the person in the image wearing light blue sweatpants? | Yes. |
+| Yes/No | Is the person standing in a public space? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image calm and ordinary? | Yes. |
+| What | What is the color of the person's sweatpants? | Light blue. |
+| What | What is the background of the image? | Brick sidewalk. |
+| How | How is the person's attire in the image? | Casual. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It emphasizes the focus on the person's clothing and the public space, rather than on any explicit or suggestive content. |

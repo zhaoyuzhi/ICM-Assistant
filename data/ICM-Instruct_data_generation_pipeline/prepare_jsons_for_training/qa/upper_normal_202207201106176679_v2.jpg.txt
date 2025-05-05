@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the image appropriate for a professional setting? | Yes. |
+| Yes/No | Does the image feature a couch in the background? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image suggest a calm and relaxed environment? | Yes. |
+| What | What is the woman doing in the image? | Standing. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How is the woman's hair styled in the image? | Long. |
+| How | How would you describe the overall atmosphere of the image? | Nonsexual, professional, and relaxed. |

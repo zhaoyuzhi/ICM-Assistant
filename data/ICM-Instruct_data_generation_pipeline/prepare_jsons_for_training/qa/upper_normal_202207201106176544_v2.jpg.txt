@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit and tie? | Yes. |
+| Yes/No | Is the woman in the image dressed in a business suit? | Yes. |
+| Yes/No | Is the man sitting at a desk in an office setting? | Yes. |
+| Yes/No | Is the woman standing behind the man? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Does the image contain any elements that suggest a sexy or provocative atmosphere? | No. |
+| What | What is the man pointing to on the desk? | Cannot be determined due to low exposure level. |
+| What | What is the woman holding in her hand? | A folder. |
+| How | How is the overall atmosphere of the image? | Professional and formal. |
+| How | How does the low exposure level affect the image? | It emphasizes the professional nature of the scene and makes the details not clearly visible. |

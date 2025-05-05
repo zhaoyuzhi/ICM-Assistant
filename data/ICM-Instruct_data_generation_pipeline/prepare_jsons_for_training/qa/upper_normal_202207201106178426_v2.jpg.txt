@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image focused on the man's attire? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the man wearing in the image? | A gray tshirt with a rainbowcolored bear graphic. |
+| What | What is the man's posture in the image? | He is standing with his hands casually tucked into his pockets. |
+| How | How is the exposure level of the image? | Low. |
+| How | How does the focus of the image contribute to its overall atmosphere? | The focus on the man and his attire, rather than on his physical appearance, contributes to a nonsexy atmosphere. |

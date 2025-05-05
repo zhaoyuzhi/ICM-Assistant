@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a brown skirt? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the floor in the image made of wood? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black tights and black stockings. |
+| What | What is the atmosphere of the image? | Warm and alluring. |
+| How | How are the stockings being pulled up? | The person is pulling them up themselves. |
+| What | What emotion does the image evoke? | Intimacy and sensuality. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the floor made of wood? | Yes. |
+| Yes/No | Is the person wearing black tights? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image evoke feelings of intimacy? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person wearing with their black tights? | A brown skirt. |
+| How | How are the stockings being pulled up? | They are being pulled up the person's legs. |
+| What | What atmosphere does the combination of the person's attire and the wooden floor create? | A warm and alluring atmosphere. |

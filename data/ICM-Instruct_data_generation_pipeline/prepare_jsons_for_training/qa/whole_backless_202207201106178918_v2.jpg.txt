@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing away from the camera? | Yes. |
+| Yes/No | Is the dress red? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Is there a vase on a table in the room? | Yes. |
+| Yes/No | Is the woman's pose confident? | Yes. |
+| What | What color is the dress? | Red. |
+| What | What is the woman's pose in front of the mirror? | Confident. |
+| How | How does the dress expose the woman's back? | The dress has a low back and thin straps, which exposes a large area of the woman's back. |
+| How | How does the woman's pose in front of the mirror contribute to the image's overall atmosphere? | The woman's pose in front of the mirror highlights her figure and the dress's design, adding to the seductive and alluring atmosphere of the image. |

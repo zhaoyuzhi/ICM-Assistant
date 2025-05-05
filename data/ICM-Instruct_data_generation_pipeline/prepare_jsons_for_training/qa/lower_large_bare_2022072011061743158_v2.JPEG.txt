@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shoes? | No. |
+| Yes/No | Is the person in the image holding hands with someone? | Yes. |
+| Yes/No | Is the person in the image wearing blue shorts? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and connection between the people in it? | Yes. |
+| Yes/No | Does the image evoke feelings of leisure and freedom? | Yes. |
+| What | What is the person in the image wearing? | Blue shorts. |
+| What | What is the setting of the image? | A sandy beach. |
+| How | How is the person's lower body visible in the image? | The person is barefoot and their lower half is visible. |
+| How | How does the image create an atmosphere of relaxation and enjoyment? | The person's exposed lower body and the casual setting suggest a relaxed and casual atmosphere, and the fact that they are holding hands adds a sense of closeness and affection. |

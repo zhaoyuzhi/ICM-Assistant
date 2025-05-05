@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl the main subject of the image? | Yes. |
+| Yes/No | Is the girl wearing a purple sweater? | Yes. |
+| Yes/No | Is the girl wearing a pink skirt? | Yes. |
+| Yes/No | Does the girl have a ponytail? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the girl's sweater? | Purple. |
+| What | What is the girl's hairstyle? | Ponytail. |
+| How | How is the girl looking at the camera? | Directly. |
+| What | What is the overall atmosphere of the image? | Innocent and childlike. |

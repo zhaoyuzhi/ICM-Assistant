@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image exposing her belly? | Yes. |
+| Yes/No | Are the jeans tight-fitting? | Yes. |
+| Yes/No | Does the woman have a slim waistline? | Yes. |
+| Yes/No | Are the jeans cropped at the ankle? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What color is the woman's top? | White. |
+| How | How does the woman's outfit accentuate her legs? | The tightfitting jeans and cropped ankle length accentuate her legs. |
+| How | How does the green background complement the woman's outfit? | The green background provides a vibrant contrast to the blue jeans and white top, adding to the overall visual appeal of the image. |
+| Yes/No | Is the woman in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the woman's stomach exposed in the image? | Yes. |
+| Yes/No | Is the woman holding her pants open with her left hand? | Yes. |
+| Yes/No | Is the woman wearing a white shirt in the image? | Yes. |
+| Yes/No | Does the image have a sensual and provocative atmosphere? | Yes. |
+| Yes/No | Does the woman's pose and expression convey a sense of self-assuredness? | Yes. |
+| What | What color are the woman's jeans? | Dark blue. |
+| What | What is the woman wearing under her open jeans? | A white shirt. |
+| How | How is the woman holding her pants open? | With her left hand. |
+| What | What does the way the woman is holding her pants open suggest? | A sense of confidence and allure. |

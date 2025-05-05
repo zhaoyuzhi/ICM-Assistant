@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman sitting on a gray wall? | Yes. |
+| Yes/No | Are the woman's legs crossed? | Yes. |
+| Yes/No | Are the woman's arms resting on her knees? | Yes. |
+| Yes/No | Is the image sexy and alluring? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What is the woman's pose in the image? | Sitting with legs crossed and arms resting on knees. |
+| How | How is the woman's attire drawing attention to her body? | The woman's soaked and clinging blouse accentuates her curves. |
+| How | How does the gray wall in the background affect the image? | The gray wall provides a neutral backdrop that highlights the woman and her attire. |

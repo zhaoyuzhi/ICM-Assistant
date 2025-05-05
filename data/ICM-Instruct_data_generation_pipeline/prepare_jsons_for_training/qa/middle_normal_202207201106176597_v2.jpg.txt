@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white outfit? | Yes. |
+| Yes/No | Is the person's pose in the image neutral? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person wearing a silver bracelet? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the person's outfit include a white shirt and white pants? | Yes. |
+| What | What is the person's pose in the image? | The person's pose is neutral, with their arms resting at their sides. |
+| What | What color is the person's outfit in the image? | The person's outfit is white. |
+| How | How many objects are in the image? | There is one person in the image. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is simple and minimalistic. |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white outfit? | Yes. |
+| Yes/No | Does the woman have a silver bracelet on her left wrist? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman wearing on her feet? | The image doesn't provide enough information to answer this question. |
+| What | What is the woman's pose in the image? | The image doesn't provide enough information to answer this question. |
+| How | How does the plain background of the image affect the overall focus of the image? | The plain background puts the focus entirely on the woman and her outfit, emphasizing the subject rather than the background. |
+| How | How does the low exposure level of the image affect the overall atmosphere of the image? | The low exposure level adds a sense of mystery and professionalism to the image, emphasizing the subject and her attire rather than any provocative elements. |

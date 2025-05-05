@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are they standing on a road? | Yes. |
+| Yes/No | Is the background of the image desert-like? | Yes. |
+| Yes/No | Is the man wearing a white hoodie? | Yes. |
+| Yes/No | Does the woman have a white shirt on? | Yes. |
+| Yes/No | Is there a red logo on the man's hoodie? | Yes. |
+| What | What is the color of the logo on the man's hoodie? | Red. |
+| What | What is the overall atmosphere of the image? | Passion and intimacy. |
+| How | How does the desert-like background add to the image? | It adds a sense of adventure and mystery to the scene. |
+| How | How does the white clothing of the couple contrast with the background? | It creates a stark contrast against the darker tones of the background. |

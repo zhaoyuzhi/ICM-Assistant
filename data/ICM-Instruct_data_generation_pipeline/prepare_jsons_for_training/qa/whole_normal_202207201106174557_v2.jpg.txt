@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | Yes. |
+| Yes/No | Are the women smiling? | No. |
+| Yes/No | Is there any wildlife in the image? | No. |
+| Yes/No | Is the setting indoors? | No. |
+| Yes/No | Are the women holding flowers? | Yes. |
+| Yes/No | Is there any writing or text in the image? | No. |
+| What | What are the women holding in their baskets? | Flowers. |
+| What | What is the color of the woman's skirt on the left? | Purple. |
+| How | How are the women looking? | Lost in thought. |

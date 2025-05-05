@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Are her arms extended to the sides? | Yes. |
+| Yes/No | Is she wearing high heels? | Yes. |
+| Yes/No | Does the dress feature a floral pattern? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the woman's attire reveal her physical attributes? | No. |
+| What | What is the woman's pose in the image? | Poised and elegant. |
+| What | What does the floral pattern on the dress add to her overall look? | A touch of nature. |
+| How | How do the woman's pose and attire suggest confidence and grace? | They convey a sense of poise and elegance, rather than a focus on physical allure. |
+| How | How do the high heels contribute to her overall look? | They add an extra touch of sophistication. |

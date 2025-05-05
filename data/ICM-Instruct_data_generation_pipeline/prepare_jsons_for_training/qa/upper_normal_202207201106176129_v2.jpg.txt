@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have a phrase written on it? | Yes. |
+| Yes/No | Is the phrase "UNaffected" written on the t-shirt? | Yes. |
+| Yes/No | Is the woman wearing a gold necklace? | Yes. |
+| Yes/No | Are the woman's black pants a prominent feature in the image? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the overall atmosphere of the image? | Casual, not sexy. |
+| What | What is the focus of the image? | Her clothing, not her body or any provocative elements. |
+| How | How is the woman posing in the image? | Not suggestively or sexually. |
+| How | How does the image not contain any explicit or inappropriate content? | The woman's attire and pose are not revealing or suggestive, and there is no provocative context. |

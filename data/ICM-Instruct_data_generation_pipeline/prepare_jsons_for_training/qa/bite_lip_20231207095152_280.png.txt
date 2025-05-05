@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a person's face? | Yes. |
+| Yes/No | Is the person wearing red lipstick? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person biting their lower lip? | Yes. |
+| Yes/No | Do the person's teeth appear well-maintained? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color is the person's lipstick? | Red. |
+| What | What is the person's facial expression? | Confident and alluring. |
+| How | How are the person's lips positioned? | Slightly parted. |
+| How | How does the image capture the person's appearance and expression? | It highlights their lips and teeth, and showcases their confident and alluring expression. |

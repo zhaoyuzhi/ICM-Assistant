@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a floral patterned blouse? | Yes. |
+| Yes/No | Is the woman's skirt beige? | Yes. |
+| Yes/No | Does the woman have a beige purse? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image have a sexual or provocative atmosphere? | No. |
+| Yes/No | Does the woman's outfit reveal any explicit or suggestive elements? | No. |
+| What | What is the color of the woman's blouse? | White. |
+| What | What is the woman carrying in her hand? | A beige purse. |
+| How | How is the woman dressed in the image? | She is dressed in a white blouse and beige skirt. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is casual and everyday. |
+| Yes/No | Is the woman in the image wearing a floral patterned blouse? | Yes. |
+| Yes/No | Is the woman carrying a beige purse? | Yes. |
+| Yes/No | Is the woman's skirt beige? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire modest? | Yes. |
+| Yes/No | Does the image focus on the woman's physical appearance? | No. |
+| What | What is the woman carrying in her hand? | A beige purse. |
+| What | What is the woman wearing on her upper body? | A white blouse adorned with a floral pattern. |
+| How | How is the woman walking down the street? | In a relaxed manner. |
+| How | How does the low exposure level of the image emphasize the woman's clothing and actions? | It focuses on the woman's attire and her actions, rather than her physical appearance. |

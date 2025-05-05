@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image working out? | Yes. |
+| Yes/No | Is the man in the image at a gym? | Yes. |
+| How | Does the image showcase the man's physique and strength? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man have well-defined muscles? | Yes. |
+| What | What is the man lifting in the image? | Weights. |
+| What | What is the atmosphere of the image? | Intense and focused. |
+| How | How is the man's physique described in the image? | Muscular and welldefined. |
+| How | How does the gym setting emphasize the theme of fitness and strength? | It highlights the man's athleticism and dedication to exercise. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige sweater? | Yes. |
+| Yes/No | Are black boots being worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman in the image sitting on a wooden bench? | Yes. |
+| Yes/No | Is the dress high-waisted? | Yes. |
+| Yes/No | Does the dress have a slit up the front? | Yes. |
+| Yes/No | Is the woman's hand on her thigh? | Yes. |
+| What | What color is the sweater the woman is wearing? | Beige. |
+| What | What is the woman looking at? | Her hand. |
+| How | How is the woman's dress being lifted? | The woman is lifting her dress. |
+| How | How would you describe the atmosphere of the image? | Intimate and sensual. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Is the woman wearing a red jacket? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the woman's head resting on the man's shoulder? | Yes. |
+| Yes/No | Is the man's hand on the woman's back? | Yes. |
+| Yes/No | Are the man and woman looking at each other? | Yes. |
+| What | What color is the woman's jacket? | Red. |
+| What | What is the overall atmosphere of the image? | Warm, intimate, and passionate. |
+| How | How is the woman's head positioned in relation to the man's shoulder? | Resting. |
+| How | How does the red jacket of the woman contribute to the image? | Adds a vibrant and bold color, symbolizing passion and energy. |

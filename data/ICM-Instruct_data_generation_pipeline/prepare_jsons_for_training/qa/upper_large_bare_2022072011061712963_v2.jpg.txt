@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bikini top? | Yes. |
+| Yes/No | Is the bikini top strapless? | Yes. |
+| Yes/No | Does the bikini top have a low neckline? | Yes. |
+| Yes/No | Is the woman also wearing a matching blue bikini bottom? | Yes. |
+| Yes/No | Is the image set against a plain white background? | Yes. |
+| Yes/No | Does the image depict the woman's upper body as exposed? | Yes. |
+| What | What is the color of the bikini top and bottom? | Blue. |
+| What | What is the style of the bikini top? | Strapless. |
+| How | How does the low neckline of the bikini top contribute to the overall atmosphere of the image? | It adds to the sensuality and provocativeness of the image. |
+| How | How does the strapless design of the bikini top contribute to the overall atmosphere of the image? | It adds to the seductive and inviting nature of the image. |

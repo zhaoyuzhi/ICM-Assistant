@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person looking down at their feet? | Yes. |
+| Yes/No | Are the person's thighs exposed? | Yes. |
+| Yes/No | Are the person's arms resting on their knees? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What color is the stool that the person is standing on? | Pink. |
+| What | What is the color and pattern of the person's shoe? | Blue and white patterned. |
+| How | How are the person's legs positioned? | Crossed and bent. |
+| How | How does the person's pose create a sense of vulnerability and allure? | The person's crossed legs and bent knees create a sense of vulnerability and allure. |

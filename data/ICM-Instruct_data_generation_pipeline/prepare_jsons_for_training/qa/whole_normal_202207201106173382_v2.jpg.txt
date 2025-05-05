@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman wearing a blazer? | Yes. |
+| Yes/No | Does the blazer have a collar? | Yes. |
+| Yes/No | Are there buttons on the front of the blazer? | Yes. |
+| Yes/No | Is the skirt black? | Yes. |
+| Yes/No | Does the skirt have a lace-up front? | Yes. |
+| What | What is the color of the background? | White. |
+| What | What is the woman's attire? | A black blazer and skirt. |
+| How | How is the lace-up back of the blazer designed? | It is not specified in the description. |
+| How | How does the overall atmosphere of the image feel? | Simple and professional. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a fur hat? | Yes. |
+| Yes/No | Are the person's eyes closed? | Yes. |
+| Yes/No | Is the person making a pouting or kissing face? | Yes. |
+| Yes/No | Are the person's lips puffed out? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing on their head? | A fur hat. |
+| What | What is the person's facial expression? | A playful or seductive expression. |
+| How | How does the fur hat contribute to the image's overall atmosphere? | It adds a touch of warmth and coziness. |
+| How | How does the person's facial expression contribute to the image's overall atmosphere? | It creates a sense of allure and playfulness. |

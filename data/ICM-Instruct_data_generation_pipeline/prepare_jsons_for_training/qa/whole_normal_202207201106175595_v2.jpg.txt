@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a coat? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Does the woman in the image have a suggestive or provocative pose? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman's attire in the image appear modest and appropriate for a professional setting? | Yes. |
+| Yes/No | Does the image contain any distractions or provocative elements? | No. |
+| What | What color is the woman's coat in the image? | Navy blue. |
+| What | What is the woman's pose in the image? | Neutral, with her hands resting at her sides. |
+| How | How does the woman's attire in the image contribute to the overall atmosphere? | The woman's modest and professional attire contributes to the calm and professional atmosphere of the image. |
+| How | How does the white background of the image affect the focus of the image? | The white background emphasizes the focus on the woman and her outfit, rather than any distractions or provocative elements. |

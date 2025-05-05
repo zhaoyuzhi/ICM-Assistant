@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the two people kissing? | Yes. |
+| Yes/No | Is the woman's head resting on the man's shoulder? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Does the image capture a tender and intimate moment? | Yes. |
+| What | What is the man wearing? | A white shirt. |
+| What | What is the woman wearing? | A black dress. |
+| How | How are the two people positioned in the image? | They are in a passionate embrace, with the woman's head resting on the man's shoulder. |
+| What | What suggests a strong emotional connection between the two people? | Their close proximity and the way they are locked in an embrace suggest a strong emotional connection. |

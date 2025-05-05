@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman in the image sitting in a stream of water? | Yes. |
+| Yes/No | Is the woman looking over her shoulder at the camera? | Yes. |
+| Yes/No | Is the water around her flowing? | Yes. |
+| Yes/No | Does the image have a serene and natural atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A white dress. |
+| What | What is the woman doing in the image? | She is sitting in a stream of water and looking over her shoulder at the camera. |
+| How | How is the woman's attire in the image? | Soaked. |
+| How | How does the woman appear to be in the image? | At ease and vulnerable. |

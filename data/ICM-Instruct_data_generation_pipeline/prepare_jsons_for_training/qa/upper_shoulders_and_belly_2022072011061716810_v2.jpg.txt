@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | Yes. |
+| Yes/No | Are the women wearing off-the-shoulder tops? | Yes. |
+| Yes/No | Are the women smiling? | Yes. |
+| Yes/No | Are the women looking directly at the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the image indoors? | Yes. |
+| What | What is the color of the woman's top on the left? | Blue. |
+| What | What is the color of the woman's top on the right? | Pink. |
+| How | How are the women posing? | Standing with arms crossed, sitting on a couch. |

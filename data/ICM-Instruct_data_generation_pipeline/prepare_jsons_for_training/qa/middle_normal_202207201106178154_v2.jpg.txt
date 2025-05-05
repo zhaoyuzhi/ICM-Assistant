@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding a purse? | Yes. |
+| Yes/No | Is the purse made of a woven material? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image a white wall with a window? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain explicit content? | No. |
+| What | What is the color of the purse? | Brown. |
+| What | What is the person holding the purse with? | Their left hand. |
+| How | How is the person's attire appropriate for an appropriate image? | The person is wearing a modest white shirt that covers their torso and arms, and the purse is a modest accessory that does not draw attention away from the person's face or body. |
+| How | How does the low exposure level and simplicity of the scene contribute to the image's non-sexy appearance? | The low exposure level and simplicity of the scene create a subdued atmosphere that focuses attention on the person's attire and the purse, rather than their body or any explicit content. The lack of bright colors, bold patterns, or suggestive poses also contributes to the image's nonsexy appearance. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the purse made of a light brown material? | Yes. |
+| Yes/No | Is the scarf tied around the handle of the purse blue and orange? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's pants blue? | Yes. |
+| Yes/No | Is the image taken from a side angle? | Yes. |
+| What | What is the main focus of the image? | The woman and her purse. |
+| What | What is the exposure level of the image? | Low. |
+| How | How is the purse adorned? | With a blue and orange scarf tied around the handle. |
+| What | What is the overall atmosphere of the image? | Neutral and nonsexual. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person lifting their shirt? | Yes. |
+| Yes/No | Is the person wearing black underwear? | Yes. |
+| Yes/No | Is the person standing on a bed? | Yes. |
+| Yes/No | Are the sheets on the bed white? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| What | What is the person lifting in the image? | Shirt and underwear. |
+| What | What is the color of the person's underwear? | Black. |
+| How | How is the person standing on the bed? | Standing. |
+| How | How does the image evoke feelings? | Desire and allure. |

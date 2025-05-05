@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the background of the image solid blue? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A strapless top and a sports bra. |
+| What | What color is the background of the image? | Blue. |
+| How | How is the woman in the image posing? | With her hands on her hips and a confident smile. |
+| How | How would you describe the atmosphere of the image? | Sexy and alluring. |

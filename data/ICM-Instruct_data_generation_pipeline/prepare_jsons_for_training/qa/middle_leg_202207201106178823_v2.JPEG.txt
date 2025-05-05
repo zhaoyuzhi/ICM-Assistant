@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman's top brown? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman engaged in any specific action? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| What | What is the main focus of the woman's outfit? | Her white shorts. |
+| What | What is the color of the woman's top? | Brown. |
+| How | How does the woman's pose create a sense of allure? | Her neutral pose and the cropped shorts create a sense of confidence and allure. |
+| How | How does the contrast between the white shorts and brown top add to the image's visual interest? | The contrast creates a visually interesting and dynamic effect, drawing the viewer's attention to the woman's outfit. |

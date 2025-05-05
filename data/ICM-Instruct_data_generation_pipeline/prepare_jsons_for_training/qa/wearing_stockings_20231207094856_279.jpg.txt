@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person putting on white stockings in the image? | Yes. |
+| Yes/No | Is the image associated with a sense of allure and seduction? | Yes. |
+| Yes/No | Does the contrast between the white stockings and black shorts add to the visual appeal of the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the person in the image wearing on their lower body? | Black shorts. |
+| What | What is the person in the image putting on? | White stockings. |
+| How | How are the person's legs positioned in the image? | Crossed, with their feet resting on the bed. |
+| How | How does the image make you feel? | It evokes a sense of intimacy and sensuality. |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the image associated with a sense of allure and seduction? | Yes. |
+| Yes/No | Does the image depict an intimate activity? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | White stockings. |
+| What | What is the color of the person's shirt in the image? | White. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image create a sense of vulnerability? | The person is in a vulnerable position while putting on their stockings, and their feet are resting on the bed. |

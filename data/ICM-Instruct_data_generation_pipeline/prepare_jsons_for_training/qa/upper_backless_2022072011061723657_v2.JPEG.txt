@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red tank top? | Yes. |
+| Yes/No | Does the tank top have sleeves? | No. |
+| Yes/No | Is the person facing the camera? | No. |
+| Yes/No | Are the pants the person is wearing black? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is written on the tank top? | 110PRO. |
+| What | What is the color of the tank top? | Red. |
+| How | How is the person standing in the image? | Athletic posture. |
+| What | What does the red color of the tank top evoke? | Passion and energy. |

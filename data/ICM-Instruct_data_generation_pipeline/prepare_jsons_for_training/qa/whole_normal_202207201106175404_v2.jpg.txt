@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a beige sweater? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the woman standing in front of a pool table? | Yes. |
+| Yes/No | Is the image revealing much detail about the woman's appearance or the surrounding environment? | No. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the woman gesturing with her hands? | It appears that the woman is engaged in a conversation. |
+| What | What is the color of the wall in the background? | Blue. |
+| How | How is the woman standing in relation to the pool table? | She is standing in front of it. |
+| How | How does the low exposure level of the image contribute to the overall atmosphere? | It does not provide much detail about the woman's appearance or the environment, which contributes to the lack of sensuality in the image. |

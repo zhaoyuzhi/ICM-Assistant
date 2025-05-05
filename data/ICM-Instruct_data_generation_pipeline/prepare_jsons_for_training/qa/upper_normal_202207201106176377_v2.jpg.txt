@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Is the person wearing a blue sweatshirt? | Yes. |
+| Yes/No | Is the person holding a red apple? | Yes. |
+| Yes/No | Is the scale displaying a weight of 0.00? | Yes. |
+| Yes/No | Is the person in the process of weighing the apple? | Yes. |
+| Yes/No | Does the image contain any romantic or intimate elements? | No. |
+| What | What is the person in the image holding? | A red apple. |
+| What | What is the person in the image weighing? | The apple. |
+| How | How is the person in the image engaged? | They are engaged in the task of weighing the apple. |
+| What | What is the overall atmosphere of the image? | Calm and focused. |

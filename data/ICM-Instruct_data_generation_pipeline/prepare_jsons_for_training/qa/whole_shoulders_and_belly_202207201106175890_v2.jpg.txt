@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Is the woman carrying a purse? | Yes. |
+| Yes/No | Is the purse black? | Yes. |
+| Yes/No | Is the woman walking towards the right side of the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the dress? | Gray. |
+| What | What is the woman carrying in her left hand? | A black purse. |
+| How | How does the woman's attire accentuate her figure? | The gray dress is a classic choice that accentuates her figure, while the strapless design adds an element of allure. |
+| What | What does the woman's confident walk suggest? | The woman's confident walk suggests a sense of selfassuredness. |

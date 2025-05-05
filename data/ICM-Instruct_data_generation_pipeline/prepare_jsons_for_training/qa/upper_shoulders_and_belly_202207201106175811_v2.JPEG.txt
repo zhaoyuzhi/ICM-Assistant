@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless shirt? | Yes. |
+| Yes/No | Is the woman in the image pointing to the left? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| What | What is the woman in the image pointing to? | A direction or a point of interest. |
+| What | What is the style of the woman's hair in the image? | Loose waves. |
+| How | How is the woman's shirt designed? | It is strapless and midriffbaring. |
+| How | How does the blurred background affect the image? | It emphasizes the woman's presence and makes her the central focus. |

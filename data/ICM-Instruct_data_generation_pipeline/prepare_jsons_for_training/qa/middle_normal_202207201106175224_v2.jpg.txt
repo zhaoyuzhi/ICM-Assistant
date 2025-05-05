@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shorts and a black shirt? | Yes. |
+| Yes/No | Is the room dimly lit? | Yes. |
+| Yes/No | Does the person's movements suggest a calm and relaxed setting? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image contain explicit nudity? | No. |
+| Yes/No | Are there any suggestive poses in the image? | No. |
+| What | What is the focus of the image? | The person's attire and the room's ambiance. |
+| What | What is the person's physical appearance in the image? | Not explicitly shown, the focus is on the attire and room ambiance. |
+| How | How is the person standing in the room? | Minimally, suggesting a calm and relaxed setting. |
+| How | How does the low exposure level contribute to the image's non-sexual nature? | It reduces the visual impact of the person's body and clothing. |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Are the person's movements in the image minimal? | Yes. |
+| Yes/No | Is the room in the image dimly lit? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire in the image revealing? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and relaxed? | Yes. |
+| What | What is the person in the image wearing? | Black shorts and black shoes. |
+| What | What is the atmosphere of the image? | Subdued. |
+| How | How is the person's attire in the image? | Simple. |
+| How | How is the room in the image lit? | Dimly lit. |

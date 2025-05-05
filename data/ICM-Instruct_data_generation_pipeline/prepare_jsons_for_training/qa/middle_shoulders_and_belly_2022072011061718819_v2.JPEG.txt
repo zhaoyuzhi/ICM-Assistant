@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing jeans? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Are the woman's hands resting on her hips? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| How | Does the image showcase the woman's confident posture? | Yes. |
+| What | What color is the woman's sports bra? | White. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How is the woman's posture in the image? | Confident, with her hands resting on her hips. |
+| How | How does the white background affect the image? | It puts the focus on the woman and her attire, emphasizing her form and the details of her outfit. |
+| Yes/No | Is the woman in the image wearing a white sports bra? | Yes. |
+| Yes/No | Are her jeans blue? | Yes. |
+| Yes/No | Is her midriff exposed? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What color is the woman's sports bra? | White. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How does the woman's pose contribute to the image's overall atmosphere? | It suggests confidence and selfassuredness, adding to the allure of the image. |
+| How | How does the combination of the white sports bra and blue jeans contribute to the image's overall atmosphere? | It creates a casual yet stylish look, often associated with sexy or attractive images. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image looking directly into the camera? | Yes. |
+| Yes/No | Does the woman have pink and black hair? | Yes. |
+| Yes/No | Is the image taken from a close-up angle? | Yes. |
+| Yes/No | Does the woman have a serious expression? | Yes. |
+| Yes/No | Are the woman's lips slightly parted? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What is the color of the woman's hair? | Pink and black. |
+| How | How is the woman's facial expression in the image? | The woman's facial expression is serious and alluring. |
+| How | How does the close-up angle of the photo emphasize the woman's facial features? | The closeup angle of the photo emphasizes the woman's facial features by framing her face and upper body, drawing attention to her eyes, nose, and lips, and creating a sense of intimacy and closeness. |

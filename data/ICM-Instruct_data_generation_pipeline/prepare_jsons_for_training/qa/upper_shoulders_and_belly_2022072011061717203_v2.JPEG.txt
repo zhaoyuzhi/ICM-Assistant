@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Does the woman have her hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman posing with her hands on her hips? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her upper body? | A black tank top. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| How | How is the woman posing in the image? | With her hands on her hips. |
+| What | What does the woman's pose suggest? | Confidence and selfassuredness. |

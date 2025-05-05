@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the woman's sleeves long? | Yes. |
+| Yes/No | Is the woman wearing heels? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or implied nudity or suggestive content? | No. |
+| What | What is the woman's attire in the image? | A long, dark green dress with a high neckline and long sleeves, paired with black heels. |
+| What | What is the woman's posture in the image? | She is standing with her feet shoulderwidth apart and her weight evenly distributed, suggesting a relaxed and confident stance. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's modest dress and heels contribute to a calm and composed atmosphere, suggesting a public, everyday setting rather than a private or intimate one. |
+| How | How does the woman's posture and gaze contribute to the overall atmosphere of the image? | The woman's engaged posture and gaze suggest that she is interested in something outside of the frame, contributing to a sense of calm and composedness in the image. |

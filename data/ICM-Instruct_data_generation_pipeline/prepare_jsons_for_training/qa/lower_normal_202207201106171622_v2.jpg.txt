@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Does the blouse have a high collar? | Yes. |
+| Yes/No | Is the skirt green? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the chair brown? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her left hand on her hip and her right hand resting on the chair. |
+| What | What is the color of the woman's skirt? | Green. |
+| How | How long is the woman's skirt? | The skirt is kneelength. |
+| What | What is the style of the chair in the image? | The chair has a curved backrest and armrests. |

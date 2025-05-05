@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink shirt? | Yes. |
+| Yes/No | Is the woman in the image sitting on a red car? | Yes. |
+| Yes/No | Are the woman's shorts cropped? | Yes. |
+| Yes/No | Do the woman's shorts have a frayed hem? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the red car the main focus of the image? | Yes. |
+| What | What color is the car in the image? | Red. |
+| What | What is the woman wearing on her legs? | White shorts. |
+| How | How does the woman's pose on the car contribute to the sexy atmosphere of the image? | The woman's pose suggests a sense of boldness and confidence, which can be associated with sexuality. |
+| How | How does the color red contribute to the sexy atmosphere of the image? | The color red can be associated with confidence and allure, which can contribute to a sexy atmosphere. |

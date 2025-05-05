@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman wearing a sports bra? | Yes. |
+| Yes/No | Are the shorts pink and white in color? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Does the woman's pose suggest confidence and self-assuredness? | Yes. |
+| What | What is the color of the woman's shorts? | Pink and white. |
+| What | What is the woman wearing under her shorts? | A black sports bra. |
+| How | How are the shorts tied at the top? | With a drawstring in a bow. |
+| How | How does the image create a sense of contrast? | The pink and white shorts contrast with the black sports bra, drawing attention to the woman's body. |

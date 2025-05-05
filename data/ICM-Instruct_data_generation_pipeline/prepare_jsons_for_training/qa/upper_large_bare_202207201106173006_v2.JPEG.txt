@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Does the bikini top have a yellow and red color scheme? | Yes. |
+| Yes/No | Is the woman's left hand on her hip? | Yes. |
+| Yes/No | Is the woman's right hand on her thigh? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the woman's socks? | Red. |
+| What | What is the color of the woman's lipstick? | Red. |
+| How | How many colors are featured in the bikini top? | Two. |
+| How | How many items of clothing is the woman wearing in total? | Five. |

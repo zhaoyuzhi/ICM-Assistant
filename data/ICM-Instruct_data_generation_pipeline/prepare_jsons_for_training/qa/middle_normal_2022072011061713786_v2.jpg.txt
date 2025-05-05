@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue short-sleeved shirt? | Yes. |
+| Yes/No | Are they wearing blue shorts with a pattern? | Yes. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| Yes/No | Are their hands resting in their pockets? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What color is the person's shirt? | Blue. |
+| What | What is the person's watch located? | Left wrist. |
+| How | How is the person's pose? | Neutral. |
+| How | How much skin is visible in the image? | Only the person's torso and arms are visible. |
+| Yes/No | Is the person in the image wearing a blue short-sleeved shirt? | Yes. |
+| Yes/No | Are the person's shorts patterned? | Yes. |
+| Yes/No | Is the person's left hand placed on their hip? | Yes. |
+| Yes/No | Is the person's right hand resting on their thigh? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the person's gaze directed at? | Straight ahead. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How is the person's pose in the image? | Casual and relaxed. |
+| How | How does the white background affect the image? | It emphasizes the simplicity of the image and focuses attention on the person's clothing and pose. |

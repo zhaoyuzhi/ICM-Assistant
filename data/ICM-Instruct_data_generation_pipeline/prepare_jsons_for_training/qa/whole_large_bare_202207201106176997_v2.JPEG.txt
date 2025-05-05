@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini striped? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's bikini top? | Red, yellow, and blue. |
+| What | What is the woman's pose in the image? | She is standing with her left hand on her head and her right hand on her hip. |
+| How | How does the woman's smile contribute to the image's atmosphere? | It adds a sense of connection and intimacy. |
+| How | How do the bright colors of the bikini contrast with the natural tones of the beach and ocean? | They draw attention to her figure. |

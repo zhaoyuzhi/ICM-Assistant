@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the man's legs crossed? | Yes. |
+| Yes/No | Is the man's body fully visible in the image? | No. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| Yes/No | Is the man's position on the chair provocative or revealing? | No. |
+| Yes/No | Does the image evoke any sexual or provocative feelings? | No. |
+| What | What is the man wearing on his lower body? | Blue jeans. |
+| What | What is the man's posture in the image? | Relaxed, with his arms resting on his knees. |
+| How | How is the man's body positioned on the chair? | He is sitting with his legs crossed. |
+| How | How would you describe the overall atmosphere of the image? | Calm and casual. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of brown shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a beige blouse? | Yes. |
+| Yes/No | Does the person in the image have a tie at the waist? | Yes. |
+| Yes/No | Are the person's hands resting on their hips? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the shorts? | Brown. |
+| What | What is the color of the blouse? | Beige. |
+| How | How is the person's pose in the image? | Neutral. |
+| How | How would you describe the overall atmosphere of the image? | Modest and understated. |
+| Yes/No | Is the woman in the image wearing a beige blouse? | Yes. |
+| Yes/No | Are the woman's shorts brown? | Yes. |
+| Yes/No | Is the woman's pose in the image casual and relaxed? | Yes. |
+| Yes/No | Does the image suggest any intimate or provocative actions? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the woman's attire in the image suggest a sexy or provocative atmosphere? | No. |
+| What | What is the woman's pose in the image? | She is standing with her hands on her hips. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How is the woman's body visible in the image? | Only a small portion of the woman's body is visible due to the low exposure level. |
+| How | How does the image convey a casual and relaxed atmosphere? | The woman's pose and attire suggest a casual and relaxed atmosphere, and the low exposure level does not suggest any intimate or provocative actions. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a gray blouse? | Yes. |
+| Yes/No | Is the woman carrying a white purse? | Yes. |
+| Yes/No | Is the woman's hair styled in a bob? | Yes. |
+| Yes/No | Is the woman wearing red lipstick? | Yes. |
+| Yes/No | Is the woman moving towards the right side of the image? | Yes. |
+| Yes/No | Does the image suggest any form of intimacy or sexuality? | No. |
+| What | What is the woman carrying in her hand? | A white purse. |
+| What | What is the woman's hair style? | A bob. |
+| How | How is the woman dressed? | In a professional manner. |
+| What | What is the overall atmosphere of the image? | Calm and ordinary. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a necklace? | Yes. |
+| Yes/No | Is the pendant on the necklace made of gold? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Is the woman in the image posing in a sexualized manner? | Yes. |
+| Yes/No | Is the overall atmosphere of the image romantic? | No. |
+| What | What is the color of the woman's top? | Brown. |
+| What | What is the shape of the pendant on the woman's necklace? | Circular. |
+| How | How is the woman's pose in the image? | Confident. |
+| How | How does the woman's look in the image make the viewer feel? | Intrigued. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Does the woman in the image have earrings? | Yes. |
+| Yes/No | Is the outfit green and gold? | Yes. |
+| Yes/No | Is the room in the image a bedroom? | No. |
+| Yes/No | Does the woman in the image have any visible tattoos? | No. |
+| What | What is the main color of the woman's outfit? | Green and gold. |
+| What | What is the woman holding in her hand? | A purse. |
+| How | How many pieces of jewelry can be seen on the woman? | 2 (earrings and a necklace). |
+| How | How many objects in the room are made of glass? | 2 (chandelier and mirror). |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Is the image taken from the perspective of the person's legs? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy? | Yes. |
+| Yes/No | Does the image portray a sense of vulnerability? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the sweater the person is wearing? | Gray. |
+| How | How are the person's legs positioned in the image? | Bent. |
+| How | How does the image make the viewer feel? | Sensual and allured. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Is the image captured from the perspective of the person's legs? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy? | Yes. |
+| Yes/No | Does the image portray a sense of vulnerability? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the sweater the person is wearing? | Gray. |
+| How | How are the person's legs positioned in the image? | Bent. |
+| How | How does the image capture the moment? | From the perspective of the person's legs. |

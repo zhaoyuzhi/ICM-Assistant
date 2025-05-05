@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a gray shirt? | Yes. |
+| Yes/No | Is the woman wearing a black and white outfit? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the man wearing? | A gray shirt. |
+| What | What is the woman wearing? | A black and white outfit. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the man's arms wrapped around the woman's waist. |
+| How | How does the background of the image appear? | The background appears to be an airport terminal and is blurred. |

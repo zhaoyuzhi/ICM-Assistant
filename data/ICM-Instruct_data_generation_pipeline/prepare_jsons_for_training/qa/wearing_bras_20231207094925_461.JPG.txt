@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra being held open by the woman's hands? | Yes. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image intimate and alluring? | Yes. |
+| What | What is the color of the bra? | Light green. |
+| What | What is the woman wearing other than the bra? | White pants. |
+| How | How does the woman's body language contribute to the image's overall atmosphere? | The woman's body language, specifically her hands holding open the bra, contributes to the image's overall atmosphere of intimacy and allure. |
+| How | How does the contrast between the bra and the white pants accentuate the woman's figure? | The contrast between the light green bra and the white pants creates a visual contrast that accentuates the woman's curves and figure. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the woman holding the bra open with her hands? | Yes. |
+| Yes/No | Are the woman's pants white? | Yes. |
+| Yes/No | Does the image contain any other colors besides light green and white? | No. |
+| Yes/No | Is the atmosphere of the image intimate and alluring? | Yes. |
+| What | What color is the bra? | Light green. |
+| What | What color are the woman's pants? | White. |
+| How | How is the woman holding the bra open? | With her hands. |
+| How | How does the combination of light green and white colors accentuate the woman's figure? | It creates a contrast that accentuates her curves and form. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the woman have a smile on her face? | No. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| Yes/No | Is the woman's hair short? | No. |
+| Yes/No | Is the woman standing or sitting in the image? | No. |
+| Yes/No | Is there a background visible in the image? | No. |
+| What | What is the woman's facial expression in the image? | Serious/Intense. |
+| What | What is the woman doing with her hands in the image? | Holding them up to her face. |
+| How | How is the woman looking up at the camera? | With a sense of intensity/focus. |
+| How | How does the image create a sense of mystery and intrigue? | The woman's serious expression, the way she is holding her hands up to her face, and the fact that she is looking up at the camera all contribute to the image's seductive and alluring quality. |

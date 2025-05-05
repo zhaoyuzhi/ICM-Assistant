@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the person in the image have a nose piercing? | Yes. |
+| Yes/No | Is the person in the image sticking their finger in their mouth? | Yes. |
+| Yes/No | Is the facial expression of the person in the image serious? | Yes. |
+| Yes/No | Does the image feature a floral pattern? | Yes. |
+| Yes/No | Is the image seductive? | Yes. |
+| What | What is the person in the image wearing? | A black shirt with a floral pattern. |
+| What | What is the person in the image doing with their finger? | Sticking it in their mouth. |
+| How | How does the person's facial expression contribute to the image? | It adds to the intensity and allure of the image. |
+| How | How does the combination of elements in the image create a captivating atmosphere? | The combination of the black shirt, floral pattern, nose piercing, and serious facial expression creates an atmosphere of allure and intrigue. |

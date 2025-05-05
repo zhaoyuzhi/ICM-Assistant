@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the woman holding a fan in the image? | Yes. |
+| Yes/No | Are there trees in the background of the image? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| Yes/No | Is the woman's purse white? | Yes. |
+| What | What is the woman holding in her right hand? | A white fan. |
+| What | What is the color of the woman's dress? | Blue with a floral pattern. |
+| How | How many objects are in the background of the image? | 3 (pool, fence, trees). |
+| How | How would you describe the atmosphere of the image? | Calm and relaxed. |

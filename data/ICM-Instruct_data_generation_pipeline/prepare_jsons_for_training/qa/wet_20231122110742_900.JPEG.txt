@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image walking? | Yes. |
+| Yes/No | Is the man's t-shirt wet? | Yes. |
+| Yes/No | Is the man's left arm moving forward? | Yes. |
+| Yes/No | Is the man's right arm bent at the elbow? | Yes. |
+| Yes/No | Is the background of the image a brick walkway? | Yes. |
+| Yes/No | Is there a green plant in the background of the image? | Yes. |
+| What | What is the man in the image wearing? | A white tshirt and possibly other clothes that are not visible in the image. |
+| What | What is the atmosphere of the image? | Sexy, vulnerable, and natural. |
+| How | How is the man's wet t-shirt perceived? | As a sign of physical activity and vulnerability, adding to the allure of the image. |
+| How | How does the green plant in the background contrast with the man's appearance? | The green plant provides a natural and calming atmosphere that contrasts with the man's wet and active appearance, creating a sense of tension and anticipation. |

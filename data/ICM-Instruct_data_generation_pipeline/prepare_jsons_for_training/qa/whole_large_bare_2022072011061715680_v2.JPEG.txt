@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini green and white in color? | Yes. |
+| Yes/No | Is the woman standing in front of a pool? | Yes. |
+| Yes/No | Is the woman's body facing the camera? | Yes. |
+| Yes/No | Is the woman wearing a gold bracelet on her left wrist? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What type of swimwear is the woman wearing? | Bikini. |
+| What | What is the color of the bikini? | Green and white. |
+| How | How is the woman posing in front of the pool? | She is standing with her body facing the camera. |
+| How | How does the combination of the bikini, pool, and woman's pose create an atmosphere? | It creates a seductive atmosphere that is likely to be appealing to many viewers. |

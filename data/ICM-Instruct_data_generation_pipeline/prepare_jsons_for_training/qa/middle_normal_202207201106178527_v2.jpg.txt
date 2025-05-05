@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person in the image wearing a pink sweater? | Yes. |
+| Yes/No | Does the person in the image have their hand on their hip? | Yes. |
+| Yes/No | Are the person's pants tied in a bow? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What is the person in the image wearing? | White pants and a pink sweater. |
+| What | What is the person's pose in the image? | Standing with their hand on their hip. |
+| How | How are the person's pants tied? | In a bow. |
+| What | What is the overall atmosphere of the image? | Neutral and nonsexual. |
+| Yes/No | Is the woman in the image wearing white clothing? | Yes. |
+| Yes/No | Is the woman standing with her hand on her hip? | Yes. |
+| Yes/No | Are her pants tied in a bow? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What is the woman wearing in the image? | White pants and a white top. |
+| What | What is the woman's posture in the image? | She is standing with her hand on her hip. |
+| How | How are the woman's pants tied? | They are tied in a bow. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |

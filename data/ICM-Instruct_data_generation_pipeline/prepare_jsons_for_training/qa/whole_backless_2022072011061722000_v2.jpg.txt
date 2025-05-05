@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Is the woman in the image holding a straw bag? | Yes. |
+| Yes/No | Is the woman in the image standing on a grassy area? | Yes. |
+| Yes/No | Is the woman in the image standing next to a fence? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is the image sexy because of the woman's attire and overall atmosphere? | Yes. |
+| What | What color is the woman's dress? | Red. |
+| What | What is the woman holding in her hand? | A straw bag. |
+| How | How does the woman's white hat add to her overall appearance? | It adds a contrasting element to her outfit. |
+| How | How does the grassy area and fence in the background complement the woman's pose? | They create a natural and serene setting that complements the woman's confident and stylish pose. |

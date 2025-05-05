@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Is the person in the image wearing a white skirt? | Yes. |
+| Yes/No | Does the person in the image have a silver buckle on their belt? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Does the image feature revealing details or suggestive poses? | No. |
+| What | What is the overall atmosphere of the image? | Calm and understated. |
+| What | What is the focus of the image? | The person's attire. |
+| How | How does the low exposure level contribute to the modesty of the image? | It obscures most of the person's body, leaving only a small portion visible, and emphasizes the person's clothing rather than their physical appearance. |
+| How | How does the image differ from typical sexy or provocative imagery? | It features modest and simple clothing, lacks revealing details and suggestive poses, and has a calm and understated atmosphere. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Is the person in the image wearing a white skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a belt with a silver buckle? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Does the image feature any suggestive or provocative elements? | No. |
+| What | What is the overall atmosphere of the image? | Calm and unassuming. |
+| What | What is the focus of the image? | The person's attire. |
+| How | How is the person's attire described? | Simple and modest. |
+| How | How would you describe the image's overall mood? | Calm. |

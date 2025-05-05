@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She is striking a pose with her hands on her hips. |
+| What | What is the main feature of the woman's dress? | The dress features a deep neckline and lace trim. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose with her hands on her hips conveys confidence and a sense of empowerment, which adds to the overall allure of the image. |
+| How | How does the dress accentuate the woman's figure? | The black dress with a deep neckline and lace trim accentuates the woman's figure by highlighting her curves and creating a visually striking image. The thin straps and low back of the dress also reveal a large area of her back, which adds to the overall allure. |

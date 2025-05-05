@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young man? | Yes. |
+| Yes/No | Is the person lifting their shirt? | Yes. |
+| Yes/No | Is the person wearing a gold chain around their neck? | Yes. |
+| Yes/No | Is the person standing in front of a microphone? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person lifting their shirt made of? | White. |
+| What | What is the person wearing around their neck? | Gold chain. |
+| How | How is the person lifting their shirt? | Boldly and daringly. |
+| How | How does the image portray the person's confidence? | Through their vulnerability and selfassuredness. |

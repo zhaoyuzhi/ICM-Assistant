@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing cargo shorts? | Yes. |
+| Yes/No | Is the woman wearing cargo pants? | Yes. |
+| Yes/No | Are the man and woman standing side by side? | Yes. |
+| Yes/No | Are they barefoot? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the attire rather than bodies or suggestive elements? | Yes. |
+| What | What color are the man's shorts? | Green. |
+| What | What color are the woman's pants? | Black. |
+| How | How are the man and woman standing? | Side by side. |
+| How | How is the focus of the image? | Casual and relaxed. |

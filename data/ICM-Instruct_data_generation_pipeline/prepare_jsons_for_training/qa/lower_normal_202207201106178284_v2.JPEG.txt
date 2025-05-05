@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image carrying a purse? | Yes. |
+| Yes/No | Is the woman in the image wearing a sweater? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a building? | Yes. |
+| Yes/No | Is the woman in the image exposed in any way? | No. |
+| Yes/No | Does the image suggest a sexual context? | No. |
+| What | What is the woman in the image wearing on her feet? | The image does not provide enough information to answer this question. |
+| What | What is the color of the woman's sweater? | Green. |
+| How | How is the woman's body positioned in the image? | The woman's body is not visible in the image. |
+| How | How does the image focus on the woman's attire? | The image focuses on the woman's clothing by showing her wearing a long, brown skirt and a green sweater, and by not showing her body in a sexualized or revealing way. |

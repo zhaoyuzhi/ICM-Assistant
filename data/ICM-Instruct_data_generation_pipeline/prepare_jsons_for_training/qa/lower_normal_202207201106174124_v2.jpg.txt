@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of white sneakers? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Is the person's head slightly tilted to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the person's sneakers? | White. |
+| What | What is the color of the strap on the person's sneakers? | Black. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How is the person's head positioned in the image? | Slightly tilted to the side. |

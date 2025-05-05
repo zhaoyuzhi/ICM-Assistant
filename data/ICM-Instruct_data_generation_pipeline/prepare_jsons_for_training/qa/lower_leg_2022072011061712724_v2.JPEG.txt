@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the woman in the image have a lace-up detail on the back of her shorts? | Yes. |
+| Yes/No | Are the woman's shoes white? | Yes. |
+| Yes/No | Is the woman in the image standing on a street? | Yes. |
+| Yes/No | Is the woman in the image the only person in the image? | Yes. |
+| What | What color are the woman's shorts? | Blue. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips. |
+| How | How does the lace-up detail on the back of the shorts add to the overall look? | It adds a unique and intriguing element to the outfit. |
+| How | How does the woman's pose exude confidence and allure? | It shows her confidence and poise, and the way she stands with her hands on her hips emphasizes her curves and attracts attention. |

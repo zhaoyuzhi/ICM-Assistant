@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the child wearing a brown robe? | Yes. |
+| Yes/No | Is the bird's head blue? | Yes. |
+| Yes/No | Does the child appear to be in awe of the bird? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image suggest a sexual context or inappropriate behavior? | No. |
+| Yes/No | Is the overall atmosphere of the image playful and innocent? | Yes. |
+| What | What is the color of the bird's feathers? | White. |
+| What | What is the pattern on the bird's head? | Blue and white. |
+| How | How does the child appear to be interacting with the bird? | The child appears to be standing next to the bird, looking up at it in awe. |
+| How | How does the low exposure level of the image affect the overall mood of the scene? | The low exposure level creates a sense of intimacy and playfulness, emphasizing the innocent nature of the childbird interaction. |

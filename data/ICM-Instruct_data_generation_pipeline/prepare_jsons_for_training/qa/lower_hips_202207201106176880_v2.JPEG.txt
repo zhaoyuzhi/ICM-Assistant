@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of yellow leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a white sports bra? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person in the image standing in front of a gray wall? | Yes. |
+| Yes/No | Does the image feature a provocative or sexy pose? | Yes. |
+| Yes/No | Does the combination of the yellow leggings and white sports bra create a visually appealing contrast? | Yes. |
+| What | What is the primary color of the leggings in the image? | Yellow. |
+| What | What is the color of the sports bra in the image? | White. |
+| How | How does the gray wall in the background contribute to the overall atmosphere of the image? | It provides a neutral backdrop that allows the colors of the outfit to stand out and emphasizes the subject. |
+| How | How would you describe the overall atmosphere of the image? | Confident and bold, with a sense of selfassuredness and selfexpression. |

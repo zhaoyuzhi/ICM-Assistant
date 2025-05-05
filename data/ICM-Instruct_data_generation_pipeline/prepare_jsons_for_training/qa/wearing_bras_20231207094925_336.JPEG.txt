@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra pink in color? | Yes. |
+| Yes/No | Is the woman holding the bra with both hands? | Yes. |
+| Yes/No | Is the woman in the process of getting dressed? | Yes. |
+| Yes/No | Does the color pink have associations with femininity and sensuality? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman doing in the image? | Putting on a pink bra. |
+| What | What color is the bra the woman is wearing? | Pink. |
+| How | How is the woman holding the bra? | With both hands. |
+| How | How does the color pink contribute to the overall atmosphere of the image? | It contributes to a sense of femininity, sensuality, and allure. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Is the woman putting on the bra? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the color of the bra associate with femininity? | Yes. |
+| Yes/No | Does the woman's action of putting on the bra suggest intimacy? | Yes. |
+| What | What color is the bra? | Pink. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How is the woman adjusting the bra? | With both hands. |
+| How | How does the color of the bra contribute to the atmosphere of the image? | It contributes to the sexy and sensual atmosphere of the image. |

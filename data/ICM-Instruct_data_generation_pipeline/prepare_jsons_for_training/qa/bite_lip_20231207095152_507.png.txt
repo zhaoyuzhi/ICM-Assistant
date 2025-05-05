@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lower lip? | Yes. |
+| Yes/No | Is the image a close-up of the person's face? | Yes. |
+| Yes/No | Does the image contain any other discernible objects or people? | No. |
+| Yes/No | Is the person's expression serious? | Yes. |
+| Yes/No | Are the person's lips pink? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's facial expression in the image? | Serious. |
+| What | What is the person biting in the image? | Their lower lip. |
+| How | How does the close-up nature of the image affect the viewer's experience? | It allows the viewer to focus on the person's lips and chin, creating a sense of intimacy and allure. |
+| How | How does the person's serious expression contribute to the overall atmosphere of the image? | It adds to the intensity and passion, making the image more intriguing and captivating. |

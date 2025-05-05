@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image about to take a bite? | Yes. |
+| Yes/No | Is the person in the image eating? | Yes. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Are the person's facial features clearly visible? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image feature the person's tongue? | Yes. |
+| What | What is the person in the image doing? | Taking a bite or eating. |
+| What | What is the person's facial expression? | Not clearly visible. |
+| How | How is the person's mouth open? | Wide open. |
+| How | How is the person's tongue sticking out? | Sticking out past their lips. |

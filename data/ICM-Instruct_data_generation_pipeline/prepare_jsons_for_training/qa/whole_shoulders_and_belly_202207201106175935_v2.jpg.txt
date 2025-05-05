@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green sweater? | Yes. |
+| Yes/No | Does the sweater have a crocheted collar? | Yes. |
+| Yes/No | Is the woman wearing ripped jeans? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Does the woman have a strapless top on? | Yes. |
+| Yes/No | Is the overall atmosphere of the image confident and alluring? | Yes. |
+| What | What is the color of the sweater? | Green. |
+| What | What pattern is on the front of the sweater? | Cactus. |
+| How | How is the texture of the sweater unique? | It's crocheted. |
+| How | How does the combination of the green sweater and ripped jeans create a look? | Casual yet stylish. |

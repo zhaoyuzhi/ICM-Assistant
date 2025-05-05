@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Are the leggings black? | Yes. |
+| Yes/No | Is the woman taking a selfie in the image? | Yes. |
+| Yes/No | Is the woman's outfit strapless? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the woman's pose in the image confident and self-assured? | Yes. |
+| What | What is the woman holding in her right hand? | A phone. |
+| What | What color are the leggings? | Black. |
+| How | How is the woman's midriff revealed in the image? | Through her strapless crop top. |
+| How | How does the woman's pose in the image suggest a sense of confidence and self-assurance? | Through her relaxed and natural positioning while taking a selfie. |

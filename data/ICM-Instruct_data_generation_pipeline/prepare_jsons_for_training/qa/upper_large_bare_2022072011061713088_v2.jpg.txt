@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the background of the image a table with a drink on it and a man sitting at the table? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| Yes/No | Is the woman's attire in the image revealing? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What is the woman in the image wearing? | A black bikini top and a black thong. |
+| What | What is the woman in the image looking at? | Down and to the left. |
+| How | How is the woman sitting in the image? | With her legs crossed and her hands on her knees. |
+| How | How does the image convey a sense of confidence and allure? | Through the woman's confident pose, the revealing attire, and the relaxed atmosphere suggested by the presence of a drink on the table and a man sitting at the table. |

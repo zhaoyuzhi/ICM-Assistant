@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a yellow top? | Yes. |
+| Yes/No | Is the woman wearing silver pants? | Yes. |
+| Yes/No | Does the woman have a large area of her back exposed? | Yes. |
+| Yes/No | Is the woman leaning against a blue wall? | Yes. |
+| Yes/No | Does the woman have her hand on her shoulder? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's top? | Yellow. |
+| What | What color are the woman's pants? | Silver. |
+| How | How is the woman posing? | Confidently, with a sense of allure. |
+| How | How does the blue wall complement the woman's outfit? | It provides a cool, calming backdrop that complements the woman's vibrant outfit. |

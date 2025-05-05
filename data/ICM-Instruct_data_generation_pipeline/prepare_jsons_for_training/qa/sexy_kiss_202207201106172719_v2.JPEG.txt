@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a blue shirt? | Yes. |
+| Yes/No | Does the man have a mustache? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Is the woman's head resting on the man's shoulder? | Yes. |
+| Yes/No | Is the man's hand on the woman's face? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the woman wearing? | A blue shirt and a ponytail. |
+| What | What is the man wearing? | A white shirt. |
+| How | How is the woman's head positioned in relation to the man's shoulder? | Resting. |
+| How | How is the man's hand positioned on the woman's face? | On her face, as if he is caressing her. |

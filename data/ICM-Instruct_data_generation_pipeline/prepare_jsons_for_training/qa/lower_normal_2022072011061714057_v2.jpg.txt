@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the woman's sneakers white? | Yes. |
+| Yes/No | Is the woman's body visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Is the woman's attire modest? | Yes. |
+| What | What color are the woman's sneakers? | White. |
+| What | What is the woman wearing on her lower body? | A black skirt. |
+| How | How is the woman's body positioned in the image? | The woman's body is not visible in the image. |
+| What | What is the focus of the image? | The focus of the image is on the woman's clothing and posture. |

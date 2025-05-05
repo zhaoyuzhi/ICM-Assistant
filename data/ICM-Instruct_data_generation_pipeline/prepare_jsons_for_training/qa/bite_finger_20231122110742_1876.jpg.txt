@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sticking out their tongue? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Is the person's facial expression visible in the image? | No. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Is the person's pose associated with confidence and playfulness? | Yes. |
+| Yes/No | Does the close-up nature of the image allow the viewer to focus on the person's facial features and expression? | Yes. |
+| What | What is the color of the shirt worn by the person in the image? | Black. |
+| What | What is the gesture associated with playfulness and confidence that the person is sticking out? | Tongue. |
+| How | How does the black shirt worn by the person contribute to the overall allure of the scene? | It contrasts with the skin tone and accentuates the person's features. |
+| How | How does the close-up nature of the image enhance the sensuality of the scene? | It allows the viewer to focus on the person's facial features and expression, creating a more intimate and sensual atmosphere. |

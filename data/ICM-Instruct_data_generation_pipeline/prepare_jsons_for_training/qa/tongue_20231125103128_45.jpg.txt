@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman wearing a black shirt? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the woman's facial expression visible in the image? | No. |
+| Yes/No | Does the image capture a moment of confidence? | Yes. |
+| Yes/No | Does the image create an atmosphere of sensuality? | Yes. |
+| What | What color is the woman's shirt? | Black. |
+| What | What is the woman's hair color? | Dark. |
+| How | How is the woman's tongue positioned in the image? | Sticking out. |
+| How | How does the black shirt contrast with the woman's skin tone? | It creates a contrast that accentuates her features. |

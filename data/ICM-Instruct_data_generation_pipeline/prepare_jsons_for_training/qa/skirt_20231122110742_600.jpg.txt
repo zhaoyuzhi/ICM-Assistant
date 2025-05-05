@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple dress? | Yes. |
+| Yes/No | Does the dress have a lace trim? | Yes. |
+| Yes/No | Does the woman have black stockings? | Yes. |
+| Yes/No | Are the thighs of the woman exposed? | Yes. |
+| Yes/No | Is the dress made of a sheer fabric? | Yes. |
+| Yes/No | Does the woman have a pink collar? | Yes. |
+| What | What color is the dress? | Purple. |
+| What | What is the woman looking at? | Her dress. |
+| How | How is the overall atmosphere of the image? | Seductive and alluring. |
+| What | What does the way the woman is looking down at her dress do to the image? | It enhances the seductive atmosphere. |

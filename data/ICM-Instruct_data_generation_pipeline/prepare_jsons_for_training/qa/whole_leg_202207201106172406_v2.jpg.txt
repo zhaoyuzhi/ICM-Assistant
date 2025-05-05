@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Is the dress low-cut? | Yes. |
+| Yes/No | Are the woman's legs crossed? | Yes. |
+| Yes/No | Is the woman holding sunglasses in her hand? | Yes. |
+| Yes/No | Is the pool water light blue? | Yes. |
+| Yes/No | Does the image appear sexy? | Yes. |
+| What | What is the woman wearing? | A red dress. |
+| What | What is the color of the pool water? | Light blue. |
+| How | How is the woman's attire and pose suggestive of relaxation and enjoyment? | The woman's lowcut dress and crossed legs create a sense of relaxation, while her holding sunglasses in her hand suggests she is enjoying her time in the pool. |
+| How | How does the image create a sense of confidence and allure? | The combination of the woman's attire, pose, and the sexy atmosphere created by the lowcut dress, crossed legs, and sunglasses, all contribute to a sense of confidence and allure in the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a gray sweatshirt? | Yes. |
+| Yes/No | Are the woman's pants brown? | Yes. |
+| Yes/No | Is the sweatshirt open, revealing a white shirt underneath? | Yes. |
+| Yes/No | Is the woman smiling and looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What color is the woman's sweatshirt? | Gray. |
+| What | What is the woman's attire in the image? | A gray sweatshirt and brown pants. |
+| How | How is the woman's smile in the image? | Friendly and approachable. |
+| How | How does the blurred background affect the focus of the image? | It emphasizes the woman and her attire, making it clear that the focus is on her and not on any provocative or suggestive elements. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Are both women wearing bikinis? | Yes. |
+| Yes/No | Is the woman in the black bikini wearing sunglasses? | Yes. |
+| Yes/No | Is the woman in the white bikini wearing a skirt? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the overall atmosphere of the image relaxed and fun? | Yes. |
+| What | What color is the woman's bikini who is not wearing sunglasses? | White. |
+| What | What is the woman in the white bikini wearing in addition to her bikini? | A white skirt. |
+| How | How are the women posing in the image? | They are both smiling and appear to be enjoying their time on the beach. |

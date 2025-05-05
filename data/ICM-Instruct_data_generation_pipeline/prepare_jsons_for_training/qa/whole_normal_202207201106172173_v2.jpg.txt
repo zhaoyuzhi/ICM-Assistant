@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the individuals in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the person in the center holding a plaque? | Yes. |
+| Yes/No | Is the stage set against a backdrop of a Chinese landscape? | Yes. |
+| Yes/No | Are the colors of the outfits vibrant and bright? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| What | What is the cultural context of the image? | The image is set in a formal and cultural event, likely a traditional Chinese ceremony or celebration. |
+| What | What is the person in the center holding? | The person in the center is holding a plaque inscribed with Chinese characters. |
+| How | How are the individuals dressed? | The individuals are dressed in traditional Chinese clothing, with the person on the left wearing a vibrant red and gold outfit, and the person on the right wearing a black and gold outfit. |
+| How | How is the stage set against the backdrop? | The stage is set against a backdrop of a Chinese landscape, which further emphasizes the cultural context of the image. |

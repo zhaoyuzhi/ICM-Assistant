@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of gray shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a gray t-shirt? | Yes. |
+| Yes/No | Does the man have his hands on his hips? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image casual and non-sexual? | Yes. |
+| What | What is the man wearing around his waist? | A belt. |
+| How | How are the man's hands positioned in the image? | On his hips. |
+| What | What is the overall atmosphere of the image? | Casual and nonsexual. |
+| Yes/No | Is the man in the image wearing a pair of gray shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a gray t-shirt? | Yes. |
+| Yes/No | Does the man in the image have a belt loop on his shorts? | Yes. |
+| Yes/No | Is the belt that the man is wearing black in color? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire in the image revealing? | No. |
+| What | What is the color of the man's shorts in the image? | Gray. |
+| What | What is the overall atmosphere of the image? | Neutral. |
+| How | How would you describe the man's attire in the image? | Casual. |

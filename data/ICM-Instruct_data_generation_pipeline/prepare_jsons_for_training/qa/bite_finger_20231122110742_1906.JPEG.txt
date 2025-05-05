@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is there a person in the image? | Yes. |
+| Yes/No | Is the person's hand inside their mouth? | Yes. |
+| Yes/No | Is the person wearing a necklace? | Yes. |
+| Yes/No | Does the person have a seductive expression? | Yes. |
+| Yes/No | Does the image give a sexy feel? | Yes. |
+| Yes/No | Are the person's fingers visible? | Yes. |
+| What | What is the person's facial expression? | Playful and seductive. |
+| What | What is around the person's neck? | A necklace. |
+| What | What is the atmosphere of the image? | Alluring and enticing. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sweater? | Yes. |
+| Yes/No | Does the sweater have a lace-up neckline? | Yes. |
+| Yes/No | Is the woman's hand placed on her hip? | Yes. |
+| Yes/No | Is the image a close-up of the woman's upper body? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the overall atmosphere of the image seductive and inviting? | Yes. |
+| What | What is the color of the sweater the woman is wearing? | Pink. |
+| What | What is the woman's pose in the image? | She is standing with her hand on her hip, accentuating her figure. |
+| How | How does the woman's hand on her hip contribute to the overall allure of the image? | It suggests confidence and selfassuredness, adding to the allure of her attire. |
+| How | How does the close-up nature of the image contribute to the overall atmosphere? | It allows the viewer to focus on the woman's chest and the details of her attire, creating a sense of intimacy and allure. |

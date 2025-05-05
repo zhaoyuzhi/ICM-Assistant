@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the jeans a dark blue color? | Yes. |
+| Yes/No | Does the person have their hands resting in their pockets? | Yes. |
+| Yes/No | Is the overall atmosphere of the image relaxed and confident? | Yes. |
+| Yes/No | Does the image evoke a sense of connection between the viewer and the person? | Yes. |
+| What | What color are the jeans? | Dark blue. |
+| What | What is the person's pose in the image? | Casual, with hands resting in pockets. |
+| How | How does the contrast between the blue jeans and white shirt contribute to the image's overall atmosphere? | The contrast creates a sense of visual interest and adds to the relaxed and confident atmosphere of the image. |
+| How | How does the exposed belly add to the image's sense of vulnerability and intimacy? | The exposed belly creates a sense of vulnerability and intimacy by revealing a typically private area of the person's body, inviting the viewer to appreciate the beauty in the simplicity of the moment. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's shirt tucked into their jeans? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Is the person's midriff exposed? | Yes. |
+| Yes/No | Are the jeans slightly faded? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the person's shirt color? | White. |
+| How | How are the jeans faded? | Slightly faded. |
+| How | How does the person's stance suggest self-assurance? | The person is standing with their hands in their pockets, adding to the casual and relaxed atmosphere of the image. |

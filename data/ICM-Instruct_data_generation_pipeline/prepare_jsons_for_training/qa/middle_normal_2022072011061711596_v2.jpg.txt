@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of olive green trousers? | Yes. |
+| Yes/No | Does the person have a tie at the waist? | Yes. |
+| Yes/No | Is the blouse white? | Yes. |
+| Yes/No | Does the blouse have a floral pattern? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the image sexy or provocative? | No. |
+| What | What is the color of the trousers? | Olive green. |
+| What | What is the pattern on the blouse? | Floral. |
+| How | How are the trousers fitting? | Loosefitting. |
+| How | How is the blouse adorned? | Adorned with a floral pattern. |
+| Yes/No | Is the person in the image wearing a pair of olive green trousers? | Yes. |
+| Yes/No | Does the person have a tie at the waist? | Yes. |
+| Yes/No | Is the person wearing a white blouse with a floral pattern? | Yes. |
+| Yes/No | Are the person's hands resting at their sides? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image suggest any intimate or provocative actions? | No. |
+| What | What is the color of the person's trousers? | Olive green. |
+| What | What is the pattern on the person's blouse? | Floral. |
+| How | How are the person's trousers fitting? | Loosefitting. |
+| How | How is the person's blouse styled? | Modest, with a floral pattern. |

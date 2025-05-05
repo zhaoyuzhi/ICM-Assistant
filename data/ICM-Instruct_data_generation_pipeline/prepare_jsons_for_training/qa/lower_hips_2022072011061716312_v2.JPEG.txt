@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of gray leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a white sports bra? | Yes. |
+| Yes/No | Is the person in the image leaning against a white wall? | Yes. |
+| Yes/No | Is the person's left hand resting on their hip? | Yes. |
+| Yes/No | Is the person's right hand on their thigh? | Yes. |
+| Yes/No | Does the image feature a sexy pose? | Yes. |
+| What | What is the person in the image wearing on their lower body? | Gray leggings. |
+| What | What is the person in the image wearing on their upper body? | White sports bra. |
+| How | How is the person in the image posing? | The person is leaning against a white wall with their left hand resting on their hip and their right hand on their thigh, while showcasing their buttocks. |
+| How | How does the person's attire contribute to the overall allure of the image? | The gray leggings and white sports bra are simple yet stylish, which adds to the person's confident pose and the overall allure of the image. |

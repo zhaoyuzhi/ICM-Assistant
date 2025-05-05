@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue turtleneck sweater? | Yes. |
+| Yes/No | Is the woman standing in a room with a bed and a vase of flowers in the background? | Yes. |
+| Yes/No | Is the woman unbuttoning her sweater? | Yes. |
+| Yes/No | Is the woman wearing a black face mask? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman unbuttoning her sweater revealing? | Her cleavage. |
+| What | What is the color of the woman's sweater? | Blue. |
+| How | How is the woman's sweater unbuttoned? | It is unbuttoned, revealing her cleavage. |
+| How | How does the black face mask add to the image? | It adds an element of mystery and intrigue. |

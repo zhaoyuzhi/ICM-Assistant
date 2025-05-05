@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman in the image lifting up her dress? | Yes. |
+| Yes/No | Is the woman in the image wearing black tights underneath her dress? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Does the woman's attire and actions suggest a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image sexy due to the woman's actions and attire? | Yes. |
+| What | What is the woman in the image lifting up her dress to reveal? | Her legs. |
+| What | What is the woman in the image wearing underneath her dress? | Black tights. |
+| How | How is the woman in the image showcasing her body? | By lifting her dress and exposing her legs. |
+| How | How do the black dress and tights add to the allure of the image? | They are often associated with sensuality and elegance, creating a seductive and provocative atmosphere. |

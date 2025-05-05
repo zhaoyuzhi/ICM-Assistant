@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the photo? | Yes. |
+| Yes/No | Is the woman wearing a blue dress? | Yes. |
+| Yes/No | Is the woman holding a purse? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the image reveal any intimate details of the woman's body? | No. |
+| What | What is the woman holding in her hand? | A purse. |
+| What | What is on the table in front of the woman? | A cake. |
+| How | How is the woman dressed? | Modestly, in a blue dress. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonsexual. |

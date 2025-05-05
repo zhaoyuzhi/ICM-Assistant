@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Are the person's flowers in their hand? | Yes. |
+| Yes/No | Is the image set on a set of stairs? | Yes. |
+| Yes/No | Does the person have a confident posture? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing in the image? | A white dress. |
+| What | What is the person holding in their hand? | A bouquet of flowers. |
+| How | How is the person standing in the image? | With a confident posture, looking over their shoulder. |
+| How | How does the image create a sense of allure and sensuality? | Through the combination of the person's attire, the exposed skin, and the overall atmosphere. |

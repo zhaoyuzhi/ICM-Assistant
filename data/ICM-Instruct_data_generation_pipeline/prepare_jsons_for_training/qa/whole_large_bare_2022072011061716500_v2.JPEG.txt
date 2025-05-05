@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a leopard print bikini? | Yes. |
+| Yes/No | Is the woman standing on a beach in the image? | Yes. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| Yes/No | Are there rocks visible in the background of the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy and alluring atmosphere? | Yes. |
+| What | What is the woman's attire in the image? | A leopard print bikini. |
+| What | What is the prominent feature of the woman's outfit in the image? | The leopard print bikini. |
+| How | How does the woman's direct gaze at the camera contribute to the image's allure? | It creates a sense of intrigue and engagement. |
+| How | How does the leopard print bikini add to the overall allure of the image? | It's a bold and eyecatching choice that draws attention to the woman's body. |

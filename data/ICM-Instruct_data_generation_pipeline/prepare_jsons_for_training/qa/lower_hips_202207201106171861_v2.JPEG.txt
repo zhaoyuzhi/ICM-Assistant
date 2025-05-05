@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing yellow leggings? | Yes. |
+| Yes/No | Is the person's shirt blue? | Yes. |
+| Yes/No | Are the person's legs spread apart? | Yes. |
+| Yes/No | Is the person's buttocks prominently displayed? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| Yes/No | Does the person's pose suggest confidence and self-assuredness? | Yes. |
+| What | What color are the person's leggings? | Yellow. |
+| What | What is the color of the person's shirt? | Blue. |
+| How | How are the person's legs positioned in the image? | Spread apart. |
+| How | How does the person's pose create an atmosphere? | Sensual and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Are they wearing white sneakers? | Yes. |
+| Yes/No | Is the image taken in a fast food restaurant? | Yes. |
+| Yes/No | Is the person's buttocks prominently displayed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What type of shoes are they wearing? | White sneakers. |
+| How | How is the person's buttocks displayed? | Prominently. |
+| What | What atmosphere does the image create? | Sensuality and allure. |

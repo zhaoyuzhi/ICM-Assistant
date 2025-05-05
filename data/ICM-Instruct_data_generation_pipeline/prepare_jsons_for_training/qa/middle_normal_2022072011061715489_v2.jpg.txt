@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jean shorts? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Is the person's t-shirt black? | Yes. |
+| Yes/No | Are the shorts frayed at the hem? | Yes. |
+| Yes/No | Is the warehouse in the background filled with boxes and other items? | Yes. |
+| Yes/No | Is the image's exposure level low? | Yes. |
+| What | What color are the shorts? | Blue. |
+| What | What is the person's pose in the image? | Casual, with hands in pockets. |
+| How | How does the person's outfit suggest a laid-back style? | The shorts have a frayed hem, and the person is wearing a casual black tshirt. |
+| How | How does the warehouse setting contrast with the person's casual clothing? | The warehouse setting is industrial, while the person's clothing is casual and relaxed. |
+| Yes/No | Is the person in the image wearing a pair of blue jean shorts with a white stripe on the side? | Yes. |
+| Yes/No | Are the shorts slightly torn at the knees? | Yes. |
+| Yes/No | Is the person wearing a black t-shirt? | Yes. |
+| Yes/No | Is the warehouse in the background filled with boxes and other items? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the person's t-shirt? | Black. |
+| What | What is the color of the shorts? | Blue. |
+| How | How are the shorts torn? | Slightly torn at the knees. |
+| How | How does the low exposure level of the image affect the focus of the image? | It maintains the focus on the outfit and the environment, rather than the person's physical appearance. |

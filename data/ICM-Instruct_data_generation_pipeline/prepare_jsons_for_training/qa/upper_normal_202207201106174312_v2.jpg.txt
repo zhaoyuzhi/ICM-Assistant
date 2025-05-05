@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue jacket? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun? | Yes. |
+| Yes/No | Are there potted plants in the background of the image? | Yes. |
+| Yes/No | Is the woman engrossed in her phone? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the woman display any provocative or suggestive behavior in the image? | No. |
+| What | What is the woman using in the image? | A phone. |
+| What | What is the color of the tablecloth? | White. |
+| How | How is the woman's hair styled? | In a bun. |
+| What | What is the exposure level of the image? | Very low. |

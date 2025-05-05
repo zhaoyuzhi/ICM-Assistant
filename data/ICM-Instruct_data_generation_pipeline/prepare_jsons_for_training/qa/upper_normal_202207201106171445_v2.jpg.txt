@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman wearing a gold necklace? | Yes. |
+| Yes/No | Is the woman standing in front of a bowl? | Yes. |
+| Yes/No | Is the liquid in the bowl black? | Yes. |
+| Yes/No | Is the woman stirring the liquid? | Yes. |
+| Yes/No | Is the image focused on the woman's actions rather than her appearance? | Yes. |
+| What | What is the woman mixing or preparing in the image? | The black liquid in the bowl. |
+| What | What is the overall atmosphere of the image? | Not sexy, focused on the woman's actions and the black liquid in the bowl. |
+| How | How is the woman stirring the liquid? | Using her hands. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the woman's actions and the black liquid, rather than on her appearance. |

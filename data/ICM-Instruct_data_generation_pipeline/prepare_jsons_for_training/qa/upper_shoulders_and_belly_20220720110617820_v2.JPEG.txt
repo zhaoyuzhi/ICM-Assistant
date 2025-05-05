@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Does the top have a scalloped neckline? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the woman's pose create a sense of allure and mystery? | Yes. |
+| Yes/No | Is the color of the top light beige? | Yes. |
+| What | What is the color of the woman's top? | Light beige. |
+| What | What is the woman's pose in the image? | Standing with her back to the camera. |
+| How | How does the scalloped neckline of the top add to the image's overall atmosphere? | It adds a hint of sophistication. |
+| How | How does the woman's pose and choice of clothing create a sense of allure and mystery? | The woman's back is turned to the camera, creating a sense of mystery, and her strapless top adds a touch of allure. |

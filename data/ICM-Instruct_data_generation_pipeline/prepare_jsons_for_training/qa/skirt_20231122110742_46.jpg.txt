@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Is the woman's dress white? | Yes. |
+| Yes/No | Does the woman have her legs exposed? | Yes. |
+| Yes/No | Is the woman wearing a pink sweater? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color is the woman's sweater? | Pink. |
+| What | What is the woman doing in the image? | Lifting her dress and exposing her legs. |
+| How | How does the woman's choice of clothing contribute to the allure of the image? | The white skirt and pink sweater enhance the overall allure. |
+| How | How does the light on the floor contribute to the atmosphere of the image? | The soft and warm ambiance enhances the seductive vibe. |

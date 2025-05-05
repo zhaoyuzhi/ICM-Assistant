@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink Hello Kitty device? | Yes. |
+| Yes/No | Is the device connected to a tube and pump? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person holding the device in their hand? | Yes. |
+| Yes/No | Is their finger on the button of the device? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| What | What is the color of the Hello Kitty device? | Pink. |
+| What | What is the purpose of the tube and pump in the image? | Medical or healthrelated context. |
+| How | How is the person holding the device? | In their hand. |
+| How | How does the image create an intimate and personal atmosphere? | Closeup of the person's body and the device they are using, playful and cute element, exposed belly, and hand on the device. |
+| Yes/No | Is the person in the image wearing a pink Hello Kitty device? | Yes. |
+| Yes/No | Is the device connected to a tube and pump? | Yes. |
+| Yes/No | Is the person holding the device in their hand? | Yes. |
+| Yes/No | Is the person pointing at the screen of the device? | Yes. |
+| Yes/No | Are the person's blue jeans a contrast to the pink device? | Yes. |
+| Yes/No | Does the image have an intimate and personal atmosphere? | Yes. |
+| What | What is the color of the Hello Kitty device? | Pink. |
+| What | What is the purpose of the tube and pump in the image? | Medical or healthrelated context. |
+| How | How is the person interacting with the device? | By holding it in their hand and pointing at the screen. |
+| How | How does the image create an intimate and sexy atmosphere? | Through the closeup of the person's body, the pink device, and the medical or healthrelated context. |

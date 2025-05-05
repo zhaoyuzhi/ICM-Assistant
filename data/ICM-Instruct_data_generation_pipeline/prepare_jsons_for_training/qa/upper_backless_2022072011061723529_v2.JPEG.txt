@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| Yes/No | Does the woman have her hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the woman in the image looking at? | The ocean. |
+| What | What is the color of the bikini top and skirt? | Colorful pattern. |
+| How | How is the woman's hair styled in the image? | Ponytail. |
+| How | How does the woman's pose in the image contribute to the overall atmosphere? | Confident and selfassured, adding to the sense of mystery and intrigue. |

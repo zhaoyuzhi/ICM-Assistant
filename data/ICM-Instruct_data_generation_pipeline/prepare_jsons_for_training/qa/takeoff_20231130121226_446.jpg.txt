@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's clothes black? | No. |
+| Yes/No | Does the image have a beach scene? | Yes. |
+| Yes/No | Is the blanket red? | No. |
+| Yes/No | Is the person's back facing the ocean? | Yes. |
+| Yes/No | Is the atmosphere of the image happy? | No. |
+| What | What is the person holding over their head? | A white blanket. |
+| What | What color are the person's pants? | White. |
+| How | How is the person positioning their hands? | On their head. |
+| How | How does the image evoke feelings in viewers? | Mystery and intrigue. |

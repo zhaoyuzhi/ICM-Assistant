@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing boxer briefs? | Yes. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Is the man in the image standing? | Yes. |
+| Yes/No | Does the image have a sexual connotation? | Yes. |
+| Yes/No | Is the man in the image smiling? | No. |
+| What | What is the man's facial expression? | Serious/Confident. |
+| What | What color are the man's boxer briefs? | Black and gold. |
+| How | How is the man standing? | With his hands on his hips. |
+| How | How would you describe the atmosphere created by the image? | Alluring/Provocative. |

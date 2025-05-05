@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image wearing a beige skirt? | Yes. |
+| Yes/No | Does the woman in the image have a strapless top? | Yes. |
+| Yes/No | Is the woman in the image holding a bouquet of flowers? | Yes. |
+| Yes/No | Are the flowers in the bouquet purple? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What color is the woman's top? | Black. |
+| What | What color are the flowers in the bouquet? | Purple. |
+| How | How is the woman's hair styled? | In a short bob. |
+| How | How does the woman hold the bouquet of flowers? | With confidence and allure. |

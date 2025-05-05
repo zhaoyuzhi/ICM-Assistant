@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing sunglasses? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman's top black? | Yes. |
+| Yes/No | Is the woman's tongue sticking out? | Yes. |
+| Yes/No | Does the image have a fun and flirtatious atmosphere? | Yes. |
+| Yes/No | Does the woman have a confident and self-assured expression? | Yes. |
+| What | What is the woman's hair color? | Blonde. |
+| What | What is the woman's pose in the image? | Sticking out her tongue and having a playful and confident gesture. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How does the woman's expression suggest confidence and self-assurance? | Through her playful and confident pose and facial expression. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blue sweater? | Yes. |
+| Yes/No | Does the woman in the image have her hands resting on her hips? | Yes. |
+| Yes/No | Is the woman in the image posing in a confident manner? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How does the woman's oversized sweater contribute to the image's atmosphere? | It adds a casual yet stylish touch. |
+| How | How does the woman's confident pose contribute to the image's atmosphere? | It enhances the sexy vibe. |

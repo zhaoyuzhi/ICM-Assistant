@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt brown? | Yes. |
+| Yes/No | Does the skirt have pockets? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Is the person holding a purse? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's pose in the image? | The person is standing with their legs slightly apart. |
+| What | What is the main focus of the image? | The person's legs and the skirt. |
+| How | How does the person's attire contribute to the overall style of the image? | The person's attire, including the contrasting colors of the brown skirt and black top, contribute to a casual yet confident style. |
+| How | How does the image capture the person's confidence and style? | The image captures the person's confidence and style through their pose, attire, and the overall visually appealing scene. |

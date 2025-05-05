@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Are the shorts she is wearing cropped at the knee? | Yes. |
+| Yes/No | Is she holding a purse in her left hand? | Yes. |
+| Yes/No | Is she holding a plaid shirt in her right hand? | Yes. |
+| Yes/No | Is the background of the image the ocean? | Yes. |
+| Yes/No | Are there palm trees visible in the background? | Yes. |
+| What | What is the color of the woman's top? | Black. |
+| What | What is the color of the shorts she is wearing? | Blue. |
+| How | How are the shorts cropped? | At the knee. |
+| How | How does the woman's outfit and pose suggest a sense of confidence and allure? | The woman's outfit, specifically the cropped shorts and black top, create a sense of confidence and allure, and her pose, with her left hand on her hip and her right hand holding a plaid shirt, adds to the overall allure of the image. |

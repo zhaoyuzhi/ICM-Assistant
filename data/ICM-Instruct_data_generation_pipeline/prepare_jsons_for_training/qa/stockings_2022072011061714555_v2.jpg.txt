@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing fishnet stockings? | Yes. |
+| Yes/No | Is the woman sitting on the floor? | Yes. |
+| Yes/No | Are the stockings black? | Yes. |
+| Yes/No | Does the woman have her legs crossed? | Yes. |
+| Yes/No | Is the woman wearing a black bra? | Yes. |
+| Yes/No | Is the woman wearing black heels? | Yes. |
+| What | What is the woman wearing on her legs? | Fishnet stockings. |
+| What | What is the woman's attire and pose? | She is wearing a black bra and black heels, and her legs are crossed. |
+| How | How are the stockings patterned? | They have a fishnet pattern. |
+| How | How does the image create a sense of intimacy and sensuality? | The woman's attire and pose, particularly the fishnet stockings and crossed legs, create a sense of intimacy and sensuality. |

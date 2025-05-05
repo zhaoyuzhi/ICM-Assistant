@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| How | Does the image show the person's face? | No. |
+| Yes/No | Is the person in the image smiling? | No. |
+| What | What is the main focus of the image? | The person's belly. |
+| What | What is the atmosphere of the image? | Casual and relaxed, with a sense of intimacy and allure. |
+| How | How does the person's attire contribute to the image's atmosphere? | The person's casual attire, specifically their red shirt and blue jeans, adds to the relaxed and casual atmosphere of the image. |
+| How | How does the image capture a moment of vulnerability and confidence? | The image captures a moment of vulnerability and confidence through the person's exposed belly and relaxed posture, which creates a sense of intimacy and allure. |
+| Yes/No | Is the person in the image wearing a red shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's stomach exposed in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image showcase the person's sensuality? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| What | What color is the person's shirt? | Red. |
+| What | What color are the person's jeans? | Blue. |
+| How | How does the person's attire contribute to the image's overall atmosphere? | The person's casual attire, specifically the red shirt and blue jeans, adds a pop of color to the image and creates a relaxed and intimate atmosphere. |
+| How | How does the exposure of the person's stomach contribute to the image's overall feeling of sensuality? | The exposure of the person's stomach emphasizes their sensuality and allure, creating a sense of intimacy and confidence. |

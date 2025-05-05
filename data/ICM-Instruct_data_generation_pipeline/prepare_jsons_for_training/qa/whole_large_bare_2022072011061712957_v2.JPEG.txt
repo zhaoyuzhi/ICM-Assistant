@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Are the bikini top and bottom designed to be worn together? | Yes. |
+| Yes/No | Does the bikini top have straps that can be tied around the neck or back? | Yes. |
+| Yes/No | Is the bikini bottom a two-piece design? | Yes. |
+| Yes/No | Is the person in the image wearing a bracelet? | Yes. |
+| Yes/No | Does the image feature a pop of color? | Yes. |
+| What | What is the color of the bikini top and bottom? | Purple. |
+| What | What is the person in the image looking at? | The water. |
+| How | How are the bikini top and bottom held in place? | The top is strapless, and the bottom features thin straps that can be tied around the waist. |
+| How | How would you describe the overall atmosphere of the image? | Alluring and sensual. |

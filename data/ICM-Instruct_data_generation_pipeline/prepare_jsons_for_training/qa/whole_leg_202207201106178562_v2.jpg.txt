@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink baseball cap? | Yes. |
+| Yes/No | Is the building in the background made of glass? | Yes. |
+| Yes/No | Is the woman's outfit casual and comfortable? | Yes. |
+| Yes/No | Is the woman's pose relaxed? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman wearing shorts? | Yes. |
+| What | What color is the woman's baseball cap? | Pink. |
+| What | What is the woman's right hand doing in the image? | Hanging loosely at her side. |
+| How | How is the woman's left hand positioned in the image? | Resting on her hip. |
+| How | How does the urban setting of the building contrast with the woman's outfit? | The urban setting contrasts with the casual, comfortable style of the woman's outfit, creating a sexy atmosphere. |

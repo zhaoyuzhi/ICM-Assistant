@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman wearing a gray tank top in the first photo? | Yes. |
+| Yes/No | Is the woman's hair styled in a half-up, half-down style in the second photo? | Yes. |
+| Yes/No | Is the woman wearing a black top in the second photo? | Yes. |
+| Yes/No | Is the woman's hair styled in a low ponytail in the third photo? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's hair color in the image? | Blonde. |
+| What | What is the woman wearing in the third photo? | A white top. |
+| How | How is the woman's hair styled in the first photo? | In loose waves. |
+| How | How is the woman's hair styled in the second photo? | In a halfup, halfdown style. |

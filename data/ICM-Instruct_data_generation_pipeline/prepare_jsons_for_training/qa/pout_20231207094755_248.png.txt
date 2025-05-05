@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman pouting in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's facial expression playful? | Yes. |
+| Yes/No | Is the woman's facial expression seductive? | Yes. |
+| What | What is the woman wearing in the image? | A black shirt. |
+| What | What is the woman's facial expression in the image? | Playful and seductive. |
+| How | How is the woman's hair styled in the image? | The woman's hair is long and straight. |
+| How | How does the black shirt contribute to the overall atmosphere of the image? | The black shirt adds to the allure and mystery of the image, making it appear sexier. |

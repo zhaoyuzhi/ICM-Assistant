@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image dressed in a suit and tie? | Yes. |
+| Yes/No | Is the image set in a professional or formal setting? | Yes. |
+| Yes/No | Does the man appear to be deep in thought? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| Yes/No | Does the image convey a sense of focus and concentration? | Yes. |
+| What | What is the man's facial expression in the image? | Thoughtful. |
+| What | What is the man's posture in the image? | Sitting with hands clasped together. |
+| How | How is the man dressed in the image? | Formally, in a suit and tie. |
+| How | How would you describe the overall atmosphere of the image? | Serious and professional. |

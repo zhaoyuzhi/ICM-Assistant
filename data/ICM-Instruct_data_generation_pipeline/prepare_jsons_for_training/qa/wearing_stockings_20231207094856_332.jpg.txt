@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image likely a woman? | Yes. |
+| Yes/No | Is the person wearing a black dress? | Yes. |
+| Yes/No | Is the person standing on a wooden stool? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the person pulling up black stockings? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image wearing? | Black dress and black stockings. |
+| What | What is the person holding in place with her hands? | The stockings. |
+| How | How is the woman's presence emphasized in the image? | The wooden stool adds an element of height and prominence. |
+| How | How does the black dress and stockings create a sense of allure and mystery? | It creates a sense of intrigue about the woman's story and the context of the situation. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the stockings being put on by the person in the image black? | Yes. |
+| Yes/No | Is the person in the image standing on a wooden stool? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image holding in their hands? | The stockings. |
+| What | What is the color of the dress worn by the person in the image? | Black. |
+| How | How is the woman holding the stockings in place? | With her hands. |
+| What | What element in the image adds a sense of height and prominence to the woman's presence? | The wooden stool. |

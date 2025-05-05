@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman wearing a blue shirt? | Yes. |
+| Yes/No | Is the ocean in the background? | Yes. |
+| Yes/No | Are there mountains visible in the distance? | Yes. |
+| Yes/No | Is the woman taking off her clothes? | Yes. |
+| Yes/No | Does the image suggest a sense of relaxation and enjoyment? | Yes. |
+| What | What color is the woman's shirt? | Blue. |
+| What | What is the woman doing in the image? | Taking off her clothes. |
+| How | How is the woman's posture in the image? | Relaxed. |
+| How | How does the image create a sense of freedom and adventure? | Through the woman's actions and the serene environment. |

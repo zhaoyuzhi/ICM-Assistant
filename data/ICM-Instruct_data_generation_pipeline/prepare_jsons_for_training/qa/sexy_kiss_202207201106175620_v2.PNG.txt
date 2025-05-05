@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the couple making out with their mouths open? | Yes. |
+| Yes/No | Is the woman resting her head on the man's shoulder? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and passionate? | Yes. |
+| Yes/No | Does the image suggest a deep emotional connection between the couple? | Yes. |
+| What | What is the color of the man's shirt? | Black. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How are the couple locked in a tender embrace? | The woman is resting her head on the man's shoulder. |
+| How | How does the image suggest a deep emotional connection between the couple? | The couple is locked in a tender embrace, with the woman resting her head on the man's shoulder, which suggests a deep emotional connection between them. |

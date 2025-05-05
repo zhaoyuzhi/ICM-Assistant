@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray sweater? | Yes. |
+| Yes/No | Is the floor in the room made of marble? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are the colors in the image bright and vibrant? | No. |
+| Yes/No | Does the image reveal any inappropriate or explicit content? | No. |
+| What | What is the woman's facial expression in the image? | Neutral/serious. |
+| What | What is the overall atmosphere of the image? | Calm/composed. |
+| How | How is the woman's hair styled in the image? | In a bun. |
+| How | How would you describe the woman's outfit in the image? | Professional/neutral. |

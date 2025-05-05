@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's posture neutral? | Yes. |
+| Yes/No | Does the image focus on the woman's body or actions? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the woman wearing in the image? | A yellow blouse and a black skirt. |
+| What | What is the overall atmosphere of the image? | Calm and relaxed. |
+| How | How does the woman's attire contribute to the image's non-sexual nature? | The woman's modest attire, including a yellow blouse and a black skirt, contributes to the image's nonsexual nature by avoiding any explicit or suggestive content. |
+| How | How does the low exposure level contribute to the image's non-sexual nature? | The low exposure level of the image, which refers to the amount of skin shown, contributes to the image's nonsexual nature by not highlighting the woman's body in a sexualized way. |

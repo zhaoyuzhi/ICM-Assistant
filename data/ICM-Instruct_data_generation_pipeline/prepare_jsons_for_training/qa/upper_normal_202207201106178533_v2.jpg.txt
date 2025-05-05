@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue dress? | Yes. |
+| Yes/No | Is the woman holding a microphone? | Yes. |
+| Yes/No | Is the stage set with a large screen in the background? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the woman's physical appearance? | No. |
+| What | What is the woman in the image doing? | She is singing. |
+| What | What is the color of the woman's dress? | Blue. |
+| How | How is the stage set in the image? | The stage is set with a large screen in the background. |
+| How | How does the image convey the atmosphere of the performance? | The image conveys a lowkey, focused atmosphere, emphasizing the woman's actions and the stage setting rather than her physical appearance. |

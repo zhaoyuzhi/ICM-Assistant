@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress sheer? | Yes. |
+| Yes/No | Does the dress have a crop top? | Yes. |
+| Yes/No | Are there blue and white flowers on the dress? | Yes. |
+| Yes/No | Is the woman lifting her skirt? | Yes. |
+| Yes/No | Are the woman's thighs exposed? | Yes. |
+| What | What color are the flowers on the dress? | Blue and white. |
+| What | What type of shoes is the woman wearing? | Black high heels. |
+| How | How is the woman posing in the image? | She is lifting her skirt and exposing her thighs. |
+| What | What atmosphere does the image convey? | Seductive and alluring. |

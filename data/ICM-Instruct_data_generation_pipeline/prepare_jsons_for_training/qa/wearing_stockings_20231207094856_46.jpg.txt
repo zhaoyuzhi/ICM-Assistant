@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Are the person's feet bare? | No. |
+| Yes/No | Is the person's attire black and white? | Yes. |
+| Yes/No | Does the image depict a moment of intimacy? | Yes. |
+| Yes/No | Does the act of putting on stockings imply vulnerability? | Yes. |
+| Yes/No | Is the atmosphere of the image both intimate and alluring? | Yes. |
+| What | What is the person in the image wearing on their legs? | Beige stockings. |
+| What | What is the color of the person's dress? | Black and white polka dot. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | It adds a playful and stylish touch to the scene, creating an atmosphere that is both intimate and alluring. |
+| How | How does the act of putting on stockings contribute to the overall atmosphere of the image? | It adds a sensual and alluring element to the scene, as it involves the exposure of the person's legs and feet, and can be seen as a private and personal activity. |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| Yes/No | Are the person's feet resting on a towel? | Yes. |
+| Yes/No | Is the person wearing a black and white polka dot dress? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the act of putting on stockings a personal and private activity? | Yes. |
+| What | What is the person in the image wearing? | A black and white polka dot dress and beige stockings. |
+| What | What is the person in the process of doing in the image? | Putting on stockings. |
+| How | How does the person's attire, the black and white polka dot dress, add to the atmosphere of the image? | It adds a playful and stylish touch to the scene. |
+| How | How does the act of putting on stockings contribute to the intimate and alluring atmosphere of the image? | It involves the exposure of the person's legs and feet, creating a sensual and alluring act. |

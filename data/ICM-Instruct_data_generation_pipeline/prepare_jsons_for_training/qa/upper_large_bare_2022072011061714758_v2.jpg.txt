@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green bra? | Yes. |
+| Yes/No | Is the bra floral? | Yes. |
+| Yes/No | Is the woman sitting on a bed? | Yes. |
+| Yes/No | Is the comforter on the bed white? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What is the dominant color of the woman's attire? | Green. |
+| What | What is the color of the comforter on the bed? | White. |
+| How | How is the woman's body positioned in relation to the viewer? | The woman's body is facing the viewer. |
+| How | How would you describe the overall atmosphere of the image? | Seductive and inviting. |

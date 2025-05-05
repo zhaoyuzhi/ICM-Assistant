@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue lace thong? | Yes. |
+| Yes/No | Is the person in the image sitting on a floral patterned couch? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the blue lace thong the only piece of clothing visible on the person's lower body? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and allure? | Yes. |
+| Yes/No | Does the person in the image appear confident and self-assured? | Yes. |
+| What | What is the color of the lace thong in the image? | Blue. |
+| What | What is the pattern on the couch in the image? | Floral. |
+| How | How is the person sitting on the couch in the image? | With their legs crossed. |
+| How | How does the image create a sense of intimacy and allure? | Through the combination of the blue lace thong, the floral pattern on the couch, and the person's posture and confident demeanor. |

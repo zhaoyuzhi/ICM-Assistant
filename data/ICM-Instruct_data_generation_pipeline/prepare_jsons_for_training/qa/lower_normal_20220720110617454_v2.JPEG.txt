@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white stripe on their sweatpants? | Yes. |
+| Yes/No | Does the logo on the person's t-shirt contain the color white? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the person looking directly at the camera? | No. |
+| Yes/No | Does the image contain any suggestive or sexual content? | No. |
+| Yes/No | Is the person's attire revealing or provocative? | No. |
+| What | What is the color of the person's sweatpants? | Black. |
+| What | What is the logo on the person's t-shirt? | White. |
+| How | How are the person's hands positioned in the image? | Casually tucked into their pockets. |
+| How | How is the person looking in the image? | Looking down at their feet. |

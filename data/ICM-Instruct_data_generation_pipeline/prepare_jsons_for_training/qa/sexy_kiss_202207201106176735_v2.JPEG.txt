@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black suit? | Yes. |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Are the man and woman kissing in the image? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman? | Yes. |
+| Yes/No | Is the woman's head tilted back in the image? | Yes. |
+| Yes/No | Does the image feature a hallway with a door and a window? | Yes. |
+| What | What is the color of the man's suit? | Black. |
+| What | What is the color of the woman's dress? | White. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the man's arms wrapped around the woman. |
+| How | How does the woman's head tilt back in the image? | The woman's head is tilted back, and she is looking up at the man. |

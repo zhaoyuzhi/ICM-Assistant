@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Is the woman in the image wearing any bright colors? | No. |
+| Yes/No | Is the woman in the image posing in a suggestive manner? | No. |
+| Yes/No | Is the woman in the image holding a sexual object? | No. |
+| Yes/No | Is the woman in the image standing in a provocative location? | No. |
+| Yes/No | Is the woman in the image surrounded by any explicit content? | No. |
+| What | What is the woman in the image holding in her right hand? | A phone. |
+| What | What is the color of the woman's shirt? | Beige. |
+| How | How is the woman's hair styled in the image? | In a bun. |
+| How | How would you describe the exposure level of the image? | Very low. |

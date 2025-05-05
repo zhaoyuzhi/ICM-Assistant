@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white nightgown? | Yes. |
+| Yes/No | Does the nightgown have a lace trim? | Yes. |
+| Yes/No | Is the nightgown strapless? | Yes. |
+| Yes/No | Is the woman standing on a couch? | Yes. |
+| Yes/No | Is she looking downwards? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's pose on the couch? | She is standing with her left hand resting on her knee and her right hand lightly touching her hair. |
+| What | What is the woman's attire in the image? | She is wearing a white strapless nightgown with a lace trim. |
+| How | How is the woman's attitude in the image? | She appears relaxed and confident. |
+| How | How does the image make you feel? | The image creates a seductive atmosphere. |

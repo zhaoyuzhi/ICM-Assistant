@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a green jacket? | Yes. |
+| Yes/No | Are the person's legs and feet visible in the image? | Yes. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire and the setting provocative or alluring? | No. |
+| Yes/No | Does the image contain any inappropriate or offensive elements? | No. |
+| What | What color are the person's sneakers? | Black and white. |
+| What | What type of plants and flowers are surroundiing the person? | Not specified in the description. |
+| How | How is the person standing on the grassy surface? | Not specified in the description. |
+| How | How does the image convey the atmosphere? | Through the use of a low exposure level, focus on the person's outfit and the environment, and the absence of explicit or suggestive content. |

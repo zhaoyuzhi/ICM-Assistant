@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's arms resting on their knees? | Yes. |
+| Yes/No | Is the person wearing a denim skirt? | Yes. |
+| Yes/No | Is the person wearing a red and black shoe? | Yes. |
+| What | What is the person's attire in the image? | Denim skirt and red and black shoe. |
+| What | What is the color of the stool in the image? | Pink. |
+| How | How is the person standing in the image? | With their legs crossed and arms resting on their knees. |
+| How | How does the image capture the person's attitude? | It captures a moment of confidence and allure, making it a sexy and captivating photograph. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red and white checkered dress? | Yes. |
+| Yes/No | Is the woman lifting the skirt of her dress? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| Yes/No | Is the woman's pose in the image provocative? | Yes. |
+| Yes/No | Are the woman's actions in the image suggestive of confidence and allure? | Yes. |
+| What | What is the woman lifting in the image? | The skirt of her dress. |
+| What | What is the woman wearing on her upper body? | A white top. |
+| How | How is the woman's pose in the image? | She is lifting her dress, revealing her legs. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | Her red and white checkered dress with a bow on the front and white top create an atmosphere of allure and confidence. |

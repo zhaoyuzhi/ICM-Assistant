@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a green leather skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the skirt have a zipper running down the front? | Yes. |
+| Yes/No | Is the person's pose confident and relaxed? | Yes. |
+| Yes/No | Does the image suggest any form of intimacy or sexual allure? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What is the unique detail on the skirt? | The zipper running down the front. |
+| How | How is the person's right hand positioned in the image? | Hanging loosely at their side. |
+| How | How would you describe the overall atmosphere of the image? | Casual and confident. |
+| Yes/No | Is the person in the image wearing green leather shorts? | Yes. |
+| Yes/No | Is the person in the image carrying a black purse? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| Yes/No | Is the person in the image posing in a provocative or sensual way? | No. |
+| How | Does the image have a high exposure level, showing a lot of skin? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy or suggestive? | No. |
+| What | What color are the person's shorts? | Green. |
+| What | What is the person carrying? | A black purse. |
+| How | How is the person posing in the image? | In a casual, everyday setting. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, casual and relaxed. |

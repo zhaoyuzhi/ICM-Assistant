@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the person in the image holding any objects other than their finger? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image have a grainy or distorted quality? | No. |
+| What | What is the person in the image doing with their finger? | They are putting their finger in their mouth. |
+| What | What is the facial expression of the person in the image? | Serious. |
+| How | How is the person's finger positioned in their mouth? | It is not specified in the description, but it could be inferred that their finger is inside their mouth, possibly touching their tongue or the roof of their mouth. |
+| How | How does the close-up of the person's face emphasize the intensity of the moment? | The closeup focuses the viewer's attention on the person's facial features and the action of putting their finger in their mouth, making the image feel more personal and alluring. |

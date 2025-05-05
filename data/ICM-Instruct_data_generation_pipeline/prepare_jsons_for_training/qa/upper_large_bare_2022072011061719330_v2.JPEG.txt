@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the image described as sexy? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Are her arms raised in the air? | Yes. |
+| Yes/No | Is she smiling? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| What | What is the woman wearing? | A white bikini top and bottom. |
+| What | What is the atmosphere of the image? | Positive and alluring. |
+| How | How is the woman standing? | With her arms raised in the air. |
+| How | How does the image capture a moment of joy and confidence? | The woman's confident pose and the revealing nature of her outfit suggest a sense of freedom and selfassuredness. |

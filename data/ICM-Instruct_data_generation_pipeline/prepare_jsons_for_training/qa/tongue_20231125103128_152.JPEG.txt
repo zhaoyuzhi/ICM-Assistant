@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman looking upwards? | Yes. |
+| Yes/No | Does the woman have black hair? | Yes. |
+| Yes/No | Is the woman's facial expression playful? | Yes. |
+| Yes/No | Is the woman's facial expression seductive? | Yes. |
+| Yes/No | Does the image have a flirtatious atmosphere? | Yes. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| What | What is the woman's hair color? | Black. |
+| How | How is the woman looking? | Upwards. |
+| How | How would you describe the overall atmosphere of the image? | Flirtatious and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Are the stockings black? | No. |
+| Yes/No | Is the woman standing? | No. |
+| Yes/No | Is the woman smiling? | No. |
+| Yes/No | Is the atmosphere of the image playful? | No. |
+| Yes/No | Is the woman wearing a bra? | Yes. |
+| What | What color are the stockings? | White. |
+| What | What is the woman kneeling on? | The floor. |
+| How | How are the stockings being worn? | With a garter belt. |
+| How | How would you describe the atmosphere of the image? | Sensual and Provocative. |

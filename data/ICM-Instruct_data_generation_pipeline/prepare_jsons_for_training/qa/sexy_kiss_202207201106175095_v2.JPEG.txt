@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black suit? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman kissing passionately? | Yes. |
+| Yes/No | Are they both wearing earrings? | Yes. |
+| Yes/No | Is the woman's hair styled in an updo? | Yes. |
+| Yes/No | Is the man's hair styled in a short cut? | Yes. |
+| What | What is the woman's hair style? | Elegant updo. |
+| What | What is the man's hair style? | Short cut. |
+| How | How are the man and woman positioned in the image? | They are locked in an embrace, with the woman's arms around the man's neck and the man's arms around the woman's waist. |
+| How | How does the stage setting enhance the image? | The stage setting adds a sense of drama and intensity to the image, making it even more captivating. |

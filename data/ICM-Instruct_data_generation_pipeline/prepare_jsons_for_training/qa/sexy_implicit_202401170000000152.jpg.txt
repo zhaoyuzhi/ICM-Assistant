@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image licking a lollipop? | Yes. |
+| Yes/No | Is the woman's eye closed in the image? | Yes. |
+| Yes/No | Is the lollipop red? | Yes. |
+| Yes/No | Is the woman wearing purple eye shadow? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the woman's lips? | Blue. |
+| What | What is the main object in the image? | A red lollipop. |
+| How | How is the woman holding the lollipop? | She is licking it. |
+| How | How would you describe the woman's pose in the image? | Sensual and intimate. |

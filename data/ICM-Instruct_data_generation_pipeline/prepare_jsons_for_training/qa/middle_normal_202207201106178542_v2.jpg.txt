@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are the person's shorts buttoned up? | No. |
+| Yes/No | Is the person's hair visible in the image? | No. |
+| Yes/No | Is the person smiling in the image? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the background of the image colored? | Yes. |
+| What | What color is the person's shirt? | Brown. |
+| What | What is the person's facial expression in the image? | Neutral. |
+| How | How are the person's hands positioned in the image? | Behind their back. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and straightforward. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are the person's shorts black? | No. |
+| Yes/No | Does the person have their hands in their pockets? | No. |
+| Yes/No | Is the person wearing a belt? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the person have any visible tattoos or piercings? | No. |
+| What | What color is the person's shirt? | Brown. |
+| What | What is the person's stance in the image? | They are standing with their hands behind their back. |
+| How | How many pockets does the person's shorts have? | Two pockets on the front. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is not sexy, it focuses on the person's attire and posture rather than any suggestive elements. |

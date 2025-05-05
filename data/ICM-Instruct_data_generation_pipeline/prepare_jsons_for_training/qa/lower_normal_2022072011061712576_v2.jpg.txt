@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the dress made of a shiny material? | Yes. |
+| Yes/No | Is the woman wearing black heels? | Yes. |
+| Yes/No | Does the woman have her hair styled in loose waves? | Yes. |
+| Yes/No | Is the living room in the background gray? | Yes. |
+| Yes/No | Do the white curtains cover the entire window? | Yes. |
+| What | What is the woman looking at? | Off to the side. |
+| What | What is the overall atmosphere of the image? | Calm and elegant. |
+| How | How is the woman's pose in the image? | Relaxed and nonthreatening. |
+| How | How does the image portray the woman's attire? | Modest and appropriate for a formal setting. |

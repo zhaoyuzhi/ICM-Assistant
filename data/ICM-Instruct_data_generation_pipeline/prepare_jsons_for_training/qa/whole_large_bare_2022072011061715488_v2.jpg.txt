@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a thong? | Yes. |
+| Yes/No | Is the woman in the image looking at her phone? | Yes. |
+| Yes/No | Is the bikini top orange? | Yes. |
+| Yes/No | Is the thong black? | Yes. |
+| Yes/No | Is the woman posing in a relaxed and casual setting? | Yes. |
+| What | What color is the bikini top? | Orange. |
+| What | What is the woman holding in her left hand? | Her phone. |
+| How | How is the woman posing in the image? | She is posing in a relaxed and casual setting, suggestive of a sense of intimacy and sensuality. |
+| How | How does the image create a sense of intrigue and allure? | The woman's pose, the fact that she is looking at her phone, and the mirror and staircase in the background create a sense of intrigue and allure. |

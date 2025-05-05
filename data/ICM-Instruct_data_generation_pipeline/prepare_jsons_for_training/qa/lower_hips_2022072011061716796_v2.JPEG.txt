@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image walking? | Yes. |
+| Yes/No | Is the person facing the camera? | No. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Are they wearing black boots? | Yes. |
+| Yes/No | Is the setting everyday and casual? | Yes. |
+| Yes/No | Does the image depict a sexy scene? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the person's posture like? | Confident and alluring. |
+| How | How are they walking? | With their back facing the viewer. |
+| What | What does the person's attire and posture suggest? | A sense of confidence and allure. |

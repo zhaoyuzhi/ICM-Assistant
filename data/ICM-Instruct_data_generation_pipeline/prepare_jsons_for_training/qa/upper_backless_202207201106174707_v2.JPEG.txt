@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Is the dress patterned with lace? | Yes. |
+| Yes/No | Is the woman holding a white feather duster in her right hand? | Yes. |
+| Yes/No | Is the woman standing in a bedroom? | Yes. |
+| Yes/No | Is there a white chair in the bedroom? | Yes. |
+| Yes/No | Is there a nightstand with a lamp in the bedroom? | Yes. |
+| What | What is the woman holding in her right hand? | A white feather duster. |
+| What | What is the color of the dress the woman is wearing? | Red. |
+| How | How is the woman standing in the bedroom? | She is standing with her back exposed, facing away from the camera. |
+| How | How does the image make the woman look? | Confident and alluring. |

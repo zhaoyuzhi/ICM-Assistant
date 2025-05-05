@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a tank top? | Yes. |
+| Yes/No | Are the woman's shorts rolled up at the bottom? | Yes. |
+| Yes/No | Is the woman carrying a purse? | Yes. |
+| Yes/No | Is the purse black? | Yes. |
+| Yes/No | Does the purse have a gold chain strap? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| What | What color are the woman's shorts? | Blue. |
+| What | What is the woman doing with her hand? | Adjusting her shorts. |
+| How | How is the woman's tank top cropped? | It is cropped at the midriff. |
+| How | How are the woman's shorts rolled up? | They are rolled up at the bottom. |

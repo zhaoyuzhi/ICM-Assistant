@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man dressed in a white tuxedo? | Yes. |
+| Yes/No | Is the woman wearing a pink dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the woman positioned on the left side of the image? | Yes. |
+| Yes/No | Is the man positioned on the right side of the image? | Yes. |
+| Yes/No | Does the image have a romantic and intimate atmosphere? | Yes. |
+| What | What is the woman's dress color? | Pink. |
+| What | What is the color of the roof of the building in the background? | Blue. |
+| How | How is the woman looking at the man? | She is looking up at him. |
+| How | How is the man leaning in to kiss the woman? | He is leaning in to kiss her with a romantic and intimate gesture. |

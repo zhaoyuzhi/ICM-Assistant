@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black sweater? | Yes. |
+| Yes/No | Are the person's movements discernible from the image? | No. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Is the piercing a silver barbell? | Yes. |
+| Yes/No | Are the clothes casual? | Yes. |
+| Yes/No | Is the exposure level moderate? | Yes. |
+| What | What color is the person's sweater? | Black. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the person's belly exposed? | The person's belly is exposed because their shirt is raised or their pants are lowered, showing their bare stomach. |
+| How | How does the image capture a moment of vulnerability and confidence? | The image captures a moment of vulnerability and confidence because it shows the person exposing their body in a way that is intimate and vulnerable, yet the person appears confident and comfortable, suggesting a sense of selfassurance and empowerment. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's navel pierced? | Yes. |
+| Yes/No | Is the piercing a silver barbell? | Yes. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What color is the person's shirt? | Black. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the person's navel pierced? | With a silver barbell. |
+| How | How would you describe the overall atmosphere of the image? | Sensual and confident. |

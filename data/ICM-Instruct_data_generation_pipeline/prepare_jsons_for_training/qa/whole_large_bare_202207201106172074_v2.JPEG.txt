@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Is there a building visible in the background? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| What | What is the woman's facial expression? | Smiling. |
+| What | What is the atmosphere of the image? | Seductive and alluring. |
+| How | How is the woman standing? | Confidently. |
+| How | How is the woman looking at the camera? | Comfortably and confidently. |

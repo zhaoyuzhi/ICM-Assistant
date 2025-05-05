@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a suit? | Yes. |
+| Yes/No | Are the person's eyes open? | No. |
+| Yes/No | Is the person smiling? | No. |
+| Yes/No | Are there any objects or people in the background? | No. |
+| Yes/No | Is the person's body language suggestive or provocative? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the person's facial expression? | Relaxed and calm. |
+| What | What is the person's body language suggesting? | Peace and tranquility. |
+| How | How is the person sitting? | With their eyes closed, suggesting relaxation. |
+| How | How does the low exposure level of the image affect the focus of the image? | It focuses on the person's emotional state rather than their physical appearance. |

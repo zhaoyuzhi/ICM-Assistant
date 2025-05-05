@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black and white polka dot dress? | Yes. |
+| Yes/No | Is the person in the process of putting on brown stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with a sense of allure and mystery? | Yes. |
+| Yes/No | Does the person's attire add to the sexy atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | A black and white polka dot dress and brown stockings. |
+| What | What is the person in the process of doing? | Putting on brown stockings. |
+| How | How is the person's attire contributing to the sexy atmosphere? | The polka dot dress is a classic and flirtatious style that adds to the intimate and sensual atmosphere. |
+| How | How does the image capture a private moment? | The image captures the person in a private setting, engaging in a personal and intimate act, creating a sense of intrigue and allure. |
+| Yes/No | Is the person in the image wearing a black and white polka dot dress? | Yes. |
+| Yes/No | Is the person in the process of putting on brown stockings? | Yes. |
+| Yes/No | Is the image set in a private setting? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the person's attire add to the sexy atmosphere? | Yes. |
+| Yes/No | Is the act of putting on stockings often associated with a sense of allure and mystery? | Yes. |
+| What | What is the person in the image wearing? | A black and white polka dot dress and brown stockings. |
+| What | What is the person in the image doing? | Putting on brown stockings. |
+| How | How is the person's attire contributing to the sexy atmosphere? | The polka dot dress is a classic and flirtatious style that adds to the intimate and sensual atmosphere of the image. |
+| How | How does the image capture a private moment? | The image captures the person in the process of putting on stockings, which is a personal and intimate moment, in a private setting, creating a sense of intrigue and allure. |

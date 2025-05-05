@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing leggings? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Are there any other discernible objects in the image? | No. |
+| Yes/No | Does the image suggest that the woman is engaged in physical activity? | Yes. |
+| What | What color is the woman's sports bra and leggings? | Pink. |
+| What | What is the overall atmosphere of the image? | Confident and empowering. |
+| How | How does the woman's attire suggest confidence and self-assuredness? | The woman's choice to wear revealing clothing and show off her body suggests confidence and selfassuredness. |
+| How | How does the pink color of the woman's clothing enhance the image? | The pink color adds a vibrant and eyecatching element to the image, further enhancing its allure. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing leggings? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman have her belly exposed? | Yes. |
+| Yes/No | Is the woman's attire pink? | Yes. |
+| Yes/No | Does the image create a sense of confidence and allure? | Yes. |
+| What | What color is the woman's clothing? | Pink. |
+| What | What is the atmosphere of the image? | Confident and alluring. |
+| How | How does the woman's attire contribute to the image's atmosphere? | The woman's pink sports bra and leggings create a vibrant and energetic touch and suggest that she is comfortable in her own skin, adding to the confident and alluring atmosphere. |
+| How | How does the white background affect the image? | The white background puts the focus entirely on the woman, drawing attention to her and creating a clean and minimalist look that enhances the image's overall impact. |

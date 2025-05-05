@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman holding a glass of wine in the left photo? | Yes. |
+| Yes/No | Is the woman sitting on a chair in the right photo? | Yes. |
+| Yes/No | Is the background of both photos a white wall with a clock on it? | Yes. |
+| Yes/No | Does the woman have a blue flower on her beige top? | Yes. |
+| Yes/No | Are the shorts the woman is wearing beige? | Yes. |
+| What | What is the woman holding in the right photo? | A vase of flowers. |
+| What | What is the woman wearing on her feet in both photos? | Nothing (she is sitting). |
+| How | How is the woman interacting with the objects in the image? | She is holding a glass of wine in one photo and a vase of flowers in the other. |

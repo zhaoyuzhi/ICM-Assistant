@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black thong? | Yes. |
+| Yes/No | Are they wearing a floral dress? | Yes. |
+| Yes/No | Is the person's lower body exposed? | Yes. |
+| Yes/No | Are their legs crossed? | Yes. |
+| Yes/No | Are their feet pointed towards the ceiling? | Yes. |
+| Yes/No | Does the image capture a moment of vulnerability? | Yes. |
+| What | What color is the person's thong? | Black. |
+| What | What kind of dress are they wearing? | Floral. |
+| How | How are the person's legs positioned? | Crossed. |
+| How | How are their feet positioned? | Pointed towards the ceiling. |

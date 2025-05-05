@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports outfit? | Yes. |
+| Yes/No | Is the outfit strapless? | Yes. |
+| Yes/No | Does the outfit expose the woman's stomach? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's sports outfit? | Pink. |
+| What | What is the woman's pose in the image? | She is striking a pose with her left hand on her hip and her right hand resting on her thigh. |
+| How | How is the woman's left hand positioned in the image? | Her left hand is on her hip. |
+| How | How is the woman's right hand positioned in the image? | Her right hand is resting on her thigh. |

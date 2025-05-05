@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of white trousers? | Yes. |
+| Yes/No | Are the person's hands tucked into the pockets of their pants? | Yes. |
+| Yes/No | Does the person have a relaxed and comfortable posture? | Yes. |
+| Yes/No | Is the person wearing a sweater? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the person's posture and attire neutral and unassuming? | Yes. |
+| What | What color are the person's trousers? | White. |
+| What | What is the person wearing over their sweater? | A pair of wellfitted white trousers. |
+| How | How are the person's hands positioned in the image? | Casually tucked into the pockets of their pants. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and unassuming. |
+| Yes/No | Is the person in the image wearing a pair of white pants? | Yes. |
+| Yes/No | Are the pants cropped at the ankle? | Yes. |
+| Yes/No | Is the person wearing a white sweater? | Yes. |
+| Yes/No | Is the sweater tucked into the pants? | Yes. |
+| Yes/No | Are the person's hands tucked into their pockets? | Yes. |
+| Yes/No | Does the image suggest a sexy or intimate atmosphere? | No. |
+| What | What is the person's posture in the image? | Relaxed and comfortable. |
+| What | What is the overall atmosphere of the image? | Casual and comfortable. |
+| How | How are the person's hands positioned in the image? | Casually tucked into their pockets. |
+| How | How does the low angle of the shot affect the image? | It adds a sense of depth and perspective, but does not emphasize the person's body or suggest any form of intimacy. |

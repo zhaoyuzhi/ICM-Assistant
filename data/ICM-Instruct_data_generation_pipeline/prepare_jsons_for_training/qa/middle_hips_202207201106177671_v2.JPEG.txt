@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the person's backside the main focus of the image? | Yes. |
+| Yes/No | Does the image have a sexy or sensual tone? | Yes. |
+| What | What color are the leggings? | Olive green. |
+| What | What is the person's posture in the image? | Hands on hips. |
+| How | How do the leggings fit the person's body? | Formfitting. |
+| How | How does the person's posture contribute to the image's tone? | Confidence and selfassuredness. |

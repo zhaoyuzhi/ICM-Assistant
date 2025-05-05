@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a lace pattern? | Yes. |
+| Yes/No | Is the back of the dress low? | Yes. |
+| Yes/No | Is there a slit on the side of the dress? | Yes. |
+| Yes/No | Is the person standing on a brick pathway? | Yes. |
+| Yes/No | Is there a potted plant visible in the background? | Yes. |
+| What | What is the color of the dress? | White. |
+| What | What is the material of the dress? | Lace. |
+| How | How is the person standing? | With their back turned towards the camera. |
+| How | How does the image create an alluring visual effect? | The combination of the person's attire and pose, as well as the contrast between the person's figure and the natural background, create a seductive and captivating atmosphere. |

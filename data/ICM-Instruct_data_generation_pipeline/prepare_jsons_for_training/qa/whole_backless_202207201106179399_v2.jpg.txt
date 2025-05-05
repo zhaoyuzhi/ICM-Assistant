@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress blue and white? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the person holding a microphone? | Yes. |
+| Yes/No | Is the image a live performance? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person doing in the image? | Singing or speaking. |
+| What | What is the person wearing? | A blue and white floral dress. |
+| How | How is the person's back revealed in the image? | The dress has a low back. |
+| How | How does the image evoke a sense of seduction and intrigue? | Through the combination of the person's attire, the context of the performance, and the revealing nature of the lowback dress. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black hat? | Yes. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman in the image putting on black stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the atmosphere in the image alluring? | Yes. |
+| Yes/No | Is the atmosphere in the image intimate? | Yes. |
+| What | What is the woman in the image wearing on her feet? | Black stockings. |
+| What | What is the color of the woman's hat in the image? | Black. |
+| How | How is the woman's hair styled in the image? | Long hair. |
+| How | How is the woman standing in relation to the door and couch? | Next to. |
+| Yes/No | Is the woman in the image wearing a black hat? | Yes. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman in the image putting on black stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the woman standing next to a couch? | Yes. |
+| Yes/No | Is the woman standing next to a door? | Yes. |
+| What | What is the woman wearing on her feet? | Stockings. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How is the woman's hair styled? | Long. |
+| How | How does the image create an atmosphere of allure and seduction? | The image creates an atmosphere of allure and seduction by depicting a young woman in a sensual and intimate moment, wearing black clothing and accessories associated with seduction, and standing next to a couch and a door, suggesting a private and intimate space. |

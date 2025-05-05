@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing sheer, lace stockings? | Yes. |
+| Yes/No | Is the tutu the person is wearing a light blue color? | Yes. |
+| Yes/No | Are the stockings adorned with a floral pattern? | Yes. |
+| Yes/No | Is the person sitting on a bed surrounded by flowers? | Yes. |
+| Yes/No | Is the image intimate and sensual? | Yes. |
+| Yes/No | Do the light pink color and floral pattern of the stockings add a touch of elegance and femininity to the image? | Yes. |
+| What | What color are the stockings? | Light pink. |
+| What | What is the person sitting on? | A bed. |
+| How | How are the stockings adorned? | With a floral pattern. |
+| How | How would you describe the atmosphere of the image? | Intimate and sensual. |

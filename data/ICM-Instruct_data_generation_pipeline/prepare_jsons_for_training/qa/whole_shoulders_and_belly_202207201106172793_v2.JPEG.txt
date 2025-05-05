@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Does the tank top have the word "Easy" written on it? | Yes. |
+| Yes/No | Is the woman wearing a belt around her waist? | Yes. |
+| Yes/No | Are her hair styled in loose waves? | Yes. |
+| Yes/No | Is her left hand resting on her hip? | Yes. |
+| Yes/No | Is her right hand resting on her thigh? | Yes. |
+| What | What color is the background of the image? | Pink. |
+| What | What is the woman's attire and pose in the image? | She is wearing a white strapless tank top and a belt, and is striking a pose with her left hand on her hip and her right hand resting on her thigh. |
+| How | How does the woman's pose in the image contribute to its sexiness? | The woman's pose with her left hand on her hip and her right hand resting on her thigh is confident and inviting, adding a sense of allure to her outfit and the overall image. |
+| How | How does the background of the image complement the woman's look? | The solid pink background contrasts with the woman's white top and complements her overall look, adding to the seductive atmosphere of the image. |

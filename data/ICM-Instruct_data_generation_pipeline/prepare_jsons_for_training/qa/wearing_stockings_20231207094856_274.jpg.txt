@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person wearing a dress? | Yes. |
+| Yes/No | Are they putting on black stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the setting of the image a bed? | Yes. |
+| Yes/No | Is the person's movement deliberate and careful? | Yes. |
+| What | What color is the dress? | Purple and white. |
+| What | What is the person doing with the stockings? | Putting them on. |
+| How | How is the person putting on the stockings? | Carefully and deliberately. |
+| How | How does the image create an atmosphere that is sexy? | Through the combination of the woman's attire, her actions, and the setting. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person sitting on a bed? | Yes. |
+| Yes/No | Is the person wearing a purple and white dress? | Yes. |
+| Yes/No | Is the person putting on black stockings? | Yes. |
+| Yes/No | Is there a white envelope on the bed? | Yes. |
+| Yes/No | Is there a pink and white towel present? | Yes. |
+| What | What is the person in the image doing? | Putting on black stockings. |
+| What | What is the color of the dress the person is wearing? | Purple and white. |
+| How | How is the person putting on the stockings? | Carefully and deliberately. |
+| What | What does the overall atmosphere of the image suggest? | An atmosphere of elegance, allure, and intimacy. |

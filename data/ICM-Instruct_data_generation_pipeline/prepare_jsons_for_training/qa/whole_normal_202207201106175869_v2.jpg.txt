@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the people in the image dressed in traditional Chinese clothing? | Yes. |
+| Yes/No | Is the image set in a snowy environment? | Yes. |
+| Yes/No | Are the details in the image clearly visible? | No. |
+| Yes/No | Does the image have a romantic or intimate atmosphere? | No. |
+| Yes/No | Is the focus of the image on the group of people and their traditional clothing? | Yes. |
+| What | What are the people in the image wearing? | Long robes and hats. |
+| What | What is the setting of the image? | In front of a snowy mountain. |
+| How | How are the people in the image dressed? | In traditional Chinese clothing. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It emphasizes the focus on the group and their attire, rather than on any potential romantic or intimate elements. |

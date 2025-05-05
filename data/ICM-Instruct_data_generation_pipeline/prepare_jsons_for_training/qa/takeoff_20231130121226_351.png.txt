@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Is the woman wearing a white crop top with hearts on it? | Yes. |
+| Yes/No | Are the woman's shorts blue denim? | Yes. |
+| Yes/No | Is there a wooden desk and chair in the background of the image? | Yes. |
+| Yes/No | Is the woman looking down at her hands while undoing her top? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing on her top? | A white crop top with hearts. |
+| What | What is the color of the woman's shorts? | Blue. |
+| How | How is the woman undoing her top? | She is looking down at her hands while undoing her top. |
+| What | What element does the hearts on the crop top add to her outfit? | The hearts on the crop top add a playful and flirtatious element to her outfit. |

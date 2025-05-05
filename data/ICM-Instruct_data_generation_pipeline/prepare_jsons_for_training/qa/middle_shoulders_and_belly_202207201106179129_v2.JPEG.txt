@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a belly chain? | Yes. |
+| Yes/No | Is the person in the image wearing a belly button ring? | Yes. |
+| Yes/No | Is the person in the image looking downwards? | Yes. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| How | Does the image showcase the person's body in a revealing manner? | Yes. |
+| What | What color is the belly chain? | Silver. |
+| What | What is the person's pose in the image? | Hand on hip. |
+| How | How does the combination of the white top, blue jeans, and silver belly chain draw attention to the person's midriff? | It creates a contrast that highlights the person's midriff. |
+| How | How does the person's pose add to the overall allure of the image? | It adds a sense of confidence and sensuality to the image. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is their belly exposed? | Yes. |
+| Yes/No | Are they wearing a silver belly chain? | Yes. |
+| Yes/No | Do they have a belly button ring? | Yes. |
+| Yes/No | Is their hand placed on their hip? | Yes. |
+| What | What color is the person's top? | White. |
+| What | What color are their jeans? | Blue. |
+| What | What is the overall atmosphere of the image? | Sensual and alluring. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue sweatpants? | Yes. |
+| Yes/No | Is the person standing in front of a building? | Yes. |
+| Yes/No | Is the person's hand resting on their hip? | Yes. |
+| Yes/No | Are the sweatpants loose-fitting? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Does the image have a sexual or provocative atmosphere? | No. |
+| What | What color are the sweatpants? | Blue. |
+| What | What is the person's hand doing in the image? | Resting on their hip. |
+| How | How are the sweatpants fitting the person? | Loosefitting. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the person in the image wearing a pair of blue sweatpants? | Yes. |
+| Yes/No | Is the person standing in front of a building with a metal structure? | Yes. |
+| Yes/No | Is the person's hand resting on their hip? | Yes. |
+| Yes/No | Are the sweatpants loose-fitting? | Yes. |
+| Yes/No | Does the image have a sexual or intimate atmosphere? | No. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| What | What is the person's attire in the image? | A pair of blue sweatpants with a drawstring at the waist. |
+| What | What is the setting of the image? | In front of a building with a metal structure. |
+| How | How is the person standing in the image? | With their hand casually resting on their hip. |
+| How | How was the image captured? | From a low angle. |

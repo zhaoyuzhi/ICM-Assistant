@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and self-assuredness? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Do the tight-fitting leggings and exposed belly create an alluring atmosphere? | Yes. |
+| Yes/No | Does the woman's pose draw attention to her body and accentuate her curves? | Yes. |
+| What | What color are the woman's leggings? | Blue. |
+| What | What is the woman's pose in the image? | Standing with legs apart and belly exposed. |
+| How | How does the woman's pose suggest confidence and self-assuredness? | The woman's legs are apart, and her belly is exposed, indicating a sense of confidence and selfassuredness. |
+| How | How do the tight-fitting leggings and exposed belly create an alluring atmosphere? | The tightfitting leggings and exposed belly create an alluring atmosphere by accentuating the woman's curves and drawing attention to her body. |

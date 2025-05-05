@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of navy blue sweatpants? | Yes. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Is the image focused on the person's clothing rather than their body? | Yes. |
+| Yes/No | Does the image feature any distractions or additional elements? | No. |
+| Yes/No | Is the overall atmosphere of the image simple and straightforward? | Yes. |
+| Yes/No | Does the image have a sexy or suggestive tone? | No. |
+| What | What is the primary subject of the image? | The navy blue sweatpants. |
+| What | What is the background of the image? | Plain white. |
+| How | How is the person standing in the image? | Minimally moved. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the clothing rather than the person's body. |
+| Yes/No | Is the person in the image wearing a pair of navy blue sweatpants? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image focus on the person's clothing rather than their body or appearance? | Yes. |
+| Yes/No | Does the image create a sense of intimacy or allure? | No. |
+| Yes/No | Is the overall atmosphere of the image simple and uncluttered? | Yes. |
+| What | What is the color of the sweatpants? | Navy blue. |
+| What | What is the main focus of the image? | The person's attire, specifically the navy blue sweatpants. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the sweatpants, rather than the person's figure or any potential allure. |
+| How | How does the plain background of the image contribute to the overall atmosphere of the image? | It adds to the simplicity and uncluttered nature of the image, further emphasizing the focus on the sweatpants. |

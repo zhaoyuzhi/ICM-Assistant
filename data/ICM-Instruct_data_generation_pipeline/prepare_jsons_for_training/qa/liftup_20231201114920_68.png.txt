@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the woman have red trim on her t-shirt? | Yes. |
+| Yes/No | Is the woman wearing shorts? | Yes. |
+| Yes/No | Are the shorts blue? | Yes. |
+| Yes/No | Is the woman sitting on a window sill? | Yes. |
+| Yes/No | Is the woman lifting her shirt and exposing her midriff? | Yes. |
+| What | What color is the woman's t-shirt? | White. |
+| What | What color are the woman's shorts? | Blue. |
+| How | How is the woman posing in the image? | She is sitting on a window sill and lifting her shirt to expose her midriff. |
+| What | What atmosphere does the image create? | The image creates an atmosphere of sensuality and allure. |

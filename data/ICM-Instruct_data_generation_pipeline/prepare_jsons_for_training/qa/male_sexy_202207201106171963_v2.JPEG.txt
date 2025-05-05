@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a top? | No. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| Yes/No | Is the man flexing his arm? | Yes. |
+| Yes/No | Are the black shorts the man is wearing, a contrast to his skin tone? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | He is wearing black shorts. |
+| What | What is the man doing with his arm? | He is flexing his right arm. |
+| How | How is the image seductive? | How is the image seductive?. |

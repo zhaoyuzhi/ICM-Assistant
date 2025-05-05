@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the jeans blue? | Yes. |
+| Yes/No | Does the woman have her hands on her head? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's outfit and pose suggest confidence and self-assurance? | Yes. |
+| What | What is the woman wearing on her top half? | A white strapless top with a meshlike pattern. |
+| What | What is the color of the woman's jeans? | Blue. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How would you describe the woman's pose? | With her hands on her head. |

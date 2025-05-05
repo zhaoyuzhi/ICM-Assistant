@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image singing? | Yes. |
+| Yes/No | Is the man dressed in a black shirt? | Yes. |
+| Yes/No | Does the man have a tattoo on his left arm? | Yes. |
+| Yes/No | Are there red and white flowers on the stage? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the man doing in the image? | Singing into a microphone. |
+| What | What is the color of the flowers on the stage? | Red and white. |
+| How | How is the man's attire described? | Black shirt. |
+| How | How would you describe the atmosphere created by the flowers on the stage? | Vibrant. |

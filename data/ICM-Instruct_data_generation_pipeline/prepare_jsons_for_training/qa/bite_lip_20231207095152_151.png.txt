@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black turtleneck? | Yes. |
+| Yes/No | Does the woman in the image have dark hair? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the woman in the image biting her lip? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| What | What is the woman in the image wearing? | A black turtleneck. |
+| What | What is the woman in the image looking upwards? | The camera. |
+| How | How is the woman's facial expression? | Serious. |
+| How | How does the black turtleneck add to the atmosphere of the image? | It creates a sense of mystery and allure. |

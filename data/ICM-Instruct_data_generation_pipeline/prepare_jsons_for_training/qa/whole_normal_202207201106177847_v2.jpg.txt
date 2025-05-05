@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman sitting on a wooden chair? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and relaxed? | Yes. |
+| What | What is the woman wearing? | A white sweater and blue jeans. |
+| What | What is the material of the chair the woman is sitting on? | Wood. |
+| How | How is the woman sitting on the chair? | In a casual and comfortable position. |
+| How | How would you describe the overall atmosphere of the image? | Calm and relaxed. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are her hands tucked into her pockets? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Does the image feature any suggestive poses or content? | No. |
+| Yes/No | Is the woman's attire casual and everyday? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the woman's pose in the image? | Confident and relaxed. |
+| What | What is the focus of the image? | The woman's upper body and torso. |
+| How | How are the woman's hands positioned in the image? | Casually tucked into her pockets. |
+| How | How does the blue background affect the overall atmosphere of the image? | It creates a neutral backdrop that emphasizes the woman and her clothing, contributing to a calm and nonsexual atmosphere. |

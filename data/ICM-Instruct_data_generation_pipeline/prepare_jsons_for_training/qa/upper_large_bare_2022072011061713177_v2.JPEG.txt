@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the woman looking over her shoulder in the image? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| What | What is the woman wearing in the image? | A bikini. |
+| What | What is the background of the image? | A beach with the ocean. |
+| How | How is the woman posing in the image? | Confidently, with a smile. |
+| How | How does the beach setting and ocean in the background enhance the image? | They create a relaxed and inviting atmosphere that enhances the sexy vibe of the image. |

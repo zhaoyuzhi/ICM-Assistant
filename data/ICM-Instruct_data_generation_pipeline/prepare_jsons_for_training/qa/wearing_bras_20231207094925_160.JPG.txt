@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink bra? | Yes. |
+| Yes/No | Is the woman in the image putting on the bra? | Yes. |
+| Yes/No | Does the image have a white background? | Yes. |
+| What | What color is the bra the woman is wearing? | Pink. |
+| What | What is the woman wearing around her neck? | A necklace with a pendant. |
+| How | How is the bra being put on? | By the woman's hands. |
+| What | What is the overall atmosphere of the image? | Intimate and alluring. |
+| Yes/No | Is the woman in the image wearing a pink bra? | Yes. |
+| Yes/No | Is the woman in the image putting on the bra? | Yes. |
+| How | Does the image show the woman's face? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman wearing any other piece of jewelry besides the necklace? | No. |
+| Yes/No | Does the image depict the woman in a sexual or romantic scenario? | No. |
+| What | What is the woman wearing around her neck? | A necklace with a pendant. |
+| What | What is the dominant color of the bra the woman is wearing? | Pink. |
+| How | How is the woman putting on the bra? | She is using her hands. |
+| How | How would you describe the atmosphere of the image? | Intimate and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra yellow? | Yes. |
+| Yes/No | Does the bra have thin straps? | Yes. |
+| Yes/No | Does the bra have a small bow on the back? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Are the person's arms raised? | Yes. |
+| What | What color is the bra? | Yellow. |
+| What | What is the person's attire suggests? | Relaxation and comfort. |
+| How | How are the person's arms positioned? | Placed on their shoulders. |
+| How | How does the setting enhance the mood of the image? | Intimate and seductive mood. |

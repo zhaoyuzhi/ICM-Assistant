@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing golf shorts? | Yes. |
+| Yes/No | Is the man's shirt white? | Yes. |
+| Yes/No | Is the man wearing a blue cap? | Yes. |
+| Yes/No | Is the man holding a golf club in his right hand? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the man's attire and actions related to golf? | Yes. |
+| What | What color are the man's shorts? | Blue and white. |
+| What | What is the man holding in his right hand? | A golf club. |
+| How | How is the man's shorts designed? | With a small pocket on the left side. |
+| What | What is the exposure level of the image? | Low. |
+| Yes/No | Is the man in the image wearing a blue and white striped shirt? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the man looking off to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire and pose provocative or threatening? | No. |
+| Yes/No | Does the image have a relaxed and non-sexual atmosphere? | Yes. |
+| What | What color are the man's shorts? | Blue. |
+| What | What color are the man's shoes? | White. |
+| How | How is the man looking off to the side? | With a slight smile on his face. |
+| How | How are the man's hands tucked into his pockets? | Casually. |

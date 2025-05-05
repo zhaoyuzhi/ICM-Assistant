@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress form-fitting? | Yes. |
+| Yes/No | Does the dress have a lace back? | Yes. |
+| Yes/No | Is the woman standing against a white wall? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the image seductive and alluring? | Yes. |
+| What | What is the color of the dress? | Navy blue. |
+| What | What is the atmosphere of the image? | Sensual and alluring. |
+| How | How is the woman standing? | With her hands on her hips. |
+| How | How does the white wall in the background contribute to the image? | It provides a stark contrast, making the woman and her attire the focal point. |

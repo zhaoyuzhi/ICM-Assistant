@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image removing their clothes? | Yes. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the person in the image wearing a bra and lace underwear? | Yes. |
+| Yes/No | Are there any objects in the background of the image? | Yes. |
+| Yes/No | Do the objects in the background of the image include wine glasses? | Yes. |
+| What | What is the person in the image wearing? | A blue shirt and black pants. |
+| What | What is the person in the image holding open? | Her shirt. |
+| How | How many wine glasses are in the background of the image? | Two. |
+| How | How would you describe the overall atmosphere of the image? | Sexy, intimate, and sophisticated. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a bench? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and allure? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the stockings? | Black. |
+| How | How are the person's legs crossed in the image? | They are crossed at the ankle. |
+| How | How does the image create a visually appealing contrast? | The dark stockings contrast with the lighter, more playful skirt. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a bench? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Does the image convey an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with a sexy or alluring appearance? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the person's stockings in the image? | Black. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image evoke feelings in the viewer? | Desire and allure. |

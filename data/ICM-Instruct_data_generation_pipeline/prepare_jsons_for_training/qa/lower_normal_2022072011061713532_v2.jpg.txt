@@ -1,0 +1,14 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a hoodie? | Yes. |
+| Yes/No | Is the logo on the sweatpants also black? | No. |
+| Yes/No | Does the room have an orange or green floor? | No. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Does the man have black sneakers? | No. |
+| Yes/No | Is the image high exposure? | No. |
+| What | What type of plant is in the background of the room? | Not specified in the description. |
+| Yes/No | --- | ---. |
+| What | What is the color of the sweatpants' logo? | White. |
+| How | How many stripes does the sweatpants have? | One. |
+| Yes/No | --- | ---. |
+| How | How many colors can be seen in the image? | Four (gray, black, white, green). |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a crop top? | Yes. |
+| Yes/No | Is the person in the image wearing jeans? | Yes. |
+| Yes/No | Is the person in the image holding their stomach? | Yes. |
+| Yes/No | Is the person in the image wearing a pearl necklace? | Yes. |
+| Yes/No | Is the person in the image wearing a chain belly chain? | Yes. |
+| Yes/No | Does the image have a sensual and provocative atmosphere? | Yes. |
+| What | What is the person in the image holding in their right hand? | A chain. |
+| What | What is the person in the image wearing around their neck? | A pearl necklace. |
+| How | How is the person in the image posing? | They are holding their stomach with their left hand and holding a chain with their right hand. |
+| How | How does the image showcase the person's body? | The crop top and jeans reveal the person's midriff, while the pose emphasizes their waist and belly. |
+| Yes/No | Is the person in the image wearing a crop top? | Yes. |
+| Yes/No | Is the person in the image wearing pearl necklaces? | Yes. |
+| Yes/No | Is the person in the image holding their stomach? | Yes. |
+| Yes/No | Is the person in the image wearing a chain belt? | Yes. |
+| Yes/No | Does the image have a bold and confident atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy and captivating quality? | Yes. |
+| What | What is the person in the image holding? | Their stomach. |
+| What | What is the person in the image wearing around their waist? | A chain belt. |
+| How | How is the person in the image posing? | With their hand on their stomach, possibly to emphasize the shape of their waist. |
+| How | How would you describe the overall atmosphere of the image? | Confident and stylish, with a touch of edginess. |

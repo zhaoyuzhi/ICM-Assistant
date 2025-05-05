@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a light blue t-shirt? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman pouting in the image? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards? | Yes. |
+| Yes/No | Is the overall atmosphere of the image playful and flirtatious? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's t-shirt? | Light blue. |
+| What | What is the woman's facial expression in the image? | Pouting. |
+| How | How does the woman's puckered lips create a sense of confidence and allure? | They create a sense of confidence and allure by appearing seductive and inviting. |
+| How | How does the light blue t-shirt enhance the overall atmosphere of the image? | It adds a casual and relaxed vibe to the image, which enhances the playful and flirtatious atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the woman have red lipstick on? | Yes. |
+| Yes/No | Is the background of the image orange? | Yes. |
+| Yes/No | Is the woman's expression beautiful? | Yes. |
+| Yes/No | Does the image suggest a narrative of curiosity and exploration? | Yes. |
+| Yes/No | Does the image have an overall atmosphere of sensuality? | Yes. |
+| What | What is the woman's pose in the image? | The woman is sitting on a couch. |
+| What | What color is the woman's lipstick? | Red. |
+| How | How does the woman's pose and the orange background create a sense of intimacy and allure? | The woman's pose and the orange background create a cozy and inviting atmosphere, which adds to the sensuality of the image. |
+| How | How does the image suggest a narrative of curiosity and exploration? | The woman's expression and the overall atmosphere of the image suggest a sense of curiosity and exploration, as if the woman is discovering something new and exciting. |

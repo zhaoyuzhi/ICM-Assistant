@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blue denim skirt? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman carrying a black purse? | Yes. |
+| Yes/No | Are there palm trees visible in the background of the image? | Yes. |
+| Yes/No | Is the woman walking on a street? | Yes. |
+| What | What color is the woman's t-shirt? | White. |
+| What | What type of tree is visible in the background of the image? | Palm tree. |
+| How | How is the woman carrying her purse? | On her shoulder. |
+| How | How would you describe the woman's stride in the image? | Confident. |

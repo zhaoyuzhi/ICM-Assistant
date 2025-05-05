@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sticking out their tongue? | Yes. |
+| Yes/No | Is the image a close-up of the person's face? | Yes. |
+| Yes/No | Is the facial expression relaxed and confident? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image feature any other body parts besides the face? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| What | What is the person in the image doing with their tongue? | Sticking it out. |
+| What | What is the overall atmosphere of the image? | Seductive or playful. |
+| How | How is the person's facial expression? | Relaxed and confident. |
+| How | How does the image make the viewer feel? | Intrigued and captivated. |

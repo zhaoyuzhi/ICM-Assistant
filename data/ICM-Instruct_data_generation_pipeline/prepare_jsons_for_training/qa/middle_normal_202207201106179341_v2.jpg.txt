@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a floral print top? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Is the person's confidence evident in their pose? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the outfit a classic summer look? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the person's pose in the image? | The person is standing with their hands placed on their hips. |
+| What | What is the focus of the image? | The focus of the image is on the person's torso and upper body. |
+| How | How does the floral print top add a touch of color to the outfit? | The floral print top adds a touch of color to the outfit by featuring a vibrant and colorful pattern that stands out against the white background of the shorts. |
+| How | How does the low exposure level of the image emphasize the casual nature of the scene? | The low exposure level of the image emphasizes the casual nature of the scene by focusing on the person's upper body and torso, rather than their lower body, and by not revealing too much skin. This creates a sense of relaxation and informality that is fitting for a casual, summer outfit. |
+| Yes/No | Is the person in the image wearing a pair of white jean shorts? | Yes. |
+| Yes/No | Does the floral print on the shorts have two buttons on the front? | Yes. |
+| Yes/No | Is the person wearing a blue and white floral top? | Yes. |
+| Yes/No | Are the person's hands resting at their sides? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the focus of the image? | The person's outfit and pose. |
+| What | What is the person's pose in the image? | Neutral. |
+| How | How does the person's attire and pose convey their message? | Neutral and relaxed. |

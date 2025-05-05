@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white jacket? | Yes. |
+| Yes/No | Is the woman holding a bottle of orange juice? | Yes. |
+| Yes/No | Is the car in the image black? | No. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman standing in front of the car? | Yes. |
+| What | What is the woman holding in her hand? | A bottle of orange juice. |
+| What | What is the color of the woman's jacket? | White. |
+| How | How is the woman standing in relation to the car? | She is standing next to it. |
+| How | How would you describe the overall atmosphere of the image? | Calm and ordinary. |

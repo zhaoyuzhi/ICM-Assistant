@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue and white striped shirt? | Yes. |
+| Yes/No | Is the person putting on beige knee-high stockings? | Yes. |
+| Yes/No | Is the person's left hand holding the stocking? | Yes. |
+| Yes/No | Is the person's right hand on their knee? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the beige color of the stockings contrast with the blue and white striped shirt? | Yes. |
+| What | What is the person's facial expression? | Focused/intimate. |
+| What | What is the atmosphere of the image? | Soft/cozy/sensual. |
+| How | How is the person holding the stocking with their left hand? | The person is holding the stocking with their left hand to pull it up. |
+| How | How is the person's right hand positioned? | The person's right hand is on their knee, possibly to hold it steady. |
+| Yes/No | Is the person in the image wearing a blue and white striped shirt? | Yes. |
+| Yes/No | Is the person in the process of putting on beige knee-high stockings? | Yes. |
+| Yes/No | Is the person's left hand holding the stocking? | Yes. |
+| Yes/No | Is the person's right hand on their knee? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the beige color of the stockings contrast with the blue and white striped shirt? | Yes. |
+| What | What is the person in the image wearing on their legs? | Beige kneehigh stockings. |
+| What | What is the person's facial expression? | Focused/intimate. |
+| How | How is the person holding the stocking with their left hand? | With their left hand, possibly to hold it steady. |
+| How | How are the stockings being pulled up? | The person is pulling them up with their left hand. |

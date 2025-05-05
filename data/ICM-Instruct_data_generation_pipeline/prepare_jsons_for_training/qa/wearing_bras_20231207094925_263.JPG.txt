@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Are the woman's pants pink? | Yes. |
+| Yes/No | Is the woman in the process of putting on a bra? | Yes. |
+| Yes/No | Is the image described as sexy? | Yes. |
+| Yes/No | Does the white bra and pink pants suggest a sense of allure and sensuality? | Yes. |
+| Yes/No | Is the act of putting on a bra associated with intimacy and vulnerability? | Yes. |
+| What | What is the woman wearing in the image? | White bra and pink pants. |
+| What | What is the woman doing in the image? | Putting on a white bra. |
+| How | How does the woman's attire contribute to the sexy atmosphere? | The white bra and pink pants suggest a sense of allure and sensuality. |
+| How | How does the act of putting on a bra contribute to the sexy atmosphere? | The act of putting on a bra is often associated with a feeling of intimacy and vulnerability, which contributes to the sexy atmosphere. |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Are the woman's pants pink? | Yes. |
+| Yes/No | Is the woman in the process of putting on a bra? | Yes. |
+| Yes/No | Is the image described as sexy? | Yes. |
+| Yes/No | Does the white bra and pink pants suggest a sense of allure and sensuality? | Yes. |
+| Yes/No | Is the act of putting on a bra associated with intimacy and vulnerability? | Yes. |
+| What | What is the woman wearing in the image? | A white bra and pink pants. |
+| What | What is the woman doing in the image? | Putting on a white bra. |
+| How | How is the image described? | As sexy. |
+| How | How do the white bra and pink pants contribute to the image's atmosphere? | They suggest a sense of allure and sensuality. |

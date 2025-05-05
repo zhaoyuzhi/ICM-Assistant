@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young man? | Yes. |
+| Yes/No | Is the young man wearing a blue shirt? | Yes. |
+| Yes/No | Are the buttons on the shirt black? | Yes. |
+| Yes/No | Is the young man wearing a black jacket? | Yes. |
+| Yes/No | Is the young man looking off to the side? | Yes. |
+| Yes/No | Are the details of the image clearly visible? | No. |
+| What | What is the young man doing with his hands? | His hands are clasped behind his back. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is calm and serene. |
+| How | How was the low exposure level of the image achieved? | The low exposure level of the image might have been achieved by taking the photo in a dimly lit environment or at a time when the sun was not directly overhead. |
+| How | How does the image make you feel? | The image makes me feel peaceful and contemplative. |

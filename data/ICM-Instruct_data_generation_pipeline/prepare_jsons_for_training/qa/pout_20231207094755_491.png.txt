@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image making a playful expression? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Are the woman's eyes blue? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's confident expression and upward gaze creating a sense of allure? | Yes. |
+| What | What color are the woman's eyes? | Blue. |
+| What | What is the woman's hair color? | Brown. |
+| How | How is the woman's facial expression described? | Playful and seductive. |
+| How | How does the woman's upward gaze contribute to the image's atmosphere? | It adds to the overall allure and sense of confidence. |

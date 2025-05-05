@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the woman in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black beanie? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the background of the image purple? | Yes. |
+| Yes/No | Are the woman's white sneakers a contrast to the rest of her outfit? | Yes. |
+| What | What is the woman's pose in the image? | She has her left hand on her hip and her right hand on her thigh. |
+| What | What color is the woman's beanie? | Black. |
+| How | How does the woman's outfit create a contrast in the image? | The combination of her black jacket, plaid skirt, and black beanie creates a contrast with her white sneakers. |
+| How | How does the purple background enhance the visual appeal of the image? | The purple background further enhances the visual appeal of the image, adding to the overall allure of the image. |

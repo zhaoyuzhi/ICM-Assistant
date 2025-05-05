@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Does the skirt have a frayed hem? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Does the woman have a gold bracelet on her wrist? | Yes. |
+| Yes/No | Is the woman standing in front of a wine rack? | Yes. |
+| Yes/No | Are the bottles of wine in the wine rack visible in the image? | Yes. |
+| What | What is the color of the woman's top? | White. |
+| What | What is the design of the skirt's pockets? | Two pockets on the front. |
+| How | How is the skirt closed? | With a button closure. |
+| How | How does the woman's pose and the way she is wearing the skirt suggest? | Confidence and style. |

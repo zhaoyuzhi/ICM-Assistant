@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive? | Yes. |
+| Yes/No | Does the image feature the woman's belly? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| What | What color are the leggings in the image? | Blue. |
+| What | What is the woman's pose in the image? | Standing with legs apart and belly exposed. |
+| How | How do the leggings accentuate the woman's figure? | They are formfitting, highlighting her curves. |
+| How | How does the image convey a sense of confidence and self-assuredness? | Through the woman's pose and attire, which suggest a sense of empowerment and selfexpression. |

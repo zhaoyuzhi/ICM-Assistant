@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a floral pattern on the top? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the woman wearing in the image? | A black dress with a floral pattern on the top. |
+| What | What is the woman holding in her hand? | A purse. |
+| How | How is the woman standing in the image? | She is standing against a white background. |
+| How | How does the image convey an elegant atmosphere? | Through the simplicity of the image, the low exposure level, and the focus on the woman's outfit and pose rather than her body or any provocative elements. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red and white checkered blouse? | Yes. |
+| Yes/No | Is the woman standing in a room with a wooden floor and a white wall? | Yes. |
+| Yes/No | Is the woman's pose neutral, without any explicit gestures? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Are there any other objects or people in the frame? | No. |
+| Yes/No | Does the image contain any elements that would be considered inappropriate or suggestive? | No. |
+| What | What is the woman wearing in the image? | A red and white checkered blouse with puffy sleeves. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| How | How is the woman standing in the image? | With a neutral pose. |
+| How | How would you describe the exposure level of the image? | Low. |

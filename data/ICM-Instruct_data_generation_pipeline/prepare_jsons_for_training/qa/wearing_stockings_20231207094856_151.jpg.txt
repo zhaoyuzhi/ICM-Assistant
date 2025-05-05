@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black and white striped skirt? | Yes. |
+| Yes/No | Are the person's legs bare in the image? | No. |
+| Yes/No | Is the person sitting on a white chair with a wooden frame? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the person's knee-high socks? | Tan. |
+| How | How is the person's attire described in the description? | Classic and elegant. |
+| How | How is the act of putting on stockings associated? | With sensuality and intimacy. |
+| Yes/No | Is the person in the image wearing a black and white striped skirt? | Yes. |
+| Yes/No | Are the person's legs bare in the image? | No. |
+| Yes/No | Is the chair in the image made of wood? | Yes. |
+| Yes/No | Is the person in the image putting on their stockings? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the combination of the black and white striped skirt and tan knee-high socks a classic and elegant choice? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the knee-high socks the person is wearing? | Tan. |
+| How | How is the person in the image putting on their stockings? | They are pulling them up their legs. |
+| How | How does the act of putting on stockings contribute to the atmosphere of the image? | It adds a touch of sensuality and intimacy to the overall look. |

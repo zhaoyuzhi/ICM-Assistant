@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the image set in a field of tall grass? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image have a calm and peaceful atmosphere? | Yes. |
+| What | What is the woman in the image interacting with? | The environment. |
+| What | What is the overall atmosphere of the image? | Calm and peaceful. |
+| How | How is the woman standing in the field of tall grass? | She is standing. |
+| How | How does the low exposure level of the image affect the overall mood of the image? | It creates a sense of mystery and subtlety. |

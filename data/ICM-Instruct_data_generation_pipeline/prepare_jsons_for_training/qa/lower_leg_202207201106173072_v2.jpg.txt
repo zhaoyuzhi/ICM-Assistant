@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a marble floor? | Yes. |
+| Yes/No | Is the person wearing a green jacket? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person holding a cigarette in their hand? | Yes. |
+| Yes/No | Are the person's socks white? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the person wearing on their feet? | White sneakers. |
+| What | What is the person holding in their hand? | A cigarette. |
+| How | How are the person's legs positioned? | Crossed. |
+| How | How does the image create a sense of intimacy and allure? | Through the person's pose and the exposure of their legs. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman holding her dress up with her left hand? | Yes. |
+| Yes/No | Are her legs visible in the image? | Yes. |
+| Yes/No | Is the woman wearing a jacket? | Yes. |
+| Yes/No | Is the jacket pink? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and seductive? | Yes. |
+| What | What is the fabric of the woman's dress? | Lightweight. |
+| What | What color is the woman's jacket? | Pink. |
+| How | How is the woman revealing her legs in the image? | By holding her dress up with her left hand. |
+| How | How does the pink jacket contribute to the atmosphere of the image? | It adds a contrasting color and makes her the focal point. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing green pants? | Yes. |
+| Yes/No | Is the woman in the image holding a white shopping bag? | Yes. |
+| Yes/No | Is the woman in the image holding a black purse? | Yes. |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image walking on a sidewalk? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What is the woman holding in her left hand? | A white shopping bag. |
+| How | How is the woman carrying her purse? | In her right hand. |
+| How | How would you describe the woman's posture in the image? | Confident and alluring. |

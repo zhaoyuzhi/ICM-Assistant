@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a bra in the image? | Yes. |
+| Yes/No | Is the man shirtless in the image? | Yes. |
+| Yes/No | Are the couple kissing in the image? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image depict a sense of intimacy and desire? | Yes. |
+| Yes/No | Is the woman's head tilted back in the image? | Yes. |
+| What | What is the woman wearing in the image? | A black bra. |
+| What | What is the man's mouth doing in the image? | He is kissing the woman's lips. |
+| How | How is the background of the image? | Blurred. |
+| How | How does the man's shirtless appearance contribute to the overall mood of the image? | It adds to the sensuality and intimacy of the scene. |

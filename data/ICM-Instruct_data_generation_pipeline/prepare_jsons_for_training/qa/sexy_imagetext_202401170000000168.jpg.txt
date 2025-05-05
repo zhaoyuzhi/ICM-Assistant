@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the woman have long black hair? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| Yes/No | Does the woman have a warm expression on her face? | Yes. |
+| Yes/No | Is the advertisement suggestive or risqué? | Yes. |
+| Yes/No | Does the image create a sense of mystery and intrigue? | Yes. |
+| What | What is the woman lifting her hair? | Her own hair. |
+| What | What is the color of the dress the woman is wearing? | Red. |
+| How | How is the woman's pose in the image? | She is lifting her hair and looking off to the side. |
+| How | How does the red dress contrast with the woman's dark hair? | It adds a bold and vibrant contrast. |

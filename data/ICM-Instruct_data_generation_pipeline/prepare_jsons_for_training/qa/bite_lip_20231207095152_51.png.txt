@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Does the person have long hair? | Yes. |
+| Yes/No | Is the person wearing glasses? | Yes. |
+| Yes/No | Is the person biting her lip? | Yes. |
+| Yes/No | Is the expression on the person's face serious? | Yes. |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| What | What is the person's facial expression? | Serious. |
+| What | What is the person biting? | Her lip. |
+| How | How does the close-up shot contribute to the image's atmosphere? | It emphasizes the person's facial features, making her look more attractive and intriguing. |
+| How | How does the serious expression contribute to the image's atmosphere? | It creates a sense of intensity and allure, and may suggest a sense of determination or passion. |

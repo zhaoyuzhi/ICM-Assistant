@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a traditional Chinese dress? | Yes. |
+| Yes/No | Is the dress predominantly green in color? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Is the woman holding a white fan? | Yes. |
+| Yes/No | Is the staircase made of wood? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the woman holding in her hand? | A white fan. |
+| What | What is the dominant color of the woman's dress? | Green. |
+| How | How is the woman standing on the staircase? | She is standing poised and elegant. |
+| How | How does the image convey the atmosphere? | The image conveys a calm and serene atmosphere through the woman's poised attitude, the traditional clothing, and the blurred background. |

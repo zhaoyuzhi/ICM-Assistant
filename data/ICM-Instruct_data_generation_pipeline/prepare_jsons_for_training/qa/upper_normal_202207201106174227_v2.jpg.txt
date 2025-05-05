@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image feature any suggestive or provocative elements? | No. |
+| Yes/No | Is the man's pose in the image neutral? | Yes. |
+| Yes/No | Does the image contain any intimate or revealing clothing? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and straightforward? | Yes. |
+| What | What is the man's attire in the image? | Black jacket and white shirt. |
+| What | What is the exposure level of the image? | Low. |
+| How | How is the man posing in the image? | Neutral. |
+| How | How does the low exposure level affect the image? | It emphasizes the focus on the man and his clothing, rather than any potential allusions to a sexual theme. |

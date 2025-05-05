@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini striped? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Are the person's flip flops blue? | Yes. |
+| Yes/No | Is the image taken on a beach? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person holding in their hand? | A pair of blue flip flops. |
+| What | What is the color of the bikini? | Colorful with a striped pattern. |
+| How | How is the bikini held up? | By a string. |
+| How | How does the beach setting contribute to the image's overall atmosphere? | It adds a sense of freedom and carefree enjoyment, which can be alluring to viewers. |

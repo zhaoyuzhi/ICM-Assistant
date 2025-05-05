@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a scarf? | Yes. |
+| Yes/No | Is the woman in the image standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the image sexy due to the woman's confident pose and revealing attire? | Yes. |
+| What | What color is the bikini top the woman is wearing? | Colorful. |
+| What | What material is the scarf the woman is wearing made of? | Knitted material. |
+| How | How would you describe the woman's pose in the image? | Confident and relaxed. |
+| How | How does the beach setting contribute to the overall atmosphere of the image? | It enhances the sexy atmosphere, associating relaxation and leisure activities with the image. |

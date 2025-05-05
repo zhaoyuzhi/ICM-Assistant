@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman wearing a pink shirt? | Yes. |
+| Yes/No | Is the woman sticking out her tongue? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a flirtatious atmosphere? | Yes. |
+| Yes/No | Does the image have a seductive appeal? | Yes. |
+| What | What color is the woman's shirt? | Pink. |
+| What | What is the woman's facial expression? | Relaxed and confident. |
+| How | How is the woman's tongue gesture? | Playful and seductive. |
+| How | How does the woman's direct gaze into the camera make the viewer feel? | Personally addressed. |

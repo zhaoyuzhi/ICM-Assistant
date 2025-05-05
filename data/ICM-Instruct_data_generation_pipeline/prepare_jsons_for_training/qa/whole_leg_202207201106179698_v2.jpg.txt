@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking to the left? | Yes. |
+| Yes/No | Does the woman's outfit expose her thighs? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the woman's left hand resting on? | Her knee. |
+| What | What is the woman's right hand resting on? | Her thigh. |
+| How | How is the woman's pose in the image? | Confident. |
+| How | How does the woman's outfit, pose, and smile create a sense of allure and attractiveness in the image? | The woman's outfit, pose, and smile create a sense of allure and attractiveness in the image by exposing her thighs, displaying a confident pose, and featuring a smile that suggests friendliness and approachability. |

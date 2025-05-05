@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing a pair of jeans? | Yes. |
+| Yes/No | Is the man in the image standing against a white background? | Yes. |
+| Yes/No | Are the man's arms relaxed at his sides? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Does the image contain any color other than white and the man's underwear? | No. |
+| What | What is the man wearing under his jeans? | A striped underwear. |
+| What | What is the color of the man's underwear? | Striped. |
+| How | How is the man standing in the image? | With his arms relaxed at his sides, facing the camera. |
+| How | How does the image create a sense of intimacy? | The simplicity of the background and the focus on the man's upper body further emphasize his physique and create a sense of intimacy. |

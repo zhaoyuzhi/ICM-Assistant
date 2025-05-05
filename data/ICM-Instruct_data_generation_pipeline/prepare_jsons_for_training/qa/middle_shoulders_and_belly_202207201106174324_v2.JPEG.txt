@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Are the jeans ripped or distressed? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image depict a sexualized or romanticized scene? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What is the main focus of the image? | The person's belly. |
+| How | How are the jeans styled? | Casually and comfortably. |
+| How | How does the image atmosphere feel? | Casual and intimate. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's movements visible in the image? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the image in color or black and white? | Color. |
+| What | What is the person in the image wearing? | Blue jeans. |
+| What | What is the main focus of the image? | The person's belly. |
+| How | How is the person's belly exposed in the image? | The person's shirt is raised or removed, exposing their belly. |
+| How | How would you describe the overall mood or atmosphere of the image? | Casual and relaxed, with a hint of sexiness. |

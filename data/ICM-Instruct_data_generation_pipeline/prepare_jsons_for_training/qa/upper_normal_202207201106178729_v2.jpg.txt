@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white jacket? | Yes. |
+| Yes/No | Is the woman standing in front of a building? | Yes. |
+| Yes/No | Does the image feature a red awning? | Yes. |
+| Yes/No | Is the woman's hair dark? | Yes. |
+| Yes/No | Is the woman's expression neutral? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman wearing underneath her white jacket? | A black turtleneck. |
+| What | What is the color of the awning in the background? | Red. |
+| How | How is the woman standing in the image? | Neutrally. |
+| How | How does the low exposure level of the image affect its overall atmosphere? | It makes the image appear dimly lit and difficult to see details, contributing to a lack of a sexy atmosphere. |

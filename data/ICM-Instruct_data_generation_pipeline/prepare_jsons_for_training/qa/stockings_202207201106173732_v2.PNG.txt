@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a chair? | Yes. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the chair red? | Yes. |
+| Yes/No | Does the image have a blurred background? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and inviting? | Yes. |
+| What | What color is the person's skirt? | Plaid. |
+| What | What is the person's pose? | Crossed legs, relaxed position. |
+| How | How are the person's legs bent? | At the knees. |
+| How | How does the image convey a sense of playfulness and confidence? | Through the combination of the person's attire and pose. |

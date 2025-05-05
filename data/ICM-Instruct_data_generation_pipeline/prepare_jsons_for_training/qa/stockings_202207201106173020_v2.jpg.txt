@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing fishnet stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing black high heels? | Yes. |
+| Yes/No | Is the chair in the image white? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| What | What color are the woman's stockings? | Black. |
+| What | What color is the chair in the image? | White. |
+| How | How is the woman's pose in the image? | She is sitting with her legs crossed and looking down. |
+| How | How does the background of the image contribute to the overall atmosphere? | The plain white background puts the focus on the woman and her attire and emphasizes the sensual and alluring nature of the image. |

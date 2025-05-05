@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a thong? | Yes. |
+| Yes/No | Is the woman looking at her phone? | Yes. |
+| Yes/No | Is the room in the image white? | Yes. |
+| Yes/No | Is the woman the only person in the image? | Yes. |
+| Yes/No | Are the bikini top and thong orange? | Yes. |
+| What | What is the woman holding in her left hand? | Phone. |
+| What | What is the color of the bikini top and thong? | Orange. |
+| How | How is the woman posing in the image? | Seductively. |
+| What | What element does the image have that makes it sexy? | Sensuality and intimacy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a beige sweater? | Yes. |
+| Yes/No | Does the sweater have a white collar? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Does the woman have a brown purse? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color is the woman's scarf? | Brown. |
+| What | What is the woman carrying in her hand? | A brown purse. |
+| How | How is the woman standing in the image? | She is standing against a white background. |
+| What | What is the overall atmosphere of the image? | Calm and composed. |

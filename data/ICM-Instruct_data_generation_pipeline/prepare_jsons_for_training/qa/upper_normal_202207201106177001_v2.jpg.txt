@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the boxes stacked on top of each other? | Yes. |
+| Yes/No | Is the woman's hair dark? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the woman appear to be unpacking or organizing the boxes? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the woman doing in the image? | Unpacking/organizing boxes. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How are the boxes stacked? | On top of each other. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the task of unpacking/organizing the boxes rather than the woman's appearance. |

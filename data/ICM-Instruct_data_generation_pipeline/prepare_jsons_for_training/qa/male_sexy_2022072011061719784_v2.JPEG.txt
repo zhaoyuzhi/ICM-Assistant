@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image feature a woman? | No. |
+| Yes/No | Is the setting outdoors? | No. |
+| Yes/No | Is the man's physique average? | No. |
+| Yes/No | Are there any visible tattoos on the man's body? | No. |
+| Yes/No | Is the man's hair blonde? | No. |
+| What | What is the man's skin tone? | Dark. |
+| What | What is the color of the background in the image? | Dark. |
+| How | How is the man posing in the image? | Flexing his muscles. |
+| How | How does the image create a dramatic atmosphere? | The contrast between the dark background and the man's skin tone, plus the studio setting. |

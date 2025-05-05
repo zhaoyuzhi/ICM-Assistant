@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the woman's gaze directed off to the side? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman's pose and the low exposure level suggestive of modesty and formality? | Yes. |
+| What | What is the woman holding her hand to? | Her chest. |
+| What | What is the focus of the image? | Her clothing and pose. |
+| How | How is the woman's hair styled? | It is not specified in the description. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It creates a sense of calm and composedness. |

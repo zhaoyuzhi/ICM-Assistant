@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sweatshirt? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the woman carrying a black purse? | Yes. |
+| Yes/No | Is the woman moving towards the right side of the image? | Yes. |
+| Yes/No | Does the image create a sense of allure and confidence? | Yes. |
+| Yes/No | Are the woman's clothes revealing? | Yes. |
+| What | What color is the woman's sweatshirt? | Pink. |
+| What | What is the woman carrying in her left hand? | A black purse. |
+| How | How is the woman moving in the image? | She is walking. |
+| How | How does the image create a sense of allure and confidence? | Through the woman's outfit, movement, and overall demeanor. |

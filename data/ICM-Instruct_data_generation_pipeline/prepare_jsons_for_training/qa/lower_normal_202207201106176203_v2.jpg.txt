@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Does the image feature any suggestive poses or content? | No. |
+| Yes/No | Is the person's attire the main focus of the image? | Yes. |
+| Yes/No | Does the image contain any explicit content? | No. |
+| Yes/No | Is the exposure level of the person low? | Yes. |
+| What | What is the person wearing on their feet? | White sneakers. |
+| What | What is the background color of the image? | White. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How does the image contribute to a non-sexual atmosphere? | The low exposure level and focus on the person's attire rather than their body create a nonsexual atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking a selfie? | Yes. |
+| Yes/No | Is the woman wearing a white blouse with ruffled sleeves? | Yes. |
+| Yes/No | Are the woman's black pants visible in the image? | Yes. |
+| Yes/No | Is the woman holding a phone in her right hand? | Yes. |
+| Yes/No | Is the woman's left hand resting on her hip? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the woman's attire in the image? | A white blouse with ruffled sleeves and black pants. |
+| What | What is the woman doing in the image? | Taking a selfie. |
+| How | How is the woman holding her phone? | In her right hand. |
+| How | How is the woman's left hand positioned? | Resting on her hip. |

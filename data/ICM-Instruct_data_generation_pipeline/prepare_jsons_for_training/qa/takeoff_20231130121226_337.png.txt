@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress open? | Yes. |
+| Yes/No | Is the woman holding the dress open with her left hand? | Yes. |
+| Yes/No | Is the woman's right hand placed on her hip? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing underneath her dress? | A white bra. |
+| What | What is the color of the dress? | Denim. |
+| How | How is the woman holding her dress open? | With her left hand. |
+| How | How is the woman posing in the image? | Confidently and seductively. |

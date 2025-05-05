@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing dark lipstick? | Yes. |
+| Yes/No | Is the woman in the image holding a cigarette? | Yes. |
+| Yes/No | Is the woman in the image wearing a dark top? | Yes. |
+| Yes/No | Is the woman in the image looking upwards? | Yes. |
+| Yes/No | Does the woman in the image have her finger inside her mouth? | Yes. |
+| Yes/No | Does the image have a dramatic atmosphere? | Yes. |
+| What | What is the woman in the image holding in her hand? | A cigarette. |
+| What | What is the facial expression of the woman in the image? | Serious. |
+| How | How does the woman in the image look? | Confident and selfassured. |
+| How | How does the image create an air of mystery and intrigue? | Through the woman's serious expression and finger inside her mouth. |

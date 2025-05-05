@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the character in the image a female? | Yes. |
+| Yes/No | Is the character in the image a video game character? | Yes. |
+| Yes/No | Does the character in the image have a hat on? | Yes. |
+| Yes/No | Is the character in the image holding a gun? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the name of the video game that the character in the image is from? | League of Legends. |
+| What | What is the character in the image holding in her hand? | A gun. |
+| How | How is the character's attire in the image? | The character is wearing a white outfit. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is not sexy, it's more focused on the gameplay and strategy of the game. |

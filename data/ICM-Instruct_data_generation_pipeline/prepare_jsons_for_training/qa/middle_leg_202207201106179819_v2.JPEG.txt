@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt green in color? | Yes. |
+| Yes/No | Does the skirt have a high waist? | Yes. |
+| Yes/No | Is the person's pose confident and assertive? | Yes. |
+| How | Does the image showcase the person's body in a sexy manner? | Yes. |
+| Yes/No | Is the gray shirt a neutral backdrop for the green skirt? | Yes. |
+| What | What is the color of the skirt? | Green. |
+| What | What is the person's pose in the image? | Confident and assertive, with hands placed on hips. |
+| How | How does the high waist of the skirt contribute to the overall look of the image? | It gives the impression of a woman who is comfortable in her own skin and unafraid to show it. |
+| How | How does the green color of the skirt add to the overall atmosphere of the image? | It adds a vibrant and lively touch to the image. |

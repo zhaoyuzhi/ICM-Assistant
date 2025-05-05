@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman's stomach exposed in the image? | Yes. |
+| Yes/No | Is the woman holding her pants open with her left hand? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Does the image create a sense of desire in the viewer? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What is the woman holding her pants open with? | Her left hand. |
+| How | How does the woman's posture and attire suggest confidence and self-assuredness? | The woman's posture and attire suggest confidence and selfassuredness because she is standing with her feet shoulderwidth apart, her shoulders are back, and her head is held high. Additionally, the way she is holding her pants open with her left hand exudes a sense of confidence and selfassurance. |
+| How | How does the contrast between the white shirt and blue jeans highlight the woman's figure? | The contrast between the white shirt and blue jeans creates a visual contrast that draws the viewer's attention to the woman's figure, specifically her waist and hips. The white shirt provides a stark contrast to the blue jeans, making the woman's figure stand out in a way that would not be possible with a single color outfit. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Are the woman's jeans tight? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman holding her stomach with her left hand? | Yes. |
+| Yes/No | Is the woman's right hand placed on her hip? | Yes. |
+| Yes/No | Does the image capture a moment of vulnerability? | Yes. |
+| What | What is the woman's posture in the image? | Confident and comfortable. |
+| What | What is the overall atmosphere of the image? | Confidence and selfassuredness. |
+| How | How is the woman holding her stomach? | With her left hand. |
+| How | How are the woman's jeans fitting? | Tightly. |

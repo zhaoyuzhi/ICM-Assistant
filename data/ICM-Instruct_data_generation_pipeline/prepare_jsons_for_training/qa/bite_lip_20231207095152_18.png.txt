@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the woman have a floral design on her shirt? | Yes. |
+| Yes/No | Is the woman standing in front of a counter? | Yes. |
+| Yes/No | Are there bottles on the counter? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Does the woman have a handbag on the counter? | Yes. |
+| What | What is the woman's facial expression? | Slight smile. |
+| What | What is the woman's body language? | Confident and alluring. |
+| How | How is the woman's shirt designed? | Black shirt with a floral design on the left side. |
+| How | How does the woman's lips look like? | Slightly parted, giving her a sexy appearance. |

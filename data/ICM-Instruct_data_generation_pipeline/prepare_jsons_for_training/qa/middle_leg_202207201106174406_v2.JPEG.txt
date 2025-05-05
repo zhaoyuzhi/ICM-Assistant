@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person's shirt loose-fitting? | Yes. |
+| Yes/No | Does the image feature a gray background? | Yes. |
+| Yes/No | Is the person's pose confident and relaxed? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the person's skirt? | Pink. |
+| What | What is the person's right hand doing in the image? | Hanging loosely at her side. |
+| How | How is the person's left hand positioned in the image? | Resting on her hip. |
+| How | How does the gray background contribute to the overall atmosphere of the image? | It helps to highlight the person and her attire, further emphasizing the sexy atmosphere. |

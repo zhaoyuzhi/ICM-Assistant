@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image sexually explicit? | No. |
+| Yes/No | Does the image contain any inappropriate content? | No. |
+| Yes/No | Is the woman in the image making a funny face? | Yes. |
+| Yes/No | Are the two men standing next to the woman? | Yes. |
+| Yes/No | Is the overall atmosphere of the image light-hearted and humorous? | Yes. |
+| Yes/No | Does the image contain any explicit or intimate details? | No. |
+| What | What is the woman doing in the image? | Making a funny face. |
+| What | What are the two men doing in the image? | Standing next to the woman. |
+| How | How is the image lit? | Low exposure level. |
+| How | How would you describe the focus of the image? | Amusing interaction between the woman and men. |

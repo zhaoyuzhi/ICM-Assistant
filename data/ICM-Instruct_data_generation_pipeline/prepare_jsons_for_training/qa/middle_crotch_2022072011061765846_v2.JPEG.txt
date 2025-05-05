@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing underwear? | Yes. |
+| Yes/No | Is the image a close-up of a private part of the body? | Yes. |
+| How | Does the image show the person's face? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| How | Does the image show any other objects or people? | No. |
+| Yes/No | Is the image blurry or pixelated? | No. |
+| What | What is the gender of the person in the image? | The gender of the person in the image cannot be determined based on the description. |
+| What | What is the color of the underwear? | The color of the underwear is not specified in the description. |
+| How | How is the image framed? | The image is framed with a closeup perspective, emphasizing the details of the person's skin and underwear. |
+| How | How does the image make the viewer feel? | The image creates an intimate and seductive atmosphere, making the viewer feel as though they are experiencing a private moment with the person in the image. |

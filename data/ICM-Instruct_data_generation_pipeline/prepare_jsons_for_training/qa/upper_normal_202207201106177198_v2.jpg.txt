@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the women in the image smiling? | Yes. |
+| Yes/No | Is the background of the image blank? | No. |
+| Yes/No | Are the women wearing revealing clothing? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the lighting in the image high-key? | No. |
+| What | What is the woman in the middle looking at? | Something outside the frame. |
+| What | What color top is the woman on the right wearing? | Pink. |
+| How | How are the women posed in the image? | They are standing or sitting in a casual, relaxed manner. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman's outfit complemented by a brown belt? | Yes. |
+| Yes/No | Is the woman wearing white sneakers? | Yes. |
+| What | What is the woman holding in her left hand? | A black purse. |
+| What | What is the woman's hair color? | Not specified in the description. |
+| How | How is the woman looking in the image? | She is looking to the side, giving off a cheerful vibe. |
+| How | How would you describe the woman's overall look in the image? | Sexy, alluring, and confident. |

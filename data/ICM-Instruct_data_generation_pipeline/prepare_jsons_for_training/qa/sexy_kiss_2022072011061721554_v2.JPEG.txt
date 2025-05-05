@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Are the couple kissing each other? | Yes. |
+| Yes/No | Is the woman's hand on the man's face? | Yes. |
+| Yes/No | Is the image a close-up shot of the couple? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and passion between the couple? | Yes. |
+| What | What is the woman wearing? | A black dress. |
+| What | What is the man wearing? | A white shirt. |
+| How | How are the couple kissing each other? | Passionately. |
+| How | How does the image emphasize the connection between the couple? | Through the closeup shot and the contrast between the woman's black dress and the man's white shirt. |

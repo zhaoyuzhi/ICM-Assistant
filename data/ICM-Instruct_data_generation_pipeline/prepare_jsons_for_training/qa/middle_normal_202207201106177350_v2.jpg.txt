@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts blue? | Yes. |
+| Yes/No | Does the person have a logo on their shorts? | Yes. |
+| Yes/No | Is the person holding onto the railing of the balcony? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the person wearing on their lower body? | Blue shorts. |
+| What | What is the color of the logo on the person's shorts? | White. |
+| How | How is the person holding onto the railing of the balcony? | With their left hand. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts blue? | Yes. |
+| Yes/No | Does the person have a logo on their left leg? | Yes. |
+| Yes/No | Is the person holding onto the railing of the balcony? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image convey a sexual atmosphere? | No. |
+| What | What is the person's pose in the image? | The person is standing with their left hand on the railing of the balcony. |
+| What | What is the overall atmosphere of the image? | The atmosphere is casual and relaxed. |
+| How | How is the person's attire in the image? | The person is wearing a white tshirt and blue shorts. |
+| How | How does the image suggest a relaxed setting? | The blurred background and the person's casual pose suggest a relaxed setting. |

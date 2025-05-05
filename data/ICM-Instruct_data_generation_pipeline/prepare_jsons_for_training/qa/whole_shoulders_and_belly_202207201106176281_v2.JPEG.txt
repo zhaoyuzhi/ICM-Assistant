@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing jeans? | Yes. |
+| Yes/No | Does the woman in the image have her hand on her hip? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A strapless shirt. |
+| What | What is the woman in the image wearing on her lower body? | Jeans. |
+| How | How is the woman in the image posing? | With her hand on her hip. |
+| What | What is the atmosphere of the image? | Seductive. |

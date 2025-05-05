@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the person looking over their shoulder in the image? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and alluring? | Yes. |
+| Yes/No | Does the image feature a large area of the person's back exposed? | Yes. |
+| What | What is the person's attire in the image? | A black dress. |
+| What | What is the person's hairstyle in the image? | A bun. |
+| How | How is the person standing in the image? | With their back facing the camera. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |

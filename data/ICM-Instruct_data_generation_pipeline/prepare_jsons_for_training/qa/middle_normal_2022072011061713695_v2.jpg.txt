@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's shorts pink? | Yes. |
+| Yes/No | Is the person's hand tucked into their pocket? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image depict explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire provocative or revealing? | No. |
+| What | What is the color of the wall in the background? | Gray. |
+| What | What is the person's attire? | White tshirt and pink shorts. |
+| How | How is the person's hand positioned in the image? | Casually tucked into their pocket. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It emphasizes the modesty of the person's clothing and the simplicity of the scene, contributing to a nonsexual atmosphere. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person's attire revealing or suggestive? | No. |
+| Yes/No | Does the image feature any explicit or intimate behavior? | No. |
+| Yes/No | Is the atmosphere of the image sexy or provocative? | No. |
+| Yes/No | Does the image include any background elements that are not neutral or everyday? | No. |
+| How | Is the exposure level of the image high, showing a large portion of the person's body? | No. |
+| What | What is the person's attire in the image? | White tshirt and pink shorts. |
+| What | What is the color of the background in the image? | Gray. |
+| How | How is the person standing in relation to the camera? | Facing away from the camera. |
+| How | How does the low exposure level of the image affect the focus of the scene? | It emphasizes the focus on the person's attire and the simplicity of the scene. |

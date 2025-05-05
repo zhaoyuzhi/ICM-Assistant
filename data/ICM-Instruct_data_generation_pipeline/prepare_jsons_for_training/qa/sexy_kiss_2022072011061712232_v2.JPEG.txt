@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the man and woman? | Yes. |
+| Yes/No | Does the image have a romantic and seductive atmosphere? | Yes. |
+| What | What is the man in the image wearing? | A white shirt. |
+| What | What is the woman in the image wearing? | A black bra. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the woman's hand on the man's face. |
+| How | How does the image convey a sense of intimacy and passion? | The image conveys a sense of intimacy and passion through the close proximity of the man and woman, their kiss, and the woman's hand on the man's face. The blurred background also adds to the sense of intimacy. |

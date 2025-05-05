@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the heels black? | No. |
+| Yes/No | Is the person's pose explicit or suggestive? | No. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| Yes/No | Is the person's attire casual? | No. |
+| Yes/No | Is the background of the image colorful? | No. |
+| What | What is the length of the skirt? | The skirt falls to the person's knees. |
+| What | What is the color of the heels? | White. |
+| How | How is the person's pose described? | Neutral, with their hands resting at their sides. |
+| How | How would you describe the atmosphere of the image? | Simple and understated. |

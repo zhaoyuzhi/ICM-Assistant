@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Are the man's hands on the woman's shoulders? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the image taken indoors? | Yes. |
+| What | What is the color of the man's suit? | Gray. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How are the man's hands placed on the woman's shoulders? | Gently. |
+| How | How does the woman's head tilt back as she leans into the man's kiss? | Elegantly. |

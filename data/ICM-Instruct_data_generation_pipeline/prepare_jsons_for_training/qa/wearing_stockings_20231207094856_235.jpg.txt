@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person putting on stockings? | Yes. |
+| Yes/No | Is the setting of the image a bedroom? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and personal space? | Yes. |
+| Yes/No | Is the person's body language focused and precise? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the dominant color of the person's outfit? | White. |
+| How | How is the person putting on their stockings? | Focused and precisely. |
+| What | What does the image convey about the person's attitude towards self-care and self-expression? | Confidence and selfassuredness. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person in the process of putting on stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Is the person's movement focused and precise? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the person's shirt? | White. |
+| How | How are the person's movements while putting on stockings? | Focused and precise. |
+| What | What does the image convey about the person's attitude towards their body and appearance? | Confidence and selfassuredness. |

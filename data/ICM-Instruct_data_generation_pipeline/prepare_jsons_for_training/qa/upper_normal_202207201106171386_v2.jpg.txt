@@ -1,0 +1,23 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Is the woman in the image wearing a bright or flashy outfit? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman in the image posing in a seductive or provocative way? | No. |
+| Yes/No | Does the image have a high level of exposure? | No. |
+| Yes/No | Is the overall atmosphere of the image playful or light-hearted? | No. |
+| What | What is the woman in the image wearing? | A black shirt. |
+| What | What is the woman's hair color in the image? | Dark hair. |
+| How | How would you describe the woman's expression in the image? | Sad. |
+| How | How would you describe the overall mood or atmosphere of the image? | Serious. |
+| Yes/No | Is the image appropriate? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are there any visible tears in the woman's eyes? | Yes. |
+| Yes/No | Is the overall atmosphere of the image somber and poignant? | Yes. |
+| What | What is the young woman's facial expression in the image? | Sadness. |
+| What | What is the translation of the text visible in the image? | "Her eyes are full of tears". |
+| How | How is the young woman's attire in the image? | Modest, covering her body. |
+| How | How would you rate the level of nudity in the image? | Low. |
+| How | How sexy is the image? | Not sexy. |

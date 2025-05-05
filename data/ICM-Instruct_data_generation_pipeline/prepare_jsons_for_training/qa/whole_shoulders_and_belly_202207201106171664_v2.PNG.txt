@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple sports outfit? | Yes. |
+| Yes/No | Does the outfit consist of a purple tank top and matching purple shorts? | Yes. |
+| Yes/No | Is the tank top cropped, revealing the woman's midriff? | Yes. |
+| Yes/No | Are the shorts high-waisted? | Yes. |
+| Yes/No | Is the woman standing with her hands on her hips? | Yes. |
+| Yes/No | Is the woman facing the camera directly? | Yes. |
+| What | What color is the woman's sports outfit? | Purple. |
+| What | What is the woman's pose in the image? | She is standing with her hands on her hips, facing the camera directly. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's attire, particularly the cropped tank top and highwaisted shorts, creates a sexy and confident atmosphere. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, with her hands on her hips and direct gaze into the camera, adds to the confident and assertive atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a microphone? | Yes. |
+| Yes/No | Is the woman in the image holding a cell phone? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink blazer? | Yes. |
+| Yes/No | Is the woman in the image wearing a white collared shirt? | Yes. |
+| Yes/No | Is the image overly bright or overexposed? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the woman in the image holding in her right hand? | A black microphone. |
+| What | What is the woman in the image holding in her left hand? | A cell phone. |
+| How | How is the woman dressed in the image? | She is wearing a pink blazer and a white collared shirt. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is not sexy, it is set in a grocery store aisle, a public and everyday setting. |

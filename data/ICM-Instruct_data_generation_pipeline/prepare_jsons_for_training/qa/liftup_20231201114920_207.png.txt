@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black face mask? | Yes. |
+| Yes/No | Are they lifting their shirt and pants? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| What | What is the person lifting their clothes? | Their shirt and pants. |
+| What | What is the color of the person's shirt? | Gray. |
+| How | How is the person lifting their clothes? | By raising them up. |
+| What | What is the atmosphere created by the image? | Seductive. |

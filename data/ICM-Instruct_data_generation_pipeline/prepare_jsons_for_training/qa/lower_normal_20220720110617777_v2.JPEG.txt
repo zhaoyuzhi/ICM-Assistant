@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing green cargo shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's feet bare in the image? | Yes. |
+| Yes/No | Is the man wearing white sneakers in the image? | Yes. |
+| Yes/No | Does the image feature a black wall? | Yes. |
+| Yes/No | Is there a wooden chair in the room depicted in the image? | Yes. |
+| What | What is the man in the image motioning towards? | Nothing in particular, just walking. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How is the man in the image dressed? | Casually, with green cargo shorts and a white tshirt. |
+| How | How would you describe the room's decor in the image? | Simple, with a black wall and a wooden chair. |

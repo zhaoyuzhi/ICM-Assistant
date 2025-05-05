@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a blue jacket and a white sweater? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the image well-lit? | Yes. |
+| Yes/No | Does the woman have a neutral pose? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the woman wearing in the image? | A blue jacket and a white sweater. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the woman standing in the image? | Neutral. |
+| How | How is the image lit? | Welllit. |

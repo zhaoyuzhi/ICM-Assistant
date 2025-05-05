@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the boy in the image wearing a swimsuit? | Yes. |
+| Yes/No | Are they in a swimming pool? | Yes. |
+| Yes/No | Is the man holding a yellow floatie? | Yes. |
+| Yes/No | Does the image depict a moment of intimacy between the two individuals? | Yes. |
+| Yes/No | Would you describe the atmosphere of the image as relaxed and casual? | Yes. |
+| What | What is the man holding in his hand? | Yellow floatie. |
+| What | What is the boy wearing on his head? | Swim cap and goggles. |
+| How | How is the man standing in relation to the boy? | Behind the boy. |
+| How | How does the boy's gaze towards the man emphasize the intimate nature of the scene? | It suggests a sense of connection and shared enjoyment between the two individuals. |

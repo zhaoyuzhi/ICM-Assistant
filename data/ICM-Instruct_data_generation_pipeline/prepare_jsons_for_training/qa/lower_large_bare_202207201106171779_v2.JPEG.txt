@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing any clothing? | No. |
+| Yes/No | Is the person's lower body exposed? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person sitting on a white couch? | Yes. |
+| Yes/No | Are the person's feet resting on the couch? | Yes. |
+| Yes/No | Is the image intimate and sensual? | Yes. |
+| What | What color are the socks the person is wearing? | Pink. |
+| What | What is the overall atmosphere of the image? | Intimate and sensual. |
+| How | How does the person's pose suggest vulnerability and relaxation? | The person's legs are crossed, and their feet are resting on the couch, suggesting a sense of relaxation and vulnerability. |
+| How | How does the image evoke a sense of trust and comfort? | The person's exposed skin and confident pose suggest a sense of trust and comfort, as if they are comfortable with their body and the viewer's gaze. |

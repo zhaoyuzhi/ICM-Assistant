@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow and white jacket? | Yes. |
+| Yes/No | Is the person in the image wearing a red and white hat? | Yes. |
+| Yes/No | Is the person in the image wearing a red and white glove? | Yes. |
+| Yes/No | Is the person in the image wearing a red and white shirt? | Yes. |
+| Yes/No | Is the person in the image standing in front of a mirror? | Yes. |
+| Yes/No | Is the person in the image taking a selfie? | Yes. |
+| What | What is the color of the person's jacket? | Yellow and white. |
+| What | What is the color of the person's shirt? | Red and white. |
+| How | How is the person posing in the image? | The person is standing with their arm raised, taking a selfie. |
+| How | How does the mirror add depth to the image? | The mirror reflects the person's image, creating a sense of depth and adding an extra layer to the image. |

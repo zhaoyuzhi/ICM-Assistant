@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black sock with a red logo? | Yes. |
+| Yes/No | Is the person in the image naked from the waist down? | Yes. |
+| Yes/No | Is the person standing on a sidewalk? | Yes. |
+| Yes/No | Is the background of the image a street with a sidewalk and a building? | Yes. |
+| Yes/No | Is the person's attire the main focus of the image? | Yes. |
+| Yes/No | Does the image create an atmosphere of intimacy and allure? | Yes. |
+| What | What is the color of the sock that the person is wearing? | Black. |
+| What | What is the logo on the person's sock? | Red. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |
+| How | How is the person facing in the image? | Facing the camera. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the woman's hair styled in an elaborate updo? | Yes. |
+| Yes/No | Does the image feature a temple as its background? | Yes. |
+| Yes/No | Are there intricate carvings and statues adorning the temple's surface? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | No. |
+| What | What is the woman wearing in the image? | A white robe with a yellow sash. |
+| What | What is the cultural and historical context of the image? | The image features a woman dressed in traditional Chinese clothing, standing in front of a traditional Chinese temple. |
+| How | How is the woman's face visible in the image? | The woman's face is not clearly visible due to the low exposure level. |
+| How | How does the low exposure level of the image emphasize the cultural and historical context? | The low exposure level helps to shift the focus from the woman's physical appearance to the cultural and historical aspects of the image, emphasizing the temple and its intricate carvings and statues. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Is the person in the image wearing sneakers? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's face? | No. |
+| Yes/No | Does the person in the image have any tattoos or piercings visible? | No. |
+| Yes/No | Is the person in the image standing or sitting? | Standing. |
+| Yes/No | Does the person in the image have their arms raised or lifted? | No. |
+| What | What color are the person's leggings? | Gray. |
+| What | What color are the person's sneakers? | Pink. |
+| How | How does the person's pose create a sense of allure and confidence? | The person is standing with their feet shoulderwidth apart, their hips slightly cocked, and their buttocks prominently displayed, creating a sense of confidence and selfassurance. |
+| How | How does the combination of gray leggings and pink sneakers contribute to the overall atmosphere of the image? | The combination of gray leggings and pink sneakers adds a pop of color to the image and creates a playful and stylish contrast that contributes to the overall seductive atmosphere. |

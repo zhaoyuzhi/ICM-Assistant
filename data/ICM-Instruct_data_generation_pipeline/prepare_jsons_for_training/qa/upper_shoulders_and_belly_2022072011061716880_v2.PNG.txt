@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple top? | Yes. |
+| Yes/No | Is the woman wearing a face mask? | Yes. |
+| Yes/No | Is the woman holding a drink? | Yes. |
+| Yes/No | Is the woman carrying a purse? | Yes. |
+| Yes/No | Is the woman walking through an airport? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her top? | A strapless, midriffbaring top. |
+| What | What color is the car in the background? | Blue. |
+| How | How is the woman's outfit associated with seductiveness? | The strapless and midriffbaring top are often associated with a seductive and alluring appearance. |
+| How | How does the background setting contribute to the overall atmosphere of the image? | The airport setting adds a sense of travel and adventure, which complements the sexy and intriguing nature of the image. |

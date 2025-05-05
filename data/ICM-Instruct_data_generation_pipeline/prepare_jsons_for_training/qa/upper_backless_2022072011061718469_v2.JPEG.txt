@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red bikini? | Yes. |
+| Yes/No | Is the back of the person's body facing the camera? | Yes. |
+| Yes/No | Does the bikini have thin straps? | Yes. |
+| Yes/No | Is there a small bow on the back of the bikini? | Yes. |
+| Yes/No | Is the person's hair styled in a bun? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color is the bikini? | Red. |
+| What | What is the person's hairstyle? | A bun. |
+| How | How are the straps of the bikini styled? | Thin. |
+| How | How does the white background affect the image? | It contrasts with the red of the bikini and makes the person stand out. |

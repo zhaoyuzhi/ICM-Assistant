@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs the main focus of the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person lying on in the image? | A bed. |
+| What | What color are the person's stockings? | Black. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image make you feel? | The image creates a sensual and intimate atmosphere, making me feel relaxed and comfortable. |

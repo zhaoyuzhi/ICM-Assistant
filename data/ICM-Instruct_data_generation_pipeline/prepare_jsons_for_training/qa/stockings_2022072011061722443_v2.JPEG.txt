@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the image intimate and suggestive? | Yes. |
+| Yes/No | Does the image portray a close-up view of the person's legs? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black stockings. |
+| What | What is the person in the image lying on? | A bed. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image create an intimate atmosphere? | Through the closeup view of the person's legs, the fact that they are wearing stockings, and the person's relaxed position on a bed. |

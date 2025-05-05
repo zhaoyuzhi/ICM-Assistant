@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a bikini? | Yes. |
+| Yes/No | Is the inflatable tube blue and white in color? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Is the woman looking up at the camera? | Yes. |
+| What | What is the woman holding in the image? | A large inflatable tube. |
+| What | What is the color of the inflatable tube? | Blue and white. |
+| How | How is the woman's body exposed in the image? | She is wearing a bikini. |
+| How | How does the beach setting evoke a sense of leisure and enjoyment? | The beach setting suggests a relaxed and tranquil atmosphere, with the ocean in the background adding to the sense of leisure and enjoyment. |

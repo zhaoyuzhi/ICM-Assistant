@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of gray trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the trousers loose-fitting? | Yes. |
+| Yes/No | Does the image feature any suggestive or sexual content? | No. |
+| Yes/No | Is the person's attire provocative or suggestive? | No. |
+| Yes/No | Does the image include any objects or distractions in the frame? | No. |
+| What | What is the color of the person's trousers? | Gray. |
+| What | What is the color of the person's shirt? | White. |
+| How | How are the trousers fitted at the waist? | They have a button closure. |
+| How | How does the image emphasize the simplicity of the person's attire? | The image features a white background and does not include any other objects or distractions in the frame, drawing focus to the person's clothing and posture. |
+| Yes/No | Is the person in the image wearing a pair of gray trousers? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the trousers loose-fitting? | Yes. |
+| Yes/No | Does the shirt appear to be made of a lightweight fabric? | Yes. |
+| Yes/No | Are the person's hands resting at their sides? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the color of the person's trousers? | Gray. |
+| What | What is the color of the person's shirt? | White. |
+| How | How are the trousers closed at the waist? | With a button closure. |
+| What | What is the overall atmosphere of the image? | Calm and unassuming. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow blouse? | Yes. |
+| Yes/No | Does the woman have a slit on her skirt? | Yes. |
+| Yes/No | Are the woman's sleeves long? | Yes. |
+| Yes/No | Is the woman wearing white socks? | Yes. |
+| Yes/No | Does the image have a plain white background? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color is the woman's blouse? | Yellow. |
+| What | What is the style of the woman's skirt? | Highwaisted with a slit on the side. |
+| How | How many sleeves does the woman's blouse have? | Long sleeves. |
+| How | How does the woman's pose contribute to the overall allure of the image? | The woman is standing with her legs slightly apart, with one hand on her hip and the other on her thigh, creating a confident and alluring pose. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Is the phone displaying an advertisement? | Yes. |
+| Yes/No | Is the woman wearing a beige sweater? | Yes. |
+| Yes/No | Does the woman have her hair in a bun? | Yes. |
+| Yes/No | Is the woman indoors? | Yes. |
+| Yes/No | Is the atmosphere of the image calm and focused? | Yes. |
+| What | What is the woman holding in her hand? | A phone. |
+| What | What is the advertisement on the phone screen promoting? | A Chinese company. |
+| How | How is the woman's attire in the image? | Simple and unobtrusive. |
+| How | How does the woman appear to be feeling in the image? | Calm and focused. |

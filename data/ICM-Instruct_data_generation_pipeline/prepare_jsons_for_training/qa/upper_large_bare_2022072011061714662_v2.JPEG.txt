@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top tied at the back? | Yes. |
+| Yes/No | Are the bikini bottoms tied at the sides? | Yes. |
+| Yes/No | Does the person have long hair? | Yes. |
+| Yes/No | Are they wearing sunglasses? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What color is the bikini top? | Blue. |
+| What | What is the color of the bikini bottoms? | Blue and white stripes. |
+| How | How is the bikini top tied? | Tied at the back. |
+| How | How are the bikini bottoms tied? | Tied at the sides. |

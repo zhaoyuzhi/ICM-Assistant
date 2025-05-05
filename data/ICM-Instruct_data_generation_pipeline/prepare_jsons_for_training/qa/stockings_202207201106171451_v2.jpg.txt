@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the stockings sheer? | Yes. |
+| Yes/No | Is the person sitting on a wooden bench? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and intimate? | Yes. |
+| Yes/No | Does the image suggest a sense of vulnerability and allure? | Yes. |
+| What | What is the main focus of the image? | The sheer black stockings. |
+| What | What is the material of the bench? | Wood. |
+| How | How are the person's legs positioned? | Crossed. |
+| How | How does the image perceive the person's demeanor? | Relaxed and confident. |

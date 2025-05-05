@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image dressed in a casual outfit? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the man's movements in the image relaxed and unhurried? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Does the man's attire in the image appear simple and modest? | Yes. |
+| What | What is the man in the image wearing on his feet? | White sneakers. |
+| What | What is the overall atmosphere of the image? | Calm and nonprovocative. |
+| How | How are the man's movements in the image? | Relaxed and unhurried. |
+| How | How does the low exposure level of the image contribute to its non-sexual nature? | It prevents the viewer from focusing on any potential body language or facial expressions that might suggest a more intimate or provocative context. |

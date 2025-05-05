@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue and white patterned pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's white sneakers visible in the image? | Yes. |
+| Yes/No | Is the person's left hand placed on their hip? | Yes. |
+| Yes/No | Is the person's right hand resting on a stool? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the person's pants? | Blue and white. |
+| What | What is the person's right hand resting on? | A stool. |
+| How | How is the person's left hand positioned? | On their hip. |
+| How | How does the person's overall atmosphere of the image feel? | Casual and relaxed. |

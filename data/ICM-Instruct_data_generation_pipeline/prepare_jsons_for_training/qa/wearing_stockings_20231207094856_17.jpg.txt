@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Is the person holding their stockings in place with their hands? | Yes. |
+| Yes/No | Is the background of the image a gray curtain? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the person's skirt? | Black. |
+| How | How are the person's legs positioned in the image? | Bent. |
+| How | How does the presence of the teddy bear in the background affect the atmosphere of the image? | It creates an intriguing and captivating atmosphere. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image standing? | No. |
+| Yes/No | Are the curtains in the background black? | No. |
+| Yes/No | Is the teddy bear white? | Yes. |
+| Yes/No | Do the stockings being put on match the black skirt? | Yes. |
+| Yes/No | Is the general atmosphere of the image sexy? | Yes. |
+| What | What is the person in the image putting on? | They are putting on black stockings. |
+| What | What is in the background of the image? | A gray curtain and a white teddy bear. |
+| How | How are the stockings being put on? | The person is holding them in place with their hands. |
+| How | How would you describe the atmosphere of the image? | Intriguing and captivating. |

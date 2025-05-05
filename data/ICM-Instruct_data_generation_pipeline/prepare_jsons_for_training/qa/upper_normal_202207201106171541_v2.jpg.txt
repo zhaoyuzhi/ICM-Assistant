@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image smiling? | Yes. |
+| Yes/No | Is the background of the image a white wall with a green plant? | Yes. |
+| Yes/No | Is the man positioned in the center of the image? | Yes. |
+| Yes/No | Is the overall exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose or the product he is holding provocative or revealing? | No. |
+| What | What is the man holding in the image? | A tube of green skincare product. |
+| What | What is the atmosphere of the image? | Calm and relaxed. |
+| How | How is the man positioned in the image? | He is positioned in the center, drawing the viewer's attention to him and the product. |
+| How | How does the low exposure level of the image contribute to its overall feel? | It creates a calm and relaxed atmosphere and focuses attention on the man and the product. |

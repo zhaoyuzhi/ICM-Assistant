@@ -1,0 +1,18 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person's left leg extended in the image? | Yes. |
+| Yes/No | Does the person have writing on their stockings? | Yes. |
+| What | What color is the person's tank top? | Beige. |
+| What | What color are the person's stockings? | Black. |
+| What | What is the person's pose in the image? | Sitting with legs extended and feet resting on the rug. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person's left leg extended? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the person's feet bare? | Yes. |
+| Yes/No | Does the beige tank top add a soft and delicate touch to the scene? | Yes. |
+| Yes/No | Is the person putting on the stockings? | Yes. |
+| Yes/No | Color of the person's tank top | Beige. |
+| Yes/No | Color of the stockings | Black. |
+| How | How are the person's legs positioned? | Left leg extended, right leg bent. |
+| What | What does the writing on the stockings say? | N/A (not specified in the description). |

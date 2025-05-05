@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a two-piece swimsuit? | Yes. |
+| Yes/No | Is the woman lying on her stomach on a sandy beach? | Yes. |
+| Yes/No | Is the woman's left hand placed on her chest? | Yes. |
+| Yes/No | Is the woman's right hand on her thigh? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the woman wearing in the image? | A white bikini. |
+| What | What is the setting of the image? | A sandy beach. |
+| How | How is the woman posing in the image? | She is lying on her stomach with her legs spread apart. |
+| How | How does the woman's gaze contribute to the overall atmosphere of the image? | Her direct gaze adds to the provocative and captivating nature of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman carrying a purse? | Yes. |
+| Yes/No | Is the woman's pose in the image neutral? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the woman's attire suggest a formal or professional setting? | Yes. |
+| What | What is the color of the woman's dress? | Green. |
+| What | What is the woman carrying in her hand? | A black purse. |
+| How | How does the woman's pose create a sense of engagement with the viewer? | Her gaze is directed straight at the camera, creating a sense of direct engagement with the viewer. |
+| How | How does the white background emphasize the woman and her outfit? | The white background creates a clean and minimalistic look, drawing attention to the woman and her attire rather than her body or the surrounding environment. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the woman wearing a black shirt? | Yes. |
+| Yes/No | Does the woman have a confident and relaxed pose? | Yes. |
+| Yes/No | Is the mirror placed on a wooden dresser? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman's outfit casual? | Yes. |
+| What | What color is the woman's shirt? | Black. |
+| What | What is the style of the woman's jumpsuit? | Shortsleeved, highwaisted, and casual yet stylish. |
+| How | How does the woman's pose suggest self-assuredness? | Her hands are resting on her hips, exuding a sense of confidence and selfassurance. |
+| How | How does the background add depth to the image? | The mirror and dresser in the background create a sense of space and dimension. |

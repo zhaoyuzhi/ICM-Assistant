@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are they standing in a pool of water? | Yes. |
+| Yes/No | Is the person's attire soaked? | Yes. |
+| Yes/No | Are they holding a white towel? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image have a sexy feel? | Yes. |
+| What | What is the person wearing on their bottom half? | Black shorts. |
+| What | What is the person holding in their hand? | A white towel. |
+| How | How is the person's exposure level in the image? | Relatively high. |
+| How | How does the image capture a moment of relaxation and enjoyment? | It shows the person standing in the water, enjoying their time, with a casual and relaxed atmosphere. |

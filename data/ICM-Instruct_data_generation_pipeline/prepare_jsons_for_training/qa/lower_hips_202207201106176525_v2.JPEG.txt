@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray leggings? | Yes. |
+| Yes/No | Is the person in the image holding a barbell? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Is the person's buttocks prominently displayed in the image? | Yes. |
+| Yes/No | Is the gym setting depicted in the image? | Yes. |
+| Yes/No | Does the image capture a moment of physical exertion? | Yes. |
+| What | What is the person in the image holding? | A barbell. |
+| What | What is the color of the person's sports bra? | Black. |
+| How | How is the person standing on the weight bench? | With their legs bent. |
+| How | How is the person holding the barbell? | With both hands. |

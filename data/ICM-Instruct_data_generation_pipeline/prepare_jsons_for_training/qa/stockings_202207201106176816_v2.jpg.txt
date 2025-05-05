@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the dress white? | Yes. |
+| Yes/No | Do the stockings extend up to the person's knees? | Yes. |
+| Yes/No | Is the chair brown? | Yes. |
+| Yes/No | Does the image have a curved backrest? | Yes. |
+| What | What is the pattern on the dress? | Floral. |
+| What | What color are the stockings? | Black. |
+| How | How are the person's hands positioned? | On their knees. |
+| How | How would you describe the overall atmosphere of the image? | Intimate and suggestive. |

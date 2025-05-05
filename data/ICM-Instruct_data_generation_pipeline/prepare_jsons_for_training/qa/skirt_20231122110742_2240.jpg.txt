@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Is the woman wearing a beige dress? | Yes. |
+| Yes/No | Does the dress have a high slit on the left side? | Yes. |
+| Yes/No | Is the woman lifting the dress with her right hand? | Yes. |
+| Yes/No | Is the woman revealing her left leg? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive and alluring? | Yes. |
+| What | What is the woman lifting the dress with? | Her right hand. |
+| What | What is the color of the couch and wall in the background? | White. |
+| How | How is the woman's dress flowing down? | Down to her knees. |
+| How | How is the woman's left leg revealed? | Through the high slit on the left side of the dress. |

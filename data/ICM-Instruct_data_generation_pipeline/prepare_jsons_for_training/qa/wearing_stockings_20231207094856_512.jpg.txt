@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the person putting on white stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with sensuality and allure? | Yes. |
+| Yes/No | Does the image capture a private moment? | Yes. |
+| What | What is the person in the image wearing? | White shirt, black pants, white stockings. |
+| What | What is the person in the image doing? | Putting on white stockings. |
+| How | How are the person's movements while putting on stockings? | Focused and precise. |
+| How | How does the image make you feel? | Intrigued, desirable. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the person putting on white stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with sensuality and allure? | Yes. |
+| Yes/No | Does the image capture a private moment? | Yes. |
+| What | What is the person in the image wearing? | A white shirt and black pants. |
+| What | What is the person doing in the image? | Putting on white stockings. |
+| How | How does the person's movement look while putting on stockings? | Focused and precise. |
+| How | How does the image make you feel? | Intrigued and desirable. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a microphone? | Yes. |
+| Yes/No | Is the woman dressed in a professional manner? | Yes. |
+| Yes/No | Is the image set in a public environment? | Yes. |
+| Yes/No | Does the image suggest the woman is conducting an interview or recording a news segment? | Yes. |
+| Yes/No | Is the focus of the image on the woman's physical appearance? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the woman holding in the image? | A microphone. |
+| What | What is the woman's attire in the image? | A pink blazer and a white blouse. |
+| How | How is the woman's attire in the image? | Professional. |
+| How | How is the overall atmosphere of the image? | Not sexy, professional. |

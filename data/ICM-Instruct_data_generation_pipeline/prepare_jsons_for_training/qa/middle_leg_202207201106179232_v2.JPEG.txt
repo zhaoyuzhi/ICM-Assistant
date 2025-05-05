@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Does the skirt have a frayed hem? | Yes. |
+| Yes/No | Are there two pockets on the front of the skirt? | Yes. |
+| Yes/No | Is the woman wearing a top? | Yes. |
+| Yes/No | Is the top yellow and black plaid? | Yes. |
+| Yes/No | Does the image capture the woman from the waist down? | Yes. |
+| What | What is the primary color of the woman's skirt? | Black. |
+| What | What is the pattern on the woman's top? | Yellow and black plaid. |
+| How | How does the frayed hem of the skirt contribute to the overall look of the image? | It adds a sense of allure and confidence to the woman's appearance. |

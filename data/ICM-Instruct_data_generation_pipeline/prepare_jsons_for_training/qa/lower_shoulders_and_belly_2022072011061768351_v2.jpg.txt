@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image feature a white background? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the leggings in the image? | Blue. |
+| What | What is the color of the background in the image? | White. |
+| How | How do the leggings fit the person's body? | Formfitting. |
+| How | How does the image convey confidence and self-assurance? | Through the person's pose, the formfitting leggings, and the exposed belly. |

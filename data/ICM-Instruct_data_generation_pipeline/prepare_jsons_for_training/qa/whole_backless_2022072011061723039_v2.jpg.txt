@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the dress made of a shiny material? | Yes. |
+| Yes/No | Is the person standing in front of a mirror? | Yes. |
+| Yes/No | Are the person's arms crossed over their chest? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What color is the dress? | Red. |
+| What | What is the material of the dress? | Possibly satin or silk. |
+| How | How is the person standing in front of the mirror? | With their arms crossed over their chest. |
+| How | How does the shiny material of the dress add to the overall atmosphere of the image? | It adds a touch of glamour and luxury. |

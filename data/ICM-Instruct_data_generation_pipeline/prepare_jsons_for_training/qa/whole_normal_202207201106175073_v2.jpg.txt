@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pink sweater with a green border? | Yes. |
+| Yes/No | Is the sweater adorned with hearts? | Yes. |
+| Yes/No | Is the woman wearing a pair of jeans? | Yes. |
+| Yes/No | Is the background plain? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| What | What color is the woman's sweater? | Pink. |
+| What | What is the woman's hair style? | Loose waves. |
+| How | How is the woman's pose in the image? | Modest and appropriate for a casual setting. |
+| How | How does the plain background affect the focus of the image? | It puts the focus entirely on the woman and her outfit, emphasizing her stylish portrait in a casual setting. |

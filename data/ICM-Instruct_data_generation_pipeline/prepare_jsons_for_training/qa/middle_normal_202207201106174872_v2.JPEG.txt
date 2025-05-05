@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the person wearing a logo or text on their clothing? | No. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| Yes/No | Is the person's body language neutral? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What is the person wearing on their bottom half? | Blue jeans. |
+| What | What is the color of the person's t-shirt? | Gray. |
+| How | How is the person's pose in the image? | Neutral, with hands resting at their sides. |
+| How | How would you describe the overall atmosphere of the image? | Casual and everyday. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a pair of blue jeans? | Yes. |
+| How | Does the image show a small portion of the person's body? | Yes. |
+| Yes/No | Is the image sexy or provocative? | No. |
+| Yes/No | Does the person have a belt loop on their jeans? | Yes. |
+| Yes/No | Is the person wearing a gray shirt? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the focus of the image? | The person's clothing, specifically the blue jeans and gray shirt. |
+| How | How much of the person's body is visible in the image? | A small portion, specifically their back and the lower half of their torso. |
+| How | How would you describe the overall atmosphere of the image? | Casual and neutral. |

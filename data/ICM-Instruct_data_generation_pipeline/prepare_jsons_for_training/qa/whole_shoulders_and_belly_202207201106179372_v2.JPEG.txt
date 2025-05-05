@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a gray crop top? | Yes. |
+| Yes/No | Does the crop top have a cold shoulder design? | Yes. |
+| Yes/No | Are the jeans blue? | Yes. |
+| Yes/No | Do the jeans have a frayed hem? | Yes. |
+| Yes/No | Is the woman's hand on her hip? | Yes. |
+| What | What color is the crop top? | Gray. |
+| What | What is the design of the crop top? | Cold shoulder. |
+| How | How is the crop top tied at the front? | It is tied in a stylish knot. |
+| How | How does the woman's pose contribute to the image's atmosphere? | It adds a confident and sexy vibe to the image. |

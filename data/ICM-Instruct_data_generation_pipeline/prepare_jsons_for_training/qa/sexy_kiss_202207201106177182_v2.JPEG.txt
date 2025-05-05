@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a gray shirt? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's neck? | Yes. |
+| Yes/No | Is the woman leaning into the man's kiss? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | A gray shirt. |
+| What | What is the woman wearing? | A white shirt. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the man's arms wrapped around the woman's neck. |
+| How | How does the woman's leaning into the man's kiss indicate their feelings? | It indicates a passionate and intimate moment between the two individuals, emphasizing their closeness and affection. |

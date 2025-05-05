@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the woman pouting as if she is about to kiss someone? | Yes. |
+| Yes/No | Is the image set in a kitchen? | Yes. |
+| Yes/No | Does the woman have a seductive and alluring appearance? | Yes. |
+| Yes/No | Does the image evoke a sense of desire and passion? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What is the woman's facial expression in the image? | Pouting/seductive. |
+| What | What is the main color of the woman's lipstick? | Red. |
+| How | How does the kitchen setting contribute to the image's atmosphere? | Intimacy/familiarity. |
+| How | How does the woman's pouting expression and red lipstick contribute to the image's overall effect? | Seduction/allure. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Does the woman have her hands on the straps of the bra? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the contrast between the bra and the woman's skin tone make her appear more attractive? | Yes. |
+| Yes/No | Do the woman's hands on the straps of the bra suggest confidence and allure? | Yes. |
+| What | What is the woman doing in the image? | Adjusting the straps of her bra. |
+| What | What is the overall atmosphere of the image? | Intimate and seductive. |
+| How | How does the contrast between the bra and the woman's skin tone make her appear more attractive? | The contrast creates a visually appealing combination of light and dark, drawing attention to the woman's figure. |
+| How | How do the woman's hands on the straps of the bra suggest confidence and allure? | The woman's hands on the straps convey a sense of selfassurance and poise, suggesting that she is comfortable and confident in her own skin. Additionally, the way she is adjusting the straps implies a sense of flirtatiousness and playfulness, adding to the allure of the image. |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's skin tone contrasting with the beige color of the bra? | Yes. |
+| Yes/No | Are the woman's hands on the straps of the bra? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| What | What is the color of the bra the woman is wearing? | Beige. |
+| What | What is the woman doing with her hands in the image? | Adjusting the straps of the bra. |
+| How | How does the beige color of the bra contrast with the woman's skin tone? | It makes her appear more attractive. |
+| How | How does the image suggest a sense of confidence and allure? | Through the woman's hands on the straps of the bra and the intimate and seductive atmosphere. |

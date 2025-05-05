@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing red lipstick? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the kiss passionate? | Yes. |
+| Yes/No | Are the man and woman in close proximity? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the man and woman? | Yes. |
+| What | What color is the woman's lipstick? | Red. |
+| What | What is the man wearing? | A black shirt. |
+| How | How are the man and woman kissing? | They are making out in a passionate manner. |
+| What | What does the red lipstick add to the scene? | It adds a touch of color and allure, enhancing the overall sensuality of the image. |

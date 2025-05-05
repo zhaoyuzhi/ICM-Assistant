@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing sweatpants? | Yes. |
+| Yes/No | Does the woman in the image have her belly exposed? | Yes. |
+| Yes/No | Is the woman in the image wearing sneakers? | Yes. |
+| Yes/No | Does the image suggest a focus on fitness and health? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| What | What is the brand of the exercise ball in the image? | Reebok. |
+| What | What is the color of the Nike sneakers in the image? | Red and black. |
+| How | How is the woman posing in the image? | With her hands on her hips and her head tilted to the side. |
+| How | How does the image create an atmosphere? | It creates an atmosphere of strength, determination, and confidence. |

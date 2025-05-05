@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white tank top? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the person holding their arm up to their head? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the person wearing red light makeup on their face? | Yes. |
+| What | What is the person in the image wearing on their bottom half? | Black pants. |
+| What | What color is the light makeup on the person's face? | Red. |
+| How | How is the person standing in the image? | Confident and selfassured. |
+| How | How does the image make the viewer feel? | Allured and captivated. |

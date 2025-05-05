@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing white shorts and a white top? | Yes. |
+| Yes/No | Is the woman's body facing the camera? | Yes. |
+| Yes/No | Is the woman looking to the side? | Yes. |
+| Yes/No | Are the woman's legs apart? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image have a sensual and alluring atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | White shorts and a white top. |
+| What | What is the woman's pose in the image? | She is standing with her legs apart. |
+| How | How is the woman looking in the image? | She is looking to the side. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the woman's body and highlights her white shorts and top. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing underwear? | Yes. |
+| Yes/No | Is the underwear blue? | Yes. |
+| Yes/No | Does the underwear feature a floral pattern? | Yes. |
+| Yes/No | Is the person lying on a black surface? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the underwear? | Blue. |
+| What | What is the pattern on the underwear? | Floral. |
+| How | How is the person lying on the black surface? | The person is lying down. |
+| How | How does the blurred background affect the image? | It creates a sense of depth and mystery, focusing the viewer's attention on the person and their underwear. |

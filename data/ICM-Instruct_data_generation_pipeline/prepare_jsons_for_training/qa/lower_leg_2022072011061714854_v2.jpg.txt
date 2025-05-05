@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a denim skirt? | Yes. |
+| Yes/No | Are the shoes in the image white? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Is the atmosphere in the image casual and relaxed? | Yes. |
+| Yes/No | Does the image suggest a sense of self-assuredness and confidence? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the denim skirt? | Blue. |
+| What | What material are the white shoes made of? | Leather. |
+| How | How does the person's pose suggest a sense of self-assuredness and confidence? | The person's legs are apart, suggesting a sense of selfassurance and confidence. |
+| How | How do the white shoes complement the denim skirt? | The white shoes complement the denim skirt by adding a touch of elegance and sophistication to the overall aesthetic. |

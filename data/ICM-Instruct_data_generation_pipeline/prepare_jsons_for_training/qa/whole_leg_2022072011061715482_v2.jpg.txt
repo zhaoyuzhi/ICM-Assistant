@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are any of the women wearing black? | Yes. |
+| Yes/No | Is there a white wall in the background? | Yes. |
+| Yes/No | Are any of the women wearing a leather outfit? | Yes. |
+| Yes/No | Is there a woman wearing a black dress with a plunging neckline? | Yes. |
+| Yes/No | Are any of the women wearing a white blouse? | Yes. |
+| What | What is the color of the woman's outfit on the far left? | Black. |
+| What | What is the color of the woman's outfit on the far right? | Black and white. |
+| How | How many different colors are present in the image? | 5 (black, white, red, blue, and purple). |

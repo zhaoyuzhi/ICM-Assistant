@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman posing with her hand on her hip? | Yes. |
+| Yes/No | Are there flowers in the background of the image? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the image feature a contrast between the white top and denim skirt? | Yes. |
+| Yes/No | Does the woman's pose accentuate her curves? | Yes. |
+| What | What color are the flowers in the background of the image? | Pink. |
+| What | What is the color of the woman's top? | White. |
+| How | How many straps does the woman's top have? | 0 (it's strapless). |
+| How | How does the woman's pose convey confidence and allure? | Her hand is on her hip and she's smiling. |

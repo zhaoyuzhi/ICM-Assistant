@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a black purse? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the background of the image a gray wall? | Yes. |
+| Yes/No | Does the woman's outfit suggest a sense of confidence and style? | Yes. |
+| Yes/No | Does the image convey a sense of elegance and allure? | Yes. |
+| What | What is the woman in the image wearing on her feet? | The image doesn't provide enough information to answer this question. |
+| What | What is the woman in the image looking at? | The image doesn't provide enough information to answer this question. |
+| How | How is the woman in the image standing? | The woman is standing with her feet shoulderwidth apart and her weight evenly distributed on both feet. |
+| How | How does the black skirt and white top create a contrast in the image? | The black skirt and white top create a contrast by creating a visual difference between the woman's upper and lower body, drawing attention to her waistline and emphasizing her curves. |

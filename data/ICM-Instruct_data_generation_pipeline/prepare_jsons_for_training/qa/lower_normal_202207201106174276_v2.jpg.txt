@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a hiking shoe? | Yes. |
+| Yes/No | Is the person in the image standing on a rock? | Yes. |
+| Yes/No | Is the person in the image visible in their entirety? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person in the image on a hiking trip? | Yes. |
+| Yes/No | Does the image have a calm and serene atmosphere? | Yes. |
+| What | What is the person in the image wearing on their feet? | A maroon and black hiking shoe. |
+| What | What is the person in the image standing on? | A rock. |
+| How | How is the person's body positioned in the image? | The person's body is not visible in the image. |
+| How | How does the image convey a sense of adventure and exploration? | Through the person's outdoor activity and the surrounding environment. |

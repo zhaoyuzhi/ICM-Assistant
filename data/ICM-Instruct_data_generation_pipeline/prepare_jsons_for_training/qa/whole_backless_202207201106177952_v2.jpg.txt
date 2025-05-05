@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a high slit on the back? | Yes. |
+| Yes/No | Is the person holding a bouquet of flowers? | Yes. |
+| Yes/No | Are the flowers in the bouquet roses? | No. |
+| Yes/No | Is the path the person is walking on paved? | No. |
+| Yes/No | Are there trees in the surrounding garden? | Yes. |
+| What | What color is the dress? | White. |
+| What | What is the person holding in their hand? | A bouquet of flowers. |
+| How | How is the overall atmosphere of the image? | Romantic and elegant. |
+| How | How does the image evoke feelings? | Allure and sophistication. |

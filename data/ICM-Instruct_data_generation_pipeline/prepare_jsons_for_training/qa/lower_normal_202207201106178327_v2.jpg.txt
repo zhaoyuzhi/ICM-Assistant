@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white dress? | Yes. |
+| Yes/No | Is the dress floral? | Yes. |
+| Yes/No | Are the woman's black heels visible in the image? | Yes. |
+| Yes/No | Is the woman positioned in front of a white wall? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and composed? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the woman wearing on her feet? | Black heels. |
+| What | What is the dominant color of the woman's dress? | Black and white. |
+| How | How is the woman positioned in the image? | She is standing in front of a white wall, facing the camera. |
+| How | How would you describe the atmosphere of the image? | Calm and composed. |

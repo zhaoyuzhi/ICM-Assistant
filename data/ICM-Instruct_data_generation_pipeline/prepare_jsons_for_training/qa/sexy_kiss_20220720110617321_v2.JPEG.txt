@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Is the man wearing a black suit? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the woman positioned on the left side of the image? | Yes. |
+| Yes/No | Is the man positioned on the right side of the image? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the man and woman? | Yes. |
+| What | What is the woman wearing? | A white dress. |
+| What | What is the man wearing? | A black suit. |
+| How | How are the man and woman positioned in the image? | The woman is positioned on the left side, while the man is positioned on the right side. |
+| How | How does the image capture the moment of affection and intimacy between the man and woman? | The image captures the moment of affection and intimacy through the close proximity and kissing between the man and woman, with a neutral background that emphasizes the subjects and their actions. |

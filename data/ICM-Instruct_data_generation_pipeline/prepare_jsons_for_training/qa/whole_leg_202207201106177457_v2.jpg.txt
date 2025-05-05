@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white sweater? | Yes. |
+| Yes/No | Is the woman wearing a blue skirt? | Yes. |
+| Yes/No | Does the woman have her hands placed on her hips? | Yes. |
+| Yes/No | Is the woman's pose confident? | Yes. |
+| Yes/No | Does the image convey a sense of self-assuredness? | Yes. |
+| What | What color is the woman's sweater? | White. |
+| What | What color is the woman's skirt? | Blue. |
+| How | How does the woman's pose suggest self-assurance? | The woman's hands are placed on her hips, which conveys confidence and selfassurance. |
+| How | How does the image create a sense of contrast? | The image creates a sense of contrast by combining a white sweater with a blue skirt, which draws attention to the woman's body. |

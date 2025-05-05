@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image wearing a gray skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a black purse? | Yes. |
+| Yes/No | Does the woman in the image have her hair falling over her shoulder? | Yes. |
+| Yes/No | Is the woman in the image looking downwards and to the left? | Yes. |
+| Yes/No | Does the image feature a close-up of the woman's chest? | Yes. |
+| What | What color is the woman's top in the image? | Black. |
+| What | What is the woman's pose in the image? | Looking downwards and to the left. |
+| How | How does the woman's pose in the image contribute to the overall atmosphere? | It adds a sense of mystery and intrigue. |
+| How | How does the close-up of the woman's chest emphasize her breast? | It emphasizes the curve of her breast, which is often associated with a seductive and alluring appearance. |

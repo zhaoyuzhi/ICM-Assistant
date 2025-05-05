@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image holding a barbell? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Are the man's arms flexed in the image? | Yes. |
+| Yes/No | Is the man's physique well-defined? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image holding? | A barbell. |
+| What | What is the man in the image wearing on his head? | A camouflage cap. |
+| How | How is the man's physique in the image? | Welldefined. |
+| How | How is the background of the image? | Dark. |

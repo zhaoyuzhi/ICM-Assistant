@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Is the woman carrying a purse in her left hand? | Yes. |
+| Yes/No | Is the woman carrying a phone in her right hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the building in the background? | Yes. |
+| What | What is the woman carrying in her left hand? | A purse. |
+| What | What is the woman carrying in her right hand? | A phone. |
+| How | How is the woman walking? | She is walking on a sidewalk. |
+| How | How does the woman's posture and demeanor contribute to the overall atmosphere of the image? | Her posture and demeanor contribute to a sense of confidence and allure. |

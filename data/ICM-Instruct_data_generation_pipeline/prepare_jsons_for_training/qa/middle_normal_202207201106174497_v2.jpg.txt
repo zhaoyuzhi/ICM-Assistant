@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Does the person in the image have their hands on their hips? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the design of the shorts in the image? | The shorts have a pocket on the back and a small logo on the right side. |
+| What | What is the person's pose in the image? | The person is standing with their hands placed on their hips. |
+| How | How is the exposure level of the image? | The exposure level of the image is very low. |
+| How | How does the low exposure level contribute to the image's atmosphere? | The low exposure level contributes to the nonsexual nature of the image by only showing a small portion of the person's body in the frame. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants cropped at the ankle? | Yes. |
+| Yes/No | Is the shirt short-sleeved? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the overall atmosphere of the image simple and uncluttered? | Yes. |
+| What | What color are the person's pants and shirt? | White. |
+| What | What is the person's attire appropriate for? | A casual setting. |
+| How | How are the person's arms positioned? | Relaxed at their sides. |
+| How | How does the white color of the clothing and background contribute to the image's aesthetic? | It creates a clean and minimalistic aesthetic. |

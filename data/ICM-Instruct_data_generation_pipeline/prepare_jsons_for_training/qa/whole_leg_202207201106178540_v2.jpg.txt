@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink jacket? | Yes. |
+| Yes/No | Is the woman in the image holding a white bag? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image pulling her hair back into a ponytail? | Yes. |
+| Yes/No | Are the stairs the woman is walking down made of concrete? | Yes. |
+| What | What color is the woman's jacket? | Pink. |
+| What | What is the woman holding in her left hand? | A white bag. |
+| How | How is the woman's hair styled? | Pulled back into a ponytail. |
+| How | How does the woman's outfit and the way she is walking down the stairs suggest a sense of confidence and allure? | The woman's outfit is revealing but not too revealing, and her confident stride and urban setting create a sexy atmosphere. |

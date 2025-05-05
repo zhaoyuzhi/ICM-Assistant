@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue blazer? | Yes. |
+| Yes/No | Is the man's shirt black? | Yes. |
+| Yes/No | Are the man's hands in his pockets? | Yes. |
+| Yes/No | Is the man looking down? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the image sexy? | No. |
+| What | What color is the man's blazer? | Blue. |
+| What | What is the man's posture in the image? | Relaxed and casual. |
+| How | How are the man's hands positioned in the image? | In his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonsexual. |

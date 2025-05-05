@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are there three photos in the collage? | Yes. |
+| Yes/No | Is the woman's back to the camera in the first photo? | Yes. |
+| Yes/No | Are there any weights or exercise equipment visible in the image? | No. |
+| Yes/No | Is the woman sitting on a weight bench in the second photo? | Yes. |
+| Yes/No | Does the image suggest a focus on fitness and athleticism? | Yes. |
+| What | What is the woman wearing in the image? | A black sports bra and gray leggings. |
+| What | What is the woman doing in the second photo? | Sitting on a weight bench with her hands on her knees. |
+| How | How is the woman standing in the third photo? | With her back to the camera and her hands on her hips. |

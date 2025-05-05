@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Does the person have their left leg bent and right leg extended? | Yes. |
+| Yes/No | Is the background of the image a gray concrete wall? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the gray leggings form-fitting? | Yes. |
+| What | What color are the leggings? | Gray. |
+| What | What is the color of the sports bra? | Black. |
+| How | How is the person's pose in the image? | Dynamic and sexy. |
+| How | How does the background of the image complement the person's figure? | The neutral backdrop highlights the person's figure. |

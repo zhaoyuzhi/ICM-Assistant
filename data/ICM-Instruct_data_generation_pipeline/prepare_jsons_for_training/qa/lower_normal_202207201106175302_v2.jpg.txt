@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray sweatshirt? | Yes. |
+| Yes/No | Are they wearing black sweatpants? | Yes. |
+| Yes/No | Do they have white sneakers on? | Yes. |
+| Yes/No | Is the person's exposure level low? | Yes. |
+| Yes/No | Does the image contain explicit nudity or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image neutral and non-sexual? | Yes. |
+| What | What color is the person's sweatshirt? | Gray. |
+| What | What kind of shoes are they wearing? | White sneakers. |
+| How | How is the person dressed overall? | Casually. |
+| What | What is the focus of the image? | The person's casual attire and the road they are standing on. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink blouse? | Yes. |
+| Yes/No | Does the woman have her hand on her head? | Yes. |
+| Yes/No | Are the woman's jeans black? | Yes. |
+| Yes/No | Is the woman's blouse strapless? | Yes. |
+| Yes/No | Does the image depict the woman's midriff? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's blouse? | Pink. |
+| What | What is the woman's pose in the image? | She has her hand on her head. |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | The revealing nature of her outfit, including the strapless blouse and midriffbaring jeans, suggests confidence and allure, contributing to a sexy and alluring atmosphere. |
+| How | How does the woman's pose add to the overall atmosphere of the image? | The woman's pose, with her hand on her head, adds to the overall atmosphere of the image, making it appear more seductive. |

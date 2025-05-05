@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the man posing for the camera? | Yes. |
+| Yes/No | Are the shorts the man is wearing blue and white? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image wearing? | Blue and white shorts. |
+| What | What is the man's pose in the image? | Standing with his hands on his hips. |
+| How | How does the contrasting colors of the shorts contribute to the image's appeal? | The contrast creates a visually appealing composition. |
+| How | How does the man's pose contribute to the image's sexy appeal? | The pose emphasizes the man's body and creates a confident, alluring atmosphere. |

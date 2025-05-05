@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image the central figure? | Yes. |
+| Yes/No | Is the background of the image a gray wall? | Yes. |
+| Yes/No | Is the woman wearing a blue t-shirt? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Are the woman's hands positioned in a relaxed and confident manner? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's attire in the image? | Blue tshirt and black skirt. |
+| What | What is the woman's pose in the image? | Standing with left hand on hip and right hand resting on thigh. |
+| How | How does the woman's attire contribute to the overall allure of the image? | The blue tshirt and black skirt reveal her thighs, a common feature in sexy images. |
+| How | How does the woman's pose contribute to the overall allure of the image? | Her pose, with her left hand on her hip and her right hand resting on her thigh, adds to the overall allure of the image. |

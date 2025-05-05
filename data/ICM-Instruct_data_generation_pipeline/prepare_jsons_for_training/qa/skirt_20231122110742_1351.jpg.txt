@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress modest in style? | Yes. |
+| Yes/No | Is the woman lifting the dress above her knees? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the woman doing with her dress? | Lifting it above her knees. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | It suggests confidence and allure. |
+| How | How does the act of lifting the dress above her knees contribute to the overall atmosphere of the image? | It creates a sense of intimacy. |

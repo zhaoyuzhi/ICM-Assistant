@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a beige blazer? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Does the woman have a short bob haircut? | Yes. |
+| Yes/No | Is the woman wearing earrings? | Yes. |
+| Yes/No | Are the books on the bookshelf behind the woman? | Yes. |
+| What | What color is the woman's blazer? | Beige. |
+| What | What is the woman's hairstyle? | Short bob. |
+| How | How is the woman standing in front of the bookshelf? | Not specified in the description. |
+| How | How many books are on the bookshelf? | Not specified in the description. |

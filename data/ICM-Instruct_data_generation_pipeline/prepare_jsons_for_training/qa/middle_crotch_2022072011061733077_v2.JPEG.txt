@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing underwear? | Yes. |
+| Yes/No | Is the person's crotch the central focus of the image? | Yes. |
+| Yes/No | Is the background in the image blurred? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| Yes/No | Is the person in the image posing in a suggestive way? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What is the person in the image wearing? | Underwear. |
+| What | What is the background in the image? | Blurred and indistinguishable. |
+| How | How is the person's crotch being highlighted in the image? | The closeup perspective and the blurred background draw attention to the person's crotch, making it the central focus of the image. |
+| How | How does the image create a sexy atmosphere? | The closeup perspective, blurred background, and the person's underwear all contribute to creating a sexy atmosphere in the image. |

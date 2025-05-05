@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman wearing a red shirt? | Yes. |
+| Yes/No | Is the woman wearing a black necklace? | Yes. |
+| Yes/No | Is the woman making a pouting or kissing face? | Yes. |
+| Yes/No | Are the woman's facial features accentuated by the lighting in the image? | Yes. |
+| Yes/No | Does the image have a playful and seductive atmosphere? | Yes. |
+| What | What is the woman's expression in the image? | Pouting or kissing face. |
+| What | What color is the woman's shirt? | Red. |
+| How | How does the lighting in the image accentuate the woman's facial features? | The lighting highlights the woman's nose, lips, and eyes, creating a flattering and attractive effect. |
+| How | How does the woman's expression and attire contribute to the overall atmosphere of the image? | The woman's pouting expression and seductive attire, consisting of a red shirt and black necklace, contribute to a playful and seductive atmosphere, suggesting confidence and allure. |

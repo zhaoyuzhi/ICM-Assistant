@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Is the woman wearing a belt in the image? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves in the image? | Yes. |
+| Yes/No | Is the background of the image plain gray? | Yes. |
+| What | What is the woman posing with in the image? | Her hand on her hip. |
+| What | What is the color of the woman's jeans in the image? | Blue. |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| How | How does the woman's pose in the image contribute to the overall sexy atmosphere? | It adds to her allure and confidence. |

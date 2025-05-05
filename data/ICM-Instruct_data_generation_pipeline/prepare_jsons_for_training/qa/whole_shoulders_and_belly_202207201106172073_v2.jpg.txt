@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman looking down in the image? | Yes. |
+| Yes/No | Does the woman have long hair in the image? | Yes. |
+| Yes/No | Is the outfit blue and white? | Yes. |
+| Yes/No | Is the rock located near a body of water? | Yes. |
+| Yes/No | Does the image have a serene atmosphere? | Yes. |
+| What | What color is the woman's outfit? | Blue and white. |
+| What | What is the woman wearing around her neck? | A pearl necklace. |
+| How | How does the woman's long hair contribute to the image's atmosphere? | It adds to her elegance. |
+| How | How does the image's setting by the water enhance the atmosphere? | It adds a sense of tranquility and seclusion, which enhances the sexy atmosphere. |

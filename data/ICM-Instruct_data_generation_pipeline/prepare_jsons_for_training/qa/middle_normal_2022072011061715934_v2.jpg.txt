@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of khaki pants? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the man's posture relaxed and nonchalant? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image evoke a sense of sexuality? | No. |
+| What | What is the man's attire in the image? | Khaki pants and a white shirt. |
+| What | What is the overall atmosphere of the image? | Casual and nonthreatening. |
+| How | How is the man standing in the image? | With his hands in his pockets. |
+| How | How would you describe the man's posture in the image? | Relaxed and nonchalant. |
+| Yes/No | Is the man in the image wearing a beige jacket? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the man looking downwards? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image feature a wide range of audiences? | Yes. |
+| What | What is the man wearing around his waist? | A brown belt. |
+| What | What is the dominant color of the man's outfit? | Beige. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How does the image's focus differ from a sexy image? | The focus is on the man's attire and posture rather than his physical appearance. |

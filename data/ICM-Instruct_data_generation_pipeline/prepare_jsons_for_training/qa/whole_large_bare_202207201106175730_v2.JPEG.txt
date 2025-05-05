@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini green and white in color? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She has her left hand on her hip and her right hand on her thigh. |
+| What | What is the color of the bikini? | Green and white. |
+| How | How is the woman's smile in the image? | She is smiling and looking directly at the camera. |
+| How | How does the beach setting enhance the image? | The beach setting adds to the sexy atmosphere and creates a sense of relaxation and leisure activities. |

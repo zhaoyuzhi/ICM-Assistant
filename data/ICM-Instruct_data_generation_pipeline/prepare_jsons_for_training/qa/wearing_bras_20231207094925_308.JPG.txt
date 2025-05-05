@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light green? | Yes. |
+| Yes/No | Are the woman's pants white? | Yes. |
+| Yes/No | Is the woman pulling up her bra? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| How | Does the image showcase the woman's body in a revealing manner? | Yes. |
+| What | What color are the woman's pants? | White. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| How | How does the light green color of the bra contrast with the woman's pants? | The light green color of the bra contrasts sharply with the woman's white pants, drawing attention to her chest and the bra. |
+| How | How does the woman's expression and the way she is pulling up the bra suggest self-care and self-expression? | The woman's focused expression and the way she is pulling up the bra suggest that she is in a moment of selfcare and selfexpression, which can be perceived as sexy. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| Yes/No | Is the bra being pulled up by the woman's hands? | Yes. |
+| Yes/No | Is the woman wearing white pants? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have a focused expression? | Yes. |
+| What | What color is the bra? | Light green. |
+| What | What is the woman doing in the image? | Putting on her bra. |
+| How | How is the bra being pulled up? | By the woman's hands. |
+| How | How does the image showcase the woman's body? | In a revealing manner. |

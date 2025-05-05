@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the material of the shorts stretchy? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image contain any inappropriate or offensive elements? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color are the shorts? | Navy blue. |
+| What | What is the man's pose in the image? | Standing with hands in pockets. |
+| How | How is the material of the shorts described? | Soft. |
+| How | How would you describe the overall atmosphere of the image? | Relaxed and informal. |
+| Yes/No | Is the man in the image wearing sweatpants? | Yes. |
+| Yes/No | Are the sweatpants navy blue? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the material of the sweatpants soft and stretchy? | Yes. |
+| Yes/No | Is the atmosphere of the image neutral and non-sexual? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color are the sweatpants? | Navy blue. |
+| What | What is the man's pose in the image? | Standing with his hands in his pockets. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and nonsexual. |

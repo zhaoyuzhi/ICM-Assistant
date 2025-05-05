@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wet? | Yes. |
+| Yes/No | Is the woman's hair wet? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the woman's expression serious? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the image intense and dramatic? | Yes. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What is the atmosphere of the image? | Intense and dramatic. |
+| How | How is the woman's wetness depicted in the image? | Her clothes are soaked and her hair is wet. |
+| How | How does the image evoke feelings of desire and intrigue? | The woman's wet and soaked clothes, her serious expression, and the intense and dramatic atmosphere of the image can evoke feelings of desire and intrigue in some viewers. |

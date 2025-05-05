@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink t-shirt? | Yes. |
+| Yes/No | Is the t-shirt cropped at the waist? | Yes. |
+| Yes/No | Are the person's thighs visible in the image? | Yes. |
+| Yes/No | Is the person wearing a denim skirt? | Yes. |
+| Yes/No | Is the skirt cropped at the knee? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person's pose in the image? | Neutral, with arms resting at their sides. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the person's midriff exposed in the image? | Through the cropped tshirt. |
+| How | How are the person's thighs exposed in the image? | Through the cropped denim skirt. |

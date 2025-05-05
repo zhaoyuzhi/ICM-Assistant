@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue denim crop top? | Yes. |
+| Yes/No | Are the shorts high-waisted? | Yes. |
+| Yes/No | Does the crop top have a frayed hem? | No. |
+| Yes/No | Is the person facing the camera? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person's back exposed? | Yes. |
+| What | What color are the person's shorts? | Blue. |
+| What | What is the person's pose in the image? | Facing away from the camera. |
+| How | How is the crop top tied at the back? | It is tied in a knot. |
+| How | How does the frayed hem of the shorts add to the person's appearance? | It adds a touch of uniqueness and confidence. |

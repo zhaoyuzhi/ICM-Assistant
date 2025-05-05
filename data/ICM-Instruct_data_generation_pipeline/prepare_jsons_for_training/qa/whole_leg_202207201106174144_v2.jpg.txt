@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress light brown in color? | Yes. |
+| Yes/No | Does the dress have a high slit? | Yes. |
+| Yes/No | Is the woman striking a pose with her left hand on her hip and her right hand on her thigh? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the woman's pose accentuate her thighs? | Yes. |
+| What | What is the color of the dress? | Light brown. |
+| What | What is the woman's pose in the image? | She has her left hand on her hip and her right hand on her thigh. |
+| How | How does the dress contribute to the sexy atmosphere of the image? | The dress has a high slit that reveals the woman's legs and creates a sense of allure. |
+| How | How does the woman's pose contribute to the sexy atmosphere of the image? | The woman's pose accentuates her thighs and gives the image a seductive feel. |

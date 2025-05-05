@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Is the man looking down at his feet? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the image focused on the man's lower body and feet? | Yes. |
+| How | Does the image show any explicit or suggestive body language or clothing? | No. |
+| Yes/No | Is the white wall in the background of the image? | Yes. |
+| What | What is the man wearing on his feet? | White shoes. |
+| What | What is the color of the man's pants? | Beige. |
+| How | How is the man standing in front of the white wall? | Casually. |
+| How | How is the exposure level of the image? | Low. |

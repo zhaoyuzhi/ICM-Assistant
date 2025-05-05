@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image dressed in a suit and tie? | Yes. |
+| Yes/No | Is the man positioned in front of a bookshelf? | Yes. |
+| Yes/No | Does the image suggest a romantic or intimate context? | No. |
+| Yes/No | Is the man engaged in a professional setting? | Yes. |
+| Yes/No | Does the image feature a workplace or office environment? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man doing in the image? | He appears to be working or engaged in a professional setting. |
+| What | What kind of setting does the image portray? | A formal or businessrelated context. |
+| How | How is the man dressed in the image? | He is dressed in a suit and tie. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the man's actions and the environment rather than his physical appearance. |

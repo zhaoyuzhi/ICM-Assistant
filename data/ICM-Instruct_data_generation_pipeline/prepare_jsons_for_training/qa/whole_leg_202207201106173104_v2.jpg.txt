@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink blouse? | Yes. |
+| Yes/No | Are her thighs exposed in the image? | Yes. |
+| Yes/No | Is she wearing white heels? | Yes. |
+| Yes/No | Is the couch adorned with a floral pattern? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's blouse? | Pink. |
+| What | What is the pattern on the couch? | Floral. |
+| How | How is the woman positioned on the couch? | She is sitting in a way that exposes her thighs. |
+| How | How does the woman's attire and pose create an atmosphere of seduction? | Her confident pose and alluring attire, combined with the floral pattern on the couch, create an atmosphere of seduction. |

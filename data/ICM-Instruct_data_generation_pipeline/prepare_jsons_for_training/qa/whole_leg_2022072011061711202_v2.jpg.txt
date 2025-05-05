@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white coat? | Yes. |
+| Yes/No | Is the woman in the image wearing a brown skirt? | Yes. |
+| Yes/No | Are the woman's arms outstretched in the image? | Yes. |
+| Yes/No | Are the woman's legs slightly apart in the image? | Yes. |
+| Yes/No | Is the woman wearing checkered socks in the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color is the woman's coat in the image? | White. |
+| What | What pattern are the woman's socks in the image? | Checkered. |
+| How | How is the woman standing in the image? | With her arms outstretched and legs slightly apart. |
+| What | What does the combination of the woman's outfit and pose suggest? | A sense of confidence and allure. |

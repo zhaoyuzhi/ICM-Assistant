@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Are the person's legs apart in the image? | Yes. |
+| Yes/No | Is the person wearing sandals in the image? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person's pose in the image associated with confidence and self-assurance? | Yes. |
+| What | What color are the person's shorts in the image? | Black. |
+| What | What type of footwear is the person wearing in the image? | Sandals. |
+| How | How are the person's legs positioned in the image? | With their feet slightly apart. |
+| What | What atmosphere does the image create? | An atmosphere of confidence, style, and allure. |

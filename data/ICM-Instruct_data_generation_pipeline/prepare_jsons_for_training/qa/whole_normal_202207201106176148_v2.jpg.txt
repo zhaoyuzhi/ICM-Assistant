@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress adorned with a floral pattern? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image suggest a sense of elegance and grace? | Yes. |
+| Yes/No | Does the floral pattern on the dress add a touch of modesty to her outfit? | Yes. |
+| What | What is the woman holding in her hand? | A purse. |
+| What | What is the background of the image? | A living room with a couch and a lamp. |
+| How | How is the woman standing in the image? | With a sense of elegance and grace. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It focuses on the woman's attire and the atmosphere of the scene rather than her physical appearance. |

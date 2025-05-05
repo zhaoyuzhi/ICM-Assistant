@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young man? | Yes. |
+| Yes/No | Is the young man sitting on a train track? | Yes. |
+| Yes/No | Is the young man wearing a white t-shirt with a black logo? | Yes. |
+| Yes/No | Are the young man's shorts black? | Yes. |
+| Yes/No | Are the young man's sneakers white? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the young man sitting on? | A train track. |
+| What | What is the overall atmosphere of the image? | Calm and peaceful. |
+| How | How is the young man dressed? | He is wearing a white tshirt with a black logo, black shorts, and white sneakers. |
+| How | How would you describe the mood of the image? | Serene and quiet. |

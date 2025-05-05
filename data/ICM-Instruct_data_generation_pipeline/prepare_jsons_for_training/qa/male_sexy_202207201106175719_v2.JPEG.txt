@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing in a swimming pool? | Yes. |
+| Yes/No | Are the man's arms crossed in front of him? | Yes. |
+| Yes/No | Is the man smiling? | Yes. |
+| Yes/No | Are there lane markers visible in the background of the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing on his lower body? | Orange swim trunks. |
+| What | What is the color of the swim trunks the man is wearing? | Orange. |
+| How | How is the man standing in the swimming pool? | Standing. |
+| How | How does the man's pose and expression contribute to the overall atmosphere of the image? | His confident pose and smile enhance the sexy feel of the image. |

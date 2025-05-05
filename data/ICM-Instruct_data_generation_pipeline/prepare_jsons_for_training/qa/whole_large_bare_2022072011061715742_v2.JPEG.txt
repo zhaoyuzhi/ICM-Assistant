@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini pink and green in color? | Yes. |
+| Yes/No | Is the woman's body exposed in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's pose add to the overall allure of the image? | Yes. |
+| Yes/No | Is the beach setting a common location for relaxation and leisure activities? | Yes. |
+| What | What is the woman's attire in the image? | A bikini. |
+| What | What is the color of the bikini? | Pink and green. |
+| How | How is the woman's body exposed in the image? | Her body is exposed because she is wearing a bikini, which is a type of swimwear that exposes the wearer's body. |
+| How | How does the woman's pose contribute to the overall allure of the image? | The woman's pose, with her legs crossed and arms resting on her knees, creates a sense of confidence and selfassuredness, which is often associated with attractiveness. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image swimming? | Yes. |
+| Yes/No | Is the person wearing a black swimsuit? | Yes. |
+| Yes/No | Is the person's lower body exposed? | Yes. |
+| Yes/No | Is the atmosphere of the image lively and energetic? | Yes. |
+| Yes/No | Does the image suggest a sense of fun and enjoyment? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person doing in the image? | Swimming or playing in the water. |
+| What | What color is the swimsuit the person is wearing? | Black. |
+| How | How is the person's lower body exposed? | The person's legs are up in the air. |
+| How | How does the black swimsuit contrast with the bright colors of the swimming pool? | It creates a visual contrast that draws attention to the person's form and movement. |

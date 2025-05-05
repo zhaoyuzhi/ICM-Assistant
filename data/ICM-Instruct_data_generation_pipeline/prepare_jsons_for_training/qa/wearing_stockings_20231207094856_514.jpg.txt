@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the person in the image standing on a white rug? | Yes. |
+| Yes/No | Is the person in the image putting on their stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image depict a private moment? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black stockings and a black skirt. |
+| What | What is the color of the rug in the image? | White. |
+| How | How is the person in the image putting on their stockings? | They are bending their left leg and pulling the stocking up. |
+| How | How does the image create a visually striking contrast? | The black clothing contrasts with the white rug. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the person in the image standing on a white rug? | Yes. |
+| Yes/No | Is the person in the image putting on their stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image depict a private moment? | Yes. |
+| What | What is the person in the image wearing? | Black stockings and a black skirt. |
+| What | What is the color of the rug in the image? | White. |
+| How | How is the person in the image putting on their stockings? | They are bending their left leg and pulling the stocking up. |
+| How | How does the image create a visually striking contrast? | The black clothing against the white rug creates a stark contrast. |

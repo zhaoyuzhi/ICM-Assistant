@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white Nike sneaker? | Yes. |
+| Yes/No | Is the person in the image wearing black sweatpants? | Yes. |
+| Yes/No | Is the person in the image moving towards the right side of the image? | Yes. |
+| Yes/No | Is the room in the image with a low exposure level? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Does the person's attire and movements evoke any sexual connotations? | No. |
+| What | What is the person in the image wearing on their feet? | A white Nike sneaker. |
+| What | What is the color of the person's sweatpants in the image? | Black. |
+| How | How is the person moving in the image? | Towards the right side. |
+| What | What is the atmosphere of the image? | Calm and casual. |

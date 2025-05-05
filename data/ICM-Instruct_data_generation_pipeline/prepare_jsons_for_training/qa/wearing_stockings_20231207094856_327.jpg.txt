@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person tying the top of their stockings in the image? | Yes. |
+| Yes/No | Is the person looking down at their feet in the image? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| What | What is the person in the image wearing? | A black dress and black stockings. |
+| What | What is the person in the image doing? | Tying the top of their stockings. |
+| How | How is the person sitting on the couch? | With their legs crossed. |
+| How | How is the person tying their stockings? | By holding the top of the stockings with their hands. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person tying the top of their stockings in the image? | Yes. |
+| Yes/No | Is the image atmospherically intimate and sensual? | Yes. |
+| Yes/No | Does the black dress contribute to a sexy or alluring appearance? | Yes. |
+| Yes/No | Are black stockings commonly associated with sensuality and intimacy? | Yes. |
+| What | What is the person in the image doing? | The person is tying the top of their stockings. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is intimate and sensual. |
+| How | How is the person's attire contributing to the sexy feel of the image? | The person's black dress and black stockings are contributing to the sexy feel of the image. |
+| How | How does the person's actions of sitting on the couch and tying their stockings create a sense of intimacy and focus on their appearance? | The person's actions create a sense of intimacy and focus on their appearance by drawing attention to their legs and stockings, which are often associated with sensuality and intimacy. |

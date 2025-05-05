@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man looking at the woman? | Yes. |
+| Yes/No | Is the woman looking at a book? | Yes. |
+| Yes/No | Is the slogan "Beautiful girl, do you want us to rent together?" displayed in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the woman interested in the book held by the man? | Yes. |
+| Yes/No | Does the image suggest a sexual context? | Yes. |
+| What | What is the woman looking at? | A book. |
+| What | What is the suggestive slogan displayed in the image? | "Beautiful girl, do you want us to rent together?". |
+| How | How is the man looking at the woman? | The man is looking at the woman with a suggestive expression. |
+| How | How is the woman looking at the book? | The woman is looking at the book with interest and focus. |

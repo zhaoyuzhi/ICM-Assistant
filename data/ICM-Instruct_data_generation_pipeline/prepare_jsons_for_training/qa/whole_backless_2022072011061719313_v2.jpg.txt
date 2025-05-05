@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a halter neckline? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Does the dress have a keyhole cutout in the back? | Yes. |
+| Yes/No | Is the person's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What is the color of the dress? | Red. |
+| What | What is the material of the dress? | Shiny fabric. |
+| How | How is the person posing in the image? | Facing away from the camera, with a ponytail. |
+| How | How does the shiny fabric of the dress contribute to the overall atmosphere of the image? | It adds to the glamour and allure of the image. |

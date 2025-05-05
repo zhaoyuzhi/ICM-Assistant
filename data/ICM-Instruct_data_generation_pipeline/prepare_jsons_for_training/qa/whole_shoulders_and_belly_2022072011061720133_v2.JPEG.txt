@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman holding a purse in her left hand? | Yes. |
+| Yes/No | Is the woman holding a phone in her right hand? | Yes. |
+| Yes/No | Is the woman standing in an airport? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image depict the woman waiting for a flight? | Yes. |
+| What | What is the woman wearing on her upper body? | A strapless top. |
+| What | What is the woman holding in her right hand? | A phone. |
+| How | How is the woman standing in the airport? | She is standing with her feet shoulderwidth apart, looking relaxed and confident. |
+| How | How is the woman holding her purse and phone? | She is holding her purse in her left hand and her phone in her right hand, both at waist level. |

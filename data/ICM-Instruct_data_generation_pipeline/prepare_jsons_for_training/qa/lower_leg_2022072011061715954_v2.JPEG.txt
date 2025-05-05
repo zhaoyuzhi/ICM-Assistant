@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jean shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's legs the main focus of the image? | Yes. |
+| Yes/No | Is the person in the image wearing white sneakers? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person in the image moving in a casual manner? | Yes. |
+| What | What is the person in the image wearing on their legs? | Blue jean shorts. |
+| What | What is the graphic on the person's blue jean shorts? | A woman. |
+| How | How are the person's legs positioned in the image? | They are the main focus of the image, possibly suggesting a leisurely walk. |
+| How | How does the combination of blue jean shorts and white t-shirt create a contrast in the image? | It highlights the person's legs, creating a sexy atmosphere. |

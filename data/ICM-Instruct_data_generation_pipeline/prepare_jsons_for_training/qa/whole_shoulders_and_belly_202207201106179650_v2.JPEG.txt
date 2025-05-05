@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless sports bra? | Yes. |
+| Yes/No | Are the leggings the woman is wearing form-fitting? | Yes. |
+| Yes/No | Does the woman have her hands on her hips in the image? | Yes. |
+| Yes/No | Is the woman's head tilted to the side in the image? | Yes. |
+| Yes/No | Are the colors of the woman's outfit black and pink? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and athleticism? | Yes. |
+| What | What is the woman in the image wearing on her legs? | Leggings. |
+| What | What is the color of the trim on the woman's sports bra? | Pink. |
+| How | How is the woman's head positioned in the image? | Tilted to the side. |
+| How | How do the leggings extend down the woman's legs? | Down to her knees. |

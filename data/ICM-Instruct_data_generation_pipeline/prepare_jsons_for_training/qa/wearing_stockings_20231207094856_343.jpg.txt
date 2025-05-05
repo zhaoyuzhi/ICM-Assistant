@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige thigh-high stocking? | Yes. |
+| Yes/No | Is the stocking made of a soft, stretchy material? | Yes. |
+| Yes/No | Does the stocking have a zipper running down the front? | Yes. |
+| Yes/No | Is the person in the process of putting on the stocking? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image wearing? | A beige thighhigh stocking. |
+| What | What is the background color of the image? | White. |
+| How | How is the stocking being put on? | The person is bending their leg at the knee and pulling the stocking up to their thigh. |
+| What | What does the image convey about the person's personal style and confidence? | The image conveys a sense of personal style and confidence through the person's choice of wearing a thighhigh stocking, which is often associated with sensuality and allure. |
+| Yes/No | Is the person in the image wearing a thigh-high stocking? | Yes. |
+| Yes/No | Is the stocking made of a soft, stretchy material? | Yes. |
+| Yes/No | Does the stocking have a zipper running down the front? | Yes. |
+| Yes/No | Is the person in the process of putting on the stocking? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image wearing? | A beige thighhigh stocking. |
+| What | What is the background color of the image? | White. |
+| How | How is the stocking being put on? | The person is bending their leg at the knee and pulling the stocking up to their thigh. |
+| What | What does the image convey? | The image conveys a sense of allure and sensuality, and it also suggests a moment of selfcare and selfexpression. |

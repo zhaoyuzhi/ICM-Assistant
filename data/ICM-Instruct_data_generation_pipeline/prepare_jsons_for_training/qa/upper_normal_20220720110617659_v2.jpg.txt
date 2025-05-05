@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue floral shirt? | Yes. |
+| Yes/No | Does the shirt have a collar? | Yes. |
+| Yes/No | Are there birds and flowers on the shirt? | Yes. |
+| Yes/No | Is the person wearing a necklace? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the main focus of the image? | The person's clothing and accessories. |
+| What | What is the atmosphere of the image? | Not sexy, focuses on the person's attire rather than their physical appearance. |
+| How | How are the birds and flowers on the shirt depicted? | Pattern. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | Emphasizes the focus on the person's attire rather than their physical appearance. |

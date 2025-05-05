@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt made of a shiny fabric? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the person's posture neutral? | Yes. |
+| Yes/No | Is the exposure level of the person low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the color of the skirt? | Brown. |
+| What | What is the focus of the image? | The person's clothing. |
+| How | How does the fabric of the skirt appear? | It appears slightly shiny. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and nonsexual. |

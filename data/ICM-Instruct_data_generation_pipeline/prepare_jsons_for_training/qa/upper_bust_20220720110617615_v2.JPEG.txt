@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white crop top? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Is the background of the image a plain beige wall? | Yes. |
+| Yes/No | Is the woman's hand placed on her hip? | Yes. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's pose and attire confident and alluring? | Yes. |
+| What | What is the woman wearing in the image? | A white crop top. |
+| What | What is the color of the background in the image? | Beige. |
+| How | How is the woman standing in the image? | She is standing with her hand on her hip. |
+| How | How does the mirror in the background add depth to the image? | It reflects the woman's figure and creates a sense of depth. |

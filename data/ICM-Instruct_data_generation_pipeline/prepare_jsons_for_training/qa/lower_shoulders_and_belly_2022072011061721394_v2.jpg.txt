@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image features three women? | Yes. |
+| Yes/No | Are the women wearing pajamas? | Yes. |
+| Yes/No | Is the woman in the center wearing red pajamas? | Yes. |
+| Yes/No | Is the woman on the left wearing pink pajamas? | Yes. |
+| Yes/No | Is the woman on the right wearing yellow pajamas? | Yes. |
+| Yes/No | Are the pajamas loose-fitting? | Yes. |
+| What | What color are the pajamas the woman in the center is wearing? | Red. |
+| What | What is the color of the pajamas the woman on the left is wearing? | Pink. |
+| How | How are the pajamas fitting on the women's bodies? | Loosefitting. |

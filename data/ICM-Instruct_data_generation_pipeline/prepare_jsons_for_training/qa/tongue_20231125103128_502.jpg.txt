@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Is the woman sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have a playful expression? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's hair color? | Blonde. |
+| What | What is the woman wearing? | A black top. |
+| How | How is the woman's expression? | Playful and confident. |
+| How | How does the image evoke feelings? | Intrigue and desire. |

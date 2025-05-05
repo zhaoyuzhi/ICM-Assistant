@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a tank top? | Yes. |
+| Yes/No | Are they wearing leggings? | Yes. |
+| Yes/No | Is their left hand on their hip? | Yes. |
+| Yes/No | Is their right hand on their thigh? | Yes. |
+| Yes/No | Is their left leg bent at the knee? | Yes. |
+| Yes/No | Is their right leg straight? | Yes. |
+| What | What color is the person's tank top? | White. |
+| What | What color are their leggings? | Olive green. |
+| How | How is the person posing in the image? | They are leaning against a wall with a confident and seductive pose, highlighting their physical attractiveness. |
+| How | How does the image capture the person's body? | The image captures the person's body in a way that highlights their form and draws the viewer's attention to their physical attractiveness. |

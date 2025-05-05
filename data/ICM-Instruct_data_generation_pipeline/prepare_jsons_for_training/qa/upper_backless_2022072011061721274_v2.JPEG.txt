@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are her leggings green? | Yes. |
+| Yes/No | Is her hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the woman have any other objects or people in the image with her? | No. |
+| Yes/No | Is the image posed in a suggestive manner? | Yes. |
+| What | What is the dominant color of the woman's outfit? | Light blue and green. |
+| What | What is the woman's hair style in the image? | Ponytail. |
+| How | How is the woman standing in relation to the camera? | With her back turned towards the camera. |
+| How | How does the image convey a sense of allure and confidence? | Through the woman's athletic attire, exposed back, and posing. |

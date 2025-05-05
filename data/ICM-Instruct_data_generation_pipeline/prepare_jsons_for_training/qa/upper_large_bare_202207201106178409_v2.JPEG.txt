@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini a two-piece swimsuit? | Yes. |
+| Yes/No | Is the woman standing in the water? | Yes. |
+| Yes/No | Is her body facing the camera? | Yes. |
+| Yes/No | Are there rocks visible in the background? | Yes. |
+| Yes/No | Is the water surrounding her a bright blue color? | Yes. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| What | What is the woman wearing on her feet? | Nothing (she is standing in the water). |
+| How | How does the woman's body look in the image? | Exposed, sexy. |
+| How | How does the overall setting of the image make you feel? | Relaxed, calm. |

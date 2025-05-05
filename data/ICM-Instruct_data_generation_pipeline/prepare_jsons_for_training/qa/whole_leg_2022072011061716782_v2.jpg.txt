@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a school uniform? | Yes. |
+| Yes/No | Is the woman's outfit the main focus of the image? | Yes. |
+| Yes/No | Does the image feature a collage of multiple photos? | Yes. |
+| Yes/No | Is the woman's thighs exposed in the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman wearing a tie in the image? | Yes. |
+| What | What is the woman wearing in the first photo? | A white collared shirt, a black tie, and a plaid skirt. |
+| What | What is the woman wearing in the third photo? | A white collared shirt, a black tie, and a plaid skirt. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It draws attention to the woman's outfit and movements rather than her body, adding to the sexy atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow top? | Yes. |
+| Yes/No | Are the woman's shoulders covered in the image? | No. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Does the woman have loose waves in her hair? | Yes. |
+| Yes/No | Is the woman smiling at the camera? | Yes. |
+| Yes/No | Is there any other person or object in the image? | No. |
+| What | What is the color of the woman's top? | Yellow. |
+| What | What is the style of the woman's hair? | Loose waves. |
+| How | How is the woman's top styled? | Offtheshoulder with a ruffled neckline. |
+| How | How is the woman looking at the camera? | Smiling. |

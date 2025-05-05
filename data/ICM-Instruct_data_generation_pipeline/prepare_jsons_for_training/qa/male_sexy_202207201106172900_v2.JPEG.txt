@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image topless? | Yes. |
+| Yes/No | Is the man wearing red underwear? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the man facing the camera? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the man wearing in the image? | Red underwear. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man's body positioned in the image? | He is standing with his body facing the camera. |
+| How | How does the background contrast with the man's skin tone and underwear? | The white background contrasts with the man's skin tone and the red of his underwear, creating a striking visual effect. |

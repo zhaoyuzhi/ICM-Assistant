@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink bra? | Yes. |
+| Yes/No | Is the woman in the image holding a yellow measuring tape? | Yes. |
+| Yes/No | Is the woman in the image measuring her chest size? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image feature the woman in a vulnerable and intimate moment? | Yes. |
+| What | What is the woman in the image holding? | A yellow measuring tape. |
+| What | What is the woman in the image wearing? | A white bra and a pink bra. |
+| How | How is the woman in the image measuring her chest size? | She is using a yellow measuring tape to circle her chest. |
+| How | How would you describe the atmosphere of the image? | The atmosphere of the image is sensual and provocative. |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink bra? | Yes. |
+| Yes/No | Is the woman in the image holding a yellow measuring tape? | Yes. |
+| Yes/No | Is the woman in the image measuring her chest size? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image feature the woman in a vulnerable and intimate moment? | Yes. |
+| What | What is the woman in the image measuring? | Her chest size. |
+| What | What is the color of the bra the woman is wearing? | White and pink. |
+| How | How is the woman holding the measuring tape? | She is placing it around her chest. |
+| How | How does the image capture the woman's expression? | It shows her with a focused expression. |

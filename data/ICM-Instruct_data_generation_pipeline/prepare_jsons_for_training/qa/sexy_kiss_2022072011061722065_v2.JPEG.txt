@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a black suit? | Yes. |
+| Yes/No | Are the couple kissing? | Yes. |
+| Yes/No | Is the woman's hand on the man's tie? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Does the image depict a tender and intimate moment? | Yes. |
+| What | What is the man wearing? | A white shirt and a black tie. |
+| What | What is the woman wearing? | A black suit. |
+| How | How are the couple standing? | Close to each other. |
+| How | How does the woman's hand on the man's tie add to the image? | It adds an element of control and dominance, which can be perceived as sexy. |

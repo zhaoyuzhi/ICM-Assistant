@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink bra? | Yes. |
+| Yes/No | Is the woman in the image standing in a room? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the woman wearing in the image? | A pink bra and matching underwear. |
+| What | What is the woman's facial expression in the image? | Direct and seductive. |
+| How | How does the mirror in the background add to the overall composition of the image? | It creates a sense of depth and space. |
+| How | How does the woman's direct gaze into the camera create an intimate atmosphere? | It creates a sense of connection and intimacy between the woman and the viewer. |

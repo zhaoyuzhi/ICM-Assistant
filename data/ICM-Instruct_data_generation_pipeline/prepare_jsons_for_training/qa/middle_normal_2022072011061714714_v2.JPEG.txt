@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the pair of blue jeans have a zipper fly? | Yes. |
+| Yes/No | Is the person wearing a belt? | Yes. |
+| Yes/No | Is the belt fastened around the person's waist? | Yes. |
+| Yes/No | Does the pair of blue jeans have a patch on the back pocket? | Yes. |
+| Yes/No | Is the person in the image facing away from the camera? | Yes. |
+| What | What is the primary color of the person's jeans? | Blue. |
+| What | What is the location of the patch on the person's jeans? | Back pocket. |
+| How | How is the belt fastened around the person's waist? | The belt is fastened with a buckle. |
+| How | How does the person's pose suggest their mood or atmosphere? | The person's neutral pose suggests a casual and everyday atmosphere rather than a sexy or provocative one. |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the person have a belt on? | Yes. |
+| Yes/No | Is the belt black in color? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose suggestive or intimate? | No. |
+| Yes/No | Does the image contain any inappropriate or offensive content? | No. |
+| What | What is the color of the person's jeans? | Blue. |
+| What | What is the color of the belt? | Black. |
+| How | How is the person's belt fastened? | With a silver buckle. |
+| How | How does the white background affect the overall image? | It contrasts with the blue of the jeans and the black of the belt, making the details stand out. |

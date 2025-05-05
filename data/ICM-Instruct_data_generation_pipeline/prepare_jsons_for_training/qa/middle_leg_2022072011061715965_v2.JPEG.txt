@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image wearing? | A white blouse and a black skirt. |
+| What | What is the woman in the image doing with her hands? | She has her hands on her hips. |
+| How | How does the woman's pose and attire contribute to the overall allure of the image? | Her confident pose and revealing outfit create a sense of sensuality and highlight her figure, contributing to the overall allure. |
+| How | How does the contrast between the white blouse and black skirt enhance the image? | The contrast creates a visual focal point on the woman's figure, drawing attention to her waist and thighs and emphasizing her curves, which adds to the overall allure. |

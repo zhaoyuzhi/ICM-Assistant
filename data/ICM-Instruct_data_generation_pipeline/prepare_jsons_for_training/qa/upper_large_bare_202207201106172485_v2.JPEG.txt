@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in a state of full undress? | No. |
+| Yes/No | Is the woman posing in a sexualized manner? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the image set in a outdoor environment? | No. |
+| Yes/No | Does the image feature any props? | No. |
+| What | What is the color of the woman's bikini? | Blue. |
+| What | What is the woman's facial expression? | Tilted head, confident. |
+| How | How is the woman standing? | With her hand on her hip. |
+| How | How is the image lit? | Not specified in the description. |

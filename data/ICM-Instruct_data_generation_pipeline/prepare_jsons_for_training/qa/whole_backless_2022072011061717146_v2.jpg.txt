@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the material of the dress shiny? | Yes. |
+| Yes/No | Is the woman standing in front of a white wall? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color is the woman's dress? | Red. |
+| What | What is the woman's pose in the image? | Looking over her shoulder. |
+| How | How does the shiny material of the dress add to its allure? | It reflects light, making the dress stand out and appear more attractive. |
+| How | How does the contrast between the red dress and white wall enhance the image's atmosphere? | The contrast creates a visual starkness that draws the viewer's attention to the woman and emphasizes her presence in the image, adding to the overall seductive atmosphere. |

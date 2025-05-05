@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the swimsuit a two-piece? | Yes. |
+| Yes/No | Does the person have sunglasses on? | Yes. |
+| Yes/No | Is the person in the image walking in the water? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What color is the bikini? | White. |
+| What | What type of bottom does the bikini have? | Highwaisted. |
+| How | How does the person look wearing the sunglasses? | Stylish and cool. |
+| How | How does the person seem to be enjoying themselves in the image? | Carefree and relaxed. |

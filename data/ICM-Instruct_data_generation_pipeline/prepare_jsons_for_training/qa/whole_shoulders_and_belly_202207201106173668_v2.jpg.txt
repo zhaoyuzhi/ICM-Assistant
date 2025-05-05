@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the woman have a gold necklace? | Yes. |
+| Yes/No | Are the woman's sleeves ruffled? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Is the woman's midriff exposed? | Yes. |
+| Yes/No | Is the woman posing with her hand on her hip? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What is the woman wearing around her neck? | A gold necklace. |
+| How | How are the woman's sleeves designed? | They are ruffled. |
+| How | How is the woman posing in the image? | With her hand on her hip and her head tilted to the side. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the baby in the image wearing a white dress? | Yes. |
+| Yes/No | Is the baby holding a spoon in their mouth? | Yes. |
+| Yes/No | Is the high chair colorful? | Yes. |
+| Yes/No | Is there food on the tray in front of the baby? | Yes. |
+| Yes/No | Is the baby engaged in eating? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| What | What is the baby holding in their hand? | A spoon. |
+| What | What is the baby eating? | Food on the tray. |
+| How | How is the baby positioned in the high chair? | The baby is sitting up straight, with the spoon in their mouth. |
+| How | How does the image focus on the baby's actions and the food on the tray? | The image is framed to emphasize the baby's actions and the food on the tray, with a low exposure level to further highlight the innocent and nonsexual nature of the scene. |

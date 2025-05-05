@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini plaid? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman lying on the sand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman appear to be enjoying herself? | Yes. |
+| What | What type of pattern is the bikini? | Plaid. |
+| What | What is the woman's facial expression? | Smiling. |
+| How | How does the plaid pattern contribute to the image's overall vibe? | It adds a touch of style and personality to the woman's appearance, contributing to the sexy and confident atmosphere of the image. |
+| How | How does the woman's smile and relaxed posture contribute to the image's overall vibe? | Her smile and relaxed posture suggest that she is having a good time, which creates an atmosphere of fun and relaxation that adds to the overall sexy vibe of the image. |

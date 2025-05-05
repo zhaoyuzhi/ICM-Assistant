@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are there blue flowers on the man's shirt? | Yes. |
+| Yes/No | Is the man standing in a concrete area? | Yes. |
+| Yes/No | Is there a wall in the background of the image? | Yes. |
+| Yes/No | Does the image have a moody and mysterious atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man's attire in the image? | A white shirt with blue flowers. |
+| What | What is the background of the image? | A concrete area, possibly a parking lot or an alley. |
+| How | How is the man's shirt soaked? | Possibly due to rain or sweat. |
+| What | What does the image suggest about the man's activity? | That he has been through a physically demanding or intense activity. |

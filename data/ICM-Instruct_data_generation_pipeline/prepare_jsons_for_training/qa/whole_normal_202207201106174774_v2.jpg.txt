@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green shirt? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the woman standing in front of a window? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the image contain any provocative or suggestive content? | No. |
+| What | What is the woman wearing in the image? | A green shirt and blue jeans. |
+| What | What is the background of the image? | A plain white wall. |
+| How | How is the woman standing in the image? | She is standing in front of the window. |
+| How | How would you describe the overall atmosphere of the image? | Casual and friendly. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image taking off their shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a bra and underwear? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Are the underwear white? | Yes. |
+| Yes/No | Is the person in the image likely a woman? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the shorts the person is taking off? | Blue. |
+| What | What color is the bra the person is wearing? | White. |
+| How | How is the person taking off their shorts? | The person is pulling them down. |
+| What | What atmosphere does the image create? | An atmosphere that is both alluring and intriguing. |

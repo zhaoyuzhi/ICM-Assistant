@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's earrings gold? | Yes. |
+| Yes/No | Does the woman have her hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman posing with her left hand on her hip? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman's top made of gray knit fabric? | Yes. |
+| What | What is the woman's top made of? | Gray knit fabric. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How is the woman posing in the image? | With her left hand on her hip and her right hand resting on her thigh. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the woman posing with her hand on her hip? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Are the woman's bikini bottoms pink and white striped? | Yes. |
+| Yes/No | Is the beach in the image sandy? | Yes. |
+| What | What color is the woman's bikini top? | Blue. |
+| What | What is the woman wearing on her head? | A straw hat. |
+| How | How is the woman posing in the image? | With her hand on her hip and her head tilted to the side. |
+| What | What atmosphere does the image convey? | A relaxed, carefree atmosphere with a playful, flirtatious vibe. |

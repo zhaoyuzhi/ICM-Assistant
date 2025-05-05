@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing knee-high socks? | Yes. |
+| Yes/No | Is the person standing on a bed? | Yes. |
+| Yes/No | Is the bed covered with a white lace cover? | Yes. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Are the socks being put on? | Yes. |
+| Yes/No | Are there other images of the person wearing different colors of socks? | Yes. |
+| What | What is the person in the image wearing? | A plaid skirt and beige kneehigh socks. |
+| What | What is the person doing in the image? | Putting on socks. |
+| How | How does the white lace cover on the bed enhance the atmosphere of the image? | It adds a sensual and intimate atmosphere to the image. |
+| How | How does the person trying on various styles of socks in other images add to the overall sense of the scene? | It adds an element of playfulness and exploration to the image. |
+| Yes/No | Is the person in the image wearing knee-high socks? | Yes. |
+| Yes/No | Is the person standing on a bed? | Yes. |
+| Yes/No | Is the bed covered in a white lace cover? | Yes. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Are the socks being put on? | Yes. |
+| Yes/No | Are there other images of the person wearing different colors of socks? | Yes. |
+| What | What color are the socks being worn by the person? | Beige. |
+| What | What is the pattern of the skirt worn by the person? | Plaid. |
+| How | How many other images of the person wearing different colors of socks are included in the image? | A few. |
+| How | How does the white lace cover on the bed enhance the atmosphere of the image? | It adds a sense of sensuality and intimacy to the scene. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the jacket the main focus of the image? | Yes. |
+| Yes/No | Does the woman's pose suggest a casual and comfortable setting? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive details? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and relaxed? | Yes. |
+| What | What is the color scheme of the jacket? | Black and white. |
+| What | What is the woman's pose in the image? | Relaxed and casual. |
+| How | How does the woman's pose suggest a casual and comfortable setting? | The woman is posed in a relaxed and natural way, with no suggestive or explicit elements. |
+| How | How does the exposure level of the image affect its overall tone? | The low exposure level helps to create a calm and relaxed atmosphere, without revealing any explicit or suggestive details. |

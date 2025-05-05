@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Does the person have pink hair? | Yes. |
+| Yes/No | Is the person biting her lip? | Yes. |
+| Yes/No | Is the facial expression of the person serious? | Yes. |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| Yes/No | Does the image emphasize the person's facial features and upper body? | Yes. |
+| What | What is the person's facial expression? | Serious. |
+| What | What is the person's hair color? | Pink. |
+| How | How is the person biting her lip? | seductively. |
+| How | How does the close-up shot make the viewer feel? | Intrigued and curious. |

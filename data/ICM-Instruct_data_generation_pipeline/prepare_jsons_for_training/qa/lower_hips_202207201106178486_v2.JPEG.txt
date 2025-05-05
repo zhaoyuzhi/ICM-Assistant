@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow bodysuit? | Yes. |
+| Yes/No | Are they wearing high heels? | Yes. |
+| Yes/No | Is the person standing on a street? | Yes. |
+| Yes/No | Is there a car in the background? | Yes. |
+| Yes/No | Is there a building in the background? | Yes. |
+| Yes/No | Is the person holding a purse? | Yes. |
+| What | What is the person's pose suggesting? | Confidence and selfassuredness. |
+| What | What is the atmosphere of the image? | Bold and confident. |
+| How | How is the person showing off their buttocks? | By standing with their hand on their hip and their buttocks slightly arched. |
+| How | How do the high heels add to the image? | They add an element of sophistication and allure. |

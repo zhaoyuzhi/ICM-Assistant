@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black hoodie? | Yes. |
+| Yes/No | Is the woman wearing a black and white top? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the man and woman? | Yes. |
+| What | What is the man wearing on his hoodie? | White text. |
+| What | What is the woman's arm position around the man's neck? | Wrapped around. |
+| How | How is the man leaning in to kiss the woman? | He is leaning in closely. |
+| How | How does the woman look up at the man? | She looks up at him with a warm and romantic expression. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the child in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the child holding a toy gun? | Yes. |
+| Yes/No | Is the person in the background wearing a black jacket? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the child making a funny face? | Yes. |
+| Yes/No | Is the background of the image a brick wall? | Yes. |
+| What | What is the child holding in their right hand? | A toy gun. |
+| What | What is the color of the zipper on the child's jacket? | Yellow. |
+| How | How is the person in the background positioned in the image? | They are standing/sitting in the background, not the main focus of the image. |
+| How | How would you describe the overall atmosphere of the image? | Playful and lighthearted. |

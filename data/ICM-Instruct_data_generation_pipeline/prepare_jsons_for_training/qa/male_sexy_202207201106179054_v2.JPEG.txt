@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Are the man's arms flexed in the image? | Yes. |
+| Yes/No | Is the man wearing black pants and a black belt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| How | Does the image showcase the man's muscular build? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man's attire in the image? | Black pants and a black belt. |
+| What | What is the color of the background in the image? | White. |
+| How | How are the man's arms positioned in the image? | Flexed. |
+| How | How does the image contrast the man's dark clothing and physique? | The white background provides a stark contrast that highlights his physique. |

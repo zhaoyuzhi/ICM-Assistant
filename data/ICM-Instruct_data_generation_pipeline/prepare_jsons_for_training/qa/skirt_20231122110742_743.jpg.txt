@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Is the woman in the image standing in a living room? | Yes. |
+| Yes/No | Does the woman in the image have a potted plant in the background? | Yes. |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the woman in the image have a black jacket? | Yes. |
+| What | What is the woman in the image lifting her dress revealing? | Her legs. |
+| What | What is the dominant color of the woman's outfit? | Red. |
+| How | How is the woman in the image standing? | With one hand on her hip and the other lifting her dress. |
+| How | How does the woman in the image look? | Confident and seductive. |

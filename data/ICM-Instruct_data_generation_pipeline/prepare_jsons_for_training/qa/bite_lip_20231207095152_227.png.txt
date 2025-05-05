@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray sweater? | Yes. |
+| Yes/No | Does the woman have a gold necklace? | Yes. |
+| Yes/No | Is the woman holding a red heart-shaped object in her hand? | Yes. |
+| Yes/No | Is the woman looking at the camera? | Yes. |
+| Yes/No | Does the woman have a slightly pouty expression? | Yes. |
+| Yes/No | Are the woman's lips slightly parted? | Yes. |
+| What | What is the woman holding in her hand? | A red heartshaped object. |
+| What | What color is the woman's sweater? | Gray. |
+| How | How is the woman's expression? | Slightly pouty. |
+| How | How are the woman's lips? | Slightly parted. |

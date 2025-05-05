@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Does the person have pink hair? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Are the person's pants white? | Yes. |
+| Yes/No | Is the person lifting their shirt? | Yes. |
+| Yes/No | Is the image seductive and alluring? | Yes. |
+| What | What is the color of the person's hair? | Pink. |
+| What | What is the color of the person's shirt? | Black. |
+| How | How is the person lifting their shirt? | By lifting it up and exposing their stomach. |
+| How | How does the image make you feel? | Intrigued and curious. |

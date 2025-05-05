@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black shoes? | Yes. |
+| Yes/No | Does the woman have her legs crossed in the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the shoes positioned on the white background? | Yes. |
+| Yes/No | Is the woman dressed in black pants and a black top? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color are the woman's shoes? | Black. |
+| What | What is the woman wearing on her feet? | Thickheeled black shoes. |
+| How | How are the shoes positioned in the image? | On a white background. |
+| How | How would you describe the atmosphere of the image? | Neutral and professional. |

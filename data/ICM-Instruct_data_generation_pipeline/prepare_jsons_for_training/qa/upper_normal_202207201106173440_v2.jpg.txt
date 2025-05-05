@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the people in the image smiling? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the man wearing a gray jacket? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy? | Yes. |
+| What | What is the woman wearing? | A white blouse with a black collar. |
+| What | What is the man wearing? | A gray jacket. |
+| How | How are the people in the image positioned? | Standing next to each other, looking directly at the camera. |
+| How | How would you describe the atmosphere of the image? | Cheerful and friendly, with a sense of warmth and connection between the two people. |

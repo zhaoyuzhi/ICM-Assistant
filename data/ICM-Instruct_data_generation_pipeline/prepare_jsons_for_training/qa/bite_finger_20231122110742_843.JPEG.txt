@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Does the image include any other objects or people? | No. |
+| Yes/No | Is the person in the image wearing any clothing? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image have a bright and colorful atmosphere? | No. |
+| What | What is the person in the image doing? | Putting their finger inside their mouth. |
+| What | What is the color of the person's hair in the image? | Dark hair. |
+| How | How is the person's facial expression in the image? | Neutral. |
+| How | How would you describe the overall atmosphere of the image? | Intimate and sensual. |

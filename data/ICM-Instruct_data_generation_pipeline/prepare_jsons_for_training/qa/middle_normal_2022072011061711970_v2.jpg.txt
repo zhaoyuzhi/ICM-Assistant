@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white Nike shorts? | Yes. |
+| Yes/No | Does the person have a black stripe running down the side of their shorts? | Yes. |
+| Yes/No | Is the person wearing a white t-shirt? | Yes. |
+| Yes/No | Does the image feature a gray background? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the focus of the image on the person's attire rather than their physical appearance? | Yes. |
+| What | What is the color of the person's shorts? | White with black and gray accents. |
+| What | What is the color of the person's t-shirt? | White. |
+| How | How is the focus of the image on the person's attire rather than their physical appearance? | The image has a low exposure level, and the gray background emphasizes the focus on the clothing rather than the person's body. |
+| How | How does the gray background contribute to the overall atmosphere of the image? | The gray background creates a neutral and nonsuggestive atmosphere, further emphasizing the focus on the clothing rather than the person's body. |
+| Yes/No | Is the person in the image wearing white Nike shorts? | Yes. |
+| Yes/No | Does the person have a black stripe running down the side of their shorts? | Yes. |
+| Yes/No | Is the person wearing a white t-shirt? | Yes. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| Yes/No | Does the image have a sensual or provocative atmosphere? | No. |
+| Yes/No | Does the image contain any elements that suggest a romantic or intimate context? | No. |
+| What | What is the color of the person's shorts? | White with black and gray accents. |
+| What | What is the color of the person's t-shirt? | White. |
+| How | How is the person standing in the image? | Against a gray background. |
+| How | How does the gray background contribute to the overall atmosphere of the image? | It contributes to a nonsensual and nonprovocative atmosphere. |

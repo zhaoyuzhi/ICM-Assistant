@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the person in the image standing with their legs apart? | Yes. |
+| Yes/No | Does the person in the image have their hands on their hips? | Yes. |
+| Yes/No | Is the bikini bottom white? | Yes. |
+| Yes/No | Does the image create a sense of confidence and allure? | Yes. |
+| Yes/No | Is the person's pose in the image suggestive? | Yes. |
+| What | What is the person in the image wearing? | A white bikini bottom. |
+| What | What is the person in the image posing with? | Their legs apart and hands on their hips. |
+| How | How does the image showcase the person's body? | The image showcases the person's lower body in a confident and alluring manner. |
+| How | How does the person's pose contribute to the overall atmosphere of the image? | The person's pose, with their hands on their hips and legs apart, suggests a sense of selfassuredness and confidence, which adds to the bold and confident atmosphere of the image. |

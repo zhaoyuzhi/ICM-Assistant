@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a thong? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| Yes/No | Is the woman's gaze directed at the camera? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| What | What color are the flowers on the woman's bra? | Red. |
+| What | What is the woman resting her hands on? | Her knees. |
+| How | How is the woman's pose on the bench? | With her legs crossed and hands resting on her knees. |
+| How | How would you describe the woman's gaze at the camera? | Focused and engaging. |

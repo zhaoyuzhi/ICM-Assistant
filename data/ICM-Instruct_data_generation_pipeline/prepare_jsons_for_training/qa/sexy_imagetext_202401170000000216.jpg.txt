@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a billiard cue? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the background of the image a green pool table? | Yes. |
+| Yes/No | Does the advertising slogan "硬得很" appear in the image? | Yes. |
+| Yes/No | Is the woman dressed in a black dress? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman holding in her right hand? | A billiard cue. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How is the woman posing in the image? | Confidently. |
+| How | How does the advertising slogan "硬得很" contribute to the image's atmosphere? | It adds a humorous and lighthearted touch to the image, enhancing its appeal. |

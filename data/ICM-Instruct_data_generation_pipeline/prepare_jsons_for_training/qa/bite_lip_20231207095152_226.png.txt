@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a denim jacket? | Yes. |
+| Yes/No | Does the person in the image have blonde hair? | Yes. |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Is the image atmospheric? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy? | Yes. |
+| Yes/No | Is the person in the image looking downwards? | Yes. |
+| What | What is the person in the image biting? | Their lip. |
+| What | What is the color of the person's hair in the image? | Blonde. |
+| How | How is the person in the image looking? | Downwards. |
+| How | How does the denim jacket contribute to the overall feel of the image? | It adds a casual and relaxed vibe, enhancing the overall sexy feel. |

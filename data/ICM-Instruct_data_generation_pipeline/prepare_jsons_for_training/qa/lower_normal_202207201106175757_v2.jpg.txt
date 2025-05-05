@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person engaging in any provocative actions in the image? | No. |
+| Yes/No | Does the image contain any elements that suggest a sexual context? | No. |
+| What | What is the person's pose in the image? | The person is sitting on a chair with their legs crossed. |
+| What | What is the focus of the image? | The focus of the image is on the person's legs and the casual pose they are in. |
+| How | How is the person's exposure level in the image? | The person's exposure level is very low, meaning that only a small portion of their body is visible in the image. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is calm and relaxed. |

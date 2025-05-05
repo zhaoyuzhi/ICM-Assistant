@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Is the yellow ball nearby? | Yes. |
+| Yes/No | Is the person wearing a gray sweater? | Yes. |
+| Yes/No | Are the person's legs bent? | Yes. |
+| Yes/No | Are the stockings being pulled up? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the sweater the person is wearing? | Gray. |
+| How | How are the stockings being put on? | The person is pulling them up. |
+| What | What atmosphere does the image create? | A sexy and alluring atmosphere. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person lying on a bed? | Yes. |
+| Yes/No | Is the person wearing a gray sweater? | Yes. |
+| Yes/No | Are the person's legs bent? | Yes. |
+| Yes/No | Is the person putting on the stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the sweater the person is wearing? | Gray. |
+| How | How are the stockings being put on? | The person is pulling them up. |
+| What | What element in the scene adds an element of playfulness? | The presence of the yellow ball nearby. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing in front of a doorway? | Yes. |
+| Yes/No | Is the man's body facing the camera? | Yes. |
+| Yes/No | Does the image provide additional details about the man's clothing? | No. |
+| Yes/No | Does the image provide additional details about the surrounding environment? | No. |
+| Yes/No | Is the overall atmosphere of the image sensual and provocative? | Yes. |
+| What | What is the man's body language in the image? | Confident and alluring. |
+| What | What emotion does the image evoke in the viewer? | Desire and attraction. |
+| How | How is the man's body facing the camera? | His body is facing the camera directly. |
+| How | How does the image's sensual and provocative atmosphere evoke feelings in the viewer? | It evokes feelings of desire and attraction in the viewer through the man's shirtlessness and confident body language. |

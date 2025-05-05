@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra made of lace? | Yes. |
+| Yes/No | Does the bra expose a large area of the person's back? | Yes. |
+| Yes/No | Is the wall behind the person gray? | Yes. |
+| Yes/No | Are there any drinks on the table behind the person? | Yes. |
+| Yes/No | Is the person's hair in a ponytail? | Yes. |
+| What | What color is the bra? | Pink and purple. |
+| What | What is the person's hairstyle? | Ponytail. |
+| How | How is the atmosphere of the image? | Casual and relaxed. |
+| How | How does the person's exposed back contribute to the image's overall feel? | It adds a sense of sexiness and selfexpression. |

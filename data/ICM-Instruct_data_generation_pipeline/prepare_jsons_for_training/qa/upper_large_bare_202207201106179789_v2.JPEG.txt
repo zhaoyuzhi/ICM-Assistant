@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red and white striped shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a bikini bottom? | Yes. |
+| Yes/No | Is the woman in the image looking up at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's body language suggestive of comfort and confidence? | Yes. |
+| Yes/No | Does the rock on which the woman is lying add a natural and rugged element to the scene? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A red and white striped shirt. |
+| What | What is the woman in the image wearing on her lower body? | A bikini bottom. |
+| How | How is the woman in the image positioned on the rock? | She is lying on the rock. |
+| How | How does the woman's smile suggest her emotions? | It suggests that she is comfortable and confident in her appearance. |

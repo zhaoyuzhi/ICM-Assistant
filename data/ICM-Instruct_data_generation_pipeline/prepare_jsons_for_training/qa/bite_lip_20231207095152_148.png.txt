@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the woman have earrings? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intense and captivating? | Yes. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What is the woman biting her lip? | Her lip. |
+| How | How is the woman's expression associated with sensuality and confidence? | It's a common gesture associated with those traits. |
+| How | How does the seriousness of her expression add to the image's atmosphere? | It adds an air of mystery and intrigue. |

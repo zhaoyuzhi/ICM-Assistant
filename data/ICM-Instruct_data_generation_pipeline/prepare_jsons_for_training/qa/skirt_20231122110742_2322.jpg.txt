@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image the main subject? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Is the woman wearing a white skirt? | Yes. |
+| Yes/No | Are the woman's legs and thighs visible in the image? | Yes. |
+| Yes/No | Is the woman wearing black gloves? | Yes. |
+| Yes/No | Does the image feature a white wall with vertical lines as the background? | Yes. |
+| What | What is the color of the woman's hair? | Pink. |
+| What | What is the color of the woman's top? | Black. |
+| How | How is the woman's dress being lifted? | The woman is lifting her dress. |
+| How | How does the woman's pink hair contribute to the image's overall atmosphere? | It adds a unique and bold touch to her appearance and creates an atmosphere of allure and intrigue. |

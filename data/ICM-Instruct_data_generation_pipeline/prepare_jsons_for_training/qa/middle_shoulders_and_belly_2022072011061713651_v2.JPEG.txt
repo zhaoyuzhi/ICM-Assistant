@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Are there medical devices attached to the person's skin? | Yes. |
+| Yes/No | Is the person holding a cell phone in their hand? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Does the image suggest a sense of trust and openness? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What are the medical devices attached to the person's skin? | The medical devices are not specifically identified in the description, but they are described as being connected to a tube that runs down the person's side. |
+| What | What is the person doing with their cell phone? | The person is holding their cell phone in their hand, but the description does not specify what they are doing with it. |
+| How | How are the medical devices attached to the person's skin? | The medical devices are attached to the person's skin using tubes that run down their side. |
+| How | How does the close-up perspective of the image create a sense of connection and empathy? | The closeup perspective allows the viewer to focus on the person's body and the medical devices, creating a sense of intimacy and vulnerability. |
+| Yes/No | Is the person in the image wearing a blue jean jacket? | Yes. |
+| Yes/No | Are there medical devices attached to the person's skin? | Yes. |
+| Yes/No | Is the person holding a cell phone in their hand? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Does the image suggest that the person might be dealing with a health issue or undergoing a medical procedure? | Yes. |
+| What | What is the person holding in their hand? | A cell phone. |
+| What | What is the color of the person's jacket? | Blue. |
+| How | How many medical devices are attached to the person's skin? | Two. |
+| How | How does the image convey a sense of intimacy and vulnerability? | Through the person's exposed belly and the medical devices attached to their skin, creating a sense of vulnerability and intimacy. |

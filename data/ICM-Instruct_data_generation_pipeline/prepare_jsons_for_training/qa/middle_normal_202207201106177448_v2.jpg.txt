@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a pair of green shorts? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Does the image have a sexual context or suggestive behavior? | No. |
+| What | What color are the person's shorts? | Green. |
+| What | What is the person's shirt color? | Black. |
+| How | How is the person's body positioned in the image? | The person's back is to the camera. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a pair of green shorts? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire provocative or sexual in nature? | No. |
+| Yes/No | Does the low exposure level make the image appear sexy? | No. |
+| What | What color are the person's shorts? | Green. |
+| What | What color is the person's shirt? | Black. |
+| How | How is the person standing in the image? | With their back to the camera. |
+| What | What is the overall atmosphere of the image? | Neutral and nonprovocative. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person's hand visible in the image? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's leg? | Yes. |
+| Yes/No | Is the person wearing black heels? | Yes. |
+| Yes/No | Is the person wearing a black sweater? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image holding in their hand? | A stocking. |
+| What | What color are the stockings being worn by the person in the image? | Black. |
+| How | How is the person in the image putting on the stockings? | By pulling them up their leg. |
+| How | How does the image evoke feelings in the viewer? | It evokes feelings of desire and fascination. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person's hand visible in the image? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's leg? | Yes. |
+| Yes/No | Is the person wearing black heels? | Yes. |
+| Yes/No | Is the person wearing a black sweater? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person wearing with their black stockings? | A black sweater and black heels. |
+| How | How are the stockings being put on? | The person is holding the stocking in place with their hand while pulling it up their leg. |
+| What | What is the overall atmosphere of the image? | Intimate and alluring. |

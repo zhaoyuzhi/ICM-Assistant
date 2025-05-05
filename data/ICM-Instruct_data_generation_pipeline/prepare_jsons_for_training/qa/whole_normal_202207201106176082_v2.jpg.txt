@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Does the woman have a ponytail? | Yes. |
+| Yes/No | Is the chair a bean bag chair? | Yes. |
+| Yes/No | Is the chair blue? | Yes. |
+| Yes/No | Is the woman holding a phone to her ear? | Yes. |
+| What | What is the woman's posture in the chair? | Casual and comfortable. |
+| What | What is the atmosphere of the image? | Casual and comfortable. |
+| How | How is the woman positioned in the chair? | She is sitting with her back supported by the chair and her legs stretched out in front of her. |
+| How | How does the woman appear to be engaged in a conversation? | She is holding a phone to her ear and has a thoughtful expression on her face. |

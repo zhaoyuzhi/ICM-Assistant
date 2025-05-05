@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing away from the camera? | Yes. |
+| Yes/No | Is the dress made of a shiny material? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Is the person's hair pulled back? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the dress? | Purple. |
+| What | What is the atmosphere of the image? | Sensual and alluring. |
+| How | How is the person's hair styled? | Pulled back. |
+| How | How much skin is revealed by the dress? | A significant amount. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a t-shirt? | Yes. |
+| Yes/No | Does the image feature a green background? | Yes. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the person have a drawstring at the waist? | Yes. |
+| What | What color are the shorts? | Navy blue. |
+| What | What is the color of the t-shirt? | Gray. |
+| How | How is the person's fit adjusted in the shorts? | With a drawstring at the waist. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the man in the image wearing a pair of navy blue shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a gray t-shirt? | Yes. |
+| Yes/No | Does the image feature any suggestive or provocative elements? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Are there any intimate details visible in the image? | No. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| What | What is the color of the logo on the man's shorts? | White. |
+| What | What is the color of the man's t-shirt? | Gray. |
+| How | How is the man's waist secured in the shorts? | With a drawstring. |
+| How | How does the image focus on the man's body? | From the waist down. |

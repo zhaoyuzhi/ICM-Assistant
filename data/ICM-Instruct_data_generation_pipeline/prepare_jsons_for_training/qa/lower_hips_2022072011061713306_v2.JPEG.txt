@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing yellow leggings? | Yes. |
+| Yes/No | Is the person in the image standing in a room with a white wall and wooden floor? | Yes. |
+| Yes/No | Is the person's left hand resting on their hip? | Yes. |
+| Yes/No | Is the person's right hand pointing towards the camera? | Yes. |
+| Yes/No | Does the image suggest a sense of style and confidence? | Yes. |
+| Yes/No | Does the person's pose and attire create a sexy and alluring atmosphere? | Yes. |
+| What | What is the color of the leggings the person is wearing? | Yellow. |
+| What | What is the color of the person's sneakers? | White. |
+| How | How is the person's left hand positioned in the image? | Resting on their hip. |
+| How | How is the person's right hand positioned in the image? | Pointing towards the camera. |

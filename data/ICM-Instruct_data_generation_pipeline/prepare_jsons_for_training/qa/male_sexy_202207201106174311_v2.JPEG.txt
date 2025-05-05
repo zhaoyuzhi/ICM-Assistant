@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the tattoo on the man's chest cover a significant portion of his upper body? | Yes. |
+| Yes/No | Is the tattoo on the man's chest black? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man's skin pale? | Yes. |
+| Yes/No | Does the tattoo feature floral and geometric patterns? | Yes. |
+| What | What is the man's tattoo of? | A large, intricate design that covers a significant portion of his upper body. |
+| What | What can be inferred about the man's personality or interests based on the tattoo? | He may be a bodybuilder or someone who enjoys showcasing his tattoo and physique. |
+| How | How does the contrast between the tattoo and the man's skin contribute to the overall effect of the image? | It creates an eyecatching and visually appealing image. |
+| How | How does the image evoke a sense of confidence and self-expression? | The tattoo and the man's physique suggest a sense of confidence and selfexpression, which can be seen as sexy to some viewers. |

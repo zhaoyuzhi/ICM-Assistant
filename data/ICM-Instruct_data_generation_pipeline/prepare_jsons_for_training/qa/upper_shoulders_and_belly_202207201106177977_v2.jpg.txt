@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Does the top have a floral print? | Yes. |
+| Yes/No | Is the top green in color? | Yes. |
+| Yes/No | Does the top have a cold shoulder design? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| What | What color is the woman's top? | Green. |
+| What | What is the woman holding in her hand? | A purse. |
+| How | How does the floral print on the woman's top add to her overall look? | It adds a touch of nature to her look. |
+| How | How does the cold shoulder design on the woman's top contribute to the image's overall atmosphere? | It adds a modern and trendy element to her outfit, contributing to the sexy and stylish atmosphere of the image. |

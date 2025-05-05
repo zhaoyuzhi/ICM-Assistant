@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the person's facial expression playful and seductive? | Yes. |
+| Yes/No | Are the person's lips puckered? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's lipstick? | Red. |
+| What | What is the person's facial expression? | Playful and seductive. |
+| How | How are the person's lips positioned? | Puckered. |
+| How | How does the blurred background affect the image? | It puts the focus on the person's face and emphasizes their features. |

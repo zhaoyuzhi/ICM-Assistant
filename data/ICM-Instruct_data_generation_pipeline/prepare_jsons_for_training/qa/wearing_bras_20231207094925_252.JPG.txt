@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the woman standing in front of a window? | Yes. |
+| Yes/No | Are the curtains in the window red? | Yes. |
+| Yes/No | Is the woman holding the bra with her left hand? | Yes. |
+| Yes/No | Is the woman's right hand placed on her hip? | Yes. |
+| What | What is the woman's pose in the image? | The woman is standing with her right hand on her hip and her left hand holding the bra. |
+| What | What is the atmosphere created by the image? | The atmosphere created by the image is one of allure and seduction. |
+| How | How is the woman holding the bra? | The woman is holding the bra with her left hand. |
+| How | How is the woman's right hand positioned? | The woman's right hand is placed on her hip. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the woman standing in front of a window? | Yes. |
+| Yes/No | Are the curtains in the window red? | Yes. |
+| Yes/No | Is the woman holding the bra with her left hand? | Yes. |
+| Yes/No | Is the woman's right hand placed on her hip? | Yes. |
+| What | What is the woman wearing in the image? | A pink bra. |
+| What | What is the woman doing in the image? | Putting on her bra. |
+| How | How is the woman standing in the image? | With her left hand on her hip and her right hand holding the bra. |
+| How | How are the curtains in the window adorned? | They are red. |

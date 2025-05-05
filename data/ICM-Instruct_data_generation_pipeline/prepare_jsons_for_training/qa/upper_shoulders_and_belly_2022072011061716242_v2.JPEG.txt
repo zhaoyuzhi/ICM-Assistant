@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Are her jeans high-waisted? | Yes. |
+| Yes/No | Does the image feature a plain white background? | Yes. |
+| Yes/No | Is her hair styled in a messy bun? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She is striking a pose with her hands on her head. |
+| What | What is the style of her hairstyle? | Messy bun. |
+| How | How does the woman's outfit contribute to the sexy atmosphere of the image? | The strapless top and highwaisted jeans reveal her midriff, creating a common feature in sexy outfits. |
+| How | How does the background contribute to the focus on the woman and her outfit? | The plain white background puts the focus entirely on her and her outfit, making the image feel more intimate and alluring. |

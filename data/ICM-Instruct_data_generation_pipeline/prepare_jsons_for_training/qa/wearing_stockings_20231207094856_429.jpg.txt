@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on pink stockings? | Yes. |
+| Yes/No | Are they sitting on a couch? | Yes. |
+| Yes/No | Are there any plants in the background? | Yes. |
+| Yes/No | Are the person's hands wrapped in pink cloth? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual and alluring? | Yes. |
+| What | What is the person in the image wearing? | Black stockings and pink stockings. |
+| What | What is the person in the image sitting on? | A couch. |
+| How | How are the person's hands wrapped? | With a pink cloth. |
+| What | What could be the reason for wrapping the person's hands? | To keep them warm or provide a comfortable grip while putting on the stockings. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on pink stockings? | Yes. |
+| Yes/No | Is the person sitting on a couch? | Yes. |
+| Yes/No | Are there any plants or flowers in the background? | Yes. |
+| Yes/No | Are the person's hands wrapped in a cloth? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| What | What is the person in the image putting on? | Pink stockings. |
+| What | What color is the cloth wrapped around the person's hands? | Pink. |
+| How | How are the person's hands wrapped in the cloth? | Possibly to keep them warm or to provide a comfortable grip while putting on the stockings. |
+| What | What does the image invite the viewer to imagine? | The person's thoughts and emotions during this private moment. |

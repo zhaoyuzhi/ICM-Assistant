@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin wearing a blue shirt? | Yes. |
+| Yes/No | Does the shirt have a white collar? | Yes. |
+| Yes/No | Are the buttons on the shirt black? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| How | Is the mannequin positioned to showcase the shirt? | Yes. |
+| Yes/No | Is the shirt made of a lightweight fabric? | Yes. |
+| What | What color is the shirt? | Blue. |
+| What | What is the material of the shirt? | Lightweight fabric. |
+| How | How is the mannequin positioned in the image? | The mannequin is positioned to showcase the shirt, with the shirt as the central focus of the image. |
+| How | How does the image atmosphere feel? | The overall atmosphere of the image is simple and straightforward, with no additional elements or distractions. |

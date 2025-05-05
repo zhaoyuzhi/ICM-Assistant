@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the chair in the background red? | Yes. |
+| Yes/No | Is the bookshelf in the background? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the person looking down at the ground? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What color is the person's top? | Beige. |
+| What | What is the color of the chair in the background? | Red. |
+| How | How is the person standing in the image? | With their legs slightly apart, looking down at the ground. |
+| How | How does the high-waisted shorts and zipper add to the overall feel of the image? | It adds an element of intrigue and suggests a sense of confidence and selfassuredness. |

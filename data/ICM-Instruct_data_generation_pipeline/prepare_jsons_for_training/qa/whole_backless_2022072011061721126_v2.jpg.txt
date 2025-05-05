@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Is there a slit on the back of the dress? | Yes. |
+| Yes/No | Is the room in the image a dressing room? | Yes. |
+| Yes/No | Does the image have an elegant and sophisticated atmosphere? | Yes. |
+| What | What color is the couch in the room? | Gray. |
+| What | What is the woman's pose in the image? | Facing away from the camera. |
+| How | How does the woman's attire contribute to the image's atmosphere? | The white dress with a deep neckline and long train gives the impression of luxury and elegance, and the slit on the back adds a sense of sexiness. |
+| How | How does the woman's pose add to the overall allure of the image? | The woman's pose, facing away from the camera, adds a sense of mystery and intrigue, making the viewer curious about what is on the other side of her back. |

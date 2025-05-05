@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image receiving a facial treatment? | Yes. |
+| Yes/No | Are the person's eyes closed? | Yes. |
+| Yes/No | Is the person wearing a yellow shirt? | Yes. |
+| Yes/No | Is the plastic wrap covering the person's face? | Yes. |
+| Yes/No | Is the hand holding a small bottle of lotion? | Yes. |
+| Yes/No | Is the atmosphere calm and focused on the process of applying lotion? | Yes. |
+| What | What is the person's shirt color? | Yellow. |
+| What | What is the person's facial expression? | Closed eyes, relaxed. |
+| How | How is the person's face covered? | With plastic wrap. |
+| How | How is the lotion being applied? | With a small bottle. |

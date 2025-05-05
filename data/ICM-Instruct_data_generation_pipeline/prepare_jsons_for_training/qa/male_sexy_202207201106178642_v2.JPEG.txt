@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man lifting weights? | Yes. |
+| Yes/No | Is the atmosphere of the image intense and focused? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man have a well-defined physique? | Yes. |
+| Yes/No | Is the gym setting indicative of the man's dedication to fitness and health? | Yes. |
+| What | What is the man lifting in the image? | Weights. |
+| What | What is the man's facial expression in the image? | Serious/determined. |
+| How | How does the image showcase the man's physical strength and determination? | The image shows the man's muscular chest and upper body, and his flexed arms and tensed muscles demonstrate his strength and determination. |
+| How | How does the gym setting emphasize the man's dedication to fitness and health? | The gym setting suggests that the man regularly works out and is committed to maintaining his physical fitness. |

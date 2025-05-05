@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing fishnet stockings? | Yes. |
+| Yes/No | Are the stockings black? | Yes. |
+| Yes/No | Do the stockings have a fishnet-like pattern? | Yes. |
+| Yes/No | Is the person wearing black heels? | Yes. |
+| Yes/No | Is the person sitting on a bed? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| What | What is the person's pose in the image? | The person is sitting on a bed with their legs crossed and their feet resting on a nightstand. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is sensual and intimate. |
+| How | How do the stockings contribute to the image's sensuality? | The stockings contribute to the image's sensuality because they are a type of lingerie often associated with sensuality and allure. |
+| How | How does the person's pose add to the intimate atmosphere? | The person's pose, with their legs crossed and feet on a nightstand, adds to the intimate atmosphere by creating a sense of relaxation and vulnerability. |

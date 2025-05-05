@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a top? | Yes. |
+| Yes/No | Does the woman in the image have a drawstring waist? | Yes. |
+| Yes/No | Is the woman in the image posing with her hands on her hips? | Yes. |
+| Yes/No | Is the image in a casual setting? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the woman's shorts? | Beige. |
+| What | What is the design of the woman's top? | White with a cutout on the chest. |
+| How | How does the woman's pose suggest self-assurance? | Her hands are resting on her hips, indicating confidence and poise. |
+| How | How does the contrast between the beige shorts and white top contribute to the image's overall atmosphere? | The contrast creates a visually appealing and stylish look, which contributes to the image's overall casual and sexy atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the person looking down? | Yes. |
+| Yes/No | Is the person's hair wet? | Yes. |
+| Yes/No | Does the image have a moody and dramatic atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's gender? | The person's gender is not explicitly stated in the description, but based on the use of the phrase "sexy feel," it is implied to be a woman. |
+| What | What is the person's facial expression? | The person is looking down and to the left, and their facial expression is not specified in the description. |
+| How | How are the person's clothes soaked? | The person's clothes are soaked because of the rain. |
+| How | How does the rain contribute to the overall atmosphere of the image? | The rain creates a moody and dramatic setting that contrasts with the person's exposed skin, adding to the overall allure of the image. |

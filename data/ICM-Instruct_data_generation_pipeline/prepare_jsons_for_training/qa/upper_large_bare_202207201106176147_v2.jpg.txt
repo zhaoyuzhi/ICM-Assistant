@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman's hair wet? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the woman have any tattoos visible in the image? | No. |
+| What | What is the woman in the image wearing around her neck? | A gold necklace. |
+| What | What is the background of the image? | A beach with water and rocks. |
+| How | How is the woman standing in the image? | With her arms raised above her head. |
+| How | How would you describe the woman's pose in the image? | Sensual and alluring. |

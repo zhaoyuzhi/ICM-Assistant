@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Does the woman have a garter belt? | Yes. |
+| Yes/No | Are the stockings and garter belt white? | Yes. |
+| Yes/No | Does the image feature flowers in the background? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Does the image have a romantic atmosphere? | Yes. |
+| What | What color are the stockings and garter belt? | White. |
+| What | What is the woman's pose in the image? | Standing in front of a mirror. |
+| How | How does the lace trim on the stockings and garter belt contribute to the image's overall tone? | It adds an element of elegance and sophistication. |
+| How | How does the presence of flowers in the background enhance the image's tone? | It creates a romantic atmosphere and enhances the image's sensual and intimate nature. |

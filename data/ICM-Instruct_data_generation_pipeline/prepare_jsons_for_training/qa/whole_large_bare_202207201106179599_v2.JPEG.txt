@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image posing on a beach? | Yes. |
+| Yes/No | Is the woman in the image looking off to the side? | Yes. |
+| Yes/No | Does the woman in the image have a harness around her waist? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image wearing around her waist? | A harness. |
+| What | What is the woman in the image posing on? | A beach. |
+| How | How is the woman in the image standing? | With her left leg extended behind her and her right leg bent at the knee. |
+| How | How does the woman in the image look? | Confident and alluring. |

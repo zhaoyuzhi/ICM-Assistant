@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the dress white? | Yes. |
+| Yes/No | Does the dress have a floral pattern on the top? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Is the back of the dress sheer? | Yes. |
+| Yes/No | Is the woman holding a gold clutch? | Yes. |
+| What | What is the color of the dress? | White. |
+| What | What is the woman holding in her hand? | A gold clutch. |
+| How | How is the woman standing in the image? | With her back to the camera, facing away from it. |
+| How | How does the image make you feel? | Alluring and seductive. |

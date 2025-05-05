@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the image feature a staircase? | Yes. |
+| Yes/No | Are there plants in the background of the image? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | Yes. |
+| What | What is the woman wearing on her lower body? | Black shorts. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How is the woman's hair styled? | In a ponytail. |
+| What | What is the atmosphere created by the image? | Alluring and sensual. |

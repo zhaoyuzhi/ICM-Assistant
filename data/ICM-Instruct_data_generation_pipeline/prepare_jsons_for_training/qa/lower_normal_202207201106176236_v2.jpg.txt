@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman carry a small purse in her hand? | Yes. |
+| Yes/No | Is the woman's dress black? | Yes. |
+| Yes/No | Does the woman's gaze engage the viewer directly? | Yes. |
+| Yes/No | Is the atmosphere of the image elegant and poised? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the woman carrying in her hand? | A small purse. |
+| How | How is the woman's posture in the image? | Upright and poised. |
+| How | How does the woman's gaze engage the viewer? | Directly and unflinchingly. |

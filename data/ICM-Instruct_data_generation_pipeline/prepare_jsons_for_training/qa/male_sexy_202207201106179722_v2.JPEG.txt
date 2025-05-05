@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image posing with his arms crossed? | Yes. |
+| Yes/No | Does the image have a plain background? | Yes. |
+| What | What is the man in the image wearing on his upper body? | A black hoodie. |
+| What | What is the man in the image wearing on his lower body? | Black underwear. |
+| How | How is the man in the image posing? | With his arms crossed and his chest prominently displayed. |
+| How | How does the background of the image contribute to the overall atmosphere? | The plain background puts the focus entirely on the man and creates a sense of intimacy and vulnerability. |

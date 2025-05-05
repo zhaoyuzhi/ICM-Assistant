@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image sexual in nature? | Yes. |
+| Yes/No | Are the women in the image wearing bikinis? | Yes. |
+| Yes/No | Is the woman in the center of the image the most exposed? | Yes. |
+| Yes/No | Does the image feature a group of women standing in a line? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Are the bikinis in various colors? | Yes. |
+| What | What is the color of the bikini worn by the woman in the center of the image? | The bikini worn by the woman in the center of the image is black. |
+| What | What is the color of the tile floor? | The tile floor is white. |
+| How | How many women are featured in the image? | Six women are featured in the image. |
+| How | How are the women standing in the image? | The women are standing in a line. |

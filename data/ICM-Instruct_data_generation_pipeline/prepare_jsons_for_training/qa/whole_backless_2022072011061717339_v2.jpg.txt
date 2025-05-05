@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink leotard? | Yes. |
+| Yes/No | Are the straps of the leotard thin? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Are the woman's hands placed on the barre? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the leotard allow for freedom of movement? | Yes. |
+| What | What is the woman wearing in the image? | A pink leotard. |
+| What | What is the texture of the barre in the image? | Wooden. |
+| How | How are the woman's straps attached to the leotard? | Thin straps. |
+| How | How does the woman's pose suggest confidence and control? | The woman is poised and balanced on the barre, suggesting a sense of control and confidence. |

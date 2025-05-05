@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the person have a small logo on the back of their jeans? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the focus of the image? | The person's lower body and the jeans. |
+| What | What is the setting of the image? | A casual and everyday setting. |
+| How | How is the person's body positioned in the image? | The person's lower body is the main focus, with the jeans and legs being the primary subject. |
+| How | How does the low exposure level affect the image? | It reduces the visibility of the person's face and upper body, making the image less sexy and more focused on the jeans and lower body. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person have a logo on the back of their jeans? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| How | Does the image show the person's entire body? | No. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| What | What is the primary focus of the image? | The person's clothing, specifically their blue jeans. |
+| What | What is the atmosphere of the image? | Neutral. |
+| How | How is the person's lower body positioned in the image? | The person's lower body is the primary focus of the image, taken from a low angle. |
+| How | How does the low angle shot contribute to the focus of the image? | The low angle shot emphasizes the person's lower body and the jeans, drawing attention away from their upper body and facial features. |

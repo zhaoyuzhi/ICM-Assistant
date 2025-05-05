@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the woman have long black hair? | Yes. |
+| Yes/No | Is the woman biting her lower lip? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's facial expression and body language suggest introspection? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and seductive? | Yes. |
+| What | What is the woman in the image looking at? | Her hand. |
+| What | What color is the woman's hair? | Black. |
+| How | How is the woman's hair styled? | Long. |
+| How | How is the woman biting her lower lip? | Slightly parted. |

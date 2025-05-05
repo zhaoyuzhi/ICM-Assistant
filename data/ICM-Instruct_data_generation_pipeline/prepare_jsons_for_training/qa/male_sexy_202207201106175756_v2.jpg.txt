@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| Yes/No | Are the swim trunks the man is wearing colorful and patterned? | Yes. |
+| Yes/No | Is the man's pose in the image confident and relaxed? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man in the image wearing? | Swim trunks. |
+| What | What is the background of the image? | The ocean. |
+| How | How is the man standing in the image? | With his arms resting on his hips. |
+| How | How does the image make you feel? | Alluring and enticing. |

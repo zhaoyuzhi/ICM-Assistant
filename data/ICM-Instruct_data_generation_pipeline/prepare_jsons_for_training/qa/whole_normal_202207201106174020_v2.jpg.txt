@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sweatshirt? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a white background? | Yes. |
+| Yes/No | Does the woman have a neutral pose in the image? | Yes. |
+| Yes/No | Is the woman looking off to the side in the image? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and serene? | Yes. |
+| What | What is the woman wearing in the image? | A pink sweatshirt and a flowing skirt. |
+| What | What is the woman's pose in the image? | Neutral. |
+| How | How does the woman's attire contribute to the low exposure level of the image? | The woman's oversized sweatshirt and flowing skirt do not reveal much skin and do not have any explicit or suggestive content, contributing to the low exposure level of the image. |
+| How | How does the image focus on the woman's outfit and pose rather than her physical appearance? | The image highlights the woman's outfit and pose by featuring her in a neutral background and having her pose in a way that draws attention to her clothing rather than her body. |

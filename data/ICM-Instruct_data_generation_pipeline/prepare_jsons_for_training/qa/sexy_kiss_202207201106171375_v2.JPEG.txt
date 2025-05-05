@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Are the man and woman kissing in the image? | Yes. |
+| Yes/No | Is the woman's hand on the man's face in the image? | Yes. |
+| Yes/No | Is the man's hand on the woman's face in the image? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the color of the woman's dress? | Pink. |
+| What | What is the color of the wall in the background? | Blue. |
+| How | How are the man and woman positioned in the image? | They are standing and kissing, with the woman's hand on the man's face and the man's hand on the woman's face. |

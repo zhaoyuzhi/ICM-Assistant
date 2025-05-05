@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black and white polka dot dress? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person in the process of putting on stockings in the image? | Yes. |
+| Yes/No | Are the person's hands holding the stockings in place in the image? | Yes. |
+| Yes/No | Are the person's feet visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing in the image? | A black and white polka dot dress. |
+| What | What is the person doing in the image? | Putting on stockings. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How are the stockings being held in place in the image? | By the person's hands. |
+| Yes/No | Is the person in the image wearing a black and white polka dot dress? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person putting on stockings in the image? | Yes. |
+| Yes/No | Are the stockings being pulled up to the person's knees? | Yes. |
+| Yes/No | Are the person's hands holding the stockings in place? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing in the image? | A black and white polka dot dress and stockings. |
+| What | What is the person doing in the image? | Putting on stockings. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How are the stockings being put on in the image? | The person is holding them in place and they are pulled up to the knees. |

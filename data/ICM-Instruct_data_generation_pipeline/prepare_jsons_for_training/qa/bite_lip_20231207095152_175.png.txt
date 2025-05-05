@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Are the person's lips pink? | Yes. |
+| Yes/No | Are the person's teeth white? | Yes. |
+| Yes/No | Is the person's facial expression serious? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's lips? | Pink. |
+| What | What color are the person's teeth? | White. |
+| How | How does the close-up perspective enhance the image? | It allows the viewer to focus on the details of the person's lips and teeth, making the image more intimate and provocative. |
+| How | How does the person's serious expression contribute to the image's atmosphere? | It adds a sense of intensity and passion, which can be perceived as attractive. |

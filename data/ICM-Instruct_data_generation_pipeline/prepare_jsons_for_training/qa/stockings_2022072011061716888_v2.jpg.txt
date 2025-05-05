@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the person's legs spread apart? | Yes. |
+| Yes/No | Is the person reclining on a white fur rug? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the person's attire and pose suggestive of intimacy? | Yes. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| What | What is the person wearing on their feet? | Black heels. |
+| What | What is the color of the fur rug? | White. |
+| How | How is the person positioned on the rug? | Reclining with legs spread apart. |
+| How | How does the image create a sense of allure and mystery? | Through the combination of the person's attire and pose, as well as the contrast between the dark clothing and white rug. |

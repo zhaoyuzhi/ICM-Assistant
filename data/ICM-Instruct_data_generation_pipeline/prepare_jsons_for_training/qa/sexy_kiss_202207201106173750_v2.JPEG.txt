@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | Yes. |
+| Yes/No | Are the woman's hands on the man's face? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and passionate? | Yes. |
+| What | What is the color of the woman's shirt? | Gray. |
+| What | What is the expression on the couple's faces? | Passionate. |
+| How | How are the couple's hands positioned in the image? | The woman's hands are on the man's face, and the man's arms are wrapped around the woman's waist. |
+| How | How would you describe the overall atmosphere of the image? | Intimate and romantic. |

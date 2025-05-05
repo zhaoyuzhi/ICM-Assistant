@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Are the pants the woman is wearing high-waisted? | Yes. |
+| Yes/No | Is the crop top strapless? | Yes. |
+| Yes/No | Does the woman have a gold watch on her wrist? | Yes. |
+| Yes/No | Is the image sexy because of the woman's attire and pose? | Yes. |
+| Yes/No | Does the woman have her hands on her hips in the image? | Yes. |
+| What | What color are the pants the woman is wearing? | Gray. |
+| What | What type of watch is the woman wearing? | Gold. |
+| How | How does the woman's pose accentuate her waistline? | The woman's pose, with her hands on her hips, further accentuates her waistline. |
+| How | How does the gold watch add a touch of sophistication to the woman's look? | The gold watch adds a touch of sophistication to the woman's look by adding a luxurious and elegant element to her outfit. |

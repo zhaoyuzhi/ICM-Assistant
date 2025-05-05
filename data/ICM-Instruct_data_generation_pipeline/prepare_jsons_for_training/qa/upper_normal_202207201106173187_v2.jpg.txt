@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image bald? | Yes. |
+| Yes/No | Does the person have a beard? | Yes. |
+| Yes/No | Is the person wearing a red shirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is there a blue object to the right of the person? | Yes. |
+| Yes/No | Is the person's face clearly visible? | No. |
+| What | What color is the person's shirt? | Red. |
+| What | What is the object to the right of the person? | Blue. |
+| How | How is the person standing in the image? | Not specified in the description. |
+| How | How is the image's exposure level? | Very low. |

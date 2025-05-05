@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image create an intense and alluring atmosphere? | Yes. |
+| Yes/No | Is the black dress with a lace top a classic and elegant choice of clothing? | Yes. |
+| Yes/No | Does the image convey a sense of intrigue and desire? | Yes. |
+| What | What is the woman's facial expression in the image? | Serious. |
+| What | What is the woman wearing on her upper body? | A lace top. |
+| How | How is the woman's lip bitten in the image? | She is biting her lower lip. |
+| How | How does the image create an intense and alluring atmosphere? | Through the combination of the woman's serious expression, lip biting, and elegant clothing. |

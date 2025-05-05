@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a blue jacket? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Does the woman have a suggestive or provocative pose? | No. |
+| Yes/No | Does the woman have any visible tattoos or piercings? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman's clothing reveal any cleavage or bare skin? | No. |
+| What | What color is the woman's jacket? | Blue. |
+| What | What color is the woman's shirt? | White. |
+| How | How would you describe the woman's pose in the image? | Relaxed, neutral. |
+| How | How would you describe the overall atmosphere of the image? | Calm, neutral. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | No. |
+| Yes/No | Does the person have a tattoo? | Yes. |
+| Yes/No | Is the person looking directly at the camera? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the person have their finger inside their mouth? | Yes. |
+| What | What is the person's facial expression? | Focused and intimate. |
+| What | What is the color of the person's hair? | Brown. |
+| How | How is the person's finger positioned inside their mouth? | The person's finger is inserted between their lips and their mouth is slightly open. |
+| What | What atmosphere does the image create? | Sensual, intimate, alluring and intriguing. |

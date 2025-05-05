@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing white pants? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the image feature any explicit content? | No. |
+| Yes/No | Is the woman's pose in the image suggestive or sexual? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy or provocative? | No. |
+| What | What is the woman in the image wearing on her legs? | White pants cropped at the ankle. |
+| What | What is the woman in the image wearing on her upper body? | A white top. |
+| How | How is the woman standing in the image? | With her hands placed on her hips. |
+| How | How much of the woman's body is visible in the image? | A small portion, due to the low exposure level. |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Are the woman's pants white? | Yes. |
+| Yes/No | Does the woman's top match her pants? | No. |
+| Yes/No | Is the woman's pose suggestive or explicit? | No. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image depict any intimate details? | No. |
+| What | What color are the woman's pants? | White. |
+| What | What is the woman's pose in the image? | Neutral, with her hands resting in her pockets. |
+| How | How is the background of the image? | Blurred, making it indistinguishable and keeping the focus on the woman. |
+| What | What is the exposure level of the image? | Low, only a small portion of the woman's body is visible. |

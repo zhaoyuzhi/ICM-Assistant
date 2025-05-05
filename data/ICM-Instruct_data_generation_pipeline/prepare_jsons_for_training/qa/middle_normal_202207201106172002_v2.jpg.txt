@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image posing in a sexually suggestive way? | No. |
+| Yes/No | Does the image feature any explicit or intimate details? | No. |
+| Yes/No | Is the woman's left hand placed on her hip? | Yes. |
+| Yes/No | Is the woman's right hand resting on her thigh? | Yes. |
+| What | What is the woman's pose in the image? | The woman is standing with her left hand on her hip and her right hand resting on her thigh. |
+| What | What is the background of the image? | The background of the image is white. |
+| How | How does the woman's pose and attire contribute to the overall atmosphere of the image? | The woman's pose and attire contribute to a relaxed and casual atmosphere, which is emphasized by the white background. |
+| How | How does the image differ from a sexy image? | The image lacks any explicit or suggestive elements, and the woman's pose and attire are modest and do not reveal any intimate details, making it different from a sexy image. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the blouse cropped at the waist? | Yes. |
+| Yes/No | Is the woman's left hand resting on her hip? | Yes. |
+| Yes/No | Is the woman's right hand touching her thigh? | Yes. |
+| What | What is the woman's pose in the image? | Confident, with her left hand resting on her hip and her right hand lightly touching her thigh. |
+| What | What is the overall atmosphere of the image? | Simple and clean, with no explicit or suggestive content. |
+| How | How is the woman's attire in the image? | Modest and not revealing any intimate details. |
+| How | How does the white background emphasize the simplicity of the image? | It creates a clean and unassuming atmosphere, drawing attention to the woman's attire and pose rather than any explicit or suggestive content. |

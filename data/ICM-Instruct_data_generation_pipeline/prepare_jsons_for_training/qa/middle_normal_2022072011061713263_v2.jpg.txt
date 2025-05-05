@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's arms raised or bent? | No. |
+| Yes/No | Is the person wearing a bright or bold outfit? | No. |
+| Yes/No | Does the image depict a sexual or provocative scene? | No. |
+| Yes/No | Is the person's attire revealing or suggestive? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the person in the image wearing? | Khaki cargo pants and a white shirt. |
+| What | What is the overall atmosphere of the image? | Neutral and nonsexual. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |
+| How | How was the image taken? | From a low angle. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's arms raised or bent? | No. |
+| Yes/No | Is the person wearing anything that could be considered revealing or provocative? | No. |
+| Yes/No | Does the image have a sexual or explicit atmosphere? | No. |
+| Yes/No | Is the person's attire casual or formal? | Casual. |
+| Yes/No | Does the image focus primarily on the person's physical appearance? | No. |
+| What | What is the person wearing on their lower body? | Khaki cargo shorts. |
+| What | What is the person wearing on their upper body? | White shirt. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |
+| How | How would you describe the exposure level of the image? | Very low. |

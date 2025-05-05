@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing gray leggings? | Yes. |
+| Yes/No | Does the person have a mesh panel on their leggings? | Yes. |
+| Yes/No | Is the person wearing a pink sports bra? | Yes. |
+| Yes/No | Are the person's sneakers gray? | Yes. |
+| Yes/No | Is the person's pose in the image confident? | Yes. |
+| What | What color are the person's leggings? | Gray. |
+| What | What type of shoes is the person wearing? | Sneakers. |
+| How | How does the person's pose suggest they feel about their appearance? | Confident. |
+| How | How does the image make the viewer feel? | Sexy. |

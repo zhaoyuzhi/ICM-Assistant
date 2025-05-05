@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Are they walking in front of a building? | Yes. |
+| Yes/No | Is the woman's outfit casual and stylish? | Yes. |
+| Yes/No | Is the man's outfit formal and classic? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing on her top? | A strapless top. |
+| What | What is the man wearing on his bottom? | Blue jeans. |
+| How | How is the woman's outfit different from the man's? | The woman's outfit is casual and revealing, while the man's outfit is formal and coveredup. |
+| How | How does the building in the background enhance the atmosphere of the image? | The building adds an urban feel to the image, enhancing the sexy and stylish vibe of the couple walking together on the sidewalk. |

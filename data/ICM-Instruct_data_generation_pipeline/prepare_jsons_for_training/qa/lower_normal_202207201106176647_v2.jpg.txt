@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a skirt? | Yes. |
+| Yes/No | Are the boots brown? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the person's exposure level high? | No. |
+| Yes/No | Does the outfit consist of provocative or suggestive clothing? | No. |
+| What | What is the person wearing? | A denim skirt and brown boots. |
+| What | What is the overall atmosphere of the image? | Neutral and nonsexual. |
+| How | How is the person standing? | With their back to the camera. |
+| How | How would you describe the person's outfit? | Casual, consisting of a denim skirt and brown boots. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black tank top? | Yes. |
+| Yes/No | Is the skirt brown? | Yes. |
+| Yes/No | Are her legs spread apart? | Yes. |
+| Yes/No | Are her arms resting on her knees? | Yes. |
+| Yes/No | Is the tank top strapless? | Yes. |
+| Yes/No | Does the skirt expose her stomach? | Yes. |
+| What | What color is the woman's tank top? | Black. |
+| What | What is the woman's pose in the image? | Lying on the grass, with her legs spread apart and her arms resting on her knees. |
+| How | How does the woman's pose add to the allure of the image? | It shows off her body and creates a sense of confidence. |
+| How | How does the combination of the woman's attire and pose create a seductive atmosphere in the image? | The strapless tank top and midriffbaring skirt reveal her stomach, which is a common feature in sexy outfits, and her pose creates a sense of confidence, adding to the allure. |

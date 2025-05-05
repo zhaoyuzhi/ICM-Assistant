@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Is the woman wearing a purple dress? | Yes. |
+| Yes/No | Are the couple kissing passionately? | Yes. |
+| Yes/No | Is the woman positioned on the left side of the frame? | Yes. |
+| Yes/No | Is the man positioned on the right side of the frame? | Yes. |
+| Yes/No | Are the couple looking at each other? | Yes. |
+| What | What is the woman's head position? | Tilted back. |
+| What | What is the man's jacket color? | Black. |
+| How | How are the couple positioned on the couch? | The woman is seated on the left side, and the man is seated on the right side. |
+| How | How does the man's jacket contrast with the woman's dress? | The black jacket contrasts with the purple dress, adding visual interest to the scene. |

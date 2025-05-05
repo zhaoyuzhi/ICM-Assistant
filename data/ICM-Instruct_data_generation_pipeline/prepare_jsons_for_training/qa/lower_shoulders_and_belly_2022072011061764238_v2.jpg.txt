@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Are the woman's legs covered in the image? | Yes. |
+| Yes/No | Is the woman wearing a sports bra in the image? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Does the image have a plain white background? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy? | Yes. |
+| What | What color are the woman's leggings? | Blue. |
+| What | What is the woman's attire suggesting about her personality? | Athleticism and confidence. |
+| How | How are the woman's arms positioned in the image? | Relaxed at her sides. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the woman and her attire, creating a visually striking contrast. |

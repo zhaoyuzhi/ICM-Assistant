@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman's facial expression relaxed? | Yes. |
+| Yes/No | Is the atmosphere of the image confident? | Yes. |
+| Yes/No | Is the atmosphere of the image inviting? | Yes. |
+| What | What is the woman's facial expression? | Relaxed and carefree. |
+| What | What is the woman's pose associated with? | Confidence and playfulness. |
+| How | How does the woman's tongue sticking out contribute to the image's atmosphere? | It adds a sense of playfulness and confidence. |
+| How | How does the woman's relaxed facial expression contribute to the image's atmosphere? | It adds to the overall sense of comfort and approachability. |

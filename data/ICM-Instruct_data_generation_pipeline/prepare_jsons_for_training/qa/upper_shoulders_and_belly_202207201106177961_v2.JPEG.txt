@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the jeans she is wearing cropped at the ankle? | Yes. |
+| Yes/No | Is the t-shirt cropped at the waist? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the jeans the woman is wearing? | Blue. |
+| What | What is the woman's pose in the image? | She is posing with her hands on her hips. |
+| How | How is the woman's midriff exposed in the image? | Her midriff is exposed because she is wearing a strapless or midriffbaring outfit. |
+| How | How does the woman's pose contribute to the sexy atmosphere of the image? | Her pose with her hands on her hips suggests a sense of selfassuredness and confidence, which contributes to the sexy atmosphere. |

@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image fully nude? | No. |
+| Yes/No | Is the person in the image wearing a sweater? | Yes. |
+| Yes/No | Is the sweater green? | Yes. |
+| Yes/No | Does the sweater have a lace pattern? | Yes. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Is the person in the image standing in front of a building? | Yes. |
+| What | What is the main focus of the image? | The woman's sweater. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How is the woman's hair styled? | In a bun. |
+| How | How would you rate the level of nudity in the image? | Not sexy. |
+| Yes/No | Is the woman in the image wearing a sweater? | Yes. |
+| Yes/No | Does the sweater have a round neckline? | Yes. |
+| Yes/No | Are there buttons on the front of the sweater? | Yes. |
+| Yes/No | Is the woman wearing earrings? | Yes. |
+| Yes/No | Is the building in the background white? | Yes. |
+| Yes/No | Is the woman's face clearly visible in the image? | No. |
+| What | What is the primary color of the woman's sweater? | Light green. |
+| What | What type of pattern does the sweater have? | Lace. |
+| What | What is the overall atmosphere of the image? | Calm and nonprovocative. |

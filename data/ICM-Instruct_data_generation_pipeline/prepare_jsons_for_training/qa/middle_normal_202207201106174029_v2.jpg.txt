@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts the man is wearing predominantly green and white? | Yes. |
+| Yes/No | Does the pattern on the shorts include palm trees and flowers? | Yes. |
+| Yes/No | Is the man's pose in the image neutral? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the image considered sexy? | No. |
+| What | What is the man's attire in the image? | A white tshirt and tropical print shorts. |
+| What | What is the dominant color of the shorts? | Green. |
+| How | How are the man's hands positioned in the image? | They are casually tucked into his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Calm and relaxed. |
+| Yes/No | Is the man in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a t-shirt? | Yes. |
+| Yes/No | Does the man in the image have any explicit content? | No. |
+| Yes/No | Is the atmosphere of the image sexy or provocative? | No. |
+| Yes/No | Does the image contain any distracting elements? | No. |
+| Yes/No | Is the man's attire revealing or suggestive? | No. |
+| What | What color are the shorts the man is wearing? | Green and white. |
+| What | What is the pattern on the man's shorts? | Floral. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| What | What does the white background of the image emphasize? | The focus on the man and his clothing. |

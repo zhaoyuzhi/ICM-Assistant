@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image wearing a necklace? | Yes. |
+| Yes/No | Is the woman in the image taking a selfie? | Yes. |
+| Yes/No | Are the woman's fingernails painted yellow? | Yes. |
+| Yes/No | Does the image depict the woman's breast in a close-up manner? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What color are the woman's fingernails? | Yellow. |
+| How | How is the woman holding her cell phone? | Up to her face. |
+| How | How would you describe the woman's expression in the image? | Confident/Sexy. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the person moving away from the camera? | Yes. |
+| Yes/No | Does the image depict a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | A white shirt and black pants. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How are the person's clothes soaked? | It is not specified in the description, but it can be inferred that they have been in the water for some time. |
+| How | How does the image evoke feelings of comfort and closeness? | The person's vulnerability and intimacy, as well as the casual setting of the park, create a sense of relaxation and connection with the viewer. |

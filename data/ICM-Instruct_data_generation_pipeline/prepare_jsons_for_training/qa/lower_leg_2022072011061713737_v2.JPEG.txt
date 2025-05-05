@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the person wearing black shorts? | Yes. |
+| Yes/No | Are the person's sandals black? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assurance? | Yes. |
+| What | What color are the person's shorts? | Black. |
+| What | What type of footwear is the person wearing? | Sandals. |
+| How | How does the person's pose suggest confidence and self-assurance? | The person's legs are apart and their hands are placed on their hips, giving a sense of assertiveness and confidence. |
+| How | How does the image create a sense of allure and intrigue? | The combination of the confident pose, simple yet stylish attire, and the overall atmosphere creates a sense of allure and intrigue. |

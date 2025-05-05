@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports skirt? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman looking downwards in the image? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Does the woman's pose and attire suggest a sense of confidence and athleticism? | Yes. |
+| What | What color is the woman's sports bra and skirt? | Blue. |
+| What | What is the woman's gaze directed towards? | Downwards. |
+| How | How does the woman's hand on her hip accentuate her body? | It creates a sense of intimacy and draws attention to her curves. |
+| How | How does the image capture a moment of self-assuredness and confidence? | The woman's confident pose, athletic physique, and stylish attire all contribute to a sense of selfassurance and confidence in the image. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports skirt? | Yes. |
+| Yes/No | Are the woman's stomach muscles visible in the image? | Yes. |
+| Yes/No | Is the woman flexing her muscles in the image? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's sports bra and skirt? | Blue. |
+| What | What is the woman doing with her muscles in the image? | Flexing. |
+| How | How does the woman's attire contribute to the athletic theme of the image? | The blue sports bra and skirt suggest athleticism and fitness. |
+| How | How does the woman's flexing of her muscles suggest confidence and determination? | The woman's flexing of her muscles suggests confidence and determination because it showcases her strength and athletic ability. |

@@ -1,0 +1,23 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image sexually explicit? | No. |
+| Yes/No | Does the image feature nudity? | No. |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Does the image depict a candid moment? | Yes. |
+| Yes/No | Is the background cluttered? | No. |
+| Yes/No | Does the image feature a close-up of the woman's face? | No. |
+| What | What is the woman's hair color? | Brown. |
+| What | What is the color of the blazer? | Blue. |
+| How | How is the woman's gaze directed? | Off to the side. |
+| How | How would you describe the overall atmosphere of the image? | Calm and composed. |
+| How | How sexy is the image? | Mildly sexy. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman wearing a blue blazer? | Yes. |
+| Yes/No | Is the image exposed? | No. |
+| Yes/No | Does the image depict explicit or suggestive content? | No. |
+| Yes/No | Is the woman's expression cheerful and friendly? | Yes. |
+| What | What is the woman's attire in the image? | A blue blazer. |
+| What | What is the woman's facial expression in the image? | Smiling and looking off to the side. |
+| How | How is the woman's hair styled in the image? | Not specified in the description. |
+| How | How is the image exposed? | Very low, focusing on her face and upper body. |

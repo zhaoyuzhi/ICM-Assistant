@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Is the woman wearing a blue jacket? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are their lips touching? | Yes. |
+| Yes/No | Does the image depict an intimate moment between the man and woman? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the man and woman? | Yes. |
+| What | What is the man wearing? | A black jacket. |
+| What | What is the woman wearing? | A blue jacket. |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other, with the woman's arms wrapped around the man's waist. |
+| How | How are their lips touching? | Their lips are touching in a sensual, intimate manner. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the woman have a black and white striped pattern on her sleeves? | Yes. |
+| Yes/No | Is the woman wearing blue jean shorts? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Is the woman striking a pose with her hand on her hip? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| What | What color are the woman's shorts? | Blue. |
+| What | What is the pattern on the woman's sleeves? | Black and white stripes. |
+| How | How is the woman posing in the image? | With her hand on her hip and her head tilted to the side. |
+| What | What is the atmosphere created by the combination of the woman's outfit and pose? | Sexy and stylish. |

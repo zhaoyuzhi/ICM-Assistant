@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image kissing the woman? | Yes. |
+| Yes/No | Is the woman in the image wearing a striped shirt? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the couple standing close together in the image? | Yes. |
+| Yes/No | Is the woman's head tilted to the side in the image? | Yes. |
+| Yes/No | Does the image capture a tender and intimate moment between the couple? | Yes. |
+| What | What is the woman wearing in the image? | A striped shirt. |
+| What | What is the man wearing in the image? | A white shirt. |
+| How | How is the woman's head positioned in the image? | Tilted to the side. |
+| How | How are the couple positioned in the image? | Standing close together. |

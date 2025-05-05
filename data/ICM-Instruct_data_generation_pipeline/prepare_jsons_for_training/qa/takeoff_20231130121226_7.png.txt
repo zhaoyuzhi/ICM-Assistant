@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a floral dress? | Yes. |
+| Yes/No | Is the person in the image taking off their dress? | Yes. |
+| Yes/No | Are the person's undergarments visible in the image? | Yes. |
+| Yes/No | Is the person wearing a black face mask? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person's long black hair visible in the image? | Yes. |
+| What | What is the person in the image taking off? | Their floral dress. |
+| What | What is the person in the image wearing on their face? | A black face mask. |
+| How | How is the person in the image taking off their dress? | They are pulling it down from the shoulders. |
+| How | How does the image make the viewer feel? | It creates a visually appealing and seductive atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a striped dress? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman's attire revealing or provocative? | No. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What is the woman carrying over her shoulder? | A red purse. |
+| What | What is the woman's hairstyle? | A short bob. |
+| How | How is the woman positioned in the image? | She is standing. |
+| How | How would you describe the overall atmosphere of the image? | Professional and formal. |

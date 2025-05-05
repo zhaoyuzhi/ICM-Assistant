@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's movements discernible from the image? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire modest? | Yes. |
+| Yes/No | Does the backdrop of the image feature a garden or field with flowers? | Yes. |
+| What | What is the person wearing in the image? | A black shirt and black shorts. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| How | How is the person's attire in the image? | Simple and modest. |
+| How | How does the backdrop of the image add to the overall atmosphere? | It adds a sense of tranquility to the scene. |
+| Yes/No | Is the person in the image wearing a pair of black shorts and a black shirt? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Does the image feature any visible skin or cleavage? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and serene? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the person in the image wearing? | A pair of black shorts and a black shirt. |
+| What | What is the focus of the image? | The person's attire. |
+| How | How is the person standing in the image? | The person is standing in front of a backdrop of flowers. |
+| How | How does the image convey a sense of calm and serenity? | The image features a modestly dressed person standing in front of a peaceful backdrop, with a low exposure level and a focus on the person's attire rather than their appearance. |

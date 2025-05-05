@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's top black? | Yes. |
+| Yes/No | Are the jeans high-waisted? | Yes. |
+| Yes/No | Does the image have a blurred background? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person have a slim fit? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What is the person wearing on their upper body? | A black top. |
+| How | How are the jeans fitting the person? | They have a slim fit and accentuate the person's waistline. |
+| How | How does the image create a sense of intimacy and allure? | The closeup nature of the image, combined with the person's attire, creates a sense of intimacy and allure. The highwaisted jeans and the person's posture suggest confidence and selfassuredness, which are often associated with sexy images. The blurred background further emphasizes the person and their attire, making them the central focus of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing lipstick? | Yes. |
+| Yes/No | Is the woman's facial expression playful? | Yes. |
+| Yes/No | Is the woman's finger inside her mouth? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual? | Yes. |
+| Yes/No | Does the pink lipstick add to the overall allure of the image? | Yes. |
+| Yes/No | Is the woman's expression seductive? | Yes. |
+| What | What color is the lipstick? | Pink. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| How | How is the woman's finger positioned in the image? | She is sticking her finger inside her mouth. |
+| How | How does the pink lipstick enhance the image? | It adds a touch of color and allure to her appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the person in the image lifting a barbell? | Yes. |
+| Yes/No | Is the person in the image facing away from the camera? | Yes. |
+| Yes/No | Does the image highlight the person's athletic physique? | Yes. |
+| Yes/No | Is the atmosphere of the image intense and powerful? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image lifting? | A barbell. |
+| What | What color are the person's leggings? | Gray. |
+| How | How is the person's strength emphasized in the image? | Through their action of lifting the barbell. |
+| How | How does the image evoke a sense of admiration for the person's dedication to fitness and health? | By showcasing their determination and focus on their workout. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image dressed in traditional Chinese clothing? | Yes. |
+| Yes/No | Does the man have long hair and a beard? | Yes. |
+| Yes/No | Is the background of the image light orange? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Does the image convey a sense of focus or importance? | Yes. |
+| What | What is the man in the image pointing at? | Something indicative of focus or importance. |
+| What | What is the cultural context of the image? | Formal or cultural, rather than sensual or provocative. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It adds a warm and inviting atmosphere. |
+| How | How does the traditional clothing and low exposure level suggest a formal or cultural context? | They emphasize modesty and restraint rather than sensuality or revealing nature. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Does the sports bra have a mesh panel on the back? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the woman's sports bra and skirt? | Black. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips. |
+| How | How does the mesh panel on the back of the sports bra add a unique touch to the woman's outfit? | It adds a seethrough element that reveals the woman's skin tone and creates a sense of openness. |
+| How | How does the woman's pose convey a sense of strength and self-assuredness? | Her confident stance and placement of her hands on her hips creates a powerful and assertive image. |

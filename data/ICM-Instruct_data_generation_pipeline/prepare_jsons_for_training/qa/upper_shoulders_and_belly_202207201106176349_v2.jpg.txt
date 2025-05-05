@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black off-the-shoulder top? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman posing with her hair flowing behind her? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| Yes/No | Is the woman's attire and pose suggestive of confidence and allure? | Yes. |
+| Yes/No | Is the black off-the-shoulder top a strapless outfit? | Yes. |
+| What | What is the woman wearing in the image? | A black offtheshoulder top and loose waves hair style. |
+| What | What is the overall atmosphere of the image? | Seductive and alluring. |
+| How | How is the woman posing in the image? | With her hair flowing behind her, creating a sense of movement and dynamism. |
+| How | How does the combination of the woman's attire and pose create a visually appealing image? | The black offtheshoulder top and loose waves hair style, combined with the woman's pose, create a sense of confidence and allure that evokes a seductive and alluring atmosphere. |

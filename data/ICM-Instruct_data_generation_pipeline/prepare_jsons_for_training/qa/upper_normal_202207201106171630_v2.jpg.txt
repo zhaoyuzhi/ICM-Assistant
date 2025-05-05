@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | No. |
+| Yes/No | Are the women looking at the camera? | No. |
+| Yes/No | Is the train in motion? | Yes. |
+| Yes/No | Is the image taken during the day? | Yes. |
+| Yes/No | Is the train passenger-filled? | No. |
+| Yes/No | Are the women smiling? | No. |
+| What | What are the women looking at? | The passing scenery. |
+| What | What are the women wearing? | White sweater, scarf (left), white blouse (right). |
+| How | How are the women positioned in the train? | They are sitting. |
+| How | How would you describe the atmosphere of the image? | Calm and serene. |

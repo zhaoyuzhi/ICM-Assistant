@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman's facial expression playful and flirtatious? | Yes. |
+| Yes/No | Is the woman wearing a blue off-the-shoulder top? | Yes. |
+| Yes/No | Is the woman's hair long and brown? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Is the woman looking directly into the camera? | Yes. |
+| What | What is the woman's facial expression? | Playful and flirtatious. |
+| What | What is the woman wearing? | A blue offtheshoulder top. |
+| How | How is the woman's hair styled? | Long and straight. |
+| How | How is the woman's expression created? | By biting her lip and smiling. |

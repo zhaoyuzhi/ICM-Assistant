@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing gray sweatpants? | Yes. |
+| Yes/No | Is the woman's shirt open, revealing her midriff? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's pose in the image suggestive or provocative? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and non-threatening? | Yes. |
+| What | What is the woman's attire in the image? | Gray sweatpants with a drawstring waist and a white shirt. |
+| What | What is the woman's pose in the image? | Holding her shirt open, revealing her midriff. |
+| How | How does the woman's attire suggest a casual, everyday setting? | The gray sweatpants and white shirt are casual, everyday clothing items, and the drawstring waist and open shirt suggest a relaxed, comfortable atmosphere. |
+| How | How does the image's low exposure level emphasize its non-sexual nature? | The lack of revealing clothing or explicit content in the image, combined with the woman's casual pose and attire, contribute to a low exposure level that suggests a nonsexual, everyday setting. |
+| Yes/No | Is the woman in the image wearing gray sweatpants? | Yes. |
+| Yes/No | Does the woman have a drawstring at the waist of her sweatpants? | Yes. |
+| Yes/No | Is the woman wearing a gray sweatshirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the image low-key? | Yes. |
+| What | What is the main subject of the image? | The woman's attire, consisting of a gray sweatshirt and sweatpants. |
+| What | What is the atmosphere of the image? | Lowkey and nonsexual. |
+| How | How does the woman's outfit complement her appearance? | The gray sweatshirt and sweatpants provide a comfortable and complementary outfit for the woman. |
+| How | How does the image portray the woman's attire? | The image focuses on the woman's outfit rather than her body, portraying it in a nonsexual and lowkey manner. |

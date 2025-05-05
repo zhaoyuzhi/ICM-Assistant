@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black baseball cap? | Yes. |
+| Yes/No | Is the person in the image wearing camouflage pants? | Yes. |
+| Yes/No | Is the person in the image lifting their clothes? | Yes. |
+| Yes/No | Is the person in the image holding a red object? | Yes. |
+| Yes/No | Is the background of the image a black wall with a white logo? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image holding in their hand? | A red object. |
+| What | What is the color of the person's tank top? | Black. |
+| How | How is the person lifting their clothes? | Revealing their underwear. |
+| How | How does the red object in the person's hand add to the visual appeal of the image? | It adds a pop of color to the otherwise monochrome scene, enhancing the visual appeal. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man lifting a barbell with both arms? | Yes. |
+| Yes/No | Is the image set in a gym? | Yes. |
+| Yes/No | Is there a Chinese advertisement in the background? | Yes. |
+| Yes/No | Does the image depict a sexy atmosphere? | Yes. |
+| What | What is the man lifting in the image? | A barbell. |
+| What | What is the cultural context of the image? | Chinese. |
+| How | How many arms is the man using to lift the barbell? | Two. |
+| How | How is the image depicting a sexy atmosphere? | Through the combination of the topless man, gym setting, barbell, and Chinese advertisement. |

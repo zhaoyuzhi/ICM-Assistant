@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the person lifting their shirt? | Yes. |
+| Yes/No | Is the person wearing a blue face mask? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's shirt? | Black. |
+| What | What is the person lifting their shirt revealing? | Their stomach. |
+| How | How is the person lifting their shirt? | Seductively. |
+| What | What atmosphere does the image create? | Sensuality and allure. |

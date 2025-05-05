@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pair of tan cargo shorts? | Yes. |
+| Yes/No | Is the woman wearing a black belt? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color are the woman's shorts? | Tan. |
+| What | What is the woman's tank top color? | White. |
+| How | How many pockets do the woman's shorts have? | Multiple. |
+| What | What does the woman's pose suggest about her demeanor? | Confidence and selfassuredness. |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Are the shorts the woman is wearing made of a sturdy material? | Yes. |
+| Yes/No | Is the woman wearing a black belt? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's pose revealing? | No. |
+| Yes/No | Does the image suggest a sense of self-assuredness and style? | Yes. |
+| What | What color are the shorts the woman is wearing? | Tan. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How many pockets do the shorts have? | Multiple. |
+| How | How is the woman's belt fastened? | Around her waist. |

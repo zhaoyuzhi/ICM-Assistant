@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a trench coat? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the woman have a belt around her waist? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and professional? | Yes. |
+| Yes/No | Does the image have a sexy or provocative tone? | No. |
+| What | What is the woman wearing around her waist? | A brown belt. |
+| What | What is the dominant color of the woman's trench coat? | Beige. |
+| How | How is the woman's attire in the image described? | Business casual. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the professional and nonsexual nature of the image, focusing on the woman's outfit and the building behind her rather than her appearance or body. |
+| Yes/No | Is the woman in the image wearing a trench coat? | Yes. |
+| Yes/No | Is the woman's purse brown? | Yes. |
+| Yes/No | Are the buttons on the woman's trench coat brown? | Yes. |
+| Yes/No | Is the woman's blouse white? | Yes. |
+| Yes/No | Is the building in the background white? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the woman holding in her hand? | A brown purse. |
+| What | What is the color of the woman's trench coat? | Beige. |
+| How | How is the woman dressed? | Modestly, in a trench coat, blouse, and belt. |
+| What | What is the atmosphere of the image? | Neutral. |

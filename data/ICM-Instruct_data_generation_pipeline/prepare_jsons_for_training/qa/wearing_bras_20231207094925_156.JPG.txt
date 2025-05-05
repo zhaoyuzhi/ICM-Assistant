@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra black? | No. |
+| Yes/No | Does the bra have a unique design? | Yes. |
+| Yes/No | Does the bra have a cutout in the back? | Yes. |
+| Yes/No | Is the woman adjusting the straps of the bra? | Yes. |
+| Yes/No | Are the black pants the woman is wearing, tight-fitting? | Yes. |
+| What | What color are the pants the woman is wearing? | Black. |
+| What | What is the unique design element of the bra? | A cutout in the back. |
+| How | How is the woman adjusting the bra straps? | With her hands on her back. |
+| What | What does the woman's pose suggest? | Confidence and allure. |
+| Yes/No | Is the woman in the image wearing a pink bra? | Yes. |
+| Yes/No | Does the bra have a unique design? | Yes. |
+| Yes/No | Is the bra revealing? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have her hands on her back, adjusting the straps of the bra? | Yes. |
+| What | What color are the woman's pants? | Black. |
+| What | What is the design on the back of the bra? | A cutout. |
+| How | How is the woman adjusting the straps of the bra? | She is putting them on. |
+| What | What does the woman's pose suggest? | Confidence and allure. |

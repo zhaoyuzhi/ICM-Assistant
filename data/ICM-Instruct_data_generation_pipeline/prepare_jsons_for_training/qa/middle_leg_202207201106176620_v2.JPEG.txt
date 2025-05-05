@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing pink shorts? | Yes. |
+| Yes/No | Does the woman have a zipper on her shorts? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Is the woman standing against a pink fence? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the woman's shorts? | Pink. |
+| What | What is the color of the woman's top? | White. |
+| How | How is the woman's confidence and allure conveyed in the image? | Through her pose and attire. |
+| How | How does the background complement the woman's outfit? | The pink fence provides a soft, contrasting backdrop. |

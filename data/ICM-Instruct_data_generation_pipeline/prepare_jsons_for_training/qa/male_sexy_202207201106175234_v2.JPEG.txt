@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the picture a female? | No. |
+| Yes/No | Is the person in the picture wearing a shirt? | No. |
+| Yes/No | Is the background of the image black? | No. |
+| Yes/No | Are there other people in the picture? | No. |
+| Yes/No | Is the person in the picture standing? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What color are the boxer briefs the person is wearing? | Blue and black. |
+| What | What part of the body does the image mainly focus on? | Torso and lower half of the body. |
+| How | How is the atmosphere of the image? | Sensual and provocative. |
+| How | How does the image highlight the physical attributes of the person? | Through the emphasis on the person's muscular physique and the intimate nature of the underwear they are wearing. |

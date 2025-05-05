@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sweater? | Yes. |
+| Yes/No | Is the sweater cropped at the waist? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Is the woman wearing red lipstick? | Yes. |
+| Yes/No | Is the woman's left arm raised? | Yes. |
+| Yes/No | Is the woman's right arm resting on her hip? | Yes. |
+| What | What color is the sweater? | Brown. |
+| What | What color is the graphic on the sweater? | Blue and orange. |
+| How | How is the woman's pose in the image? | Confident and selfassured. |
+| How | How does the combination of the cropped sweater, blue jeans, and red lipstick contribute to the image's atmosphere? | It creates a bold and stylish look that is both eyecatching and alluring. |

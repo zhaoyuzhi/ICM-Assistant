@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image blonde? | Yes. |
+| Yes/No | Are the person's eyes closed? | Yes. |
+| Yes/No | Is the person pouting? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Does the person's expression suggest confidence? | Yes. |
+| What | What color is the person's hair? | Blonde. |
+| What | What is the person's facial expression? | Pouting, seductive. |
+| How | How are the person's lips posed? | Puckered, as if kissing. |
+| How | How does the contrast between the white shirt and blonde hair affect the image? | Accentuates the person's lips, adds to the overall seductive atmosphere. |

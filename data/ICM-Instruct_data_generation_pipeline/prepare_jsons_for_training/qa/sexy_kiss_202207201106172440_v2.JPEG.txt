@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the people in the image kissing? | Yes. |
+| Yes/No | Is the man wearing a black suit? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Are there lights visible in the distance? | Yes. |
+| What | What is the gender of the people in the image? | The people in the image are a man and a woman. |
+| What | What is the color of the man's suit? | The man's suit is black. |
+| How | How are the people positioned in the image? | The man and woman are standing close to each other, with the woman's hand on the man's chin. |
+| How | How does the background of the image contribute to the overall atmosphere? | The dark background and few lights in the distance add to the overall atmosphere, creating a sense of mystery and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Are the woman's hands raised in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the woman's attire and posture suggest a friendly and approachable demeanor? | Yes. |
+| Yes/No | Is the image sexy based on the woman's attire and overall atmosphere? | Yes. |
+| What | What color is the woman's shirt? | Blue. |
+| What | What is the length of the woman's skirt? | Short. |
+| How | How are the woman's hands positioned in the image? | Raised. |
+| How | How would you describe the woman's demeanor in the image? | Friendly and approachable. |

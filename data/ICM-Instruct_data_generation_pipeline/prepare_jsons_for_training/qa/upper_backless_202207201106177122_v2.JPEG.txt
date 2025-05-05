@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Are blue jeans worn by the woman? | Yes. |
+| Yes/No | Is the woman's hair pulled back? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and vulnerability? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman's pose in the image? | She is looking over her shoulder. |
+| How | How does the woman's hair look in the image? | It is pulled back. |
+| How | How does the image make you feel? | It creates a sense of intimacy and vulnerability, and it is sexy. |

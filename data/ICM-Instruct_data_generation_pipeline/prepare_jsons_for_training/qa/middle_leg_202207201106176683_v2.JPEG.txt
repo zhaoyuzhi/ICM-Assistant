@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the woman in the image have a belt around her waist? | Yes. |
+| Yes/No | Is the woman in the image holding a black purse? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a gray wall? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What color is the woman's skirt? | Brown. |
+| What | What is the woman holding in her right hand? | A black purse. |
+| How | How is the woman's left hand positioned? | On her hip. |
+| How | How does the belt around the woman's waist contribute to the overall look of the image? | It adds an element of sophistication to her outfit and draws attention to her waist and hips. |

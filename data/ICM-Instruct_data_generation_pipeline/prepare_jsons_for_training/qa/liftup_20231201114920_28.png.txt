@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the central figure in the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman wearing blue underwear? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Does the woman have a dark skin tone? | Yes. |
+| What | What is the woman holding up with both hands? | Her white tshirt. |
+| What | What color is the woman's underwear? | Blue. |
+| How | How is the woman standing in the image? | She is standing against a white background. |
+| How | How does the image create a sense of intimacy and vulnerability? | The woman's pose of lifting her tshirt up with both hands and exposing her underwear creates a sense of intimacy and vulnerability. |

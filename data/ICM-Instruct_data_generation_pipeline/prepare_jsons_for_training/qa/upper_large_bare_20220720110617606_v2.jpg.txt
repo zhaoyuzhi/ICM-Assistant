@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a thong? | Yes. |
+| Yes/No | Is the towel the woman is lying on green? | Yes. |
+| Yes/No | Is the woman's body exposed in the image? | Yes. |
+| Yes/No | Does the image suggest a relaxed atmosphere? | Yes. |
+| Yes/No | Does the image suggest a sexy atmosphere? | Yes. |
+| What | What color is the woman's bra? | Black. |
+| What | What color is the woman's thong? | Black. |
+| How | How is the woman's body exposed in the image? | Her stomach and chest are exposed. |
+| How | How does the image create a sense of allure and sensuality? | Through the combination of the woman's attire and the beach setting. |

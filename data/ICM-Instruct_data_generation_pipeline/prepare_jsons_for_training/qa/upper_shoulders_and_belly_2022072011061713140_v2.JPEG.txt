@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the woman's jeans? | Blue. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| How | How is the woman's top styled? | Strapless. |
+| How | How is the woman posing in the image? | Looking directly at the camera. |

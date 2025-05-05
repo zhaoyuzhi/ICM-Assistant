@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red blazer? | Yes. |
+| Yes/No | Is the woman standing in front of a blue background? | Yes. |
+| Yes/No | Does the woman appear to be speaking into a microphone? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image suggest a formal setting? | Yes. |
+| Yes/No | Is the woman's attire professional? | Yes. |
+| What | What is the woman speaking into? | A microphone. |
+| What | What is the purpose of the event where the woman is speaking? | A business or educational event. |
+| How | How is the woman's attire contributing to the professional atmosphere of the image? | The woman's red blazer and white shirt are formal and modest, suggesting a professional demeanor. |
+| How | How does the low exposure level of the image contribute to the overall atmosphere? | The low exposure level of the image emphasizes the woman's actions and the content of her speech, creating an atmosphere that is more focused on the message she is conveying rather than her physical appearance. |

@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image exposing their skin? | Yes. |
+| Yes/No | Is the person wearing revealing clothing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person lifting their shirt and jacket revealing? | Their skin. |
+| What | What is the person wearing? | A pink jacket and white pants. |
+| How | How is the person standing? | They are standing on a stage. |
+| What | What is the person holding in their hand? | A microphone. |

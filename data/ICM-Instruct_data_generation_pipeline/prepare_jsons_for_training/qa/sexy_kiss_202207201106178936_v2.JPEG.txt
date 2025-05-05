@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a necklace? | Yes. |
+| Yes/No | Is the woman wearing a pearl earring? | Yes. |
+| Yes/No | Does the man have a tattoo on his left arm? | Yes. |
+| Yes/No | Is the woman biting the man's nose? | Yes. |
+| Yes/No | Is the man holding a strawberry in his mouth? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the man holding in his mouth? | A strawberry. |
+| What | What is the woman wearing on her nose? | A nose piercing. |
+| How | How is the background of the image blurred? | The background is blurred to create a sense of intimacy and privacy. |
+| How | How does the image evoke a sense of desire and romance? | The image evokes a sense of desire and romance through the passionate moment captured between the man and woman, the edgy elements of the woman's nose piercing and the man's tattoo, and the playful and unexpected element of the strawberry in the man's mouth, combined with the blurred background that creates a sense of intimacy and privacy. |

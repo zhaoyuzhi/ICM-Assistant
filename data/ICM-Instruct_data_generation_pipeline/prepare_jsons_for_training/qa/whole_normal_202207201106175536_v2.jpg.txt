@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a camouflage outfit? | Yes. |
+| Yes/No | Is the woman holding a cell phone? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and comfortable? | Yes. |
+| Yes/No | Is the focus of the image on the woman's appearance? | No. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| What | What is the woman doing with her cell phone? | Texting or browsing social media. |
+| What | What is the purpose of the camouflage outfit? | To create a relaxed and informal setting. |
+| How | How is the woman positioned on the couch? | She is sitting in a relaxed position. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the woman's actions and the casual atmosphere of the scene. |

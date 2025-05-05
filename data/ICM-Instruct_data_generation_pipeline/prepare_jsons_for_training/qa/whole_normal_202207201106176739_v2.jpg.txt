@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a jacket? | Yes. |
+| Yes/No | Is the jacket blue and green? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun? | Yes. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| Yes/No | Is the atmosphere of the image calm and relaxed? | Yes. |
+| Yes/No | Is the image intended to be provocative or sensual? | No. |
+| What | What is the woman sitting on in the image? | A chair. |
+| What | What is the primary color of the woman's jacket? | Blue. |
+| How | How is the woman's hair styled in the image? | In a bun. |
+| How | How would you describe the overall atmosphere of the image? | Calm and relaxed. |

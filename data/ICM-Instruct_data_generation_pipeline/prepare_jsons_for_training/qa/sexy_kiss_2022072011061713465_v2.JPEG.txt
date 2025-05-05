@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are they standing in the water? | Yes. |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Is the water dark blue? | Yes. |
+| Yes/No | Does the image convey a sense of tranquility? | Yes. |
+| What | What is the color of the couple's attire? | White. |
+| What | What is the color of the water? | Dark blue. |
+| How | How are the couple standing in the water? | They are both standing in the water, with the woman's arms wrapped around the man's neck. |
+| How | How does the image convey a sense of intimacy and connection between the couple? | The close proximity of the couple and their passionate kiss suggest a strong emotional connection. |

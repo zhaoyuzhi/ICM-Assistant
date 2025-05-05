@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of light pink sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Does the person in the image have their hand on their hip? | Yes. |
+| Yes/No | Is the person in the image looking downwards? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the image low-key? | Yes. |
+| What | What is the color of the person's sweatpants? | Light pink. |
+| What | What is the color of the person's shirt? | Green. |
+| How | How is the person's hand positioned in the image? | Placed on their hip. |
+| How | How is the person looking in the image? | Looking downwards. |
+| Yes/No | Is the person in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Does the person in the image have a drawstring at the waist of their pants? | Yes. |
+| Yes/No | Are the person's hands resting at their sides in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and neutral? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What color are the person's pants in the image? | Beige. |
+| What | What is the color of the person's shirt in the image? | Green. |
+| How | How are the person's pants fastened at the waist? | With a drawstring. |
+| How | How would you describe the person's pose in the image? | Neutral. |

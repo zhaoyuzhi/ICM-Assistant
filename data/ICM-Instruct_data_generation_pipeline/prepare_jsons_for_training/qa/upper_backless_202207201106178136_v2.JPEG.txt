@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bikini top? | Yes. |
+| Yes/No | Is the woman standing on a wooden pier? | Yes. |
+| Yes/No | Is the water in the image a bright blue color? | Yes. |
+| Yes/No | Are there buildings visible in the background of the image? | Yes. |
+| Yes/No | Is the woman facing away from the camera? | Yes. |
+| Yes/No | Does the image have a sexy and captivating atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her top? | A black bikini top. |
+| What | What is the color of the water in the image? | Bright blue. |
+| How | How is the woman's hair styled in the image? | Pulled back into a bun. |
+| How | How does the image capture a moment of beauty and allure? | Through the combination of the woman's attire and the setting, which work together to create a sexy and captivating atmosphere. |

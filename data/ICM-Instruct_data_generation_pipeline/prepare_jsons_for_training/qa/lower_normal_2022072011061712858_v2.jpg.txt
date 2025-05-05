@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image carrying a shopping bag? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the dress the woman is wearing black and white? | Yes. |
+| Yes/No | Does the shopping bag contain a box of cookies? | Yes. |
+| Yes/No | Is the woman's movement casual and unhurried? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and everyday? | Yes. |
+| What | What is the woman carrying in her shopping bag? | A box of cookies. |
+| What | What is the color of the shopping bag the woman is carrying? | Red and white. |
+| How | How is the woman's hair styled in the image? | Pulled back into a ponytail. |
+| How | How would you describe the woman's movements in the image? | Casual and unhurried. |

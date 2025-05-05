@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the woman in the image holding her shirt open? | Yes. |
+| Yes/No | Is the bathroom in the image tiled with white tile? | Yes. |
+| Yes/No | Is there a mirror visible in the background of the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's bra? | Blue and white checkered. |
+| What | What is the woman doing with her shirt? | Holding it open with both hands. |
+| How | How many hands is the woman using to hold her shirt open? | Two. |
+| How | How does the bathroom setting contribute to the image's atmosphere? | It adds an intimate and private atmosphere that enhances the sexy feel of the image. |

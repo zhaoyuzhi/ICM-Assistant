@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the shirt have the word "Balenciaga" written on it? | Yes. |
+| Yes/No | Is the shirt cropped, revealing the woman's midriff? | Yes. |
+| Yes/No | Are the woman's shorts torn at the knees? | Yes. |
+| Yes/No | Is the woman carrying a brown purse? | Yes. |
+| Yes/No | Is the woman moving towards the right side of the image? | Yes. |
+| What | What is the woman's attire in the image? | Black cropped shirt and denim shorts. |
+| What | What is the woman's confident stride? | Sexy. |
+| How | How does the black cropped shirt and denim shorts reveal the woman's midriff? | The shirt is cropped, and the shorts are torn at the knees. |
+| How | How does the woman's confident walk and overall appearance create a sexy atmosphere in the image? | The woman's confident walk and her overall appearance, including her attire, create a sexy atmosphere in the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of gray leggings? | Yes. |
+| Yes/No | Is the woman standing in front of a large circle? | Yes. |
+| Yes/No | Are her arms relaxed at her sides? | Yes. |
+| Yes/No | Are her legs slightly apart? | Yes. |
+| Yes/No | Is the background a gradient of pink and purple? | Yes. |
+| Yes/No | Does the image suggest any form of intimacy? | No. |
+| What | What is the woman wearing on her feet? | White sneakers. |
+| What | What is the color of the background? | A gradient of pink and purple. |
+| How | How is the woman standing in the image? | With her legs slightly apart and her arms relaxed at her sides. |
+| How | How does the image portray the woman's pose and attire? | As casual and comfortable. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Do the contrasting colors of the leggings and sneakers draw attention to the person's body? | Yes. |
+| What | What color are the person's leggings? | Blue. |
+| What | What color are the person's sneakers? | White. |
+| How | How does the person's pose and attire create a sense of intimacy and vulnerability? | The person's exposed belly and casual attire suggest a relaxed and vulnerable atmosphere. |
+| How | How does the contrasting color scheme of the leggings and sneakers draw attention to the person's body? | The contrasting colors create a visual focal point on the person's body, drawing attention to their shape and form. |

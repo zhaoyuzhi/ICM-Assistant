@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Is the top tied around the person's back? | Yes. |
+| Yes/No | Is the person standing in a desert-like environment? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the large area of the person's back exposed create a sense of vulnerability? | Yes. |
+| Yes/No | Does the desert-like environment add a sense of mystery and intrigue? | Yes. |
+| What | What is the color of the top the person is wearing? | White. |
+| What | What is the background of the image? | Sandy. |
+| How | How is the person's back exposed in the image? | The top is tied around their back, creating an interesting visual effect. |
+| How | How does the contrast between the white top and the sandy background accentuate the exposed area of the person's back? | It makes the exposed area the focal point of the image, creating a sense of allure and mystery. |

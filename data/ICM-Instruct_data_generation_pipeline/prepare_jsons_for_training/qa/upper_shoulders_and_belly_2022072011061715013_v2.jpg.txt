@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman wearing a gold bracelet? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| Yes/No | Does the woman have a slight smile on her face? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her wrist? | A gold bracelet. |
+| What | What is the woman's hair style? | Loose waves. |
+| How | How is the woman's demeanor? | Relaxed and confident. |
+| How | How does the woman's pose contribute to the image's sexiness? | Her pose, with her head turned to the side and a slight smile on her face, gives off a relaxed and confident vibe that contributes to the image's sexiness. |

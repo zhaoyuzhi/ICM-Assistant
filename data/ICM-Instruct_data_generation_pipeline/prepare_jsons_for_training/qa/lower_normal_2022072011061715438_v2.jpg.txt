@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of black pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white sock? | Yes. |
+| Yes/No | Are the sneakers blue and white in color? | Yes. |
+| Yes/No | Is the person in the image wearing a colorful sock? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person in the image posing in a provocative or seductive way? | No. |
+| What | What is the color of the person's sneakers? | Blue and white. |
+| What | What is the pattern on the person's colorful sock? | Orange, green, and blue. |
+| How | How is the person standing in the image? | With their legs slightly apart. |
+| What | What is the exposure level of the person in the image? | Very low. |

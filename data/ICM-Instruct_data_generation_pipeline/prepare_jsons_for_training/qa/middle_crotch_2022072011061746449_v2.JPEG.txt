@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing clothes? | No. |
+| Yes/No | Is the person in the image lying on a white surface? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the person in the image wearing? | Underwear. |
+| What | What is the focus of the image? | The person's lower body. |
+| How | How is the person positioned in the image? | The person is lying down. |
+| How | How does the white surface contrast with the person's skin? | The white surface provides a stark contrast to the person's skin, emphasizing the focus on the lower body. |

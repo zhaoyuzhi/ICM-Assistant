@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the bikini top reveal a significant amount of the woman's upper body? | Yes. |
+| Yes/No | Is the atmosphere of the image relaxed and leisurely? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing? | A white bikini top. |
+| What | What is the setting of the image? | A beach. |
+| How | How is the woman standing? | She is standing confidently. |
+| How | How does the woman appear to be feeling? | She appears to be enjoying and relaxing herself. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image standing in a living room? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the woman adjusting the straps of her bra with both hands? | Yes. |
+| Yes/No | Is the potted plant in the background a symbol of growth and vitality? | Yes. |
+| Yes/No | Does the image have a sexy and alluring feel to it? | Yes. |
+| What | What is the woman in the image wearing? | A pink bra and pink underwear. |
+| What | What is the setting of the image? | A living room with a couch and a potted plant. |
+| How | How is the woman adjusting her bra? | She is using both hands to adjust the straps. |
+| How | How does the image convey a sense of intimacy and vulnerability? | The woman is in the process of putting on her bra, a personal and private act, and the image captures a moment of vulnerability and sensuality. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Is the woman in the image adjusting her bra straps? | Yes. |
+| Yes/No | Is the image set in a living room? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What is the woman in the image wearing? | A pink bra and pink underwear. |
+| What | What is the color of the potted plant in the background? | Green. |
+| How | How is the woman adjusting her bra straps? | With both hands. |
+| How | How does the image capture the woman's moment of intimacy and vulnerability? | By depicting her in the process of putting on her bra, a personal and private act. |

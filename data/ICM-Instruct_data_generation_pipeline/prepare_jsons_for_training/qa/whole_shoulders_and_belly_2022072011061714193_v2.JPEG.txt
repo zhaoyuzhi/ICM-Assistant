@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a white off-the-shoulder blouse? | Yes. |
+| Yes/No | Are the blue jeans worn by the woman? | Yes. |
+| Yes/No | Is the woman holding a white purse in her left hand? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman's outfit expose her midriff? | Yes. |
+| Yes/No | Does the image convey a sense of allure and sensuality? | Yes. |
+| What | What is the color of the woman's blouse? | White. |
+| What | What is the woman holding in her left hand? | A white purse. |
+| How | How is the woman standing in the image? | She is standing in front of a white background. |
+| How | How does the woman's pose and the way she holds her purse suggest confidence and self-assuredness? | Her pose and the way she holds her purse suggest confidence and selfassurance because she is standing tall and holding her purse in a confident manner, indicating a sense of Selfassuredness. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the stockings made of a shiny material? | Yes. |
+| Yes/No | Does the lace pattern on the stockings add to the overall allure of the image? | Yes. |
+| Yes/No | Are the black heels also a contributing factor to the image's sexiness? | Yes. |
+| Yes/No | Is the image's atmosphere seductive and alluring? | Yes. |
+| Yes/No | Does the white curtain in the background provide a simple and uncluttered backdrop for the image? | Yes. |
+| What | What is the person in the image wearing on their feet? | Black heels. |
+| What | What is the material of the black stockings? | Shiny material. |
+| How | How does the lace pattern on the stockings contribute to the image's overall allure? | It adds a touch of elegance. |
+| How | How does the image's atmosphere contribute to its sexiness? | It creates a seductive and alluring ambiance. |

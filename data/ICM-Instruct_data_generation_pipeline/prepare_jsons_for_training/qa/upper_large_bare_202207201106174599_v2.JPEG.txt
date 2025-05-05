@@ -1,0 +1,7 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the green bikini wearing a green bikini bottom? | Yes. |
+| Yes/No | Is the woman in the yellow bikini wearing a yellow bikini top? | Yes. |
+| Yes/No | Is the woman in the green bikini holding onto the woman in the yellow bikini? | Yes. |
+| Yes/No | Is the woman in the yellow bikini wearing a yellow bikini bottom? | Yes. |
+| Yes/No | Is the woman in the green bikini wearing a green bikini top? | Yes. |

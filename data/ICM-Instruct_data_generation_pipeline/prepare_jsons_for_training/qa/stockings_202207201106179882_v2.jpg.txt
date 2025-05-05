@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the heels the woman is wearing black? | Yes. |
+| What | What is the woman doing in the first photo? | Sitting on a chair. |
+| What | What is the woman doing in the second photo? | Standing on a bed. |
+| How | How is the woman posing in the third photo? | Sitting on the floor. |
+| How | How is the woman lying in the fourth photo? | Lying on a bed. |
+| Yes/No | Is the atmosphere of the picture sexy? | Yes. |
+| Yes/No | Are the stockings associated with sensuality and allure? | Yes. |

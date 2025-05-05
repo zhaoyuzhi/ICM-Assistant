@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing high heels? | Yes. |
+| Yes/No | Is the dress the person is wearing long? | Yes. |
+| Yes/No | Does the person have their legs crossed? | Yes. |
+| Yes/No | Are the person's arms resting on their knees? | Yes. |
+| Yes/No | Is the background of the image a beige color? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color are the high heels? | Black and white. |
+| What | What is the length of the dress? | Down to the person's knees. |
+| How | How are the person's arms positioned? | Resting on their knees. |
+| How | How does the image create a seductive atmosphere? | Through the combination of the person's attire and pose, specifically the high heels, blue dress, crossed legs, and confident posture. |

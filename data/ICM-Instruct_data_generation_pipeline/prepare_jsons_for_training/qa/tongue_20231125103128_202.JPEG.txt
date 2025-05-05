@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the woman sticking out her tongue in the image? | Yes. |
+| Yes/No | Does the woman have dark hair in the image? | Yes. |
+| Yes/No | Is the woman's facial expression relaxed and inviting? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's confident demeanor a contributing factor to the image's seductive atmosphere? | Yes. |
+| What | What color is the woman's lipstick in the image? | Red. |
+| What | What is the woman's facial expression in the image? | Relaxed and inviting. |
+| How | How is the woman's tongue sticking out in the image? | It is sticking out playfully and confidently. |
+| How | How does the red lipstick add to the image's overall allure? | It adds a pop of color and makes the woman look more vibrant and alluring. |

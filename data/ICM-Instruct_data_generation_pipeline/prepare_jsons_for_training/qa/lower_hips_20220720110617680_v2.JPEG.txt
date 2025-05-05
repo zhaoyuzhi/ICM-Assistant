@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of purple leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a purple sports bra? | Yes. |
+| Yes/No | Is the person in the image standing against a white background? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Is the person's pose confident and assertive? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the leggings and sports bra? | Purple. |
+| What | What is the person's pose in the image? | Hands resting on hips. |
+| How | How are the leggings describes in the image? | Formfitting. |
+| How | How is the person's attitude described in the image? | Confident and assertive. |

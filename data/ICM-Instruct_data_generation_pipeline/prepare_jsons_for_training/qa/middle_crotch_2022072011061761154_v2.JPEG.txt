@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing underwear? | Yes. |
+| Yes/No | Is the person in the image exposing a private part of their body? | Yes. |
+| Yes/No | Is the image a close-up of the person's crotch? | Yes. |
+| How | Does the image show the person's face or upper body? | No. |
+| What | What is the person in the image wearing? | Underwear. |
+| What | What is the person's exposure level in the image? | High. |
+| How | How does the close-up perspective of the image make the person's body appear? | Vulnerable and exposed. |
+| How | How may the image evoke feelings in the viewer? | Desire or arousal. |

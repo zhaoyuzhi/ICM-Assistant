@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the person smiling? | Yes. |
+| Yes/No | Does the image have a playful and carefree atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image doing? | They have their arms outstretched and are possibly playing in water or sweating heavily. |
+| What | What is the person's facial expression? | They are smiling. |
+| How | How are the person's clothes soaked? | They are soaked possibly from playing in water or sweating heavily. |
+| How | How does the image create a sense of vulnerability and playfulness? | The person's soaked clothes and exposed skin, combined with their smiling expression and the overall playful atmosphere, create a sense of vulnerability and playfulness. |

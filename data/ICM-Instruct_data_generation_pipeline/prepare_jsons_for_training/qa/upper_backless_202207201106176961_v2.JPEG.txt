@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sports bra? | Yes. |
+| Yes/No | Are her black shorts visible in the image? | Yes. |
+| Yes/No | Is the woman flexing her muscles in the image? | Yes. |
+| Yes/No | Is the image atmospherically confident? | Yes. |
+| Yes/No | Is the image atmospherically sexy? | Yes. |
+| Yes/No | Does the woman's posture suggest self-assurance? | Yes. |
+| What | What color is the woman's sports bra? | Pink. |
+| What | What is the color of the woman's shorts? | Black. |
+| How | How is the woman's posture in the image? | Confident. |
+| How | How does the woman's attire contribute to the image's atmosphere? | The striking contrast of her pink sports bra and black shorts, along with her confident pose, creates a visually striking and alluring image. |

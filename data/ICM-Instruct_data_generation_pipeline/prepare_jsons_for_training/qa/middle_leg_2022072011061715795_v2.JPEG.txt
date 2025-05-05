@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Is the skirt brown? | Yes. |
+| Yes/No | Does the skirt have two pockets on the front? | Yes. |
+| Yes/No | Is the woman wearing a red sweater? | Yes. |
+| Yes/No | Is the sweater contrasting with the brown skirt? | Yes. |
+| Yes/No | Is the woman standing in a room with a white wall and a black shelf in the background? | Yes. |
+| What | What is the woman's pose in the image? | The woman is standing with a sense of confidence and style. |
+| What | What is the color of the woman's sweater? | The woman's sweater is red. |
+| How | How is the woman's skirt cinched at the waist? | The woman's skirt is cinched at the waist with a black belt. |
+| How | How does the combination of the brown skirt, black belt, and red sweater create a visual contrast? | The combination of the brown skirt, black belt, and red sweater creates a visually appealing contrast. |

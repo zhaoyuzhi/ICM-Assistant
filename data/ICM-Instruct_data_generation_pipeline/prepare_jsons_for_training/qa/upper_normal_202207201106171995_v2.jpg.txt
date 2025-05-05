@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a striped sweater? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the woman's face clearly visible in the image? | No. |
+| Yes/No | Is the woman wearing revealing clothing? | No. |
+| Yes/No | Is the woman engaging in any suggestive poses? | No. |
+| Yes/No | Does the image focus on the woman's physical appearance or actions? | No. |
+| What | What is the woman wearing? | A black and white striped sweater and a ponytail. |
+| What | What is the mood of the image? | Calmness. |
+| How | How is the woman standing in relation to the tree? | In front of the tree. |
+| How | How does the low exposure level of the image affect the woman's appearance? | It makes her face not clearly visible. |

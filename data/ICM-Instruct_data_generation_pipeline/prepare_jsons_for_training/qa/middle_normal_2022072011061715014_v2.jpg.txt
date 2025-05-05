@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of black shorts? | Yes. |
+| Yes/No | Is the man's shirt white? | Yes. |
+| Yes/No | Does the man have a watch on his left wrist? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the man's attire evoke any sexual connotations? | No. |
+| Yes/No | Is the focus of the image on the man's movement and clothing? | Yes. |
+| What | What is the man wearing on his lower body? | Black shorts. |
+| What | What is the color of the man's shirt? | White. |
+| How | How is the man's watch secured on his wrist? | It is not explicitly stated in the description, but it can be inferred that the watch is secured on the man's wrist with a watchband or strap. |
+| How | How does the image convey a sense of style? | The image conveys a sense of style through the man's choice of clothing, specifically the contrast between the black shorts and white shirt, as well as the presence of a watch on his wrist, which suggests a sense of sophistication and attention to detail. |
+| Yes/No | Is the man in the image wearing black shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| How | Does the image show the man's entire body? | No. |
+| Yes/No | Is the man's posture relaxed and nonchalant? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Does the image focus on the man's body or suggestive clothing? | No. |
+| What | What is the man in the image wearing on his lower body? | Black shorts. |
+| What | What is the man in the image wearing on his upper body? | A white shirt. |
+| How | How is the man's posture in the image? | Relaxed and nonchalant. |
+| How | How does the image depict the man's movement? | The man is walking with his hands in his pockets. |

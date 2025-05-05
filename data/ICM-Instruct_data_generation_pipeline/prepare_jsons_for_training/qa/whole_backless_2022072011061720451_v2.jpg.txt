@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the woman leaning against a green curtain? | Yes. |
+| Yes/No | Are her arms resting on her hips? | Yes. |
+| Yes/No | Does the dress appear to be made of a soft, flowing fabric? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the curtain in the image? | Green. |
+| What | What is the woman's pose in the image? | She is leaning against the curtain with her arms resting on her hips. |
+| How | How does the woman's pose accentuate her figure? | Her pose accentuates her figure by emphasizing the curve of her back and her hips. |
+| How | How does the contrast between the red dress and the green curtain enhance the visual impact of the image? | The contrast creates a visual contrast that draws the viewer's attention to the woman and her dress, making the image more visually striking. |

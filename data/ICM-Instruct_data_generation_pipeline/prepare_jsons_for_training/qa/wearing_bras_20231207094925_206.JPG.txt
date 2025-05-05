@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the image focused on the woman's torso and chest area? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy and sensuality? | Yes. |
+| Yes/No | Does the blue color of the bra and jeans add to the overall aesthetic? | Yes. |
+| What | What is the woman in the image putting on? | A blue bra. |
+| What | What is the dominant color scheme of the image? | Blue. |
+| How | How is the woman's pose in the image? | She is standing with her hands on the bra cups, as if she is in the process of putting it on. |
+| How | How does the close-up nature of the image contribute to the overall atmosphere? | It evokes a sense of intimacy and allure, contributing to the sexy atmosphere. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing jeans? | Yes. |
+| Yes/No | Is the bra blue? | Yes. |
+| Yes/No | Are the jeans blue? | Yes. |
+| Yes/No | Is the woman putting on the bra in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What color are the bra and jeans in the image? | Blue. |
+| How | How is the woman posed in the image? | She is standing with her hands on the bra cups, focusing on her torso and chest area. |
+| How | How does the close-up nature of the image contribute to the atmosphere? | It evokes a sense of intimacy and allure, contributing to the sexy atmosphere. |

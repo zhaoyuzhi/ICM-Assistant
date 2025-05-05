@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a hat? | Yes. |
+| Yes/No | Does the woman's shirt have a cat design? | Yes. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| Yes/No | Is the woman sitting on a couch? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the woman wearing on her upper body? | A white shirt with a cat design. |
+| What | What is the woman's hat like? | Not specified in the description. |
+| How | How is the woman sitting on the couch? | Not specified in the description. |
+| How | How is the image lit? | Not specified in the description. |

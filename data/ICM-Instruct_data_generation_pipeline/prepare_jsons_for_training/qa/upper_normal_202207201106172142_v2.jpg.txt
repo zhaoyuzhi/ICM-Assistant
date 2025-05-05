@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image dressed in traditional Chinese clothing? | Yes. |
+| Yes/No | Is the background of the image a snowy landscape? | Yes. |
+| Yes/No | Does the man appear to be looking off to the side? | Yes. |
+| Yes/No | Is the expression of the man in the image serious? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the man in the image wearing? | Traditional Chinese clothing. |
+| What | What is the mood of the image? | Solemn or contemplative. |
+| How | How is the man standing in the image? | He is standing in front of the snowy landscape. |
+| How | How does the traditional Chinese clothing add to the image? | It adds to the cultural and historical context of the image. |

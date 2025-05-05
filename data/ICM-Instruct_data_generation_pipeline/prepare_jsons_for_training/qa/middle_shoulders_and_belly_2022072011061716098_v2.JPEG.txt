@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a medical device? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's movements visible in the image? | No. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image suggest that the person might be in a vulnerable or intimate situation? | Yes. |
+| What | What color is the person's shirt? | Blue. |
+| What | What is the person wearing on their stomach? | A medical device. |
+| How | How does the medical device on the person's stomach add to the image's atmosphere? | It suggests vulnerability and intimacy. |
+| How | How does the image create a sexy and alluring atmosphere? | By showing a person with their belly exposed, wearing a medical device, and having a casual and relaxed atmosphere. |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the medical device attached to the person's belly? | Yes. |
+| Yes/No | Is the person standing in a relaxed pose? | Yes. |
+| Yes/No | Are the person's hands resting on their hips? | Yes. |
+| Yes/No | Does the image have a casual and candid atmosphere? | Yes. |
+| What | What color is the person's shirt? | Blue. |
+| What | What is the person's pose in the image? | Standing with hands resting on hips. |
+| How | How is the medical device connected to the monitor? | The medical device is connected to the monitor via a cord or wire. |
+| How | How does the image capture a moment of everyday life? | The image captures a moment of everyday life by depicting a person going about their routine while wearing a medical device, which suggests that they may be managing a health condition as part of their daily life. The relaxed atmosphere and casual pose also contribute to the sense of everyday life. |

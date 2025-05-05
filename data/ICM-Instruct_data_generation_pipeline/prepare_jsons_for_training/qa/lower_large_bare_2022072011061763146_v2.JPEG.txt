@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are there any other people visible in the image? | No. |
+| Yes/No | Is the beach setting sunny? | Yes. |
+| Yes/No | Is the person's attire appropriate for a formal occasion? | No. |
+| Yes/No | Does the image suggest a relaxed and casual atmosphere? | Yes. |
+| What | What color is the bikini worn by the person in the image? | Green. |
+| What | What is the person in the image standing on? | Sand. |
+| How | How is the person in the image standing? | With their legs apart. |
+| How | How does the image evoke feelings according to the description? | The image evokes feelings of warmth and enjoyment because of the green bikini and beach setting, which are associated with summer and relaxation. |

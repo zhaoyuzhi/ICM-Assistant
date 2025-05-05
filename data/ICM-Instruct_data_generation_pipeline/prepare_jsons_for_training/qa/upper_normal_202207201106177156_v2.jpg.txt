@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Does the woman have a black collar? | Yes. |
+| Yes/No | Is the woman pointing to the left with her right hand? | Yes. |
+| Yes/No | Are the woman's earrings large hoops? | Yes. |
+| Yes/No | Is the background of the image a gray building? | Yes. |
+| What | What is the woman pointing to? | A specific point of interest or direction. |
+| What | What is the atmosphere of the image? | Neutral, not sexy. |
+| How | How is the woman dressed? | In a simple white blouse with black accessories, not suggestive or provocative. |
+| How | How does the gray building in the background contribute to the atmosphere of the image? | It adds a neutral backdrop that allows the woman to stand out, reinforcing a nonsexual atmosphere. |

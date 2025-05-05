@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing leggings? | Yes. |
+| Yes/No | Does the logo on the leggings read "Urban Sports"? | Yes. |
+| Yes/No | Is the woman standing in front of a brick wall? | Yes. |
+| Yes/No | Does the woman have a confident and assertive pose? | Yes. |
+| Yes/No | Are the leggings tight-fitting? | Yes. |
+| Yes/No | Does the sports bra match the color of the leggings? | Yes. |
+| What | What is the woman wearing on her legs? | Blue leggings. |
+| What | What is the color of the sports bra? | Blue. |
+| How | How is the woman standing in the image? | With her hands resting on her hips. |
+| What | What is the atmosphere of the image? | Sexy and confident. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a white lace shawl? | Yes. |
+| Yes/No | Does the image feature a plain white background? | Yes. |
+| Yes/No | Is the woman posing in a way that emphasizes her breast? | Yes. |
+| Yes/No | Does the image have a sexy tone? | Yes. |
+| Yes/No | Is the woman's hand on her shoulder? | Yes. |
+| What | What color is the woman's bra? | Black. |
+| What | What material is the woman's shawl made of? | Lace. |
+| How | How is the woman posing in the image? | With her hand on her shoulder and her body angled to emphasize her breast. |
+| What | What does the plain white background do to the focus of the image? | It puts the focus entirely on the woman, making her the central point of interest. |

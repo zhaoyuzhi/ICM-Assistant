@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing lipstick? | Yes. |
+| Yes/No | Are the person's eyes visible in the image? | No. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Are the person's fingers curled? | Yes. |
+| Yes/No | Is the person's finger resting on their lips? | Yes. |
+| Yes/No | Does the image create an alluring and seductive atmosphere? | Yes. |
+| What | What color is the person's lipstick? | Pink. |
+| What | What is the person's facial expression? | Neutral. |
+| How | How are the person's fingers curled? | Slightly. |
+| How | How does the image evoke feelings of desire and attraction? | Through the closeup of the person's lips and fingers, the pink lipstick, and the playful and confident demeanor suggested by the slightly curled fingers resting on the lips. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Is the woman in the image standing on a wooden floor? | Yes. |
+| Yes/No | Is there a window in the background of the image? | Yes. |
+| Yes/No | Are the woman's high heels white? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and alluring? | Yes. |
+| Yes/No | Does the woman's attire contribute to the sensual and alluring atmosphere of the image? | Yes. |
+| What | What is the woman in the image wearing on her feet? | High heels. |
+| What | What is the color of the woman's stockings? | White. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's attire, specifically her stockings and high heels, contribute to the sensual and alluring atmosphere of the image. |
+| How | How does the setting of the image contribute to the overall atmosphere? | The simple and uncluttered setting of the image, including the wooden floor and window in the background, allows the viewer to focus on the woman and her attire, contributing to the overall sensual and alluring atmosphere. |

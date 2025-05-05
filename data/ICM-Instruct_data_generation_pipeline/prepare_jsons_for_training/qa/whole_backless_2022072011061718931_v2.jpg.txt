@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a lace back? | Yes. |
+| Yes/No | Is the person holding a bouquet of flowers? | Yes. |
+| Yes/No | Are the trees in the background? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the setting natural and relaxed? | Yes. |
+| What | What is the person wearing? | A white dress with a lace back. |
+| What | What is the person holding? | A bouquet of flowers. |
+| How | How does the woman's attire contribute to the overall allure of the image? | The white dress with a lace back reveals a significant amount of skin, which is often associated with a sexy or provocative appearance. |
+| How | How does the setting contribute to the overall allure of the image? | The sandy beach and trees in the background create a natural and relaxed atmosphere, which contrasts with the woman's attire and adds to the overall allure of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person's mouth open in the image? | Yes. |
+| Yes/No | Is there a finger inside the person's mouth in the image? | Yes. |
+| Yes/No | Is the facial expression of the person visible in the image? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the image a close-up of the person's mouth? | Yes. |
+| What | What is the person doing in the image? | The person is putting a finger in their mouth. |
+| What | What is the color of the person's shirt in the image? | White. |
+| How | How does the close-up nature of the image enhance the overall atmosphere of the picture? | The closeup nature of the image allows for a more detailed and personal view of the person's facial features and expression, which can further enhance the overall sensual atmosphere of the picture. |
+| How | How does the minimalism of the image contribute to its intimacy and sensuality? | The simplicity and minimalism of the image, created by the white shirt and the closeup nature of the image, allows the viewer to focus more on the intimate action taking place, which can make the image feel more personal and sensual. |

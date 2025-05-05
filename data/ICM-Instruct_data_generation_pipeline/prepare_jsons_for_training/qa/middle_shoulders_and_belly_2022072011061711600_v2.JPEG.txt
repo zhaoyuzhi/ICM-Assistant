@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Does the person in the image have a belly button ring? | Yes. |
+| Yes/No | Is the person in the image standing in front of a kitchen counter? | Yes. |
+| Yes/No | Does the kitchen counter have a stove and a sink? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the person in the image wearing on their upper body? | A black sports bra. |
+| What | What is the person in the image wearing on their lower body? | Black shorts. |
+| How | How is the person's navel pierced? | With a belly button ring. |
+| How | How would you describe the atmosphere of the image? | Casual and relaxed, with a sense of boldness and selfexpression. |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Are the person's shorts black? | Yes. |
+| Yes/No | Is the person's navel visible in the image? | Yes. |
+| How | Does the image showcase the person's body in a revealing manner? | Yes. |
+| Yes/No | Is the person's skin tone light? | Yes. |
+| Yes/No | Is the person's hair dark? | Yes. |
+| What | What is the person's skin tone? | Light. |
+| What | What is the color of the person's hair? | Dark. |
+| How | How does the person's clothing accentuate their body shape? | The black sports bra and shorts contrast with the person's skin tone, emphasizing their physique. |
+| How | How does the image draw attention to the person's midriff? | The person's navel is visible and is the focal point of the image, drawing attention to their midriff. |

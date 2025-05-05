@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Does the person have a gold necklace on? | Yes. |
+| Yes/No | Are the pants loose-fitting? | Yes. |
+| Yes/No | Is there a button on the waistband of the pants? | Yes. |
+| Yes/No | Is the background of the image a street with a sidewalk and a building? | Yes. |
+| What | What is the color of the person's top? | Black. |
+| What | What is the color of the person's pants? | Beige. |
+| How | How is the person's necklace styled? | It is a simple gold necklace. |
+| How | How would you describe the overall atmosphere of the image? | Casual and everyday. |
+| Yes/No | Is the person in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Does the person have a gold necklace on? | Yes. |
+| Yes/No | Are the pants loose-fitting? | Yes. |
+| Yes/No | Is there a button on the waistband of the pants? | Yes. |
+| Yes/No | Are there bicycles parked on the sidewalk? | Yes. |
+| What | What color are the pants? | Beige. |
+| What | What is the person's pose in the image? | Neutral. |
+| How | How are the pants fitting on the person? | Loosefitting. |
+| How | How many bicycles are parked on the sidewalk? | Multiple (at least 2). |

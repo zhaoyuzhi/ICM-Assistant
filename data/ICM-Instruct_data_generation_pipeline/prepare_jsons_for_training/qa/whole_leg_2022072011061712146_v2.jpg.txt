@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a navy blue blazer? | Yes. |
+| Yes/No | Does the blazer have gold buttons? | Yes. |
+| Yes/No | Is the woman wearing a brown skirt? | Yes. |
+| Yes/No | Is the skirt short? | Yes. |
+| Yes/No | Does the woman have a beige purse? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What is the color of the purse? | Beige. |
+| How | How is the woman carrying her purse? | In her left hand. |
+| What | What is the atmosphere created by the woman's outfit and the way she carries herself? | Seductive and alluring. |

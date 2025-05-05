@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image holding a rope? | Yes. |
+| Yes/No | Are camouflage pants worn by the man in the image? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image holding in his left hand? | A rope. |
+| What | What kind of pants are worn by the man in the image? | Camouflage pants. |
+| How | How does the man's physique appear in the image? | The man's physique appears muscular and welldefined. |
+| How | How does the camouflage pants and dark background affect the image's sensuality? | The camouflage pants and dark background enhance the image's sensuality by adding a rugged and adventurous element to the scene. |

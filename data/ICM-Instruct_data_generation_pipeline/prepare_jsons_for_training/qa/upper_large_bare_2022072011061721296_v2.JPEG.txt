@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Does the image suggest a warm and sunny day? | Yes. |
+| Yes/No | Does the woman have a confident and relaxed demeanor in the image? | Yes. |
+| What | What color is the woman's bikini top? | White. |
+| What | What is the woman's facial expression in the image? | Smiling. |
+| How | How is the woman standing in the image? | Standing. |
+| How | How does the image evoke a sense of relaxation and enjoyment? | The beach setting and the woman's attire suggest a warm and sunny day, and her confident pose and smile contribute to a sense of allure and attractiveness. |

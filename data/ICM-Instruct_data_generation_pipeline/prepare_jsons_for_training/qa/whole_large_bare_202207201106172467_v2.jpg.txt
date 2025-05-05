@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman posing in a confident manner? | Yes. |
+| Yes/No | Is the woman's hand resting on a woven purse? | Yes. |
+| Yes/No | Is the background of the image a white wall with a window? | Yes. |
+| Yes/No | Is there a palm tree visible outside the window? | Yes. |
+| Yes/No | Does the woman's attire and pose suggest that she is comfortable and confident in her appearance? | Yes. |
+| What | What is the woman holding in her right hand? | A woven purse. |
+| What | What is the color of the woman's bikini top? | Blue. |
+| How | How is the woman posing in the image? | With her left hand on her hip and her right hand resting on a woven purse. |
+| How | How does the background of the image contrast with the woman's attire? | The white wall and window in the background create a clean and minimalist backdrop that allows the viewer to focus on the woman and her attire, which is a stark contrast to the woman's bright and colorful bikini. |

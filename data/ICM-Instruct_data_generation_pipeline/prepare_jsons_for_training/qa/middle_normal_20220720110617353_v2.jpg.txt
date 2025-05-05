@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Does the person in the image have a casual and relaxed movement? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the person in the image have a high exposure level? | No. |
+| Yes/No | Is the focus of the image on the person's clothing and movement? | Yes. |
+| What | What is the pattern on the person's shorts? | Paisley. |
+| What | What is the color of the person's shirt? | Black. |
+| How | How would you describe the person's movement in the image? | Casual and relaxed. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a t-shirt? | Yes. |
+| Yes/No | Does the person's clothing have a paisley pattern? | Yes. |
+| Yes/No | Is the person's movement suggestive of a casual stroll? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| What | What is the person in the image wearing on their bottom half? | Shorts. |
+| What | What is the person in the image wearing on their top half? | A tshirt. |
+| How | How is the person moving in the image? | They are casually strolling. |
+| How | How would you describe the focus of the image? | The focus is on the person's clothing and their movement, rather than on any provocative or suggestive elements. |

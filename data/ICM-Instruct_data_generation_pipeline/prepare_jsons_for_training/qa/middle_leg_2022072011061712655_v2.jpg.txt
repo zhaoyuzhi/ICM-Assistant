@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a pair of black denim shorts? | Yes. |
+| Yes/No | Does the woman have a leopard print pattern on her top? | Yes. |
+| Yes/No | Is the woman holding her shirt up with her left hand? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Is the building in the background of the image? | Yes. |
+| Yes/No | Does the woman's outfit and pose suggest confidence and self-assuredness? | Yes. |
+| What | What color are the woman's denim shorts? | Black. |
+| What | What is the pattern on the woman's top? | Leopard print. |
+| How | How is the woman holding her shirt up? | With her left hand. |
+| What | What does the woman's pose suggest about her attitude or personality? | Confidence and selfassuredness. |

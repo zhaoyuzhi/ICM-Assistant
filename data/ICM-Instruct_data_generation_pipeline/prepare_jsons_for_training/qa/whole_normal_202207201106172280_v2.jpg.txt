@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a floral blouse? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a white wall? | Yes. |
+| Yes/No | Does the woman in the image have a white purse? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the woman in the image have any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire modest and appropriate for a public setting? | Yes. |
+| What | What is the woman holding in her hand? | A white purse. |
+| What | What is the overall atmosphere of the image? | Calm and composed. |
+| How | How is the woman's body visible in the image? | Only a small portion of her body is visible due to the low exposure level. |
+| How | How would you describe the woman's attire? | Modest and appropriate for a public setting. |

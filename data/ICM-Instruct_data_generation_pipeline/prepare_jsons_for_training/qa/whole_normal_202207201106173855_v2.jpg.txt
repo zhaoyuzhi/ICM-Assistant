@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a light blue coat? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Is the atmosphere of the image calm and serene? | Yes. |
+| Yes/No | Does the woman's attire suggest modesty and elegance? | Yes. |
+| Yes/No | Is the image focused on the woman's appearance? | No. |
+| What | What is the woman looking at out the window? | The description does not specify, but it could be anything such as a landscape, a cityscape, or a sunset. |
+| What | What is the overall mood of the image? | The overall mood of the image is calm and serene. |
+| How | How is the woman positioned in the image? | The woman is positioned with her back to the camera, looking out the window. |
+| How | How does the low exposure level of the image enhance the feeling of calmness? | The low exposure level of the image prevents the viewer from focusing on the woman's appearance and instead encourages them to focus on the overall scene, enhancing the feeling of calmness and tranquility. |

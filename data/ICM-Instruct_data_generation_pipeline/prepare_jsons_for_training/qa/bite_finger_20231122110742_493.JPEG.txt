@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the person in the image have a nose, mouth, and fingers? | Yes. |
+| Yes/No | Is the person's facial expression visible in the image? | No. |
+| Yes/No | Does the image contain any other discernible objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the person in the image putting her finger inside her mouth? | Yes. |
+| What | What is the person in the image wearing? | A black shirt. |
+| What | What is the person in the image doing? | Putting her finger inside her mouth. |
+| How | How is the person's facial expression in the image? | Not visible. |
+| How | How does the image emphasize the person's action? | The closeup nature of the image and the fact that the person is wearing a black shirt adds to the overall atmosphere of the image, emphasizing the person's facial expression and the action of putting her finger inside her mouth. |

@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Are the stockings being put on over a dress? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with seduction? | Yes. |
+| Yes/No | Are the stockings beige in color? | Yes. |
+| Yes/No | Is the floor gray in color? | Yes. |
+| What | What color are the stockings? | Beige. |
+| What | What is the person wearing underneath the stockings? | A dress. |
+| How | How are the stockings being put on? | They are being pulled up the person's legs. |
+| How | How does the image create a sense of mystery and intrigue? | The beige color of the stockings and the dress, combined with the gray floor, create a neutral backdrop that emphasizes the subject and the action taking place, creating a sense of mystery and intrigue. |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the person in the image standing on a gray floor? | Yes. |
+| Yes/No | Are the stockings being put on by the person beige in color? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the dress worn by the person in the image? | Beige. |
+| How | How is the person in the image standing? | The person is standing with their legs apart, holding onto their dress with one hand while putting on the stockings with the other. |
+| What | What is the overall mood of the image? | The overall mood of the image is intimate, sensual, and private. |

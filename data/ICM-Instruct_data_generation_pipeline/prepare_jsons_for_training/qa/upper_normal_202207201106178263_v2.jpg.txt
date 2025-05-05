@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow sweater? | Yes. |
+| Yes/No | Is the woman in the image washing an apple under a faucet? | Yes. |
+| Yes/No | Is the woman in the image wearing a scarf? | Yes. |
+| Yes/No | Is the image focused on the woman's actions and the surrounding environment? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the image's overall atmosphere sexy? | No. |
+| What | What is the woman in the image doing? | Washing an apple under a faucet. |
+| What | What is the woman in the image wearing? | A yellow sweater and a scarf. |
+| How | How is the woman washing the apple? | Under a faucet. |
+| How | How would you describe the image's overall atmosphere? | Nonsexual, everyday scene in a kitchen. |

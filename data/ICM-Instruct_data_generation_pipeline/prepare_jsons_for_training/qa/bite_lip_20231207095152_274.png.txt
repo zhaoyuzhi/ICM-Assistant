@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image wearing a green sweater? | Yes. |
+| Yes/No | Does the woman in the image have long black hair? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the woman in the image look confident? | Yes. |
+| Yes/No | Is the woman in the image biting her lip? | Yes. |
+| What | What is the woman in the image wearing? | A green sweater. |
+| What | What is the color of the woman's hair in the image? | Black. |
+| How | How is the woman's facial expression in the image? | Slight smile and biting her lip. |
+| How | How does the woman's long black hair add to her attractiveness in the image? | It adds to her overall attractiveness and allure. |

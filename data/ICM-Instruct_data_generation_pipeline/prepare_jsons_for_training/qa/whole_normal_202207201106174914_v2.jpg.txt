@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of a shiny fabric? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Is the image exposed at a low level? | Yes. |
+| Yes/No | Does the woman have a smile on her face? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman holding in her hand? | A small, white purse. |
+| What | What is the color of the dress? | Beige. |
+| How | How is the woman standing in the room? | She is standing with her feet shoulderwidth apart, facing the camera directly. |
+| How | How does the low exposure level of the image affect the focus of the image? | It focuses attention on the woman's attire and the room's interior, rather than on her body or appearance. |

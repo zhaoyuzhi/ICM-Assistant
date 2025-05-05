@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing black underwear? | Yes. |
+| Yes/No | Is the image set against a plain white background? | Yes. |
+| Yes/No | Does the man have his arm on his hip? | Yes. |
+| Yes/No | Is the man's head tilted to the side? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the man's underwear? | Black. |
+| What | What is the man's pose in the image? | He has his arm on his hip and his head tilted to the side. |
+| How | How does the man's pose contribute to the image's sex appeal? | The pose gives off a confident and seductive vibe. |
+| How | How does the contrast between the black underwear and white background emphasize the man's figure? | The contrast makes the man's figure stand out and draws the viewer's attention to it. |

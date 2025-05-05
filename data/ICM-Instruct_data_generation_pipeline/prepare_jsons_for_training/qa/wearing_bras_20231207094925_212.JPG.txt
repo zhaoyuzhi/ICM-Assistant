@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are the straps of the bra thin? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Are the leggings gray? | Yes. |
+| Yes/No | Is the woman putting on the bra? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing on her bottom half? | Gray leggings. |
+| What | What color is the bra? | Pink. |
+| How | How are the straps of the bra attached to the bra? | They are thin and shoulderstrapless. |
+| How | How is the woman putting on the bra? | She is putting it on with her hands on her back. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are the straps of the bra thin? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Are her hands on her back? | Yes. |
+| Yes/No | Is she wearing gray leggings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra? | Pink. |
+| What | What is the woman doing with her hands? | She is putting on the bra. |
+| How | How are the straps of the bra? | Thin. |
+| How | How is the woman putting on the bra? | With her hands on her back. |

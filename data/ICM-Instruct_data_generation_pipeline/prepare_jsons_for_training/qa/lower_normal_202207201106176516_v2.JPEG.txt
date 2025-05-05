@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress beige in color? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the sleeves of the dress long? | Yes. |
+| Yes/No | Is the woman wearing sandals? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the woman's dress? | Beige. |
+| What | What type of footwear is the woman wearing? | Sandals. |
+| How | How would you describe the woman's pose in the image? | Neutral. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

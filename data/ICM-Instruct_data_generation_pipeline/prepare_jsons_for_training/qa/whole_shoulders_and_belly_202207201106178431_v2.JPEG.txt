@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Is the woman in the image wearing leggings? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the woman in the image have a smile on her face? | Yes. |
+| Yes/No | Is the living room in the background cluttered? | No. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| What | What color is the woman's crop top? | Purple. |
+| What | What is the phrase written on the woman's crop top? | "It was all a dream". |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| How | How does the woman's pose in the image contribute to the overall atmosphere? | It adds to the confident and seductive atmosphere. |

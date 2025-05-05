@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a hat? | Yes. |
+| Yes/No | Are the shorts the person is wearing black? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the person's attire suggest a sexual context? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are there any other objects or distractions in the frame? | No. |
+| What | What color are the shorts the person is wearing? | Dark blue. |
+| What | What is the material of the shorts the person is wearing? | Cottonlike fabric. |
+| How | How wide is the brim of the hat the person is wearing? | Wide. |
+| How | How would you describe the overall atmosphere of the image? | Simple and uncluttered. |

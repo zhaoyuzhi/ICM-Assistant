@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Are black jeans being worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman carrying a black purse in the image? | Yes. |
+| Yes/No | Is the woman walking towards the right side of the image? | Yes. |
+| Yes/No | Does the woman have a white strap around her neck? | Yes. |
+| Yes/No | Is the woman wearing a strapless top in the image? | Yes. |
+| What | What color is the woman's purse in the image? | Black. |
+| What | What is the woman's posture like in the image? | Confident and poised. |
+| How | How is the woman carrying herself while walking through the airport? | With style and poise. |
+| What | What does the combination of the woman's clothing and posture suggest about her? | Selfassuredness and confidence. |

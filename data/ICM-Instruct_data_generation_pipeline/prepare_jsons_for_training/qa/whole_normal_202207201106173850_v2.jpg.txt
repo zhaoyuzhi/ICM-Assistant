@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black blazer? | Yes. |
+| Yes/No | Is the woman's top yellow? | Yes. |
+| Yes/No | Is the woman carrying a small purse? | Yes. |
+| Yes/No | Is the room furnished with a couch? | Yes. |
+| Yes/No | Is the room furnished with a lamp? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| What | What is the woman wearing? | A black blazer and a yellow top. |
+| What | What is the woman carrying? | A small purse. |
+| How | How is the woman dressed? | In a professional manner. |
+| How | How is the image lit? | With a low exposure level. |

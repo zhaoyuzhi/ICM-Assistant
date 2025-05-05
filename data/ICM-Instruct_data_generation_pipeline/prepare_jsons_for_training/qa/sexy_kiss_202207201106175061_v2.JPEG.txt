@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | Yes. |
+| Yes/No | Is the woman looking up at the man? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the man wearing? | A white shirt and a red tie. |
+| What | What is the woman wearing? | A black dress. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the man's arms wrapped around the woman's waist. |
+| How | How does the background of the image contribute to the overall mood of the photo? | The blurred background adds to the romantic atmosphere and draws focus to the couple, emphasizing their connection and making the image more alluring. |

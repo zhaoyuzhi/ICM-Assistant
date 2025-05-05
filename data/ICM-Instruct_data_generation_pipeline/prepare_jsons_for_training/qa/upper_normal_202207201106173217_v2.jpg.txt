@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow sweater? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the woman holding a phone in her hand? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the woman the main subject of the photo? | No. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| What | What is the woman holding in her hand? | A phone. |
+| What | What is the color of the woman's sweater? | Yellow. |
+| How | How is the woman's hair styled? | Long and dark. |
+| What | What suggests that the image is not meant to be attention-grabbing or seductive? | The low exposure level and the focus on the woman's phone rather than her body. |

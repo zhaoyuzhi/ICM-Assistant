@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini a two-piece swimsuit? | Yes. |
+| Yes/No | Does the bikini have thin straps? | Yes. |
+| Yes/No | Is the person's midriff visible? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual and provocative? | Yes. |
+| Yes/No | Does the image feature a fireplace? | Yes. |
+| What | What is the color of the bikini? | Red. |
+| What | What is the subject of the painting on the wall? | Not specified. |
+| How | How is the person standing in the room? | Not specified. |
+| How | How does the combination of the bikini and the fireplace create a warm and intimate atmosphere? | The fireplace adds warmth and the bikini adds intimacy. |

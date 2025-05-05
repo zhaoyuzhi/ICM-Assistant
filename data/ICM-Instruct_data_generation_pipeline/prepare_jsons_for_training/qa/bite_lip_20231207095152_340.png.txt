@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink top? | Yes. |
+| Yes/No | Is the woman biting her lip in the image? | Yes. |
+| Yes/No | Is the woman looking off to the side in the image? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| Yes/No | Is the woman's facial expression serious in the image? | Yes. |
+| Yes/No | Does the image evoke a sense of desire? | Yes. |
+| What | What color is the woman's top in the image? | Pink. |
+| What | What is the woman doing with her lip in the image? | Biting. |
+| How | How is the woman looking in the image? | Off to the side. |
+| How | How would you describe the overall atmosphere of the image? | Seductive and alluring. |

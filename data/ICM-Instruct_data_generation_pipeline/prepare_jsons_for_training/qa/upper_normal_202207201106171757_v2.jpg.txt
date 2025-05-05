@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Does the image have a suggestive or provocative atmosphere? | No. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image convey a sense of calm and serenity? | Yes. |
+| What | What is the person in the image wearing? | A black shirt. |
+| What | What is the atmosphere of the image? | Calm and serene. |
+| How | How is the person positioned in the image? | Not discernible. |
+| How | How would you describe the lighting in the image? | Lowexposure. |

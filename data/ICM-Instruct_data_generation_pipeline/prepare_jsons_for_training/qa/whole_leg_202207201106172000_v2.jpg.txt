@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman standing in the image? | Yes. |
+| Yes/No | Is the woman wearing a blue sweater? | Yes. |
+| Yes/No | Are the shorts white? | Yes. |
+| Yes/No | Does the woman have two pockets on the front of her shorts? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's pose suggest a casual and relaxed atmosphere? | Yes. |
+| What | What color is the sweater? | Light blue. |
+| What | What is the material of the sweater? | Knit fabric. |
+| How | How does the woman's pose and attire create a dynamic element in the image? | The woman's pose, with one leg extended and the other bent, adds a dynamic element to the image, and the contrast between the blue sweater and white shorts draws attention to her legs. |

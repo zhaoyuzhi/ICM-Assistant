@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image holding her shirt open? | Yes. |
+| Yes/No | Is the bed covered with a white fur-like material? | Yes. |
+| Yes/No | Does the image contain text that reads "CHIC FASHION STYLE"? | Yes. |
+| Yes/No | Does the image contain text that reads "SEXY"? | Yes. |
+| What | What is the woman in the image holding? | Her shirt. |
+| What | What is the material of the bed in the image? | White furlike material. |
+| How | How is the woman in the image revealing her cleavage? | By holding her shirt open. |
+| How | How does the overall atmosphere of the image contribute to its sexy nature? | The contrast between the white shirt and black bra, combined with the woman's action of holding her shirt open and the presence of the text "CHIC FASHION STYLE" and "SEXY", create a sense of allure and sensuality. |

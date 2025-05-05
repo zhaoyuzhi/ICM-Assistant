@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's hands visible in the image? | No. |
+| Yes/No | Is the image in black and white or in color? | Color. |
+| Yes/No | Does the image depict a sensual or intimate atmosphere? | Yes. |
+| Yes/No | Is the woman undressing in the image? | Yes. |
+| What | What is the woman wearing in the image? | A white bra. |
+| What | What is the man wearing in the image? | A white shirt. |
+| How | How is the woman's bra being put on in the image? | The man is assisting her. |
+| What | What emotion is conveyed through the woman's facial expression in the image? | Vulnerability. |
+| Yes/No | Is the woman in the process of putting on a bra? | Yes. |
+| Yes/No | Is the man assisting the woman in putting on the bra? | Yes. |
+| Yes/No | Are both the woman and man wearing white clothing? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image portray a private moment between the two individuals? | Yes. |
+| Yes/No | Is the woman undressing in the image? | Yes. |
+| What | What is the woman wearing in the image? | A white bra. |
+| What | What is the man wearing in the image? | A white shirt. |
+| How | How is the man assisting the woman in putting on the bra? | He is holding the bra and helping her put it on. |
+| How | How does the image capture the vulnerability of the woman? | The image shows the woman undressing and the man assisting her, highlighting her vulnerability. |

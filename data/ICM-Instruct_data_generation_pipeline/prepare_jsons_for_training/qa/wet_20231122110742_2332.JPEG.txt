@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue dress? | Yes. |
+| Yes/No | Is the woman holding a blue bucket? | Yes. |
+| Yes/No | Is the woman walking in the rain? | Yes. |
+| Yes/No | Are the woman's clothes soaked from the water? | Yes. |
+| Yes/No | Does the image have a playful and fun atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy feel? | Yes. |
+| What | What is the woman holding in the image? | A blue bucket. |
+| What | What is the overall atmosphere of the image? | Playful and fun. |
+| How | How is the woman's clothing affected by the rain? | Her clothes are soaked. |
+| How | How does the image capture the woman's emotions? | The image captures a moment of joy and playfulness. |

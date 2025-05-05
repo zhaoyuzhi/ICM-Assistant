@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a black crop top? | Yes. |
+| Yes/No | Does the crop top have a silver chain necklace? | Yes. |
+| Yes/No | Are the shorts checkered and white and black in color? | Yes. |
+| Yes/No | Does the shorts have a zipper on the side? | Yes. |
+| Yes/No | Is the woman's pose dynamic? | Yes. |
+| What | What is the color of the woman's crop top? | Black. |
+| What | What is the color of the checkered shorts? | White and black. |
+| How | How is the woman's left hand positioned in the image? | On her hip. |
+| How | How is the woman's right hand positioned in the image? | Pointing upwards. |

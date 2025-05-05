@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the dress low-cut? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Is there a knot in the back of the dress? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the person's back visible in the image? | Yes. |
+| What | What is the color of the dress? | Red. |
+| What | What is the pose of the person in the image? | Facing away from the camera. |
+| How | How is the person's back visible in the image? | The dress is lowcut and the person is facing away from the camera, providing a clear view of their back. |
+| How | How does the image create a sense of mystery and intrigue? | The person's pose and the way they are facing away from the camera creates a sense of mystery and intrigue, as it conceals their face and creates a sense of unknown. |

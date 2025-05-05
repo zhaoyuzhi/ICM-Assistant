@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Are the person's feet bare? | Yes. |
+| Yes/No | Is the background of the image a wall? | Yes. |
+| Yes/No | Does the wall have a cow pattern? | Yes. |
+| Yes/No | Is the person's pose relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing on their feet? | Sandals. |
+| What | What is the color of the shorts? | Beige. |
+| How | How does the person's pose suggest a casual atmosphere? | The person is standing with their legs apart, which conveys a relaxed and carefree attitude. |
+| How | How does the cow pattern on the wall contrast with the person's attire? | The cow pattern on the wall is playful and whimsical, which contrasts with the person's casual and relaxed attire, creating an interesting and visually appealing juxtaposition. |

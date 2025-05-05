@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress short? | Yes. |
+| Yes/No | Does the dress have a lace collar? | Yes. |
+| Yes/No | Are the woman's legs crossed at the knees? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the room in the background cluttered? | No. |
+| What | What color is the dress? | Light green. |
+| What | What is the woman's pose in the image? | Sitting on a stool with her legs crossed at the knees. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The short, revealing dress and the crossed legs create a sense of confidence and allure. |
+| How | How does the minimalistic setting of the living room contribute to the focus on the woman? | The lack of clutter and other objects in the room draws attention to the woman, making her the central point of interest. |

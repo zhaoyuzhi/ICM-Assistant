@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man dressed in black? | Yes. |
+| Yes/No | Is the woman dressed in white? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest a strong emotional bond between the man and woman? | Yes. |
+| Yes/No | Is the contrast between the man's black shirt and the woman's white shirt visually interesting? | Yes. |
+| What | What is the man wearing? | A black shirt. |
+| What | What is the woman wearing? | A white shirt. |
+| How | How are the man and woman positioned in the image? | The man is positioned on the left, and the woman is positioned on the right. |
+| How | How do the man and woman's lips meet in the kiss? | Their lips meet in a passionate kiss, creating a sense of connection and intimacy. |

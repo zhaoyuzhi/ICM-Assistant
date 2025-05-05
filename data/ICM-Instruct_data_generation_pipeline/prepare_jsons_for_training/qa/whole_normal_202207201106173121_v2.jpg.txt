@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a cell phone? | Yes. |
+| Yes/No | Is the woman wearing a black blazer and skirt? | Yes. |
+| Yes/No | Is the cell phone white? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire or the overall atmosphere of the image provocative or suggestive? | No. |
+| Yes/No | Does the image reveal any private or intimate details about the woman or her surroundings? | No. |
+| What | What is the woman doing in the image? | She is holding a cell phone in her right hand. |
+| What | What is the background of the image? | The background is a colorful mosaic. |
+| How | How is the woman's attire in the image? | The woman is wearing a black blazer and a black skirt. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is not provocative or suggestive. It focuses on the woman's actions and her interaction with the cell phone, rather than her physical appearance. |

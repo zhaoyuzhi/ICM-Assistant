@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a top? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Is the woman's left hand in her pocket? | Yes. |
+| Yes/No | Is the woman's right hand resting on her hip? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and style? | Yes. |
+| What | What color is the woman's top? | Pink. |
+| What | What is the woman's pose in the image? | She is standing with her left hand in her pocket and her right hand resting on her hip. |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | The woman's outfit, specifically the cropped shorts, contributes to the overall atmosphere of the image by showcasing her body in a confident and stylish manner. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, with her left hand in her pocket and her right hand resting on her hip, contributes to the overall atmosphere of the image by conveying a sense of confidence and allure. |

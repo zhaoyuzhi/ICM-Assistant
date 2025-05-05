@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress white? | Yes. |
+| Yes/No | Does the dress have green flowers? | Yes. |
+| Yes/No | Is the woman's neckline high? | Yes. |
+| Yes/No | Are the woman's legs and thighs exposed? | Yes. |
+| Yes/No | Is the woman wearing black heels? | Yes. |
+| What | What color are the flowers on the dress? | Green. |
+| What | What is the woman lifting her skirt with? | Her hands. |
+| How | How does the woman's attire and pose contribute to the overall mood of the image? | They create a seductive atmosphere. |
+| How | How do the black heels contribute to the woman's overall appearance in the image? | They add to her sensuality and confidence. |

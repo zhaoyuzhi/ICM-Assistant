@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman standing in front of a counter? | Yes. |
+| What | What is the woman wearing on her upper body? | A white tshirt with a graphic design. |
+| What | What is the color of the woman's skirt? | Black. |
+| How | How is the woman's hair styled? | Not specified in the description. |
+| How | How is the background of the image blurred? | Not specified in the description. |

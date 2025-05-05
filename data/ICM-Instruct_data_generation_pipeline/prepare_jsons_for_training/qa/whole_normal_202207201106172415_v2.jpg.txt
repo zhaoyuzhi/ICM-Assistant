@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige outfit? | Yes. |
+| Yes/No | Is the woman holding a white purse? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the image feature a couch and coffee table in the living room? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image portray a casual and relaxed atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A beige shortsleeved shirt and pants. |
+| What | What is the woman holding in her hand? | A white purse. |
+| How | How is the woman standing in the living room? | She is standing in a relaxed pose. |
+| How | How is the image lit? | The exposure level is low, emphasizing the living room setting and the woman's attire rather than her physical appearance. |

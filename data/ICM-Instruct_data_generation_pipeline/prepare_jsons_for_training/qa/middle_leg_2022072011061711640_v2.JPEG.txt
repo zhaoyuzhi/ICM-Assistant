@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt cropped at the knee? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the person wearing a striped shirt? | No. |
+| Yes/No | Is the overall atmosphere of the image formal? | No. |
+| Yes/No | Does the image suggest a relaxed and comfortable setting? | Yes. |
+| What | What is the length of the skirt? | Cropped at the knee. |
+| What | What is the color of the skirt? | Denim. |
+| How | How does the slit on the left side of the skirt contribute to the sexy feel of the image? | It adds to the allure and confidence of the person in the image. |
+| How | How does the combination of the denim skirt, slit, and casual atmosphere enhance the sexy vibe of the image? | It creates a sense of relaxed confidence and sexual attractiveness. |

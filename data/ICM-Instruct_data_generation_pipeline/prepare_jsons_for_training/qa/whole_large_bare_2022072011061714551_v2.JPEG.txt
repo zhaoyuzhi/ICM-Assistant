@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the bikini top designed with the colors of the British flag? | Yes. |
+| Yes/No | Is the popsicle the woman is holding red and white? | Yes. |
+| Yes/No | Is the lounge chair the woman is sitting on made of plastic? | Yes. |
+| Yes/No | Is the background of the image a pool area with palm trees? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman holding in her hand? | A popsicle. |
+| What | What is the design on the woman's bikini top? | The colors of the British flag (red, white, and blue). |
+| How | How is the woman sitting on the lounge chair? | She is sitting in a relaxed posture, with her legs crossed and her hand resting on her knee. |
+| How | How does the popsicle the woman is holding match the colors of the flag? | The popsicle is red and white, matching the colors of the British flag. |

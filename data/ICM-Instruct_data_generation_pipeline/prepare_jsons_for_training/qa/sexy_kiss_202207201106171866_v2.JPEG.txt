@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the women in the image kissing? | Yes. |
+| Yes/No | Is one of the women wearing a school uniform? | Yes. |
+| Yes/No | Is the other woman wearing a red scarf? | Yes. |
+| Yes/No | Are they standing close to each other? | Yes. |
+| Yes/No | Is the setting of the image a library? | Yes. |
+| What | What is the main color of the scarf worn by one of the women? | Red. |
+| What | What is the approximate age of the woman wearing the school uniform? | Late teens/early twenties. |
+| How | How many bookshelves are visible in the background of the image? | At least three. |
+| How | How would you describe the lighting in the image? | Soft, natural light. |

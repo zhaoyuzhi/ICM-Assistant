@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person wearing black underwear in the image? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the person's pose in the image? | The person is lying on their back with their legs crossed. |
+| What | What color is the person's underwear in the image? | Black. |
+| How | How does the person's pose and clothing contribute to the image's allure? | The person's pose and clothing contribute to the image's allure by suggesting a level of confidence and selfassuredness, which can be appealing to some viewers. |
+| How | How does the image convey a sense of vulnerability and sensuality? | The image conveys a sense of vulnerability and sensuality through the person's exposed lower body and the intimate atmosphere created by their crossed legs and the black underwear. |

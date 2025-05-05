@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are the woman's pants white? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Is the woman's hand on her hip? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman's pose in the image? | She is posing with her hand on her hip and her head tilted to the side. |
+| How | How is the woman's top styled? | It is a strapless top with a lace trim. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is sexy due to the woman's attire and pose. |

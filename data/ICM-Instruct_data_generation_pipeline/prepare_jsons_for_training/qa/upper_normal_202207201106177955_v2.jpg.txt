@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman dressed in a pink blouse and a white skirt? | Yes. |
+| Yes/No | Does the woman have a professional and elegant vibe? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| What | What is the overall atmosphere of the image? | Calm and composed. |
+| How | How is the woman's professional attire depicted in the image? | The woman is dressed in a pink blouse and a white skirt, giving off a professional and elegant vibe. |
+| How | How does the low exposure level of the image affect its overall feel? | The low exposure level emphasizes the focus on the woman's professional appearance and the overall atmosphere of the image, rather than any provocative elements. |

@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue pajama pants? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the person's attire casual? | Yes. |
+| How | Does the image showcase the person's body in a vulnerable way? | Yes. |
+| What | What color are the person's pajama pants? | Blue. |
+| What | What is the main focus of the image? | The person's stomach. |
+| How | How does the image capture the person's body? | In a candid moment. |
+| How | How does the image suggest the person is feeling? | Relaxed and comfortable. |
+| Yes/No | Is the person in the image wearing blue pajama pants? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person lying down in the image? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's pajama pants? | Blue. |
+| What | What is the main focus of the image? | The person's belly. |
+| How | How is the person positioned in the image? | The person is lying down. |
+| How | How does the image evoke feelings of intimacy and sensuality? | The person's exposed belly and vulnerable position evoke feelings of intimacy and sensuality. |

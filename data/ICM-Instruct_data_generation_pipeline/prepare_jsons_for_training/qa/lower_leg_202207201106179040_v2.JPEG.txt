@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a brown sweater? | Yes. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Is the person in the image holding a black purse? | Yes. |
+| Yes/No | Are the person's legs the main focus of the image? | Yes. |
+| Yes/No | Does the image suggest that the person might be traveling to or from a romantic or intimate destination? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their feet? | High heels. |
+| What | What is the person in the image holding in their hand? | A black purse. |
+| How | How are the person's legs visible in the image? | Because they are not wearing pants. |
+| How | How does the image create a sense of allure and mystery? | By showing a person in a skirt and high heels on a train platform, suggesting they might be traveling to or from a romantic or intimate destination. |

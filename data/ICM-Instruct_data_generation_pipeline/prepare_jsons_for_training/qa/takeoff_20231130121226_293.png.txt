@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Is the woman in the image wearing red underwear? | Yes. |
+| Yes/No | Is the background of the image black? | Yes. |
+| Yes/No | Is the woman holding her sweater over her head? | Yes. |
+| Yes/No | Is the woman looking down at her sweater? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman doing in the image? | She is pulling down her sweater to reveal her red underwear. |
+| What | What is the color of the woman's underwear? | Red. |
+| How | How is the woman's pose in the image? | She is standing with her sweater over her head. |
+| How | How does the contrast between the black background and the woman's red underwear enhance the visual impact of the image? | It creates a striking visual contrast that draws the viewer's attention to the woman's red underwear, adding to the overall allure of the image. |

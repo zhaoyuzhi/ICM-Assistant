@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image biting her lip? | Yes. |
+| Yes/No | Is the woman in the image looking upwards? | Yes. |
+| Yes/No | Does the image feature a close-up shot of the woman's face and upper body? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image evoke a sense of desire and curiosity in the viewer? | Yes. |
+| What | What is the woman's hair color in the image? | Brown. |
+| What | What is the woman's facial expression in the image? | Serious. |
+| How | How is the woman's lip bitten in the image? | The woman's lip is bitten gently. |
+| How | How does the close-up shot of the woman's face and upper body highlight her features? | The closeup shot highlights the woman's facial features, such as her eyes and eyebrows, and her body language, such as her posture and the positioning of her arms. |

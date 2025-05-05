@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black sweatshirt? | Yes. |
+| Yes/No | Are his hands tucked into his pockets? | Yes. |
+| Yes/No | Is he wearing a watch on his left wrist? | Yes. |
+| Yes/No | Are his feet shoulder-width apart? | Yes. |
+| Yes/No | Is he looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the man's attire in the image? | Black sweatshirt and black sweatpants. |
+| What | What is the overall atmosphere of the image? | Neutral and nonsexual. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How is the man looking in the image? | Directly at the camera. |

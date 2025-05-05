@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the woman wearing a strapless outfit? | Yes. |
+| Yes/No | Does the outfit have a high neckline? | Yes. |
+| Yes/No | Does the outfit have a ruffled collar? | Yes. |
+| Yes/No | Is the woman wearing a wide-legged jumpsuit? | Yes. |
+| Yes/No | Is the jumpsuit paired with a tie at the waist? | Yes. |
+| What | What is the color of the woman's outfit? | The color of the woman's outfit is not specified in the description, so it cannot be determined. |
+| What | What is the woman's hairstyle in the image? | The woman's hairstyle is not specified in the description, so it cannot be determined. |
+| How | How does the woman carry herself on the stage? | The woman carries herself confidently and with poise on the stage. |
+| How | How does the gold watch add to the woman's overall look? | The gold watch adds a touch of sophistication to the woman's overall look, making her appear more puttogether and stylish. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman wearing a gray sweater? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Are the woman's eyes looking off to the side? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's sweater? | Gray. |
+| What | What is the woman doing with her lip? | Biting it. |
+| How | How is the woman's smile? | Slight. |
+| How | How is the woman looking off to the side? | Confident and selfassured. |

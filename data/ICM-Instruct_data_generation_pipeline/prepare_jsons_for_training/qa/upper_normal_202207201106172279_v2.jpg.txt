@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a white blouse with ruffled sleeves? | Yes. |
+| Yes/No | Is her hair styled in a short bob? | Yes. |
+| Yes/No | Is the woman looking off to the side with a slight smile on her face? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the main focus of the image? | The woman's appearance and the setting. |
+| What | What is the overall atmosphere of the image? | Calm and innocent. |
+| How | How is the woman's smile conveyed in the image? | Slight smile. |
+| How | How does the low exposure level of the image affect the focus of the photo? | It emphasizes the focus on the woman's appearance and the setting rather than her physical attributes. |

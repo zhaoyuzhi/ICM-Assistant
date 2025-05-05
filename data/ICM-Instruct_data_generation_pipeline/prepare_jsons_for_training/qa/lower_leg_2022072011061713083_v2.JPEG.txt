@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing high heels? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Are the person's arms resting on their knees in the image? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What color are the high heels worn by the person in the image? | Dark blue and maroon. |
+| What | What is the color of the person's shirt in the image? | White. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How are the person's arms positioned in the image? | Resting on their knees. |

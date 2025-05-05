@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Does the woman have blue eyes? | Yes. |
+| Yes/No | Is the woman's expression pouting? | Yes. |
+| Yes/No | Is the image seductive? | Yes. |
+| Yes/No | Does the woman's look suggest she's about to kiss? | Yes. |
+| Yes/No | Is the image alluring? | Yes. |
+| What | What is the woman's facial expression? | Pouting. |
+| What | What is the woman looking at? | Upwards and to the left. |
+| How | How does the woman's pouting expression contribute to the image's sexiness? | It's often associated with confidence and allure. |
+| How | How does the woman's eye gaze contribute to the image's intrigue and mystery? | It creates a sense of longing and anticipation. |

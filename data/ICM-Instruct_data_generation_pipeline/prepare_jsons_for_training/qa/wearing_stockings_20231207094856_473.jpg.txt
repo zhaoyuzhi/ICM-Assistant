@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Are they also wearing black stockings? | Yes. |
+| Yes/No | Is the person standing in a room with a white wall? | Yes. |
+| Yes/No | Is there a painting on the wall in the room? | Yes. |
+| Yes/No | Does the image convey an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Is the act of putting on stockings depicted in the image? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the wall in the room? | White. |
+| How | How is the image sexy? | It portrays a person in revealing clothing, engaged in a sensual act, in an intimate setting. |
+| How | How does the painting on the wall contribute to the atmosphere of the image? | It adds to the personal and private nature of the setting, enhancing the intimate and sensual feel of the image. |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Are they also wearing black stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on stockings? | Yes. |
+| Yes/No | Is the room they are in have a white wall? | Yes. |
+| Yes/No | Is there a painting on the wall? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the wall in the room? | White. |
+| How | How is the person in the image expressing themselves? | Through their choice of revealing clothing and the act of putting on stockings. |
+| How | How does the image make you feel? | The image creates a sense of allure and sensuality that can make the viewer feel intrigued or attracted to the person in the image. |

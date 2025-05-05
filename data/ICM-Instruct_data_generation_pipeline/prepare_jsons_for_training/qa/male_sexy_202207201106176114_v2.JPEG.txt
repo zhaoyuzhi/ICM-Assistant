@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any hints about the man's facial expression in the image? | No. |
+| Yes/No | Is the man's bare chest visible in the image? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Does the image suggest that the man is in a formal or professional setting? | No. |
+| Yes/No | Is the man's hair visible in the image? | No. |
+| What | What color are the sweatpants the man is wearing? | Gray. |
+| What | What might be the reason for the man's shirtlessness in the image? | Intimacy, vulnerability, or a casual/athletic setting. |
+| How | How is the image's tone or atmosphere described? | Visually appealing, sensual, and evocative of desire or attraction. |
+| How | How do the gray sweatpants contribute to the overall atmosphere of the image? | They suggest a casual or athletic setting, which can contribute to the sensual and intimate atmosphere. |

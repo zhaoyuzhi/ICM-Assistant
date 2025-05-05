@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a necklace? | Yes. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Does the man have blonde hair? | Yes. |
+| Yes/No | Does the woman have brown hair? | Yes. |
+| Yes/No | Are the man and woman dressed in casual clothing? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the man's facial expression? | Smiling. |
+| What | What is the woman's facial expression? | Smiling. |
+| How | How are the man and woman positioned in the image? | The man is positioned on top of the woman, with his arms wrapped around her. |
+| How | How does the blurred background contribute to the overall mood of the image? | It emphasizes the connection between the couple and creates a relaxed and intimate atmosphere. |

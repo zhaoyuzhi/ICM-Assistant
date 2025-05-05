@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image the central figure? | Yes. |
+| Yes/No | Is the background of the image yellow? | Yes. |
+| Yes/No | Is the woman wearing a white t-shirt? | Yes. |
+| Yes/No | Does the woman have a black and white checkered skirt? | Yes. |
+| Yes/No | Are her thighs visible in the image? | Yes. |
+| Yes/No | Is her hair styled in loose waves? | Yes. |
+| What | What is the color of the woman's t-shirt? | White. |
+| What | What is the style of the woman's skirt? | Black and white checkered. |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| How | How does the woman's pose in the image contribute to its overall atmosphere? | Her pose, with her hand on her head, adds a sense of confidence and allure to the image, creating a seductive atmosphere. |

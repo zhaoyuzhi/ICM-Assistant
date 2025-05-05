@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a gray shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the man and woman standing close together? | Yes. |
+| Yes/No | Are their lips meeting in a kiss? | Yes. |
+| Yes/No | Is the background a serene setting of trees and a clear blue sky? | Yes. |
+| Yes/No | Does the image evoke feelings of love and connection? | Yes. |
+| What | What is the man wearing? | A gray shirt. |
+| What | What is the woman wearing? | A white shirt. |
+| How | How are the man and woman positioned in the image? | The man is positioned on the right, and the woman is positioned on the left. |
+| How | How does the background contribute to the atmosphere of the scene? | The serene setting of trees and a clear blue sky adds to the romantic atmosphere of the scene. |

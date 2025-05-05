@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini strapless? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman sitting on a bed? | Yes. |
+| Yes/No | Is the bedspread white? | Yes. |
+| Yes/No | Are there pillows visible behind the woman? | Yes. |
+| What | What is the woman wearing? | A twopiece strapless bikini. |
+| What | What is the color of the bedspread? | White. |
+| How | How many pieces does the bikini consist of? | Two. |
+| How | How is the woman positioned on the bed? | Sitting. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is she resting her head on her hand? | Yes. |
+| Yes/No | Is the couch positioned against a white wall? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Does the image create an intimate atmosphere? | Yes. |
+| What | What is the woman wearing? | A white tshirt and blue jeans. |
+| What | What is the color of the couch? | White. |
+| How | How is the woman positioned on the couch? | She is lying down with her legs crossed and her head resting on her hand. |
+| How | How does the image create an intimate atmosphere? | The woman's pose and attire, the white tshirt and blue jeans, the minimalist backdrop, and the lack of other objects or people in the image all contribute to creating an intimate atmosphere. |

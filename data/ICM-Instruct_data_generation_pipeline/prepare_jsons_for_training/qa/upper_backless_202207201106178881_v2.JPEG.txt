@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a white top? | Yes. |
+| Yes/No | Does the person have their hair pulled back into a ponytail? | Yes. |
+| Yes/No | Are they wearing hoop earrings? | Yes. |
+| Yes/No | Is the person standing in front of a body of water? | Yes. |
+| Yes/No | Does the image have a serene and peaceful atmosphere? | Yes. |
+| What | What is the person's attire in the image? | A white top and hoop earrings. |
+| What | What is the person's hairstyle in the image? | A ponytail. |
+| How | How is the person standing in the image? | With their back to the camera. |
+| How | How does the image's atmosphere contribute to its overall aesthetic? | It creates a sense of relaxation, tranquility, allure, and intrigue. |

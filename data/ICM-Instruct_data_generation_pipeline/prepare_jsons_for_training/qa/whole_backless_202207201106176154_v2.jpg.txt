@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the woman walking away from the camera? | Yes. |
+| Yes/No | Is the dress form-fitting? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the length of the dress's train? | Long. |
+| How | How does the woman carry herself in the image? | Confidently. |
+| How | How does the dress accentuate the woman's figure? | Formfitting. |

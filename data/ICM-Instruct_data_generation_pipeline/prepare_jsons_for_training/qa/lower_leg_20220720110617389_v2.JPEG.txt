@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image pregnant? | Yes. |
+| Yes/No | Are the shorts the woman is wearing black? | Yes. |
+| Yes/No | Does the image feature any text? | No. |
+| Yes/No | Is the woman posing suggestively? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual? | Yes. |
+| Yes/No | Does the woman have black heels on? | Yes. |
+| What | What is the color of the woman's heels? | Black. |
+| What | What is the pattern on the shorts? | Lace. |
+| How | How long are the shorts? | Cropped at the ankle. |
+| How | How does the woman pose? | Confidently and alluringly. |

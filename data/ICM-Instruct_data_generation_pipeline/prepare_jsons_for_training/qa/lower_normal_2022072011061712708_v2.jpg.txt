@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sweater? | Yes. |
+| Yes/No | Is the person in the image holding a magazine? | Yes. |
+| Yes/No | Is the person in the image holding a dog treat? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Does the magazine have a picture of a man on the cover? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the color of the person's sweater? | Beige. |
+| What | What is the person holding in their hand? | A small dog treat. |
+| How | How is the person holding the magazine? | On their lap. |
+| What | What is the atmosphere of the image? | Calm and relaxed. |

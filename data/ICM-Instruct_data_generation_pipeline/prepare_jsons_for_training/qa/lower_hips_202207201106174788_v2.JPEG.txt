@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of pink leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Is the person looking over their shoulder? | Yes. |
+| Yes/No | Does the image feature the person's buttocks? | Yes. |
+| What | What color are the leggings the person is wearing? | Pink. |
+| What | What is the person's attire? | Pink leggings and a black sports bra. |
+| How | How is the person standing in the image? | With their back facing the camera and their legs slightly apart. |
+| How | How does the person's pose and the way they're looking over their shoulder contribute to the image's atmosphere? | It adds to the seductive and alluring atmosphere of the image. |

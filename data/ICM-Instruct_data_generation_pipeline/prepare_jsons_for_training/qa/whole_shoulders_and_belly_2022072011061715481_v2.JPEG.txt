@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black off-the-shoulder top? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the woman have a strapless top on? | Yes. |
+| Yes/No | Are the woman's jeans gray? | Yes. |
+| What | What is the color of the woman's top? | Black. |
+| What | What is the color of the woman's jeans? | Gray. |
+| How | How is the woman's top tied at the neckline? | With a tie. |
+| How | How does the woman's pose create a sense of allure and confidence? | With her hands on her hips and her direct gaze into the camera. |

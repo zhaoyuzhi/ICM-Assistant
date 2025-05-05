@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman giving a thumbs up in the image? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Are there any other discernible objects in the image? | No. |
+| What | What is the woman's pose in the image? | Casual, relaxed. |
+| What | What is the atmosphere of the image? | Casual confidence and allure. |
+| How | How does the woman's pose and attire contribute to the image's overall atmosphere? | The woman's confident pose and casual attire create a relaxed and alluring atmosphere. |
+| How | How does the woman's thumbs up gesture contribute to the image's overall meaning? | The woman's thumbs up gesture adds to the sense of confidence and selfassuredness, which are often associated with attractive and desirable qualities. |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman giving a thumbs up in the image? | Yes. |
+| Yes/No | Does the image convey a sense of self-assuredness and confidence? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image showcase the woman's body in a confident and unapologetic manner? | Yes. |
+| What | What is the woman's attire in the image? | A black top. |
+| What | What is the woman's gesture in the image? | A thumbs up. |
+| How | How does the woman's attire and exposed belly contribute to the image's sexiness? | They suggest that the woman is comfortable with her body and possibly proud of her appearance, creating an atmosphere of allure and attractiveness. |
+| How | How does the image evoke feelings in the viewer? | It may evoke feelings of desire or admiration in the viewer, making it sexy. |

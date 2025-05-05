@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow chair? | No. |
+| Yes/No | Is the person in the image standing in front of a refrigerator? | Yes. |
+| Yes/No | Is the person in the image holding a pair of scissors? | Yes. |
+| Yes/No | Is the person in the image taking off their clothes? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image holding above their head? | Their shirt. |
+| What | What is the color of the person's underwear? | Black. |
+| How | How is the person holding the scissors? | The person is holding the scissors in their hand. |
+| How | How is the person taking off their clothes? | The person is taking off their clothes in a manner that exposes their torso and upper body. |

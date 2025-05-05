@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the person holding a coffee cup in their hand? | Yes. |
+| Yes/No | Is the room's wall green? | Yes. |
+| Yes/No | Is the floor wooden? | Yes. |
+| Yes/No | Is there a clock on the wall? | Yes. |
+| Yes/No | Is there a guitar leaning against the wall? | Yes. |
+| What | What is the person wearing? | A black skirt and a gray shirt. |
+| What | What is the person holding in their hand? | A coffee cup. |
+| How | How is the person posing for the photo? | The person appears to be posing casually, with a relaxed expression and posture. |
+| How | How does the image convey a casual, everyday setting? | The image conveys a casual, everyday setting through the person's outfit, the room's decor, and the presence of everyday objects such as a clock and a guitar. The low exposure level also contributes to a more relaxed and natural atmosphere. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person holding a coffee cup? | Yes. |
+| Yes/No | Is the wall in the background green? | Yes. |
+| Yes/No | Does the image depict a clock? | Yes. |
+| Yes/No | Is the person's attire revealing or suggestive? | No. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| What | What is the person wearing? | A black skirt and a gray shirt. |
+| What | What is the person holding in their hand? | A coffee cup. |
+| How | How is the person standing in the room? | The person is standing in a casual, relaxed pose. |
+| How | How would you describe the lighting in the room? | The lighting in the room is low, creating a dim atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a lace back? | Yes. |
+| Yes/No | Is the woman's hair styled in an updo? | Yes. |
+| Yes/No | Is the woman wearing earrings? | Yes. |
+| Yes/No | Are there trees in the background of the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the woman's hair styled in? | An elegant updo. |
+| How | How does the lace back of the dress contribute to the overall atmosphere of the image? | It creates a sense of allure and mystery. |
+| How | How does the natural setting of the image contrast with the woman's attire? | The natural setting provides a sense of serenity and tranquility, while the woman's attire adds a sense of glamour and sophistication. |

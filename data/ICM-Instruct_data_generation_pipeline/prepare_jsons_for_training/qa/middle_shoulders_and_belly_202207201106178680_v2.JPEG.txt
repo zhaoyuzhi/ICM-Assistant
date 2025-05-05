@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's shirt cropped, revealing their midriff? | Yes. |
+| Yes/No | Are the person's hands tucked into their pockets? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person's pose confident and relaxed? | Yes. |
+| What | What color are the person's jeans and shirt? | Blue. |
+| What | What is the person's pose in the image? | Hands in pockets, confident and relaxed. |
+| How | How does the person's attire contribute to the image's sexy atmosphere? | The tight jeans and cropped shirt reveal the person's body, creating a sense of intimacy and selfassuredness. |
+| How | How does the image's overall atmosphere contribute to its sexy appeal? | The casual and confident atmosphere, combined with the person's attire and pose, creates a sense of selfassuredness and confidence, which is often associated with sexy images. The blue color adds a cool, calming tone, further enhancing its sexy appeal. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the jeans faded? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability? | Yes. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| What | What is the main focus of the image? | The blue jeans. |
+| What | What does the exposed belly and the faded jeans create? | A sense of casualness and comfort. |
+| How | How does the image evoke a sense of relaxation? | Through the combination of the exposed belly, faded jeans, and the person's pose. |
+| How | How does the image convey a sense of self-assuredness? | Through the person's pose and the overall atmosphere. |

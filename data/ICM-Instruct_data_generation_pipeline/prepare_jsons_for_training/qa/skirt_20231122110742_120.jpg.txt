@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow dress? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Does the dress have a full skirt? | Yes. |
+| Yes/No | Is the woman lifting her dress? | Yes. |
+| Yes/No | Are the woman's legs and thighs visible in the image? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What is the woman's pose in the image? | The woman is standing with one leg bent and the other extended, and she is lifting her dress with one hand. |
+| What | What is the atmosphere created by the combination of elements in the image? | The atmosphere created by the combination of elements in the image is both alluring and seductive. |
+| How | How is the dress flowing? | The dress is flowing in a suggestive way, highlighting the woman's curves. |
+| How | How does the woman's pose and the way she is lifting her dress suggest a sense of confidence and allure? | The woman's pose and the way she is lifting her dress suggest a sense of confidence and allure because they emphasize her sensuality and femininity. |

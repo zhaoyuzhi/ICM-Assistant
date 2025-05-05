@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini blue? | Yes. |
+| Yes/No | Is the woman walking on a beach? | Yes. |
+| Yes/No | Is the bikini designed to be worn by women? | Yes. |
+| Yes/No | Is the image taken during a warm, sunny day? | Yes. |
+| Yes/No | Does the image depict a sexy scene? | Yes. |
+| What | What is the woman wearing in the image? | A blue bikini. |
+| What | What is the setting of the image? | A beach. |
+| How | How is the woman's attire in the image? | The woman's attire is revealing and suggestive, highlighting her curves and body shape. |
+| How | How does the woman's confident stride and the beach setting contribute to the overall atmosphere of the image? | The woman's confident stride and the beach setting contribute to an atmosphere that is both alluring and inviting, suggesting a sense of freedom and relaxation. |

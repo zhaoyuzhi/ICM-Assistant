@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the woman have a cat design on her blouse? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Does the black skirt feature a silver design? | Yes. |
+| Yes/No | Is the woman posing with her hand on her chest? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What is the design on the woman's skirt? | Silver. |
+| How | How is the woman posing in the image? | With her hand on her chest and looking off to the side. |
+| What | What does the woman's pose and outfit suggest? | Confidence, allure, and a touch of mystery. |

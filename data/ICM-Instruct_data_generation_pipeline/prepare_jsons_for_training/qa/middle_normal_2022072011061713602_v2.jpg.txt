@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main focus of the image a mannequin wearing blue shorts? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive details? | No. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| What | What is the color of the logo on the left leg of the shorts? | White. |
+| What | What is the color of the belt on the shorts? | Black. |
+| How | How is the mannequin positioned in the image? | The mannequin is positioned in a way that the shorts are the main focus of the image. |
+| What | What is the exposure level of the image? | Very low. |
+| Yes/No | Is the mannequin dressed in a blue polo shirt? | Yes. |
+| Yes/No | Are the mannequin's shorts also blue? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the mannequin positioned in a way that suggests it is walking? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Does the image contain any suggestive or explicit content? | No. |
+| What | What is the mannequin wearing? | A blue polo shirt and blue shorts. |
+| What | What is the focus of the image? | The details of the mannequin's clothing. |
+| How | How is the mannequin positioned in the image? | The mannequin is positioned in a way that suggests it is walking. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level emphasizes the details of the mannequin's clothing and creates a nonsexy atmosphere. |

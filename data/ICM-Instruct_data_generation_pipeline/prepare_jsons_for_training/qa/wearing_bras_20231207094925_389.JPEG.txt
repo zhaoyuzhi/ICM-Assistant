@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra black? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Are the woman's hands on the bra? | Yes. |
+| Yes/No | Is the strap being adjusted? | Yes. |
+| Yes/No | Is the clasp being adjusted? | Yes. |
+| What | What is the color of the bra? | Black. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How is the woman adjusting the bra? | The woman is adjusting the strap and clasp. |
+| What | What is the atmosphere of the image? | Sensual and alluring. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra black? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Are the woman's hands on the bra? | Yes. |
+| Yes/No | Is the strap being adjusted? | Yes. |
+| Yes/No | Is the clasp being adjusted? | Yes. |
+| What | What is the color of the bra? | Black. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How is the woman adjusting the bra? | She is adjusting the strap and clasp. |
+| What | What does the black color of the bra add to the image? | Mystery and allure. |

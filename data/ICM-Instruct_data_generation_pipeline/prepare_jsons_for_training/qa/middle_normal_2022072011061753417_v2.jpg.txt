@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white shirt and a blue skirt? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's pose modest? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image focus on the woman's casual attire and relaxed pose? | Yes. |
+| What | What is the woman wearing in the image? | A white shirt and a blue skirt. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How is the woman standing in the image? | With her arms crossed. |
+| How | How much of the woman's body is visible in the image? | Only a small portion. |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman dressed in a casual outfit? | Yes. |
+| Yes/No | Is the woman standing with her arms crossed? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the main subject of the image wearing? | A white tshirt and a blue denim skirt. |
+| What | What is the woman's pose in the image? | Standing with her arms crossed. |
+| How | How is the woman's body positioned in the frame? | Her body is positioned in a neutral pose, with her arms crossed and her weight evenly distributed on both feet. |
+| How | How does the low exposure level contribute to the image's overall atmosphere? | The low exposure level focuses the viewer's attention on a limited portion of the woman's body, creating a sense of modesty and contributing to the nonsexual nature of the image. |

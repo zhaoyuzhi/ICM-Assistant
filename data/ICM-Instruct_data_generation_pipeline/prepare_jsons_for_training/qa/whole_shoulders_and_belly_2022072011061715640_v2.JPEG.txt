@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue sweater? | Yes. |
+| Yes/No | Is the woman in the image posing with her hands on her hips? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman in the image wearing a midriff-baring outfit? | Yes. |
+| Yes/No | Is the blue sweater cropped? | Yes. |
+| Yes/No | Does the image convey confidence? | Yes. |
+| What | What color is the sweater the woman is wearing? | Blue. |
+| What | What is the woman in the image posing with her hands on? | Her hips. |
+| How | How does the woman's pose contribute to the image's atmosphere? | It adds to the confidence and allure of the image. |
+| How | How does the blue sweater contribute to the image's atmosphere? | It emphasizes the midriff and adds to the sexy feel of the image. |

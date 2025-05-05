@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Does the woman have a nose piercing? | Yes. |
+| Yes/No | Is the woman wearing pink nail polish? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the woman have a playful expression? | Yes. |
+| Yes/No | Does the woman have a seductive expression? | Yes. |
+| What | What color is the woman's nail polish? | Pink. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| How | How does the woman's nose piercing contribute to the image's overall atmosphere? | It adds an edgy and bold touch to her appearance. |
+| How | How does the woman's direct gaze at the camera contribute to the image's overall atmosphere? | It creates a sense of connection and intimacy with the viewer. |

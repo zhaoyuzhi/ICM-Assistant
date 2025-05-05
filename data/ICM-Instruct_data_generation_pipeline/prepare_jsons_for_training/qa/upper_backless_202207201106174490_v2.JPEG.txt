@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the blouse have a cutout in the back? | Yes. |
+| Yes/No | Are the jeans blue? | Yes. |
+| Yes/No | Is the person holding sunglasses in their hand? | Yes. |
+| Yes/No | Is the person smiling? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What is the person holding in their hand? | Sunglasses. |
+| How | How is the person posing in the image? | Standing in front of a building, smiling, and holding sunglasses in their hand. |
+| How | How would you describe the atmosphere of the image? | Alluring and attractive, with a playful and confident vibe. |

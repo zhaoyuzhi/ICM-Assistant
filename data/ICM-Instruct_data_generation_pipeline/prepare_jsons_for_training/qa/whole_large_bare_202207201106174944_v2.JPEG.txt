@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the bikini revealing? | Yes. |
+| Yes/No | Is the woman wearing any other clothing? | No. |
+| Yes/No | Is the bed covered with a white sheet? | Yes. |
+| Yes/No | Does the image have a sensual and provocative atmosphere? | Yes. |
+| What | What is the woman wearing? | A white bikini. |
+| What | What is the color of the bed sheet? | White. |
+| How | How is the woman posed in the image? | She is lying on her back, facing the camera. |
+| How | How would you describe the overall mood of the image? | Sensual and provocative. |

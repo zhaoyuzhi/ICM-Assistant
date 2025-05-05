@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray dress? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image suggest a sexy or provocative context? | No. |
+| Yes/No | Are there any elements in the image that suggest a sense of modesty and respect for privacy? | Yes. |
+| What | What is the color of the woman's dress? | Gray. |
+| What | What is the woman's pose in the image? | Standing with her hair pulled back and looking over her shoulder. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It creates a calm and serene atmosphere. |
+| How | How does the white wall and window in the background affect the image? | They provide a neutral backdrop that emphasizes the woman's attire and posture. |

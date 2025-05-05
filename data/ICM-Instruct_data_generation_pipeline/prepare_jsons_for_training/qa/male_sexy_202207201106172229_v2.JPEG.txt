@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image contain any other people or objects? | No. |
+| Yes/No | Is the background of the image light? | No. |
+| Yes/No | Are the man's arms crossed in the image? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image feature a well-defined physique? | Yes. |
+| What | What is the man's pose in the image? | Arms crossed. |
+| What | What is the color of the background in the image? | Dark. |
+| How | How does the man's pose contribute to the overall allure of the image? | The man's pose, with his arms crossed, adds to the overall allure of the image. |
+| How | How does the dark background emphasize the man's physique? | The dark background further emphasizes the man's physique, making it the focal point of the picture. |

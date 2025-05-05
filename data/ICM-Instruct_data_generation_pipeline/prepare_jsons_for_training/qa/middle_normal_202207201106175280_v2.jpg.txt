@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman dressed in a white shirt and beige pants? | Yes. |
+| Yes/No | Does the woman carry a brown purse? | Yes. |
+| Yes/No | Is the woman's pose confident and relaxed? | Yes. |
+| Yes/No | Is the background of the image a blurred plant? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What is the woman's pose? | She is resting her left hand on her hip and lightly touching her thigh with her right hand. |
+| How | How is the woman's attire described? | Casual and comfortable. |
+| How | How does the low exposure level of the image affect the focus of the image? | It focuses on the woman's outfit and pose, rather than any other elements in the image. |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman dressed in a provocative or revealing outfit? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman carrying on her waist? | A brown purse. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How does the woman's outfit contribute to the non-sexual setting? | The woman's outfit, consisting of a white shirt and beige pants, is not revealing or provocative, and the low exposure level keeps the focus on her clothing and not her body. |
+| How | How does the low exposure level maintain the woman's privacy? | The low exposure level means that the woman's face is not visible, maintaining her privacy. |

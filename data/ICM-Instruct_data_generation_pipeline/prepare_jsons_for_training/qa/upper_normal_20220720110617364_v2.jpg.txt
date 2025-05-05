@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing glasses? | Yes. |
+| Yes/No | Is the man eating a corn on the cob? | Yes. |
+| Yes/No | Is the table set with a bowl of soup? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| Yes/No | Is the focus of the image on the man's face and the food he is eating? | Yes. |
+| What | What is the man eating? | Corn on the cob. |
+| What | What is the man wearing? | A blue and white striped shirt. |
+| How | How is the man eating the corn on the cob? | Not specified in the description. |
+| How | How is the image lit? | The exposure level is very low, emphasizing the man's face and the food he is eating. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Does the person in the image have a slight smile? | Yes. |
+| Yes/No | Is the person in the image wearing a gold necklace? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the red lipstick and gold necklace contribute to the image's allure? | Yes. |
+| What | What is the person in the image doing with their lips? | They are puckered as if kissing. |
+| What | What does the person's facial expression convey? | A playful and seductive pose. |
+| How | How does the person's pouting pose and expression contribute to the image's atmosphere? | It creates a sexy and evocative atmosphere. |
+| How | How do the red lipstick and gold necklace contribute to the image's allure? | They add a touch of elegance and sophistication to the image, enhancing its visually appealing and evocative nature. |

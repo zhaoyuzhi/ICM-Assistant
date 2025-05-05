@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra purple? | Yes. |
+| Yes/No | Does the bra have a lace pattern? | Yes. |
+| Yes/No | Are the woman's hands on her chest? | Yes. |
+| Yes/No | Is the background of the image plain beige? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman doing in the image? | She is in the process of putting on the bra. |
+| What | What color is the bra the woman is wearing? | Purple. |
+| How | How is the woman's gesture of putting on the bra perceived? | It can be seen as a provocative and seductive gesture. |
+| How | How does the plain beige background affect the image? | It puts the focus on the woman and her actions, making the image more intimate and alluring. |
+| Yes/No | Is the woman in the image wearing a purple bra? | Yes. |
+| Yes/No | Does the woman have her hands on her chest? | Yes. |
+| Yes/No | Is the background of the image plain beige? | Yes. |
+| What | What color is the bra the woman is wearing? | Purple. |
+| What | What is the pattern on the bra? | Lace. |
+| How | How is the woman putting on the bra? | She is in the process of putting it on, with her hands on her chest. |
+| What | What does the plain beige background do to the focus of the image? | It puts the focus on the woman and her actions, making the image more intimate and alluring. |

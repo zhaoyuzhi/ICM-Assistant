@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person in the image wearing a black bra? | Yes. |
+| Yes/No | Is the person in the image wearing black leggings? | Yes. |
+| Yes/No | Is the image in focus on the person's torso and legs? | Yes. |
+| Yes/No | Does the image contain any other discernible objects or people? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the color of the bra the person is wearing? | Black. |
+| What | What is the color of the leggings the person is wearing? | Black. |
+| How | How is the person posing in the image? | With her hands on her head. |
+| What | What is the effect of the white wall in the background on the image? | It provides a stark contrast and draws attention to the subject's body. |

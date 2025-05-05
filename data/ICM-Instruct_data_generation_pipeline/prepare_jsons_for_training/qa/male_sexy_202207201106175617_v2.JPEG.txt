@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the background of the image light-colored? | No. |
+| Yes/No | Does the man have a serious expression on his face? | Yes. |
+| Yes/No | Are the man's arms flexed or tensed? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the man's facial expression? | Serious. |
+| What | What is the background color of the image? | Dark. |
+| How | How does the dark background affect the image? | It contrasts with the man's skin tone and accentuates his physique, creating a sense of intimacy. |
+| How | How does the serious expression on the man's face contribute to the overall atmosphere of the image? | It adds an element of intensity and focus, which can be perceived as sexy by some viewers. |

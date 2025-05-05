@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the person in the image standing in front of a white wall? | Yes. |
+| Yes/No | Is the person in the image positioned on a wooden floor? | Yes. |
+| Yes/No | Does the person in the image have any explicit or suggestive actions? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the person in the image wearing? | Blue jeans and a black shirt. |
+| What | What is the color of the wall in the background of the image? | White. |
+| How | How is the person positioned in the image? | Neutrally, with no indication of explicit or suggestive actions. |
+| How | How does the image's atmosphere feel? | Calm and unassuming. |

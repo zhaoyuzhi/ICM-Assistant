@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini pink and green in color? | Yes. |
+| Yes/No | Is the woman lying on her stomach? | Yes. |
+| Yes/No | Is she wearing sunglasses? | Yes. |
+| Yes/No | Does the beach chair have a blue color? | Yes. |
+| Yes/No | Is the atmosphere of the image relaxed and sexy? | Yes. |
+| What | What is the color of the bikini? | Pink and green. |
+| What | What is the woman's facial expression? | Slight smile. |
+| How | How is the woman positioned on the beach chair? | Lying on her stomach with her legs stretched out in front of her. |
+| How | How does the image create a sexy atmosphere? | The woman is wearing a revealing bikini and is positioned in a relaxed setting, creating a sexy and alluring atmosphere. |

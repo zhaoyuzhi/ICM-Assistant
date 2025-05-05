@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the woman carrying a white shopping bag? | Yes. |
+| Yes/No | Does the woman have earbuds in her ears? | Yes. |
+| Yes/No | Is the woman wearing a plaid skirt? | Yes. |
+| Yes/No | Is the woman's outfit complemented by a pair of white sneakers? | Yes. |
+| Yes/No | Does the image give off a confident and stylish vibe? | Yes. |
+| What | What color is the woman's jacket? | Black. |
+| What | What is the woman carrying in her hand? | A white shopping bag and a black purse. |
+| How | How is the woman carrying her shopping bags? | She is carrying them in her hand. |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | Her outfit, including the plaid skirt, adds a touch of playfulness to the image, contributing to an atmosphere that is both stylish and inviting. |

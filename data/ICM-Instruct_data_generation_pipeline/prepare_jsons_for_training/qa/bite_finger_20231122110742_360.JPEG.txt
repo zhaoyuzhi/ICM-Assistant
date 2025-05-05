@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | No. |
+| Yes/No | Is the image black and white? | No. |
+| Yes/No | Is the person's mouth open? | No. |
+| Yes/No | Are there any distinguishable marks on the person's face? | No. |
+| Yes/No | Is the person looking straight at the camera? | Yes. |
+| Yes/No | Is the person in the image wearing any clothes? | Yes. |
+| What | What color are the person's lips? | Pink. |
+| What | What is the person doing with their finger? | Inside their mouth. |
+| How | How are the person's eyes? | Closed. |
+| How | How would you describe the atmosphere of this image? | Intimate. |

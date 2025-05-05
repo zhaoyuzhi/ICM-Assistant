@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a bikini top? | Yes. |
+| Yes/No | Does the bikini top have a green and white color? | Yes. |
+| Yes/No | Is there a large bow on the woman's head? | Yes. |
+| Yes/No | Is the woman laying on her stomach in a pool? | Yes. |
+| Yes/No | Does the woman have her head resting on her hand? | Yes. |
+| What | What is the color of the bikini top? | Green and white. |
+| What | What is the woman's gaze directed at? | The camera. |
+| How | How is the woman lying in the pool? | On her stomach. |
+| How | How does the woman's direct gaze at the camera enhance the image? | It creates a sense of connection and adds to the overall allure of the image. |

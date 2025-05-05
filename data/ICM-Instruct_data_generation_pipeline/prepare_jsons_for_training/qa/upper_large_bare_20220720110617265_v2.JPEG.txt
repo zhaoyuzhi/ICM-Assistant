@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the person in the image wearing a scarf? | Yes. |
+| Yes/No | Is the person in the image wearing a pirate hat? | Yes. |
+| Yes/No | Are the trees in the background of the image? | Yes. |
+| Yes/No | Is the person in the image standing on a beach? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bikini top? | Yellow and orange. |
+| What | What color is the scarf? | Pink. |
+| How | How is the person posing in the image? | In a sexy pose. |
+| What | What atmosphere does the image suggest? | Fun and relaxation. |

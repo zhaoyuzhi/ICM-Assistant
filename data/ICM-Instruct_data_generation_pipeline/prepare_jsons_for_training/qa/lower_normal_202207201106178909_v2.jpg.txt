@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress long and flowing? | Yes. |
+| Yes/No | Does the woman have her arms outstretched? | Yes. |
+| Yes/No | Are the high heels the woman is wearing black? | No. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Is the woman's outfit modest? | Yes. |
+| What | What is the woman wearing under her dress? | A white blouse. |
+| What | What kind of shoes is the woman wearing? | High heels. |
+| How | How is the woman standing in the image? | With her arms outstretched, as if she is in the middle of a dance move. |
+| How | How would you describe the overall atmosphere of the image? | Elegant and graceful. |

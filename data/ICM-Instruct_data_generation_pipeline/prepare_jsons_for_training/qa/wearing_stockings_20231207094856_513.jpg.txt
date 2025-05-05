@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of white stockings? | Yes. |
+| Yes/No | Is the person in the image lying on a couch? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Do the person's legs appear slender in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the person in the image wearing on their legs? | White stockings. |
+| What | What is the person in the image lying on? | A couch. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How can the atmosphere of the image be described? | Intimate and sensual. |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the person lying on a couch? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Do the stockings have a sexy or seductive appearance? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the person wearing on their legs? | White stockings. |
+| What | What is the person lying on? | A couch. |
+| How | How are the person's legs positioned? | Crossed. |
+| What | What creates the intimate and sensual atmosphere in the image? | The combination of the person wearing stockings, lying on a couch, and their legs being crossed creates an atmosphere that is both intimate and sensual. |

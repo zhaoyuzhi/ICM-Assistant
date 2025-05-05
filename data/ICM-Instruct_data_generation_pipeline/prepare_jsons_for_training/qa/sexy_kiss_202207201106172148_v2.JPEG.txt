@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the children in the image kissing? | Yes. |
+| Yes/No | Is the boy wearing a striped shirt? | Yes. |
+| Yes/No | Is the girl wearing a blue dress? | Yes. |
+| Yes/No | Are there trees visible in the background? | Yes. |
+| Yes/No | Is the setting of the image a grassy field? | Yes. |
+| What | What is the color of the girl's dress? | Blue. |
+| What | What is the boy wearing? | A striped shirt. |
+| How | How are the children positioned in the image? | They are standing and kissing each other. |

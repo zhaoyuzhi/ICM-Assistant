@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Is the person in the image wearing a gold chain belly chain? | Yes. |
+| Yes/No | Are the person's jeans torn at the knees? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image wearing around their neck? | A gold chain belly chain. |
+| What | What is the color of the person's top in the image? | White. |
+| How | How does the person's pose in the image contribute to the overall atmosphere? | The person's pose, with their belly exposed and their legs relaxed, contributes to a sense of confidence and selfassuredness in the image. |
+| How | How does the torn jeans and casual pose create a sense of relaxation and comfort in the image? | The torn jeans and casual pose create a sense of relaxation and comfort by suggesting a lack of formalities and a focus on comfort and ease. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Is the person in the image wearing a gold chain belly chain? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the gold chain belly chain add a touch of glamour and luxury to the image? | Yes. |
+| What | What is the person's posture in the image? | Confident. |
+| What | What is the color of the person's top in the image? | White. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How are the person's hands positioned in the image? | On their hips. |

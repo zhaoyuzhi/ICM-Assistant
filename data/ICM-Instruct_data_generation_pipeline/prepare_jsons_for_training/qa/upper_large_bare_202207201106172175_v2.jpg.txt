@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a lingerie set? | Yes. |
+| Yes/No | Is the lingerie set black in color? | Yes. |
+| Yes/No | Is the woman standing on a bed in the image? | Yes. |
+| Yes/No | Is the background of the image a white comforter? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| What | What is the woman wearing in the image? | A black lingerie set and a black jacket. |
+| What | What is the color of the lingerie set? | Black. |
+| How | How is the woman posing in the image? | In a way that exposes her upper body. |
+| How | How does the black color of the lingerie set and jacket contribute to the image? | It adds to the sexy atmosphere. |

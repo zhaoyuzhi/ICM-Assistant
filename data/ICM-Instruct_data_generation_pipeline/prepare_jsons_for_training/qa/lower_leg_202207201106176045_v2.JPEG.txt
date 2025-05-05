@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue denim shorts? | Yes. |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman in the image wearing sunglasses? | Yes. |
+| Yes/No | Is the woman in the image standing on a wooden floor? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the woman's shorts? | Blue. |
+| What | What is the woman holding in her hand? | A phone. |
+| How | How are the shorts styled? | Highwaisted with a frayed hem. |
+| How | How does the woman's pose and phone-holding suggest confidence and self-assuredness? | The woman is standing with her legs slightly apart and her phone held at chest level, suggesting a sense of confidence and selfassuredness. |

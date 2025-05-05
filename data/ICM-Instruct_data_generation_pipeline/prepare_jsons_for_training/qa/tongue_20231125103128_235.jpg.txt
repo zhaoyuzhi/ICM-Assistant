@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman wearing a denim shirt? | Yes. |
+| Yes/No | Does the woman have a necklace around her neck? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the woman's gesture and expression create a sense of confidence and allure? | Yes. |
+| What | What is the woman sticking out her tongue? | Her tongue. |
+| What | What is the woman wearing? | A denim shirt and a necklace. |
+| How | How is the woman's gesture and expression? | Playful and flirtatious. |
+| How | How does the image make you feel? | Confident, flirtatious, and allured. |

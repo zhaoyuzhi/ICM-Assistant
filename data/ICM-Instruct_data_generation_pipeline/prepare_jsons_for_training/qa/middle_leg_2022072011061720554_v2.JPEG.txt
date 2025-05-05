@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Does the skirt fall above the knees? | Yes. |
+| Yes/No | Are the person's thighs visible in the image? | Yes. |
+| Yes/No | Is the person wearing black socks? | Yes. |
+| Yes/No | Are the person's heels black? | Yes. |
+| What | What color is the person's shirt? | Yellow. |
+| What | What is the length of the skirt? | Above the knees. |
+| How | How does the checkered floor contribute to the overall atmosphere of the image? | It adds a geometric contrast, making the person the focal point of the image. |
+| How | How does the combination of the high-waisted skirt, black socks, and black heels contribute to the image's overall feel? | It creates a sense of allure and confidence, enhancing the sexy feel of the image. |

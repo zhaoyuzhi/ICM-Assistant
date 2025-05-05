@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green shirt? | Yes. |
+| Yes/No | Are her shorts black? | Yes. |
+| Yes/No | Does she have loose waves in her hair? | Yes. |
+| Yes/No | Is she wearing sunglasses? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the woman's attire reveal any explicit or suggestive body parts? | No. |
+| What | What is the color of the woman's shirt? | Green. |
+| What | What is the color of her shorts? | Black. |
+| How | How is the woman's hair styled? | In loose waves. |
+| What | What is the exposure level of the image? | Very low. |

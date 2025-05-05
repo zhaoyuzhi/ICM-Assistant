@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt and shorts? | Yes. |
+| Yes/No | Is the woman sitting on a ledge near a body of water? | Yes. |
+| Yes/No | Does the image feature an advertising slogan? | Yes. |
+| Yes/No | Is the slogan "硬杆必选"? | Yes. |
+| Yes/No | Does the woman's attire and pose suggest confidence and allure? | Yes. |
+| Yes/No | Does the body of water in the background add a serene and tranquil element to the scene? | Yes. |
+| What | What is the woman's pose in the image? | She has her legs crossed. |
+| What | What is the advertising slogan displayed in the image? | "硬杆必选". |
+| How | How does the woman's tight clothing and crossed legs suggest confidence and allure? | They accentuate her curves and create a sense of intimacy. |
+| How | How does the body of water in the background add a serene and tranquil element to the scene? | It creates a sense of calm and contrasts with the sexual implications of the woman's attire and pose. |

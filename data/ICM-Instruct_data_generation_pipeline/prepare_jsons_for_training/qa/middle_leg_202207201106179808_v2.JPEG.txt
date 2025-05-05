@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of pink shorts? | Yes. |
+| Yes/No | Does the person have a relaxed and confident pose? | Yes. |
+| Yes/No | Are the shorts designed with a drawstring waist? | Yes. |
+| Yes/No | Is the person also wearing a light blue tank top? | Yes. |
+| Yes/No | Does the image have a casual and comfortable atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the shorts? | Pink. |
+| What | What is the color of the tank top? | Light blue. |
+| How | How does the drawstring waist of the shorts add an element of intrigue? | It suggests a sense of movement and freedom. |
+| How | How does the person's confident pose enhance the sexy atmosphere of the image? | It adds a sense of selfassurance and sexuality to the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress have a deep V-neckline? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Is the dress made of satin? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Does the dress have a slit on the back? | Yes. |
+| What | What is the color of the dress? | Burgundy. |
+| What | What is the material of the dress? | Satin. |
+| How | How is the person standing in the image? | With their back facing the camera. |
+| How | How does the slit on the back of the dress contribute to the overall atmosphere of the image? | It reveals a large area of the person's back, creating a sense of vulnerability and sensuality. |

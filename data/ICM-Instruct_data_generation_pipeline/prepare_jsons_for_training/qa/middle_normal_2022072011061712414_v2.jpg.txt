@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are his shorts gray? | Yes. |
+| Yes/No | Is he looking off to the side? | Yes. |
+| Yes/No | Does he have a slight smile on his face? | Yes. |
+| Yes/No | Are his hands tucked into his pockets? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the man's pose in the image? | He is standing with his hands in his pockets. |
+| What | What is the overall atmosphere of the image? | Calm and nonthreatening. |
+| How | How is the man dressed in the image? | He is dressed in a white shirt and gray shorts. |
+| How | How does the image evoke a sense of sexuality? | It does not evoke a sense of sexuality as it is a lowkey, nonexplicit image of a man in casual attire. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the man looking off to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose and attire casual and non-threatening? | Yes. |
+| Yes/No | Does the image have a relaxed and non-confrontational atmosphere? | Yes. |
+| What | What is the man wearing on his lower body? | Gray shorts. |
+| What | What is the man's facial expression? | Slight smile. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Relaxed and nonconfrontational. |

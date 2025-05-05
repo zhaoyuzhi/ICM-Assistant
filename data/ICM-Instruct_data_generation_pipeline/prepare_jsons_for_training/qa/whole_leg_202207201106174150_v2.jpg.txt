@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a blue denim shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black leather skirt? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman's left hand placed on her hip? | Yes. |
+| Yes/No | Is the woman's right hand resting on her shoulder? | Yes. |
+| Yes/No | Does the image have a gray background? | Yes. |
+| What | What is the color of the woman's shirt? | Blue. |
+| What | What is the material of the woman's skirt? | Leather. |
+| How | How is the woman's skirt styled? | Highwaisted. |
+| How | How does the woman's pose contribute to the overall allure of the image? | Her pose with her left hand on her hip and her right hand on her shoulder adds to the overall allure of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray shirt? | Yes. |
+| Yes/No | Are they wearing white pants? | Yes. |
+| Yes/No | Is the person lifting their shirt? | Yes. |
+| Yes/No | Are they wearing a black face mask? | Yes. |
+| Yes/No | Is the image atmospheric? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability and sensuality? | Yes. |
+| What | What color is the person's shirt? | Gray. |
+| What | What is the person lifting their shirt revealing? | Their midriff. |
+| How | How is the person lifting their shirt? | By holding it up with one hand. |
+| How | How does the black face mask contribute to the image's atmosphere? | It adds an element of mystery and intrigue. |

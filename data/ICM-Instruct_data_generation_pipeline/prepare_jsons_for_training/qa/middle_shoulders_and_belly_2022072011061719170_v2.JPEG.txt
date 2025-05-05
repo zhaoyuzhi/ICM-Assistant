@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the person have a relaxed posture in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person's clothing appear casual and comfortable? | Yes. |
+| What | What is the color of the person's shirt? | Black. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How does the person's posture contribute to the overall atmosphere of the image? | The person's relaxed posture and confident stance contribute to the overall atmosphere of the image, making it appear more alluring and attractive. |
+| How | How does the person's exposed belly and casual clothing create a sense of vulnerability and intimacy? | The person's exposed belly and casual clothing create a sense of vulnerability and intimacy by showcasing the person's body in a confident and uninhibited manner, suggesting a sense of openness and closeness. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the person's posture relaxed and confident? | Yes. |
+| What | What is the main focus of the image? | The person's exposed belly. |
+| What | What is the atmosphere of the image? | Casual and relaxed. |
+| How | How does the person's posture and shirt suggest a sense of self-assuredness and self-expression? | The person's posture is relaxed and their shirt is pulled up, suggesting a sense of confidence and selfexpression. |
+| How | How does the image create a sense of intimacy and openness? | The person's exposed belly and casual clothing create a sense of intimacy and openness. |

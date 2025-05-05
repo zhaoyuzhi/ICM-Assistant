@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing red shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the man looking off to the side? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the man's pose in the image? | Casual, with hands in pockets. |
+| What | What is the focus of the image? | The man's casual attire and pose, rather than his physical appearance. |
+| How | How is the man's body visible in the image? | Only a small portion of the man's body is visible due to the low exposure level. |
+| How | How does the low exposure level affect the viewer's attention? | It draws the viewer's attention to the man's actions and surroundings rather than his body. |
+| Yes/No | Is the man in the image wearing red shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the man looking off to the side? | Yes. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the man's pose in the image? | Casual, with his hands tucked into his pockets. |
+| What | What is the focus of the image? | The man's casual pose and the stone wall. |
+| How | How is the man standing in relation to the stone wall? | He is standing in front of it. |
+| How | How does the low exposure level of the image affect the viewer's attention? | It draws the viewer's attention to the man's pose and the surrounding environment rather than his body. |

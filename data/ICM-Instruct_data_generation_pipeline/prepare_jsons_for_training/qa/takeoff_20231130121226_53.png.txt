@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image removing their clothes? | Yes. |
+| Yes/No | Is the person in the image wearing a white bra and underwear? | Yes. |
+| Yes/No | Is the person in the image holding up a gray shirt? | Yes. |
+| Yes/No | Is the bathroom floor made of white tiles? | Yes. |
+| Yes/No | Is there a white sink in the bathroom? | Yes. |
+| Yes/No | Is the person standing in front of a mirror? | Yes. |
+| What | What color is the person's bra and underwear? | White. |
+| What | What is the person holding up over their head? | A gray shirt. |
+| How | How many items of clothing is the person removing? | 3 (the gray shirt and their bra and underwear). |
+| What | What is the overall atmosphere of the image? | Intimate and sensual. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white coat? | Yes. |
+| Yes/No | Is the woman in the image wearing a snakeskin belt? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image portray a sexy or provocative scene? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image suggest any intimate or provocative actions? | No. |
+| What | What is the woman in the image wearing? | A white coat and a snakeskin belt. |
+| What | What is the overall atmosphere of the image? | Calm and composed. |
+| How | How is the woman standing in the image? | With her hands placed on her hips. |
+| How | How does the low exposure level of the image contribute to its overall mood? | It emphasizes the modesty of the image and contributes to a sense of professionalism and poise. |
+| Yes/No | Is the woman in the image wearing a white blazer? | Yes. |
+| Yes/No | Is the woman in the image wearing a white skirt? | Yes. |
+| Yes/No | Does the woman in the image have her hands placed on her hips? | Yes. |
+| Yes/No | Is the woman in the image looking off to the side? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image focus on the woman's body or suggestive clothing? | No. |
+| What | What is the pattern on the woman's belt? | Snake skin. |
+| What | What is the overall atmosphere of the image? | Professional and formal. |
+| How | How is the woman standing in the image? | With her hands placed on her hips. |
+| How | How does the low exposure level affect the image? | It emphasizes the focus on the woman's attire and posture rather than her physical appearance. |

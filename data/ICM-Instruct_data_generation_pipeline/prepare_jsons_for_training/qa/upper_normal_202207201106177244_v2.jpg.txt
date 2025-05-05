@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the image set in a romantic or intimate setting? | No. |
+| Yes/No | Does the man have a graphic on his t-shirt? | Yes. |
+| Yes/No | Is the man wearing sunglasses? | Yes. |
+| What | What is the man's attire in the image? | Black tshirt with a graphic, blue jeans, sunglasses. |
+| What | What is the overall atmosphere of the image? | Casual, not sexy. |
+| How | How is the man standing in the image? | With his hands casually tucked into his pockets. |
+| How | How is the image lit? | Low exposure level, with the man's face not clearly visible. |

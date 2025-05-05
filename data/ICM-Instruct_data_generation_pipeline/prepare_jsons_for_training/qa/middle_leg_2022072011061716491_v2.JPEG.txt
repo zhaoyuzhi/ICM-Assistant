@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt beige? | Yes. |
+| Yes/No | Is the shirt white? | Yes. |
+| Yes/No | Is the belt white? | Yes. |
+| Yes/No | Are the person's hands resting on their hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's pose in the image? | Confident and assertive. |
+| What | What is the color palette of the image? | Beige, white, and white. |
+| How | How is the skirt cinched at the waist? | With a white belt. |
+| How | How does the image's composition and the person's pose suggest a sense of confidence and self-assuredness? | The person is standing with their feet shoulderwidth apart, and their hands are resting on their hips, creating a powerful and confident stance. The image's composition, with the person centered in the frame, also adds to the sense of selfassurance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a gray suit? | Yes. |
+| Yes/No | Is the woman in the image wearing a black suit? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the woman's head tilted in the image? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man in the image wearing? | A gray suit. |
+| What | What is the woman in the image wearing? | A black suit. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with their lips locked in a tender embrace. |
+| How | How does the blurred background of the image affect the overall atmosphere? | It draws focus to the couple and their intimate moment, emphasizing their passion and intimacy. |

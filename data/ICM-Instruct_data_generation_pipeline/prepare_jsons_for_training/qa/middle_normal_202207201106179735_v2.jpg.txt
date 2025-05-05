@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the men in the image wearing shirts? | Yes. |
+| Yes/No | Are the men in the image wearing shorts? | Yes. |
+| Yes/No | Is the man on the left wearing a watch? | Yes. |
+| Yes/No | Are the men walking towards the camera? | No. |
+| Yes/No | Is the image well-lit? | No. |
+| What | What is the color of the shirt worn by the man on the left? | Green. |
+| What | What is the color of the shorts worn by the man on the right? | Beige. |
+| What | What is the angle of the image? | Low angle. |
+| Yes/No | Is the image explicit or suggestive? | No. |
+| Yes/No | Are the men in the image wearing shirts? | Yes. |
+| Yes/No | Are the men in the image wearing shorts? | Yes. |
+| Yes/No | Are the men in the image carrying backpacks? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any sexy or provocative elements? | No. |
+| What | What color shirt is one of the men wearing? | Green. |
+| What | What color shirt is the other man wearing? | White. |
+| What | What are the men in the image doing? | Walking down the street. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a cream-colored shirt? | Yes. |
+| Yes/No | Are the pants the person is wearing loose-fitting? | Yes. |
+| Yes/No | Does the image suggest a casual and informal setting? | Yes. |
+| Yes/No | Is the person's outfit elegant? | Yes. |
+| Yes/No | Does the image portray a harmonious and pleasant atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy or provocative tone? | No. |
+| What | What color is the person's shirt? | Cream. |
+| What | What is the color of the pants the person is wearing? | Cream. |
+| How | How is the person's outfit different from a typical playground outfit? | The person's outfit is more elegant and formal than a typical playground outfit. |
+| How | How does the background of the playground contribute to the overall atmosphere of the image? | The playground's background suggests a casual and informal setting, which complements the person's relaxed and comfortable appearance. |

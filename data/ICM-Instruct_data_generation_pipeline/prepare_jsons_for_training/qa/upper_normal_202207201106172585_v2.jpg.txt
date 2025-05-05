@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image dressed professionally? | Yes. |
+| Yes/No | Is the man in the image smiling? | Yes. |
+| Yes/No | Is the man in the image engaged in a conversation? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the setting in the image professional? | Yes. |
+| Yes/No | Is the man's attire in the image appropriate for a professional environment? | Yes. |
+| What | What is the man in the image holding in front of him? | A book. |
+| What | What is the man's facial expression in the image? | Smiling. |
+| How | How is the man's attire in the image? | Professional. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the professional nature of the image and draws attention to the man's demeanor and attire rather than his physical appearance. |

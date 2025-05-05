@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a pink chair? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person wearing red sandals in the image? | Yes. |
+| Yes/No | Are the person's thighs exposed in the image? | Yes. |
+| Yes/No | Is the person's attire in the image considered stylish and fashionable? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the person's sandals in the image? | Red. |
+| What | What color is the chair in the image? | Pink. |
+| How | How are the person's feet resting on the chair in the image? | The person's feet are resting on the chair with their legs crossed. |
+| What | What adds a sense of relaxation and confidence to the image? | The person's legs being crossed and their feet resting on the chair adds a sense of relaxation and confidence to the image. |

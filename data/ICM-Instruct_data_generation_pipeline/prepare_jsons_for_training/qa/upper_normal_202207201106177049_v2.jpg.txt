@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a yellow blouse? | Yes. |
+| Yes/No | Does the blouse have a collar? | Yes. |
+| Yes/No | Are there buttons down the front of the blouse? | Yes. |
+| Yes/No | Is the skirt black? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| What | What is the color of the woman's blouse? | Yellow. |
+| What | What is the type of tree in the background? | Not specified (not a key detail). |
+| How | How is the woman standing in front of the building? | Not specified (not a key detail). |
+| How | How does the low exposure level of the image affect the atmosphere? | It contributes to a nonsexual atmosphere by blurring the background and making the woman's pose and attire the main focus. |

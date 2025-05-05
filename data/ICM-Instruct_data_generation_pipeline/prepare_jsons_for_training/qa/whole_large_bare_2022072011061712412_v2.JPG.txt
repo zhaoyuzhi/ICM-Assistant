@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red bikini? | Yes. |
+| Yes/No | Is the woman smiling and looking directly at the camera? | Yes. |
+| Yes/No | Is the bikini revealing? | Yes. |
+| Yes/No | Is the woman sitting on a rock near the ocean? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Is the woman's pose and the surrounding environment creating a sexy atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A red bikini and a large earring. |
+| What | What is the location of the rock on which the woman is sitting? | Near the water. |
+| How | How is the woman posing in the image? | Confidently and seductively. |
+| How | How does the surrounding environment contribute to the sexy atmosphere? | The natural beauty of the ocean and the rock create a visually appealing and alluring scene. |

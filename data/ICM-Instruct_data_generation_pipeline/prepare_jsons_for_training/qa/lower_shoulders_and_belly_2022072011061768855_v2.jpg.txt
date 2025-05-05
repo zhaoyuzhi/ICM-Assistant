@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing purple leggings? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Is the person standing with their hands on their hips? | Yes. |
+| Yes/No | Is the background of the image a brick wall with a metal railing? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| What | What color are the leggings in the image? | Purple. |
+| What | What is the person's pose in the image? | Standing with hands on hips. |
+| How | How are the leggings fitted? | Formfitting. |
+| How | How does the image convey a sense of confidence and self-assuredness? | Through the person's pose, exposure of their belly, and the urban and edgy background. |

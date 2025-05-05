@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Are there lights visible in the distance? | Yes. |
+| Yes/No | Does the image depict a moment of affection and intimacy? | Yes. |
+| What | What is the man wearing? | A black jacket and a white shirt. |
+| What | What is the woman wearing? | A black dress. |
+| How | How are the man and woman standing? | They are standing close to each other, with the woman's head resting on the man's shoulder. |
+| How | How does the background of the image contribute to the overall atmosphere? | The dark background and few distant lights add to the overall atmosphere, creating a sense of mystery and allure. |

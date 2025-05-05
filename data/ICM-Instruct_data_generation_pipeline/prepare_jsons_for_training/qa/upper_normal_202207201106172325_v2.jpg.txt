@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blazer? | Yes. |
+| Yes/No | Are there books on the bookshelf in the background? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are the woman's hands clasped in front of her? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image suggest a professional setting? | Yes. |
+| What | What is the woman's attire in the image? | A white blazer and black pants. |
+| What | What is the context of the image? | A professional setting, such as a workplace or business meeting. |
+| How | How are the woman's hands positioned in the image? | Clasped in front of her. |
+| How | How would you describe the overall atmosphere of the image? | Professional and formal. |

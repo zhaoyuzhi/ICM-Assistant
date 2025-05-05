@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a black bikini bottom? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the woman looking off to the side in the image? | Yes. |
+| Yes/No | Does the image feature a beach setting? | Yes. |
+| Yes/No | Is the woman's expression in the image serious? | Yes. |
+| What | What is the woman wearing in the image? | A black sports bra and black bikini bottom. |
+| What | What is the woman's facial expression in the image? | Serious. |
+| How | How does the beach setting contribute to the image's sexiness? | The beach setting adds to the allure, as it is often associated with relaxation and leisure. |
+| How | How does the woman's serious expression contribute to the image's sexiness? | The woman's serious expression might suggest a sense of determination or focus, which can be perceived as sexy in certain contexts. |

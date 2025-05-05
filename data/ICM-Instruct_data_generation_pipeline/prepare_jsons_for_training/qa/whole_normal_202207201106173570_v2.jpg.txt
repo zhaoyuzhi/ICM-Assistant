@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress floral? | Yes. |
+| Yes/No | Is the woman's purse blue? | Yes. |
+| Yes/No | Is the woman positioned in the center of the image? | Yes. |
+| Yes/No | Is the woman looking at the camera? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the color of the woman's purse? | Blue. |
+| What | What is the pattern on the woman's dress? | Floral. |
+| How | How is the woman positioned in the image? | She is positioned in the center of the image. |
+| How | How is the woman's gaze directed? | Her gaze is directed towards the camera. |

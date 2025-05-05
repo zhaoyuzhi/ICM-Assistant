@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman holding her chest in the image? | Yes. |
+| Yes/No | Does the woman have a necklace on? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman's outfit the main focus of the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing around her neck? | A necklace. |
+| What | What color is the background of the image? | White. |
+| How | How is the woman's cleavage accentuated in the image? | She is holding her chest. |
+| How | How does the necklace add to the woman's overall look? | It adds a touch of elegance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's boots brown? | Yes. |
+| Yes/No | Is the person's posture suggestive or provocative? | No. |
+| Yes/No | Does the image focus on the person's body? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the person's outfit in the image? | Black dress and brown boots. |
+| What | What is the person's posture in the image? | Legs crossed. |
+| How | How does the image focus on the person's outfit and posture? | By highlighting the details of the black dress and brown boots, and by featuring the person's legs crossed in a neutral position. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | By emphasizing the focus on the person's outfit and posture rather than their body, and by creating a sense of modesty and respectfulness in the image. |

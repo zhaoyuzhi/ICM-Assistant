@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image sitting on a wall? | Yes. |
+| Yes/No | Does the man in the image have a serious expression? | Yes. |
+| Yes/No | Is the diaper the man is wearing blue and yellow? | Yes. |
+| Yes/No | Is the overall atmosphere of the image playful and lighthearted? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the man's swimsuit? | Blue and yellow. |
+| What | What is the man looking at? | The camera. |
+| How | How is the man's expression? | Serious. |
+| How | How does the image make you feel? | Intrigued and allured. |

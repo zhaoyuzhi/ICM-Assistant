@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the woman's legs apart in the image? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing leggings in the image? | Yes. |
+| Yes/No | Is the woman's confident pose and attire suggestive of athleticism? | Yes. |
+| Yes/No | Does the image create a sense of allure and intrigue? | Yes. |
+| What | What color are the woman's leggings in the image? | Blue. |
+| What | What color is the woman's sports bra in the image? | Pink. |
+| How | How many elements in the image contribute to its sexiness? | 3 (woman's pose, exposed belly, and contrasting colors). |
+| How | How would you describe the woman's confidence level in the image? | High. |

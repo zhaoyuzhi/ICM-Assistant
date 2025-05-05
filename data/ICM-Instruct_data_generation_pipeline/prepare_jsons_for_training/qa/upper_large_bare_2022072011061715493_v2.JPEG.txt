@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Is the person in the image wearing underwear? | Yes. |
+| Yes/No | Is the person in the image holding their sweater open? | Yes. |
+| Yes/No | Is the person in the image standing in front of a wine rack? | Yes. |
+| Yes/No | Does the image create a sensual and provocative atmosphere? | Yes. |
+| Yes/No | Does the image feature a common symbol of intimacy and sensuality? | Yes. |
+| What | What is the person in the image wearing on their upper body? | A white sweater. |
+| What | What is the color of the person's underwear? | White. |
+| How | How is the person in the image holding their sweater open? | With their left hand. |
+| How | How does the person in the image pose? | Standing with their right hand on their hip. |

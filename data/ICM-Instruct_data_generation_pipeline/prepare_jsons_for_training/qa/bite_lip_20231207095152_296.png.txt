@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Does the woman have red hair? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Are the woman's eyes large and expressive? | Yes. |
+| Yes/No | Does the image have a serious atmosphere? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color is the woman's hair? | Red. |
+| What | What is the woman's facial expression? | Serious. |
+| How | How is the woman biting her lip? | She is biting her lower lip with her upper teeth. |
+| What | What does the close-up nature of the photo suggest about the image? | It suggests a sense of intimacy and emphasizes the woman's facial features. |

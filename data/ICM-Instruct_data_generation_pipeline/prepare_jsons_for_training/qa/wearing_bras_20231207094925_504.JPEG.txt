@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red bra? | Yes. |
+| Yes/No | Is the woman standing against a white wall? | Yes. |
+| Yes/No | Is the woman's hair blonde? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's posture suggest confidence and self-assurance? | Yes. |
+| Yes/No | Is the bra the main focus of the image? | Yes. |
+| What | What is the color of the bra? | Red. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How does the woman's hair contrast with the background? | The blonde hair stands out against the white wall. |
+| How | How does the image capture the woman's attire and actions? | The image focuses on the woman's actions and attire, highlighting her figure and the bold red color of the bra. |
+| Yes/No | Is the woman in the image wearing a red bra? | Yes. |
+| Yes/No | Is the woman standing against a white wall? | Yes. |
+| Yes/No | Is her blonde hair visible in the image? | Yes. |
+| Yes/No | Is the woman putting on the bra in the image? | Yes. |
+| Yes/No | Does the image capture the woman from the back? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra the woman is wearing? | Red. |
+| What | What is the woman's hair color in the image? | Blonde. |
+| How | How is the woman putting on the bra in the image? | She is putting it on from the back. |
+| What | What is the mood of the image? | The mood of the image is sensual and intimate, with a sense of confidence and selfassurance. |

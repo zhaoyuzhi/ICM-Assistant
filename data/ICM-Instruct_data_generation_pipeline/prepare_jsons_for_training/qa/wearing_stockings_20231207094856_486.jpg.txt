@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the stool positioned against a white wall? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person have their hands on their knees? | No. |
+| Yes/No | Are the black stockings being put onto the person's legs? | Yes. |
+| What | What color is the person's dress? | Black. |
+| What | What is the person doing in the image? | Putting on black stockings. |
+| How | How is the person's vulnerability and sensuality suggested in the image? | The person's crossed legs and the act of putting on stockings suggest a sense of vulnerability and sensuality. |
+| How | How does the white wall in the background affect the image? | The white wall provides a stark contrast to the person's dark clothing, emphasizing the subject and the overall atmosphere of the image. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person holding black stockings? | Yes. |
+| Yes/No | Is the stool positioned against a white wall? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person's attire and the act of putting on stockings creating a sense of intimacy and allure? | Yes. |
+| What | What is the person in the image wearing? | A black dress and black stockings. |
+| What | What is the person doing in the image? | Putting on black stockings. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the white wall in the background contribute to the overall atmosphere of the image? | It provides a stark contrast to the person's dark clothing, emphasizing the subject and the atmosphere. |

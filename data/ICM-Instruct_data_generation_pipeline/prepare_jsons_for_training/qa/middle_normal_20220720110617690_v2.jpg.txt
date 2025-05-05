@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Are his shorts also black? | Yes. |
+| Yes/No | Is he looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the image low-key? | Yes. |
+| Yes/No | Does the image feature any provocative or sexual elements? | No. |
+| What | What is the man's attire in the image? | A black shirt and black shorts. |
+| What | What is the man's pose in the image? | He is standing with his hands casually tucked into his pockets. |
+| How | How is the man looking at the camera? | He is looking directly at the camera. |
+| What | What is the overall atmosphere of the image? | The atmosphere is calm and straightforward. |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image feature any explicit content? | No. |
+| Yes/No | Is the man's attire provocative or suggestive? | No. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| What | What is the man's pose in the image? | Relaxed and nonthreatening. |
+| What | What is the color of the man's shorts? | Black. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How does the white background contribute to the overall atmosphere of the image? | It emphasizes the lack of any distracting or provocative elements, contributing to a calm and unassuming atmosphere. |

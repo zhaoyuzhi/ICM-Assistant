@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man's attire suggestive or explicit? | No. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose casual and relaxed? | Yes. |
+| Yes/No | Does the image have a white background? | Yes. |
+| What | What color are the man's sneakers? | White. |
+| What | What color are the man's sweatpants? | Black. |
+| How | How are the man's hands positioned in the image? | They are casually tucked into the pockets of his sweatpants. |
+| How | How would you describe the overall atmosphere of the image? | Calm and unassuming. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the dress pink? | Yes. |
+| Yes/No | Is the woman standing on a red carpet? | Yes. |
+| Yes/No | Are there other people in the background of the image? | Yes. |
+| Yes/No | Is the woman's pose suggestive of confidence and poise? | Yes. |
+| Yes/No | Does the image create an atmosphere of glamour and sophistication? | Yes. |
+| What | What color is the dress? | Pink. |
+| What | What is the woman's pose? | Confident and poised. |
+| How | How does the red carpet setting contribute to the atmosphere of the image? | It adds to the glamour and sophistication of the image. |
+| How | How does the presence of other people in the background contribute to the atmosphere of the image? | They contribute to the overall atmosphere of a highprofile event. |

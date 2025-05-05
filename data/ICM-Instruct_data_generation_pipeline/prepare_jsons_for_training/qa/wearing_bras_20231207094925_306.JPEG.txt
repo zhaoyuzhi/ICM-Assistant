@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main focus of the image a woman? | Yes. |
+| Yes/No | Is the woman adjusting her bra? | Yes. |
+| Yes/No | Are the woman's hands visible? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman doing in the image? | Adjusting her bra. |
+| What | What is the color of the bra? | Beige. |
+| How | How are the woman's hands positioned in the image? | On the straps of the bra. |
+| What | What atmosphere does the image convey? | Seductive and alluring. |
+| Yes/No | Is the main focus of the image a woman adjusting her bra? | Yes. |
+| Yes/No | Is the woman wearing the bra in the image? | Yes. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the color of the bra in the image? | Beige. |
+| What | What is the woman doing in the image? | Adjusting the straps of her bra. |
+| How | How are the woman's hands positioned in the image? | On the straps of the bra. |
+| What | What atmosphere does the image convey? | Seductive and alluring. |

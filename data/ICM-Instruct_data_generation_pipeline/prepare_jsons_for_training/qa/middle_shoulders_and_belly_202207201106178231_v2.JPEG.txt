@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans tight? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Is the person's posture casual and relaxed? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability and intimacy? | Yes. |
+| Yes/No | Does the image evoke a sense of sensuality and allure? | Yes. |
+| What | What is the color of the person's shirt? | White. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How does the person's posture suggest a casual, relaxed atmosphere? | The person's posture is relaxed, with a slight slouch and a casual placement of the hands. |
+| How | How do the white shirt and blue jeans add a classic, timeless appeal to the image? | The white shirt and blue jeans are classic, timeless pieces that complement each other and create a clean, simple look that is not overly trendy or dated. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image convey a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image celebrate the human form? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What color are the person's jeans? | Blue. |
+| How | How does the person's exposed belly contribute to the image's overall vibe? | It creates an inviting and sensual vibe, drawing the viewer's attention to their body and the way they carry themselves. |
+| How | How does the image evoke feelings of desire and attraction? | The person's exposed belly and casual attire create a sense of intimacy and relaxation, which can evoke feelings of desire and attraction in the viewer. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| Yes/No | Is the man's physique visually appealing? | Yes. |
+| Yes/No | Is the man posing in a suggestive manner? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the man's arms flexed in the image? | Yes. |
+| What | What is the man's skin tone in the image? | The man's skin tone is not explicitly mentioned in the description, but based on the contrast with the blue wall and white line, it is likely a darker skin tone. |
+| What | What is the color of the wall in the background of the image? | Blue. |
+| How | How is the man standing in the image? | The man is standing against a backdrop of a blue wall with a white line. |
+| How | How are the man's arms positioned in the image? | The man's arms are flexed, showcasing his welldefined muscles. |

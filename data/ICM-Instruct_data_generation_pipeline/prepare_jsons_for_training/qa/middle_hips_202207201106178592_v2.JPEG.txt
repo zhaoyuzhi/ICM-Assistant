@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Does the image have a sexy tone? | Yes. |
+| Yes/No | Are the person's curves accentuated by the tight jeans? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What is the person's pose in the image? | Confident, with hands on hips. |
+| How | How does the black top contrast with the blue jeans? | It adds a contrasting element, drawing attention to the person's midriff. |
+| How | How does the close-up perspective emphasize the person's curves? | It emphasizes the person's curves and the fit of the jeans. |

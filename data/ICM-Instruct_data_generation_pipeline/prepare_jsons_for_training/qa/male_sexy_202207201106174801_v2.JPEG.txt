@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing pants? | No. |
+| Yes/No | Is the man in the image standing? | Yes. |
+| Yes/No | Does the image feature a plain white background? | Yes. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| Yes/No | Does the man have his hands on his hips? | Yes. |
+| What | What is the man wearing in the image? | Blue underwear. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man posing in the image? | With his hands on his hips. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the man and his attire, making the image more visually appealing and seductive. |

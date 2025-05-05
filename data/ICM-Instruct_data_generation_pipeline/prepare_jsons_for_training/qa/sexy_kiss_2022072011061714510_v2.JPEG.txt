@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | Yes. |
+| Yes/No | Is the woman looking up at the man? | Yes. |
+| Yes/No | Are the couple smiling? | Yes. |
+| What | What is the man leaning in to do? | Kiss the woman. |
+| What | What is the woman's head tilted back for? | To look up at the man. |
+| How | How are the couple positioned in relation to each other? | The man is standing behind the woman, with his arms wrapped around her waist, and she is leaning back into him. |
+| How | How does the woman's gaze indicate that she is enjoying the moment? | The woman's gaze is directed upward, indicating that she is looking up at the man and enjoying the kiss. |

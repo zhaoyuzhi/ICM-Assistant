@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| How | Is the image from a Chinese TV show? | Yes. |
+| Yes/No | Are the two actors looking at each other? | Yes. |
+| Yes/No | Is the man wearing a brown outfit? | Yes. |
+| Yes/No | Does the woman have a ponytail? | Yes. |
+| Yes/No | Is the image revealing any inappropriate content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the color of the man's outfit? | Brown. |
+| What | What is the color of the woman's outfit? | Blue. |
+| How | How are the two actors dressed? | They are both wearing outfits with ponytails. |
+| What | What is the level of exposure in the image? | Low. |

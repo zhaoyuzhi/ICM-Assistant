@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have a graphic of a wizard on it? | Yes. |
+| Yes/No | Are the sweatpants gray? | Yes. |
+| Yes/No | Are the sweatpants cropped at the knee? | Yes. |
+| Yes/No | Is the woman standing in a room with a black couch? | Yes. |
+| Yes/No | Is the wall in the background white? | Yes. |
+| What | What color is the woman's t-shirt? | White. |
+| What | What is the woman's pose in the image? | Standing. |
+| How | How does the woman's outfit create a sense of confidence and self-assuredness? | The loosefitting tshirt and stylish sweatpants create a casual yet confident look. |
+| How | How does the image convey a relaxed and comfortable atmosphere? | The woman's pose, the black couch, and the white wall in the background create a sense of relaxation and comfort. |

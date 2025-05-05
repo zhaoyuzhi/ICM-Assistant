@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman holding an ice cream cone? | Yes. |
+| Yes/No | Does the woman have a joyful facial expression? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's body language convey self-assuredness and confidence? | Yes. |
+| Yes/No | Does the image evoke feelings of happiness and positivity? | Yes. |
+| What | What is the woman sticking out her tongue holding? | An ice cream cone. |
+| What | What is the woman's facial expression? | Joyful and confident. |
+| How | How is the woman holding the ice cream cone? | She is holding it with her tongue sticking out. |
+| How | How does the image create a sense of fun and lightheartedness? | Through the combination of the woman's playful and flirtatious gesture, her joyful facial expression, and the ice cream cone. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing pants? | No. |
+| Yes/No | Is the man in the image standing against a plain white background? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color are the polka dots on the man's underwear? | Black and white. |
+| What | What is the man's facial expression in the image? | Looking directly at the camera, possibly with a sense of intimacy and vulnerability. |
+| How | How is the man standing in the image? | With his arms raised above his head. |
+| How | How does the plain white background affect the focus of the image? | It puts the focus entirely on the man and his attire. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports uniform? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image wearing? | A strapless top and a sports uniform. |
+| What | What is the woman in the image doing with her hands? | She is standing with her hands on her hips. |
+| How | How is the woman in the image standing? | She is standing with her feet shoulderwidth apart, with her hands on her hips. |
+| How | How does the woman in the image appear? | She appears confident and alluring. |

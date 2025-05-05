@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a long, orange dress? | Yes. |
+| Yes/No | Is the dress the woman is wearing flowing and exposing a large area of her back? | Yes. |
+| Yes/No | Is the woman looking over her shoulder in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's hair styled in loose curls? | Yes. |
+| Yes/No | Is the pink couch and doorway in the background of the image? | Yes. |
+| What | What is the woman in the image wearing? | A long, orange dress with a bow at the back. |
+| What | What is the color of the couch in the background of the image? | Pink. |
+| How | How is the woman's hair styled in the image? | In loose curls. |
+| How | How is the woman looking in the image? | She is looking over her shoulder. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing black sweatpants? | Yes. |
+| Yes/No | Does the man have a logo on his white t-shirt? | Yes. |
+| Yes/No | Is the background of the image green? | Yes. |
+| Yes/No | Are the man's sneakers red and white? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image depict any suggestive or provocative elements? | No. |
+| What | What color are the stripes on the man's sweatpants? | White. |
+| What | What is the color of the man's sneakers? | Red and white. |
+| How | How is the man standing in the image? | Not specified in the description. |
+| What | What is the focus of the image? | The man's clothing and the background. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue polo shirt? | Yes. |
+| Yes/No | Does the shirt have a white collar? | Yes. |
+| Yes/No | Are there small white dots on the shirt? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the image suggestive or sexual in nature? | No. |
+| What | What is the main focus of the image? | The man's attire and posture in the chair. |
+| What | What is the overall atmosphere of the image? | The image focuses on the man's attire and the setting rather than his physical appearance, and does not have a sexual context or suggestive clothing. |
+| How | How is the man positioned in the image? | The man is positioned in such a way that his torso and shoulders are the main focus of the image. |
+| How | How does the image emphasize the man's clothing and the setting? | The low exposure level and the blurred background further emphasize the man's clothing and the setting, rather than his physical appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a blue blouse? | Yes. |
+| Yes/No | Does the blouse have a collar? | Yes. |
+| Yes/No | Are there buttons down the front of the blouse? | Yes. |
+| Yes/No | Is the skirt black? | Yes. |
+| Yes/No | Does the skirt fall just below the knees? | Yes. |
+| What | What color are the woman's earrings? | The earrings are not explicitly mentioned in the description, so it is impossible to determine their color. |
+| What | What type of watch is the woman wearing? | The watch is not described in detail, so it is impossible to determine its type. |
+| How | How is the woman standing in the image? | The woman is standing in a neutral pose. |
+| How | How does the plain white background affect the image? | The plain white background puts the focus entirely on the woman, creating a calm and composed atmosphere. |

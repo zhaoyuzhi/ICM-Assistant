@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image smiling? | Yes. |
+| Yes/No | Is the man wearing a blue and black plaid shirt? | Yes. |
+| Yes/No | Is the image focused on the man's appearance? | No. |
+| Yes/No | Is the atmosphere of the image calm and relaxed? | Yes. |
+| Yes/No | Is the man taking a break from work or enjoying the fresh air? | Yes. |
+| Yes/No | Is this image sexy? | No. |
+| What | What is the man wearing in the image? | A blue and black plaid shirt. |
+| What | What is the overall atmosphere of the image? | Calm and relaxed. |
+| How | How is the man standing in front of the tree? | Not specified in the description. |
+| How | How does the low exposure level of the image affect the focus of the image? | The low exposure level of the image suggests that the focus is not on the man's appearance, but rather on the overall scene. |

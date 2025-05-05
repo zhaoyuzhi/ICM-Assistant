@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress long? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the sleeves long? | Yes. |
+| Yes/No | Are the sandals worn by the woman in the image? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the woman wearing on her feet? | Sandals. |
+| What | What is the approximate length of the dress? | Anklelength. |
+| How | How is the woman's attire described? | Modest. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

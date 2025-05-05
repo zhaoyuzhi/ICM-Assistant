@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the man holding a helmet in his left hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man holding in his left hand? | A black helmet. |
+| What | What is the color of the man's shorts? | Gray. |
+| How | How is the man's physique described in the description? | Muscular. |
+| How | How does the image make some viewers feel? | Allured and excited. |

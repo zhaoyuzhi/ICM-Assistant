@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a sweater? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the street in the background wet? | Yes. |
+| Yes/No | Are there buildings in the background of the image? | Yes. |
+| What | What color is the woman's skirt? | Green. |
+| What | What color is the woman's sweater? | Black. |
+| How | How is the woman's left hand occupied? | It is in her pocket. |
+| How | How does the woman's right hand hold her purse? | It is held in her hand. |

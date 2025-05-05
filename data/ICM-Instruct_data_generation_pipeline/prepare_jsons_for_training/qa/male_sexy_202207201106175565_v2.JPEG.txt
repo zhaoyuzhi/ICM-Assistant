@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man's body well-defined? | Yes. |
+| Yes/No | Does the image suggest that the man is in good physical shape? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing on his lower body? | White underwear. |
+| What | What is the atmosphere of the image? | Sensual and alluring. |
+| How | How does the man's body look? | Welldefined and muscular. |
+| How | How does the image make you feel? | Intimate and vulnerable. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a plaid jacket? | Yes. |
+| Yes/No | Is the person in the image wearing a beige skirt? | Yes. |
+| Yes/No | Is the person in the image standing in front of a white wall? | Yes. |
+| Yes/No | Is the person in the image standing in front of a window? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the pattern on the person's jacket? | Checkered. |
+| What | What is the color of the person's skirt? | Beige. |
+| How | How is the person posing in the image? | Neutral. |
+| What | What is the focus of the image? | The person's clothing and overall atmosphere. |

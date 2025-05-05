@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beanie? | Yes. |
+| Yes/No | Is the woman's tongue stuck out? | Yes. |
+| Yes/No | Are the woman's gloves black and white? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Does the woman have long black hair? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the beanie that the woman is wearing? | Pink. |
+| What | What is the woman's expression in the image? | Playful and confident. |
+| How | How does the gray background affect the image? | It contrasts with the woman's colorful attire and brings her into focus. |
+| How | How does the woman's long black hair add to the image? | It adds a sense of mystery. |

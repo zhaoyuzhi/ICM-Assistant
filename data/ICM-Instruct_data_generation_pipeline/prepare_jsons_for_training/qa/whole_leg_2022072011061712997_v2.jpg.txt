@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress short-sleeved? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Is the woman wearing a purse? | Yes. |
+| Yes/No | Is the purse blue? | Yes. |
+| Yes/No | Does the purse have a gold chain strap? | Yes. |
+| What | What color is the dress? | White. |
+| What | What is the woman looking at? | Her phone. |
+| How | How is the woman standing? | She is standing with her feet shoulderwidth apart, looking down at her phone. |
+| How | How does the woman's outfit and pose suggest confidence and allure? | The woman's outfit, with its floral pattern and high neckline, suggests a sense of elegance and sophistication, while her pose, looking down at her phone, adds an element of mystery and intrigue, creating a sexy atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image embracing? | Yes. |
+| Yes/No | Are the couple standing or sitting? | No. |
+| Yes/No | Is the woman wearing a bikini? | Yes. |
+| Yes/No | Is the man wearing a shirt? | No. |
+| Yes/No | Are the couple facing each other? | Yes. |
+| Yes/No | Is the image in color or black and white? | Color. |
+| What | What is the woman wearing? | A black bikini. |
+| What | What is the man wearing? | A necklace. |
+| How | How are the couple's hands positioned in the image? | The woman's hands are wrapped around the man's neck, and the man's hands are gently resting on the woman's shoulders. |
+| How | How does the background of the image contribute to the overall atmosphere? | The ocean and waves in the background create a sense of natural beauty and tranquility, which enhances the sensuality and intimacy of the couple's actions. |

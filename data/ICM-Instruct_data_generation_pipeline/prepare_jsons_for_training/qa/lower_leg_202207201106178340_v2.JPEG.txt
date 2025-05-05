@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pink sandals? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person wearing denim shorts in the image? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image feature any other people or objects besides the person sitting on the chair? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| What | What is the primary color of the person's sandals in the image? | Pink. |
+| What | What is the person's leg position in the image? | Crossed. |
+| How | How many articles of clothing is the person wearing in the image? | 3 (pink sandals, denim shorts, and a top that is not visible). |
+| What | What atmosphere does the image convey according to the description? | Intimate and sensual. |

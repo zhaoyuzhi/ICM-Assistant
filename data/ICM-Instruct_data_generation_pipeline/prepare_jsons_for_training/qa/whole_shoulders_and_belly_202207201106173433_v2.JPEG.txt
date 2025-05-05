@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green shirt? | Yes. |
+| Yes/No | Are her arms exposed in the image? | No. |
+| Yes/No | Is the woman's midriff exposed in the image? | Yes. |
+| Yes/No | Is the woman's outfit strapless? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence? | Yes. |
+| Yes/No | Does the image evoke a sense of desire? | Yes. |
+| What | What color is the woman's shirt? | Green. |
+| What | What is the woman's pose in the image? | She has her arms on her hips. |
+| How | How does the woman's outfit contribute to the overall sense of sexiness in the image? | The strapless outfit and exposed midriff create a sense of allure and sensuality. |
+| How | How does the woman's pose contribute to the overall sense of confidence in the image? | Her confident pose, with her arms on her hips, suggests selfassuredness. |

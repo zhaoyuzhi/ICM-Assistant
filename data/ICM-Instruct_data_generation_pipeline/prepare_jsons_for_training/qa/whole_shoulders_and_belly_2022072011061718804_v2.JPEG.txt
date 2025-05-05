@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless t-shirt? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| What | What is the brand name written on the woman's t-shirt? | Moschino. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How is the woman posing in the image? | With her hands on her hips and looking over her shoulder. |
+| What | What atmosphere does the image convey? | A sexy atmosphere. |

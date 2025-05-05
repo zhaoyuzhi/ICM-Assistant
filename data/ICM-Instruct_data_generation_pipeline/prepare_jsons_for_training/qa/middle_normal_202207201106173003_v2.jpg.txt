@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image standing against a wooden wall? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Does the image suggest any sexual content? | No. |
+| What | What is the person in the image wearing on their lower body? | Blue shorts. |
+| What | What is the color of the person's shirt in the image? | White. |
+| How | How is the person standing in relation to the wooden wall? | Against. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the man in the image wearing a pair of blue shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt with a graphic design? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the man looking off to the side? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the man wearing on his lower body? | Blue shorts. |
+| What | What is the man wearing on his upper body? | A white shirt with a graphic design. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How was the image captured? | From a low angle. |

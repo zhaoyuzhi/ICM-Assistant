@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue jean shorts? | Yes. |
+| Yes/No | Does the woman have her hands resting on her hips? | Yes. |
+| Yes/No | Is the woman's blouse white? | Yes. |
+| Yes/No | Does the image feature a window in the background? | Yes. |
+| Yes/No | Are the jean shorts torn at the knees? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual yet stylish? | Yes. |
+| What | What color are the woman's jean shorts? | Blue. |
+| What | What is the woman's pose in the image? | Confident and relaxed. |
+| How | How are the woman's thighs revealed in the image? | Through the torn knees of her jean shorts. |
+| How | How does the woman's pose contribute to the allure of the image? | Her pose with her hands on her hips adds to the allure of the image. |

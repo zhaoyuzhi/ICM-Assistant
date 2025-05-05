@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black pants? | Yes. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image actively putting on the stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image evoke a sense of mystery and intrigue? | Yes. |
+| Yes/No | Does the image capture a private and intimate moment? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the person's pants and stockings? | Black. |
+| How | How are the stockings being put on? | Rolled up and placed on the person's legs. |
+| What | What does the close-up view of the stockings and the person's hands add to the atmosphere of the image? | Sensuality. |
+| Yes/No | Is the person in the image wearing black pants? | Yes. |
+| Yes/No | Are the stockings being rolled up and placed on the person's legs? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image evoke a sense of mystery and intrigue? | Yes. |
+| Yes/No | Is the color of the stockings and pants black? | Yes. |
+| What | What is the person in the image doing? | Putting on stockings. |
+| What | What is the dominant color of the person's attire in the image? | Black. |
+| How | How are the stockings being put on? | Rolled up and placed on the person's legs. |
+| How | How does the close-up view of the stockings and the person's hands contribute to the image's atmosphere? | It adds to the sensual and intimate atmosphere. |

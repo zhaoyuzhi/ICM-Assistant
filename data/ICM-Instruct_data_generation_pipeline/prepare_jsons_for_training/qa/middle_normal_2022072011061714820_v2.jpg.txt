@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's jeans blue? | Yes. |
+| Yes/No | Is the man leaning on his hand? | Yes. |
+| Yes/No | Is the man's elbow resting on his hip? | Yes. |
+| Yes/No | Is the man wearing a brown belt? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What color is the man's belt? | Brown. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man leaning on his hand? | With his elbow resting on his hip. |
+| How | How does the plain white background affect the image's overall atmosphere? | It makes the image appear less sexy and more casual and nonthreatening. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose in the image relaxed and nonchalant? | Yes. |
+| Yes/No | Does the image convey a sense of casualness and simplicity? | Yes. |
+| What | What is the man's pose in the image? | He is leaning against a white background with his hands casually tucked into his pockets. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is calm and unassuming. |
+| How | How does the man's pose contribute to the image's overall atmosphere? | The man's relaxed pose and the low exposure level create a sense of casualness and nonchalance, which contributes to the image's overall atmosphere of calm and unassuming. |
+| How | How does the white background enhance the image's simplicity and straightforwardness? | The white background further enhances the simplicity and straightforwardness of the image, emphasizing the casual and uncomplicated nature of the scene. |

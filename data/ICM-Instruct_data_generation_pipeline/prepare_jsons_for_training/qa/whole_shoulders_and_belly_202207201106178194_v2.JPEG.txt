@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's pants black? | Yes. |
+| Yes/No | Is the woman carrying a white purse? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image take place in an airport? | Yes. |
+| Yes/No | Is the woman walking confidently? | Yes. |
+| What | What color is the woman's top? | Green. |
+| What | What is the woman carrying? | A white purse. |
+| How | How is the woman's midriff exposed? | Through her strapless top. |
+| How | How does the woman's confidence add to the overall allure of the image? | It emphasizes her sense of style and poise, making her appear more attractive and selfassured. |

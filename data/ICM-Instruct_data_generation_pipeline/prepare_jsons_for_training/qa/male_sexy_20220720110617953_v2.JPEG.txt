@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image holding a barbell? | Yes. |
+| Yes/No | Is the image taken in a gym? | Yes. |
+| Yes/No | Is the man flexing his muscles? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| Yes/No | Does the man have a muscular build? | Yes. |
+| What | What is the man holding in the image? | A barbell. |
+| What | What is the atmosphere of the image? | Intense and powerful. |
+| How | How is the man showcasing his physique? | By flexing his muscles. |
+| How | How does the image convey a sexy atmosphere? | Through the man's topless physique and the gym setting. |

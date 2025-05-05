@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a flag? | Yes. |
+| Yes/No | Does the flag in the image have a flame design on it? | Yes. |
+| Yes/No | Is the woman in the image posing in a sexy manner? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and provocative? | Yes. |
+| What | What is the woman in the image wearing? | A bikini top and a revealing outfit. |
+| What | What is the design on the flag in the image? | A flame design. |
+| How | How is the woman posing in the image? | In a sexy and provocative manner. |
+| How | How does the flag in the image contribute to the overall atmosphere? | It adds a sense of passion and intensity to the image. |

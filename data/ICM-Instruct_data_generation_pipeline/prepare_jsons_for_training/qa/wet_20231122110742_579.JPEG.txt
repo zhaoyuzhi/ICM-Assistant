@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the man standing in the ocean? | Yes. |
+| Yes/No | Are the man's clothes soaked? | Yes. |
+| Yes/No | Is the man holding a brown football? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the man's hair dripping wet? | Yes. |
+| What | What is the man holding in the image? | A brown football. |
+| What | What is the setting of the image? | The ocean. |
+| How | How is the man standing in the ocean? | He is standing with the water reaching up to his waist. |
+| How | How does the image create a sense of adventure and excitement? | The man's athletic pose, the ocean setting, and the football suggest a sense of adventure and freedom, which can be perceived as sexy. |

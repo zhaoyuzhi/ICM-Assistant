@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the couple standing in a garden? | Yes. |
+| Yes/No | Are there trees in the background of the image? | Yes. |
+| Yes/No | Is the woman leaning in to kiss the man? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing? | A black dress. |
+| What | What is the man wearing? | A black shirt. |
+| How | How are the couple standing in relation to each other? | They are standing in an intimate embrace, with the woman's arms wrapped around the man's neck. |
+| How | How does the garden setting contribute to the overall atmosphere of the image? | The garden setting, with its natural elements and brick wall, adds a sense of romance and tranquility to the image. |

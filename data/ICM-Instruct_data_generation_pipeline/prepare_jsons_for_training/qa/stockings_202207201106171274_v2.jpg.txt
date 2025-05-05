@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing a garter belt? | Yes. |
+| Yes/No | Are the stockings white? | Yes. |
+| Yes/No | Is the garter belt black? | Yes. |
+| Yes/No | Are the high heels black? | Yes. |
+| Yes/No | Is the floor covered with a red carpet? | Yes. |
+| What | What color are the stockings? | White. |
+| What | What color is the garter belt? | Black with white lace trim. |
+| How | How are the woman's legs positioned in the image? | Spread apart. |
+| What | What atmosphere does the red carpet on the floor contribute to? | Luxury and sophistication. |

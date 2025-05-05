@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light blue? | Yes. |
+| Yes/No | Is the curtain in the background green? | Yes. |
+| Yes/No | Does the image contain text? | Yes. |
+| Yes/No | Is the text "Latex Bra"? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman in the image doing? | She is putting on a bra. |
+| What | What is the color of the bra? | Light blue. |
+| How | How does the woman's posture and action contribute to the image's atmosphere? | It creates a sensual and alluring atmosphere. |
+| How | How does the color scheme contribute to the image's atmosphere? | The contrast between the light blue bra and the green curtain creates a visually appealing and sexy atmosphere. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra made of latex? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image contain text? | Yes. |
+| Yes/No | Is the woman standing in front of a curtain? | Yes. |
+| Yes/No | Is the curtain green? | Yes. |
+| What | What is the color of the bra? | Light blue. |
+| What | What is the color of the curtain in the background? | Green. |
+| How | How is the woman putting on the bra? | She is in the process of putting it on. |
+| How | How does the image create a contrasting and visually appealing color scheme? | The light blue bra and green curtain create a contrasting and visually appealing color scheme. |

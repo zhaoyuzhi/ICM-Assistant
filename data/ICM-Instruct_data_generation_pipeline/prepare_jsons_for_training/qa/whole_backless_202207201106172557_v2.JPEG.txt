@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the dress made of a shiny material? | Yes. |
+| Yes/No | Is the person standing against a white background? | Yes. |
+| Yes/No | Are the person's arms resting at their sides? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the color of the dress? | Black. |
+| What | What is the pose of the person in the image? | Confident and relaxed. |
+| How | How does the shiny material of the dress contribute to the overall atmosphere of the image? | It adds to the allure and confidence of the person. |
+| How | How does the white background affect the focal point of the image? | It emphasizes the person and the dress, making them the focal point of the image. |

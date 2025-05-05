@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | Yes. |
+| Yes/No | Are the dogs looking at the camera? | Yes. |
+| Yes/No | Is the atmosphere of the image playful? | Yes. |
+| Yes/No | Does the image include any text? | Yes. |
+| Yes/No | Is the text in the image in English? | No. |
+| Yes/No | Does the image depict any human figures? | No. |
+| What | What breed of dogs are in the image? | Golden retrievers. |
+| What | What is the color pattern of the bed? | Blue and white. |
+| How | How many dogs are in the image? | Two. |
+| What | What is the mood of the image? | Playful and lighthearted. |

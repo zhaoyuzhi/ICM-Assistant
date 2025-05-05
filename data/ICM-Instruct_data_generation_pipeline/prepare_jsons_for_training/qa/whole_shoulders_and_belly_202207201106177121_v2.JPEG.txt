@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sports top? | Yes. |
+| Yes/No | Is the woman in the image wearing black leggings? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the woman's outfit reveal her midriff? | Yes. |
+| Yes/No | Are the black leggings form-fitting? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A pink sports top. |
+| What | What is the woman in the image wearing on her lower body? | Black leggings. |
+| How | How is the woman in the image standing? | She is striking a pose with her left hand on her hip and her right hand on her chest. |
+| How | How does the woman in the image look? | She looks confident and selfassured. |

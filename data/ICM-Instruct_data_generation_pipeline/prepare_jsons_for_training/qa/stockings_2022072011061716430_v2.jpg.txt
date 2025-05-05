@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the image atmospheric? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence? | Yes. |
+| Yes/No | Is the image intimate? | Yes. |
+| What | What is the person in the image wearing? | Black stockings and a black skirt. |
+| What | What is the main focus of the image? | The person's legs. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image create an atmosphere of sensuality? | Through the use of black stockings, a black skirt, and an intimate setting. |

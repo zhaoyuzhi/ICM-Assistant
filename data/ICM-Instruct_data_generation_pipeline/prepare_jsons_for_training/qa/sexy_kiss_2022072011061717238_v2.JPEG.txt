@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman kissing passionately? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Does the image convey a romantic atmosphere? | Yes. |
+| What | What is the man leaning in to kiss the woman? | The woman's face/lips. |
+| What | What is the woman's facial expression? | Closed eyes, suggestive of enjoyment. |
+| How | How is the man positioned in relation to the woman? | Leaning in, close proximity. |
+| How | How does the dark background contribute to the image's atmosphere? | Creates a sense of privacy and intimacy. |

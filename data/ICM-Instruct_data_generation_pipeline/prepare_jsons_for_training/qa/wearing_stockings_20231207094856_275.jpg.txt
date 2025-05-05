@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image holding a stuffed animal? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What is the person in the image holding in their hand? | The other end of the stocking they are putting on. |
+| What | What is the color of the stuffed animal? | Pink. |
+| How | How is the person in the image putting on their stockings? | They are holding the other end of the stocking in their hand. |
+| How | How does the presence of the stuffed animal contrast with the seriousness of the stocking-putting process? | It adds a playful and lighthearted element to the scene. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image holding a pink stuffed animal? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Does the image create an atmosphere of intimacy and allure? | Yes. |
+| What | What is the person in the image holding in their hand? | The other end of the black stocking they are putting on. |
+| What | What is the color of the stuffed animal in the image? | Pink. |
+| How | How is the person in the image putting on their black stockings? | They are holding the other end of the stocking in their hand. |
+| How | How does the presence of the stuffed animal add to the overall atmosphere of the image? | It adds a playful and lighthearted element to the scene, contrasting with the seriousness of the stockingputting process. |

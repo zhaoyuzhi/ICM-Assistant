@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image featuring only one woman? | No. |
+| Yes/No | Are the women wearing sportswear? | Yes. |
+| Yes/No | Is the image taken in front of a modern building? | Yes. |
+| Yes/No | Do the women have their bellies exposed? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image convey a sense of confidence and athleticism? | Yes. |
+| What | What is the primary color of the sportswear worn by the woman on the left? | Blue. |
+| What | What is the color of the sportswear worn by the woman on the right? | Black. |
+| How | How does the image convey a sense of modernity? | Through the use of a curved roof and modern building in the background. |

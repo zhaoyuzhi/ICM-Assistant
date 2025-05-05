@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink top? | Yes. |
+| Yes/No | Is the woman in the image wearing denim shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a hat? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Are there other people in the image? | No. |
+| Yes/No | Are there other objects in the image? | No. |
+| What | What is the woman in the image holding? | A purse. |
+| What | What is the woman in the image wearing on her feet? | High heels. |
+| How | How is the woman in the image standing? | She is standing on a street. |
+| How | How is the woman in the image holding her purse? | She is holding it in her hand. |

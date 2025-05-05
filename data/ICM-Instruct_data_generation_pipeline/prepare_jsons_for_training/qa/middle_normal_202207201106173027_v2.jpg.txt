@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts the man is wearing predominantly white? | Yes. |
+| Yes/No | Does the man have a neutral pose in the image? | Yes. |
+| Yes/No | Are there any other objects or text in the image? | No. |
+| Yes/No | Is the atmosphere of the image simple and uncluttered? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the pattern on the man's shorts? | Purple and blue flowers. |
+| What | What is the overall atmosphere of the image? | Calm and unassuming. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How does the white background affect the visual impact of the image? | It reduces the visual impact of the image. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts the man is wearing predominantly white? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man's pose in the image neutral? | Yes. |
+| Yes/No | Are the flowers on the shorts purple and blue? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the man's pose in the image? | He is standing with his hands casually tucked into his pockets. |
+| What | What is the pattern on the shorts? | The shorts have a floral pattern with purple and blue flowers. |
+| How | How are the shorts adorned? | The shorts are adorned with purple and blue flowers. |
+| How | How does the image focus on the man and his attire? | The image focuses on the man and his attire by highlighting him against a white background, with no other objects or people in the frame, and with the camera angled to showcase his outfit. |

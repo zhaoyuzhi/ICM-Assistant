@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Are the pants gray? | Yes. |
+| Yes/No | Does the design on the pants feature a leaf? | Yes. |
+| Yes/No | Are the sneakers black and white? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What is the unique design on the person's pants? | A picture of ice and a leaf. |
+| What | What is the color of the person's sneakers? | Black and white. |
+| How | How does the person's clothing contrast with the background? | The person's clothing is dark and the background is stark white, creating a contrast between light and dark. |
+| How | How does the image atmosphere feel? | Casual and nonsexual. |

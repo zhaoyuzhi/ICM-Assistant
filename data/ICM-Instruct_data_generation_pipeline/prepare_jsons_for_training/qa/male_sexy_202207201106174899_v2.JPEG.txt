@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image muscular? | Yes. |
+| Yes/No | Is the man wearing a hoodie? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the man topless in the image? | Yes. |
+| Yes/No | Are the man's muscles well-defined? | Yes. |
+| Yes/No | Does the image feature a six-pack? | Yes. |
+| What | What color is the hoodie the man is wearing? | Blue. |
+| What | What is the man's attire in the image? | A blue hoodie and no shirt. |
+| How | How does the white background contrast with the man's attire? | It contrasts starkly, highlighting the man's physique. |
+| How | How does the image make the viewer feel? | It creates a sense of intimacy and vulnerability, while also showcasing physical strength and fitness. |

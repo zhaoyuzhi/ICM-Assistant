@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have a nose piercing? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman wearing a gold top? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's facial expression relaxed? | Yes. |
+| What | What color is the woman's hair? | Brown. |
+| What | What is the woman wearing on her top? | A gold top. |
+| How | How does the woman's pose in the image make her look? | Playful and confident. |
+| How | How does the image make the viewer feel? | Seductive and allured. |

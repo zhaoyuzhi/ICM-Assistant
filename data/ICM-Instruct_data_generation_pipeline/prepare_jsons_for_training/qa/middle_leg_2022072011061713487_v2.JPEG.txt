@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a short skirt? | Yes. |
+| Yes/No | Is the skirt colored in a shade of pink? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the woman holding a purse in her left hand? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and poise? | Yes. |
+| What | What color is the skirt? | Pink. |
+| What | What is the woman holding in her left hand? | A purse. |
+| How | How is the skirt designed? | The skirt is designed with a slit on the left side. |
+| How | How does the woman carry herself in the image? | The woman carries herself with confidence and poise. |

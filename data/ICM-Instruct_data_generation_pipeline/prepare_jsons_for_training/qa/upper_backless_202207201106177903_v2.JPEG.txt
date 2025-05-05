@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is the woman posing with her hands on her hips? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Does the image have a sexy and alluring atmosphere? | Yes. |
+| Yes/No | Is the mirror in the background reflecting the woman's image? | Yes. |
+| What | What is the woman wearing in the image? | A white dress. |
+| What | What is the woman's hairstyle in the image? | A ponytail. |
+| How | How is the woman posing in the image? | With her hands on her hips and her hair pulled back into a ponytail. |
+| How | How does the image create an alluring and seductive atmosphere? | Through the woman's attire, pose, and the way her hair is pulled back, combined with the mirror in the background, creating a sense of intimacy and allure. |

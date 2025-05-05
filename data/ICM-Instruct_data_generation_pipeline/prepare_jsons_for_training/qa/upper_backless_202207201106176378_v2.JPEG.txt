@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a towel? | Yes. |
+| Yes/No | Are the colors of the towel red, purple, and yellow? | Yes. |
+| Yes/No | Is the person's lower body covered by the towel? | Yes. |
+| Yes/No | Is the person wearing any clothing underneath the towel? | No. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the person's attire in the image? | A towel draped around their waist. |
+| What | What is the overall atmosphere of the image? | Casual, relaxed, and inviting. |
+| How | How is the towel draped around the person's waist? | It is draped in a way that covers a significant portion of their lower body. |
+| How | How does the image make some viewers feel? | It can make some viewers feel that the image is sexy due to the person's attire and the exposure of their back. |

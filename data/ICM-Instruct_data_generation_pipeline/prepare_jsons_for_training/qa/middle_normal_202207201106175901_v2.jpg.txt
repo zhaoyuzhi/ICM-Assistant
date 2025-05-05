@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige shirt? | Yes. |
+| Yes/No | Is the person wearing a black belt? | Yes. |
+| Yes/No | Are they holding a green purse in their left hand? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Does the image contain suggestive or provocative elements? | No. |
+| What | What is the color of the person's shirt? | Beige. |
+| What | What is the color of the purse the person is holding? | Green. |
+| How | How is the person dressed in the image? | Modestly and conservatively. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, focusing on the person's outfit and accessories rather than their body or appearance. |
+| Yes/No | Is the person in the image wearing a beige shirt? | Yes. |
+| Yes/No | Is the person in the image holding a green purse? | Yes. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a black belt? | Yes. |
+| Yes/No | Is the person in the image visible from the waist up? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What is the color of the person's shirt? | Beige. |
+| What | What is the color of the person's purse? | Green. |
+| How | How is the person's attire in the image? | Casual. |
+| What | What is the overall atmosphere of the image? | Neutral. |

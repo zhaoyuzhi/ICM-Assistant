@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Are the shorts green and white in color? | Yes. |
+| Yes/No | Does the shirt match the shorts? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the person wearing on their feet? | The description does not mention what the person is wearing on their feet. |
+| What | What is the pattern on the shorts? | The shorts have a floral pattern. |
+| How | How many buttons are on the waistband of the shorts? | There is one button on the waistband of the shorts. |
+| How | How would you describe the overall style of the person's outfit? | The overall style of the person's outfit is casual and relaxed, with a focus on comfort and practicality rather than fashion or style. |
+| Yes/No | Is the person in the image wearing a pair of green shorts? | Yes. |
+| Yes/No | Does the person have a white shirt on? | Yes. |
+| Yes/No | Is the floral pattern on the shorts white and green? | Yes. |
+| How | Does the image show a small portion of the person's body? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image suggest a sexy or provocative atmosphere? | No. |
+| What | What is the primary focus of the image? | The person's clothing, specifically the green shorts with a white and green floral pattern. |
+| What | What is the color of the person's shorts? | Green. |
+| How | How are the shorts designed? | They are designed with a button and loop closure. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is not sexy because it is a lowexposure image that only shows a small portion of the person's body and focuses on the person's attire. |

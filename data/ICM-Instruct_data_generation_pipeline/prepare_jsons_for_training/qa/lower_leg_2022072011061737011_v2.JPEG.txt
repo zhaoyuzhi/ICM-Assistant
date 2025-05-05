@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white shorts? | Yes. |
+| Yes/No | Is the person's top cropped at the waist? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What is the person wearing on their feet? | White shoes. |
+| What | What is the color of the person's attire? | White. |
+| How | How is the person posing in the image? | With their legs slightly apart and arms relaxed. |
+| What | What does the white background of the image do? | It emphasizes the person, making them the focal point. |

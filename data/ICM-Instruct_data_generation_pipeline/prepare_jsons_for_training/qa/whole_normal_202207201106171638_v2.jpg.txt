@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Are there any inappropriate or explicit content in the image? | No. |
+| Yes/No | Is the woman in the image running? | Yes. |
+| Yes/No | Is the image set in a park? | Yes. |
+| Yes/No | Does the image have a cheerful and positive atmosphere? | Yes. |
+| What | What is the woman in the image doing? | Running. |
+| What | What is the color of the woman's shirt in the image? | Yellow. |
+| How | How is the woman dressed in the image? | She is wearing a yellow shirt and black pants. |
+| How | How would you describe the overall atmosphere of the image? | Cheerful and positive. |

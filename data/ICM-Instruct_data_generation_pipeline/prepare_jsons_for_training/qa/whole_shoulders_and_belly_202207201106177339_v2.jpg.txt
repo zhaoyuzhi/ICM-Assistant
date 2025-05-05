@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the woman wearing a white t-shirt? | Yes. |
+| Yes/No | Are the woman's shorts red? | Yes. |
+| Yes/No | Is the woman's left hand placed on her hip? | Yes. |
+| Yes/No | Is the woman's right hand resting on her thigh? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What color is the woman's t-shirt? | White. |
+| What | What color are the woman's shorts? | Red. |
+| How | How is the woman standing in the image? | She is standing with her left hand on her hip and her right hand resting on her thigh. |
+| What | What does the plain white background do in the image? | It puts the focus entirely on the woman and emphasizes her, making her the main point of interest. |

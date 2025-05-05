@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Is the woman's hand on her thigh in the image? | Yes. |
+| Yes/No | Is the bed covered with white sheets? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| Yes/No | Does the image create an atmosphere of intimacy and allure? | Yes. |
+| What | What is the woman wearing on her feet in the image? | Striped socks. |
+| What | What is the color of the sheets on the bed in the image? | White. |
+| How | How is the woman's body positioned on the bed in the image? | She is lying down with her legs spread apart and her hand on her thigh. |
+| How | How does the image create a contrast between the woman's skin and the bedding? | The white sheets create a contrast with the woman's skin, further emphasizing her presence in the image. |

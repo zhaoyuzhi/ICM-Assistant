@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the woman's shorts above her knees? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| What | What color are the woman's shorts? | Black. |
+| What | What is the logo on the woman's shorts? | White. |
+| How | How is the woman standing in the image? | With her feet shoulderwidth apart and her hands on her hips. |
+| How | How does the image make the woman's body look? | The image accentuates the woman's curves and thighs, making her body look sexy and alluring. |

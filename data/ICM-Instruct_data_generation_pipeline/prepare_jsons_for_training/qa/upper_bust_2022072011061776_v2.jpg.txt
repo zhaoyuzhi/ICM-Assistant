@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the zipper on the woman's top open? | Yes. |
+| Yes/No | Is the woman wearing a gold necklace? | Yes. |
+| Yes/No | Are the woman's earrings gold? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman placing her hand on? | Her hip. |
+| What | What is the woman wearing around her neck? | A gold necklace. |
+| How | How is the woman's outfit revealing her cleavage? | The zipper on her top is open, revealing her cleavage. |
+| How | How does the close-up nature of the photo contribute to the image's atmosphere? | The closeup nature of the photo emphasizes the woman's cleavage and creates an intimate, sensual atmosphere. |

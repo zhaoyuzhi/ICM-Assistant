@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black velvet top? | Yes. |
+| Yes/No | Does the top have a lace neckline? | Yes. |
+| Yes/No | Is the top strapless? | Yes. |
+| Yes/No | Is the woman wearing earrings? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing on her upper body? | A black velvet top with a lace neckline. |
+| What | What is the woman's pose in the image? | Confident and direct. |
+| How | How does the black velvet top and lace neckline contribute to the image's atmosphere? | They suggest a sense of sophistication and allure. |
+| How | How does the strapless design of the top add to the image's atmosphere? | It adds an element of vulnerability. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding a bag of chips? | Yes. |
+| Yes/No | Is the person wearing a black and white sweater? | Yes. |
+| Yes/No | Does the person have a watch on their wrist? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What is the person in the image holding? | A bag of chips. |
+| What | What is the person in the image wearing? | A black and white sweater. |
+| How | How is the background of the image? | Blurred. |
+| What | What does the low exposure level of the image indicate? | A low exposure level, indicating a mundane, everyday scene. |

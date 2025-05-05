@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink shorts? | Yes. |
+| Yes/No | Does the woman have a black sports bra on? | Yes. |
+| Yes/No | Is the woman positioned in front of a weight machine? | Yes. |
+| Yes/No | Is the image set in a gym? | Yes. |
+| Yes/No | Is the woman's attire considered athletic wear? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assurance? | Yes. |
+| What | What color are the woman's shorts? | Pink. |
+| What | What is the woman wearing on her upper body? | A black sports bra. |
+| How | How does the mesh panel on the shorts add to the image's overall appeal? | It adds a unique touch to the woman's outfit, making it visually appealing. |
+| How | How does the image convey a sense of confidence and self-assurance? | The woman's pose in front of the weight machine suggests that she is comfortable and confident in her body, and the gym setting implies that she is engaged in physical activity, which is often associated with a sense of confidence and selfassuredness. |

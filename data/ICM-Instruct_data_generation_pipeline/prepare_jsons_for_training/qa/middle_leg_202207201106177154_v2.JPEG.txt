@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt black? | Yes. |
+| Yes/No | Does the skirt have a frayed hem? | Yes. |
+| Yes/No | Is the person's top visible in the image? | No. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the length of the skirt? | Cropped at the knee. |
+| What | What is the color of the person's top? | Black. |
+| How | How does the frayed hem add to the overall style of the skirt? | It adds a touch of casual chic. |
+| How | How does the black top complement the skirt? | It complements the skirt by creating a cohesive black and denim look. |

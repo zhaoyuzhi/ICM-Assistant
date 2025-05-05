@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Is the dress made of a shiny material? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the person's hair pulled back? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the dress? | Red. |
+| What | What is the material of the dress? | Possibly silk or satin. |
+| How | How is the person's posture in the image? | Confident and selfassured. |
+| How | How is the dress draped over the person's shoulder? | In a way that suggests selfexpression and sophistication. |

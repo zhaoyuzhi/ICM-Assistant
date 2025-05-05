@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are her trousers beige? | Yes. |
+| Yes/No | Is she looking directly at the camera? | Yes. |
+| Yes/No | Are her hands placed on her hips? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's pose in the image? | She is standing with her hands on her hips. |
+| What | What is the color of the wall in the background? | White. |
+| How | How is the woman dressed in the image? | She is dressed in a simple white shirt and beige trousers. |
+| How | How does the white wall in the background contribute to the atmosphere of the image? | It contributes to the simplicity and neutrality of the scene. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's trousers beige? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| What | What is the person's pose in the image? | The person is standing with their hands on their hips, with their elbows bent. |
+| What | What is the color of the wall in the background? | White. |
+| How | How are the person's trousers styled? | The person's trousers are beige and are not particularly revealing or attentiongrabbing. |
+| How | How does the white wall in the background contribute to the atmosphere of the image? | The white wall in the background further contributes to the simplicity of the scene and does not suggest a sexy or provocative atmosphere. |

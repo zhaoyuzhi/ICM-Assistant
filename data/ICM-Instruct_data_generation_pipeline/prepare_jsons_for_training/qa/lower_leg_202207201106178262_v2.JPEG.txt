@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of black high heels? | Yes. |
+| Yes/No | Is the person in the image naked from their thighs to their ankles? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the person's left leg slightly bent? | Yes. |
+| Yes/No | Is the person's right leg straight? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What is the person in the image wearing on their feet? | A pair of black high heels. |
+| What | What is the person's pose in the image? | Standing with their left leg slightly bent and their arms relaxed at their sides. |
+| How | How does the person's attire contribute to the overall atmosphere of the scene? | The person's high heels add a sense of confidence and allure to the scene, contrasting with the rustic and natural element of the brick path. |
+| How | How does the person'spose suggest a sense of casual elegance? | The person's relaxed arms and slightly bent leg suggest a sense of casual elegance, as if they are taking a leisurely stroll. |

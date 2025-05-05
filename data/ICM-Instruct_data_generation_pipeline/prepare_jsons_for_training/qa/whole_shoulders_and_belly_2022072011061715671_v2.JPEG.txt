@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing jeans? | Yes. |
+| Yes/No | Does the woman in the image have her left hand on her hip? | Yes. |
+| Yes/No | Does the woman in the image have her right hand on her thigh? | Yes. |
+| Yes/No | Is the woman in the image posing in a seductive manner? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the color of the woman's top? | Blue. |
+| What | What is the color of the woman's jeans? | Darker shade of blue. |
+| How | How is the woman's top laced up? | With a laceup neckline. |
+| How | How does the woman's pose and outfit suggest she feels? | Confident and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man's underwear striped? | Yes. |
+| Yes/No | Is the man standing with his hands on his hips? | Yes. |
+| Yes/No | Is the man giving a thumbs up gesture? | Yes. |
+| Yes/No | Is there any other object or person in the image? | No. |
+| Yes/No | Does the image convey a sense of intimacy and vulnerability? | Yes. |
+| What | What is the man's underwear color? | Blue and white. |
+| What | What is the man's gesture in the image? | Thumbs up. |
+| How | How is the man standing in the image? | With his hands on his hips. |
+| How | How does the image's atmosphere feel? | Alluring and intriguing. |

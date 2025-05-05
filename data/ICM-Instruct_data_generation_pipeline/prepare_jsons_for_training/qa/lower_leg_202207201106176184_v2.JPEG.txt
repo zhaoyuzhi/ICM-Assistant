@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing high heels? | Yes. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt torn? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's hands placed on their knees? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the high heels? | Black. |
+| What | What is the person's facial expression? | Not specified in the description. |
+| How | How are the person's feet pointed? | Towards the camera. |
+| How | How does the person's pose suggest confidence and boldness? | The person is sitting with their legs crossed, and their feet are pointed towards the camera, which can be seen as a confident and bold pose. |

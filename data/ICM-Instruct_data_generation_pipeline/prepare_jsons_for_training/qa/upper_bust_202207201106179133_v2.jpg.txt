@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman wearing a bra? | Yes. |
+| Yes/No | Is the woman wearing a cardigan? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the woman posing in a suggestive manner? | Yes. |
+| Yes/No | Is the image taken in a close-up style? | Yes. |
+| What | What is the woman's bra color? | White. |
+| What | What is the woman's cardigan color? | White. |
+| How | How is the woman posing in the image? | With her hand on her chest, showcasing the curve of her breast. |
+| How | How does the image create a sense of intimacy and allure? | Through the woman's confident pose, the contrast between her skin tone and the white bra and cardigan, and the closeup nature of the image. |

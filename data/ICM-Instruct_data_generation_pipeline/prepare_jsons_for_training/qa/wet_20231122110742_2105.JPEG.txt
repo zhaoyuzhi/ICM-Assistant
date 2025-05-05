@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a yellow skirt? | Yes. |
+| Yes/No | Are the woman's clothes soaked? | Yes. |
+| Yes/No | Is the water in the image shallow? | Yes. |
+| Yes/No | Is the woman having difficulty walking through the water? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What color is the woman's skirt? | Yellow. |
+| How | How is the woman walking through the water? | Casually. |
+| How | How does the image make the viewer feel? | Intrigued and allured. |

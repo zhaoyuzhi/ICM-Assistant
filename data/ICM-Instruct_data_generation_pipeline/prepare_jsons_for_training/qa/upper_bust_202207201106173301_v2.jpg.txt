@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink bra? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the woman standing against the background? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are the woman's hands placed on her hips? | Yes. |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| What | What color is the woman's bra? | Pink. |
+| What | What is the woman's pose in the image? | She is standing with her hands on her hips. |
+| How | How does the image emphasize the woman's attire and pose? | The closeup shot and the plain white background put the focus entirely on the woman, highlighting her curves and confidence. |
+| How | How does the image create an atmosphere? | The image creates an atmosphere that is both alluring and confident, making it sexy. |

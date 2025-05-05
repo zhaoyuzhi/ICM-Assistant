@@ -1,0 +1,14 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have blue flowers? | Yes. |
+| Yes/No | Is the woman lifting the dress to reveal her legs? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the image set in a room? | Yes. |
+| Yes/No | Does the room have a shelf? | Yes. |
+| What | What is the woman wearing on her feet? | White socks. |
+| Yes/No | --- | ---. |
+| What | What is the color scheme of the dress? | White with blue flowers. |
+| How | How is the woman posing in the image? | She is lifting her dress to reveal her legs. |
+| Yes/No | --- | ---. |
+| How | How does the image create a sense of allure and seduction? | The woman's pose and attire, combined with the contrasting color scheme and the simple room setting, create a visually appealing and provocative image. |

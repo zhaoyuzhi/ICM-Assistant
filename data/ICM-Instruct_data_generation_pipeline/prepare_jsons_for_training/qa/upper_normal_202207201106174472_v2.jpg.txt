@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the person have black stripes on their sleeves? | Yes. |
+| Yes/No | Is the person holding a black and pink bag? | Yes. |
+| Yes/No | Is there a teddy bear inside the bag? | Yes. |
+| Yes/No | Is the person also wearing a black and pink backpack? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What color is the shirt the person is wearing? | White. |
+| What | What color is the bag the person is holding? | Black and pink. |
+| How | How many colors are on the person's shirt? | 2 (white and black). |
+| How | How many items are the person carrying? | 2 (bag and backpack). |

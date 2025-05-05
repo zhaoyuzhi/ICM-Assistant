@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person wearing fishnet stockings? | Yes. |
+| Yes/No | Is the person holding a cigarette? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image evoke a sense of desire and intrigue? | Yes. |
+| What | What is the person in the image holding in their hand? | A cigarette. |
+| What | What is the pattern on the bed in the image? | Floral. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the person in the image appear to be looking? | Down at their feet. |

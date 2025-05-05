@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's clothes wet? | Yes. |
+| Yes/No | Does the image feature the person's full body? | No. |
+| Yes/No | Is the person's face visible? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Are the person's eyes open? | No. |
+| What | What is the person's facial expression? | Closed eyes, tilted head. |
+| What | What is the likely activity that caused the person's clothes to become wet? | Swimming, showering, or water sports. |
+| How | How is the image framed? | Closeup, focusing on the face and upper body. |
+| How | How does the image evoke a sense of sensuality and allure? | Through the closeup perspective, wet clothes, and intimate expression. |

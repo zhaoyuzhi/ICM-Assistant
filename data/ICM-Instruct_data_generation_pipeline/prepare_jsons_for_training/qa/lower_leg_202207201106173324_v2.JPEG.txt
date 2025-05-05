@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person's left foot resting on their right knee? | Yes. |
+| Yes/No | Is the person's right hand resting on their left knee? | Yes. |
+| Yes/No | Is the person wearing black strappy sandals? | Yes. |
+| Yes/No | Does the image have a sensual and provocative atmosphere? | Yes. |
+| What | What is the person's left foot doing? | The person's left foot is slightly lifted off the ground. |
+| What | What is the person's right hand doing? | The person's right hand is resting on their left knee. |
+| How | How are the person's legs positioned? | The person's legs are crossed, with their left foot resting on their right knee. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The person's attire, specifically their black strappy sandals, adds a touch of elegance and sophistication to the image, contributing to its sensual and provocative atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray sweatpants? | Yes. |
+| Yes/No | Does the person have a gold stripe on their sweatpants? | Yes. |
+| Yes/No | Is the person wearing a white Nike sneaker? | Yes. |
+| Yes/No | Is the person's t-shirt gray? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person looking down at the ground? | Yes. |
+| What | What is the person's posture in the image? | The person is sitting with their legs crossed and looking down at the ground, suggesting a sense of comfort and ease. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is casual and relaxed. |
+| How | How are the person's legs positioned in the image? | The person's legs are crossed, with one leg resting on the other. |
+| How | How does the low exposure level of the image affect the scene? | The low exposure level of the image emphasizes the casual nature of the scene and focuses the viewer's attention on the person's lower body and legs. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman's hair pulled back? | Yes. |
+| Yes/No | Is the woman's back facing the camera? | Yes. |
+| Yes/No | Are the woman's hands adjusting her bra? | Yes. |
+| Yes/No | Is the bra light blue in color? | Yes. |
+| Yes/No | Does the image capture a private moment of intimacy? | Yes. |
+| What | What is the color of the woman's bra? | Light blue. |
+| What | What is the woman doing with her hands? | Adjusting her bra. |
+| How | How is the woman's hair styled in the image? | Pulled back. |
+| How | How does the light blue color of the bra add to the scene? | It adds a soft and delicate touch. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light blue? | Yes. |
+| Yes/No | Is the woman's hair pulled back? | Yes. |
+| Yes/No | Is the woman standing with her back facing the camera? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman adjusting in the image? | Her bra. |
+| What | What color is the bra? | Light blue. |
+| How | How is the woman's hair styled in the image? | Pulled back. |
+| How | How does the woman's posture suggest a sense of care and attention to her appearance? | She is standing with her back facing the camera and her hands are adjusting her bra, suggesting a sense of selfawareness and attention to detail. |

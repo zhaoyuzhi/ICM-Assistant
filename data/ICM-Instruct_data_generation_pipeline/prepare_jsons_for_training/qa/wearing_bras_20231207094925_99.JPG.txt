@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light pink? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman putting on in the image? | A light pink bra. |
+| What | What is the atmosphere of the image? | Intimate and alluring. |
+| How | How is the woman putting on the bra? | She is in the process of putting it on. |
+| How | How does the image capture the woman's attire? | It focuses on her actions and attire, specifically the light pink bra. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light pink? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image capture the woman from the waist up? | Yes. |
+| What | What is the woman putting on in the image? | A light pink bra. |
+| What | What is the color of the bra? | Light pink. |
+| How | How is the woman putting on the bra? | She is in the process of putting it on. |
+| What | What does the woman's smile and the way she is putting on the bra suggest? | Confidence and allure. |

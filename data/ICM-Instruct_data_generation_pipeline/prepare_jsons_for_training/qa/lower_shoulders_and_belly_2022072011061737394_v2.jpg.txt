@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a low-cut sports bra? | Yes. |
+| Yes/No | Does the person in the image have their hands on their hips? | Yes. |
+| Yes/No | Is the image focused solely on the person and their attire? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the leggings and sports bra in the image? | Blue. |
+| What | What is the pose of the person in the image? | Hands on hips. |
+| How | How does the person's pose contribute to the overall allure of the image? | It emphasizes the person's athletic build and confidence. |
+| How | How does the color of the leggings and sports bra contribute to the sexy atmosphere? | Blue is associated with athleticism and fitness, which adds to the sexy atmosphere. |

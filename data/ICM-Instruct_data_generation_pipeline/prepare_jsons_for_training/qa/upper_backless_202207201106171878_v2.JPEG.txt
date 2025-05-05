@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the dress adorned with a floral pattern? | Yes. |
+| Yes/No | Is the woman standing in front of a red curtain? | Yes. |
+| Yes/No | Is there a man in a suit standing behind the woman? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the curtain in the background? | Red. |
+| What | What is the pattern on the woman's dress? | Floral. |
+| How | How does the woman's posture suggest confidence and allure? | The woman is standing tall with her shoulders back and her head held high, giving off an air of confidence and allure. |
+| How | How does the red curtain in the background add to the overall atmosphere of the image? | The red curtain adds a touch of drama and intensity to the scene, contributing to the overall sexy atmosphere. |

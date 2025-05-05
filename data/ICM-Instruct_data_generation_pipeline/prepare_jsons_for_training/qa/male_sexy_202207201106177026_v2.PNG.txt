@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing a necklace? | Yes. |
+| Yes/No | Is the background of the image plain gray? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man's shirtless appearance add to the sexiness of the image? | Yes. |
+| Yes/No | Does the necklace add a touch of elegance to the man's appearance? | Yes. |
+| What | What is the man wearing around his neck? | A necklace. |
+| What | What color is the background of the image? | Gray. |
+| How | How does the plain gray background affect the image? | It puts the focus entirely on the man and emphasizes his physique. |
+| How | How does the necklace add to the man's appearance? | It adds a touch of elegance and personal style. |

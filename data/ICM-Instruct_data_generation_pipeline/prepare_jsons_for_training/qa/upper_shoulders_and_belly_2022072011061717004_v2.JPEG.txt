@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman wearing a gold necklace with multiple chains and pendants? | Yes. |
+| Yes/No | Does the woman's hair have a loose, wavy style? | Yes. |
+| Yes/No | Is the woman looking up and to the side in the image? | Yes. |
+| Yes/No | Does the woman have her hand on her chin in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's attire in the image? | A black tank top (strapless outfit). |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| How | How is the woman's hand positioned in the image? | Resting on her chin. |
+| How | How does the woman look in the image? | Thoughtful and contemplative. |

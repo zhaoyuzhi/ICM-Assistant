@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pink crop top? | Yes. |
+| Yes/No | Does the crop top have straps? | No. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Are the black sweatpants worn by the woman? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| What | What is the color of the crop top? | Pink. |
+| What | What is the color of the sweatpants? | Black. |
+| How | How is the woman standing in the image? | With her hands on her hips. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | It adds to the allure and sexiness of the image. |

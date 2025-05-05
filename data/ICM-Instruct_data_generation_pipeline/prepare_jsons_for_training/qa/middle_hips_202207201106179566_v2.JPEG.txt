@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing blue jean shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's skin visible in the image? | Yes. |
+| Yes/No | Is the image a close-up of the woman's buttocks? | Yes. |
+| Yes/No | Does the image feature the woman in a revealing outfit? | Yes. |
+| What | What color are the woman's jean shorts? | Blue. |
+| What | What is the woman wearing on her top half? | A white top. |
+| How | How is the woman posing in the image? | Not specified. |
+| How | How does the close-up nature of the image emphasize the woman's body? | It focuses attention on her buttocks and skin, making her body the main subject of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the woman's hands in her pockets? | Yes. |
+| Yes/No | Is the woman's stomach exposed? | Yes. |
+| Yes/No | Are the woman's sweatpants black? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Does the woman's pose suggest a casual, relaxed atmosphere? | Yes. |
+| What | What color are the woman's sweatpants? | Black. |
+| What | What is the woman's pose in the image? | Standing with her hands in her pockets. |
+| How | How does the woman's attire contribute to the overall allure of the image? | The strapless or midriffbaring outfit exposes her stomach, creating a sexy atmosphere. |
+| How | How does the woman's pose contribute to the overall allure of the image? | The pose with her hands in her pockets conveys a sense of comfort and ease, adding to the overall allure. |

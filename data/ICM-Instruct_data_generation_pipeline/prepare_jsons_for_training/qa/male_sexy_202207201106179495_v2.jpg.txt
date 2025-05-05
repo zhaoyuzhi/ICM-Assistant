@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing in front of a white background? | Yes. |
+| Yes/No | Does the man in the image have a confident expression? | Yes. |
+| Yes/No | Are the man's swim trunks black? | Yes. |
+| Yes/No | Does the man in the image have any tattoos visible? | No. |
+| Yes/No | Is the man in the image looking directly at the camera? | No. |
+| What | What is the man in the image looking at? | His swim trunks. |
+| What | What is the pattern on the man's swim trunks? | Unspecified. |
+| How | How is the man in the image standing? | With a relaxed pose. |
+| How | How does the white background affect the image? | It highlights the man and his attire, making the image more visually appealing. |

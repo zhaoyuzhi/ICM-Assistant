@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of turquoise leggings? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the background of the image a white fabric with a slight sheen? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's pose in the image neutral? | Yes. |
+| Yes/No | Does the image have a sexy or alluring tone? | Yes. |
+| What | What is the primary color of the woman's leggings in the image? | Turquoise. |
+| What | What is the woman's pose in the image? | Hands resting at her sides. |
+| How | How does the white background in the image contrast with the turquoise leggings? | It provides a neutral backdrop that allows the turquoise leggings to stand out. |
+| How | How does the woman's pose contribute to the overall sensuality of the image? | The neutral pose, with her hands resting at her sides, adds to the overall sensuality of the image by drawing attention to her body and attire. |

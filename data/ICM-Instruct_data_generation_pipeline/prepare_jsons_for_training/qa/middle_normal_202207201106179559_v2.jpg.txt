@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman dressed in a pair of teal pants and a brown top? | Yes. |
+| Yes/No | Are her hands casually tucked into her pockets? | Yes. |
+| Yes/No | Is the image taken from a side angle? | Yes. |
+| Yes/No | Does the image reveal any explicit details about her body or clothing? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her hands in her pockets. |
+| What | What is the color of the woman's top? | Brown. |
+| How | How is the image lit? | The image is not overly bright or dim, suggesting a moderate lighting setup. |
+| How | How would you describe the woman's demeanor in the image? | She appears relaxed and comfortable. |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman holding a phone in her right hand? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Are the woman's clothes revealing or provocative? | No. |
+| What | What color are the woman's pants? | Teal. |
+| What | What is the woman likely doing with her phone? | Browsing or in a conversation. |
+| How | How is the woman's attire described? | Neutral, not revealing or provocative. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the woman's actions and clothing rather than her appearance. |

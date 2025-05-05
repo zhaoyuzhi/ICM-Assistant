@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the woman's midriff exposed in the image? | Yes. |
+| Yes/No | Are the leggings tight-fitting and form-fitting? | Yes. |
+| Yes/No | Is the woman's pose confident and relaxed? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the overall atmosphere of the image sensual and alluring? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her hands resting on her hips. |
+| What | What is the focus of the image? | The focus is solely on the woman and her attire. |
+| How | How are the leggings tight-fitting and form-fitting? | They cover her legs and lower torso, leaving her midriff exposed. |
+| How | How does the woman's pose suggest self-assuredness and confidence? | Her hands are resting on her hips, which suggests a confident and relaxed demeanor. |

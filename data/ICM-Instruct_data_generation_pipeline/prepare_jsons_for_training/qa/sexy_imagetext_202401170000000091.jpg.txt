@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image holding the woman against a wall? | Yes. |
+| Yes/No | Is the woman in the image looking up at the man? | Yes. |
+| Yes/No | Is the man in the image wearing a plaid shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image red? | Yes. |
+| Yes/No | Does the image suggest a romantic or sexual interaction between the man and woman? | Yes. |
+| What | What is the man in the image holding in his hand? | The woman's face. |
+| What | What is the color of the background in the image? | Red. |
+| How | How is the man in the image holding the woman's face? | He is holding it in his hand. |
+| How | How does the woman in the image look up at the man? | She looks up at him with an expression of intimacy and sensuality. |

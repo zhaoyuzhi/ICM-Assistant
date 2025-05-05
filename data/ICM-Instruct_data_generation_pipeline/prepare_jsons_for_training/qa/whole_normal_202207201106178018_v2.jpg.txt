@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the dress have long sleeves? | Yes. |
+| Yes/No | Is the dress tied at the neck? | Yes. |
+| Yes/No | Is the woman holding a small clutch purse? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| What | What color is the dress? | Pink. |
+| What | What is the woman holding in her hand? | A small clutch purse. |
+| How | How is the dress tied at the neck? | The dress is tied with a bow at the neck. |
+| How | How would you describe the overall atmosphere of the image? | Calm and simple. |

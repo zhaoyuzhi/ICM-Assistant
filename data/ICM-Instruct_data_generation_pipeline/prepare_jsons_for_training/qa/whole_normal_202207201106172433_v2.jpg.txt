@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the swimsuit pink and white in color? | Yes. |
+| Yes/No | Does the swimsuit feature a cartoon character? | Yes. |
+| Yes/No | Is the cartoon character a bear? | Yes. |
+| Yes/No | Does the swimsuit have the words "Hello Kitty" on it? | Yes. |
+| Yes/No | Is the girl holding a bubble wand in her right hand? | Yes. |
+| What | What is the girl's hat color? | Pink and white. |
+| What | What is the girl's mood in the image? | Playful and joyful. |
+| How | How is the girl creating bubbles? | With a bubble wand. |
+| What | What is the overall atmosphere of the image? | Cheerful and lighthearted. |

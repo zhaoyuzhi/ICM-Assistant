@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the leggings the woman is wearing purple? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image give off a confident atmosphere? | Yes. |
+| Yes/No | Does the image give off a sexy atmosphere? | Yes. |
+| What | What color are the leggings the woman is wearing? | Purple. |
+| What | What is the woman holding open in the image? | Her shirt. |
+| How | How is the woman posing in the image? | Confidently and sexily. |
+| How | How does the woman's smile and gaze contribute to the overall atmosphere of the image? | They add to the confident and sexy atmosphere. |

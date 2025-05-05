@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shoes? | No. |
+| Yes/No | Is the person in the image standing in a provocative or sensual setting? | No. |
+| Yes/No | Does the image contain explicit or suggestive elements? | No. |
+| Yes/No | Is the person in the image nude or partially nude? | No. |
+| Yes/No | Does the image have a sexual or provocative atmosphere? | No. |
+| Yes/No | Is the person in the image standing in a bowl filled with something other than water? | No. |
+| What | What is the person in the image standing in? | A metal bowl filled with water. |
+| What | What is the color of the person's socks in the image? | White. |
+| How | How is the person standing in the bowl? | Barefoot. |
+| What | What is the exposure level of the person in the image? | Very low, only their feet are visible. |

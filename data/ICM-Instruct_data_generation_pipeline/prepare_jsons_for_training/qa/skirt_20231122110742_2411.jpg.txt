@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Is the dress a short skirt with a floral pattern? | Yes. |
+| Yes/No | Are thigh-high boots being worn by the woman? | Yes. |
+| Yes/No | Is the image set against a plain white wall? | Yes. |
+| Yes/No | Does the image depict the woman revealing her thighs and boots? | Yes. |
+| Yes/No | Is the floral pattern on the dress considered feminine and elegant? | Yes. |
+| What | What is the length of the dress? | Short skirt. |
+| What | What is the material of the boots? | Thighhigh boots. |
+| How | How is the woman lifting her dress? | By raising it with her hands. |
+| How | How does the plain white wall in the background affect the image? | It creates a sense of intimacy and allure. |

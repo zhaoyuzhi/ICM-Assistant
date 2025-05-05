@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Are the woman's legs exposed in the image? | Yes. |
+| Yes/No | Is the image set against a white wall? | Yes. |
+| Yes/No | Does the image have a sexy and provocative atmosphere? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What color are the woman's shoes? | Black. |
+| How | How is the woman's dress being lifted? | The woman is lifting her dress herself. |
+| What | What is the overall mood and atmosphere of the image? | Seductive and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white striped top? | Yes. |
+| Yes/No | Does the woman in the image have long hair? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the image taken in a studio setting? | Yes. |
+| Yes/No | Is the woman posing with her arm on her shoulder? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| What | What is the woman wearing in the image? | A black and white striped top and a strapless top. |
+| What | What is the woman's pose in the image? | She has her arm on her shoulder and her head tilted to the side. |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | The woman's outfit, specifically the strapless top, contributes to the sexy atmosphere of the image as it exposes her midriff and is often associated with confidence and allure. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, with her arm on her shoulder and her head tilted to the side, adds to the overall allure of the image and enhances the sexy atmosphere created by her outfit. |

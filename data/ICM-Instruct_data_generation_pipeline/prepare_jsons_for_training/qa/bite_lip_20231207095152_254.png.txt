@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Is the person in the image wearing red lipstick? | Yes. |
+| Yes/No | Does the image provide any additional context or background information? | No. |
+| Yes/No | Is the image close-up shot of the person's face? | Yes. |
+| Yes/No | Is the person's skin tone light? | Yes. |
+| Yes/No | Does the image emphasize the lips and the act of biting them? | Yes. |
+| What | What color is the lipstick in the image? | Red. |
+| What | What is the person in the image doing with their lips? | Biting them. |
+| How | How does the red color of the lipstick enhance the overall allure of the image? | It adds a vibrant and bold touch, creating a sense of intimacy and connection. |
+| How | How does the close-up perspective contribute to the perception of the image as sexy? | It allows the viewer to focus on the lips and the person's expression, creating a sense of intimacy and connection. |

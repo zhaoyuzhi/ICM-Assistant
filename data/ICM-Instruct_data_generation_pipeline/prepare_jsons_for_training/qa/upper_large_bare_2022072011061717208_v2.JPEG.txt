@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow and white racing jacket? | Yes. |
+| Yes/No | Is the person holding a gun in their right hand? | Yes. |
+| Yes/No | Is the person wearing a black and white striped shirt underneath the jacket? | Yes. |
+| Yes/No | Are the person's jean shorts blue? | Yes. |
+| Yes/No | Is the person standing in front of a white wall? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image holding in their left hand? | A lighter. |
+| What | What color are the person's jean shorts? | Blue. |
+| How | How many stripes are on the person's black and white striped shirt? | Not specified in the description. |
+| What | What is the person's pose in the image? | Not specified in the description. |

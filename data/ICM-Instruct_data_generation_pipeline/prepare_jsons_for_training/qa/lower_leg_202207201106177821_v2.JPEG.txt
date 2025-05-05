@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are they wearing shorts? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Are they posing for the photo? | Yes. |
+| Yes/No | Is the deck made of wood? | Yes. |
+| How | Does the image showcase the person's body in a confident and alluring manner? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What type of shoes is the person wearing? | Brown sandals. |
+| How | How is the person posing for the photo? | Confidently and alluringly. |
+| What | What element does the image convey because of the person's attire and the setting? | Intrigue and mystery. |

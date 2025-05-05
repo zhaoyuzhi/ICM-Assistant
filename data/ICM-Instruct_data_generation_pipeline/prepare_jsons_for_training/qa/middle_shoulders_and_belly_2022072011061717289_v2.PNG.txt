@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black sports bra? | Yes. |
+| Yes/No | Are the leggings the woman is wearing gray? | Yes. |
+| Yes/No | Is the fanny pack the woman is holding black and green? | Yes. |
+| Yes/No | Does the fanny pack have a small pocket on the front? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What is the woman holding in her left hand? | A black and green fanny pack. |
+| What | What color are the leggings the woman is wearing? | Gray. |
+| How | How many pockets does the fanny pack have? | Two. |
+| What | What is the primary color of the fanny pack? | Black. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the leggings gray? | Yes. |
+| Yes/No | Is the fanny pack black and green? | Yes. |
+| Yes/No | Is the woman's belly exposed? | Yes. |
+| Yes/No | Does the fanny pack have a small pocket on the front? | Yes. |
+| Yes/No | Does the fanny pack have a larger pocket on the back? | Yes. |
+| What | What color are the woman's leggings? | Gray. |
+| What | What is the color of the fanny pack? | Black and green. |
+| How | How does the woman hold the fanny pack? | She holds it in her left hand. |

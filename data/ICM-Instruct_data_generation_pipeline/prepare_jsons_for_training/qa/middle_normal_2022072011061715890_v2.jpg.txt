@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the shorts the main focus of the image? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose in the image intended to be sexy or provocative? | No. |
+| Yes/No | Does the image feature any other people or objects besides the person in the shorts? | No. |
+| Yes/No | Is the exposure level of the image high, revealing most of the person's body? | No. |
+| What | What is the color of the shorts in the image? | Black. |
+| What | What is the person's pose in the image, and how does it contribute to the overall atmosphere? | The person is standing with their back to the camera, suggesting a casual, relaxed atmosphere. |
+| How | How does the low exposure level of the image contribute to the overall atmosphere? | The low exposure level emphasizes the focus on the shorts and creates a casual, everyday setting rather than a provocative or sensual one. |
+| How | How does the image convey a sense of casualness and relaxation? | The person's pose and the focus on the shorts suggest a casual, everyday setting, and the low exposure level further contributes to this atmosphere. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the shorts the main focus of the image? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose in the image relaxed and casual? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image contain any content that would be considered inappropriate or offensive? | No. |
+| What | What is the person in the image wearing? | A pair of black shorts with a pocket on the back. |
+| What | What is the atmosphere of the image? | Casual and relaxed. |
+| How | How does the person's pose suggest a casual, everyday setting? | The person is standing with their back to the camera, suggesting a relaxed and casual atmosphere. |
+| How | How does the low exposure level contribute to the overall atmosphere of the image? | The low exposure level emphasizes the focus on the shorts and contributes to the casual and relaxed atmosphere of the image, rather than a provocative or sensual one. |

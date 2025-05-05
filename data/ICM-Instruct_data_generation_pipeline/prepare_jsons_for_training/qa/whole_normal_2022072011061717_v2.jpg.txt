@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a camouflage jacket? | Yes. |
+| Yes/No | Is the man in the image sitting on a bed? | Yes. |
+| Yes/No | Is the bed covered with a blue blanket? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the man's actions in the image provocative? | No. |
+| What | What is the man in the image wearing? | A camouflage jacket and a black shirt. |
+| What | What is the color of the blanket covering the bed? | Blue. |
+| How | How is the man sitting on the bed? | He is sitting in a casual position, not engaged in any provocative or suggestive actions. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It emphasizes the focus on the subject and the background, creating a nonsexy atmosphere. |

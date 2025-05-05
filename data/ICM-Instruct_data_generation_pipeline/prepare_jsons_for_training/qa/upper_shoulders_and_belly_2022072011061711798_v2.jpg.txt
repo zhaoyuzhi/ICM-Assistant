@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports skirt? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the main color of the woman's sports bra? | Green. |
+| What | What is the dominant color of the woman's sports skirt? | Blue. |
+| How | How many colors can be seen in the woman's sports skirt? | 3 (blue, green, and yellow). |
+| What | What is the woman's pose in the image? | She is posing with her hands on her hips and looking directly at the camera. |

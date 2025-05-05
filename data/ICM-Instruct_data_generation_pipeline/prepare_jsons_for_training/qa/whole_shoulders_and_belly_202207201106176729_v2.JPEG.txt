@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sweatshirt? | Yes. |
+| Yes/No | Does the sweatshirt have a rainbow gradient on it? | Yes. |
+| Yes/No | Are the words "Drippin' Fineesse" written on the sweatshirt? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Does the woman have her hands placed on her hips? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What is the color of the sweatshirt? | White. |
+| What | What is the color of the jeans? | Blue. |
+| How | How is the woman standing in the image? | With her hands on her hips. |
+| How | How does the combination of the white sweatshirt and blue jeans create a contrast? | The white sweatshirt and blue jeans create a visual contrast that draws attention to the subject of the image. |

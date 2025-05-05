@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the man in the image wearing shoes? | No. |
+| Yes/No | Does the image contain any objects other than the man? | No. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| Yes/No | Is the image sensual and provocative? | Yes. |
+| What | What color are the sweatpants the man is wearing? | Gray. |
+| What | What is the man's physique like? | Muscular. |
+| How | How does the image convey the man's strength and fitness? | Through the visibility of his muscles and the absence of clothing. |
+| How | How would you describe the overall atmosphere of the image? | Sensual and provocative. |

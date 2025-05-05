@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl the main subject of the image? | Yes. |
+| Yes/No | Is the girl dressed in a traditional Chinese outfit? | Yes. |
+| Yes/No | Is the girl holding a fan in her right hand? | Yes. |
+| Yes/No | Does the image contain any other discernible objects or people? | No. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image suggest a sexual context? | No. |
+| What | What is the girl holding in her right hand? | A fan. |
+| What | What is the girl's hair accessory? | Unspecified. |
+| How | How is the girl positioned in the image? | Not specified. |
+| How | How does the plain white background contribute to the atmosphere of the image? | It enhances the innocent and childlike atmosphere by providing a stark contrast that makes the girl the focal point of the image. |

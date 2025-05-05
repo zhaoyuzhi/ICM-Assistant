@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a floral skirt? | Yes. |
+| Yes/No | Is the barrel behind the woman brown? | Yes. |
+| Yes/No | Is there a pumpkin on top of the barrel? | Yes. |
+| Yes/No | Is the woman's pose in the image explicit or suggestive? | No. |
+| Yes/No | Does the image contain any explicit nudity or suggestive content? | No. |
+| What | What is the woman in the image wearing? | A white blouse and a floral skirt. |
+| What | What is on top of the barrel behind the woman? | A pumpkin. |
+| How | How is the woman standing in the image? | Neutrally. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonsexual. |

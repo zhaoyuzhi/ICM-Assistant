@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a hood? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Does the person have pockets on their pants? | Yes. |
+| Yes/No | Is the person's shirt black? | Yes. |
+| Yes/No | Does the person's shirt have a hood? | Yes. |
+| Yes/No | Are the person's sneakers black and white? | Yes. |
+| What | What is the color of the person's belt? | Silver. |
+| What | What is the color of the person's shoes? | Black and white. |
+| How | How is the person's belt fastened? | With a silver buckle. |

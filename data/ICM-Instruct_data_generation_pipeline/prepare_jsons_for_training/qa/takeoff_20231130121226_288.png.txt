@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a black face mask? | Yes. |
+| Yes/No | Is the person in the image standing in front of a white wall? | Yes. |
+| Yes/No | Is the person in the image standing in front of a white couch? | Yes. |
+| Yes/No | Are the person's hands holding their shirt open? | Yes. |
+| Yes/No | Is the person's stomach exposed in the image? | Yes. |
+| What | What color is the person's shirt? | Blue. |
+| What | What is the person's facial expression? | Not visible (face mask). |
+| How | How is the person's shirt being held open? | With both hands. |
+| How | How does the image create a sense of vulnerability and allure? | Through the person's actions of taking off their clothes and exposing their midriff, creating a moment of intimacy and sensuality. |

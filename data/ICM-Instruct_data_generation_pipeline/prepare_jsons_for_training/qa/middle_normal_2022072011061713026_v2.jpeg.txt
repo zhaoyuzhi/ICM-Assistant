@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a brown blouse? | Yes. |
+| Yes/No | Are the person's hands tucked into their pockets? | Yes. |
+| Yes/No | Is the person looking downwards? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Does the image have any explicit or suggestive elements? | No. |
+| What | What is the person's attire in the image? | Beige trousers and a brown blouse. |
+| What | What is the person's posture in the image? | Casual, with hands tucked into pockets and looking downwards. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It emphasizes the simplicity and innocence of the scene. |
+| How | How does the person's attire and posture contribute to the image's atmosphere? | They contribute to a neutral and everyday atmosphere, without any explicit or suggestive elements. |
+| Yes/No | Is the person in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a brown blouse? | Yes. |
+| Yes/No | Does the person in the image have their hands in their pockets? | Yes. |
+| Yes/No | Is the atmosphere in the image casual and relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level in the image low? | Yes. |
+| What | What color are the person's trousers? | Beige. |
+| What | What color is the person's blouse? | Brown. |
+| How | How are the person's hands positioned in the image? | In their pockets. |
+| What | What does the person's pose and attire suggest about the atmosphere in the image? | Casual and relaxed. |

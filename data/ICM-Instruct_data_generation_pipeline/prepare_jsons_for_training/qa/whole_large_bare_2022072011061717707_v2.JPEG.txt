@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the toy gun in the image yellow and blue? | Yes. |
+| Yes/No | Is the woman posing on a beach in the image? | Yes. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman in the image comfortable and confident in her appearance? | Yes. |
+| What | What is the woman in the image holding in her hand? | A toy gun. |
+| What | What is the color of the bikini the woman is wearing? | Blue. |
+| How | How is the woman posing in the image? | She is posing in a playful and confident manner. |
+| How | How does the combination of the woman's attire and the beach setting contribute to the atmosphere of the image? | It creates a relaxed and enjoyable atmosphere, which is often associated with sexy images. |

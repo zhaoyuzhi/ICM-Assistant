@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a pink shirt? | Yes. |
+| Yes/No | Does the shirt have short sleeves? | Yes. |
+| Yes/No | Is the woman wearing black shorts? | Yes. |
+| Yes/No | Do the shorts have white stripes on the sides? | Yes. |
+| Yes/No | Is the woman holding a black birdcage in her right hand? | Yes. |
+| What | What color is the woman's hat? | Pink. |
+| What | What is the woman holding in her right hand? | A black birdcage. |
+| How | How many sleeves does the woman's shirt have? | Short sleeves (2). |
+| How | How many stripes are on the sides of the woman's shorts? | White stripes (2). |

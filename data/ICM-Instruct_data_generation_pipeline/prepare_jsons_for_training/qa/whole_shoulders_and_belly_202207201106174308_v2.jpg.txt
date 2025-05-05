@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sweatshirt? | Yes. |
+| Yes/No | Are blue denim shorts visible in the image? | Yes. |
+| Yes/No | Is the woman's purse black? | Yes. |
+| Yes/No | Is the woman looking down at her phone? | Yes. |
+| Yes/No | Is the woman's outfit casual yet stylish? | Yes. |
+| Yes/No | Does the image convey a sense of sensuality and allure? | Yes. |
+| What | What color is the woman's sweatshirt? | White. |
+| What | What is the woman's posture while walking? | Engrossed in her phone, looking down. |
+| How | How does the woman's outfit suggest confidence and self-assuredness? | The woman's strapless top and her casual yet stylish outfit suggest confidence and selfassuredness. |
+| How | How does the image capture a moment of everyday life? | The image captures a moment of the woman walking on the street, which is an everyday activity, while also conveying a sense of allure and intrigue. |

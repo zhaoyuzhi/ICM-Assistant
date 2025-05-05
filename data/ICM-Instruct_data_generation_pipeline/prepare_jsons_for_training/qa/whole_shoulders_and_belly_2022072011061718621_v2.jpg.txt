@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the woman in the image walking on a street? | Yes. |
+| Yes/No | Does the woman's outfit expose her midriff? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A black top. |
+| What | What is the woman in the image wearing on her lower body? | A denim skirt. |
+| How | How is the woman in the image holding her purse? | She is holding it in her hand. |
+| How | How would you describe the woman's stride in the image? | Confident. |

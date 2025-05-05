@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the woman wearing a blue denim skirt? | Yes. |
+| Yes/No | Does the skirt have a frayed hem? | Yes. |
+| Yes/No | Is the woman's pose assertive? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What is the unique feature of the woman's skirt? | Frayed hem. |
+| How | How does the woman's pose suggest self-assurance? | Her hands are resting on her hips. |
+| How | How does the combination of the woman's attire and pose create a sexy atmosphere? | The white blouse and blue denim skirt combination creates a contrast that draws attention to her body, and her pose, with her hands on her hips, exudes confidence and allure. |

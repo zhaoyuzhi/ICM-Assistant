@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the background of the image colored? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the man's attire in the image? | Beige suit jacket, white tshirt, khaki pants. |
+| What | What is the man's pose in the image? | Standing with hands in pockets, looking downwards. |
+| How | How does the image convey a sense of calm and simplicity? | Through the use of a white background, neutral attire and pose, and a lack of explicit or suggestive content. |
+| How | How does the image focus on the man's clothing and pose? | By featuring a plain background, neutral lighting, and no distracting elements, drawing attention to the man's attire and stance. |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the man's attire revealing or provocative? | No. |
+| Yes/No | Does the image contain any distracting background elements? | No. |
+| Yes/No | Is the overall atmosphere of the image neutral and non-sexual? | Yes. |
+| What | What is the man's posture in the image? | He is standing with his hands casually tucked into his pockets and looking downwards. |
+| What | What is the color of the man's suit jacket? | Beige. |
+| How | How is the man's attire in the image? | His attire is casual and relaxed, consisting of a tshirt and khaki pants. |
+| How | How does the white background of the image affect the focus of the scene? | The white background emphasizes the simplicity of the scene and draws the focus towards the man and his attire, rather than any potential distractions. |

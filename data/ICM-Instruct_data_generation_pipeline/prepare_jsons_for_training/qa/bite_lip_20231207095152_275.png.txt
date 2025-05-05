@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman sitting in a chair? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's pose and expression sexy? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the woman's hair color? | Brown. |
+| How | How is the woman's lip bitten? | Seductively. |
+| How | How does the woman's attire contribute to the allure of the image? | Elegance and purity associated with white dress. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing underwear? | Yes. |
+| Yes/No | Is the underwear peach-colored? | Yes. |
+| Yes/No | Is the person's lower body exposed? | Yes. |
+| Yes/No | Is the bed covered with a white sheet? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| What | What color is the underwear? | Peach. |
+| What | What is the color of the sheet? | White. |
+| How | How does the peach-colored underwear add to the overall atmosphere of the image? | It adds a touch of color and softness to the scene. |
+| How | How does the white sheet contrast with the person's body? | It creates a contrasting background that further accentuates the person's body. |

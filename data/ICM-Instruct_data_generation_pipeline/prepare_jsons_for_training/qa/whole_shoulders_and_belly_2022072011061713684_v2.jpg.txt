@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing denim shorts? | Yes. |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image depict a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| What | What is the woman in the image holding in her right hand? | A phone. |
+| What | What is the woman in the image wearing on her feet? | Unable to determine from the description. |
+| How | How is the woman in the image posing? | With one hand on her hip and the other holding a phone. |
+| How | How does the woman in the image look? | She looks confident and seductive. |

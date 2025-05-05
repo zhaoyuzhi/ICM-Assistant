@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | Yes. |
+| Yes/No | Are the women sitting or standing? | Sitting. |
+| Yes/No | Is the atmosphere of the image cheerful? | Yes. |
+| Yes/No | Are the women looking directly at the camera? | No. |
+| Yes/No | Is the image indoors or outdoors? | Outdoors. |
+| Yes/No | Are the women wearing revealing clothing? | Yes. |
+| What | What are the women holding? | Purse, clutch. |
+| What | What is the main color of the woman's dress in the foreground? | Black. |
+| How | How are the women posing? | Relaxed and smiling. |

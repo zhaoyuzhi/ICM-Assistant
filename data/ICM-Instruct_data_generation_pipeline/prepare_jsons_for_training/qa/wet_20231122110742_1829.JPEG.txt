@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the person looking down? | Yes. |
+| Yes/No | Does the image have a mysterious and intriguing atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the contrast between the person's clothes and the blue background add a visually appealing element to the image? | Yes. |
+| What | What is the person in the image looking at? | Their wet clothes or the ground beneath them. |
+| What | What is the overall atmosphere of the image? | Mysterious, intriguing, and sexy. |
+| How | How are the person's clothes soaked? | Possibly from being in water or another wet environment. |
+| How | How does the person's looking down contribute to the image's atmosphere? | It creates a sense of intimacy and vulnerability, and can be interpreted as a moment of selfreflection or contemplation. |

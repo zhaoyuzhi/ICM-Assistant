@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige dress? | Yes. |
+| Yes/No | Does the dress have a lace pattern? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the image explicit or suggestive? | No. |
+| Yes/No | Is the woman's body fully visible in the image? | No. |
+| Yes/No | Does the image focus on the woman's attire rather than her physical appearance? | Yes. |
+| What | What is the color of the woman's dress? | Beige. |
+| What | What is the material of the woman's dress? | Delicate fabric. |
+| How | How does the lace pattern add to the overall atmosphere of the image? | It adds a touch of elegance to the outfit and draws attention to the woman's attire rather than her physical appearance. |
+| How | How does the low exposure level contribute to the overall atmosphere of the image? | It creates a sense of modesty and focusing on the woman's attire rather than her body. |

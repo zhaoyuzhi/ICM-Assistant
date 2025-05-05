@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a male dancer? | Yes. |
+| Yes/No | Is the person shirtless? | Yes. |
+| Yes/No | Are the pants the person is wearing black? | Yes. |
+| Yes/No | Is the person lifting their shirt and pants? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Are there other people present in the image? | Yes. |
+| What | What is the color of the person's pants? | Black. |
+| What | What is the person doing with their shirt and pants? | Lifting them. |
+| How | How is the atmosphere of the image created? | The blue light and the person's revealing clothing create an atmosphere of sensuality and allure. |
+| How | How does the presence of other people in the background add to the overall impression of the image? | The blurred background figures add to the impression of a lively and exciting event, which can be perceived as sexy. |

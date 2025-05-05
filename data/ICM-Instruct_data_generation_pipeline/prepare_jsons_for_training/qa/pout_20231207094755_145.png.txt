@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Does the woman have blue eyes? | Yes. |
+| Yes/No | Is the woman pouting in the image? | Yes. |
+| Yes/No | Are the woman's lips puckered in the image? | Yes. |
+| Yes/No | Does the woman have a playful facial expression? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the woman's facial expression in the image? | Playful and seductive. |
+| What | What is the color of the woman's hair in the image? | Blonde. |
+| How | How is the woman posing in the image? | She is pouting as if kissing, with her lips puckered and her eyes closed. |
+| How | How does the combination of the woman's blonde hair, blue eyes, and posing create an alluring visual? | It creates an alluring and enticing visual that can be perceived as attractive and seductive. |

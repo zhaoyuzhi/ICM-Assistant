@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing black shorts? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman standing in front of a window? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her arms resting at her sides. |
+| What | What is the color of the woman's bra and shorts? | Black. |
+| How | How does the woman's attire and pose contribute to the overall mood of the image? | The woman's attire and pose contribute to a sense of confidence and selfassuredness, and create a captivating and seductive atmosphere. |
+| How | How does the setting of the image add to its overall impact? | The fact that the woman is standing in front of a window adds a sense of depth and intrigue to the image, and enhances its overall impact. |

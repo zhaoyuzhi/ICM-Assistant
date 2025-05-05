@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blue dress? | Yes. |
+| Yes/No | Are the man and woman kissing passionately? | Yes. |
+| Yes/No | Are there people surrounding the stage? | Yes. |
+| Yes/No | Are some of the people surrounding the stage holding umbrellas? | Yes. |
+| Yes/No | Is the stage adorned with red and gold decorations? | Yes. |
+| What | What color is the woman's dress? | Blue. |
+| What | What is the color scheme of the stage decorations? | Red and gold. |
+| How | How are the man and woman positioned in the image? | They are locked in an embrace, with the man standing behind the woman and his arms wrapped around her. |
+| How | How would you describe the overall atmosphere of the image? | Vibrant and festive. |

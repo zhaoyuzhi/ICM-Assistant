@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of mint green shorts? | Yes. |
+| Yes/No | Is the person wearing a gray t-shirt? | Yes. |
+| Yes/No | Are the shorts loose-fitting? | Yes. |
+| Yes/No | Does the person have their hands tucked into their pockets? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| How | Does the image show any explicit or suggestive body parts or actions? | No. |
+| What | What color are the shorts? | Mint green. |
+| What | What is the person's posture in the image? | Casual, with hands tucked into pockets. |
+| How | How are the shorts fitting on the person? | Loosefitting with a slight flare. |
+| How | How is the exposure level of the image? | Low, focusing on the person's torso and lower body. |
+| Yes/No | Is the man in the image wearing a pair of mint green shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a gray t-shirt? | Yes. |
+| Yes/No | Is the man in the image looking downwards? | Yes. |
+| Yes/No | Are the man's hands placed behind his back? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the color of the man's shorts? | Mint green. |
+| What | What is the color of the man's t-shirt? | Gray. |
+| How | How are the man's hands positioned in the image? | Behind his back. |
+| How | How would you describe the exposure level of the image? | Very low. |

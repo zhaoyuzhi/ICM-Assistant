@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman sitting on a couch? | Yes. |
+| Yes/No | Are her heels black and gold? | Yes. |
+| Yes/No | Does she have her legs crossed? | Yes. |
+| Yes/No | Is the background plain white? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| Yes/No | Is the atmosphere of the image calm and casual? | Yes. |
+| What | What color are the woman's heels? | Black and gold. |
+| What | What is the woman wearing besides her heels? | Blue jeans. |
+| How | How are the heels fastened? | With a strap around the ankle. |
+| How | How does the woman appear in the image? | Relaxed and casual. |

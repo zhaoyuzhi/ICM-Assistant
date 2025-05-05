@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the background of the image yellow? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Are the sleeves of the dress short? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| What | What is the color of the dress? | Blue. |
+| What | What is the woman holding in her hand? | A small purse. |
+| How | How is the overall atmosphere of the image? | Calm and serene. |
+| How | How does the image portray the woman's attire? | Modest. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black t-shirt with a graphic of a cat on it? | Yes. |
+| Yes/No | Are the person's midriff and thighs exposed in the image? | Yes. |
+| Yes/No | Is the person wearing denim shorts that are cropped at the knee? | Yes. |
+| Yes/No | Are the person's feet clad in leopard print shoes? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image have a sexy or alluring vibe? | Yes. |
+| What | What is the person in the image wearing on their feet? | Leopard print shoes. |
+| What | What is the person in the image wearing on their upper body? | A black tshirt with a graphic of a cat on it. |
+| How | How are the person's shorts cropped? | They are cropped at the knee. |
+| How | How does the person's outfit and pose suggest a sense of confidence and self-assuredness? | The person's outfit is revealing and bold, and their pose is relaxed and confident. |

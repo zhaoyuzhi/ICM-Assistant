@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the woman's clothes revealing her thighs? | Yes. |
+| Yes/No | Is the woman standing on a rocky beach? | Yes. |
+| Yes/No | Is the water in the background blue? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What is the woman's left hand placed on? | Her neck. |
+| What | What is the woman's right hand resting on? | Her hip. |
+| How | How are the woman's clothes revealing her thighs? | The skirt is short and the blouse is raised. |
+| How | How does the image create a captivating atmosphere? | The combination of the rocky beach, blue water, and woman's pose draws attention to her. |

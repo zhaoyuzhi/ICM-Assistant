@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a graphic t-shirt? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a refrigerator? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Is the atmosphere of the image playful? | No. |
+| What | What is the woman in the image wearing on her feet? | Brown boots. |
+| What | What is the graphic on the woman's t-shirt? | A cat. |
+| How | How is the woman posing in the image? | She is standing with her legs slightly apart and her weight shifted to one side, creating a sense of confidence and allure. |
+| How | How does the image create an air of mystery and intrigue? | The woman is looking off to the side, creating a sense of uncertainty and intrigue, and her pose and outfit suggest a sense of confidence and allure. |

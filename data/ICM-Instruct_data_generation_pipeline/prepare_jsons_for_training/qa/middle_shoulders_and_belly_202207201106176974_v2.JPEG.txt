@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person wearing a gold belt? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the person's body pose in the image? | The person's hands are placed on their hips, and they are looking downwards. |
+| How | How does the gold belt add to the overall look of the outfit? | The gold belt adds a touch of elegance to the outfit, while the white shirt and blue jeans provide a classic and timeless look. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans frayed at the bottom? | Yes. |
+| Yes/No | Is the person's head tilted to the side? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the contrast between the white shirt and blue jeans add to the visual appeal? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How does the person's pose suggest confidence and self-assuredness? | The person's hands are on their hips, and their head is tilted to the side, giving a sense of confidence and selfassurance. |
+| How | How does the contrast between the white shirt and blue jeans enhance the visual appeal? | The contrast creates a focal point on the person's torso, drawing attention to their body and adding to the overall sexy atmosphere of the image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of olive green shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a black belt? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's left leg visible in the image? | Yes. |
+| Yes/No | Is the woman wearing a beige top in the image? | Yes. |
+| Yes/No | Is the image low-key? | Yes. |
+| What | What is the color of the woman's shorts? | Olive green. |
+| What | What is the color of the woman's top? | Beige. |
+| How | How is the woman's left leg visible in the image? | The shorts have a slit on the left side. |
+| What | What is the overall atmosphere of the image? | Neutral. |
+| Yes/No | Is the woman in the image wearing a pair of olive green shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a black belt? | Yes. |
+| Yes/No | Does the image contain any explicit or inappropriate content? | No. |
+| Yes/No | Is the woman's left leg visible in the image? | Yes. |
+| Yes/No | Does the image feature any suggestive or provocative elements? | No. |
+| Yes/No | Is the woman's attire revealing or sexy? | No. |
+| What | What color are the woman's shorts? | Olive green. |
+| What | What color is the woman's top? | Beige. |
+| How | How is the woman's left leg visible in the image? | The shorts have a slit on the left side, revealing her left leg. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is not sexy because it does not contain any suggestive or provocative elements. |

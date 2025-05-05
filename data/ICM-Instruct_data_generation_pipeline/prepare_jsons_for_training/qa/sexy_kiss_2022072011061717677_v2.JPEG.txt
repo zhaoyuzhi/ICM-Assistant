@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the man wearing a gray shirt? | Yes. |
+| Yes/No | Are the couple kissing in front of a car window? | Yes. |
+| Yes/No | Is the car window black? | Yes. |
+| Yes/No | Does the woman have her hand on the man's chest? | Yes. |
+| Yes/No | Are the couple standing outside the car? | No. |
+| What | What color is the woman's shirt? | White. |
+| What | What color is the man's shirt? | Gray. |
+| How | How are the couple positioned in relation to each other? | They are leaning in to kiss each other, with the woman's hand on the man's chest. |

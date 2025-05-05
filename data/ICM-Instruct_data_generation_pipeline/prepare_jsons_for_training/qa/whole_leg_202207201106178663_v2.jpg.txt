@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sleeveless shirt? | Yes. |
+| Yes/No | Are the woman's hands placed on her hips? | Yes. |
+| Yes/No | Is the woman wearing denim shorts? | Yes. |
+| Yes/No | Does the tank top have the word "SEAFOLLOW" written on it? | Yes. |
+| Yes/No | Is the woman's pose suggestive of a casual, relaxed atmosphere? | Yes. |
+| Yes/No | Does the image evoke a sense of allure? | Yes. |
+| What | What is the woman wearing on her upper body? | A white tank top. |
+| What | What is the woman wearing on her lower body? | Denim shorts. |
+| How | How is the woman's pose suggestive of a casual, relaxed atmosphere? | The woman is standing with her hands placed on her hips, which conveys a sense of confidence and relaxation. |
+| How | How does the combination of the woman's attire and pose create an image that is both visually appealing and evokes a sense of allure? | The combination of the sleeveless tank top, denim shorts, and the woman's pose creates a visually appealing image that highlights her thighs and upper body, while also conveying a sense of relaxation and confidence. |

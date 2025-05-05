@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the measuring tape being used to measure the person's waist? | Yes. |
+| Yes/No | Is the person's hand visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person measuring with the measuring tape? | Their waist. |
+| What | What color is the person's shirt? | Blue. |
+| How | How is the person holding the measuring tape? | In front of their body. |
+| What | What does the act of measuring one's waist with a measuring tape symbolize? | Selfdiscipline and commitment to fitness or weight loss goals. |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the measuring tape being used to measure the person's waist? | Yes. |
+| Yes/No | Is the person's hand visible in the image? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| What | What is the person in the image holding? | A measuring tape. |
+| What | What is the person in the image trying to measure? | Their waist. |
+| How | How is the person in the image holding the measuring tape? | They are holding it with their hand. |
+| What | What does the act of measuring one's waist with a measuring tape symbolize? | Selfdiscipline and commitment to fitness goals. |

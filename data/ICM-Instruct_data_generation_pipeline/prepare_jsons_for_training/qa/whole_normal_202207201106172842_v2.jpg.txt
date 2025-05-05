@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Is the person in the image looking down? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and neutral? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the person in the image wearing? | A white shirt. |
+| What | What is the person in the image doing? | Looking down. |
+| How | How is the person in the image standing? | The person is standing in a neutral position, not suggestive or explicit. |
+| How | How does the image make you feel? | The image has a calm and neutral atmosphere, it does not evoke any strong emotions. |

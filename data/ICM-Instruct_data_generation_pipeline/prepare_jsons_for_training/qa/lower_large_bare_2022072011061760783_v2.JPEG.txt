@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of black high heels? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the person looking directly at the camera? | Yes. |
+| What | What is the person in the image wearing on their feet? | Black high heels. |
+| What | What is the color of the background in the image? | White. |
+| How | How are the person's hands positioned in the image? | On their hips. |
+| How | How does the contrast between the black high heels and white background affect the overall atmosphere of the image? | It accentuates the person's form and creates a seductive atmosphere. |

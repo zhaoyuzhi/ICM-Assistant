@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink jacket? | Yes. |
+| Yes/No | Are the woman's dress and jacket the only items of clothing she is wearing? | No. |
+| Yes/No | Is the woman standing in a hallway? | Yes. |
+| Yes/No | Is the woman's dress lifted up to her knees? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What color is the woman's jacket? | Pink. |
+| How | How is the woman's dress lifted up? | It is lifted up to her knees. |
+| What | What is the overall atmosphere created by the woman's choice of clothing and the image's setting? | The atmosphere is intimate and sensual. |

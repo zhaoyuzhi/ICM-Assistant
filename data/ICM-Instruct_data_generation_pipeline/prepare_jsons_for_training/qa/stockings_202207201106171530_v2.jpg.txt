@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are they wearing a black sweater? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the image in color? | No. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the person's attire and pose suggestive of modesty and elegance? | Yes. |
+| What | What is the person's pose in the image? | Crossed legs. |
+| What | What is the dominant color scheme of the image? | Black. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The uniform black attire creates an alluring and intimate atmosphere. |
+| How | How does the crossed legs add to the overall atmosphere of the image? | The crossed legs add a sense of mystery and allure to the image. |

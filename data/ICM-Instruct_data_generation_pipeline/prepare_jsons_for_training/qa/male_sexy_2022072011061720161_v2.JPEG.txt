@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image posing in a suggestive way? | Yes. |
+| Yes/No | Does the image include any other people or objects? | No. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Are the man's fists raised in the image? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| What | What is the man in the image wearing? | Black and white trunks. |
+| What | What is the man in the image posing with? | His fists raised. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the man and emphasizes his physique. |
+| How | How does the man's pose convey strength and determination? | His raised fists and muscular physique suggest a sense of strength and determination. |

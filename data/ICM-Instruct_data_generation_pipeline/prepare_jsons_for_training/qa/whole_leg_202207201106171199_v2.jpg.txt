@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a sweatshirt? | Yes. |
+| Yes/No | Is the woman in the image holding a bag? | Yes. |
+| Yes/No | Is the bag in the image a Nike bag? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| What | What color is the woman's skirt? | Pink. |
+| What | What brand is the bag the woman is holding? | Nike. |
+| How | How is the woman standing in the image? | With her hands on her hips. |
+| How | How does the combination of the pink skirt and gray sweatshirt contribute to the image's overall atmosphere? | It creates a contrast that draws attention to her legs and enhances the sexy atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white hair accessory? | Yes. |
+| Yes/No | Are the man and woman in the image hugging and kissing each other? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the advertising slogan suggest that the man is a powerful and wealthy individual? | Yes. |
+| Yes/No | Does the image have a romantic atmosphere? | Yes. |
+| What | What is the man in the image wearing? | A white shirt. |
+| What | What is the woman in the image wearing? | A white hair accessory. |
+| How | How are the man and woman in the image positioned? | They are hugging and kissing each other. |
+| How | How does the advertising slogan add to the overall atmosphere of the image? | It implies that the man is a powerful and wealthy individual who is taking advantage of his position to pursue a romantic relationship with the woman, adding an element of intrigue and allure to the image. |

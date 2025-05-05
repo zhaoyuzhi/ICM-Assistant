@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light pink? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman looking upwards? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra the woman is wearing? | Light pink. |
+| What | What is the woman's facial expression? | Smiling. |
+| How | How is the woman putting on the bra? | The description does not provide enough information to answer this question. |
+| What | What is the woman's body language suggests? | Confidence and comfort in her own body. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light pink? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman looking upwards? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A light pink bra. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How is the woman looking in the image? | She is smiling and looking upwards. |
+| How | How does the image create a sense of allure and attractiveness? | Through the combination of the woman's smile, her confident attitude, and the association of the light pink bra with sensuality and femininity. |

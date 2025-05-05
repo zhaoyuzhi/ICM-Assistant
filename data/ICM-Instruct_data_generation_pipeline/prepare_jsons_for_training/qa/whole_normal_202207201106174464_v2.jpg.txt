@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a blue dress with a white collar and cuffs? | Yes. |
+| Yes/No | Is the dress formal in style? | Yes. |
+| Yes/No | Is the woman standing in front of a map of China? | Yes. |
+| Yes/No | Does the map provide a geographical context to the image? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman discussing in the image? | A topic related to China. |
+| What | What is the purpose of the map in the image? | To provide a geographical context for the topic being discussed. |
+| How | How is the woman positioned in front of the map? | She is standing in front of the map, suggesting she might be discussing a topic related to China. |
+| How | How does the image convey a professional and informative atmosphere? | The woman's attire and the geographical context provided by the map suggest that the image is related to a news or educational program, and the low exposure level indicates that the focus is on the content and the information being presented, rather than on the visual appeal or sensuality of the image. |

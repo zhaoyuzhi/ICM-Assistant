@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing clothes? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Does the image feature any other people or objects besides the person? | No. |
+| Yes/No | Is the person in the image touching their face or hair? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image feature any explicit content? | No. |
+| What | What is the facial expression of the person in the image? | Playful and seductive with a slight smile. |
+| What | What is the person in the image doing with their finger? | She has her finger inside her mouth. |
+| How | How are the person's lips depicted in the image? | Slightly parted. |
+| How | How would you describe the overall atmosphere of the image? | Seductive and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the woman's lower body covered in the image? | No. |
+| Yes/No | Does the image depict a realistic scenario or is it staged? | Staged. |
+| What | What is the color of the bikini the woman is wearing? | Pink. |
+| What | What is the overall mood of the image? | Sexy. |
+| How | How is the woman's upper body exposed in the image? | She is not wearing a top or coverup. |
+| How | How does the image create a sense of intimacy and allure? | Through the combination of the revealing bikini and the exposure of the woman's upper body. |

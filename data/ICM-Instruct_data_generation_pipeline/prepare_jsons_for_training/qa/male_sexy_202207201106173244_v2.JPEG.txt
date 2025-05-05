@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are the man's arms raised in the image? | Yes. |
+| Yes/No | Is the background of the image black? | Yes. |
+| Yes/No | Does the image feature a well-defined physique? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image wearing on his lower body? | Gray sweatpants. |
+| What | What is the man's facial expression in the image? | Not specified in the description. |
+| How | How is the man flexing his muscles in the image? | By raising his arms and flexing his body. |
+| How | How does the black background contribute to the overall atmosphere of the image? | It creates contrast and accentuates the man's muscular build and strength. |

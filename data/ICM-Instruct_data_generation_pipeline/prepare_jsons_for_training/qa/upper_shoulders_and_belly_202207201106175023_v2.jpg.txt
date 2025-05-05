@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Does the woman have her hair styled in braids? | Yes. |
+| Yes/No | Is the woman wearing gold jewelry? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the woman have a slight smile on her face? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's attire in the image? | A strapless black dress. |
+| What | What adds an element of sophistication to the woman's outfit? | The gold jewelry. |
+| How | How does the woman's hair style contribute to her overall appearance? | The braids add a unique and stylish touch to her appearance. |
+| How | How does the woman's direct gaze and slight smile contribute to the image's allure? | They give the impression of confidence and allure, drawing the viewer's attention to the woman and her attire. |

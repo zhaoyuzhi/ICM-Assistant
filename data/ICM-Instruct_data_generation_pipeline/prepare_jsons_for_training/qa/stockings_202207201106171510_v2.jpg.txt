@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the stockings high-waisted? | Yes. |
+| Yes/No | Does the person have black heels on? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive? | Yes. |
+| Yes/No | Does the image suggest confidence and allure? | Yes. |
+| What | What color are the stockings? | Black. |
+| What | What kind of shoes is the person wearing? | Black heels. |
+| How | How far down do the stockings extend? | Down to the ankles. |
+| How | How would you describe the person's pose? | Confident and alluring. |

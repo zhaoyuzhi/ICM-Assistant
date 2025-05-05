@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a black top and gray pants? | Yes. |
+| Yes/No | Is the woman standing against a blue wall? | Yes. |
+| Yes/No | Are her arms crossed? | Yes. |
+| Yes/No | Is she looking off to the side? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the woman's pose in the image? | She is standing with her arms crossed and looking off to the side. |
+| What | What is the background of the image? | The background is a blue wall. |
+| How | How is the woman dressed in the image? | She is dressed in a black top and gray pants. |
+| How | How does the low exposure level affect the image? | The low exposure level emphasizes the focus on the woman's pose and the background, rather than her physical appearance. |

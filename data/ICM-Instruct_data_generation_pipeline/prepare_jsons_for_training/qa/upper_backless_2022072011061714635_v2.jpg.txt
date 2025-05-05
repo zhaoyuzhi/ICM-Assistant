@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra strapless? | Yes. |
+| Yes/No | Does the bra have a criss-cross design on the back? | Yes. |
+| Yes/No | Are the person's shorts green? | Yes. |
+| Yes/No | Is the person's hand placed on their hip? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| What | What color are the person's shorts? | Green. |
+| What | What is the design on the back of the bra? | Crisscross. |
+| How | How is the person's hand positioned in the image? | Placed on their hip. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

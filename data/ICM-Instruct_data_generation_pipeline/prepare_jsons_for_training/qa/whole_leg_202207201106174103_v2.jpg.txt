@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a light blue dress with white polka dots? | Yes. |
+| Yes/No | Is the woman sitting on a wooden chair? | Yes. |
+| Yes/No | Is the background of the image stark white? | Yes. |
+| Yes/No | Does the woman have a slight smile on her face? | Yes. |
+| Yes/No | Are the woman's legs elegantly crossed? | Yes. |
+| Yes/No | Is the dress designed with a high neckline and long sleeves? | Yes. |
+| What | What color is the woman's dress? | Light blue. |
+| What | What is the pattern on the woman's dress? | White polka dots. |
+| How | How is the woman posed in the image? | With her legs crossed and looking off to the side. |
+| How | How does the background of the image contrast with the woman's dress? | The stark white background contrasts with the light blue dress, bringing the woman into focus. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Are the jeans described as "double-breasted"? | Yes. |
+| Yes/No | Are the jeans described as "high-waisted"? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the woman's pose contribute to the sexy atmosphere of the image? | Yes. |
+| What | What color are the jeans in the image? | Blue. |
+| What | What is the woman's pose in the image? | She is standing with her legs slightly apart and her hands on her hips. |
+| How | How are the jeans described in the image? | They are described as "doublebreasted" and "highwaisted". |
+| How | How does the woman's exposed belly contribute to the image's atmosphere? | It adds an element of intrigue and allure, drawing the viewer's attention to her form and the details of her attire. |
+| Yes/No | Is the woman in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are the jeans double-breasted? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have a confident pose? | Yes. |
+| What | What is the main focus of the image? | The woman's torso and belly. |
+| What | What is the woman's facial expression? | Direct and confident. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | It adds a sense of sensuality and allure. |
+| How | How does the double-breasted jeans add to the image? | They add a sense of style and confidence. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a beard? | Yes. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman kissing in the image? | Yes. |
+| Yes/No | Is the woman's head tilted to the side in the image? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the man and woman? | Yes. |
+| Yes/No | Is the overall atmosphere of the image romantic and sensual? | Yes. |
+| What | What is the man wearing in the image? | A beard and mustache. |
+| What | What is the woman wearing in the image? | A black dress. |
+| How | How are the man and woman positioned in the image? | They are locked in an embrace, with the woman's head tilted to the side. |
+| How | How does the woman's black dress contrast with the man's beard and mustache in the image? | It contrasts starkly, making them stand out in the image. |

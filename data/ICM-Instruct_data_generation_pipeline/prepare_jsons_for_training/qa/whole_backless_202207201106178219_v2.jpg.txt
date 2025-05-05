@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Is the dress backless? | Yes. |
+| Yes/No | Is the woman leaning over with her back turned towards the camera? | Yes. |
+| Yes/No | Does the dress have a shiny material? | Yes. |
+| Yes/No | Is the overall atmosphere of the image bold and seductive? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the dress? | Red. |
+| What | What is the woman's pose in the image? | Leaning over with her back turned towards the camera. |
+| How | How does the dress expose a large area of the woman's back? | The dress is backless. |
+| How | How does the woman's pose accentuate the backless design of the dress? | By leaning over and turning her back towards the camera, which draws attention to the backless area of the dress. |

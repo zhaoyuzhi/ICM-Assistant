@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige tights? | Yes. |
+| Yes/No | Is the person in the image wearing black heels? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Does the image have a sensual and alluring atmosphere? | Yes. |
+| Yes/No | Does the person's pose create a sense of intimacy and allure? | Yes. |
+| Yes/No | Is the exposure of the person's lower body a significant aspect of the image? | Yes. |
+| What | What color are the person's tights in the image? | Beige. |
+| What | What type of shoes is the person wearing in the image? | Black heels. |
+| How | How is the person standing in the image? | With their legs apart and facing the camera. |
+| How | How does the image showcase the person's body? | In a confident and alluring manner. |

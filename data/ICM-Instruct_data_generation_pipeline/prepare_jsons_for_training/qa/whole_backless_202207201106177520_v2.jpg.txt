@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red strapless nightgown? | Yes. |
+| Yes/No | Does the nightgown have a bow at the back? | Yes. |
+| Yes/No | Is the person standing with their back facing the camera? | Yes. |
+| Yes/No | Is the material of the nightgown shiny? | Yes. |
+| Yes/No | Does the person's attire and pose suggest confidence and allure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the strapless nightgown? | Red. |
+| What | What is the material of the nightgown? | Shiny. |
+| How | How is the person standing in the image? | With their back facing the camera. |
+| How | How does the bow at the back of the nightgown add to the overall look? | It adds a touch of elegance and playfulness. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photo? | Yes. |
+| Yes/No | Are the people in the image related? | Yes. |
+| Yes/No | Is the atmosphere of the image warm and loving? | Yes. |
+| Yes/No | Are the people in the image hugging each other? | Yes. |
+| Yes/No | Is the child in the image wearing a pink shirt? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| What | What color shirt is the man wearing? | Blue. |
+| What | What color shirt is the woman wearing? | Yellow. |
+| How | How is the child being held by the woman? | The woman is holding the child in her arms. |
+| How | How would you describe the overall mood of the image? | Warm and loving. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a lace-up back? | Yes. |
+| Yes/No | Is the fabric of the dress soft? | Yes. |
+| Yes/No | Are the person's hands resting at their sides? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image have a sexy tone? | Yes. |
+| What | What is the color of the dress? | Black. |
+| What | What is the material of the dress? | Soft fabric. |
+| How | How does the lace-up design of the dress add to the overall look? | It adds an element of intrigue and allure. |
+| How | How does the plain white background affect the focus of the image? | It puts the focus entirely on the person and their attire, making the image feel more intimate and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red lipstick? | Yes. |
+| Yes/No | Are the person's teeth white and well-maintained? | Yes. |
+| Yes/No | Is the person biting their lower lip? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's lips and teeth? | Yes. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's lipstick? | Red. |
+| What | What is the person doing with their lower lip? | Biting it. |
+| How | How do the person's lips and teeth appear? | Prominent and wellmaintained. |
+| How | How does the close-up of the lips and teeth enhance the image? | It draws attention to the person's lips and makes them appear more prominent, emphasizing their sensuality and allure. |

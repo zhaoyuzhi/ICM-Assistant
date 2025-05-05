@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a blue and white checkered jacket? | Yes. |
+| Yes/No | Is the woman wearing a pink and white striped shirt? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the couple? | Yes. |
+| Yes/No | Is the atmosphere of the scene intimate? | Yes. |
+| What | What is the man wearing? | A blue and white checkered jacket. |
+| What | What is the woman wearing? | A pink and white striped shirt. |
+| How | How are the man and woman positioned in the image? | The man is holding the woman close to him, and they are leaning into each other's embrace. |
+| How | How does the image capture the couple's affection and passion? | The image captures a moment of intimacy and tenderness between the couple, with their lips meeting in a passionate kiss, creating a sense of connection and desire. |

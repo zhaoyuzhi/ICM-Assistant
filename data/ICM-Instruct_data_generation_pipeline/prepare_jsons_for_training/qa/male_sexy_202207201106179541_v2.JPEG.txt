@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing in a pool? | Yes. |
+| Yes/No | Is the man in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other people or objects? | No. |
+| Yes/No | Is the man in the image smiling? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man in the image wearing? | A red swimsuit. |
+| What | What is the man in the image standing in? | A pool. |
+| How | How is the man in the image standing? | He is standing up straight. |
+| How | How does the man in the image look? | He has a serious expression. |

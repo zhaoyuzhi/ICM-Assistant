@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the process of putting on a bra? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the bra have a button and hook closure? | Yes. |
+| Yes/No | Is the woman wearing a beige bra underneath the pink bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the contrast between the pink bra and the beige bra add visual interest to the image? | Yes. |
+| What | What color is the bra that the woman is putting on? | Pink. |
+| What | What is the woman's facial expression in the image? | Smiling. |
+| How | How is the bra being fastened? | With a button and hook closure. |
+| What | What atmosphere does the image convey? | Confidence and allure. |
+| Yes/No | Is the woman in the process of putting on a bra? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the bra have a button and hook closure? | Yes. |
+| Yes/No | Is the woman wearing a beige bra underneath the pink bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra that the woman is putting on? | Pink. |
+| What | What color is the bra that the woman is wearing underneath the pink bra? | Beige. |
+| How | How is the bra being fastened? | With a button and hook closure. |
+| What | What does the contrast between the pink and beige bras add to the image? | A touch of color and visual interest. |

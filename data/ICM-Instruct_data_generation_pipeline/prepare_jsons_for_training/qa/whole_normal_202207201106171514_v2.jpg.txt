@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white nightgown? | Yes. |
+| Yes/No | Is the bed covered with a blue sheet and a white pillow? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the image set in a dimly lit room? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and serene? | Yes. |
+| What | What is the person's position in the bed? | Relaxed, with legs crossed. |
+| What | What is the color of the sheet and pillow? | Blue and white. |
+| How | How is the image lit? | Dimly lit. |
+| How | How would you describe the exposure level of the image? | Low, with only the person's torso and legs visible. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image kneeling on the sand? | Yes. |
+| Yes/No | Is the scarf worn by the woman orange and white? | Yes. |
+| Yes/No | Is the beach setting suggestive of relaxation and enjoyment? | Yes. |
+| Yes/No | Does the image evoke a sense of leisure and indulgence? | Yes. |
+| Yes/No | Is the woman's body exposed in the image? | Yes. |
+| What | What is the woman wearing around her neck? | A long orange and white scarf. |
+| What | What is the dominant color of the woman's attire? | Orange. |
+| How | How is the woman posing in the image? | She is kneeling on the sand. |
+| How | How does the image evoke a sense of leisure and enjoyment? | The beach setting, the woman's attire, and her posing suggest a carefree and relaxed atmosphere. |

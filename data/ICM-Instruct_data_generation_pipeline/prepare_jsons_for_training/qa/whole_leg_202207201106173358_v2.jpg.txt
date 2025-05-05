@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a white purse? | Yes. |
+| Yes/No | Is the woman in the image standing against a blue background? | Yes. |
+| Yes/No | Is the woman in the image tying her blouse at the waist? | Yes. |
+| Yes/No | Is the woman in the image revealing her midriff? | Yes. |
+| What | What color is the woman's blouse? | Red. |
+| What | What is the woman holding in her left hand? | A white purse. |
+| How | How is the woman's blouse tied? | It is tied at the waist. |
+| How | How does the woman's pose suggest confidence? | Her left hand is resting on her hip. |

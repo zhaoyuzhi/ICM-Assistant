@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's pants white? | Yes. |
+| Yes/No | Does the woman have her hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman posing with her hand on her hip? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| Yes/No | Does the image exude a sense of confidence? | Yes. |
+| What | What is the woman's top made of? | The woman's top is made of blue fabric with a white pattern. |
+| What | What is the woman's hair styled like? | The woman's hair is styled in loose waves. |
+| How | How is the woman posing in the image? | The woman is posing with her hand on her hip and looking off to the side. |
+| How | How does the image make you feel? | The image exudes a sense of confidence and allure, which may make the viewer feel drawn to the woman or inspired by her confidence. |

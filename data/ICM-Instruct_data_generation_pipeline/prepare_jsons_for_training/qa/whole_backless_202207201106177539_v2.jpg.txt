@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is she wearing a bracelet on her left wrist? | Yes. |
+| Yes/No | Is the setting of the image a living room? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| What | What is the color of the woman's dress? | Black. |
+| What | What is the woman's pose in the image? | She has her hand on her hip. |
+| How | How does the dress expose the woman's back? | The dress has a high slit on the back. |
+| How | How does the setting of the image contribute to its overall allure? | The living room setting adds a sense of intimacy and familiarity, making the image more provocative. |

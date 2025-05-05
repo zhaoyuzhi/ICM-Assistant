@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress gray? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Is the person's attitude casual? | Yes. |
+| Yes/No | Are the person's arms relaxed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm? | Yes. |
+| What | What color is the wall in the background? | White. |
+| What | What is the person's pose? | Standing with a casual attitude. |
+| How | How does the person's head turned? | Turned to the side. |
+| How | How does the dress reach down? | Down to their ankles. |

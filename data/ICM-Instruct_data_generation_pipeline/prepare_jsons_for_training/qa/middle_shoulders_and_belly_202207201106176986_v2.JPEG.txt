@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman standing with her hands on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman looking at the camera? | Yes. |
+| What | What is the woman wearing in the image? | Blue jeans. |
+| What | What is the woman's posture in the image? | Standing with her hands on her hips. |
+| How | How does the woman's posture contribute to the overall feel of the image? | It suggests a casual and relaxed atmosphere. |
+| How | How does the woman's attire contribute to the overall feel of the image? | It adds to the sexy vibe of the image because it is a casual and comfortable clothing choice that emphasizes her body. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman holding her stomach in the image? | Yes. |
+| How | Does the image showcase the woman's waistline? | Yes. |
+| Yes/No | Is the woman's pose in the image confident and self-assured? | Yes. |
+| Yes/No | Does the image capture a moment of self-expression and self-assuredness? | Yes. |
+| What | What is the woman wearing in the image? | Blue jeans. |
+| What | What is the woman holding in the image? | Her stomach. |
+| How | How does the woman's pose in the image suggest confidence and self-assuredness? | The woman is holding her stomach, which emphasizes her waistline and creates a sense of confidence and selfassuredness. |
+| How | How does the image capture a moment of self-expression and self-assuredness? | The image captures a moment of selfexpression and selfassuredness through the woman's pose and her choice of clothing, which suggests a sense of relaxation and confidence. |

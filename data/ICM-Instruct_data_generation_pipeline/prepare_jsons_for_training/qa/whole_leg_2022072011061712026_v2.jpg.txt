@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing Adidas clothing? | Yes. |
+| Yes/No | Is the woman's pose in the image relaxed? | Yes. |
+| Yes/No | Does the woman's clothing suggest a sense of style? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's attire have a casual and sporty look? | Yes. |
+| Yes/No | Is the white background in the image plain? | Yes. |
+| What | What is the woman's pose in the image? | The woman is standing with her hands resting on her hips. |
+| What | What is the color of the Adidas logo on the woman's t-shirt? | The Adidas logo on the woman's tshirt is black. |
+| How | How does the drawstring waist of the shorts contribute to the overall style of the image? | The drawstring waist of the shorts adds a touch of relaxed style to the image. |
+| How | How does the woman's confident pose enhance the sexy atmosphere of the image? | The woman's confident pose suggests a sense of selfassurance and confidence, which enhances the sexy atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman posing in a way that exposes her midriff? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| Yes/No | Is the top she is wearing beige? | No. |
+| Yes/No | Are the pants she is wearing beige? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing on her top? | A graphic of a giraffe. |
+| What | What color are the pants the woman is wearing? | Beige. |
+| How | How is the woman posing in the image? | With her hand on her hip and her midriff exposed. |
+| How | How does the graphic of the giraffe add to the image? | It adds a unique and interesting element to her outfit. |

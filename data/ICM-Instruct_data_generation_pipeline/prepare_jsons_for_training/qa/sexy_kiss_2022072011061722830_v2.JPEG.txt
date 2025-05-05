@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a suit? | Yes. |
+| Yes/No | Is the woman wearing a yellow sweater? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the atmosphere of the image warm and romantic? | Yes. |
+| What | What is the man wearing? | A gray suit and a white shirt. |
+| What | What is the woman wearing? | A yellow sweater. |
+| How | How are the man and woman standing? | They are standing close to each other, with the man's arms wrapped around the woman. |
+| How | How does the woman's yellow sweater contrast with the man's gray suit and white shirt? | The yellow sweater adds visual interest to the scene and creates a striking contrast with the man's gray suit and white shirt. |

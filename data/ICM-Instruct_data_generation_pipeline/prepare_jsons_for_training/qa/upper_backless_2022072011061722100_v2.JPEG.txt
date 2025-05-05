@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a bra? | Yes. |
+| Yes/No | Are the curtains in the image white? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Are the pants the person is wearing black? | Yes. |
+| Yes/No | Is the bra top tied in the back? | Yes. |
+| What | What color are the curtains in the image? | White. |
+| What | What color is the person's bra top? | White and black. |
+| How | How is the bra top tied? | It is tied in the back. |
+| How | How much of the person's back is exposed in the image? | A large area of their back is exposed. |

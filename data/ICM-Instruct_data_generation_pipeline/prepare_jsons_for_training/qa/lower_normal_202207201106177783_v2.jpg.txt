@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a long, flowing skirt? | Yes. |
+| Yes/No | Is the skirt made of a soft, flowing fabric? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Are her black shoes matching her top? | Yes. |
+| Yes/No | Is the image set in a casual, everyday setting? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the woman's attire in the image? | A light brown long skirt and a black top. |
+| What | What is the woman's movement in the image? | Walking. |
+| How | How is the woman's skirt flowing in the image? | The skirt is flowing in a soft, gentle way. |
+| How | How does the woman's movement suggest a sense of ease and comfort? | The woman's movement suggests a relaxed and natural gait, indicating a sense of ease and comfort. |

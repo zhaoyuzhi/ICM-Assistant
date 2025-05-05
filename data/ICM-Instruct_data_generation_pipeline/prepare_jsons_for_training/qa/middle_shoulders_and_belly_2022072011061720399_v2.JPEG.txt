@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Does the person have any tattoos visible in the image? | No. |
+| Yes/No | Is the person's hair long? | No. |
+| Yes/No | Are the jeans the person is wearing ripped or distressed? | No. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Is the person's skin tone light? | No. |
+| What | What is the color of the jeans the person is wearing? | Blue. |
+| What | What is the person's hair style? | Short. |
+| How | How is the person's belly button pierced? | With a small barbell. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the person's shoes visible in the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| How | Does the image show the person's entire body? | No. |
+| What | What is the person in the image wearing? | A pair of jeans. |
+| What | What is the color of the person's skin? | Not specified in the description. |
+| How | How is the person's body positioned in the image? | Not specified in the description. |
+| How | How does the image make the person look? | Sensual and alluring. |

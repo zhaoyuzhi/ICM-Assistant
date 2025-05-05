@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have white polka dots? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Is the neckline of the dress deep? | Yes. |
+| Yes/No | Is the woman standing in front of a white wall? | Yes. |
+| Yes/No | Is a plant visible in the background? | Yes. |
+| What | What color is the dress? | Red. |
+| What | What is the design of the dress? | White polka dots. |
+| How | How is the woman standing in the image? | She is standing with her feet shoulderwidth apart, facing away from the camera. |
+| What | What is the atmosphere of the image? | Intimate and alluring. |

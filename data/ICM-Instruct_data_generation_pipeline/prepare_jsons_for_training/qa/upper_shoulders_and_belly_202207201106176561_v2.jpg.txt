@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a hoodie? | Yes. |
+| Yes/No | Does the hoodie have writing on it? | Yes. |
+| Yes/No | Is the writing on the hoodie the word "huzzle"? | Yes. |
+| Yes/No | Is the woman wearing a shirt underneath the hoodie? | Yes. |
+| Yes/No | Are her hands on her hips? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the hoodie? | White. |
+| What | What color is the striped shirt? | Blue and white. |
+| How | How is her hair styled? | In a high ponytail. |
+| What | What does the pose with her hands on her hips accentuate? | Her figure. |

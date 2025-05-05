@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | No. |
+| Yes/No | Are the feet bare? | Yes. |
+| Yes/No | Is the quilt a solid color? | Yes. |
+| Yes/No | Are the feet touching each other? | No. |
+| Yes/No | Is there any background visible in the image? | No. |
+| Yes/No | Do the feet belong to the same person? | No. |
+| What | What is the gender of the person whose foot is on the left side of the image? | Female. |
+| What | What is the position of the feet? | Under a white quilt. |
+| How | How are the feet positioned in relation to each other? | Facing each other. |
+| How | How can the atmosphere of the image be described? | Intimate, suggestive. |

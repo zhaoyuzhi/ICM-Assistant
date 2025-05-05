@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a brown coat? | Yes. |
+| Yes/No | Are there books on the bookshelf behind the woman? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive or explicit? | No. |
+| Yes/No | Does the image depict a calm and peaceful setting? | Yes. |
+| Yes/No | Is the woman's attire in the image revealing or provocative? | No. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| What | What is the woman doing with her hands in the image? | She has her hands in her pockets. |
+| What | What is the object on top of the bookshelf in the background? | A pine cone decoration. |
+| How | How is the woman standing in relation to the bookshelf? | She is standing in front of the bookshelf. |
+| How | How would you describe the exposure level of the image? | Very low, only a small portion of the image is visible. |

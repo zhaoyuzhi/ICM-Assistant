@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman making a pouting or kissing face? | Yes. |
+| Yes/No | Is the woman looking upwards, possibly at the camera? | Yes. |
+| Yes/No | Does the image have a playful and flirtatious atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's shirt? | Blue. |
+| What | What is the woman's facial expression? | Pouting or kissing face. |
+| How | How is the woman's hair styled? | Long and straight. |
+| How | How does the woman's expression contribute to the overall atmosphere of the image? | It creates an atmosphere of intrigue and desire. |

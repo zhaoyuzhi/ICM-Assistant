@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pink shorts? | Yes. |
+| Yes/No | Does the person in the image have a black bra? | Yes. |
+| Yes/No | Is the person in the image posing with their hands on their hips? | Yes. |
+| Yes/No | Does the image feature a lace trim on the shorts? | Yes. |
+| Yes/No | Is there a bow on the waist of the shorts in the image? | Yes. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| What | What color are the shorts in the image? | Pink. |
+| What | What is the color of the person's bra in the image? | Black. |
+| How | How are the shorts designed around the waist? | With a bow. |
+| How | How does the person in the image pose? | Confident and relaxed, with hands on hips. |

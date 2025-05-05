@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a floral print blouse? | Yes. |
+| Yes/No | Does the woman have a high collar and bell sleeves? | Yes. |
+| Yes/No | Is the woman standing against a brick wall? | Yes. |
+| Yes/No | Is the woman looking off to the side with a slight smile on her face? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman wearing on her bottom half? | Blue jeans. |
+| What | What is the woman's facial expression? | Slight smile. |
+| How | How is the woman standing? | Against a brick wall. |
+| How | How is the exposure level of the image? | Very low. |

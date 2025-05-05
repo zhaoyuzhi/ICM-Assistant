@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main focus of the image? | No. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire revealing or provocative? | No. |
+| Yes/No | Is the brick building in the background a dominant feature of the image? | No. |
+| What | What color is the woman's sweater? | Blue. |
+| What | What is the woman's attire like? | Modest dress with a ruffled skirt and a blue sweater. |
+| How | How is the woman standing in front of the brick building? | She is standing with one foot slightly in front of the other, with her weight shifted onto her back foot. |
+| How | How does the low exposure level of the woman contribute to the overall atmosphere of the image? | The low exposure level of the woman contributes to a calm and pleasant atmosphere, suggesting that the image is not intended to be sexy or provocative. |

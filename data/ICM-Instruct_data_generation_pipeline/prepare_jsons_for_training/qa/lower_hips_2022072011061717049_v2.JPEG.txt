@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lifting weights? | Yes. |
+| Yes/No | Is the person wearing yellow sportswear? | Yes. |
+| Yes/No | Is the person's back turned towards the camera? | Yes. |
+| Yes/No | Are there any other people visible in the gym setting? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person lifting weights with? | The person is lifting weights with a barbell. |
+| What | What color are the person's sportswear? | The person's sportswear is yellow. |
+| How | How is the person's posture while lifting weights? | The person's posture is focused and energetic, with their back turned towards the camera. |
+| How | How does the bright yellow sportswear contribute to the image's atmosphere? | The bright yellow sportswear adds a vibrant and energetic feel to the image, enhancing the overall sexy vibe. |

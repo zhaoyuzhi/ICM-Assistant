@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the cat on the woman's lap? | Yes. |
+| Yes/No | Is the outfit green in color? | Yes. |
+| Yes/No | Is the cat gray in color? | Yes. |
+| Yes/No | Are there bananas and a bowl of fruit on the bed? | Yes. |
+| Yes/No | Is the woman looking at the camera with a smile on her face? | Yes. |
+| What | What is the color of the woman's outfit? | Green. |
+| What | What is the color of the cat? | Gray. |
+| How | How is the woman positioned on the bed? | She is sitting on the bed with the cat on her lap. |
+| How | How would you describe the atmosphere of the image? | Sexy, intimate, and relaxed. |

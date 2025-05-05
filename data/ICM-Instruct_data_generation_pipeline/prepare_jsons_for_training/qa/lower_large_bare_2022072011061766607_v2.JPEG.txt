@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini bottom? | Yes. |
+| Yes/No | Is the person in the image exposing a large area of their lower body? | Yes. |
+| Yes/No | Are the person's legs raised up in the air? | Yes. |
+| Yes/No | Is the image set in a beach or pool environment? | Yes. |
+| Yes/No | Does the image convey a sense of movement and energy? | Yes. |
+| Yes/No | Is the bikini bottom blue and yellow? | Yes. |
+| What | What color is the bikini bottom? | Blue and yellow. |
+| What | What is the person's attire in the image? | A blue and yellow bikini bottom. |
+| How | How are the person's legs positioned in the image? | Raised up in the air. |
+| How | How does the image convey a sense of movement and energy? | Through the person's dynamic pose and the water setting. |

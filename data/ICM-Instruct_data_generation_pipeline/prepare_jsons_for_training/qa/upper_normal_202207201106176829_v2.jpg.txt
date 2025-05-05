@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a pink and white polo shirt? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image contain explicit or suggestive details? | No. |
+| Yes/No | Is the woman's attire casual and relaxed? | Yes. |
+| Yes/No | Does the image suggest a sexual context or explicit content? | No. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the color of the woman's hoodie? | Pink. |
+| What | What is the logo on the left chest of the woman's polo shirt? | Unable to determine from the description. |
+| How | How is the image's overall atmosphere? | Casual and nonsexual. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman in the image leaning against a brick wall? | Yes. |
+| Yes/No | Is the woman in the image posing in a sexy manner? | Yes. |
+| Yes/No | Are the jeans high-waisted? | Yes. |
+| Yes/No | Is the image atmospheric? | Yes. |
+| What | What is the woman in the image wearing? | A black crop top and blue jeans. |
+| What | What is the texture of the brick wall in the image? | Brick. |
+| How | How is the woman posing in the image? | Leaning against a brick wall, angled towards the camera. |
+| How | How does the brick wall contrast with the woman's clothing? | The rough texture of the brick wall contrasts with the smooth fabric of her clothing. |

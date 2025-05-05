@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's pose in the image casual? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the woman's outfit and pose? | Yes. |
+| Yes/No | Is the overall atmosphere of the image relaxed? | Yes. |
+| What | What color are the woman's trousers? | Beige. |
+| What | What is the unique feature of the woman's trousers? | They have a tie at the waist. |
+| How | How does the woman's pose suggest her demeanor? | It suggests a casual yet confident demeanor. |
+| How | How does the image convey a relaxed atmosphere? | The woman's pose and attire, as well as the lack of explicit or suggestive content, contribute to a relaxed and casual atmosphere. |
+| Yes/No | Is the woman in the image wearing a pair of khaki colored trousers? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's attire loose fitting? | Yes. |
+| Yes/No | Are the pants made of a soft fabric? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the focus of the image on the woman's body or appearance? | No. |
+| What | What is the woman's pose in the image? | She is standing with her hands on her hips. |
+| What | What is the color of the woman's trousers? | Khaki. |
+| How | How are the pants tied at the waist? | They have a tie at the waist. |
+| What | What atmosphere does the image convey? | Casual and relaxed. |

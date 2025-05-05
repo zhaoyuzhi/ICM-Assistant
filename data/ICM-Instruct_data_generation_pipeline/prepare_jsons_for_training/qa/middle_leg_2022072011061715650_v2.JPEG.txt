@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a plaid sweater? | Yes. |
+| Yes/No | Are the bottles of wine in the wine rack full? | Yes. |
+| Yes/No | Is the woman's outfit tight? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the woman in the image wearing? | A black skirt and a plaid sweater. |
+| What | What is the background of the image? | A wine rack filled with bottles of wine. |
+| How | How does the woman's outfit contribute to the sexy atmosphere in the image? | The woman's outfit is tight and short, exposing her thighs, which is often associated with a seductive and alluring appearance. |
+| How | How does the wine rack in the background contribute to the overall atmosphere of the image? | The wine rack suggests a sense of indulgence and luxury, which adds to the sexy and alluring atmosphere of the image. |

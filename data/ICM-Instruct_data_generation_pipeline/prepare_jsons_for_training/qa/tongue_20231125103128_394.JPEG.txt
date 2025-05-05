@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Does the woman in the image have long hair? | Yes. |
+| Yes/No | Is the woman's facial expression playful? | Yes. |
+| Yes/No | Is the woman's facial expression seductive? | Yes. |
+| Yes/No | Does the image feature the woman's tongue sticking out? | Yes. |
+| Yes/No | Is the image close-up? | Yes. |
+| What | What is the woman's facial expression in the image? | Playful and seductive. |
+| What | What is the woman's hair color in the image? | Black. |
+| How | How does the woman's facial expression contribute to the image's atmosphere? | It creates an atmosphere of confidence and allure. |
+| How | How does the close-up nature of the image contribute to its overall impact? | It allows for a detailed view of her facial features, creating an atmosphere of intimacy and invitation. |

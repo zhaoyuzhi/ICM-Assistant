@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt beige in color? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the woman wearing a top? | Yes. |
+| Yes/No | Is the top blue in color? | Yes. |
+| Yes/No | Does the top have a button closure at the front? | Yes. |
+| What | What is the woman holding in her left hand? | A purse. |
+| What | What is the color of the woman's top? | Blue. |
+| How | How is the woman's right hand positioned? | On her hip. |
+| What | What is the background of the image? | A plain white wall. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a window? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image create a sense of intimacy? | Yes. |
+| Yes/No | Are the woman's underwear and bra the same color? | Yes. |
+| What | What is the dominant color of the woman's clothing in the image? | Beige. |
+| What | What is the woman's facial expression in the image? | Direct gaze. |
+| How | How does the woman's clothing contribute to the overall atmosphere of the image? | The beige color adds warmth and intimacy. |
+| How | How does the woman's direct gaze enhance the image's allure? | It creates a sense of connection and intimacy. |

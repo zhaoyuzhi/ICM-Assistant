@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green dress? | Yes. |
+| Yes/No | Is the dress sleeveless? | Yes. |
+| Yes/No | Is the back of the dress open? | Yes. |
+| Yes/No | Is the woman facing away from the camera? | Yes. |
+| Yes/No | Does the mirror reflect her image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's hairstyle in the image? | Bun. |
+| What | What is the color of the dress? | Green. |
+| How | How is the woman standing in relation to the mirror? | She is standing in front of the mirror. |
+| How | How does the mirror reflect her image? | The mirror reflects her image, creating an element of depth and perspective. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the person carrying a black backpack? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image depict a sexy atmosphere? | No. |
+| Yes/No | Is the person's attire in the image formal? | No. |
+| What | What is the person in the image carrying? | A black backpack. |
+| What | What is the person in the image wearing on their feet? | White sneakers. |
+| How | How is the person's attire in the image? | Casual. |
+| How | How does the image capture the person's appearance? | The image does not focus on the person's appearance, and the low exposure level means that only a small portion of their body is visible. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a red top? | Yes. |
+| Yes/No | Is the woman wearing a floral skirt? | Yes. |
+| Yes/No | Is the woman holding a black purse? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman's pose and the way she is holding the purse suggest confidence and style? | Yes. |
+| What | What is the color of the woman's top? | Red. |
+| What | What is the color of the woman's skirt? | Floral (predominantly red and green). |
+| How | How is the woman holding her purse? | She is holding it on her shoulder. |
+| How | How does the white background affect the image? | It contrasts with the woman's colorful attire and accentuates her as the focal point. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman holding a purse in her left hand? | Yes. |
+| Yes/No | Does the woman's hair appear to be styled in loose waves? | Yes. |
+| Yes/No | Is the woman's pose suggestive of confidence and sophistication? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the image sexy because of the woman's attire and pose? | Yes. |
+| What | What is the woman holding in her right hand? | A small clutch purse. |
+| What | What is the woman's hair style in the image? | Loose waves. |
+| How | How is the woman's pose suggestive of confidence and sophistication? | She has her left hand on her hip and her right hand holding a purse. |
+| How | How does the combination of the woman's outfit and pose create a seductive atmosphere in the image? | The black strapless top reveals her midriff, and her pose exudes confidence and allure. |

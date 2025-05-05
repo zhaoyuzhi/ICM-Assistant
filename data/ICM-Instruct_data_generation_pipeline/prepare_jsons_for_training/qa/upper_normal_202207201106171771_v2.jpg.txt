@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Is the man holding a phone in his right hand? | Yes. |
+| Yes/No | Is the man's left hand resting on his hip? | Yes. |
+| Yes/No | Are there clothing racks and mannequins in the background of the image? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Does the man's pose or attire convey any sexual or provocative messages? | No. |
+| What | What is the man wearing on his t-shirt? | A graphic of a woman. |
+| What | What is the mannequin in the background wearing? | Clothing (specific type not specified in description). |
+| How | How is the man holding his phone? | In his right hand. |
+| How | How is the man's left hand positioned? | Resting on his hip. |

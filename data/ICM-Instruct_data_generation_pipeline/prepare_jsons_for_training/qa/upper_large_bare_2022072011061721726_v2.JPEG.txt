@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image feature a wooden floor? | Yes. |
+| Yes/No | Does the image feature a wooden chair? | Yes. |
+| What | What is the primary color of the woman's attire? | Pink. |
+| What | What is the mood of the image? | Intimate and sensual. |
+| How | How does the woman's attire create contrast in the image? | The pink sports bra and underwear create a bold and eyecatching contrast against the neutral tones of the room. |
+| How | How does the woman's gaze into the camera contribute to the overall mood of the image? | The woman's direct gaze into the camera adds a sense of confidence and allure to the image, contributing to the intimate and sensual atmosphere. |

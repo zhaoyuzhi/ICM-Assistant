@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the hem of the shorts frayed? | Yes. |
+| Yes/No | Is the woman's pose confident and self-assured? | Yes. |
+| Yes/No | Does the image convey a relaxed and comfortable atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the woman's shorts? | Blue. |
+| What | What is the practical detail added to the shorts? | A back pocket. |
+| How | How does the woman's pose convey self-assurance? | The woman is standing with her hands on her hips, a pose that exudes confidence and selfassuredness. |
+| How | How does the frayed hem add a casual and trendy touch to the shorts? | The frayed hem adds a casual and trendy touch to the shorts by giving them a relaxed and laidback feel. |

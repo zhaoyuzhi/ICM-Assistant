@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the leggings purple? | Yes. |
+| Yes/No | Does the person have their buttocks displayed? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the leggings? | Purple. |
+| What | What type of fabric are the leggings made of? | High stretch lycra. |
+| How | How is the person displaying their buttocks? | Intentionally. |
+| What | What does the white sneakers add to the overall look? | A casual and sporty vibe. |

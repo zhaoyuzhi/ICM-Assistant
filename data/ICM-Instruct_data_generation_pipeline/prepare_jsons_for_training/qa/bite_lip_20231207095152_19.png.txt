@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Is the person's facial expression serious? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Are the person's lips the focal point of the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's gesture in the image? | Biting their lip. |
+| What | What is the effect of the blurred background on the image? | It draws attention to the person's lips and chin. |
+| How | How does the person's facial expression contribute to the image's atmosphere? | It adds to the intensity and sensuality of the image. |
+| How | How does the close-up composition of the image contribute to its overall effect? | It emphasizes the person's lips and chin, making them the focal point of the image and creating a sense of intimacy and closeness. |

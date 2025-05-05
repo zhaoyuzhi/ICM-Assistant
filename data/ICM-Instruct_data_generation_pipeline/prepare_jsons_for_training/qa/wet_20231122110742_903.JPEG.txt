@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the woman's clothes soaked? | Yes. |
+| Yes/No | Is the woman standing in a pool of water? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| Yes/No | Is the image generally considered sexy? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What color is the woman's skirt? | Black. |
+| How | How are the woman's clothes soaked? | They are soaked because the woman has been in the water for some time. |
+| How | How does the woman's pose contribute to the sensuality of the image? | The woman's pose, with her arms outstretched, adds to the sensuality of the image by creating a sense of freedom and movement, which contrasts with the stillness of the surrounding water. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of white shorts and a white top? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Are the woman's arms crossed in front of her body? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | White shorts and a white top. |
+| What | What is the background color of the image? | White. |
+| How | How is the woman posing in the image? | With her arms crossed in front of her body and looking directly at the camera. |
+| How | How does the plain white background affect the image? | It creates a visually striking contrast with the woman's figure and the white shorts and top she is wearing, emphasizing her confidence and selfassuredness. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the person in the image wearing black tights? | Yes. |
+| Yes/No | Is the person in the image holding their stocking up with their left hand? | Yes. |
+| Yes/No | Is the person in the image sitting on a chair? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image putting on? | Beige stockings. |
+| What | What is the person in the image wearing on their legs? | Black tights. |
+| How | How is the person in the image holding their stocking up? | With their left hand. |
+| How | How does the image emphasize the sensuality of the moment? | By focusing on the person's expression and creating a closeup view of their body. The contrast between the beige stockings and black tights also adds to the visual appeal, creating a sense of depth and texture in the image. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the person in the image sitting on a chair? | Yes. |
+| Yes/No | Is the person in the image holding their stocking up with their left hand? | Yes. |
+| Yes/No | Is the person in the image wearing black tights? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the person in the image putting on beige stockings? | Yes. |
+| What | What is the person in the image holding in their right hand? | Their right hand is on their knee. |
+| What | What is the color of the stockings the person is putting on? | Beige. |
+| How | How is the person's expression in the image? | Focused. |
+| How | How does the contrast between the beige stockings and black tights add to the visual appeal of the image? | It creates a sense of depth and texture in the image. |

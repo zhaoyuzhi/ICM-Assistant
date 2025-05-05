@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any greenery or plants? | No. |
+| Yes/No | Is the man smiling? | No. |
+| Yes/No | Does the image contain any logos or branding? | No. |
+| What | What is the man doing with his arms? | His arms are flexed. |
+| What | What is the man's facial expression? | He is not smiling; his expression is confident and sexy. |
+| How | How is the man standing in relation to the building? | He is standing in front of the building with his feet shoulderwidth apart. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is confident and sexy. |

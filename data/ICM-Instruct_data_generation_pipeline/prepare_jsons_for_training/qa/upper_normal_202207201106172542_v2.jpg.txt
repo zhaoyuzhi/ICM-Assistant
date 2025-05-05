@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in traditional Chinese clothing? | Yes. |
+| Yes/No | Is the woman holding a sword in her right hand? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Are the woman's attire and the sword symbols of strength and tradition? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman holding in her right hand? | A sword. |
+| What | What does the woman's attire and the sword suggest about the image's theme? | Strength and tradition. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It emphasizes the focus on the cultural elements rather than the woman's appearance. |
+| How | How does the image showcase the woman's traditional Chinese clothing and the sword? | It highlights them as symbols of strength and tradition, rather than focusing on revealing or provocative elements. |

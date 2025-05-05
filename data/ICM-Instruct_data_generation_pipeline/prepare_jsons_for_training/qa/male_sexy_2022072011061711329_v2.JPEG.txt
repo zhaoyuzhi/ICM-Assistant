@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the man have tattoos on his chest? | Yes. |
+| Yes/No | Is the man lifting weights in a gym setting? | Yes. |
+| Yes/No | Are the man's muscles prominently displayed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the gym setting add to the sexy atmosphere? | Yes. |
+| What | What is the man lifting in the image? | Weights. |
+| What | What is the man's facial hair in the image? | A beard. |
+| How | How is the man's physique in the image? | Welldefined. |
+| How | How does the gym setting contribute to the sexy atmosphere in the image? | It emphasizes the man's physical fitness and muscular build. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Is the kitchen in the background red and white checkered? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image have a sensual or provocative atmosphere? | No. |
+| What | What is the person wearing? | A purple and yellow plaid skirt. |
+| What | What is the color of the kitchen floor? | Red and white checkered. |
+| How | How is the person standing in the kitchen? | With their legs slightly apart. |
+| How | How is the image different from a typical sexy image? | It is lowexposure and focuses on the person's attire and kitchen setting rather than intimate or provocative elements. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Is the kitchen in the background red and white? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image have a sensual or provocative atmosphere? | No. |
+| What | What is the color of the person's skirt? | Purple and yellow. |
+| What | What is the pattern on the floor of the kitchen? | Red and white checkered. |
+| How | How is the person standing in the kitchen? | With their legs slightly apart. |
+| How | How is the image different from a sexy image? | The image is lowexposure and focuses on the person's attire and kitchen setting rather than suggestive or provocative elements. |

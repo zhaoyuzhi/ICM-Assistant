@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person wearing a black face mask? | Yes. |
+| Yes/No | Is the person removing their gray top? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image convey a sense of mystery and intrigue? | Yes. |
+| Yes/No | Does the image suggest the woman has a sense of style and confidence? | Yes. |
+| What | What is the woman holding in her hand? | The collar of her gray top. |
+| What | What is the primary color of the woman's jacket? | Pink. |
+| How | How is the woman removing her gray top? | By holding the collar. |
+| How | How would you describe the overall mood of the image? | Intimate, sensual, and intriguing. |

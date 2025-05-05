@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the person in the image wearing a belt? | Yes. |
+| Yes/No | Are the jeans designed with a back pocket? | Yes. |
+| Yes/No | Is the image taken from the back? | Yes. |
+| Yes/No | Does the image contain any elements that would be considered provocative or inappropriate? | No. |
+| What | What is the color of the person's belt? | Brown. |
+| What | What is the color of the person's shirt? | Black. |
+| How | How is the person's lower body positioned in the image? | The person's lower body is positioned with the focus on the jeans and the back of the person. |
+| How | How would you describe the overall atmosphere of the image? | Neutral. |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the person have their hands tucked into their pockets? | Yes. |
+| Yes/No | Is the belt fastened with a silver buckle? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire revealing or provocative? | No. |
+| What | What is the style of the jeans? | Classic straight leg. |
+| What | What is the color of the belt? | Brown. |
+| How | How are the person's hands positioned? | Casually tucked into their pockets. |
+| How | How would you describe the overall atmosphere of the image? | Casual and everyday. |

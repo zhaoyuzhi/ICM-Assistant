@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bikini top? | Yes. |
+| Yes/No | Is the woman in the image holding a cigarette? | Yes. |
+| Yes/No | Is the image described as sexy? | Yes. |
+| Yes/No | Is the beach in the background of the image? | Yes. |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Is the hat the woman is wearing black? | Yes. |
+| What | What is the woman in the image holding in her hand? | A cigarette. |
+| What | What is the color of the woman's bikini top? | Black. |
+| How | How is the woman in the image standing? | She is standing with confidence and allure. |
+| How | How does the beach setting add to the overall atmosphere of the image? | The beach setting adds to the overall atmosphere of relaxation and leisure, which complements the sensuality and allure of the woman's attire. |

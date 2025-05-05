@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the image set in a room with a mirror? | Yes. |
+| Yes/No | Are there posters on the wall in the image? | Yes. |
+| What | What is the woman holding in her hand? | A phone. |
+| What | What is the woman lifting in the image? | Her dress. |
+| How | How is the woman posing in the image? | Confidently. |
+| How | How does the image convey a sense of confidence and allure? | Through the woman's pose, the mirrored background, and the posters on the wall. |

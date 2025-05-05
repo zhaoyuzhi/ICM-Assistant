@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the woman in the image have her arm raised to the side? | Yes. |
+| Yes/No | Is the woman in the image wearing a gold necklace with a pendant? | Yes. |
+| Yes/No | Does the image focus on the woman's upper body? | Yes. |
+| Yes/No | Does the woman's pose suggest that the image is meant to be provocative and alluring? | Yes. |
+| What | What color is the woman's tank top? | White. |
+| What | What is the woman wearing around her neck? | A gold necklace with a pendant. |
+| How | How is the woman's arm positioned in the image? | Raised to the side. |
+| How | How does the close-up nature of the photo and the woman's pose create a sense of intimacy and allure? | The closeup nature of the photo and the woman's pose draw the viewer's attention to her body and the details of her attire, creating a sense of intimacy and allure. |

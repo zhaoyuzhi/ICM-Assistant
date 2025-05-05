@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Are blue jeans visible in the image? | Yes. |
+| Yes/No | Is the woman holding the cups of the bra with her hands? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the overall atmosphere of the picture sexy? | Yes. |
+| Yes/No | Does the woman appear to be putting on the bra? | Yes. |
+| What | What color is the bra? | Blue. |
+| What | What is the woman doing with the cups of the bra? | Holding them. |
+| How | How does the woman's expression contribute to the sensuality of the image? | It enhances the sensuality by appearing focused and intimate. |
+| How | How does the act of putting on the bra contribute to the atmosphere of the image? | It suggests a sense of intimacy and vulnerability. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing jeans? | Yes. |
+| Yes/No | Is the woman in the image holding the cups of the bra with her hands? | Yes. |
+| Yes/No | Is the woman in the image putting on the bra? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Does the woman in the image have a focused expression? | Yes. |
+| What | What is the color of the bra the woman is wearing? | Blue. |
+| What | What is the overall atmosphere of the picture? | Sexy. |
+| How | How does the woman hold the cups of the bra? | With her hands. |
+| What | What does the act of putting on the bra suggest? | Intimacy and vulnerability. |

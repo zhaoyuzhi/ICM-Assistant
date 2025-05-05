@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding a bag? | Yes. |
+| Yes/No | Is the person wearing a watch? | Yes. |
+| Yes/No | Is the bag made of plastic? | Yes. |
+| Yes/No | Is the bag filled with dried food? | Yes. |
+| Yes/No | Is the person's face visible? | No. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| What | What is the person holding in the image? | A large bag of dried food. |
+| What | What is the person wearing on their wrist? | A watch. |
+| How | How is the bag filled? | With dried food. |
+| How | How would you describe the exposure level of the image? | Very low. |

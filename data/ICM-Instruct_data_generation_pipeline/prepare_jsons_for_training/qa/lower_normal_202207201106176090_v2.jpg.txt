@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the person's attire casual? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose relaxed? | Yes. |
+| What | What is the person's pants pattern? | Blue and white. |
+| What | What is the person's arm position? | Crossed. |
+| How | How is the person looking? | Down at their feet. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the person's arms visible in the image? | No. |
+| Yes/No | Is the person's torso visible in the image? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| Yes/No | Is the person's clothing revealing or provocative? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the color of the person's skirt? | Blue. |
+| What | What is the color of the person's shirt? | White. |
+| How | How are the person's legs positioned in the image? | Apart. |
+| How | How would you describe the person's pose in the image? | Casual. |

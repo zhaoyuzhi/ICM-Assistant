@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white tank top? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person holding the stockings with their right hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the white rug a neutral background? | Yes. |
+| Yes/No | Do the person's actions suggest a sense of vulnerability and sensuality? | Yes. |
+| What | What is the person wearing on their upper body? | A white tank top. |
+| What | What color are the stockings? | Black. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How is the person holding the stockings? | With their right hand. |
+| Yes/No | Is the person in the image wearing a white tank top? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person holding the stockings with their right hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person's attire, actions, and setting create a sense of intimacy and allure? | Yes. |
+| Yes/No | Is the white rug a neutral background? | Yes. |
+| What | What is the person in the image wearing on their upper body? | A white tank top. |
+| What | What color are the stockings the person is putting on? | Black. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How is the person holding the stockings? | With their right hand. |

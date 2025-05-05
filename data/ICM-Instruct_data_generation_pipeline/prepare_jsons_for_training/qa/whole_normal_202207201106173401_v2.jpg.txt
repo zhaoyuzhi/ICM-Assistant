@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a traditional Chinese dress? | Yes. |
+| Yes/No | Is the dress predominantly green? | Yes. |
+| Yes/No | Does the dress have white flowers? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| Yes/No | Is the background of the image dark blue? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| What | What is the woman wearing in the image? | A traditional Chinese dress (qipao). |
+| What | What is the main color of the dress? | Green. |
+| How | How is the woman standing in the doorway? | With her hand resting on her hip. |
+| How | How does the background contrast with the woman and her dress? | It provides a stark contrast, creating a calm and composed atmosphere. |

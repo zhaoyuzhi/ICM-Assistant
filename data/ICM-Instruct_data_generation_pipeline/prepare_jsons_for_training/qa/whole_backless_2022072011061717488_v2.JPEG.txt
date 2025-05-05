@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing away from the camera? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Is the dress made of a shiny material? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Does the dress have a tie at the back? | Yes. |
+| Yes/No | Is the color of the dress orange? | Yes. |
+| What | What is the color of the dress? | Orange. |
+| What | What is the material of the dress? | Shiny. |
+| How | How is the person's back exposed in the image? | The person's back is exposed due to the strapless design of the dress and the way it is tied at the back. |
+| How | How does the tie at the back of the dress add to the overall appeal of the image? | The tie at the back of the dress adds an element of intrigue and allure to the image, making it seem more sensual and intimate. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman holding a pool cue in her hand? | Yes. |
+| Yes/No | Does the image feature the words "特别硬"? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the woman's attire suggest a sense of allure and mystery? | Yes. |
+| Yes/No | Is the pool table associated with leisure and relaxation? | Yes. |
+| What | What is the woman holding in her hand? | A pool cue. |
+| What | What does the phrase "特别硬" translate to in English? | Extremely hard. |
+| How | How does the woman's black dress contribute to the image's overall atmosphere? | It adds to the sensuality of the image. |
+| How | How does the pool table contribute to the image's overall atmosphere? | It adds to the sensuality of the image by being a place associated with leisure and relaxation. |

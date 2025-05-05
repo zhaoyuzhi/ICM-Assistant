@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing a brown jacket? | Yes. |
+| Yes/No | Do they have their hands in their pockets? | Yes. |
+| Yes/No | Is the person's attire casual? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the person's posture like in the image? | The person is standing with their hands in their pockets. |
+| What | What is the overall atmosphere of the image? | The atmosphere is casual and relaxed. |
+| How | How is the person's attire depicted in the image? | The person is wearing a white shirt, a brown jacket, a brown belt, and khaki pants. |
+| How | How does the low exposure level of the image affect the viewer's perception of the person's body? | The low exposure level means that only a small portion of the person's body is visible, which shifts the focus to their attire and posture rather than their physical appearance. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing a blazer? | Yes. |
+| Yes/No | Is the blazer brown? | Yes. |
+| Yes/No | Are they wearing a belt? | Yes. |
+| Yes/No | Is the belt brown? | Yes. |
+| Yes/No | Is the person's attire casual? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What color is the blazer? | Brown. |
+| How | How many items of clothing are the person wearing? | 4 (shirt, blazer, belt, pants/skirt). |
+| What | What is the focus of the image? | The person's attire and posture. |

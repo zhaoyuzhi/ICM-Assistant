@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image making a "finger in mouth" gesture? | Yes. |
+| Yes/No | Is the person's facial expression clearly visible? | No. |
+| Yes/No | Are the person's lips parted? | Yes. |
+| Yes/No | Is the person's tongue sticking out? | Yes. |
+| Yes/No | Does the image have an intimate and seductive atmosphere? | Yes. |
+| Yes/No | Are the person's dark hair and close-up nature of the image contributing to the intimate and seductive atmosphere? | Yes. |
+| What | What is the person in the image doing with their hand? | The person is making a "finger in mouth" gesture. |
+| What | What is the person's facial expression? | The person's facial expression is not clearly visible. |
+| How | How is the person's hair styled in the image? | The person's hair is long and dark. |
+| How | How does the overall atmosphere of the image feel? | The overall atmosphere of the image feels intimate and seductive. |

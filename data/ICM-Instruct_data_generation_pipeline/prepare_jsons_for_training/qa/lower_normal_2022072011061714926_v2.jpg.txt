@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a brown sweater? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Are the person's shoes blue and white? | Yes. |
+| Yes/No | Is the person tying their shoes in the image? | Yes. |
+| Yes/No | Is the background of the image pink? | Yes. |
+| Yes/No | Is the exposure level of the person in the image low? | Yes. |
+| What | What color are the person's shoes? | Blue and white. |
+| What | What is the person doing in the image? | Tying their shoes. |
+| How | How is the person's appearance described in the image? | The person's appearance is not the focus of the image, rather their actions are. |
+| What | What tone does the pink background add to the image? | A soft, nonthreatening tone. |

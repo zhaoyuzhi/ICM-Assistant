@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the women in the image smiling? | No. |
+| Yes/No | Is the atmosphere of the image formal? | No. |
+| Yes/No | Are the women in the image looking at each other? | No. |
+| Yes/No | Is the image shot indoors? | No. |
+| Yes/No | Do the women in the image have the same hair color? | No. |
+| What | What is the woman in the blue sweater looking at? | Her phone. |
+| What | What is the color of the woman's coat in the black and white outfit? | Black. |
+| How | How are the women dressed in the image? | Casually and relaxed. |

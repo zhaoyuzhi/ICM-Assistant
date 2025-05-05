@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's hands placed on his hips? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire modest? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy or allure? | No. |
+| What | What is the man's pose in the image? | He is standing with his hands on his hips and looking directly at the camera. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is simple and straightforward. |
+| How | How is the man dressed in the image? | He is dressed in a black belt, black shorts, and a white shirt. |
+| How | How much of the man's body is visible in the image? | Only a small portion of the man's body is visible in the image due to its lowexposure nature. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's arms relaxed at his sides? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the man have any visible tattoos or piercings? | No. |
+| Yes/No | Is the man's attire formal or casual? | Casual. |
+| Yes/No | Is the image well-lit or dimly lit? | Dimly lit. |
+| What | What is the man's attire in the image? | Black belt, black shorts, white shirt. |
+| What | What is the overall atmosphere of the image? | Neutral and nonthreatening. |
+| How | How are the man's legs positioned in the image? | Slightly apart. |
+| How | How would you describe the exposure level of the image? | Very low. |

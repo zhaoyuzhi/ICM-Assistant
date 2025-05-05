@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a thong? | Yes. |
+| Yes/No | Is the person in the image wearing only underwear? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color are the thongs the person is wearing? | Purple, black, and blue. |
+| What | What is the person's gender? | Cannot be determined from the description. |
+| How | How many thongs is the person wearing? | Three. |
+| What | What is the mood or atmosphere of the image? | Sexy/provocative. |

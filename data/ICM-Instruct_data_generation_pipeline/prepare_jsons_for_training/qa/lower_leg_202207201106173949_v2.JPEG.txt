@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person's head turned to the side? | Yes. |
+| Yes/No | Is the couch white? | Yes. |
+| Yes/No | Are the person's shoes black? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the person wearing on their feet? | Black shoes. |
+| What | What is the color of the couch? | White. |
+| How | How are the person's legs positioned? | Crossed, with their feet resting on the armrest of the couch. |
+| How | How is the person's head positioned? | Turned to the side. |

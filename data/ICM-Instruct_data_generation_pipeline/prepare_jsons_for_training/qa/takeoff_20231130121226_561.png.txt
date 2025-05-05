@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image naked? | No. |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Is the woman in the image wearing red underwear? | Yes. |
+| Yes/No | Is the woman in the image holding a white purse? | Yes. |
+| Yes/No | Is the room in the image decorated with a white wall and a window? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and allure? | Yes. |
+| What | What is the woman holding in her hand? | A white purse. |
+| What | What is the color of the woman's underwear? | Red. |
+| How | How is the woman posing in the image? | She is kneeling on the floor. |
+| How | How does the white purse contribute to the overall atmosphere of the image? | It adds an element of intrigue and mystery. |

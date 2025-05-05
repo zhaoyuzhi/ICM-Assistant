@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray pleated skirt? | Yes. |
+| Yes/No | Is the woman's top black? | Yes. |
+| Yes/No | Is the woman's left hand resting on a counter? | Yes. |
+| Yes/No | Is the woman's right hand in her pocket? | Yes. |
+| Yes/No | Does the kitchen have a white countertop? | Yes. |
+| Yes/No | Does the kitchen have a black sink? | Yes. |
+| What | What color is the woman's pleated skirt? | Gray. |
+| What | What is the woman's pose in the image? | She is standing with her left hand resting on a counter and her right hand in her pocket. |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | The woman's outfit, which includes a gray pleated skirt, exposes her thighs and creates a sense of intimacy and allure. |
+| How | How does the woman's pose add to the overall sensuality of the image? | The woman's pose, with her hand in her pocket and her left hand resting on the counter, adds to the overall sensuality of the image. |

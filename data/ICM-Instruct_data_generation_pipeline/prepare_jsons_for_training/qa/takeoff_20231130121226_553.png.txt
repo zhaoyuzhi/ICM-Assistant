@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Is the woman wearing a black face mask? | Yes. |
+| Yes/No | Is the woman wearing a blue bra? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the setting of the image a bathroom? | Yes. |
+| Yes/No | Does the woman have her arms crossed? | Yes. |
+| What | What is the woman taking off her clothes? | Her clothes. |
+| What | What is the color of the bra the woman is wearing? | Blue. |
+| How | How is the woman standing in front of the mirror? | With her arms crossed. |
+| How | How does the black face mask contribute to the atmosphere of the image? | It adds an element of mystery and intrigue. |

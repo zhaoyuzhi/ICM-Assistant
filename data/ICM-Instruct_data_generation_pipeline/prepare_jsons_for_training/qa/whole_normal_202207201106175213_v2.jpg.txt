@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Is the woman in the image wearing a gray skirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman's pose in the image neutral? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's outfit in the image? | A white sweater and a gray skirt. |
+| What | What is the focus of the image? | The woman's outfit. |
+| How | How is the woman posing in the image? | Neutrally. |
+| How | How would you describe the overall atmosphere of the image? | Calm and professional. |

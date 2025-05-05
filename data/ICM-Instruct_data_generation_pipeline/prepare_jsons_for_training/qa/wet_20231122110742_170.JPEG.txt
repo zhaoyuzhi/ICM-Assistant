@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt and blue pants? | Yes. |
+| Yes/No | Is the person standing in a bathtub filled with water? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the atmosphere in the image dynamic and sensual? | Yes. |
+| Yes/No | Does the image suggest a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's attire in the image? | White tshirt and blue pants. |
+| What | What is the person's form in the image? | Soaked and vulnerable. |
+| How | How is the person standing in the bathtub? | Standing with their clothes soaked. |
+| How | How does the image evoke feelings? | Desire and intrigue. |

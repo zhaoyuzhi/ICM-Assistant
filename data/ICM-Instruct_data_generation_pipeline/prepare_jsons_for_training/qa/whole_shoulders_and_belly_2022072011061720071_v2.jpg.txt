@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image looking at her cell phone? | Yes. |
+| Yes/No | Is the woman wearing a white blouse with ruffled sleeves? | Yes. |
+| Yes/No | Are her shorts blue denim? | Yes. |
+| Yes/No | Is she wearing sunglasses? | Yes. |
+| Yes/No | Is her outfit casual yet stylish? | Yes. |
+| Yes/No | Does her posture suggest she is in motion? | Yes. |
+| What | What color are the woman's shorts? | Blue. |
+| What | What is the woman's posture while looking at her phone? | She is walking down a sidewalk. |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | Her outfit creates a casual and relaxed atmosphere. |
+| How | How does her posture and demeanor contribute to the overall allure of the image? | Her posture and demeanor add to the overall allure of the image because they convey a sense of confidence and selfassuredness. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman making a playful and seductive facial expression? | Yes. |
+| Yes/No | Is the overall atmosphere of the image lighthearted and flirtatious? | Yes. |
+| Yes/No | Does the woman's pose and expression convey confidence and self-assuredness? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's shirt? | Yellow. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| How | How does the woman's pose and expression convey confidence and self-assuredness? | The woman's pose and expression convey confidence and selfassuredness through her relaxed and playful demeanor, suggesting a sense of comfort and security in her own skin. |
+| How | How does the image's lighthearted and flirtatious atmosphere add to its overall allure? | The lighthearted and flirtatious atmosphere adds to the overall allure of the image by creating a sense of intimacy and intrigue, drawing the viewer's attention and making the image feel more captivating and engaging. |

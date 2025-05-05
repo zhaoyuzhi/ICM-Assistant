@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue leggings suit? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's outfit accentuate her figure? | Yes. |
+| Yes/No | Is there a pile of wood and a ladder in the background of the image? | Yes. |
+| Yes/No | Does the contrast between the woman's attire and the background add to the sexy atmosphere of the image? | Yes. |
+| What | What is the woman wearing in the image? | A blue leggings suit. |
+| What | What is the color of the leggings suit? | Blue. |
+| How | How does the image create a sexy atmosphere? | The image creates a sexy atmosphere through the woman's attire, exposed belly, and the contrast between her and the background. |
+| How | How does the woman's outfit accentuate her figure? | The woman's outfit is tight, which accentuates her figure and makes her look attractive. |

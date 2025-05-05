@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a glass of wine? | Yes. |
+| Yes/No | Is the woman in the image wearing a pair of glasses? | Yes. |
+| Yes/No | Is the woman in the image standing in a room with a potted plant in the background? | Yes. |
+| Yes/No | Is the woman in the image wearing a white blouse and a brown skirt? | Yes. |
+| Yes/No | Is the woman in the image posing in a confident and alluring manner? | Yes. |
+| Yes/No | Does the image create a captivating and enticing atmosphere? | Yes. |
+| What | What is the woman in the image holding in her left hand? | A glass of wine. |
+| What | What is the woman in the image wearing on her feet? | The description does not mention the woman's footwear, so this question cannot be answered. |
+| How | How is the woman in the image posing? | The woman is posing with her left hand on her hip and her right hand holding a glass of wine. |
+| How | How does the image create a captivating and enticing atmosphere? | The image creates a captivating and enticing atmosphere through the combination of the woman's confident pose, her revealing outfit, and the glass of wine in her hand. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image neutral and non-sexual? | Yes. |
+| Yes/No | Does the image feature a white background? | Yes. |
+| What | What is the color of the person's shirt? | Black. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How much of the person's body is visible in the image? | Only a small portion. |
+| What | What is the exposure level of the person in the image? | Very low. |

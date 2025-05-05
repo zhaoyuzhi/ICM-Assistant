@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman's facial expression playful and flirtatious? | Yes. |
+| Yes/No | Are the woman's lips visible in the image? | Yes. |
+| Yes/No | Are the woman's eyes visible in the image? | Yes. |
+| Yes/No | Is the image a close-up shot of the woman's face and tongue? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What is the woman doing with her tongue in the image? | She is sticking out her tongue. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is seductive and alluring. |
+| How | How is the woman's facial expression in the image? | The woman's facial expression is playful and flirtatious. |
+| How | How is the image shot? | The image is a closeup shot, focusing on her face and tongue. |

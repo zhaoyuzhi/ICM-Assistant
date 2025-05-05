@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing fishnet stockings? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a couch? | Yes. |
+| Yes/No | Is the couch covered with a fur throw? | Yes. |
+| Yes/No | Is the woman wearing a white bra? | Yes. |
+| Yes/No | Are the woman's thigh-high stockings red? | Yes. |
+| Yes/No | Is the woman looking down at her feet? | Yes. |
+| What | What is the woman's attire in the image? | Fishnet stockings, white bra, red thighhigh stockings, high heels. |
+| What | What is the atmosphere of the image? | Seductive and alluring. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, looking down at her feet, suggests a sense of selfassuredness and allure, contributing to the seductive and alluring atmosphere of the image. |
+| How | How does the fur throw on the couch add to the image's atmosphere? | The fur throw on the couch adds a touch of luxury and warmth to the scene, enhancing the overall seductive and alluring atmosphere of the image. |

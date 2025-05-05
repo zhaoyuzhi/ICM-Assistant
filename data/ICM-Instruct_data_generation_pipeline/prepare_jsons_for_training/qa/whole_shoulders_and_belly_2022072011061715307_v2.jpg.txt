@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's pants high-waisted? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Is the woman standing against a white wall? | Yes. |
+| Yes/No | Is there a window in the background of the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing on her upper body? | A strapless top. |
+| What | What is the woman wearing on her lower body? | Highwaisted pants. |
+| How | How is the woman standing in the image? | With her hand on her hip. |
+| How | How would you describe the overall atmosphere of the image? | Sexy/provocative. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing black heels? | Yes. |
+| Yes/No | Is the woman in the image holding a pink purse? | Yes. |
+| Yes/No | Is the woman in the image holding a cigarette? | Yes. |
+| Yes/No | Is the woman in the image moving towards the right side of the image? | Yes. |
+| What | What is the woman in the image holding in her right hand? | A pink purse. |
+| What | What is the woman in the image holding in her left hand? | A cigarette. |
+| How | How is the woman in the image moving? | She is walking. |
+| What | What creates an atmosphere of allure and sophistication in the image? | The woman's revealing clothing choice, confident stride, and stylish accessories, along with the cigarette in her hand, create an atmosphere of allure and sophistication. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing against a blue background? | Yes. |
+| Yes/No | Is the person wearing a white shirt and black pants? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and professional? | Yes. |
+| Yes/No | Does the image focus on the person's physical appearance or body language? | No. |
+| Yes/No | Does the low exposure level emphasize the professional and calm nature of the image? | Yes. |
+| What | What color is the background in the image? | Blue. |
+| What | What is the person wearing in the image? | A white shirt and black pants. |
+| How | How would you describe the overall atmosphere of the image? | Calm and professional. |
+| How | How does the low exposure level affect the image? | It emphasizes the professional and calm nature of the image and draws attention away from the person's physical appearance. |

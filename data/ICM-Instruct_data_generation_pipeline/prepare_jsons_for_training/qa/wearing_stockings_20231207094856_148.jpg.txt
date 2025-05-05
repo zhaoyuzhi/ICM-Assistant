@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's socks white? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is the floor in the image white? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image depict a sensual or intimate activity? | Yes. |
+| What | What color are the person's socks? | White. |
+| What | What is the person in the image doing? | Putting on beige stockings. |
+| How | How is the atmosphere of the image created? | Through the combination of the person's attire and the act of putting on stockings. |
+| What | What is the sense of the image? | Allure and intrigue. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's socks white? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is the floor white? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image depict an intimate activity? | Yes. |
+| What | What is the person wearing on their feet? | White socks. |
+| What | What is the person putting on? | Beige stockings. |
+| How | How is the person putting on their stockings? | The person is kneeling on the floor and putting on the stockings. |
+| What | What atmosphere does the image create? | The image creates a sense of allure and intrigue. |

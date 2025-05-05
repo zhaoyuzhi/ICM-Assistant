@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the sweater green? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Are the shorts white? | Yes. |
+| Yes/No | Is the person's pose confident and self-assured? | Yes. |
+| What | What color are the shorts? | White. |
+| What | What is the color of the sweater? | Green. |
+| How | How does the person's pose suggest confidence and self-assurance? | The person has their hands on their hips and is standing in a relaxed manner, suggesting confidence and selfassurance. |
+| How | How does the green sweater enhance the visual appeal of the image? | The green sweater adds a contrasting color to the white shorts, creating a visually appealing combination that enhances the overall attractiveness of the image. |

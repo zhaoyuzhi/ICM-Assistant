@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a red shirt? | Yes. |
+| Yes/No | Are the jeans slightly torn at the back? | Yes. |
+| Yes/No | Is the image a close-up of the person's buttocks? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the jeans in the image? | Black. |
+| What | What color is the person's shirt in the image? | Red. |
+| How | How are the jeans torn at the back? | Slightly. |
+| How | How does the red shirt contrast with the black jeans? | It adds a pop of color and creates a visual contrast. |

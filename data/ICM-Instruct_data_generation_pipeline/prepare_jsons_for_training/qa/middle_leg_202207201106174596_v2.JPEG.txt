@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink skirt? | Yes. |
+| Yes/No | Is the skirt a short-length skirt? | Yes. |
+| Yes/No | Does the skirt have a zipper on the front? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Is the woman's pose confident? | Yes. |
+| Yes/No | Does the image provide enough information to determine the exact location or setting? | No. |
+| What | What is the color of the woman's skirt? | Pink. |
+| What | What is the woman's pose in the image? | Confident, with her hand resting on her hip. |
+| How | How does the contrast between the pink skirt and the white top add to the visual interest of the image? | The contrast creates a sense of visual balance and draws attention to the woman's attire, making the image more visually appealing. |
+| How | How does the image create a sense of allure and attractiveness? | The woman's confident pose, the short length of the skirt, and the contrast between the pink skirt and the white top all contribute to a sense of allure and attractiveness in the image. |

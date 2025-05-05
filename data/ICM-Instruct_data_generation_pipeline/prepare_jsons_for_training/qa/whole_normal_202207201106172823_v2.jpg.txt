@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a traditional Chinese outfit? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | Yes. |
+| Yes/No | Does the image feature a blue and white backdrop with scattered stars? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the woman's pose suggest a calm and peaceful setting? | Yes. |
+| What | What is the woman wearing on her head? | A black headband. |
+| What | What is the dominant color of the backdrop? | Blue and white. |
+| How | How is the woman's hair styled? | In a long ponytail. |
+| How | How would you describe the overall atmosphere of the image? | Tranquil and elegant. |

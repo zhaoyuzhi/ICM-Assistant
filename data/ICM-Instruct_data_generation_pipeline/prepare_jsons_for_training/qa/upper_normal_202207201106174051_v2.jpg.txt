@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young girl? | Yes. |
+| Yes/No | Is the girl wearing a bright orange jacket with a hood? | Yes. |
+| Yes/No | Does the jacket have a graphic of a rabbit on it? | Yes. |
+| Yes/No | Is the girl also wearing a pair of glasses? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a cheerful and youthful atmosphere? | Yes. |
+| What | What is the main color of the girl's jacket? | Orange. |
+| What | What is the graphic on the girl's white shirt? | A bunny. |
+| How | How does the girl's outfit create a coordinated look? | The girl's orange jacket with a rabbit graphic matches her white shirt with a bunny graphic, creating a coordinated and playful look. |
+| How | How does the image draw focus to the girl and her outfit? | The blurred background of the image draws focus to the girl and her outfit, emphasizing her bright colors and playful rabbit graphics. |

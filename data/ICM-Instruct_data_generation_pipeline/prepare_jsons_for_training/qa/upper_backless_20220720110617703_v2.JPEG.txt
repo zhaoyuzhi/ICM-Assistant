@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white strapless dress? | Yes. |
+| Yes/No | Does the dress feature a lace-up back? | Yes. |
+| Yes/No | Is the dress form-fitting? | Yes. |
+| Yes/No | Is the person holding a bouquet of flowers? | Yes. |
+| Yes/No | Does the person's updo add a touch of elegance and refinement to the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the dress? | White. |
+| What | What type of flowers are in the bouquet? | Not specified in the description. |
+| How | How is the person's hair styled? | In an updo. |
+| How | How does the lace-up back of the dress add a unique and stylish element to the outfit? | It adds a touch of complexity and detail to the dress, making it stand out from a typical strapless dress. |

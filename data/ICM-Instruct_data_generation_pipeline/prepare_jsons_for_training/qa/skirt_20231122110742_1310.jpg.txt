@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a high slit? | Yes. |
+| Yes/No | Is the woman wearing a black corset? | Yes. |
+| Yes/No | Are the woman's thighs and legs visible in the image? | Yes. |
+| Yes/No | Is the dress feathered? | Yes. |
+| Yes/No | Is the background of the image a white wall and a door? | Yes. |
+| What | What color are the woman's tights? | Black. |
+| What | What color are the woman's heels? | Black. |
+| How | How is the woman lifting her dress? | She is holding it up with her left hand. |
+| How | How does the image create a seductive and alluring atmosphere? | The combination of the elegant dress, black tights, and black heels, along with the woman's pose and the contrasting background, creates a sensual and provocative atmosphere. |

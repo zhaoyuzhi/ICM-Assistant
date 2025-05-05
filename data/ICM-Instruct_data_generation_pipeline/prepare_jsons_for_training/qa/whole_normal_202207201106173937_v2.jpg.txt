@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red suit? | Yes. |
+| Yes/No | Is the woman's hair black? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire appropriate for a business setting? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the woman's attire in the image? | A red suit and black pants. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How does the blue background contrast with the woman's attire? | It provides a contrasting color that further emphasizes the woman and her outfit. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It ensures that the image does not contain any explicit or suggestive content, making it appropriate for a professional setting. |

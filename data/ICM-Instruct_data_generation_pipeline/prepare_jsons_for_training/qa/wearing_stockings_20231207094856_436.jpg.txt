@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person wearing black stockings? | Yes. |
+| Yes/No | Is the person putting on stockings? | Yes. |
+| Yes/No | Is the stuffed animal next to the person a white bunny? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Is the image associated with a sexy or seductive appearance? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the stuffed animal next to the person? | White. |
+| How | How is the person's appearance described in the image? | The person is described as wearing black stockings and a black thighhigh sock, with their legs crossed. |
+| How | How does the presence of the stuffed animal add to the atmosphere of the image? | The presence of the stuffed animal adds a playful and cozy element to the scene, creating a contrast between the seriousness of putting on stockings and the lightheartedness of the stuffed animal. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Does the image have a sensual or seductive atmosphere? | Yes. |
+| Yes/No | Is the person in the image putting on stockings? | Yes. |
+| Yes/No | Does the image include a stuffed animal? | Yes. |
+| Yes/No | Is the stuffed animal a white bunny? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black stockings and a black thighhigh sock. |
+| What | What is the color of the stuffed animal in the image? | White. |
+| How | How is the person's appearance described in the image? | The person's appearance is described as intimate, sensual, and alluring. |
+| How | How does the presence of the stuffed animal contrast with the atmosphere of the image? | The presence of the stuffed animal adds a playful and cozy element to the scene, contrasting with the seriousness of putting on stockings. This creates an intriguing and captivating atmosphere that makes the image sexy. |

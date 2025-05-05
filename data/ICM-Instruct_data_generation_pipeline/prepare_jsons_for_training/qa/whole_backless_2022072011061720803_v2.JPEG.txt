@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman's dress made of a shiny, silky material? | Yes. |
+| Yes/No | Does the dress feature a deep neckline? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Is the woman's posture confident and comfortable? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the woman's attire in the image? | A red dress with a deep neckline and thin straps. |
+| What | What is the material of the dress? | Silky. |
+| How | How does the woman's posture contribute to the image's atmosphere? | Her confident posture suggests she is comfortable in her own skin and unafraid to show off her body, adding to the overall allure of the image. |
+| How | How does the dress accentuate the woman's figure? | The dress clings to her body, accentuating her curves and drawing attention to her back. |

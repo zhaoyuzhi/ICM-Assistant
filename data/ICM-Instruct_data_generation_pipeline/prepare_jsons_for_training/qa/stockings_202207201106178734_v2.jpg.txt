@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Are the garters black? | Yes. |
+| Yes/No | Does the woman have her legs bent at the knees? | Yes. |
+| Yes/No | Is the surface she is lying on white and furry? | Yes. |
+| Yes/No | Are the stockings lacy? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman lying on? | A white furry surface. |
+| What | What is the woman wearing on her legs? | Black stockings and garters. |
+| How | How are the stockings and garters fastened? | They are fastened with lace trim. |
+| How | How is the woman positioned on the surface? | She is lying on her stomach with her legs bent at the knees. |

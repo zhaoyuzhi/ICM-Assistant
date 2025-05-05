@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the man wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Are they standing in front of a rocky cliff? | Yes. |
+| Yes/No | Is the woman wearing earrings? | Yes. |
+| Yes/No | Is the man wearing a crown? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the woman's hairstyle? | Traditional Chinese hairstyle. |
+| What | What is the man's status indicated by his crown? | Royal or noble. |
+| How | How does the setting of the rocky cliff contribute to the tone of the image? | It adds to the serious and solemn tone of the image. |
+| How | How does the low exposure level affect the image? | It emphasizes the seriousness of the scene and makes it inappropriate for a sexy image. |

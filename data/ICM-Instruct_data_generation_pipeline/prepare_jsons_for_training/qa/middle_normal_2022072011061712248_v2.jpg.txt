@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of khaki pants? | Yes. |
+| Yes/No | Does the person in the image have a button on the front of their pants? | Yes. |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| Yes/No | Does the image contain any inappropriate or offensive elements? | No. |
+| What | What color are the person's pants in the image? | Khaki. |
+| What | What color is the person's shirt in the image? | Green. |
+| How | How many buttons are on the front of the person's pants? | One. |
+| How | How much of the person's body is visible in the image? | A small portion. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt made of a lightweight fabric? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image contain suggestive or provocative elements? | No. |
+| Yes/No | Is the person's attire revealing or sexualized? | No. |
+| Yes/No | Does the image have a neutral or non-sexual atmosphere? | Yes. |
+| What | What is the color of the person's top? | Green. |
+| What | What is the exposure level of the image? | Very low. |
+| How | How is the skirt fastened? | With a button closure. |
+| How | How much of the person's body is visible in the image? | A small portion. |

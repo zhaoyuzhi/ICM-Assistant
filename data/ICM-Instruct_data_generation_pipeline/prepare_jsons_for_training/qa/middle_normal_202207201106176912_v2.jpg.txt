@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of dark green sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a light blue tank top? | Yes. |
+| Yes/No | Does the person in the image have their hands tucked into their pockets? | Yes. |
+| Yes/No | Is the person in the image looking off to the side? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What color are the person's sweatpants? | Dark green. |
+| What | What is the color of the person's tank top? | Light blue. |
+| How | How are the person's hands positioned in the image? | Casually tucked into their pockets. |
+| How | How would you describe the overall atmosphere of the image? | Simple and casual, with a focus on the person's clothing and minimal focus on their body. |
+| Yes/No | Is the woman in the image wearing a pair of dark green sweatpants? | Yes. |
+| Yes/No | Is the woman's hair visible in the image? | No. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman's smile a prominent feature of the image? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's posture in the image? | Casually tucked into her pockets, looking off to the side. |
+| What | What is the color of the woman's sweatpants? | Dark green. |
+| How | How is the woman's waist secured in the sweatpants? | Drawstring waist. |
+| How | How would you describe the overall atmosphere of the image? | Lowkey, relaxed, neutral. |

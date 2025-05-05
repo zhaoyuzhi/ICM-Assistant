@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing an orange hoodie? | Yes. |
+| Yes/No | Is the woman wearing a pink dress? | Yes. |
+| Yes/No | Are the man and woman hugging each other? | Yes. |
+| Yes/No | Is the man hugging the woman from behind? | Yes. |
+| Yes/No | Does the slogan "Do you mind if I'm older than you? 36 is just right" appear in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man wearing? | An orange hoodie. |
+| What | What is the woman wearing? | A pink dress. |
+| How | How is the man hugging the woman? | From behind. |
+| How | How does the slogan contribute to the image's atmosphere? | It implies a possible age difference and suggests a playful, flirtatious dynamic between the couple, adding to the sexy atmosphere. |

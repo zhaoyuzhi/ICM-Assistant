@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a person's face? | Yes. |
+| Yes/No | Is the person wearing red lipstick? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person biting their lower lip? | Yes. |
+| Yes/No | Does the image have a serious expression? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's lipstick? | Red. |
+| What | What is the person's facial expression? | Serious. |
+| How | How are the person's lips positioned? | Slightly parted. |
+| How | How is the person biting their lower lip? | Biting. |

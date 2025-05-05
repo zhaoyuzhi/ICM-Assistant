@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black leather jacket? | Yes. |
+| Yes/No | Is the woman wearing a black leather jacket? | Yes. |
+| Yes/No | Are the man and woman kissing each other? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Does the woman have her arms wrapped around the man's neck? | Yes. |
+| Yes/No | Is the man holding the woman's hand? | Yes. |
+| What | What is the man wearing? | A black leather jacket. |
+| What | What is the woman wearing? | A black leather jacket and a black top. |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other, with the woman's arms wrapped around the man's neck. |
+| How | How does the background of the image contribute to the overall mood of the scene? | The simple and uncluttered background featuring a building and a tree allows the viewer to focus on the couple and their affectionate interaction, adding to the overall allure and intimate nature of the scene. |

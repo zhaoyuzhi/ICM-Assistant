@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a tank top? | Yes. |
+| Yes/No | Is the man in the image lifting a barbell? | Yes. |
+| Yes/No | Is the background of the image a gym setting? | Yes. |
+| How | Does the image showcase the man's muscular chest and upper body? | Yes. |
+| Yes/No | Does the image suggest a strong, athletic individual? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image lifting? | A barbell. |
+| What | What is the man in the image wearing? | A black tank top. |
+| How | How is the man in the image perceived? | As a strong, athletic individual. |
+| How | How does the gym setting emphasize the man's athleticism and dedication to fitness? | By showcasing various exercise equipment and the man's focused expression. |

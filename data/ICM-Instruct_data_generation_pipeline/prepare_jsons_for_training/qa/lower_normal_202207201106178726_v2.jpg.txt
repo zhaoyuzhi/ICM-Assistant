@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray shirt? | Yes. |
+| Yes/No | Are there any explicit or suggestive content in the image? | No. |
+| Yes/No | Is the woman's posture confident? | Yes. |
+| Yes/No | Is the room's color palette neutral? | Yes. |
+| Yes/No | Does the woman's attire reveal any skin? | No. |
+| Yes/No | Does the image have a professional atmosphere? | Yes. |
+| What | What is the woman wearing on her lower body? | Black pants. |
+| What | What is the color of the woman's shirt? | Gray. |
+| How | How is the woman's posture described? | Confident, with her hands resting on her hips. |
+| How | How does the image's atmosphere contribute to its non-sexual nature? | The neutral color palette and the woman's confident posture contribute to the image's professional and nonsexual nature. |

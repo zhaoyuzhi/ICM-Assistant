@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding an umbrella? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are there gift boxes on either side of the woman? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | Yes. |
+| Yes/No | Is the woman wearing a dress? | Yes. |
+| Yes/No | Is the umbrella open? | Yes. |
+| What | What color is the umbrella? | Pink. |
+| What | What color are the gift boxes? | Gold. |
+| How | How is the woman holding the umbrella? | She is holding it over her head, behind her head. |
+| How | How is the woman's breast displayed? | Her breast is prominently displayed, and she is showing the curve of her breast. |

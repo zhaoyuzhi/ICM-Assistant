@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini a two-piece swimsuit? | Yes. |
+| Yes/No | Is the woman lying on her stomach? | Yes. |
+| Yes/No | Is the woman's head turned to the side? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the woman enjoying a sunny day at the beach? | Yes. |
+| What | What is the woman wearing in the image? | A bright red twopiece bikini. |
+| What | What is the woman's pose in the image? | She is lying on her stomach with her head turned to the side. |
+| How | How does the woman's pose suggest she is enjoying the beach? | Her pose suggests relaxation and enjoyment. |
+| How | How does the bright red color of the bikini add to the image? | It adds a vibrant and eyecatching element to the image. |

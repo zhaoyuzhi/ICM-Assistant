@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the man have a muscular physique? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Is the man holding a pipe or barbell? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| Yes/No | Does the man have a confident pose? | Yes. |
+| What | What is the man holding in the image? | A large pipe or barbell. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How is the man standing in the image? | With a confident pose. |
+| How | How does the image make the viewer feel? | The image makes the viewer feel intrigued and attracted to the man's physique and confident demeanor. |

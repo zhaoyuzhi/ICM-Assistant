@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a blue t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have a graphic of a cat on it? | Yes. |
+| Yes/No | Is the woman sitting on a chair? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual? | Yes. |
+| Yes/No | Is the image visually appealing? | Yes. |
+| What | What is the woman wearing on her upper body? | A blue tshirt with a graphic of a cat. |
+| What | What is the color of the t-shirt? | Blue. |
+| How | How is the woman sitting on the chair? | With her legs crossed. |
+| What | What does the woman's pose and the way her legs are crossed suggest? | A sense of relaxation and confidence. |

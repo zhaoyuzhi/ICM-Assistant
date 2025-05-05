@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige tights? | Yes. |
+| Yes/No | Are the person's legs apart in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the person have their hands placed on their hips? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Are the high heels the person is wearing a contributing factor to the image being considered sexy? | Yes. |
+| What | What is the person wearing on their lower body? | Beige tights. |
+| What | What is the overall atmosphere of the image? | Seductive and alluring. |
+| How | How are the person's legs positioned in the image? | With their legs apart. |
+| How | How do the beige tights and high heels contribute to the image being considered sexy? | They accentuate the person's lower body in a provocative manner, creating an image that is both visually appealing and evocative. |

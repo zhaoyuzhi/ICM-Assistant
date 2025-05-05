@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the white top contrasting with the blue jeans? | Yes. |
+| Yes/No | Is the person's pose confident and relaxed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the color of the jeans? | Dark blue. |
+| What | What is the style of the jeans? | Slim fit. |
+| How | How are the person's hands positioned in the image? | Resting on their hips. |
+| How | How would you describe the person's pose in the image? | Confident and relaxed. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the white top contrasting with the dark blue jeans? | Yes. |
+| Yes/No | Is the person's pose confident and assertive? | Yes. |
+| Yes/No | Does the image have a bold and confident atmosphere? | Yes. |
+| Yes/No | Does the exposed belly add a sense of vulnerability and confidence? | Yes. |
+| What | What is the color of the jeans? | Dark blue. |
+| What | What is the style of the jeans? | Slim fit. |
+| How | How is the person's pose in the image? | Confident and assertive, with hands placed on hips. |
+| How | How does the image make you feel? | Intrigued and captivated by the person's confidence and vulnerability. |

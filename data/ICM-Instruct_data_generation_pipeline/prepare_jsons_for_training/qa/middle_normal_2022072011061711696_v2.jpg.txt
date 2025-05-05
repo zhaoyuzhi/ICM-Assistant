@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's shorts black? | No. |
+| Yes/No | Is the person wearing a hat? | No. |
+| Yes/No | Are the person's shorts ripped or torn? | No. |
+| Yes/No | Is the person's shirt sleeveless? | No. |
+| Yes/No | Does the image contain any explicit content? | No. |
+| What | What color are the person's shorts? | Gray. |
+| What | What is the person's shirt color? | White. |
+| How | How many pockets do the person's shorts have? | Multiple, including a large one on the back and a smaller one on the side. |
+| What | What is the exposure level of the image? | Very low. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the shorts the person is wearing black? | No. |
+| Yes/No | Is the shirt the person is wearing gray? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire revealing or provocative? | No. |
+| Yes/No | Does the image suggest a romantic or intimate context? | No. |
+| What | What color are the shorts the person is wearing? | Gray. |
+| What | What color is the person's shirt? | White. |
+| How | How many pockets do the shorts have? | Multiple. |
+| What | What type of fabric do the shorts appear to be made of? | Sturdy fabric suitable for outdoor activities. |

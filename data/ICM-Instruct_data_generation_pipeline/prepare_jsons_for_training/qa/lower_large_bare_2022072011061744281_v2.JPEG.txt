@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying down? | Yes. |
+| Yes/No | Is the person wearing red underwear? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person's lower body exposed? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Does the red underwear add a bold contrast to the scene? | Yes. |
+| What | What is the person's pose in the image? | The person is lying down with their legs crossed. |
+| What | What is the dominant color of the image? | Red. |
+| How | How does the person appear in the image? | The person appears relaxed and comfortable. |
+| How | How does the image showcase the person's body? | The image showcases the person's lower body in a vulnerable and intimate position, with their legs and feet exposed. |

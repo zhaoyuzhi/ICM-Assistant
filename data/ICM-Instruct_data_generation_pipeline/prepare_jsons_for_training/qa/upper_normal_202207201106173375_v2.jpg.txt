@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink robe? | Yes. |
+| Yes/No | Is the phrase "I just want to sleep" written on the woman's robe? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image have a calm and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the woman in the image wearing? | A pink robe. |
+| What | What is the phrase written on the woman's robe? | "I just want to sleep". |
+| How | How is the woman standing in the image? | In a relaxed stance. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the woman's clothing and the overall atmosphere rather than her physical appearance. |

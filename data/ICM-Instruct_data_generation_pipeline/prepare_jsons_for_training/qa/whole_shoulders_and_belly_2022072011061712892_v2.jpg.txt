@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a gray tank top? | Yes. |
+| Yes/No | Does the tank top have a phrase written on it? | Yes. |
+| Yes/No | Is the woman wearing black sweatpants? | Yes. |
+| Yes/No | Does the woman have braids? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the phrase written on the tank top? | "The key is motivation". |
+| What | What is the color of the sweatpants? | Black. |
+| How | How is the woman's hair styled? | In braids. |
+| What | What is the background of the image? | A brick wall. |

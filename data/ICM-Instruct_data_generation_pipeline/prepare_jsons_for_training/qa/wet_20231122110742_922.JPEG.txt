@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing white clothes? | Yes. |
+| Yes/No | Is the woman sitting on a gray wall? | Yes. |
+| Yes/No | Are the woman's clothes soaked? | Yes. |
+| Yes/No | Is the woman's hair wet? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Does the image evoke a sense of mystery and intrigue? | Yes. |
+| What | What is the woman sitting on? | A gray wall. |
+| What | What color are the woman's clothes? | White. |
+| How | How are the woman's legs positioned? | Crossed. |
+| How | How are the woman's arms positioned? | Resting on her knees. |

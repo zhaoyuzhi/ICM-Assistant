@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Does the woman have a necklace on? | Yes. |
+| Yes/No | Is the necklace silver in color? | Yes. |
+| Yes/No | Does the necklace have a heart-shaped pendant? | Yes. |
+| Yes/No | Are the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What is the color of the woman's top? | White. |
+| What | What is the shape of the pendant on the woman's necklace? | Heartshaped. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How would you describe the atmosphere of the image? | Alluring and stylish. |

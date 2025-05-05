@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the couch made of leather? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Is the woman's attire revealing? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Is the woman's posture relaxed? | Yes. |
+| What | What is the color of the bikini top? | Black. |
+| What | What is the woman resting her head on? | Her hand. |
+| How | How is the woman's attire contrasting with the couch? | The black bikini top contrasts with the white couch, drawing attention to her body. |
+| How | How does the woman's pose and attire suggest confidence? | The woman's relaxed posture and lowcut bikini top suggest a sense of confidence and selfassurance. |

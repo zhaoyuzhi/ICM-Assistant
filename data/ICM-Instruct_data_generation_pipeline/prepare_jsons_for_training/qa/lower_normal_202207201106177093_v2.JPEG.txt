@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Are there any suggestive elements in the image? | No. |
+| Yes/No | Is the woman in the image standing in a field of flowers? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Does the image have a peaceful atmosphere? | Yes. |
+| What | What is the woman in the image wearing? | A flowing skirt and a blouse. |
+| What | What is the woman in the image's expression? | Thoughtful and serene. |
+| How | How are the woman's arms positioned in the image? | Relaxed at her sides. |
+| How | How does the image create a sense of tranquility? | Through the woman's pose and the beautiful natural surroundings. |

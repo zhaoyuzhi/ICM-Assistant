@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of brown trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a brown shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a brown bracelet? | Yes. |
+| Yes/No | Is the person in the image standing against a white background? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose in the image neutral? | Yes. |
+| What | What is the main focus of the image? | The person's attire, which includes brown trousers and a brown shirt. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the person's attire emphasized in the image? | The person's attire is emphasized by the white background, which creates a contrast that draws the viewer's attention to the person's clothing. |
+| How | How would you describe the overall atmosphere of the image? | Neutral. |
+| Yes/No | Is the woman in the image wearing a jumpsuit? | Yes. |
+| Yes/No | Does the jumpsuit have a pocket on the front? | Yes. |
+| Yes/No | Is the woman wearing a belt? | Yes. |
+| Yes/No | Is the belt brown? | Yes. |
+| Yes/No | Is the woman wearing a bracelet? | Yes. |
+| Yes/No | Is the bracelet made of wood? | Yes. |
+| What | What color is the woman's jumpsuit? | Brown. |
+| What | What is the woman wearing on her left wrist? | A wooden bracelet. |
+| How | How is the woman's jumpsuit cinched at the waist? | With a brown belt. |
+| How | How does the white background affect the overall atmosphere of the image? | It emphasizes the subject and creates a calm and professional atmosphere. |

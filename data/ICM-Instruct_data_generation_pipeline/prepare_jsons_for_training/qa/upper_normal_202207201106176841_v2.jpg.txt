@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a business suit? | Yes. |
+| Yes/No | Is the man's tie blue? | Yes. |
+| Yes/No | Are the man's hands visibly tucked into his pockets? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| How | Does the image show any explicit or suggestive body language or clothing? | No. |
+| Yes/No | Does the overall atmosphere of the image suggest a professional and formal setting? | Yes. |
+| What | What is the color of the man's suit? | Dark. |
+| What | What is the color of the man's tie? | Blue. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How would you describe the man's posture in the image? | Relaxed. |

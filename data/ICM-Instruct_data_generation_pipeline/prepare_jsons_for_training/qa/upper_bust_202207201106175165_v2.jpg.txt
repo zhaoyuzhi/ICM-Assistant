@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white crop top? | Yes. |
+| Yes/No | Is the woman in the image wearing black pants? | Yes. |
+| Yes/No | Does the woman in the image have a tattoo visible on her left arm? | Yes. |
+| Yes/No | Is the woman in the image holding a brown purse in her right hand? | Yes. |
+| Yes/No | Is the image atmospherically sexy? | Yes. |
+| Yes/No | Does the woman in the image have her midriff exposed? | Yes. |
+| What | What color is the woman's crop top? | White. |
+| What | What is the woman holding in her right hand? | A brown purse. |
+| How | How is the woman posing in the image? | She is posing in a way that emphasizes her cleavage. |
+| How | How does the woman holding the purse in her hand add to the image's overall aesthetic? | It adds a confident and assertive vibe. |

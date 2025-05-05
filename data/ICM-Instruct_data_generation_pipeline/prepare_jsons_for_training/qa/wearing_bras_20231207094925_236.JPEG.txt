@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra gray? | Yes. |
+| Yes/No | Does the bra have thin straps? | Yes. |
+| Yes/No | Does the bra have a lace trim? | Yes. |
+| Yes/No | Is the woman using her right hand to adjust the bra? | Yes. |
+| Yes/No | Is the woman pulling the bra up over her left shoulder? | Yes. |
+| What | What color is the bra the woman is wearing? | Gray. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| How | How is the woman adjusting the bra? | She is using her right hand to pull it up over her left shoulder. |
+| What | What is the significance of the woman's actions in the image? | The woman's actions suggest a sense of confidence and selfassuredness, contributing to the overall sexy atmosphere of the image. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra gray in color? | Yes. |
+| Yes/No | Does the bra have thin straps? | Yes. |
+| Yes/No | Is the bra being pulled up over the woman's left shoulder? | Yes. |
+| Yes/No | Is the woman using her right hand to adjust the bra? | Yes. |
+| Yes/No | Is the image described as "sexy"? | Yes. |
+| What | What is the woman in the image wearing? | A gray bra. |
+| What | What is the woman doing in the image? | Adjusting the bra, pulling it up over her left shoulder. |
+| How | How are the straps of the bra described? | Thin. |
+| How | How is the bra being pulled up over the woman's shoulder? | With the woman's right hand. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white off-the-shoulder top? | Yes. |
+| Yes/No | Is the car in the background a Mercedes-Benz? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a bun? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the woman's attire accentuate her figure? | Yes. |
+| Yes/No | Is the fact that the woman is facing away from the camera an element of mystery and intrigue? | Yes. |
+| What | What is the color of the woman's top? | White. |
+| What | What is the brand of the car in the background? | MercedesBenz. |
+| How | How is the woman's hair styled in the image? | Pulled back into a bun. |
+| How | How does the black Mercedes-Benz in the background contrast with the woman's white top? | It provides a stark contrast that emphasizes her presence in the image and adds to the overall seductive atmosphere. |

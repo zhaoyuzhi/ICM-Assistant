@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image holding a pair of scissors? | Yes. |
+| Yes/No | Is the man in the image wearing a black belt? | Yes. |
+| Yes/No | Is the image set against a black background? | Yes. |
+| Yes/No | Does the image depict the man in a sexy pose? | Yes. |
+| Yes/No | Does the image have a confident atmosphere? | Yes. |
+| What | What is the man in the image holding in his right hand? | Scissors. |
+| What | What color are the man's jeans? | Blue. |
+| How | How is the man in the image standing? | With his left hand on his hip and his right hand holding scissors. |
+| How | How does the black background contribute to the image's atmosphere? | It enhances the focus on the man and his actions, making the image more alluring and provocative. |

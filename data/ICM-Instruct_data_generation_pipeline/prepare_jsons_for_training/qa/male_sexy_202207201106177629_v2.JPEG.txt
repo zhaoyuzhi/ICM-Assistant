@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Does the man have a beard? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Are the man's muscles well-defined? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image highlight the man's physique? | Yes. |
+| What | What is the man's skin tone? | Tanned. |
+| What | What is the color of the background? | Blue. |
+| How | How does the man's physique appear in the image? | Welldefined. |
+| How | How does the blue background contrast with the man's skin tone? | It provides a stark contrast, making the man stand out in the image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding a tablet? | Yes. |
+| Yes/No | Is the person in the image holding a purse? | Yes. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's shorts khaki? | Yes. |
+| Yes/No | Is the image sexually suggestive or provocative? | No. |
+| Yes/No | Does the image feature a wooden floor? | Yes. |
+| What | What is the person in the image holding in their left hand? | A tablet. |
+| What | What is the person in the image holding in their right hand? | A purse. |
+| How | How is the person dressed in the image? | In a casual outfit consisting of a black shirt and khaki shorts. |
+| How | How does the low exposure level of the image affect the viewer's focus? | It emphasizes the person's clothing and accessories rather than their body, making the image appropriate and not sexy. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the person in the image holding a black purse? | Yes. |
+| Yes/No | Are the person's shorts khaki? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the person's posture or attire evoke any sexual connotations? | No. |
+| Yes/No | Is the focus of the image on the person's casual clothing and the room's interior? | Yes. |
+| What | What is the color of the person's shirt? | Black. |
+| What | What is the person holding in their left hand? | A black purse. |
+| How | How does the person's posture and attire suggest the atmosphere of the image? | The person's posture and attire suggest a casual and relaxed atmosphere. |
+| How | How does the exposure level of the image contribute to its overall atmosphere? | The low exposure level of the image contributes to its overall atmosphere of being neutral and nonsexual. |

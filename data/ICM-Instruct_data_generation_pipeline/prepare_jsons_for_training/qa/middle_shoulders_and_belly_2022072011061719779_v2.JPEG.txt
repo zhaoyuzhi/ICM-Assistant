@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the person have a belly button piercing? | Yes. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the person's body the main focus of the image? | Yes. |
+| What | What is the person wearing in the image? | A striped shirt. |
+| What | What is the person's piercing in the image? | A belly button piercing. |
+| How | How would you describe the person's movements in the image? | Not discernible. |
+| How | How would you describe the overall atmosphere of the image? | Intimate and sensual. |
+| Yes/No | Is the person in the image wearing a striped shirt? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image focused on the person's torso and belly? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person's attire casual and comfortable? | Yes. |
+| How | Does the image showcase the person's sensuality and attractiveness? | Yes. |
+| What | What is the person wearing in the image? | A striped shirt. |
+| What | What is the person's belly exposed in the image? | The person's belly is exposed because they are wearing a crop top or a shirt that is rolled up. |
+| How | How does the striped shirt contribute to the image's atmosphere? | The striped shirt adds a casual and relaxed vibe to the image. |
+| How | How does the exposed belly contribute to the image's atmosphere? | The exposed belly adds a sense of confidence and selfassuredness to the image. |

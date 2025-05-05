@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Does the image feature a guitar patch on the jeans? | Yes. |
+| Yes/No | Are the words "Lady Chablis" written on the t-shirt? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Are the jeans slightly torn at the back pocket? | Yes. |
+| What | What is the name of the person in the image? | Lady Chablis. |
+| What | What is the unique detail featured on the guitar patch? | A guitar and the words "Lady Chablis". |
+| How | How does the image create a sense of style and individuality? | Through the use of a unique guitar patch and the repetition of the name "Lady Chablis" on both the jeans and tshirt. |
+| How | How does the close-up nature of the photo contribute to the overall atmosphere of the image? | The closeup nature of the photo creates a sense of intimacy and emphasizes the sexuality of the image. |

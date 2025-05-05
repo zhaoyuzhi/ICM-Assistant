@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a baby? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Is the woman sitting on a chair? | Yes. |
+| Yes/No | Is the image a family photo? | Yes. |
+| Yes/No | Does the woman have a smile on her face? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the woman wearing in the image? | A striped robe. |
+| What | What is the overall atmosphere of the image? | A warm and loving family moment. |
+| What | What suggests a family-friendly theme in the image? | The woman's attire, the presence of a baby, and the overall atmosphere. |

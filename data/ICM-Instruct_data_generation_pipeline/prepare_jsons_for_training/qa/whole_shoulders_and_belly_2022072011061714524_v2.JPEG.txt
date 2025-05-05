@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink shirt? | Yes. |
+| Yes/No | Does the shirt have words written on it? | Yes. |
+| Yes/No | Is the woman's left hand on her head? | Yes. |
+| Yes/No | Is the woman's right hand on her hip? | Yes. |
+| Yes/No | Are the woman's black pants cropped at the waist? | Yes. |
+| Yes/No | Is the woman wearing a gold necklace? | Yes. |
+| What | What is the woman's pose in the image? | The woman is striking a pose with her left hand on her head and her right hand on her hip. |
+| What | What is the atmosphere created by the combination of the woman's pose, the revealing nature of her outfit, the cropped shirt, and the gold necklace? | The atmosphere created is both alluring and confident. |
+| How | How does the woman's pose and the revealing nature of her outfit suggest a sense of confidence and allure? | The woman's pose and the revealing nature of her outfit suggest a sense of confidence and allure because they highlight her body in a way that is both flirtatious and selfassured. |
+| How | How do the cropped shirt and the gold necklace add to the allure of the image? | The cropped shirt and the gold necklace add to the allure of the image by drawing attention to the woman's body and adding a touch of glamour. |

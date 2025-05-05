@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Are her arms raised above her head? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have a large upper body? | Yes. |
+| Yes/No | Is the beach setting associated with relaxation, leisure, and enjoyment? | Yes. |
+| What | What is the woman wearing on her bottom half? | A checkered bikini bottom. |
+| What | What is the woman's confidence level in the image? | High. |
+| How | How is the woman standing in the image? | She is striking a pose. |
+| How | How does the beach setting enhance the image? | It adds to the sexy atmosphere and creates a visually appealing scene. |

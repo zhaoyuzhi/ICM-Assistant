@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a plaid dress? | Yes. |
+| Yes/No | Does the person have a brown belt? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Is the person looking down? | Yes. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the person's attire in the image? | A plaid dress with a brown belt. |
+| What | What is the atmosphere of the image? | Casual and relaxed. |
+| How | How is the person's hand positioned in the image? | In their pocket. |
+| How | How is the person looking in the image? | Downward gaze. |
+| Yes/No | Is the person in the image wearing a plaid dress? | Yes. |
+| Yes/No | Is the person's hand placed on their hip? | Yes. |
+| Yes/No | Is the person looking downwards? | Yes. |
+| Yes/No | Does the dress have a high waist? | Yes. |
+| Yes/No | Is the belt brown with a gold buckle? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the color of the person's dress? | Plaid. |
+| What | What is the color of the belt? | Brown. |
+| How | How is the person's pose in the image? | Modest and elegant. |
+| How | How is the atmosphere of the image? | Calm and composed. |

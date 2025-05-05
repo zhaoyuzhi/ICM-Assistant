@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman dressed in a white blouse? | Yes. |
+| Yes/No | Does the blouse have a floral pattern? | Yes. |
+| Yes/No | Is the blouse cropped at the waist? | Yes. |
+| Yes/No | Is the woman wearing a white purse? | Yes. |
+| Yes/No | Does the image have a serene atmosphere? | Yes. |
+| What | What is the color of the woman's blouse? | White. |
+| What | What is the color of the sky in the background? | Blue. |
+| How | How is the woman's pose in the image? | She is standing with her hand on her hip. |
+| How | How does the cropped blouse and denim skirt make the image sexy? | They reveal her midriff, a common element in sexy clothing, and accentuate her body, creating a seductive and enticing image. |

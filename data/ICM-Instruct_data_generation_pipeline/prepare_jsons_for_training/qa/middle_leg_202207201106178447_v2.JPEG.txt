@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Is the skirt made of suede? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman have her hands resting on her hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the length of the woman's skirt? | Almost as long as her thighs. |
+| What | What is the color of the woman's top? | Black. |
+| How | How is the woman standing in the image? | Confidently, with her hands resting on her hips. |
+| How | How does the contrast between the woman's outfit and the white background affect the image? | It makes the woman's outfit the focal point of the image and creates a sexy atmosphere. |

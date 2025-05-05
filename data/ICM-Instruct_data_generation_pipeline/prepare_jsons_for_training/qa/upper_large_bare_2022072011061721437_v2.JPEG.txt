@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image holding a pool noodle? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a pool? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image feature a beautiful woman? | Yes. |
+| Yes/No | Is the exposure level of the woman's upper body high? | Yes. |
+| What | What is the woman in the image holding in her hand? | A pool noodle. |
+| What | What is the color of the woman's bikini top? | White. |
+| How | How is the woman standing in front of the pool? | She is standing with her feet hipwidth apart, with one hand on her hip and the other holding a pool noodle. |
+| How | How does the image create a sense of allure and intrigue? | The image creates a sense of allure and intrigue by featuring a beautiful woman in a sexy outfit, standing in a suggestive pose in front of a pool, while holding a pool noodle. The combination of these elements creates a sense of playfulness and sensuality, making the image sexy and intriguing. |

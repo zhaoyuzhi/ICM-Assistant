@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Are the person's arms raised above their head? | Yes. |
+| Yes/No | Is the person standing on a beach? | Yes. |
+| Yes/No | Is the person wearing plaid pajama pants? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image evoke a sense of freedom and carefree enjoyment? | Yes. |
+| What | What is the person in the image wearing? | Plaid pajama pants and no shirt. |
+| What | What is the background of the image? | The ocean and sky. |
+| How | How does the person's attire contribute to the image's sexiness? | The person's plaid pajama pants and shirtlessness are not typical beach attire, adding an element of intrigue and allure to the image. |
+| How | How does the image convey a sense of joy and pleasure? | The person's raised arms and the overall atmosphere of the image convey a sense of joy and pleasure, which are often associated with sexy images. |

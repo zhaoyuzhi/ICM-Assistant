@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini leopard print? | Yes. |
+| Yes/No | Is the woman walking towards the camera? | Yes. |
+| Yes/No | Is the beach setting sandy? | Yes. |
+| Yes/No | Is the water visible in the background? | Yes. |
+| Yes/No | Does the woman have loose waves in her hair? | Yes. |
+| What | What color is the bikini? | White. |
+| What | What is the pattern on the bikini? | Leopard print. |
+| How | How is the woman's hair styled? | Loose waves. |
+| How | How does the beach setting contribute to the image's sexiness? | The sandy surface and water in the background create an atmosphere of leisure and enjoyment, which is often associated with sexy images. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a plaid shirt? | Yes. |
+| Yes/No | Is the man in the image wearing a red shirt? | Yes. |
+| Yes/No | Are the woman and man lying on the same bed? | Yes. |
+| Yes/No | Is the woman lying on her side? | Yes. |
+| Yes/No | Is the man lying on his back? | Yes. |
+| Yes/No | Does the image contain text? | Yes. |
+| What | What is the woman wearing in the image? | A plaid shirt. |
+| What | What is the man wearing in the image? | A red shirt. |
+| How | How is the woman positioned in the image? | She is lying on her side. |
+| How | How is the man positioned in the image? | He is lying on his back. |

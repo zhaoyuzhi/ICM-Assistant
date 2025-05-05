@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the top black and white in color? | Yes. |
+| Yes/No | Does the top feature a geometric pattern? | Yes. |
+| Yes/No | Are the shorts orange in color? | Yes. |
+| Yes/No | Do the shorts have a scalloped hem? | Yes. |
+| Yes/No | Is the woman wearing a black hat? | Yes. |
+| What | What is the color of the woman's hat? | Black. |
+| What | What is the color of the top? | Black and white. |
+| How | How does the woman's pose accentuate her body? | The woman's pose, with her left hand on her hip and her right hand resting on her thigh, accentuates her body by drawing attention to her waist and hips. |
+| How | How does the combination of the geometric pattern on the top and the scalloped hem on the shorts create a visually interesting contrast? | The combination of the geometric pattern on the top and the scalloped hem on the shorts creates a visually interesting contrast by juxtaposing the bold, graphic pattern of the top with the delicate, feminine detail of the scalloped hem. This contrast creates a dynamic visual tension that draws the viewer's eye to the woman's midriff. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image putting on a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Is the woman wearing a white tank top? | Yes. |
+| Yes/No | Is the bra made of lace? | Yes. |
+| Yes/No | Is the woman using her right hand to adjust the bra? | Yes. |
+| What | What is the woman wearing on her bottom half? | Blue jeans. |
+| What | What is the woman wearing on her top half? | A white tank top. |
+| How | How is the bra being adjusted? | The woman is using her right hand to adjust the bra. |
+| What | What atmosphere does the image create? | A casual and relaxed atmosphere. |
+| Yes/No | Is the woman in the process of putting on a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Is the woman wearing a white tank top? | Yes. |
+| Yes/No | Is the bra made of lace? | Yes. |
+| Yes/No | Is the woman using her right hand to adjust the bra? | Yes. |
+| What | What is the color of the bra? | White. |
+| What | What is the woman wearing with her blue jeans? | A white tank top. |
+| How | How is the woman adjusting her bra? | She is using her right hand. |
+| How | How does the image create an atmosphere? | It creates a casual and relaxed atmosphere due to the woman's attire (blue jeans and a white tank top) and adds an element of selfconsciousness and vulnerability, which contributes to its sensual feel. |

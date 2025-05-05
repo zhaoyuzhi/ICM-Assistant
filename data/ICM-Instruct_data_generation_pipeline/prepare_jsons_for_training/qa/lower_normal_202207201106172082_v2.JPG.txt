@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of olive green trousers? | Yes. |
+| Yes/No | Does the woman have her hands in her pockets? | Yes. |
+| Yes/No | Is the woman's top black? | Yes. |
+| Yes/No | Are the trousers loose-fitting? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color are the woman's trousers? | Olive green. |
+| What | What is the woman's stance in the image? | Relaxed and casual. |
+| How | How are the trousers tied on the side? | With a tie. |
+| How | How would you describe the woman's clothing overall? | Comfortable and stylish, with a focus on simplicity rather than provocativeness. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Is the person's navel pierced? | Yes. |
+| Yes/No | Are the blue pajama pants the main focus of the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| How | Does the image showcase the person's full body? | No. |
+| Yes/No | Is the image taken in a studio setting? | No. |
+| What | What color are the pajama pants? | Blue. |
+| What | What is the main focus of the image? | The person's pierced navel. |
+| How | How is the person's body positioned in the image? | The person is standing with their belly exposed, revealing their piercing. |
+| How | How does the image create a sense of connection and vulnerability? | The image creates a sense of connection and vulnerability by showcasing the person's body in a relaxed and intimate manner, with their belly exposed and their piercing visible. The blue pajama pants add a casual and comfortable element to the image, further emphasizing the relaxed and intimate atmosphere. |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| How | Does the image show the person's face? | No. |
+| Yes/No | Is the person standing or sitting? | No. |
+| Yes/No | Is the image in black and white or color? | Color. |
+| How | Does the image show any other people or objects? | No. |
+| Yes/No | Is the image blurry or in focus? | In focus. |
+| What | What is the person's piercing in the image? | A navel piercing. |
+| What | What color are the pajama pants the person is wearing? | Blue. |
+| How | How is the person's body positioned in the image? | Not clear from the description. |
+| How | How does the image create a sense of intimacy and vulnerability? | Through the exposed belly and piercing in the navel, and the casual and comfortable atmosphere created by the blue pajama pants. |

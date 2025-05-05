@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the person putting on black stockings? | Yes. |
+| Yes/No | Are they barefoot? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image portray a sense of vulnerability? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person wearing on their feet? | Nothing (they are barefoot). |
+| How | How are the stockings being put on? | By another person. |
+| What | What does the close-up nature of the image allow the viewer to focus on? | The details of the person's actions and attire. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the person barefoot? | Yes. |
+| Yes/No | Is the other person in the image holding the black stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image portray a sense of vulnerability? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person wearing on their feet? | Nothing, they are barefoot. |
+| How | How are the stockings being put on? | By the other person in the image. |
+| How | How does the image make you feel? | It creates a sense of intimacy and sensuality. |

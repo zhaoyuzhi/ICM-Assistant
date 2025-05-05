@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the person have a silver buckle on their back pocket? | Yes. |
+| Yes/No | Is the person wearing a white t-shirt? | Yes. |
+| Yes/No | Is the image taken from the back? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the primary focus of the image? | The person's clothing. |
+| What | What is the color of the person's t-shirt? | White. |
+| How | How is the person's back pocket designed? | With a silver buckle. |
+| How | How would you describe the overall atmosphere of the image? | Casual and nonsexual. |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the logo on the back pocket of the jeans have a silver color? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the image have a high level of exposure? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the primary focus of the image? | The person's clothing and the lowangle shot. |
+| What | What is the overall atmosphere of the image? | Not sexy, everyday scene. |
+| How | How is the person's body positioned in the image? | The person's backside is the primary focus. |
+| How | How does the low-angle shot affect the image's overall atmosphere? | It emphasizes the person's clothing and does not evoke any sexual or provocative feelings. |

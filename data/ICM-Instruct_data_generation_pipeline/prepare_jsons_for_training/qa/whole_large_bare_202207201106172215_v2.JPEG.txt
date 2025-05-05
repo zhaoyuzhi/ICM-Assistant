@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bikini top? | Yes. |
+| Yes/No | Is the woman in the image sitting on a bed? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the woman have any tattoos or piercings visible in the image? | No. |
+| Yes/No | Is the woman's body fully covered in the image? | No. |
+| What | What color is the woman's bikini top? | Black. |
+| What | What color are the sheets on the bed? | White. |
+| How | How does the gold belt contrast with the black bikini top? | It adds a touch of elegance and contrasts with the black bikini top, creating a visually appealing combination. |
+| How | How does the woman's smile and pose contribute to the overall atmosphere of the image? | Her smile and pose suggest confidence and allure, contributing to the overall sexy atmosphere of the image. |

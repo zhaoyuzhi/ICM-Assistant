@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a yellow skirt? | No. |
+| Yes/No | Is the person in the image holding a white bag? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the color of the person's skirt? | Beige. |
+| What | What is the color of the person's shirt? | White. |
+| How | How is the person's attire modest? | The person is wearing a modest skirt and a plain white shirt, which covers their body appropriately. |
+| How | How does the image focus on the person's clothing and pose? | The image highlights the person's clothing by featuring a plain background and no distracting elements. The person's pose is also relaxed and natural, drawing attention to their attire. |

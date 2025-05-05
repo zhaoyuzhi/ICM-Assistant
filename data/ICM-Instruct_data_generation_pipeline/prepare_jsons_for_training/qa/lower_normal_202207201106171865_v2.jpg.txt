@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image holding a black backpack? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image suggest a casual, everyday setting? | Yes. |
+| What | What is the person in the image holding in their left hand? | A black backpack. |
+| What | What is the color of the person's sneakers? | White. |
+| How | How is the person's attire in the image? | The person is wearing a white shirt and black pants. |
+| How | How would you describe the overall atmosphere of the image? | Calm and neutral. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pants? | Yes. |
+| Yes/No | Is the person's shirt tucked into their pants? | Yes. |
+| Yes/No | Are the person's legs bare? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the person in the image wearing on their feet? | The person is not wearing any shoes, as their feet are bare. |
+| What | What is the color of the person's pants? | The person's pants are white. |
+| How | How is the person's shirt styled? | The person's shirt has a buttondown front and a collar. |
+| How | How is the person's hand positioned in the image? | The person's hand is casually tucked into their pocket. |
+| Yes/No | Is the person in the image wearing a pair of white pants? | Yes. |
+| Yes/No | Does the person have a drawstring waist? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the pants loose-fitting? | Yes. |
+| Yes/No | Is the image appropriate? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the color of the pants? | White. |
+| What | What is the type of clothing item that the person is wearing? | Pants and a shirt. |
+| How | How is the focus of the image? | The focus is on the person's clothing and overall style. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | The low exposure level contributes to the nonsexy atmosphere by not revealing any skin or body parts that might be considered inappropriate or suggestive. |

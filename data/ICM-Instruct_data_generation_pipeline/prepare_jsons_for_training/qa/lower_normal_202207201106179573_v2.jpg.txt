@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sweatshirt? | Yes. |
+| Yes/No | Are they wearing black sweatpants? | Yes. |
+| Yes/No | Does the logo on their sweatshirt have a red and black color scheme? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Are they looking down? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the person's attire in the image? | White sweatshirt, black sweatpants, white sneakers. |
+| What | What is the logo on the person's sweatshirt? | Black and red. |
+| How | How is the person standing in the image? | Neutral position. |
+| How | How is the focus of the image? | On the person's attire and stance. |

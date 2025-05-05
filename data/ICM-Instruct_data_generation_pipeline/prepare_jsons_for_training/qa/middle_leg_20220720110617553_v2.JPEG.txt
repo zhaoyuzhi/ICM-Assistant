@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the skirt beige? | Yes. |
+| Yes/No | Is the purse black? | Yes. |
+| Yes/No | Are the person's thighs visible? | Yes. |
+| Yes/No | Is the posture casual and relaxed? | Yes. |
+| Yes/No | Is the atmosphere in the image sexy? | Yes. |
+| What | What color is the wall in the background? | White. |
+| What | What is the person holding in their hand? | A black purse. |
+| How | How does the person's posture suggest a casual and relaxed atmosphere? | The person is standing with their feet shoulderwidth apart and their weight shifted slightly to one side, giving the impression of a relaxed stance. |
+| How | How does the combination of the short skirt and casual posture create an alluring and confident vibe? | The short skirt reveals the person's thighs, which is a common feature associated with a sexy appearance, while the casual posture conveys a sense of confidence and comfort in their own skin. |

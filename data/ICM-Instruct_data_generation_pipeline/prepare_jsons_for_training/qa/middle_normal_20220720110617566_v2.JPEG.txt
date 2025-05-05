@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Are the jeans faded? | Yes. |
+| Yes/No | Is the person standing with their back to the camera? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What is the person wearing in the image? | Blue jeans. |
+| What | What is the pose of the person in the image? | Standing with hands on hips. |
+| How | How are the jeans faded? | Slightly faded, giving a wornin look. |
+| How | How is the person standing in the image? | With their back to the camera. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person have a back pocket and a small pocket on the back of their thigh? | Yes. |
+| Yes/No | Is the person standing with their back to the camera? | Yes. |
+| Yes/No | Are their hands placed on their hips? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image have explicit or suggestive elements? | No. |
+| What | What is the color of the person's jeans? | Blue. |
+| What | What is the person's pose in the image? | Standing with their back to the camera, hands on hips. |
+| How | How are the jeans faded? | Slightly faded, giving them a wornin look. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It creates a casual, relaxed setting rather than a provocative or seductive one. |

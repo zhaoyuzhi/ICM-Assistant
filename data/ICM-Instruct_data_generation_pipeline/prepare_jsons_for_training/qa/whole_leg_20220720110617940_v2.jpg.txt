@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Are the shorts black and white in color? | Yes. |
+| Yes/No | Does the blouse have a collared neckline? | Yes. |
+| Yes/No | Are the sleeves of the blouse long? | Yes. |
+| Yes/No | Is the purse black and gold? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color are the shorts? | Black and white. |
+| What | What is the color of the blouse? | Beige. |
+| How | How many sleeves does the blouse have? | Long sleeves. |
+| What | What is the color of the purse? | Black and gold. |

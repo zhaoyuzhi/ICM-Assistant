@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a shiny skirt? | Yes. |
+| Yes/No | Does the skirt reach down to the woman's ankles? | Yes. |
+| Yes/No | Is the skirt made of silk or satin? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the background of the image plain and white? | Yes. |
+| What | What is the color of the woman's top? | Blue. |
+| What | What is the material of the woman's skirt? | Shiny material (possibly silk or satin). |
+| How | How is the woman standing in the image? | With her hands on her hips. |
+| How | How does the woman's pose suggest confidence and self-assuredness? | Her stance is relaxed and her hands are on her hips, indicating a sense of confidence and selfassuredness. |

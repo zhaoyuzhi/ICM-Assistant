@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the jeans faded? | Yes. |
+| Yes/No | Does the person have their belly exposed? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What is the distinctive feature of the back pocket of the jeans? | A hole. |
+| How | How does the person's exposed belly contribute to the overall atmosphere of the image? | It adds a sense of intimacy and vulnerability. |
+| How | How does the image convey a sense of ease and comfort? | The casual and relaxed atmosphere, along with the person's comfortable posture and the wornin look of the jeans, convey a sense of ease and comfort. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are the jeans ripped or torn? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Is the image casual and relaxed? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What is the person's attire accessory? | A white shirt. |
+| How | How are the jeans frayed? | They are frayed at the ends, adding a rugged and casual look to the outfit. |
+| How | How does the image convey a sense of ease and comfort? | The image conveys a sense of ease and comfort through the casual and relaxed atmosphere, the person's exposed belly, and the combination of the ripped jeans and white shirt. |

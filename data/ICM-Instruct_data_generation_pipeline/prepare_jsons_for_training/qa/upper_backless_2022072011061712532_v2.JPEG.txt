@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a yellow sports bra? | Yes. |
+| Yes/No | Are the person's arms raised? | No. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the person's back covered? | No. |
+| Yes/No | Is the person's stance tense or relaxed? | Relaxed. |
+| What | What is the primary color of the person's leggings? | Blue. |
+| What | What is the person's pose or stance in the image? | Relaxed, with hands on hips. |
+| How | How is the person's back exposed in the image? | The person's back is exposed due to the type of clothing they are wearing (a yellow sports bra). |
+| How | How does the image create an atmosphere of confidence and allure? | The image creates an atmosphere of confidence and allure through the combination of the person's casual stance, the revealing outfit, and the contrast between the bright yellow sports bra and the blue leggings. The white wall in the background further emphasizes the person's figure and the colors of their clothing. |

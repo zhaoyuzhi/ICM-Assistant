@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a peach-colored blouse? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman's attire wet? | Yes. |
+| Yes/No | Is the peach blouse sheer? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the beige wall in the background a neutral backdrop? | Yes. |
+| What | What color is the woman's blouse? | Peach. |
+| What | What is the woman's hair color? | Black. |
+| How | How does the woman's wet clothes contribute to the image's atmosphere? | They add a sense of intimacy and vulnerability. |
+| How | How does the peach blouse add to the image's sensuality? | It creates a contrast with the woman's black hair and adds a touch of allure. |

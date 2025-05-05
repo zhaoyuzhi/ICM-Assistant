@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the dress midriff-baring? | Yes. |
+| Yes/No | Is the woman wearing a necklace with a pendant? | Yes. |
+| Yes/No | Is the dress white? | Yes. |
+| Yes/No | Does the dress have a sequined pattern? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| What | What is the woman's pose in the image? | She is smiling and looking off to the side. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is sexy due to the woman's attire and her pose. |
+| How | How does the strapless dress contribute to the sexy atmosphere of the image? | The strapless dress is a midriffbaring outfit, which is often associated with a sense of allure and glamour, contributing to the sexy atmosphere. |
+| How | How do the sequined pattern and white color of the dress contribute to the sexy atmosphere? | The sequined pattern and white color of the dress add to the overall glamour and allure of the image, contributing to the sexy atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the woman carrying a towel? | Yes. |
+| Yes/No | Does the woman have a purse slung over her shoulder? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of the woman's beach outing? | Yes. |
+| What | What color is the woman's bikini? | Yellow. |
+| What | What is the woman carrying in her hand? | A towel. |
+| How | How is the woman's demeanor in the image? | Confident and carefree. |
+| How | How does the beach setting enhance the image? | It adds a sense of natural beauty and serenity, which enhances the overall allure of the image. |

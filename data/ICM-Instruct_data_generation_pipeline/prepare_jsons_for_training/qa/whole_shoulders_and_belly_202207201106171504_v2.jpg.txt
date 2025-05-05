@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the background plain and white? | Yes. |
+| Yes/No | Is the woman dressed in a casual yet stylish outfit? | Yes. |
+| Yes/No | Does the outfit include a crop top and shorts? | Yes. |
+| Yes/No | Are the woman's arms resting at her sides? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the color of the denim jumpsuit? | Blue. |
+| What | What is the woman's pose in the image? | Relaxed. |
+| How | How is the woman's midriff revealed in the image? | The crop top is cropped at the waist. |
+| How | How are the woman's knees revealed in the image? | The shorts are cropped at the knee. |

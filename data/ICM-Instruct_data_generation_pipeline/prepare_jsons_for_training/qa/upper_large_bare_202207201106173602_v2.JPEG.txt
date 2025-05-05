@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the image taking place on a beach? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the image feature a mountain in the background? | Yes. |
+| Yes/No | Is the bikini top orange? | Yes. |
+| Yes/No | Is the bikini bottom orange with a white logo? | Yes. |
+| What | What is the color of the bikini top? | Orange. |
+| What | What is the color of the bikini bottom? | Orange with a white logo. |
+| How | How is the woman standing in the image? | She is standing with her feet shoulderwidth apart, facing the camera. |
+| How | How does the image showcase the woman's body? | The image showcases the woman's body in a revealing manner, with her upper body exposed and her curves accentuated by the bikini. |

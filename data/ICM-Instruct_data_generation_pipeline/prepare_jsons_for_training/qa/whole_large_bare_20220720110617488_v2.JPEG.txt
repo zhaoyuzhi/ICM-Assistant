@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | Yes. |
+| Yes/No | Are the women in the image wearing bikinis? | Yes. |
+| Yes/No | Is the woman in the center of the group wearing a green bikini? | Yes. |
+| Yes/No | Are the women posing for a photo? | Yes. |
+| Yes/No | Are any of the women wearing sunglasses? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| What | What are the women in the image wearing? | Bikinis. |
+| What | What is the color of the woman's bikini in the center of the group? | Green. |
+| How | How are the women posing in the image? | Confidently. |
+| How | How are the bikinis associated with the setting of the image? | Beach or poolside. |

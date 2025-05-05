@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink one-piece swimsuit? | Yes. |
+| Yes/No | Is the swimsuit revealing? | Yes. |
+| Yes/No | Does the woman have a coquettish face printed on her swimsuit? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the woman pose in various ways, including sitting on a couch and standing? | Yes. |
+| Yes/No | Does the pink swimsuit attract attention? | Yes. |
+| What | What is the color of the swimsuit? | Pink. |
+| What | What is the woman's demeanor, according to her facial expression printed on the swimsuit? | Coquettish. |
+| How | How is the woman posing in the image? | The woman is posing in various ways, including sitting on a couch and standing. |
+| How | How can the combination of the woman's attire and her poses be perceived? | The combination of the woman's attire and her poses can be perceived as seductive. |

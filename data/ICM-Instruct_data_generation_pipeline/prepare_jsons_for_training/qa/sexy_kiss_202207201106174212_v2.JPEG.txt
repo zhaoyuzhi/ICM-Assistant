@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man and woman in the image standing close to each other? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Is the woman's head resting on the man's shoulder? | Yes. |
+| What | What color is the man's shirt? | Yellow. |
+| What | What color is the woman's shirt? | White. |
+| How | How are the man and woman holding each other? | The man's arms are wrapped around the woman, pulling her close to him, while the woman's arms are wrapped around the man's neck, pulling him closer to her. |
+| How | How does the image evoke feelings? | The image evokes feelings of desire and passion, making it a sexy and captivating image. |

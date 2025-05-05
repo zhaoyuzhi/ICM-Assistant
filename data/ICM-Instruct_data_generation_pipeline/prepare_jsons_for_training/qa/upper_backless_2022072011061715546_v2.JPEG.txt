@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink bikini? | Yes. |
+| Yes/No | Are the straps of the bikini thin? | Yes. |
+| Yes/No | Is the bikini tied in a bow at the back? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Does the bikini reveal a large area of the person's back? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the bikini? | Pink. |
+| What | What is the material of the chair in the background? | Wicker. |
+| How | How are the straps of the bikini designed? | Thin. |
+| How | How is the bikini tied at the back? | In a bow. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing glasses? | Yes. |
+| Yes/No | Is the man in the image sitting on a chair? | Yes. |
+| Yes/No | Is the image taken in a park? | Yes. |
+| Yes/No | Is the atmosphere of the image calm and serene? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man in the image wearing? | A white shirt and glasses. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| How | How is the man in the image sitting? | In a relaxed posture. |
+| How | How was the image taken? | In a quiet, peaceful environment. |

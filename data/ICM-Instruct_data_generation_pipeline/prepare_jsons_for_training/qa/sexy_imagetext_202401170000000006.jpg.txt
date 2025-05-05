@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a red shirt? | Yes. |
+| Yes/No | Are the man and woman in a close embrace? | Yes. |
+| Yes/No | Is the man holding the woman against a door? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Does the image portray a romantic and intimate moment between the man and woman? | Yes. |
+| What | What is the man wearing in the image? | A white shirt. |
+| What | What is the woman wearing in the image? | A red shirt. |
+| How | How is the man holding the woman in the image? | He is holding her against a door. |
+| How | How does the image create a sense of intimacy and passion? | Through the close proximity and body language of the man and woman, as well as the warm and romantic atmosphere. |

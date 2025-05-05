@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the medical device have a screen? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the woman's posture neutral? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color is the medical device? | White. |
+| What | What is the woman's facial expression? | Neutral. |
+| How | How is the medical device connected to the woman's body? | With a small, white tube. |
+| How | How does the woman's posture and gaze contribute to the overall atmosphere of the image? | Her neutral posture and direct gaze create a sense of openness and honesty, contributing to the image's sexy atmosphere. |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman in the image standing with her hands in her pockets? | Yes. |
+| Yes/No | Does the woman in the image have a medical device attached to her belly? | Yes. |
+| Yes/No | Is the medical device a continuous glucose monitor? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image showcase the woman's body in a confident and unapologetic manner? | Yes. |
+| What | What color is the woman's shirt? | Blue. |
+| What | What type of medical device is attached to the woman's belly? | Continuous glucose monitor. |
+| How | How is the woman standing in the image? | With her hands in her pockets. |
+| How | How does the image make the woman's body look? | Confident and unapologetic. |

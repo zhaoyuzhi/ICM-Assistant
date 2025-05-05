@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sweatshirt? | Yes. |
+| Yes/No | Are the person's sweatpants black? | Yes. |
+| Yes/No | Does the person have white sneakers with blue accents? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and serene? | Yes. |
+| What | What color are the person's sneakers? | White with blue accents. |
+| What | What is the person's attire in the image? | White sweatshirt and black sweatpants. |
+| How | How are the person's sneakers colored? | White with blue accents. |
+| How | How would you describe the person's movement in the image? | Not specified in the description. |

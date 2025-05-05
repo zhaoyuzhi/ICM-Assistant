@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Is the woman adjusting the straps of the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy? | Yes. |
+| Yes/No | Does the image portray a sense of vulnerability? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What color is the bra? | White. |
+| How | How is the woman adjusting the straps of the bra? | She is holding them with her hands. |
+| What | What atmosphere does the image create? | A sexy atmosphere. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Is the woman holding the straps of the bra with her hands? | Yes. |
+| Yes/No | Is the woman undressing in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy and vulnerability? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What is the color of the bra? | White. |
+| How | How is the woman adjusting the bra? | She is holding the straps with her hands. |
+| How | How does the image portray the act of wearing a bra? | It portrays it as a form of selfexpression and confidence. |

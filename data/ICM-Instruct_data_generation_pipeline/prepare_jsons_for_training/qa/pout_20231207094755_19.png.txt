@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image making a pouting face? | Yes. |
+| Yes/No | Is the woman's hair long and curly? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards? | Yes. |
+| Yes/No | Is the image seductive? | Yes. |
+| Yes/No | Does the woman's pouting expression suggest confidence? | Yes. |
+| Yes/No | Does the image create a sense of connection between the viewer and the woman? | Yes. |
+| What | What is the woman's facial expression in the image? | Pouting. |
+| What | What is the woman's hair style in the image? | Curly. |
+| How | How does the woman's upward gaze contribute to the image's overall effect? | It creates a sense of connection between the viewer and the woman, adding to the image's seductive atmosphere. |
+| How | How does the woman's pouting expression contribute to the image's overall effect? | It adds to the overall allure of the image, suggesting confidence and seductiveness. |

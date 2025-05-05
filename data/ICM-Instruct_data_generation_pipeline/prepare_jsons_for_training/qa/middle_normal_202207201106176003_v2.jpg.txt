@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding an electric knife? | Yes. |
+| Yes/No | Is the person wearing a white shirt and black pants? | Yes. |
+| Yes/No | Is the knife being used to cut a green vegetable? | Yes. |
+| Yes/No | Is the background of the image a gray countertop with a white sink? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and ordinary? | Yes. |
+| What | What is the person in the image cutting? | A green vegetable. |
+| What | What is the color of the cutting board? | White. |
+| How | How is the person holding the knife? | The person is holding the electric knife with both hands, using it to cut the vegetable. |
+| How | How would you describe the exposure level of the image? | Low, focusing on the person's action of cutting the vegetable rather than any potential allure or intrigue. |
+| Yes/No | Is the person in the image holding an electric knife? | Yes. |
+| Yes/No | Is the person wearing a white shirt and black pants? | Yes. |
+| Yes/No | Is the knife being used to cut a green vegetable? | Yes. |
+| Yes/No | Is the cutting board white? | Yes. |
+| Yes/No | Is the background of the image a kitchen counter with a black and white checkered pattern? | Yes. |
+| Yes/No | Does the image depict a sensual or provocative scene? | No. |
+| What | What is the person in the image cutting? | A green vegetable. |
+| What | What is the color of the cutting board? | White. |
+| How | How is the person holding the knife? | The person is holding the electric knife with both hands, using it to cut the vegetable. |
+| How | How would you describe the atmosphere of the image? | The atmosphere of the image is calm and ordinary, with a focus on the task at hand rather than the person's appearance or body language. |

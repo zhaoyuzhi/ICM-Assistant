@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Are the person's eyes visible in the image? | No. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| Yes/No | Is the person in the image wearing any jewelry or accessories? | No. |
+| Yes/No | Does the image have a bright or light-hearted atmosphere? | No. |
+| Yes/No | Is the image in black and white or color? | Color. |
+| What | What is the main focus of the image? | The person's mouth and teeth. |
+| What | What is the facial expression of the person in the image? | Not clearly visible. |
+| How | How is the person's tongue positioned in the image? | Visible and relaxed. |
+| How | How does the close-up nature of the image contribute to its overall atmosphere? | It creates a more intimate and sensual atmosphere. |

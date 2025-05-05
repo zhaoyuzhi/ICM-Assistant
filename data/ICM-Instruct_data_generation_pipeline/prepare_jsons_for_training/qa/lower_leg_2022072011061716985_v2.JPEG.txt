@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing high heels? | Yes. |
+| Yes/No | Is the person naked from the waist down? | Yes. |
+| Yes/No | Is the chair positioned in front of a plant? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the person's attire in the image? | A black dress and black high heels. |
+| What | What is the person's pose in the image? | Sitting on a chair with legs crossed. |
+| How | How does the person's attire contribute to the image's sensuality? | The black dress and high heels create an alluring and elegant appearance. |
+| How | How does the image's atmosphere enhance its sensuality? | The fact that the person is naked from the waist down and the plant in the background add a sense of intimacy to the scene, making the overall atmosphere seductive and alluring. |

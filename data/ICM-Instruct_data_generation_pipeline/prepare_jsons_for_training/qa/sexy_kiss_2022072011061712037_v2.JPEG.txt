@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the couple passionately kissing? | Yes. |
+| Yes/No | Are the woman's hands on the man's chest? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and romantic? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and romance? | Yes. |
+| What | What is the color of the man's shirt? | Black. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How are the couple locked in an embrace? | They are making out in a passionate manner, with the woman's hands on the man's chest. |
+| How | How does the image suggest a strong emotional connection between the couple? | The couple's close proximity and the way they are making out suggest a strong emotional connection and a deep desire for each other. |

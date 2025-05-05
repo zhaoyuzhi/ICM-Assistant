@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray sports bra? | Yes. |
+| Yes/No | Are they wearing gray leggings? | Yes. |
+| Yes/No | Is the person's back to the camera? | Yes. |
+| Yes/No | Is the person holding a phone in their right hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person appear confident in their own skin? | Yes. |
+| What | What color is the person's sports bra? | Gray. |
+| What | What is the person possibly doing with their phone? | Taking a selfie or checking their phone. |
+| How | How is the person standing in the image? | With their back to the camera. |
+| How | How does the person appear to be feeling based on their expression and body language? | Confident and alluring. |

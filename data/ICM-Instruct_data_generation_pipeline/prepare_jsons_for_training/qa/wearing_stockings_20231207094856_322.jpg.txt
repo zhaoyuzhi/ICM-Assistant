@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Are the stockings being put on by the person beige? | Yes. |
+| Yes/No | Is the person's left leg crossed over their right leg? | Yes. |
+| Yes/No | Are the person's hands holding the stockings in place? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their legs? | Shorts and stockings. |
+| What | What is the color of the person's shorts? | Black and white polka dot. |
+| How | How is the person holding the stockings in place? | With their hands. |
+| How | How would you describe the atmosphere of the image? | Intimate and sensual. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Are the stockings beige? | Yes. |
+| Yes/No | Is the person's leg crossed? | Yes. |
+| Yes/No | Are the person's hands holding the stockings in place? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the polka dots on the shorts? | Black and white. |
+| What | What is the person doing in the image? | Putting on a pair of beige stockings. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the person look while putting on the stockings? | Confident and in control. |

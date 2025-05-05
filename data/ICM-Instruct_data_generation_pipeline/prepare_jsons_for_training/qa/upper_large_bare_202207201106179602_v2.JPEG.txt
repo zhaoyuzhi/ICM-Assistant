@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image holding a gun? | Yes. |
+| Yes/No | Does the woman in the image have her upper body exposed? | Yes. |
+| Yes/No | Are sunglasses being worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman's hat a cowboy hat? | Yes. |
+| Yes/No | Does the image atmosphere feel sexy? | Yes. |
+| What | What is the design of the woman's bikini top? | American flag. |
+| What | What is the woman in the image holding in her right hand? | Gun. |
+| How | How does the woman's revealing attire contribute to the image's atmosphere? | It adds a sense of allure and playfulness. |
+| How | How does the presence of the gun add to the atmosphere of the image? | It adds an element of mystery and danger. |

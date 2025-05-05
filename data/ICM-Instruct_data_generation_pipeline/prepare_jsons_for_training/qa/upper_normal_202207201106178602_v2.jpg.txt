@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the woman in the image have her hand on her chin? | Yes. |
+| Yes/No | Is the image's exposure level low? | Yes. |
+| Yes/No | Does the image contain explicit content or nudity? | No. |
+| Yes/No | Does the woman pose suggestively or provocatively? | No. |
+| Yes/No | Does the image feature an inappropriate atmosphere? | No. |
+| What | What is the young woman in the image wearing? | A white shirt. |
+| What | What is the atmosphere of the picture? | Calm and serene. |
+| How | How is the woman posing in the image? | With her hand on her chin. |
+| How | How would you describe the image's overall mood? | Peaceful and innocent. |

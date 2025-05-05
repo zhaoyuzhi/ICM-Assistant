@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress soaked? | Yes. |
+| Yes/No | Is the woman laying on the floor? | Yes. |
+| Yes/No | Is her head resting on her hand? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the image alluring? | Yes. |
+| What | What is the woman's pose in the image? | Her head is resting on her hand. |
+| What | What is the suggestion from the woman's soaked dress? | She has been in the water or has recently taken a bath. |
+| How | How does the woman's attire contribute to the seductive atmosphere of the image? | Her white dress is soaked, giving her a fresh and alluring appearance. |
+| How | How does the woman's pose contribute to the seductive atmosphere of the image? | Her pose, with her head resting on her hand, adds to the intimacy and allure of the image. |

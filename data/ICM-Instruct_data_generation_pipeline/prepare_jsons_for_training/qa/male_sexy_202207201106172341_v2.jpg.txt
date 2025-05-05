@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing against a white background? | Yes. |
+| Yes/No | Are the man's arms relaxed at his sides? | Yes. |
+| Yes/No | Is the man wearing swim trunks? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man have a sense of casual confidence and relaxation? | Yes. |
+| What | What is the man wearing? | A pair of blue and white swim trunks. |
+| What | What is the color of the man's swim trunks? | Blue and white. |
+| How | How is the man standing in the image? | With his arms relaxed at his sides. |
+| What | What atmosphere does the image create? | A sense of allure and intrigue. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black tank top? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the red carpeted floor add a touch of luxury and glamour to the scene? | Yes. |
+| Yes/No | Does the black tank top give the image a modern and stylish feel? | Yes. |
+| What | What is the woman's hair color? | Black. |
+| What | What is the color of the carpeted floor? | Red. |
+| How | How is the woman's facial expression? | Serious. |
+| How | How does the woman's biting her lip create a sense of intensity and confidence? | It creates a sense of intensity and confidence because it is a common gesture that can be perceived as sexy. |

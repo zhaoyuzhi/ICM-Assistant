@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the subjects in the image smiling? | No. |
+| Yes/No | Is the image taken indoors? | No. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the image blurry? | Yes. |
+| Yes/No | Is the image a close-up shot? | No. |
+| What | What is the main color of the man's shirt? | Blue. |
+| What | What is the main color of the wall in the background? | White. |
+| How | How are the subjects standing in relation to each other? | The two girls are standing side by side, while the man is standing slightly behind them. |

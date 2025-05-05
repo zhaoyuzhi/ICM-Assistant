@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the woman wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman's hair short? | No. |
+| Yes/No | Is the woman smiling? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the woman's facial expression? | Thoughtful. |
+| What | What color is the woman's shirt? | Blue. |
+| How | How is the woman's hair styled? | Long. |
+| How | How is the woman's lip? | Biting. |

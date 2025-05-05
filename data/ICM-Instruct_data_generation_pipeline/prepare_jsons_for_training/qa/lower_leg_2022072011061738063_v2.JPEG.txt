@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Does the person have their legs apart in the image? | Yes. |
+| Yes/No | Is the logo on the shorts white? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the image focused solely on the person and their attire? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person wearing on their feet? | White sneakers. |
+| What | What color is the logo on the shorts? | White. |
+| How | How are the person's legs positioned in the image? | Apart. |
+| What | What element of the image adds an element of detail and intrigue? | The white logo on the shorts. |

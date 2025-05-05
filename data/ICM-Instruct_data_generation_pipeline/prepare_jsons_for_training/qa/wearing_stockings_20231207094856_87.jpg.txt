@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the black stockings being put on over beige knee-high socks? | Yes. |
+| Yes/No | Is the person laying on a bed with white sheets? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with self-care and self-expression? | Yes. |
+| Yes/No | Does the contrast between the beige socks and black stockings add to the visual appeal? | Yes. |
+| What | What color are the stockings being put on over the beige socks? | Black. |
+| What | What is the color of the sheets on the bed that the person is laying on? | White. |
+| How | How does the image convey a sense of confidence and allure? | The image captures a private and intimate moment of the person putting on stockings, which conveys a sense of confidence and allure. |
+| How | How does the contrast between the beige socks and black stockings contribute to the visual appeal of the image? | The contrast creates a striking visual effect, adding to the overall visual appeal of the image. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing beige knee-high socks? | Yes. |
+| Yes/No | Is the person in the image laying on a bed with white sheets? | Yes. |
+| Yes/No | Is the person in the image in the process of putting on their stockings? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and sensuality? | Yes. |
+| Yes/No | Is the act of putting on stockings a form of self-care and self-expression? | Yes. |
+| What | What color are the stockings that the person is wearing? | Black. |
+| What | What color are the socks that the person is wearing? | Beige. |
+| How | How does the contrast between the beige socks and black stockings add to the visual appeal of the image? | It creates a striking visual effect. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes, it does. |

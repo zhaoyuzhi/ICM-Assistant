@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image walking? | Yes. |
+| Yes/No | Is the dress gray? | Yes. |
+| Yes/No | Are the shoes black? | Yes. |
+| Yes/No | Is the person's hair visible? | Yes. |
+| Yes/No | Is the atmosphere of the image calm and peaceful? | Yes. |
+| Yes/No | Does the person appear to be in a state of urgency or tension? | No. |
+| What | What is the person wearing? | A gray dress and black shoes. |
+| What | What is the overall atmosphere of the image? | Calm and peaceful. |
+| How | How is the person's movement depicted in the image? | The person is walking down the street. |
+| How | How does the low exposure level affect the image? | It emphasizes the focus on the person's movement and attire, rather than their physical appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the person looking downwards? | Yes. |
+| Yes/No | Does the door behind the person have a red sign on it? | Yes. |
+| Yes/No | Is the person wearing black and white sneakers? | Yes. |
+| Yes/No | Is the person naked from the thighs down? | Yes. |
+| What | What is the person's attire in the image? | Denim skirt, white shirt, black and white sneakers. |
+| What | What is the color scheme of the image? | Mainly black, white, and red. |
+| How | How is the person standing in the image? | With their legs crossed. |
+| How | How does the red sign on the door contribute to the image's atmosphere? | It adds a pop of color, drawing attention to the person and creating a sense of intrigue. |

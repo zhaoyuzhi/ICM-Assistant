@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a top with a ruffled neckline? | Yes. |
+| Yes/No | Are jeans blue? | Yes. |
+| Yes/No | Is the woman's hand on her hip? | Yes. |
+| Yes/No | Is the image's atmosphere casual and relaxed? | Yes. |
+| Yes/No | Does the woman wear a strapless top, exposing her midriff? | Yes. |
+| Yes/No | Is the woman's pose in the image sexy? | Yes. |
+| What | What type of clothing does the woman have on? | A blue offtheshoulder top and blue jeans. |
+| What | What is the woman carrying? | A purse. |
+| How | How does the woman have her hand? | On her hip. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's legs the main focus of the image? | Yes. |
+| Yes/No | Is the person wearing knee-high socks? | Yes. |
+| Yes/No | Is the person's attire and pose suggestive of a casual, relaxed atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy tone? | Yes. |
+| Yes/No | Is the person's backpack a prominent feature of the image? | No. |
+| What | What is the person in the image wearing on their legs? | A plaid skirt and kneehigh socks. |
+| What | What is the person's pose in the image? | Standing with their legs apart. |
+| How | How does the person's attire and pose suggest a casual, relaxed atmosphere? | The plaid skirt and kneehigh socks add a playful and casual element, while the person's pose suggests confidence and selfassuredness. |
+| How | How does the image convey a sexy tone? | The person's pose and the exposure of their legs create a sexy tone, while the plaid skirt and kneehigh socks add a touch of playfulness. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of a lightweight, flowing fabric? | Yes. |
+| Yes/No | Is the woman lifting her dress? | Yes. |
+| Yes/No | Are her thighs and legs exposed? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the floral pattern on the dress add elegance and femininity to her appearance? | Yes. |
+| What | What is the woman doing in the image? | Lifting her dress. |
+| What | What is the color of the dress? | Pink. |
+| How | How is the fabric of the dress described? | Lightweight, flowing. |
+| How | How does the woman's actions and attire create an atmosphere? | Sensuality and allure. |

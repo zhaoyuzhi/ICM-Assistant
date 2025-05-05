@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman removing her clothes? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman have her hands on her chest? | Yes. |
+| Yes/No | Are the clothes the woman is wearing blue and white? | Yes. |
+| Yes/No | Is the image associated with sensuality and intimacy? | Yes. |
+| What | What is the woman removing from her body? | Her shirt. |
+| What | What is the color of the woman's underwear? | White. |
+| How | How is the woman's underwear different from her shirt? | It's white, and it's simpler and more revealing than her shirt. |
+| What | What atmosphere does the image create? | A sexy atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing any clothing? | Yes. |
+| Yes/No | Is the person in the image wearing shoes? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person's pose in the image casual? | Yes. |
+| Yes/No | Does the image suggest a sense of intimacy or sexuality? | Yes. |
+| Yes/No | Does the person's attire in the image suggest a sense of confidence or self-assuredness? | Yes. |
+| What | What is the person in the image wearing? | Black shorts and brown shoes. |
+| What | What is the person's pose in the image? | Standing with legs apart and feet shoulderwidth apart. |
+| How | How does the image create a sense of atmosphere? | Through the use of a casual pose, minimal clothing, and a relaxed atmosphere. |
+| How | How does the image suggest vulnerability and confidence? | Through the person's pose and attire, which convey a sense of selfassuredness and confidence, while also showcasing their physical attributes in a visually appealing manner. |

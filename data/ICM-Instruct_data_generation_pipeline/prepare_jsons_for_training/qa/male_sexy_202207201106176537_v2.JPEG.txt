@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the man have any tattoos or piercings visible in the image? | No. |
+| Yes/No | Is the man's body hairy? | No. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the man's facial expression neutral or serious? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the man's body pose in the image? | The man is standing with his hands on his hips. |
+| What | What is the color and pattern of the man's swim trunks? | Gray and white patterned. |
+| How | How would you describe the overall atmosphere of the image? | Bold and confident. |
+| How | How does the image make you feel? | It can be perceived as sexy by some viewers. |

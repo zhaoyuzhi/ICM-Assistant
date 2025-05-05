@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the woman's blouse white? | Yes. |
+| Yes/No | Is the bed's comforter floral? | Yes. |
+| Yes/No | Is the image intimate? | Yes. |
+| Yes/No | Does the image feature confidence? | Yes. |
+| Yes/No | Is the image alluring? | Yes. |
+| What | What is the woman's pose on the bed? | Her legs are crossed. |
+| What | What color is the woman's blouse? | White. |
+| How | How are the black stockings and white blouse visually striking? | The contrast between the black stockings and white blouse creates a visually striking image. |
+| How | How does the floral pattern on the bed add to the scene's atmosphere? | The floral pattern on the bed adds a touch of warmth and softness to the scene. |

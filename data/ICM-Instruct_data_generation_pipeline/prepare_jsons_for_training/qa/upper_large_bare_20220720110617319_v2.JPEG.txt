@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the woman posing in a seductive manner? | Yes. |
+| Yes/No | Does the image feature a bed in the background? | Yes. |
+| Yes/No | Is the comforter on the bed pink and white? | Yes. |
+| Yes/No | Does the woman have a blue wig on? | Yes. |
+| What | What color is the woman's bikini top? | Black. |
+| What | What color is the comforter on the bed? | Pink and white. |
+| How | How is the woman posing in the image? | Seductively. |
+| How | How does the blue wig add to the overall atmosphere of the image? | It adds a touch of color and intrigue. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image pouting? | Yes. |
+| Yes/No | Is the woman's hair blonde? | Yes. |
+| Yes/No | Is the woman looking upwards? | Yes. |
+| Yes/No | Does the woman have a playful expression? | Yes. |
+| Yes/No | Does the woman have a seductive expression? | Yes. |
+| Yes/No | Does the image create a flirtatious atmosphere? | Yes. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| What | What is the overall atmosphere of the image? | Flirtatious and alluring. |
+| How | How does the woman's pouting and upward gaze contribute to the image's allure? | It creates a sense of confidence and allure. |
+| How | How does the image's flirtatious nature and the woman's youthful beauty make it captivating? | They make it an enticing and captivating visual. |

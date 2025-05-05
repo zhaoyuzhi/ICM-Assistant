@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Does the woman's dress have a high neckline? | Yes. |
+| Yes/No | Are the woman's sleeves long? | Yes. |
+| Yes/No | Is the woman lying on a bean bag chair? | Yes. |
+| Yes/No | Are the woman's legs crossed? | Yes. |
+| Yes/No | Is the pillow pink? | Yes. |
+| What | What is the color of the woman's dress? | Yellow. |
+| What | What is the color of the pillow? | Pink. |
+| How | How is the woman positioned on the bean bag chair? | She is lying down with her legs crossed and her feet resting on a pillow. |
+| What | What is the atmosphere of the image? | Casual and comfortable, rather than provocative or sensual. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman's hair long and dark? | Yes. |
+| Yes/No | Is the woman's gaze directed off to the side? | Yes. |
+| Yes/No | Does the image create a sense of allure and intrigue? | Yes. |
+| Yes/No | Is the woman's attire and outdoor setting sexy? | Yes. |
+| Yes/No | Does the image suggest that the woman has been in the water or exposed to moisture? | Yes. |
+| What | What is the woman's attire in the image? | A white blouse and long, dark hair. |
+| What | What is the setting of the image? | A garden or park. |
+| How | How does the woman's smile and gaze contribute to the overall atmosphere of the image? | Her slight smile and gaze off to the side create a sense of mystery and intrigue, adding to the overall allure and intimacy of the image. |
+| How | How does the blurred background contribute to the overall atmosphere of the image? | The blurred background creates a sense of intimacy and romanticism, adding to the overall captivating nature of the image. |

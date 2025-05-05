@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the dress sleeveless? | No. |
+| Yes/No | Does the dress have a high neckline? | No. |
+| Yes/No | Is the woman's hair down? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the dress have a pattern or print? | No. |
+| What | What is the color of the dress? | Burgundy. |
+| What | What is the woman's hairstyle in the image? | Ponytail. |
+| How | How is the dress fitted on the woman's body? | Formfitting. |
+| How | How does the woman's back look in the image? | Clear view, revealing a large area of her back. |

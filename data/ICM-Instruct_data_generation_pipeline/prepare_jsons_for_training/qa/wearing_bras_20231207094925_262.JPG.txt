@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman standing in front of a gray background? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy and sensuality? | Yes. |
+| Yes/No | Is the woman's actions and attire suggestive of vulnerability? | Yes. |
+| Yes/No | Does the image reveal a glimpse of the woman's body? | Yes. |
+| Yes/No | Does the neutral and minimalistic setting accentuate the woman's presence? | Yes. |
+| What | What color is the bra the woman is wearing? | Beige. |
+| What | What is the color of the background in the image? | Gray. |
+| How | How does the woman's attire and actions suggest a sense of intimacy and sensuality? | The woman's bra is visible, and she is adjusting the straps, implying a sense of privacy and vulnerability. |
+| How | How does the neutral and minimalistic setting contribute to the overall atmosphere of the image? | The neutral colors create a clean and simple background that draws attention to the woman and her actions, emphasizing the sense of intimacy and sensuality. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Is the woman's attire suggestive of intimacy and sensuality? | Yes. |
+| Yes/No | Does the image portray a vulnerable moment for the woman? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Does the image evoke a sense of allure and sensuality? | Yes. |
+| What | What is the woman doing in the image? | Adjusting her bra straps. |
+| What | What is the color of the bra? | Beige. |
+| How | How does the woman's attire and actions suggest intimacy and sensuality? | The woman's bra and actions suggest a private, intimate moment, and the color and style of the bra contribute to a sense of sensuality. |
+| How | How does the neutral background contribute to the overall atmosphere of the image? | The gray background creates a minimalistic setting that accentuates the woman's presence and the sensual atmosphere of the image. |

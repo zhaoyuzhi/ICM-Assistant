@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink sweatpants? | Yes. |
+| Yes/No | Are her thighs exposed in the image? | Yes. |
+| Yes/No | Is she wearing a pink sweatshirt? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have her hands in her pockets? | Yes. |
+| What | What color are the sweatpants? | Pink. |
+| What | What is the woman's body language in the image? | Casual and relaxed. |
+| How | How are the sweatpants cropped? | Cropped at the knee. |
+| How | How does the image make you feel? | Approachable and inviting. |

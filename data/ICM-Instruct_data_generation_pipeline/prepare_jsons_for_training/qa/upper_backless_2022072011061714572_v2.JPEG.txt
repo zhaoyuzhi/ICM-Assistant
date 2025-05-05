@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress made of a light, flowing material? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun? | Yes. |
+| Yes/No | Is the woman standing near a body of water? | Yes. |
+| Yes/No | Is the sky above the woman cloudy? | Yes. |
+| Yes/No | Does the image have a romantic and intimate atmosphere? | Yes. |
+| What | What is the woman's posture like in the image? | Elegant and confident. |
+| What | What is the woman's hair styled like in the image? | In a bun. |
+| How | How does the large area of the woman's back exposed contribute to the image's atmosphere? | It creates a sense of allure and mystery. |
+| How | How does the cloudy sky and body of water contribute to the image's atmosphere? | They add to the romantic and intimate feel of the image. |

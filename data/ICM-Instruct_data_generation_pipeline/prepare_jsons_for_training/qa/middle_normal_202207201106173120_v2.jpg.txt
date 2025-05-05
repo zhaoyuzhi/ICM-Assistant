@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the image focus on the person's body or intimate areas? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the main focus of the image? | The person's black shorts. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How is the person's outfit described? | Simple, consisting of black shorts and a black shirt. |
+| How | How would you describe the exposure level of the image? | Very low, the person's face is not visible. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the shorts black? | Yes. |
+| Yes/No | Does the person have their arms crossed in front of them? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image reveal any skin or intimate details? | No. |
+| Yes/No | Is the image considered sexy? | No. |
+| What | What is the person wearing on their lower body? | Black shorts with a geometric pattern. |
+| What | What is the focus of the image? | The person's clothing. |
+| How | How are the person's arms positioned in the image? | Crossed in front of them. |
+| How | How would you describe the overall atmosphere of the image? | Simple and straightforward. |

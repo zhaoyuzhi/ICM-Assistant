@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue sweater? | Yes. |
+| Yes/No | Is the woman in the image wearing white underwear? | Yes. |
+| Yes/No | Is the woman in the image standing on a bed with white sheets? | Yes. |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Is the image set in a bedroom? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is taking off her clothes. |
+| What | What is the color of the sweater the woman is wearing? | Blue. |
+| How | How is the woman removing her clothes? | With her hands on her hips. |
+| How | How does the vase of flowers in the background contribute to the atmosphere of the image? | It adds a touch of elegance and sophistication to the scene. |

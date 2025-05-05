@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person dancing on a stage? | Yes. |
+| Yes/No | Are the person's clothes wet? | Yes. |
+| Yes/No | Is the person's hair wet? | Yes. |
+| Yes/No | Are the person's arms outstretched? | Yes. |
+| Yes/No | Is the person's head tilted back? | Yes. |
+| What | What is the person wearing? | A white shirt and black pants. |
+| What | What is the background of the image? | Dark and blurred. |
+| How | How does the person's pose suggest a sense of vulnerability and sensuality? | The person's wet clothes, dynamic pose, and dark background create a sense of vulnerability and sensuality. |
+| How | How does the image create a sense of drama and intensity? | The combination of the person's wet clothes, expressive pose, and dark background create a sense of drama and intensity. The blurred background puts the focus on the person and their actions, adding to the overall drama of the image. |

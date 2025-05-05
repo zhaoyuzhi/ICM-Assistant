@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Does the person have a tropical print design on their shorts? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image evoke a sexy or sensual response? | No. |
+| Yes/No | Is the focus of the image on the person's physical appearance? | No. |
+| What | What is the dominant color of the person's shorts? | Blue and green. |
+| What | What is the style of the tropical print on the shorts? | Relaxed and casual. |
+| How | How does the white background affect the overall atmosphere of the image? | It emphasizes the simplicity of the image, making it less likely to evoke a sexy or sensual response. |
+| How | How does the tropical print on the shorts suggest a certain style? | It suggests a relaxed and casual style, rather than a provocative or seductive one. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Are the shorts primarily blue and green? | Yes. |
+| Yes/No | Does the person's shirt contrast with the colors of the shorts? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the image sexually suggestive or explicit? | No. |
+| Yes/No | Does the person's attire include a tropical print? | Yes. |
+| What | What is the primary color of the person's shorts? | Blue. |
+| What | What is the secondary color of the person's shorts? | Green. |
+| How | How does the person's shirt contrast with the colors of the shorts? | It is white, which creates a stark contrast with the vibrant colors of the shorts. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed, with a focus on the person's attire rather than their appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman's attire revealing? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's haircut short? | Yes. |
+| Yes/No | Is the dress black? | Yes. |
+| Yes/No | Is the neckline of the dress plunging? | Yes. |
+| What | What is the color of the woman's hair? | Dark brown. |
+| What | What is the woman's attire? | A black dress with a plunging neckline. |
+| How | How is the woman standing in the image? | She is standing with her back to the camera, facing to the left. |
+| How | How does the woman's haircut complement her outfit? | It complements her outfit by adding a touch of elegance and sophistication. |

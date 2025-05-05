@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a red shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Are the man's hands gently placed on the woman's face? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and romantic? | Yes. |
+| What | What is the color of the man's shirt? | Red. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How are the couple's hands positioned in the image? | The man's hands are gently placed on the woman's face, while the woman's arms are wrapped around the man's neck. |
+| How | How would you describe the overall atmosphere of the image? | Intimate and romantic, with a strong emotional connection between the couple. |

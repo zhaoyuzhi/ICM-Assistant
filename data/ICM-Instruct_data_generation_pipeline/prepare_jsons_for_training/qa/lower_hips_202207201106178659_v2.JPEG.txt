@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image kneeling? | Yes. |
+| Yes/No | Is the person's backside visible? | Yes. |
+| Yes/No | Are they wearing a sports bra? | Yes. |
+| Yes/No | Do they have on leggings? | Yes. |
+| Yes/No | Is the image described as sexy? | Yes. |
+| Yes/No | Do the colors yellow and black appear in the image? | Yes. |
+| What | What color are the leggings? | Yellow. |
+| What | What is the primary color of the sports bra? | Black. |
+| Yes/No | Is the person's display of their buttocks deliberate? | Yes. |
+| Yes/No | Does the image create a provocative atmosphere? | Yes. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the pants the person is wearing white? | Yes. |
+| Yes/No | Is the shirt unbuttoned? | Yes. |
+| Yes/No | Are the pants soaked? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the person in the image wearing? | A white shirt and white pants. |
+| What | What is the overall atmosphere of the image? | Sexy. |
+| How | How is the person posing in the image? | The person is standing against a white wall. |
+| How | How does the white background of the image affect the viewer's attention? | It draws the viewer's attention directly to the person and their attire. |

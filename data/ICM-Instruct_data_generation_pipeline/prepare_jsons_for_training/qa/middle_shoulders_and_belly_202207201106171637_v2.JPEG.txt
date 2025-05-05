@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Are they wearing shorts? | Yes. |
+| Yes/No | Is the person holding a ruler? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Are they in the middle of a workout or exercise routine? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability? | Yes. |
+| What | What is the person measuring with the ruler? | Their waist. |
+| What | What does the person's posture and attire suggest about their focus? | That they are focused on their physical fitness and health. |
+| How | How does the person's decision to expose their belly and measure their waist reflect their commitment to fitness? | It suggests a strong commitment to their fitness journey and a desire to maintain a healthy lifestyle. |
+| How | How does the image convey a sense of confidence and determination? | The combination of athletic attire and the act of measuring their waist creates a sense of confidence and determination. |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Are they wearing shorts? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Are they holding a ruler? | Yes. |
+| Yes/No | Is the ruler being used to measure their waist? | Yes. |
+| Yes/No | Does the image convey a sense of self-assuredness and confidence? | Yes. |
+| What | What is the person measuring their waist with? | A ruler. |
+| What | What is the color of the sports bra? | Purple. |
+| How | How is the person holding the ruler? | At their waist level. |
+| What | What does the person's posture and attire suggest about their setting? | Casual, athletic setting. |

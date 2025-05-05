@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless black dress? | Yes. |
+| Yes/No | Is the woman holding a bouquet of flowers? | Yes. |
+| Yes/No | Does the dress reveal the woman's midriff? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's outfit elegant? | Yes. |
+| What | What is the woman holding in her hand? | A bouquet of flowers. |
+| What | What color is the woman's dress? | Black. |
+| How | How is the woman's dress fitting on her body? | Formfitting. |
+| How | How does the bouquet of flowers add to the image's atmosphere? | It adds a touch of elegance and femininity to the woman's appearance. |

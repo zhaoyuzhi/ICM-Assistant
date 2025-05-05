@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the person in the image have long black hair? | Yes. |
+| Yes/No | Is the person in the image holding their finger in their mouth? | Yes. |
+| Yes/No | Is the facial expression of the person in the image visible? | No. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Are the person's actions in the image associated with sensuality and intimacy? | Yes. |
+| What | What is the person in the image holding in their mouth? | Their finger. |
+| What | What is the color of the person's shirt in the image? | Black. |
+| How | How does the person's gesture of holding their finger in their mouth contribute to the image's atmosphere? | It creates a feeling of intimacy and allure. |
+| How | How do the person's black shirt and long black hair enhance the image's atmosphere? | They add to the seductive and alluring nature of the image. |

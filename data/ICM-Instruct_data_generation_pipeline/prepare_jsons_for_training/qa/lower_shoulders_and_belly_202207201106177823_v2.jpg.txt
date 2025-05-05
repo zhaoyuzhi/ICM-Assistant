@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing navy blue leggings? | Yes. |
+| Yes/No | Is the person in the image wearing white sneakers? | Yes. |
+| Yes/No | Does the image feature the person's belly exposed? | Yes. |
+| Yes/No | Is the atmosphere in the image casual and relaxed? | Yes. |
+| Yes/No | Are the person's clothes revealing? | Yes. |
+| Yes/No | Does the image exude confidence and allure? | Yes. |
+| What | What color are the leggings in the image? | Navy blue. |
+| What | What type of shoes is the person wearing in the image? | White sneakers. |
+| How | How does the image make you feel? | Sexy. |
+| What | What emotion does the image evoke? | Confidence and allure. |

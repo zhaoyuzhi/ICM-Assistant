@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman's body fully covered in the image? | No. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive? | Yes. |
+| Yes/No | Does the image convey a sense of relaxation? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the woman wearing in the image? | A blue and white checkered bikini top and bottom. |
+| What | What is the woman resting her head on in the image? | Her hand. |
+| How | How is the woman's body positioned in the image? | She is lying on her stomach with her head resting on her hand. |
+| How | How does the beach setting contribute to the overall atmosphere of the image? | It adds to the sensuality and relaxation of the image. |

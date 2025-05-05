@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Does the woman have a confident and relaxed pose? | Yes. |
+| Yes/No | Is the woman's left hand resting on her hip? | Yes. |
+| Yes/No | Is the woman's right hand lightly touching her thigh? | Yes. |
+| Yes/No | Are the shorts tied at the waist with a bow? | Yes. |
+| What | What color are the shorts? | Beige. |
+| What | What is the woman's pose suggestive of? | Confidence and allure. |
+| How | How are the shorts tied at the waist? | With a bow. |
+| How | How does the blue background contrast with the beige shorts? | It provides a cool and calming contrast. |

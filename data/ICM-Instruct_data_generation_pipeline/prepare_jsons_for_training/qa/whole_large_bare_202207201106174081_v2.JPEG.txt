@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image smoking a cigarette? | Yes. |
+| Yes/No | Is the woman in the image sitting on a bathtub? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and provocative? | Yes. |
+| Yes/No | Does the image feature a beautiful woman in a bikini top? | Yes. |
+| What | What is the woman holding in her hand in the image? | A cigarette. |
+| What | What is the woman's pose on the bathtub in the image? | Her legs are crossed. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's bikini top and exposed body create a sensual and alluring atmosphere. |
+| How | How does the woman's smoking a cigarette add to the image's intrigue? | The woman's smoking a cigarette adds an element of mystery and intrigue to the image, as it is not a common sight in mainstream media. |

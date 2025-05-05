@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Are the person's blue jeans visible in the image? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image suggest a casual, everyday setting? | Yes. |
+| Yes/No | Is the person's skin visible in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the person's shirt? | Yellow. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the person's belly exposed in the image? | The person's belly is exposed because their shirt is raised or unbuttoned, revealing their bare skin. |
+| How | How does the image create a sense of intimacy and sensuality? | The image creates a sense of intimacy and sensuality because it showcases the person's body in a vulnerable and intimate way, with a closeup view of their skin and a casual, everyday setting. |
+| Yes/No | Is the person in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Is the person's belly the main focus of the image? | Yes. |
+| Yes/No | Are the clothes in the image formal? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the person's shirt? | Yellow. |
+| What | What is the color of the person's pants? | Blue. |
+| How | How is the person's belly exposed in the image? | The person's belly is exposed because their shirt is raised or their pants are lowered, revealing their bare stomach. |
+| How | How does the image make the viewer feel? | The image may make the viewer feel intrigued, attracted, or intimate, as it showcases a person's belly in a minimal yet alluring way. |

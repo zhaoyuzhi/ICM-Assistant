@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gold bikini? | Yes. |
+| Yes/No | Is the woman posing in a suggestive manner? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Is the material of the bikini shiny? | Yes. |
+| Yes/No | Is the woman's left hand on her head? | Yes. |
+| Yes/No | Is the woman's right hand on her hip? | Yes. |
+| What | What is the color of the bikini? | Gold. |
+| What | What is the material of the bikini? | Possibly silk or lycra. |
+| How | How is the woman posing in the image? | With her left hand on her head and her right hand on her hip. |
+| How | How does the image make you feel? | It creates a sense of sensuality and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| How | Is the woman in the shower? | Yes. |
+| Yes/No | Is the woman naked? | No. |
+| Yes/No | Is the woman's dress see-through? | No. |
+| How | Is the woman's hand on the shower handle? | No. |
+| How | Is the shower wall made of glass? | No. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| What | What is the woman doing with her left hand? | Her left hand is placed on the wall. |
+| What | What is the woman's facial expression? | Not specified in the description. |
+| How | How is the woman standing in relation to the shower wall? | She is standing in front of it. |
+| How | How does the woman's right hand rest on her hip? | It is placed gracefully. |

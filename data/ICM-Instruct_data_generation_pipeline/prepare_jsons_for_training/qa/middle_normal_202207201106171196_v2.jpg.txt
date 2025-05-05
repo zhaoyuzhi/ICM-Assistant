@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin wearing a pair of khaki shorts? | Yes. |
+| Yes/No | Does the mannequin have a drawstring waist? | Yes. |
+| Yes/No | Are the shorts made of a lightweight fabric? | Yes. |
+| How | Is the mannequin positioned to showcase the shorts from the front and side? | Yes. |
+| Yes/No | Is the atmosphere of the image neutral and focused on the clothing item? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the mannequin wearing? | A pair of khaki shorts. |
+| What | What is the material of the shorts? | Lightweight fabric. |
+| How | How is the mannequin positioned in the image? | The mannequin is positioned to showcase the shorts from the front and side. |
+| How | How would you describe the atmosphere of the image? | Neutral and focused on the clothing item. |
+| Yes/No | Is the mannequin wearing shorts? | Yes. |
+| Yes/No | Does the mannequin have a drawstring waist? | Yes. |
+| Yes/No | Is the fabric of the shorts lightweight? | Yes. |
+| Yes/No | Are the shorts designed for warm weather? | Yes. |
+| Yes/No | Does the mannequin have its hands in its pockets? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and comfortable? | Yes. |
+| What | What is the mannequin wearing? | Khaki shorts. |
+| What | What is the focus of the image? | The mannequin wearing the khaki shorts. |
+| How | How is the fit of the shorts customized? | The shorts have a drawstring waist, allowing for a customizable fit. |
+| How | How would you describe the overall atmosphere of the image? | Casual and comfortable. |

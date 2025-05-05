@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the person have dark hair? | Yes. |
+| Yes/No | Is the person's facial expression clearly visible? | No. |
+| Yes/No | Is the person holding their finger in their mouth? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Are the person's hand and finger in their mouth the main focus of the image? | Yes. |
+| What | What is the person wearing? | A black shirt. |
+| What | What is the color of the person's hair? | Dark hair. |
+| How | How is the person holding their finger in their mouth? | The person is holding their finger in their mouth with their hand. |
+| How | How does the image make you feel? | The image may give a sexy feel because of the person's hand and finger in their mouth. |

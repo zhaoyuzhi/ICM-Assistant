@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of olive green cargo pants? | Yes. |
+| Yes/No | Is the person's pose suggestive or explicit? | No. |
+| Yes/No | Does the image depict a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the person's attire neutral and non-sexual? | Yes. |
+| Yes/No | Does the image evoke any sexual connotations? | No. |
+| What | What color are the person's cargo pants? | Olive green. |
+| What | What is the person's pose in the image? | Standing with hands placed on hips. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The person's attire contributes to a casual and nonsexual atmosphere. |
+| How | How does the image's focus on the person's clothing and pose rather than explicit or suggestive content affect the overall mood of the image? | The focus on the person's clothing and pose creates a neutral and relaxed mood. |
+| Yes/No | Is the person in the image wearing cargo pants? | Yes. |
+| Yes/No | Is the person in the image standing with their hands on their hips? | Yes. |
+| Yes/No | Is the image sexually suggestive or provocative? | No. |
+| Yes/No | Does the image feature a casual, everyday setting? | Yes. |
+| Yes/No | Is the person in the image posing in a way that suggests a sexy or intimate atmosphere? | No. |
+| How | Does the image have a high exposure level, showing a large portion of the person's body? | No. |
+| What | What color are the person's cargo pants? | Olive green. |
+| What | What is the person's pose in the image? | Standing with hands on hips. |
+| How | How does the person's attire contribute to the casual, non-sexual nature of the image? | The cargo pants are not typically associated with sexy or provocative imagery, and the low exposure level further emphasizes the casual nature of the scene. |
+| How | How does the low exposure level of the image contribute to its non-sexual nature? | The low exposure level means that only a small portion of the person's body is visible, which reduces the potential for sexualization or objectification. |

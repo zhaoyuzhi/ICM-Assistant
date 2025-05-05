@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the woman's leggings black? | Yes. |
+| Yes/No | Is the woman's shirt open at the back? | Yes. |
+| Yes/No | Does the woman have her hands clasped in front of her? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image have a serene and peaceful atmosphere? | Yes. |
+| What | What is the color of the woman's sports bra? | Light blue. |
+| What | What is the color of the woman's leggings? | Black. |
+| How | How is the woman posing in the image? | With her hands clasped in front of her and her fingers slightly spread apart. |
+| How | How does the light blue sports bra and black leggings create a contrast in the image? | They create a contrast between light and dark colors, adding to the visual appeal of the image. |

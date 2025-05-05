@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the person wearing a silver chain necklace? | Yes. |
+| Yes/No | Does the necklace add an element of sophistication to the outfit? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image feature a large area of the person's back? | Yes. |
+| What | What color is the dress? | White. |
+| What | What type of necklace is the person wearing? | Silver chain necklace. |
+| How | How does the combination of the white dress and silver necklace create a contrast? | The contrast between the white dress and silver necklace creates a striking visual difference that draws attention to the person's back and the chain necklace, enhancing the overall allure of the image. |
+| How | How does the person's pose and gaze contribute to the sensual atmosphere of the image? | The person's pose, with their shoulder turned and their gaze directed over their shoulder, adds to the sensual atmosphere of the image by creating a sense of intimacy and allure. |

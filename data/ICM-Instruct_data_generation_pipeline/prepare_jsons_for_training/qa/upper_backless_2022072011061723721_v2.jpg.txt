@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the purse beige? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the white wall in the background provide a stark contrast to the woman and her attire? | Yes. |
+| Yes/No | Is the woman holding her purse in a way that adds to the overall allure of the image? | Yes. |
+| What | What is the main element that draws attention to the woman's body in the image? | Her back and the dress she is wearing. |
+| What | What is the woman doing with her purse in the image? | She is carrying it. |
+| How | How is the woman's back exposed in the image? | Her back is exposed because of the way she is wearing her dress. |
+| How | How does the woman's purse add to the overall allure of the image? | It adds to the overall allure of the image because it is beige and it complements the woman's white dress, and the way she is holding it draws attention to her body. |

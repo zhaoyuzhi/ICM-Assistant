@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the headboard black? | Yes. |
+| Yes/No | Are there two pillows on the bed? | Yes. |
+| Yes/No | Is the comforter gray? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's pants? | Black. |
+| How | How is the person positioned on the bed? | With their legs up in the air. |
+| What | What suggests a sense of confidence and comfort in the image? | The person's attire and the overall atmosphere. |

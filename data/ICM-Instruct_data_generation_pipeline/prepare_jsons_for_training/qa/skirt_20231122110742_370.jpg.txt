@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lifting her dress up? | Yes. |
+| Yes/No | Is the woman wearing silver heels? | Yes. |
+| Yes/No | Is there a mirror in the background of the image? | Yes. |
+| Yes/No | Does the dress have a slit up the front? | Yes. |
+| Yes/No | Is the woman standing on a staircase? | Yes. |
+| Yes/No | Is the woman’s pose sexy? | Yes. |
+| What | What color is the woman’s dress? | Red. |
+| What | What is the color of the woman’s heels? | Silver. |
+| How | How many straps does the woman’s shoe have? | Two. |
+| How | How many elements are in the background of the image? | Two. |

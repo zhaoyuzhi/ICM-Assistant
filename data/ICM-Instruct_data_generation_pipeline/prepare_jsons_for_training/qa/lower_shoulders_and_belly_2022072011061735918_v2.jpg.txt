@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of teal leggings? | Yes. |
+| Yes/No | Is the woman standing in a room with a wooden floor? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a warm tone due to the wooden floor? | Yes. |
+| Yes/No | Is the image sexy because of the woman's confident pose and revealing outfit? | Yes. |
+| What | What color are the leggings? | Teal. |
+| What | What is the woman's pose in the image? | Hands on hips, looking directly at the camera. |
+| How | How do the leggings accentuate the woman's figure? | They are formfitting, which emphasizes her lower body. |
+| How | How does the woman's direct gaze contribute to the image's overall appeal? | It adds a sense of intimacy and directness to the image. |

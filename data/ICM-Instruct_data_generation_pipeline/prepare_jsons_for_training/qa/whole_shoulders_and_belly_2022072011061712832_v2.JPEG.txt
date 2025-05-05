@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the shorts black? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the snake skin pattern on both the top and shorts? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| What | What is the woman's facial expression? | Confident and assertive. |
+| What | What is the main color of the woman's outfit? | Black. |
+| How | How is the woman standing in the image? | With her hands on her hips and her head tilted to the side. |
+| How | How does the snake skin pattern add to the overall mood of the image? | It adds an element of allure and mystery. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink sweater? | Yes. |
+| Yes/No | Are the person's pants white? | Yes. |
+| Yes/No | Does the person have a black belt with a silver buckle? | Yes. |
+| Yes/No | Is there a silver chain on the belt? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and neutral? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What color is the person's sweater? | Pink. |
+| What | What is the person's attire and pose? | Modest, simple, with no provocative elements. |
+| How | How are the person's arms positioned? | Relaxed at their sides. |
+| How | How are the person's legs positioned? | Slightly apart. |
+| Yes/No | Is the person in the image wearing a pink sweater? | Yes. |
+| Yes/No | Are they wearing white pants? | Yes. |
+| Yes/No | Is their head tilted to the side? | Yes. |
+| Yes/No | Are they wearing a black belt with a silver buckle? | Yes. |
+| Yes/No | Is a silver chain attached to the buckle? | Yes. |
+| Yes/No | Is the person's attire and pose suggestive or explicit? | No. |
+| What | What color is the person's sweater? | Pink. |
+| What | What is the person's head gesture? | Tilted to the side. |
+| How | How is the belt fastened around the person's waist? | It is fastened with a silver buckle. |
+| How | How does the chain hang from the buckle? | It hangs down from the buckle. |

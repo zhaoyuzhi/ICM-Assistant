@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a nightgown? | Yes. |
+| Yes/No | Does the nightgown have a deep V-neck? | Yes. |
+| Yes/No | Are the straps of the nightgown thin? | Yes. |
+| Yes/No | Is the woman standing in front of a window? | Yes. |
+| Yes/No | Is there a plant in the foreground of the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What color is the nightgown? | Pink. |
+| What | What material is the nightgown made of? | Satin. |
+| How | How is the woman posing in the image? | She is standing in front of the window with her back to the camera. |
+| How | How does the lace trim add to the elegance of the nightgown? | The lace trim adds a touch of sophistication and elegance to the nightgown, complementing the pink satin material and deep Vneck design. |

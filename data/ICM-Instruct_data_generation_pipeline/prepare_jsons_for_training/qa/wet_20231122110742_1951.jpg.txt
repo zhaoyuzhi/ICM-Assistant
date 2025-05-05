@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman's hair wet in the image? | Yes. |
+| Yes/No | Is the woman looking off to the side with a thoughtful expression? | Yes. |
+| Yes/No | Does the image capture a sense of tranquility? | Yes. |
+| Yes/No | Is the woman's attire sexy? | Yes. |
+| Yes/No | Does the image create a sense of allure and intrigue? | Yes. |
+| What | What is the woman wearing in the image? | A white top and wet hair. |
+| What | What is the background of the image? | A waterfall. |
+| How | How does the woman's attire contrast with the background? | The woman's wet and exposed appearance contrasts with the serene and natural setting of the waterfall in the background, creating a sense of intrigue. |
+| How | How does the image create a sense of intimacy? | The woman's white top, which is soaked with water, reveals her skin and adds a sense of intimacy to the image. |

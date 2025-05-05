@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's clothes wet? | Yes. |
+| Yes/No | Is the person's arm raised? | Yes. |
+| Yes/No | Are the person's shorts wet? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the person's raised arm and visible hand suggest motion or energy? | Yes. |
+| What | What is the person wearing on their lower body? | Shorts. |
+| What | What is the person's arm doing? | Raised. |
+| How | How are the person's clothes wet? | Possibly from sweat or rain. |
+| What | What does the overall atmosphere of the image evoke? | Intimacy, vulnerability, and sensuality. |

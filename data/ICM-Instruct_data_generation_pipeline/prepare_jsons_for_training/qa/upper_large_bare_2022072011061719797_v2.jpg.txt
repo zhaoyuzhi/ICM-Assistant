@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the flag pink? | Yes. |
+| Yes/No | Does the flag have a tiger logo on it? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Is the woman holding a pink towel in her other hand? | Yes. |
+| What | What is the woman holding in her hand besides the flag? | A pink towel. |
+| What | What is the color of the flag? | Pink. |
+| How | How does the woman's pose suggest a sense of fun and enjoyment? | The woman is standing confidently with a slight smile, suggesting she is enjoying herself. |
+| How | How does the overall composition of the image create a relaxing and inviting atmosphere? | The image is wellbalanced with a clear view of the ocean and the woman, creating a sense of calmness and serenity. |

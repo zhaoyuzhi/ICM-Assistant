@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a belt? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| Yes/No | Is the image focused on the person's lower body? | Yes. |
+| Yes/No | Is the image intended to be provocative or sensual? | No. |
+| Yes/No | Does the person in the image have a small pocket on the side of their shorts? | Yes. |
+| What | What color are the shorts in the image? | Olive green. |
+| What | What is the color of the belt in the image? | Brown. |
+| What | What is the exposure level of the image? | Low. |
+| Yes/No | Is the person in the image wearing a pair of olive green cargo shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| Yes/No | Is the focus of the image on the person's body or appearance? | No. |
+| What | What is the color of the cargo shorts? | Olive green. |
+| What | What is the logo on the back of the cargo shorts? | Small. |
+| How | How many pockets do the cargo shorts have? | Multiple. |
+| How | How is the exposure level of the image? | Very low. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Are there two pockets on the front of the skirt? | Yes. |
+| Yes/No | Is the person's pose confident and assertive? | Yes. |
+| How | Does the image showcase the person's body in a sexy manner? | Yes. |
+| What | What color is the skirt? | Beige. |
+| What | What is the color of the person's top? | Black. |
+| How | How does the person's pose suggest self-assuredness? | The person's hands are placed on their hips. |

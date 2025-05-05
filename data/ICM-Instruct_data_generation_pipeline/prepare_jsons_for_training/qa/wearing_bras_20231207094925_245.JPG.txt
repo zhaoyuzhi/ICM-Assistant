@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra made of lace? | Yes. |
+| Yes/No | Is the woman adjusting the straps of the bra? | Yes. |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Is the skirt white? | Yes. |
+| Yes/No | Does the image evoke feelings of intimacy and sensuality? | Yes. |
+| What | What is the woman doing in the image? | Adjusting the straps of her bra. |
+| What | What is the color of the bra and skirt? | White. |
+| How | How is the bra made? | It appears to be made of a delicate lace material. |
+| How | How does the image create an atmosphere of intimacy and sensuality? | Through the woman's actions and attire, which are simple, elegant, and minimalistic, creating a harmonious and alluring look. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra made of lace? | Yes. |
+| Yes/No | Is the woman adjusting the straps of the bra? | Yes. |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Is the skirt white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman doing in the image? | Adjusting her bra. |
+| What | What is the color of the bra and skirt? | White. |
+| How | How is the bra made? | Made of delicate lace. |
+| How | How does the image evoke feelings of intimacy and sensuality? | Through the woman's actions and attire, creating a harmonious and elegant look. |

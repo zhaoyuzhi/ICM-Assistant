@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue and white striped shirt? | Yes. |
+| Yes/No | Is the background of the image red? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Are the man's arms crossed in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and composed? | Yes. |
+| Yes/No | Does the image feature any provocative or suggestive elements? | No. |
+| What | What is the man's pose in the image? | He is standing with his arms crossed. |
+| What | What is the color of the man's shirt in the image? | Blue and white striped. |
+| How | How does the low exposure level of the image contribute to its non-sexual nature? | It limits the viewer's ability to focus on any particular part of the man's body, shifting the focus to the man's overall appearance and posture. |
+| How | How does the red background provide a contrasting backdrop for the man's appearance? | It creates a stark contrast between the man's body and the background, drawing attention to his overall appearance rather than any specific features. |

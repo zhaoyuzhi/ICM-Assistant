@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Are blue jeans being worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman in the image posing in a field? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman's hand on her hip in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's t-shirt in the image? | Black. |
+| What | What is the woman's pose in the image? | Hand on hip. |
+| How | How does the field setting enhance the image's atmosphere? | Provides a natural and open backdrop that enhances the sexy atmosphere. |
+| How | How does the woman's attire contribute to the image's overall appeal? | The strapless tshirt and blue jeans are considered sexy outfits, which contribute to the visually appealing and seductive image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini gray? | Yes. |
+| Yes/No | Does the bikini have a halter neck? | Yes. |
+| Yes/No | Is the woman wearing a gold bracelet? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and relaxation? | Yes. |
+| What | What is the woman's attire in the image? | A gray bikini with a halter neck. |
+| What | What is the woman wearing on her left wrist? | A gold bracelet. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's confident and relaxed pose creates an alluring and seductive atmosphere. |
+| How | How does the image capture the viewer's attention? | The exposure of the woman's upper body and her confident pose captures the viewer's attention and creates an alluring image. |

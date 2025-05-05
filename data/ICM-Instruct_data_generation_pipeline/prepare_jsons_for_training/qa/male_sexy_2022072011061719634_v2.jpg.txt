@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image holding a weight in his right hand? | Yes. |
+| Yes/No | Is the man in the image standing against a white background? | Yes. |
+| What | What is the man in the image holding in his left hand? | His hip. |
+| What | What is the man in the image doing with his right hand? | Holding a weight. |
+| How | How is the man in the image standing? | With his left hand on his hip and his right hand holding a weight. |
+| What | What atmosphere does the image convey? | Strength, fitness, and confidence. |

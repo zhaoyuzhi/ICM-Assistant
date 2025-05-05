@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a purple tank top? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is their back turned towards the camera? | Yes. |
+| Yes/No | Is the person standing on a white pedestal? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the person's clothes casual and comfortable? | Yes. |
+| What | What is the person wearing? | A purple tank top and blue jeans. |
+| What | What is the person's posture in the image? | Standing with their back turned towards the camera. |
+| How | How does the person's back being exposed contribute to the image's atmosphere? | It adds an element of sensuality and confident vulnerability. |
+| How | How does the white pedestal affect the image's overall atmosphere? | It adds an element of height and confidence, contributing to the image's overall alluring and sexy feel. |

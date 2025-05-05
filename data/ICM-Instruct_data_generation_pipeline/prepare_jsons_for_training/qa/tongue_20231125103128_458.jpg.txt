@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink lipstick? | Yes. |
+| Yes/No | Is the woman sticking out her tongue in the image? | Yes. |
+| Yes/No | Does the woman have a serious expression on her face? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards in the image? | Yes. |
+| Yes/No | Is the image a close-up shot of the woman's face and upper body? | Yes. |
+| Yes/No | Does the image have a flirtatious and seductive atmosphere? | Yes. |
+| What | What color is the woman's lipstick in the image? | Pink. |
+| What | What is the woman doing with her tongue in the image? | Sticking it out. |
+| How | How does the woman's expression contrast with her action in the image? | Her serious expression contrasts with the lighthearted action of sticking out her tongue. |
+| How | How does the close-up shot emphasize the woman's features in the image? | It emphasizes her facial features and upper body, drawing attention to her lips and tongue. |

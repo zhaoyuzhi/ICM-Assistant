@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a short sleeve top? | Yes. |
+| Yes/No | Are the woman's shorts rolled up at the bottom? | Yes. |
+| Yes/No | Is the woman's left hand resting on her thigh? | Yes. |
+| Yes/No | Is the woman's right hand on her hip? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's outfit and pose the main focus of the image? | Yes. |
+| What | What color is the woman's top? | Silver. |
+| What | What is the texture of the woman's top? | Textured. |
+| How | How are the woman's shorts rolled up? | They are rolled up at the bottom. |
+| How | How is the woman posing in the image? | She is striking a pose with her left hand on her hip and her right hand resting on her thigh. |

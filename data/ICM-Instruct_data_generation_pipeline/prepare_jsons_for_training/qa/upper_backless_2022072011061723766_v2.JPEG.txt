@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a gray skirt? | Yes. |
+| Yes/No | Does the woman in the image have a large area of her back exposed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman in the image have any jewelry on? | No. |
+| Yes/No | Is the hallway setting simple and uncluttered? | Yes. |
+| What | What is the woman in the image wearing? | A white blouse with a deep Vneck and a gray skirt. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The white blouse with the deep Vneck and gray skirt create an alluring contrast, drawing attention to her back, and the large area of her back exposed adds to the sensuality of the image, revealing her skin and curves. |
+| How | How does the hallway setting contribute to the overall atmosphere of the image? | The simple and uncluttered hallway setting provides a clean background that further emphasizes the woman's attire and the overall atmosphere of the image. |

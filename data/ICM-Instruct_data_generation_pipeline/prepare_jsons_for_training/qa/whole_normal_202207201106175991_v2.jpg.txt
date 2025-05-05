@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sweatshirt? | Yes. |
+| Yes/No | Does the sweatshirt have writing on it? | Yes. |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Is the skirt floral? | Yes. |
+| Yes/No | Does the image have a sexual context or intent? | No. |
+| Yes/No | Is the woman's outfit provocative? | No. |
+| What | What color is the sweatshirt? | Beige. |
+| What | What is the woman's hairstyle? | Not specified (the woman's hair is not visible in the image). |
+| How | How is the woman standing? | Not specified (the woman's pose is not described in the given description). |
+| How | How does the white background contribute to the atmosphere of the image? | It emphasizes the simplicity of the scene and adds to the calm and nonsexual atmosphere. |

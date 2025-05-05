@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the person sitting on a wooden floor? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with sensuality and intimacy? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black stockings. |
+| What | What is the person in the image wearing on their upper body? | A white shirt. |
+| How | How are the stockings being put on? | The person is pulling them up their legs. |
+| What | What kind of atmosphere does the image convey? | Intimate and alluring. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the person sitting on a wooden floor? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image create a contrast in color between the black stockings and white shirt? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the person's shirt? | White. |
+| How | How are the stockings being put on? | The person is pulling them up their legs. |
+| What | What kind of atmosphere does the image convey? | Intimate and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image sitting on a stationary bike? | Yes. |
+| Yes/No | Is the man in the image pedaling the bike? | Yes. |
+| Yes/No | Is the man in the image sweating? | Yes. |
+| Yes/No | Is the man in the image indoors? | Yes. |
+| Yes/No | Is the man in the image looking directly at the camera? | No. |
+| What | What is the man in the image wearing on his lower body? | Black shorts. |
+| What | What is the man in the image doing? | He is pedaling a stationary bike. |
+| How | How is the man in the image exerting himself? | He is straining against the resistance of the bike. |
+| How | How does the image convey a sense of vulnerability? | The man is topless, exposed and focused on his task. |

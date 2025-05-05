@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black bra? | Yes. |
+| Yes/No | Are the straps of the bra thin? | Yes. |
+| Yes/No | Does the bra have a lace trim? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Is the person's hair visible in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the bra? | Black. |
+| What | What is the material of the bra's trim? | Lace. |
+| How | How are the straps of the bra designed? | Thin. |
+| How | How much of the person's back is exposed in the bra? | A large area. |

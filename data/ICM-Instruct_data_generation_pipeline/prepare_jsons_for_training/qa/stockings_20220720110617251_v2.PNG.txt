@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red skirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person's head resting on a pillow? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Is the person's attire provocative or seductive? | Yes. |
+| Yes/No | Does the image depict a sexy scene? | Yes. |
+| What | What color is the skirt the person is wearing? | Red. |
+| What | What is the person's head resting on? | A pillow. |
+| How | How are the person's legs positioned? | Crossed. |
+| How | How does the image create an intimate atmosphere? | Through the use of sensual attire, an intimate setting, and vulnerable body language. |

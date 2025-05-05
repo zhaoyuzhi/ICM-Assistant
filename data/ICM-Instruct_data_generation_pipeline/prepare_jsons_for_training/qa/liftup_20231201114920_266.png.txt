@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a crop top? | Yes. |
+| Yes/No | Is the person in the image wearing pink underwear? | Yes. |
+| Yes/No | Is the person in the image lifting their shirt? | Yes. |
+| Yes/No | Is the person in the image exposing their belly? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image feature natural lighting? | Yes. |
+| What | What is the person in the image lifting their shirt? | Their belly. |
+| What | What is the person in the image wearing? | A white crop top and pink underwear. |
+| How | How is the person in the image standing? | The person is standing with their legs straight and their arms raising their shirt. |
+| How | How does the image feature natural lighting? | The image features natural lighting from a window in the background. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a dress shirt? | Yes. |
+| Yes/No | Are his hands visible in the image? | Yes. |
+| Yes/No | Is he looking directly at the camera? | No. |
+| Yes/No | Are there any explicit elements in the image? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image convey a sexual context? | No. |
+| What | What is the man's facial expression in the image? | Slight smile. |
+| What | What color are the man's pants in the image? | Khaki. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| What | What does the white background of the image suggest? | Focus on the man and his attire, rather than any explicit content. |
+| Yes/No | Is the man in the image wearing a dress shirt? | Yes. |
+| Yes/No | Are his hands visible in the image? | Yes. |
+| Yes/No | Is he looking directly at the camera? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and non-threatening? | Yes. |
+| Yes/No | Does the man have a beard or mustache? | No. |
+| What | What color is the man's belt? | Brown. |
+| What | What is the man's facial expression? | Slight smile. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How would you describe the overall style of the man's outfit? | Casual. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white striped top? | Yes. |
+| Yes/No | Does the woman in the image have long, curly hair? | Yes. |
+| Yes/No | Are her eyes closed? | Yes. |
+| Yes/No | Is her facial expression a pouting gesture? | Yes. |
+| Yes/No | Are the overall atmosphere of the image, seductive and alluring? | Yes. |
+| Yes/No | Can the viewer focus on the woman's facial features and expression? | Yes. |
+| What | What is the woman in the image wearing? | A black and white striped top. |
+| What | What is the woman in the image doing with her lips? | She's making a duck lips expression. |
+| How | How is the woman's hair styled in the image? | It is long and curly. |
+| How | How is the woman expressing herself in the image? | She's expressing a pouty and seductive gesture. |

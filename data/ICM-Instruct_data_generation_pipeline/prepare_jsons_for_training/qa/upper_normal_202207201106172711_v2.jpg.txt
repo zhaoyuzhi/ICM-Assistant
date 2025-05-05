@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the child in the image wearing a shirt with a graphic of a cat? | Yes. |
+| Yes/No | Is the child wearing a stuffed animal on their head? | Yes. |
+| Yes/No | Is the child holding the stuffed animal with both hands? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image feature a sexual or provocative pose? | No. |
+| Yes/No | Is the overall atmosphere of the image light-hearted and playful? | Yes. |
+| What | What is the color of the child's shirt? | Green and yellow. |
+| What | What is the child holding in their hands? | A stuffed animal. |
+| How | How is the child holding the stuffed animal? | With both hands. |
+| How | How would you describe the exposure level of the image? | Very low. |

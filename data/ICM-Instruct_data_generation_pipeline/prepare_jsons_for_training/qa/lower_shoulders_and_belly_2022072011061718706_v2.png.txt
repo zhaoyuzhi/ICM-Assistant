@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing leggings? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the color scheme of the image visually appealing? | Yes. |
+| What | What is the woman wearing on her legs? | Blue leggings with a black stripe. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips. |
+| How | How are the leggings accentuating the woman's figure? | They are formfitting, highlighting her curves. |
+| How | How does the image create a seductive atmosphere? | The woman's confident pose, revealing attire, and exposed belly all contribute to a sensual and alluring effect. |

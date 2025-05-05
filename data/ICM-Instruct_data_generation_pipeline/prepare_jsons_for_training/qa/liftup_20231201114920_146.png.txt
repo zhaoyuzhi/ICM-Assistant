@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lifting their clothes? | Yes. |
+| Yes/No | Are they wearing a black shirt and black pants? | Yes. |
+| Yes/No | Is the person wearing a black jacket? | Yes. |
+| Yes/No | Is the image taken at night? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Does the image have a sexy feel to it? | Yes. |
+| What | What color is the person's shirt and pants? | Black. |
+| What | What is the person lifting their clothes revealing? | Their underwear. |
+| How | How is the person lifting their clothes? | By raising them up. |
+| What | What creates the mysterious and alluring atmosphere in the image? | The nighttime setting and blurred background. |

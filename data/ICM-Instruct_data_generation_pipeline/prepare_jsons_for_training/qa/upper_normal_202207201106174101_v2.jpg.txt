@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a lace dress? | Yes. |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the image revealing any explicit or suggestive content? | No. |
+| Yes/No | Does the woman's attire suggest a formal or professional setting? | Yes. |
+| Yes/No | Does the man's suit suggest a formal or professional setting? | Yes. |
+| Yes/No | Does the image have a calm and composed atmosphere? | Yes. |
+| What | What is the woman holding in her hand? | A book. |
+| What | What is the overall atmosphere of the image? | Calm and composed. |
+| How | How would you describe the woman's attire? | Formal or professional. |
+| How | How would you describe the man's attire? | Formal or professional. |

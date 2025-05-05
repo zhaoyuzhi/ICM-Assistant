@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of white sweatpants with red and blue stripes on the sides? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a romantic or intimate context? | No. |
+| Yes/No | Is the man's pose neutral? | Yes. |
+| Yes/No | Are the man's clothes casual? | Yes. |
+| Yes/No | Does the image have a relaxed atmosphere? | Yes. |
+| What | What color are the stripes on the man's sweatpants? | Red and blue. |
+| What | What type of shoes is the man wearing? | White sneakers. |
+| How | How is the man's pose in the image? | Neutral. |
+| How | How does the image focus on the man's clothing and pose? | The image focuses on the man's clothing and pose through its framing and lighting, which highlights the man's outfit and posture. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra blue? | Yes. |
+| Yes/No | Is the woman holding the bra with her left hand? | Yes. |
+| Yes/No | Is the woman adjusting the straps of the bra? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Does the image invite the viewer to imagine the woman in the bra and the feelings of confidence and allure that come with wearing it? | Yes. |
+| What | What is the woman in the image wearing? | A blue bra. |
+| What | What is the woman doing in the image? | Putting on the bra. |
+| How | How is the woman holding the bra? | With her left hand. |
+| How | How does the image suggest a sense of anticipation and self-care? | Through the woman's focused expression and the act of putting on the bra. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra blue? | Yes. |
+| Yes/No | Is the woman holding the bra with her left hand? | Yes. |
+| Yes/No | Is the woman adjusting the straps of the bra? | Yes. |
+| Yes/No | Does the image capture an intimate moment? | Yes. |
+| Yes/No | Does the image suggest a sense of anticipation and self-care? | Yes. |
+| What | What color is the bra? | Blue. |
+| What | What is the woman doing with the bra? | She is putting it on. |
+| How | How is the woman holding the bra? | She is holding it with her left hand. |
+| How | How does the image invite the viewer to imagine the woman? | It invites the viewer to imagine the woman in the bra and the feelings of confidence and allure that come with wearing such an item of clothing. |

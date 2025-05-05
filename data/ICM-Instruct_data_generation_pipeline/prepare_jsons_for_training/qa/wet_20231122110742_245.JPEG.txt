@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the woman have black hair? | Yes. |
+| Yes/No | Is the woman leaning on her hand? | Yes. |
+| Yes/No | Are the woman's clothes soaked? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Is the woman's pose confident and alluring? | Yes. |
+| What | What is the woman's pose in the image? | The woman is leaning on her hand, with her chin resting on her hand. |
+| What | What is the color of the woman's blouse? | The woman's blouse is white. |
+| How | How does the woman's pose convey confidence and allure? | The woman's pose, with her chin resting on her hand, conveys a sense of confidence and allure. |
+| How | How does the soaked clothing add to the sensual atmosphere? | The soaked clothing adds to the sensual atmosphere by suggesting that the woman has been in a wet or damp environment, which can be perceived as sensual and intriguing. |

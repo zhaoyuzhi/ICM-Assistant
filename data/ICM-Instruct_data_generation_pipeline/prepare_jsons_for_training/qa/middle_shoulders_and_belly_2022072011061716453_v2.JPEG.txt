@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are blue jeans being worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman looking downwards in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image depict a sexy scene? | Yes. |
+| What | What is the woman's hand placed on? | Her hip. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How is the woman's attitude in the image? | Confident. |
+| How | How does the image make you feel? | Intrigued. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman holding her pants open with her left hand? | Yes. |
+| Yes/No | Does the woman have a belly button ring? | Yes. |
+| Yes/No | Is the image visually appealing? | Yes. |
+| What | What is the woman holding her pants open with? | Her left hand. |
+| What | What is the color of the woman's top? | White. |
+| How | How is the woman's pose in the image? | Confident and provocative. |
+| How | How does the image showcase the woman's body? | In a confident and alluring manner. |

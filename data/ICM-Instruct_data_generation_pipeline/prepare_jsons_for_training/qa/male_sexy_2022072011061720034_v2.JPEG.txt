@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | Yes. |
+| Yes/No | Is the man in the image topless? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the atmosphere of the image confident and seductive? | Yes. |
+| What | What is the man wearing? | A white shirt that is unbuttoned. |
+| What | What is the man's chest exposed? | Yes. |
+| How | How is the man's gaze at the camera? | Direct. |
+| How | How does the unbuttoned shirt emphasize the man's physique? | It emphasizes his muscular chest and upper body. |

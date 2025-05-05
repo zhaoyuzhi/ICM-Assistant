@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin wearing a hoodie? | Yes. |
+| Yes/No | Is the hoodie gray? | Yes. |
+| Yes/No | Does the hoodie have a black collar? | Yes. |
+| Yes/No | Does the hoodie have a black zipper? | Yes. |
+| Yes/No | Is the background black? | Yes. |
+| Yes/No | Is the lighting white? | Yes. |
+| What | What is the pattern on the hoodie? | Small squares. |
+| What | What is the overall atmosphere of the image? | Neutral and not sexy. |
+| How | How is the mannequin positioned in the image? | Facing the camera, zipped up. |
+| How | How would you describe the focus of the image? | On the hoodie and its design, rather than on the mannequin's appearance. |

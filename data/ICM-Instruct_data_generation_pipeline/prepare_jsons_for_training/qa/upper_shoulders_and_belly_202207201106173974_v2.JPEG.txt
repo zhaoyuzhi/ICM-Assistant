@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white off-the-shoulder top? | Yes. |
+| Yes/No | Are her jeans cropped at the waist? | Yes. |
+| Yes/No | Is she smiling and looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the woman's jeans? | Blue. |
+| What | What is the woman's hairstyle in the image? | Not specified (the description only mentions her outfit). |
+| How | How is the woman's top cropped? | It is cropped at the waist. |
+| How | How is the woman posing in the image? | She has her hands placed on her hips and is looking directly at the camera. |

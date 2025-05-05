@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sweatshirt? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | No. |
+| Yes/No | Is the person wearing white sneakers? | Yes. |
+| Yes/No | Does the image contain any sexual or provocative elements? | No. |
+| Yes/No | Is the person's pose in the image relaxed? | Yes. |
+| Yes/No | Does the image feature any bright or bold colors? | No. |
+| What | What is the prominent feature in the image? | The large white "C" on the person's pants. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How does the person's pose suggest a sense of comfort and ease? | The person's hands are in their pockets, implying a relaxed and casual stance. |
+| How | How does the white sweatshirt and sneakers add to the image's casual vibe? | They contribute to a sporty and laidback style that is consistent with the overall atmosphere of the image. |

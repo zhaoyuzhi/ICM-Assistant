@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing pants? | No. |
+| Yes/No | Is the man in the image muscular? | Yes. |
+| Yes/No | Is the man in the image flexing his muscles? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the man in the image wearing on his bottom half? | Red and black patterned boxer briefs. |
+| What | What is the dominant color scheme of the image? | Red and black. |
+| How | How is the man in the image posing? | Flexing his muscles. |
+| What | What does the man's pose suggest? | Strength and confidence. |

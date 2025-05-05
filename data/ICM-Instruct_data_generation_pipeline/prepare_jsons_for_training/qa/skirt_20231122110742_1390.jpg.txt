@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a face mask? | Yes. |
+| Yes/No | Are the woman's legs exposed in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image depict a provocative action? | Yes. |
+| Yes/No | Is the woman's pose confident and alluring? | Yes. |
+| What | What is the woman leaning against in the image? | A wall. |
+| What | What color is the woman's dress? | Black. |
+| How | How is the woman's dress lifted up? | It is lifted up by her hands. |
+| How | How does the woman's pose and the way she is leaning against the wall suggest confidence and allure? | Her pose and the way she is leaning against the wall suggest a sense of relaxation and comfort, which can be interpreted as confidence and allure. |

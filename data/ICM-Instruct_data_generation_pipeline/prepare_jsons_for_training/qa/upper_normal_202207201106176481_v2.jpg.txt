@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a checkered jacket? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the man in the image wearing a necklace? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What is the color of the checkered jacket? | Black and white. |
+| What | What is the man's attire in the image? | Formal. |
+| How | How is the man standing in the image? | Not specified in the description. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It does not reveal any intimate details or body parts, contributing to a professional and formal atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing against a colored background? | No. |
+| Yes/No | Is the man in the image looking directly at the camera? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man in the image wearing a hat or other headwear? | No. |
+| Yes/No | Is the man in the image's attire casual or formal? | Casual. |
+| What | What is the man in the image wearing on his bottom half? | Black boxer brief. |
+| What | What is the man in the image looking at? | His waist. |
+| How | How is the man in the image standing? | Slightly turned to the side. |
+| How | How does the man in the image's attire contrast with the background? | The black boxer brief contrasts with the white background. |

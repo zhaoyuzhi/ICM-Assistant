@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Are her jeans blue? | Yes. |
+| Yes/No | Is her belly exposed in the image? | Yes. |
+| Yes/No | Is she looking downwards? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| What | What is the woman's pose in the image? | Confident, with her hands on her hips and looking downwards. |
+| What | What is the atmosphere created by the image? | Captivating and seductive. |
+| How | How does the woman's pose suggest self-assurance? | Her hands on her hips convey a sense of confidence and selfassurance. |
+| How | How does the exposure of her belly add to the image's allure? | The exposure of her belly adds an element of intrigue and allure, making the image sexier. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are her jeans blue? | Yes. |
+| Yes/No | Is her belly exposed in the image? | Yes. |
+| Yes/No | Is she looking downwards in the image? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What is the woman's facial expression in the image? | Looking downwards. |
+| How | How are the woman's hands positioned in the image? | Placed on her hips. |
+| What | What creates a sense of intimacy and vulnerability in the image? | The woman's exposed belly and the way she is looking downwards. |

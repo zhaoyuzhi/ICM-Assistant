@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Does the dress have a striped pattern? | Yes. |
+| Yes/No | Is the woman standing in a room with a bed? | Yes. |
+| Yes/No | Is the woman also wearing black tights? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| What | What is the primary color of the woman's dress? | Black. |
+| What | What is the woman's pose in the image? | She has her hand on her hip. |
+| How | How does the woman's attire contribute to the image's sex appeal? | The tightfitting dress and exposed back create a revealing and alluring appearance. |
+| How | How does the woman's pose add to the image's overall appeal? | Her confident, sassy pose enhances the seductive atmosphere of the image. |

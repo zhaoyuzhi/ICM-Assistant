@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing bright or flashy colors? | No. |
+| Yes/No | Does the image depict a casual, everyday scene? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What color are the person's pants? | Beige. |
+| What | What color is the person's shirt? | Gray. |
+| How | How is the person positioned on the bed? | With their legs crossed. |
+| How | How does the person's posture and gaze contribute to the overall mood of the image? | It suggests a sense of mystery and intrigue, adding to the allure and sensuality of the image. |

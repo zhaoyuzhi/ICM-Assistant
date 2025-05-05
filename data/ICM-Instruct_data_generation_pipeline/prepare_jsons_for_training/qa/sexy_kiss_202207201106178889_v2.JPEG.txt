@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the women in the image kissing? | Yes. |
+| Yes/No | Is the woman in the blue shirt on top of the woman in the black shirt? | Yes. |
+| Yes/No | Are the women lying on a bed? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image depict a romantic or intimate moment? | Yes. |
+| What | What is the color of the woman's shirt who is on top? | Blue. |
+| What | What is the color of the woman's shirt who is on the bottom? | Black. |
+| How | How are the women positioned on the bed? | The woman in the blue shirt is on top of the woman in the black shirt. |
+| How | How is the woman in the blue shirt kissing the woman in the black shirt? | The woman in the blue shirt is kissing the woman in the black shirt on the neck. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing black pants? | Yes. |
+| Yes/No | Is the woman in the image putting on black stockings? | Yes. |
+| Yes/No | Is there a pink book with a cat on the cover next to the woman? | Yes. |
+| Yes/No | Is there a black shoe on the floor near the woman? | Yes. |
+| Yes/No | Is there a black purse on the floor near the woman? | Yes. |
+| What | What is the woman in the image putting on? | Black stockings. |
+| What | What is the name of the book next to the woman? | A pink book with a cat on the cover. |
+| How | How is the woman's attire in the image? | The woman is wearing black stockings, which are often associated with a seductive and alluring appearance. |
+| How | How does the presence of a purse and a shoe on the floor suggest the woman is preparing for a night out or a special occasion? | The presence of a purse and a shoe on the floor suggests that the woman is in a casual setting, possibly preparing for a night out or a special occasion. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing black pants? | Yes. |
+| Yes/No | Is the woman in the image putting on black stockings? | Yes. |
+| Yes/No | Is the book next to the woman pink? | Yes. |
+| Yes/No | Does the book have a cat on the cover? | Yes. |
+| Yes/No | Is the overall atmosphere of the picture sexy? | Yes. |
+| What | What is the woman in the image putting on? | Black stockings. |
+| What | What is the color of the book next to the woman? | Pink. |
+| How | How is the woman's attire in the image associated with a seductive and alluring appearance? | The woman is wearing black stockings, which are often associated with a seductive and alluring appearance. |
+| How | How does the presence of a purse and a shoe on the floor suggest the woman's location? | The presence of a purse and a shoe on the floor suggests that the woman is in a casual setting, possibly preparing for a night out or a special occasion. |

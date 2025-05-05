@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing cargo shorts? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the man have two pockets on the front of his shorts? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| What | What is the primary color of the man's cargo shorts? | Mint green. |
+| What | What is the exposure level of the image? | Very low. |
+| How | How is the image focused? | Focused on the man's torso and legs. |
+| Yes/No | Is the man in the image wearing a pair of mint green pants? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the man in the image standing against a white background? | Yes. |
+| Yes/No | Is the man's left hand raised in the image? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Does the image have a romantic or intimate context? | No. |
+| What | What color are the man's pants in the image? | Mint green. |
+| What | What is the man's left hand doing in the image? | Raised, possibly in a gesture of greeting or surprise. |
+| How | How is the man's attire in the image? | Simple, not revealing any skin or suggesting a provocative outfit. |
+| How | How does the white background affect the overall atmosphere of the image? | It emphasizes the focus on the man and his clothing, rather than any potential for sensuality, and contributes to a calm and straightforward atmosphere. |

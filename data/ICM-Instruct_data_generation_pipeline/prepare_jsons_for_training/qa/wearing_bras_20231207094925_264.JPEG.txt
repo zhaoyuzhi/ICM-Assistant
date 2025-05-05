@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on a bra? | Yes. |
+| Yes/No | Is the white bra in the woman's hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image portray a common aspect of women's daily lives? | Yes. |
+| Yes/No | Is the contrast between the black bra and the white bra in the woman's hand intentional? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What is the woman holding in her hand? | She is holding a white bra. |
+| How | How does the image create a sense of intimacy and allure? | The image creates a sense of intimacy and allure through the woman's posture and the closeup view of her torso and the bra she is wearing. |
+| How | How does the contrast between the black bra and the white bra in the woman's hand add to the image's seductive and provocative atmosphere? | The contrast between the black bra and the white bra in the woman's hand adds an element of intrigue and anticipation, as the viewer is left to wonder which bra she will ultimately choose to wear. This adds to the image's seductive and provocative atmosphere. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on a bra? | Yes. |
+| Yes/No | Is the image seductive and provocative? | Yes. |
+| Yes/No | Does the image portray a common aspect of women's daily lives? | Yes. |
+| What | What is the woman holding in her hand? | A white bra. |
+| What | What is the color of the bra the woman is wearing? | Black. |
+| How | How does the image create a sense of intimacy and allure? | Through the woman's posture and the closeup view of her torso and the bra she is wearing. |
+| How | How does the contrast between the black bra and the white bra in her hand add to the image? | It adds an element of intrigue and anticipation, as the viewer is left to wonder which bra she will ultimately choose to wear. |

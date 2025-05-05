@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the man in the image wearing shorts with a rabbit print? | Yes. |
+| Yes/No | Is the man's pose in the image neutral? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the image revealing any intimate or private details about the man? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the man's attire in the image? | A white tshirt and rabbitprint shorts. |
+| What | What is the focus of the image? | The man's clothing. |
+| How | How is the man's pose in the image? | Neutral. |
+| How | How does the rabbit print on the man's shorts appear? | Playful and casual. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's shorts patterned with rabbits? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the man's pose neutral? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and non-sexual? | Yes. |
+| What | What is the man wearing on his lower body? | Shorts with a pattern of rabbits. |
+| What | What is the focus of the image? | The man's clothing and the pattern of rabbits on his shorts. |
+| How | How is the man standing in the image? | Neutrally. |
+| How | How would you describe the overall atmosphere of the image? | Casual and nonsexual. |

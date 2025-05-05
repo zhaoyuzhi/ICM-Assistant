@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a hoodie? | Yes. |
+| Yes/No | Is the hoodie black and red? | Yes. |
+| Yes/No | Does the hoodie have a cat design on the front? | Yes. |
+| Yes/No | Is the woman wearing earrings? | Yes. |
+| Yes/No | Are the woman's pants white? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the woman looking at? | The camera. |
+| What | What is the overall atmosphere of the image? | Calm and relaxed. |
+| How | How is the woman dressed? | Casually. |
+| How | How would you describe the woman's pose? | Neutral. |

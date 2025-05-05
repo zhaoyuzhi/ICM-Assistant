@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pair of blue leggings? | Yes. |
+| Yes/No | Is the woman wearing a white sports bra? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Are the woman's sneakers white? | Yes. |
+| Yes/No | Does the image feature a plain white background? | Yes. |
+| What | What color are the woman's leggings? | Blue. |
+| What | What is the color of the woman's sports bra? | White. |
+| How | How does the woman's attire and pose suggest confidence and self-assurance? | The woman's athletic and formfitting attire, combined with her confident pose, suggest a sense of selfassurance and confidence. |
+| How | How does the exposed midriff add to the allure of the image? | The exposed midriff adds a sense of vulnerability and confidence, making the image more alluring and sensual. |

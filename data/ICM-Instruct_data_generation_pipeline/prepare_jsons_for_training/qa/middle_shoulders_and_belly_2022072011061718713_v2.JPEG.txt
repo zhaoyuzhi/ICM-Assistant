@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman's stomach exposed in the image? | Yes. |
+| Yes/No | Are the woman's sports bra and skirt blue and black, respectively? | Yes. |
+| Yes/No | Does the image suggest that the woman is dressed for physical activity? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the woman's attire in the image? | A blue sports bra and a black sports skirt. |
+| What | What is the focus of the image? | The woman's stomach. |
+| How | How does the woman's attire contribute to the sexy atmosphere of the image? | The woman's sports bra and skirt are formfitting and revealing, emphasizing her athletic physique and confidence. |
+| How | How does the image convey the woman's comfort and self-assuredness? | The woman's relaxed posture and exposed stomach suggest a level of comfort and selfassuredness, which is often associated with attractiveness. |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image suggest that the person is engaged in physical activity? | Yes. |
+| Yes/No | Is the person's hair color blonde? | Yes. |
+| Yes/No | Is the person's skin tone light? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the person's sports bra? | Blue. |
+| What | What is the person's hair color? | Blonde. |
+| How | How is the person's posture in the image? | Confident. |
+| How | How would you describe the atmosphere of the image? | Casual and relaxed, with a sexy vibe. |

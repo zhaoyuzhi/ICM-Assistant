@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black short-sleeved shirt? | Yes. |
+| Yes/No | Are white sneakers worn by the person in the image? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the person's legs slightly apart in the image? | Yes. |
+| What | What color is the person's shirt in the image? | Black. |
+| What | What color are the person's sneakers in the image? | White. |
+| How | How is the person's body positioned in the image? | Turned to the side. |
+| What | What atmosphere does the image convey? | Casual and relaxed. |

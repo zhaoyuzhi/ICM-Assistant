@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray tank top? | Yes. |
+| Yes/No | Is the tank top strapless? | Yes. |
+| Yes/No | Does the tank top have a midriff-baring design? | Yes. |
+| Yes/No | Is the woman wearing a black bra underneath the tank top? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the text on the woman's tank top? | "That's gross, I love it". |
+| What | What color is the text on the woman's tank top? | Yellow. |
+| How | How is the woman's confidence and allure conveyed in the image? | Through her smile and direct gaze at the camera. |
+| How | How does the text on the woman's tank top enhance the image's sexy appeal? | It adds a playful and quirky element to the image. |

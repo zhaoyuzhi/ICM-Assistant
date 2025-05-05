@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a light blue bra? | Yes. |
+| Yes/No | Are the straps of the bra thin? | Yes. |
+| Yes/No | Does the bra feature a lace trim? | Yes. |
+| Yes/No | Is the woman's hand on the clasp of the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the light blue color of the bra associated with sensuality and femininity? | Yes. |
+| What | What is the woman doing in the image? | She's in the process of putting on the bra. |
+| What | What does the lace trim and thin straps of the bra add to the image? | They add to the overall allure of the image. |
+| How | How does the woman's hand on the clasp of the bra suggest an intimate act? | It suggests that she's in the process of putting it on, which can be seen as a sensual and intimate act. |
+| How | How does the light blue color of the bra contribute to the atmosphere of the image? | It contributes to the sexy atmosphere, as it's often associated with sensuality and femininity. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Does the bra have a lace trim? | Yes. |
+| Yes/No | Are the straps of the bra thin? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the light blue color of the bra contribute to the sexy atmosphere? | Yes. |
+| What | What is the woman doing in the image? | She is in the process of putting on a bra. |
+| What | What is the color of the bra? | Light blue. |
+| How | How does the lace trim add to the overall allure of the image? | It adds a touch of elegance and sensuality to the bra. |
+| How | How does the woman's hand on the clasp of the bra suggest an intimate act? | It implies that she is in the process of putting on the bra, which can be seen as a private and intimate moment. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin wearing a raincoat? | Yes. |
+| Yes/No | Is the raincoat black? | Yes. |
+| Yes/No | Does the raincoat have a hood? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image depict a sexy or suggestive scene? | No. |
+| What | What is the primary focus of the image? | The raincoat. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the mannequin positioned in the image? | The mannequin is positioned in a way that the raincoat is fully visible. |
+| How | How does the low exposure level of the image contribute to its overall mood? | The low exposure level of the image contributes to its straightforward and nonprovocative representation of a raincoat. |

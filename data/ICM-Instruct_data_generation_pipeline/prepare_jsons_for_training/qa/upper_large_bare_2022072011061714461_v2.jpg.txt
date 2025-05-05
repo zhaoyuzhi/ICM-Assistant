@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the image taken on a beach? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Are there any objects in the image other than the woman and the beach? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the woman in the image wearing? | A white bikini top and bottom with blue and black designs. |
+| What | What is the background of the image? | The ocean. |
+| How | How is the woman posing in the image? | With her arms raised above her head. |
+| How | How does the image make the viewer feel? | The image creates a sense of leisure and enjoyment, and may evoke feelings of relaxation and freedom. |

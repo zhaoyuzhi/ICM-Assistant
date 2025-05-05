@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman wearing a turtleneck? | Yes. |
+| Yes/No | Is the woman's expression playful? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Are the woman's lips puckered? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the color of the woman's turtleneck? | Beige. |
+| What | What is the woman's facial expression? | Pouting. |
+| How | How are the woman's lips positioned in the image? | Puckered. |
+| How | How does the woman's closed eyes contribute to the image's atmosphere? | Adds to the allure and mystery of her expression. |

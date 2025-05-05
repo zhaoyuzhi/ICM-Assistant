@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white striped shirt? | Yes. |
+| Yes/No | Does the woman have long blonde hair? | Yes. |
+| Yes/No | Is the woman's facial expression one of pouting? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| Yes/No | Does the woman's pouting expression and upward gaze give the impression of confidence and self-assuredness? | Yes. |
+| What | What color is the woman's shirt? | Black and white striped. |
+| What | What is the woman's facial expression? | Pouting. |
+| How | How does the woman's long blonde hair add to her attractiveness? | It adds a touch of glamour and femininity to her overall look. |
+| How | How does the black and white striped shirt add a touch of edginess to her look? | The bold, contrasting colors and stripes give the shirt a rebellious and edgy vibe, which contrasts with the woman's otherwise feminine appearance, creating a dynamic and interesting look. |

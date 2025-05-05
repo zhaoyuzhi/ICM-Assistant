@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image holding a resistance band? | Yes. |
+| Yes/No | Is the man's body facing the camera? | Yes. |
+| Yes/No | Are the man's muscles visible? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the resistance band made of a rubber-like material? | Yes. |
+| What | What is the man in the image holding? | A resistance band. |
+| What | What is the overall atmosphere of the image? | Intense and focused. |
+| How | How is the man in the image exercising? | With a resistance band. |
+| How | How would you describe the man's physique? | Muscular. |

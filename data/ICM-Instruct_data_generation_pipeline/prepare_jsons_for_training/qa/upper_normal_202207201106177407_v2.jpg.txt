@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a traditional Chinese outfit? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the woman's face clearly visible? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Does the woman's outfit and the snowy landscape suggest a traditional or cultural context? | Yes. |
+| What | What is the woman's outfit made of? | Red and white material. |
+| What | What is the woman's hair style? | Bun. |
+| How | How is the woman standing in the snow? | Standing upright. |
+| How | How does the woman appear to be feeling? | Contemplative or peaceful. |

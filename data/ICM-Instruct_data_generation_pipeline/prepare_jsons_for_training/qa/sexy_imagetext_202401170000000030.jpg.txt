@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink and white polka dot dress? | Yes. |
+| Yes/No | Are the man and woman in the image lying on a white bed? | Yes. |
+| Yes/No | Is the woman in the image kissing the man's face? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Does the image evoke feelings of passion, desire, and emotional connection? | Yes. |
+| What | What is the color of the man's shirt in the image? | Black. |
+| What | What is the color and pattern of the woman's dress in the image? | Pink and white polka dot. |
+| How | How are the man and woman positioned on the bed in the image? | They are lying down, with the woman on top of the man, kissing his face. |
+| How | How would you describe the overall atmosphere of the image? | Intimate, sensual, passionate, and emotional. |

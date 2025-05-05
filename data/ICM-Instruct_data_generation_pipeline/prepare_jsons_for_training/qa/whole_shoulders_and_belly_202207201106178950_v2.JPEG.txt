@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are high-waisted jeans worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman in the image holding her shirt with her left hand? | Yes. |
+| Yes/No | Is the woman in the image wearing a baseball cap? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman in the image wearing on her feet? | The image doesn't provide enough information to answer this question. |
+| What | What is the color of the woman's shirt? | The image doesn't provide enough information to answer this question. |
+| How | How is the woman's hair styled in the image? | The woman's hair is styled in a short bob. |
+| How | How is the woman holding her shirt in the image? | The woman is holding her shirt with her left hand, possibly adjusting it. |

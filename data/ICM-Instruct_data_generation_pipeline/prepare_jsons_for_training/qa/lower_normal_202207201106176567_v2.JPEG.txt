@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Does the person have tattoos on their arms and legs? | Yes. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| Yes/No | Does the image contain explicit sexual content? | No. |
+| Yes/No | Is the person's attire the main focus of the image? | Yes. |
+| What | What color is the person's t-shirt? | White. |
+| What | What is the person's pose? | Hands resting on hips, legs slightly apart. |
+| How | How are the person's tattoos visible in the image? | They are visible but not the main focus. |
+| How | How does the white background affect the image? | It emphasizes the person's clothing and pose. |

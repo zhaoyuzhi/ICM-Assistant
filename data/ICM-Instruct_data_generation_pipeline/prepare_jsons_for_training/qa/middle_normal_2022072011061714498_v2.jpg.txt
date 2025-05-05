@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sweater? | Yes. |
+| Yes/No | Are they wearing black trousers? | Yes. |
+| Yes/No | Is the person's pose suggestive or explicit? | No. |
+| Yes/No | Does the image depict a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the person's attire neutral and not sexually suggestive? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color is the sweater? | Green. |
+| What | What type of pants is the person wearing? | Black trousers. |
+| How | How is the person standing in the image? | With their hands placed on their hips. |
+| What | What can be inferred about the atmosphere of the image? | It suggests a casual and relaxed atmosphere. |
+| Yes/No | Is the person in the image wearing a pair of black trousers? | Yes. |
+| Yes/No | Does the person have their hands placed on their hips? | Yes. |
+| Yes/No | Is the person wearing a green sweater? | Yes. |
+| Yes/No | Does the image feature any suggestive poses or sexual content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image focus on the person's outfit and posture rather than their physical appearance? | Yes. |
+| What | What is the color of the person's sweater? | Green. |
+| What | What is the distinctive feature of the person's trousers? | A slit on the side. |
+| How | How is the person standing in the image? | With their hands on their hips. |
+| How | How would you describe the overall atmosphere of the image? | Calm and composed. |

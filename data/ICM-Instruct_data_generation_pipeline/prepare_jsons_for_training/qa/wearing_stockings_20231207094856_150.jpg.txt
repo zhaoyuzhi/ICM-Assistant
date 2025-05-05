@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting on a toy car? | Yes. |
+| Yes/No | Is the woman wearing a pink dress? | Yes. |
+| Yes/No | Is the woman holding a small pink stuffed animal in her lap? | Yes. |
+| Yes/No | Is the woman putting on black stockings? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the image playful and whimsical? | Yes. |
+| What | What is the woman sitting on? | A blue and white toy car. |
+| What | What is the woman holding in her lap? | A small pink stuffed animal. |
+| How | How is the woman's dress described? | The woman's dress is described as pink. |
+| How | How are the woman's actions described? | The woman's actions are described as sexy and associated with sensuality and allure. |
+| Yes/No | Is the woman in the image sitting on a toy car? | Yes. |
+| Yes/No | Is the woman wearing a pink dress? | Yes. |
+| Yes/No | Is the woman holding a small pink stuffed animal in her lap? | Yes. |
+| Yes/No | Are the woman's actions associated with sensuality and allure? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman holding in her lap? | A small pink stuffed animal. |
+| What | What color is the woman's dress? | Pink. |
+| How | How is the woman's attire contributing to the seductive atmosphere of the image? | The woman's pink dress adds a touch of color and femininity to the image, which contributes to the seductive atmosphere. |
+| How | How are the woman's actions associated with sensuality and allure? | The woman's actions of putting on stockings are often associated with sensuality and allure, which adds to the seductive atmosphere of the image. |

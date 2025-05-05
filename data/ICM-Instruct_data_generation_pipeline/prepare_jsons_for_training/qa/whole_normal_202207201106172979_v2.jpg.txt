@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress pink? | Yes. |
+| Yes/No | Does the dress have a polka dot pattern? | Yes. |
+| Yes/No | Is the woman's posture suggestive or explicit? | No. |
+| Yes/No | Does the image contain any explicit or inappropriate content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and composed? | Yes. |
+| What | What is the woman's posture in the image? | She is sitting with her hands clasped together in front of her, looking downwards. |
+| What | What is the color of the dress the woman is wearing? | Pink. |
+| How | How does the woman's posture suggest modesty and restraint? | The woman's hands are clasped together in front of her, which suggests a sense of modesty and restraint. |
+| How | How does the white surface on which the woman is sitting enhance the simplicity and modesty of the image? | The white surface creates a clean and minimalist background that highlights the woman's modest posture and the simplicity of the image. |

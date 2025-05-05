@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person's facial expression serious? | Yes. |
+| Yes/No | Is the person wearing a ring? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's face? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Does the image depict a sensual or seductive gesture? | Yes. |
+| Yes/No | Is the overall mood of the image sexy? | Yes. |
+| What | What is the person's facial expression? | Serious. |
+| What | What is the person doing with their finger? | Placing it inside their mouth. |
+| How | How does the close-up shot of the person's face contribute to the intimate atmosphere of the image? | It creates a sense of proximity and emphasizes the person's facial expression, adding to the intimate nature of the scene. |
+| How | How does the serious expression on the person's face enhance the sexy vibe of the image? | It adds a sense of mystery or intrigue, making the image more alluring and sensual. |

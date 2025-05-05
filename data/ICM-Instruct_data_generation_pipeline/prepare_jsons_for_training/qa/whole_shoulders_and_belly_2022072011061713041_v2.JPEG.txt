@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Is the woman wearing a green bra? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman's pose in the image suggest a sexy or provocative atmosphere? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What pattern is on the woman's checkered top? | Green and white checkered. |
+| How | How is the woman holding her shirt up in the image? | With her left hand. |
+| What | What is the overall atmosphere created by the woman's outfit, pose, and background in the image? | Visually striking and seductive. |

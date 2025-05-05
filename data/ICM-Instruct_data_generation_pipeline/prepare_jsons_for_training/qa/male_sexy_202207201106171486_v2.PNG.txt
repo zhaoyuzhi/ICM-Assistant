@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man flexing his arm? | Yes. |
+| Yes/No | Is the man wearing a wristband? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image feature the man's upper body? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing on his left wrist? | A black wristband. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man posing in the image? | Flexing his right arm. |
+| What | What does the plain white background do for the image? | It puts the focus entirely on the man and his physique. |

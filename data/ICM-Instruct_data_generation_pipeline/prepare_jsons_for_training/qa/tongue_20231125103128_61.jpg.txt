@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman wearing an orange shirt? | Yes. |
+| Yes/No | Is the woman sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have a cheerful expression? | Yes. |
+| Yes/No | Does the woman have a confident demeanor? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's shirt? | Orange. |
+| What | What is the woman's facial expression? | Cheerful and confident. |
+| How | How is the woman's tongue positioned in the image? | Sticking out playfully and flirtatiously. |
+| How | How does the woman's expression and demeanor contribute to the image's overall allure? | They create a sense of comfort, ease, and confidence, which can be perceived as attractive and desirable. |

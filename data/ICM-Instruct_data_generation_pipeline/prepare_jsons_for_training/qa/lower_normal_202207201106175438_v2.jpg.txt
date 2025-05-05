@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white Nike sneaker? | Yes. |
+| Yes/No | Is the man in the image wearing a gray sweatshirt? | Yes. |
+| Yes/No | Is the man in the image moving towards the right side of the image? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Is the man in the image wearing a casual outfit? | Yes. |
+| What | What is the man in the image wearing on his feet? | A white Nike sneaker. |
+| What | What is the man in the image wearing on his upper body? | A gray sweatshirt. |
+| How | How is the man in the image moving? | Towards the right side of the image. |
+| How | How would you describe the exposure level of the image? | Very low. |

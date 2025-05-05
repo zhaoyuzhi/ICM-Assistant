@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lifting weights? | Yes. |
+| Yes/No | Is the person in the image wearing black pants? | Yes. |
+| Yes/No | Does the image feature a large area of the person's back exposed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intense and powerful? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image showcase the person's muscles and strength? | Yes. |
+| What | What is the person in the image lifting weights with? | A pullup bar. |
+| What | What is the sexy pose that the person is in? | A pose that showcases their muscular back and strength. |
+| How | How is the person displaying strength and determination in the image? | Through their powerful pose and the large area of exposed back. |
+| How | How does the image capture a moment of intense focus and effort? | The person is captured in the midst of lifting weights, displaying their dedication to fitness. |

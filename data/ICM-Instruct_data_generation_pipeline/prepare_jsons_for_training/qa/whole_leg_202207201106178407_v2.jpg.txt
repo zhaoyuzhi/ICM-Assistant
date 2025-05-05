@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green sweater? | Yes. |
+| Yes/No | Is the car behind the woman black? | Yes. |
+| Yes/No | Is the woman's right hand resting on her hip? | Yes. |
+| Yes/No | Is the woman's left hand placed on her head? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman's outfit casual yet stylish? | Yes. |
+| What | What color is the woman's sweater? | Green. |
+| What | What is the color of the car behind the woman? | Black. |
+| How | How is the woman's right hand positioned in the image? | Resting on her hip. |
+| How | How is the woman's left hand positioned in the image? | Placed on her head. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Is the back of the dress low? | Yes. |
+| Yes/No | Is the fabric of the dress possibly cotton or silk? | Yes. |
+| Yes/No | Is the woman standing against a white background? | Yes. |
+| Yes/No | Is the woman facing away from the camera? | Yes. |
+| What | What is the color of the dress? | Red. |
+| What | What is the material of the dress? | Cotton or silk. |
+| How | How is the woman posing in the image? | She is standing with her posture and facing away from the camera. |
+| How | How does the white background affect the image? | It helps to highlight the woman and her dress, making them the focal point of the image. |

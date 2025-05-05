@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing away from the camera? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Does the woman have her hair pulled back into a bun? | Yes. |
+| Yes/No | Is there a large area of the woman's back exposed? | Yes. |
+| Yes/No | Are there flowers in the image? | Yes. |
+| Yes/No | Does the image have an intimate and romantic atmosphere? | Yes. |
+| What | What is the woman holding in the image? | A bouquet of flowers. |
+| What | What is the color of the woman's dress? | White. |
+| How | How is the woman's hair styled in the image? | Pulled back into a bun, adorned with a flower. |
+| How | How would you describe the overall atmosphere of the image? | Intimate, romantic, elegant, and alluring. |

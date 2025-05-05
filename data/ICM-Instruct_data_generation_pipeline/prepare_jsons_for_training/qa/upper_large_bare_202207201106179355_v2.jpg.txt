@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black swimsuit? | Yes. |
+| Yes/No | Is the swimsuit designed with a deep neckline? | Yes. |
+| Yes/No | Does the swimsuit have a high-waisted bottom? | Yes. |
+| Yes/No | Is the woman posing in front of a white wall? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| What | What color is the swimsuit the woman is wearing? | Black. |
+| What | What is the woman's pose in the image? | She has her hand on her hip. |
+| How | How does the woman's attire contribute to the sexiness of the image? | The black swimsuit is revealing, showing off her upper body and accentuating her curves. |
+| How | How does the woman's pose contribute to the sexiness of the image? | Her pose, with her hand on her hip, adds to the allure of the image. |

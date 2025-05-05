@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of khaki pants? | Yes. |
+| Yes/No | Is the man in the image wearing a blue striped shirt? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose in the image suggestive or provocative? | No. |
+| Yes/No | Does the image have a high-key or low-key exposure level? | Low-key. |
+| Yes/No | Is the image meant to be sensual or provocative? | No. |
+| What | What color are the man's pants in the image? | Khaki. |
+| What | What type of shirt is the man wearing in the image? | Blue striped. |
+| How | How does the man's pose in the image suggest a casual, everyday setting? | The man is standing with his hands in his pockets, which implies a relaxed and casual demeanor. |
+| How | How does the low-key exposure level reinforce the idea that the image is not meant to be sensual or provocative? | The lowkey exposure level suggests a more subdued and natural lighting, which does not draw attention to the man's body or suggest any kind of sexualized or provocative atmosphere. |
+| Yes/No | Is the person in the image wearing a striped shirt? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the image a close-up shot of the person's face? | No. |
+| Yes/No | Does the image contain any sexual content? | No. |
+| Yes/No | Is the person in the image posing in a suggestive manner? | No. |
+| What | What is the person in the image wearing? | Khaki pants and a striped shirt. |
+| What | What is the person's posture in the image? | Standing with their hands in their pockets. |
+| How | How is the person's body positioned in the image? | The person's body is not visible in the image, only a small portion of their body is visible. |
+| How | How would you describe the atmosphere of the image? | Casual and nonsexual. |

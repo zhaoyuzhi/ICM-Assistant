@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing yellow leggings? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive? | Yes. |
+| Yes/No | Does the woman have a confident expression? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the sports bra add to the overall sexiness of the image? | Yes. |
+| Yes/No | Is the woman's hair visible in the image? | No. |
+| What | What color are the leggings the woman is wearing? | Yellow. |
+| What | What type of clothing is the woman wearing on her upper body? | Sports bra. |
+| How | How is the woman's pose in the image? | She is striking a pose that showcases her buttocks. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the woman and emphasizes her curves. |

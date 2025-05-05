@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the person sitting on a chair? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | A black top and beige stockings. |
+| What | What is the person doing in the image? | Putting on stockings. |
+| How | How are the stockings being pulled up the person's legs? | They are being pulled up to the knees. |
+| How | How does the image make you feel? | It makes me feel sensual and allured. |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Are the stockings beige? | Yes. |
+| Yes/No | Is the person sitting on a chair? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image wearing? | A black top and beige stockings. |
+| What | What is the person doing in the image? | Pulling up their stockings. |
+| How | How are the stockings being pulled up? | Up to the knees. |
+| How | How does the image make you feel? | Sensual and intimate. |

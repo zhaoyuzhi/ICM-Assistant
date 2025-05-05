@@ -1,0 +1,7 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What is the person's pose in the image? |A. Standing with legs together |B. Sitting with legs crossed |C. Standing with legs spread apart |D. Kneeling with legs bent |C. |
+| What is the color of the wall in the background? |A. Black |B. White |C. Gray |D. Red |B. |
+| How many objects are in the image? |A. One (the person) |B. Two (the person and a chair) |C. Three (the person, a chair, and a table) |D. Four (the person, a chair, a table, and a vase) |A. |
+| What is the mood of the image? |A. Serious |B. Playful |C. Sensual |D. Angry |C. |
+| What does the contrast between the person's skin and the wall create? |A. A sense of drama |B. A sense of mystery |C. A sense of intimacy |D. A sense of humor |C. |

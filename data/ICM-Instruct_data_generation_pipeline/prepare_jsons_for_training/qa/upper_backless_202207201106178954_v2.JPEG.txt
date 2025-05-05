@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Is the person's back turned towards the camera? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability? | Yes. |
+| What | What color is the dress? | Red. |
+| What | What is the material of the lace panel on the side of the dress? | Lace. |
+| How | How is the person standing in front of the white curtain? | Standing. |
+| How | How does the white curtain contrast with the person's red dress? | It provides a stark contrast, drawing attention to the person's body language and attire. |

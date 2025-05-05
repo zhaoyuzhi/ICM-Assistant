@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra black? | Yes. |
+| Yes/No | Does the bra have a floral pattern? | Yes. |
+| Yes/No | Is the woman wearing matching black underwear? | Yes. |
+| Yes/No | Is the woman lying on a bed? | Yes. |
+| Yes/No | Is the bed covered with a white comforter? | Yes. |
+| What | What is the woman posing with her hands on? | Her chest. |
+| What | What is the woman looking at? | The camera. |
+| How | How is the woman's gaze at the camera? | Direct. |
+| How | How does the combination of elements in the image create an atmosphere? | Seductive and intriguing. |

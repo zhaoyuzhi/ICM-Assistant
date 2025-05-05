@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white off-the-shoulder top? | Yes. |
+| Yes/No | Are blue jeans part of her outfit? | Yes. |
+| Yes/No | Does she have a purse with her? | Yes. |
+| What | What is the woman carrying in her hand? | A shopping bag. |
+| What | What is the color of her jeans? | Blue. |
+| How | How would you describe the woman's stride? | Confident. |
+| What | What does the woman's outfit suggest about her personality? | That she is comfortable and confident in her attire. |

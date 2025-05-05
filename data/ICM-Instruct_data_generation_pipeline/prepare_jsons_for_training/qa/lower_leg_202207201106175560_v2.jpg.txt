@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is she wearing pink shoes? | Yes. |
+| Yes/No | Does the image feature a fence in the background? | Yes. |
+| Yes/No | Is the woman's pose suggestive of confidence and style? | Yes. |
+| What | What is the dominant color of the woman's outfit? | Black. |
+| What | What is the color of her shoes? | Pink. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's crossed legs and confident stance contribute to a sense of boldness and attentiongrabbing energy in the image. |
+| How | How does the image's background contribute to its overall atmosphere? | The fence and street in the background add a sense of grittiness and realism to the image, which contrasts with the woman's stylish and confident appearance, creating a bold and attentiongrabbing atmosphere. |

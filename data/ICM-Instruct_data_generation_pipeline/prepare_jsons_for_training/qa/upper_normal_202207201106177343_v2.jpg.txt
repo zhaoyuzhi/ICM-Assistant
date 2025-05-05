@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the man in the image wearing a plaid jacket? | Yes. |
+| Yes/No | Is the man in the image looking directly at the camera? | No. |
+| Yes/No | Is the man in the image standing in a provocative or sensual pose? | No. |
+| Yes/No | Does the image contain any suggestive or revealing clothing? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the man in the image looking at? | Something to the left. |
+| What | What is the man in the image doing? | Speaking. |
+| How | How is the man in the image dressed? | He is wearing a blue shirt and a plaid jacket. |
+| How | How would you describe the exposure level of the image? | Low. |

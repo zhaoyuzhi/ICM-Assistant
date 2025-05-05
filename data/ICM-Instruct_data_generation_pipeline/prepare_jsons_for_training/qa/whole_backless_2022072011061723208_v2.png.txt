@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a long white dress? | Yes. |
+| Yes/No | Does the dress have a high slit on the back? | Yes. |
+| Yes/No | Are the person's arms placed behind their back? | Yes. |
+| Yes/No | Is the overall atmosphere of the image elegant and sensual? | Yes. |
+| Yes/No | Does the woman's attire and pose create a sexy vibe? | Yes. |
+| Yes/No | Is the image sexy because of the woman's attire and pose? | Yes. |
+| What | What is the person in the image wearing? | A long white dress. |
+| What | What is the pose of the person in the image? | Standing in front of a stone wall with arms placed behind their back. |
+| How | How does the dress contribute to the sexy vibe of the image? | The high slit on the back reveals a large area of the woman's back, which is often associated with a sense of allure and mystery. |
+| How | How does the woman's pose add to the overall sensuality of the image? | The pose, with arms placed behind the back, adds to the overall sensuality of the image. |

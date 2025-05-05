@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| How | Is the image a still from a movie or TV show? | Yes. |
+| Yes/No | Are the two characters in the image dressed in traditional Chinese clothing? | Yes. |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Are the two characters looking off to the side? | Yes. |
+| Yes/No | Do the two characters have serious expressions? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the backdrop of the image? | A rocky cliff. |
+| What | What is the exposure level of the image? | Very low. |
+| How | How are the two characters dressed? | The man is dressed in traditional Chinese clothing, while the woman is wearing a white dress. |
+| How | How do the two characters look? | They look serious. |

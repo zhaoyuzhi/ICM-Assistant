@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Is the woman's blouse white? | Yes. |
+| Yes/No | Does the woman's purse have a gold chain strap? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's pose exude confidence and allure? | Yes. |
+| What | What is the length of the woman's skirt? | Above her knees. |
+| What | What color is the woman's blouse? | White. |
+| How | How is the woman's purse held? | By a gold chain strap. |
+| How | How does the woman's pose create a seductive atmosphere? | With her hand on her hip. |

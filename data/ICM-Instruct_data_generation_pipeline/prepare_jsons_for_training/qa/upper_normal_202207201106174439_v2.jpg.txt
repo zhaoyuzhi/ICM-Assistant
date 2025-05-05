@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a red shirt? | Yes. |
+| Yes/No | Is the man in the image wearing a cap? | Yes. |
+| Yes/No | Is the image set in an office environment? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the image a close-up shot? | No. |
+| Yes/No | Is the man in the image sitting at a desk? | Yes. |
+| What | What is the man in the image holding? | A pen. |
+| What | What is the object on the desk in front of the man? | A computer. |
+| How | How is the man in the image dressed? | He is wearing a red shirt and a cap. |
+| How | How would you describe the atmosphere in the image? | Professional and focused. |

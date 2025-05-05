@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image reveal any intimate or provocative details? | No. |
+| Yes/No | Is the atmosphere of the image calm and composed? | Yes. |
+| What | What is the woman's facial expression? | Slight smile. |
+| What | What is the focus of the image? | Her facial expression and overall appearance. |
+| How | How does the image portray the woman's hair? | It is shown as long and dark. |
+| How | How would you describe the overall mood of the image? | Calm and composed. |

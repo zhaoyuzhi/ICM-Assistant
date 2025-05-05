@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman making a kissing face in the image? | Yes. |
+| Yes/No | Does the woman's facial expression look playful? | Yes. |
+| Yes/No | Does the woman's facial expression look seductive? | Yes. |
+| Yes/No | Are the woman's lips puckered in the image? | Yes. |
+| What | What color is the woman's top in the image? | Black. |
+| What | What is the woman's facial expression in the image? | Playful and seductive. |
+| How | How does the woman's facial expression contribute to the overall allure of the image? | It adds a sense of confidence and allure. |
+| How | How does the black top contribute to the overall allure of the image? | It is often associated with a sense of mystery and allure. |

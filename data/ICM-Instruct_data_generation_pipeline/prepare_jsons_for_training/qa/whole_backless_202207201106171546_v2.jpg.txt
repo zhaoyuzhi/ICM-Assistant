@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress flowing and elegant? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and mystery? | Yes. |
+| Yes/No | Is the atmosphere of the image alluring and sexy? | Yes. |
+| Yes/No | Is the person's attire seductive? | Yes. |
+| Yes/No | Does the staircase setting add an element of privacy and seclusion? | Yes. |
+| What | What is the person's attire made of? | Flowing fabric. |
+| What | What is the overall atmosphere of the image? | Intimate, alluring, and seductive. |
+| How | How does the dress add to the person's appearance? | It adds a sense of elegance and grace. |
+| How | How does the staircase setting contribute to the image's atmosphere? | It suggests a private or secluded location, adding an element of intimacy and mystery. |

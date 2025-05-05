@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image lifting weights? | Yes. |
+| Yes/No | Is the man in the image in a gym setting? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man lifting weights with? | A weight machine. |
+| What | What is the man wearing? | Black shorts. |
+| How | How is the man's physique? | Muscular. |
+| How | How is the image atmospheric? | It creates an atmosphere of allure and attractiveness. |

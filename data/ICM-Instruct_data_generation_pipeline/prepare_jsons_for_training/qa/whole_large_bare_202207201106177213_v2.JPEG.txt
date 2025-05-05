@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image lying on a beach? | Yes. |
+| Yes/No | Is the woman in the image facing the camera? | Yes. |
+| Yes/No | Is the exposure level of the image high? | Yes. |
+| Yes/No | Does the image depict a sexy scene? | Yes. |
+| Yes/No | Is the beach setting associated with relaxation and leisure? | Yes. |
+| What | What is the woman in the image wearing? | A white bikini. |
+| What | What is the woman in the image doing with her body? | Stretching her legs and arms out. |
+| How | How does the woman's pose suggest a sense of freedom and enjoyment? | Her body language conveys a sense of relaxation and confidence. |
+| How | How does the beach setting enhance the overall atmosphere of the image? | The beach setting adds a sense of tranquility and leisure, complementing the woman's carefree pose. |

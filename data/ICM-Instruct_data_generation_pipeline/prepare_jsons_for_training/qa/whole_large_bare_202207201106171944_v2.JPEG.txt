@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the woman's body fully covered in the image? | No. |
+| Yes/No | Does the image have a warm and soft tone? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| What | What is the woman lying on in the image? | A pink surface. |
+| What | What is the woman wearing in the image? | A white bikini top and a white skirt. |
+| How | How is the woman posing in the image? | She is lying down and looking directly at the camera. |
+| How | How does the image create an intimate atmosphere? | The woman's direct gaze at the camera and the revealing attire create an intimate atmosphere. |

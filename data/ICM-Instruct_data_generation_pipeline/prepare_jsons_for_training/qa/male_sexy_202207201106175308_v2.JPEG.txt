@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing with his arms crossed? | Yes. |
+| Yes/No | Is the man in the image smiling? | Yes. |
+| Yes/No | Is the man in the image facing the camera? | Yes. |
+| Yes/No | Does the image provide any additional details about the man's clothing? | No. |
+| Yes/No | Does the image provide any additional details about the background? | No. |
+| What | What is the man's body language in the image? | Confident and assertive. |
+| What | What is the atmosphere created by the man's pose and demeanor in the image? | Approachable and sexy. |
+| How | How does the man's smile contribute to the image's overall vibe? | It adds a positive and inviting vibe. |
+| How | How does the man's confident pose contribute to the image's overall vibe? | It enhances the image's sexy appeal. |

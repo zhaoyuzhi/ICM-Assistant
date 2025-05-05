@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person have a leather patch on the back pocket of their jeans? | Yes. |
+| Yes/No | Is the person wearing a brown belt with a silver buckle? | Yes. |
+| Yes/No | Are the jeans slightly faded? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the primary focus of the image? | The person's clothing and details of their outfit. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How are the jeans faded? | Slightly faded, giving them a wornin look. |
+| How | How does the image convey a casual and relaxed atmosphere? | Through the low exposure level and focus on the person's clothing rather than their body or appearance. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the leather patch on the back pocket have a circular design? | Yes. |
+| Yes/No | Is the person standing with their back to the camera? | Yes. |
+| Yes/No | Is the focus of the image on the back pocket and patch? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and everyday? | Yes. |
+| What | What is the style of the jeans? | Classic. |
+| What | What is the focus of the image? | The back pocket and leather patch. |
+| How | How is the person standing in the image? | With their back to the camera. |
+| How | How would you describe the exposure level of the image? | Low. |

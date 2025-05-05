@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the couple kissing passionately? | Yes. |
+| Yes/No | Is the woman's hand on the man's face? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is there a strong emotional connection between the couple? | Yes. |
+| What | What is the color of the man's shirt? | Black. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How is the woman's hand positioned on the man's face? | The woman's hand is on the man's face in a gentle, loving manner. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is intense and sensual. |

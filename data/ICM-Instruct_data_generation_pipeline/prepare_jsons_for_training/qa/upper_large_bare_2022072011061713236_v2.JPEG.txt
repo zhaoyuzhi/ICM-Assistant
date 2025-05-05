@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the skirt the woman is wearing white? | Yes. |
+| Yes/No | Does the woman have her hand on her chin in the image? | Yes. |
+| Yes/No | Is the woman's body facing the camera? | Yes. |
+| Yes/No | Does the bikini top have a blue trim? | Yes. |
+| Yes/No | Does the skirt have a green trim? | Yes. |
+| What | What color is the woman's bikini top? | White. |
+| What | What color is the trim on the woman's skirt? | Green. |
+| How | How is the woman posing in the image? | With her hand on her chin and her body facing the camera. |
+| How | How would you describe the atmosphere created by the image? | Sexy, confident, and seductive. |

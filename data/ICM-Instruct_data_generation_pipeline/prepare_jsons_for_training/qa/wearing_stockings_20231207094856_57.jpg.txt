@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the image sensual? | Yes. |
+| Yes/No | Is the person laying on a bed? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the towel black? | Yes. |
+| Yes/No | Is the image intimate? | Yes. |
+| What | What is the person wearing on their feet? | White stockings. |
+| What | What is the color of the towel? | Black. |
+| How | How is the person lying on the bed? | With their legs crossed. |
+| How | How does the image portray the person's appearance? | Intimate and sensual. |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the person in the image laying on a bed? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person looking down at their feet in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the person wearing in the image? | White stockings. |
+| What | What is the person looking at in the image? | Their feet. |
+| How | How is the person positioned on the bed in the image? | They are laying on a black towel. |
+| How | How does the image portray the person's appearance? | The person is portrayed as intimate and seductive. |

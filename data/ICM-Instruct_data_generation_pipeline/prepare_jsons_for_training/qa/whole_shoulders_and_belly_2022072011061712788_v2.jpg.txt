@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Is the bedroom setting simple? | Yes. |
+| Yes/No | Does the woman have loose waves hairstyle? | Yes. |
+| Yes/No | Is the woman looking at her phone? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing on her upper body? | A white crop top. |
+| What | What is the woman holding in her right hand? | Her phone. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How would you describe the woman's pose? | Confident and selfassured. |

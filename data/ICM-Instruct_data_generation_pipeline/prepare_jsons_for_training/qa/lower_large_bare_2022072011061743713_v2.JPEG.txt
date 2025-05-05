@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink lace thong? | Yes. |
+| Yes/No | Does the thong have a floral design? | Yes. |
+| Yes/No | Is the thong low-rise? | Yes. |
+| Yes/No | Does the image feature the person's lower body? | Yes. |
+| Yes/No | Is the white rug with a floral pattern in the image? | Yes. |
+| Yes/No | Does the image have a sensual and alluring atmosphere? | Yes. |
+| What | What is the color of the lace thong? | Pink. |
+| What | What is the pattern on the rug? | Floral. |
+| How | How is the thong designed? | Lowrise with a small waistband. |
+| How | How does the image make you feel? | It's intended to be alluring and sensual. |

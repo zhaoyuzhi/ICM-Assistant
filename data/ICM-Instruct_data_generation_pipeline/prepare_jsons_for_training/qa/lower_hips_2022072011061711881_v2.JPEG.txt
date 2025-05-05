@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the leggings orange and yellow? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the leggings? | Orange and yellow. |
+| What | What is the person's confidence level in the image? | Selfassured/Confident. |
+| How | How are the leggings contrasting with the background? | They are contrasting by color (orange and yellow vs white). |
+| How | How is the person's pose emphasizing their buttocks? | The person is standing with their hands on their hips, which draws attention to their buttocks. |

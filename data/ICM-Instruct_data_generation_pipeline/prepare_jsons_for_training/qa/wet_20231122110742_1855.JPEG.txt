@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the man standing in a body of water? | Yes. |
+| Yes/No | Are the man's clothes soaked? | Yes. |
+| Yes/No | Is the man looking over his shoulder? | Yes. |
+| Yes/No | Is the man's gaze directed towards the left side of the image? | Yes. |
+| Yes/No | Does the image have a mysterious and intriguing atmosphere? | Yes. |
+| What | What is the man's attire in the image? | A blue shirt. |
+| What | What is the surroundings of the man in the image? | A body of water. |
+| How | How is the man's gaze directed in the image? | Towards the camera, looking over his shoulder. |
+| How | How does the image make the viewer feel? | Connected and engaged with the man in the image, with a sense of intimacy and sensuality. |

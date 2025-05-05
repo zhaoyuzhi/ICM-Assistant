@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Are the person's eyes visible in the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the person have any visible tattoos or piercings? | No. |
+| Yes/No | Is the person's hair visible in the image? | No. |
+| Yes/No | Does the image feature any other objects or people besides the person's lips? | No. |
+| What | What is the color of the person's lips in the image? | Red. |
+| What | What is the facial expression of the person in the image? | Playful and seductive. |
+| How | How is the person's lower lip being bitten in the image? | The person is biting their lower lip gently. |
+| How | How does the close-up perspective of the image contribute to its overall atmosphere? | It emphasizes the lips and facial expression, making the image more intimate and alluring. |

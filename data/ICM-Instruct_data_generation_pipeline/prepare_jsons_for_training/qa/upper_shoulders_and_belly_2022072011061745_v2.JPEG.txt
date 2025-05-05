@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Does the woman's top have a tie-up neckline? | Yes. |
+| Yes/No | Are the woman's jeans casual and comfortable? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| Yes/No | Does the woman's smile add a friendly and approachable vibe to the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her upper body? | A strapless top with a tieup neckline. |
+| What | What is the woman's pose in the image? | She is posing for the camera. |
+| How | How does the woman's smile contribute to the image's atmosphere? | It adds a friendly and approachable vibe. |
+| How | How does the woman's choice of clothing contribute to the image's atmosphere? | It adds a sexy and alluring element. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman dressed in a white sweater and blue pants? | Yes. |
+| Yes/No | Are her arms outstretched? | Yes. |
+| Yes/No | Is she making a peace sign with her hands? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or inappropriate content? | No. |
+| What | What is the woman's pose in the image? | She is standing with her arms outstretched and making a peace sign with her hands. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is calm and peaceful. |
+| How | How is the woman's pose in the image? | The woman's pose is relaxed and friendly. |
+| How | How does the low exposure level of the image contribute to its atmosphere? | The low exposure level of the image adds to the peaceful and nonsexual nature of the image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a beige knee-high sock? | Yes. |
+| Yes/No | Is the person in the image sitting on a wooden chair? | Yes. |
+| Yes/No | Is there a plant in the background of the image? | Yes. |
+| Yes/No | Is the person in the image putting on their stockings? | Yes. |
+| Yes/No | Does the image evoke a sense of allure and sensuality? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the sock that the person is wearing? | Beige. |
+| How | How does the contrast between the black stockings and beige sock add to the image? | It adds a touch of elegance and sophistication to the scene. |
+| How | How does the setting of the image (simple and uncluttered) contribute to the overall feel of the image? | It allows the viewer to focus on the person and their actions, highlighting the intimate and private nature of the moment. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a beige knee-high sock? | Yes. |
+| Yes/No | Is the person in the image sitting on a wooden chair? | Yes. |
+| Yes/No | Is there a plant in the background of the image? | Yes. |
+| Yes/No | Is the person in the image putting on their stockings? | Yes. |
+| Yes/No | Does the image evokes a sense of allure and sensuality? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the sock that the person is wearing? | Beige. |
+| How | How is the person in the image putting on their stockings? | They are in the process of putting them on. |
+| How | How does the contrast between the black stockings and beige sock add to the image? | It adds a touch of elegance and sophistication to the scene. |

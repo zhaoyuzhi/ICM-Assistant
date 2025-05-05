@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Does the woman in the image have her hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman in the image holding a small clutch purse? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the woman in the image wearing on her feet? | The image doesn't provide enough information to answer this question. |
+| What | What is the woman in the image holding in her hand? | A small clutch purse. |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| How | How would you describe the overall atmosphere of the image? | Modest and nonsexy. |

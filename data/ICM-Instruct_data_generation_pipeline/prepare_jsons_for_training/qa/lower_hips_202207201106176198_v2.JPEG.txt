@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Are they wearing gray leggings? | Yes. |
+| Yes/No | Is the person in a squatting position? | Yes. |
+| Yes/No | Are their hands on their knees? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Are they wearing white sneakers? | Yes. |
+| What | What color is the person's sports bra? | Black. |
+| What | What is the color of their leggings? | Gray. |
+| How | How is the person's buttocks displayed in the image? | Prominently. |
+| What | What does the person's athletic attire suggest about their fitness level? | Fitness and strength. |

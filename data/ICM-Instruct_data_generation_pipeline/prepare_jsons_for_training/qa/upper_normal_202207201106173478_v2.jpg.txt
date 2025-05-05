@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin wearing a black coat? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the coat have a collar? | Yes. |
+| Yes/No | Are there buttons down the front of the coat? | Yes. |
+| Yes/No | Is the mannequin facing the camera? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the material of the coat? | Soft fabric. |
+| What | What is the focus of the image? | Details of the coat's design. |
+| How | How is the mannequin positioned in the image? | In front of a white background. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, product image. |

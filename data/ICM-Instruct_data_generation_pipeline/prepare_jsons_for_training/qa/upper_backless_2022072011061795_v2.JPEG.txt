@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Does the person have a large area of their back exposed? | Yes. |
+| Yes/No | Is the person wearing pearl jewelry? | Yes. |
+| Yes/No | Is the person's hair styled in a bun? | Yes. |
+| Yes/No | Does the image create a sexy and alluring atmosphere? | Yes. |
+| Yes/No | Is the image seductive and captivating? | Yes. |
+| What | What color is the dress worn by the person in the image? | White. |
+| What | What type of jewelry is the person wearing in the image? | Pearl. |
+| How | How is the person's hair styled in the image? | In a bun. |
+| How | How does the combination of the white dress, pearl jewelry, and exposed back create an atmosphere? | It creates a sexy and alluring atmosphere that highlights the person's curves and the elegance of the pearl jewelry, while also adding a touch of sophistication. |

@@ -1,0 +1,23 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding shoes? | Yes. |
+| Yes/No | Is the woman wearing a dress? | Yes. |
+| Yes/No | Are the shoes she is holding black and white? | Yes. |
+| Yes/No | Is the brand of shoes "COMME des GARCONS"? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the woman holding in the image? | Two pairs of shoes. |
+| What | What is the color of the dress the woman is wearing? | Yellow. |
+| How | How many pairs of shoes is the woman holding? | Two. |
+| What | What is the focus of the image? | The woman and the shoes she is holding. |
+| Yes/No | Is the image appropriate? | Yes. |
+| Yes/No | Does the image contain explicit content? | No. |
+| Yes/No | Is the woman in the image holding shoes? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Are the shoes black and white? | Yes. |
+| Yes/No | Is the woman wearing a yellow dress? | Yes. |
+| What | What is the woman in the image holding? | Two pairs of shoes. |
+| What | What is the color of the dress? | Yellow. |
+| How | How is the woman posing in the image? | She is standing and showcasing the shoes. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| How | How sexy is the image? | Mildly sexy. |

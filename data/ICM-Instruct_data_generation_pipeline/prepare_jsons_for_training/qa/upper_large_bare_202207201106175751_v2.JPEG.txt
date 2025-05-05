@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman posing seductively? | Yes. |
+| Yes/No | Is the background of the image a wooden shelf? | Yes. |
+| Yes/No | Is there a potted plant on the shelf? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the woman wearing on her lower body? | A silver bikini bottom. |
+| What | What is the woman's facial expression? | She is smiling. |
+| How | How is the woman posing her left hand? | She has her left hand on her hip. |
+| How | How is the woman posing her right hand? | She has her right hand on her chest. |

@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a blue shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the background white? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any intimate or romantic elements? | No. |
+| What | What is the person's attire in the image? | Blue shirt and black shorts. |
+| What | What is the background color of the image? | White. |
+| How | How is the person standing in the image? | Facing away from the camera. |
+| How | How would you describe the overall atmosphere of the image? | Simple and straightforward. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the shorts the person is wearing black? | No. |
+| Yes/No | Is the shirt the person is wearing black? | No. |
+| Yes/No | Does the image contain explicit or suggestive elements? | No. |
+| Yes/No | Is the atmosphere of the image straightforward and unambiguous? | Yes. |
+| Yes/No | Is the person dressed in a provocative or seductive outfit? | No. |
+| What | What color are the shorts the person is wearing? | Navy blue. |
+| What | What is the color of the shirt the person is wearing? | White. |
+| How | How does the image focus on the person's attire? | The image focuses on the person's attire rather than their body, and there are no explicit or suggestive actions or poses. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the woman wearing a green belt? | Yes. |
+| Yes/No | Does the woman have a collar on her blouse? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman's hair brown? | Yes. |
+| Yes/No | Is the image taken from a side angle? | Yes. |
+| What | What is the woman wearing on her left wrist? | A gold bracelet. |
+| What | What is the material of the green belt? | Leather. |
+| How | How is the woman's hair styled? | Not specified in the description. |
+| How | How is the green belt fastened? | With a buckle closure. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the woman have short sleeves? | Yes. |
+| Yes/No | Is the woman wearing a green belt? | Yes. |
+| Yes/No | Is the buckle closure on the belt visible? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| What | What is the color of the woman's blouse? | White. |
+| What | What is the color of the woman's belt? | Green. |
+| How | How is the woman's attire described in the image? | Casual and comfortable. |
+| How | How does the low exposure level of the image affect the focus of the image? | It focuses on the woman's attire rather than her physical appearance. |

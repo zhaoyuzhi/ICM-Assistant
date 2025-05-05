@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the woman's shorts blue? | Yes. |
+| Yes/No | Does the woman have her legs crossed in the image? | Yes. |
+| Yes/No | Is the woman's pose in the image relaxed? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the text on the woman's t-shirt? | "The Laughing Heart" and "SELECTION AND AUTHORITY". |
+| What | What is the color of the woman's shorts? | Blue. |
+| How | How are the hem of the woman's shorts? | Frayed. |
+| How | How would you describe the woman's pose in the image? | Relaxed, with her legs crossed and her arms resting on her knees. |

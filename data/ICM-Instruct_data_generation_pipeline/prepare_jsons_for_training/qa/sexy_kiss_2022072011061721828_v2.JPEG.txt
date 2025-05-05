@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the people in the image kissing? | Yes. |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image depict a romantic scene? | Yes. |
+| What | What is the color of the man's jacket? | Black. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How are the couple standing in relation to each other? | Close, with the woman's head resting on the man's shoulder. |
+| How | How would you describe the atmosphere of the image? | Warm and romantic. |

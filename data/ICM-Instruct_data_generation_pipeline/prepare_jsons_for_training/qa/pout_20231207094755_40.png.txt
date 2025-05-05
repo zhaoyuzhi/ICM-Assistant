@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Does the woman have her eyes open? | No. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the woman wearing red lipstick? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What color is the woman's hair? | Brown. |
+| What | What is the woman's facial expression? | Puckered, seductive. |
+| How | How is the woman looking at the camera? | Directly, with confidence and allure. |
+| How | How would you describe the atmosphere created by the image? | Intimate, alluring. |

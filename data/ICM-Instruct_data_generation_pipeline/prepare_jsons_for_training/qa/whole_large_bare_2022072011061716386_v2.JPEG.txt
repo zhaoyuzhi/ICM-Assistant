@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the image set in a beach environment? | Yes. |
+| Yes/No | Does the woman have a muscular physique? | Yes. |
+| Yes/No | Is the woman's expression serious? | Yes. |
+| Yes/No | Does the image convey a sense of relaxation and leisure? | No. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What color is the woman's bikini top? | White. |
+| How | How does the woman's body language convey confidence? | Her confident pose and muscular physique suggest a sense of selfassurance and strength. |
+| How | How does the beach setting contribute to the overall atmosphere of the image? | The beach setting adds to the overall atmosphere of relaxation and leisure, which contrasts with the woman's serious expression and creates a sense of intrigue. |

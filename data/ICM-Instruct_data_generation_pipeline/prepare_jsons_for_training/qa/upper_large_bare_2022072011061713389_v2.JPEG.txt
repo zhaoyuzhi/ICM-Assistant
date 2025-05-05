@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini a two-piece swimsuit? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| What | What color is the bikini? | White. |
+| What | What is the woman's facial expression? | Smiling. |
+| How | How does the woman's pose suggest a sense of joy and relaxation? | Her raised arms and smile suggest a sense of joy and relaxation. |
+| How | How does the image's atmosphere contribute to its allure? | The overall atmosphere of the image is playful and inviting, which adds to its allure. |

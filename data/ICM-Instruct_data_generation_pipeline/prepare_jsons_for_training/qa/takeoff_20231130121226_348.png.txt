@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black leggings? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Is the bra partially removed? | Yes. |
+| Yes/No | Is the person standing in front of a white wall? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the leggings? | Black. |
+| What | What is the color of the bra? | White. |
+| How | How does the white wall in the background contribute to the overall atmosphere of the image? | It provides a stark contrast, making the person the focal point of the image. |
+| How | How does the person's long hair contribute to the overall composition of the image? | It adds a touch of elegance and sensuality to the overall composition. |

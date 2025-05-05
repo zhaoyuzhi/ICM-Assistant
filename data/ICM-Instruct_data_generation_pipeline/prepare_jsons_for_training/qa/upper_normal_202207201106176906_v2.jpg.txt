@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man standing on a wooden platform? | Yes. |
+| Yes/No | Is the woman standing on a railing behind the man? | Yes. |
+| Yes/No | Is the man wearing a red jacket? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Do the man and woman have ponytails? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| What | What is the man's attire? | A red jacket. |
+| What | What is the woman's attire? | A white dress. |
+| How | How are the man and woman standing in relation to each other? | The man is standing on a platform, while the woman is standing on a railing behind him. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is not sexy, it focuses on the interaction between the two characters rather than their physical appearance, and the low exposure level further emphasizes the nonsexual nature of the image. |

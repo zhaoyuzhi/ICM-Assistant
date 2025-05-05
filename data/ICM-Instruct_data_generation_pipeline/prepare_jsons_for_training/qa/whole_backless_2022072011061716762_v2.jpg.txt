@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a large area of her back exposed? | Yes. |
+| Yes/No | Is the woman leaning against a gray wall? | Yes. |
+| Yes/No | Are her arms on the wall? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Does the dress have a gold chain attached to the back? | Yes. |
+| What | What is the color of the wall in the image? | Gray. |
+| What | What is the color of the dress? | White. |
+| How | How is the woman posing in the image? | She is leaning against the wall with her arms on the wall. |
+| How | How would you describe the atmosphere of the image? | Seductive and alluring. |

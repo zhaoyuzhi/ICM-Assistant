@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a beige jacket with a white zipper? | Yes. |
+| Yes/No | Does the jacket have a hood? | Yes. |
+| Yes/No | Is the woman wearing a blue shirt underneath the jacket? | Yes. |
+| Yes/No | Is her hair styled in a ponytail? | Yes. |
+| Yes/No | Is she looking off to the side with a slight smile on her face? | Yes. |
+| What | What is the main color of the woman's jacket? | Beige. |
+| What | What is the color of the woman's shirt? | Blue. |
+| How | How is the woman's hair styled? | In a ponytail. |
+| How | How would you describe the overall atmosphere of the image? | Lowkey, casual, nonsexual. |

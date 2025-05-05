@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the person in the image wearing a hat? | Yes. |
+| Yes/No | Is the chair in the image white? | Yes. |
+| Yes/No | Does the person in the image have their arm crossed over their chest? | Yes. |
+| Yes/No | Is the person in the image smiling? | Yes. |
+| Yes/No | Is the person in the image looking directly at the camera? | Yes. |
+| What | What color is the bikini top? | White. |
+| What | What is the color of the hat? | White. |
+| How | How is the person sitting on the chair? | The person is sitting on the chair with their arm crossed over their chest. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is sexy, intimate, and personal. |

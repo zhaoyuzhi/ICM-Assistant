@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Does the skirt have a gold buckle on the front? | Yes. |
+| Yes/No | Is the woman's top white? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the woman sitting on a wooden bench? | Yes. |
+| Yes/No | Does the image convey a sense of elegance? | Yes. |
+| What | What is the woman's pose in the image? | The woman is sitting on a wooden bench with a relaxed and confident demeanor. |
+| What | What is the color of the woman's top? | The woman's top is white. |
+| How | How does the gold buckle on the skirt add to the image's overall aesthetic? | The gold buckle adds a touch of elegance to the woman's outfit and draws attention to the skirt. |
+| How | How does the contrast between the skirt and top contribute to the image's overall effect? | The contrast between the blue skirt and white top creates a sense of visual interest and makes the skirt stand out. |

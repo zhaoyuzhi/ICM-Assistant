@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of olive green pants? | Yes. |
+| Yes/No | Are the pants tight-fitting? | No. |
+| Yes/No | Is the person standing with their hands in their pockets? | Yes. |
+| Yes/No | Is the person's pose suggestive or provocative? | No. |
+| Yes/No | Does the image have a sexual connotation? | No. |
+| Yes/No | Is the atmosphere of the image formal or casual? | Casual. |
+| What | What color are the pants the person is wearing? | Olive green. |
+| What | What is the person's pose in the image? | Standing with their hands in their pockets. |
+| How | How are the pants fitting the person? | Loose and flowing. |
+| How | How does the person's pose and attire suggest the atmosphere of the image? | Neutral and laidback. |

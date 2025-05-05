@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have a graphic of three butterflies? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| Yes/No | Are the blue jeans a casual and relaxed choice? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing on her feet? | Not specified in the description. |
+| What | What is the color of the woman's hair? | Not specified in the description. |
+| How | How many butterflies are featured on the t-shirt? | Three. |
+| How | How is the woman posing in the image? | With her hands on her hips and a confident expression. |

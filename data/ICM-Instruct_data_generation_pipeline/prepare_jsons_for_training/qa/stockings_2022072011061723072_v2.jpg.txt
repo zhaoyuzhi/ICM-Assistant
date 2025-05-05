@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Is the woman standing on a white surface? | Yes. |
+| Yes/No | Are the stockings white with a lace pattern? | Yes. |
+| Yes/No | Is the woman wearing high heels? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Is the woman's pose suggestive of confidence and allure? | Yes. |
+| What | What is the woman wearing on her feet? | High heels. |
+| What | What is the pattern on the stockings? | Lace. |
+| How | How are the stockings worn? | They are worn with the high heels. |
+| How | How does the woman's pose enhance the sensual atmosphere of the image? | With her legs slightly apart, the woman's pose adds to the overall allure and confident feel of the image. |

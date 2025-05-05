@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a fur coat? | Yes. |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman's hair styled in a high ponytail? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Does the woman's attire reveal any skin or suggest any intimate actions? | No. |
+| What | What is the main focus of the image? | The woman's face and upper body. |
+| What | What is the overall atmosphere of the image? | Calm and composed. |
+| How | How is the woman's attire styled? | The woman's attire is stylish and formal. |
+| How | How does the low exposure level of the image affect the focus of the image? | The low exposure level emphasizes the focus on the woman's appearance and demeanor rather than her physical attributes. |

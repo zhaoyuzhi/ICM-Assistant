@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person's hand resting on their knee in the image? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What is the color of the skirt the person is wearing? | Pink. |
+| What | What is the overall atmosphere of the image? | Intimate and sensual. |
+| How | How is the person's posture in the image? | Relaxed and confident. |
+| How | How does the white background of the bed contribute to the overall atmosphere of the image? | It creates a clean and minimalist backdrop that emphasizes the person's form and the intimate atmosphere of the image. |

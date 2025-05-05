@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress soaked? | Yes. |
+| Yes/No | Is the woman sitting in a bathtub filled with water? | Yes. |
+| Yes/No | Does the woman have black hair? | Yes. |
+| Yes/No | Is the woman looking upwards? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman looking at? | The ceiling. |
+| What | What is the color of the woman's hair? | Black. |
+| How | How is the woman positioned in the bathtub? | She is sitting with her hands placed on her chin. |
+| How | How does the woman's upward gaze contribute to the image's atmosphere? | It adds a sense of curiosity and intrigue, which can be considered sexy. |

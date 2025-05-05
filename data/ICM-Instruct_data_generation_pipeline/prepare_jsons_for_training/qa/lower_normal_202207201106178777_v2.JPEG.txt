@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's socks yellow? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the person's pose confident and relaxed? | Yes. |
+| Yes/No | Does the image suggest any form of intimacy? | No. |
+| What | What color is the person's skirt? | Dark green. |
+| What | What color are the person's socks? | Yellow. |
+| How | How is the person's left hand positioned? | Resting on their hip. |
+| How | How is the person's right hand positioned? | Hanging loosely at their side. |

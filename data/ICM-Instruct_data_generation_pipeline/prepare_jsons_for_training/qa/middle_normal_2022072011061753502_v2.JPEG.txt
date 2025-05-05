@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a black t-shirt? | Yes. |
+| Yes/No | Are the jeans ripped or damaged? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image casual and non-sexual? | Yes. |
+| Yes/No | Does the image focus on the person's clothing and stance rather than any sexual or suggestive elements? | Yes. |
+| What | What is the color of the person's t-shirt? | Black. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How does the gray wall in the background contribute to the atmosphere of the image? | It provides a neutral backdrop that emphasizes the casual nature of the scene. |
+| Yes/No | Is the person in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the person's back turned towards the camera? | Yes. |
+| Yes/No | Are the jeans frayed at the bottom? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image feature any provocative elements or suggestive poses? | No. |
+| What | What is the person in the image wearing? | A black tshirt and blue jeans. |
+| What | What is the background of the image? | A gray wall. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How does the low exposure level of the image affect the viewer's attention? | It focuses the viewer's attention on the details of the person's clothing and the background, rather than on their body or any suggestive poses. |

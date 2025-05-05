@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the woman's shorts cropped at the knee? | Yes. |
+| Yes/No | Does the image feature a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's pose with her hands on her hips? | Yes. |
+| How | Does the image showcase the woman's body in a revealing manner? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| What | What color are the woman's shorts? | Pink. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips. |
+| How | How are the woman's shorts cropped? | They are cropped at the knee. |
+| How | How does the image create a sexy atmosphere? | The image creates a sexy atmosphere through the woman's revealing outfit and pose, which highlights her body in a seductive manner. |

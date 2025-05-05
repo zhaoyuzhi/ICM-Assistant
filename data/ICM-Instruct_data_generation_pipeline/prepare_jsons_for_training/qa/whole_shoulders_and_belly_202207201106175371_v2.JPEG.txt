@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless jumpsuit? | Yes. |
+| Yes/No | Is the woman standing in a room with a pink wall? | Yes. |
+| Yes/No | Does the image contain any other people or objects? | No. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Are the woman's arms outstretched to the sides? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A strapless white jumpsuit. |
+| What | What is the color of the wall in the background of the image? | Pink. |
+| How | How is the woman standing in the image? | With her arms outstretched to the sides. |
+| How | How does the woman look in the image? | She is smiling and looking at the camera. |

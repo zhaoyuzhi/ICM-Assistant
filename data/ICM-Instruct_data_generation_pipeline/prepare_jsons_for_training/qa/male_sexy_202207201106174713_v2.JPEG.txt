@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image include a cactus? | Yes. |
+| Yes/No | Is the man standing in a room? | Yes. |
+| Yes/No | Is the towel around the man's waist gray? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Do the man's muscular torso and chest contribute to the image's sexiness? | Yes. |
+| What | What is the man wearing around his waist? | A gray towel. |
+| What | What is in the background of the image? | A cactus. |
+| How | How does the gray towel contribute to the image's atmosphere? | It adds a casual and relaxed vibe. |
+| How | How does the image showcase the man's physique? | It highlights his muscular torso and chest. |

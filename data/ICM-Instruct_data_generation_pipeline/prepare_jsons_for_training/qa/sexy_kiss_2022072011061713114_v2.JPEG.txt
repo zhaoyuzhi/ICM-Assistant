@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black suit? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are the man and woman passionately kissing? | Yes. |
+| Yes/No | Are the man's hands gently placed on the woman's shoulders? | Yes. |
+| Yes/No | Is the background dark and out of focus? | Yes. |
+| Yes/No | Does the image capture a private, romantic moment between the two individuals? | Yes. |
+| What | What is the man wearing? | A black suit. |
+| What | What is the woman wearing? | A white dress. |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other, with the woman's head tilted back as she leans into the man's kiss. |
+| How | How are the man's hands positioned on the woman's body? | The man's hands are gently placed on the woman's shoulders, pulling her closer to him. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the t-shirt cropped at the waist? | Yes. |
+| Yes/No | Are the woman's midriff and legs visible in the image? | Yes. |
+| Yes/No | Is the woman posing with her left leg extended behind her? | Yes. |
+| Yes/No | Is the woman's right leg bent at the knee? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and style? | Yes. |
+| What | What is the woman wearing on her lower body? | Denim shorts. |
+| What | What is the logo on the woman's t-shirt? | Black logo. |
+| How | How is the woman's t-shirt cropped? | It is cropped at the waist. |
+| How | How are the woman's denim shorts rolled up? | They are rolled up at the bottom. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the woman's head tilted back in the image? | Yes. |
+| Yes/No | Is the man's face pressed against the woman's? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the man and woman? | Yes. |
+| What | What is the man wearing in the image? | A white shirt. |
+| What | What is the woman wearing in the image? | A black dress. |
+| How | How are the man and woman positioned in the image? | They are standing close together, with the woman's head tilted back and the man's face pressed against hers. |
+| How | How does the image capture the moment of intense emotion and physical connection between the two individuals? | The image captures the intimate and passionate nature of the kiss between the man and woman, emphasizing their close proximity and physical connection. The contrast between the woman's black dress and the man's white shirt adds to the visual appeal of the image, drawing attention to their lips and the act of kissing. |

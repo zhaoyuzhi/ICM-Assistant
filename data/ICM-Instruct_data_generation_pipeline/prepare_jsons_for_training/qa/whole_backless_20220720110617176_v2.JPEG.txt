@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sports bra? | Yes. |
+| Yes/No | Are her leggings purple? | Yes. |
+| Yes/No | Is she sitting on the floor? | Yes. |
+| Yes/No | Are her legs bent? | Yes. |
+| Yes/No | Is her back arched? | Yes. |
+| Yes/No | Are her white sneakers visible? | Yes. |
+| What | What color are the woman's leggings? | Purple. |
+| What | What is the woman's posture in the image? | Her back is arched and her legs are bent. |
+| How | How does the contrast between the white sports bra and purple leggings highlight the woman's figure? | The contrast creates a visual focal point on the woman's body, drawing attention to her curves and shape. |
+| How | How does the woman's posture contribute to the sensual atmosphere of the image? | Her posture, with her back arched and legs bent, creates a sense of dynamism and suggestiveness, emphasizing her alluring appearance. |

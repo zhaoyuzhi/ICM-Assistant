@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing cargo shorts? | Yes. |
+| Yes/No | Is the man in the image wearing sneakers? | Yes. |
+| Yes/No | Is the image sexually suggestive or provocative? | No. |
+| Yes/No | Does the image feature a small portion of the man's body? | Yes. |
+| Yes/No | Is the man's exposure level in the image low? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What color are the man's cargo shorts? | Olive green. |
+| What | What color are the man's sneakers? | Blue and white. |
+| How | How is the man's pose in the image? | Neutral. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and nonprovocative. |

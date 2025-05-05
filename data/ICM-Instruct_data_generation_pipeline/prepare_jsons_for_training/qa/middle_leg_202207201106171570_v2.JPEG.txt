@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt tied in a knot? | Yes. |
+| Yes/No | Does the woman have a purse in her hand? | Yes. |
+| Yes/No | Is the woman standing next to a trash can? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's skirt? | Brown. |
+| What | What is the woman holding in her hand? | A small purse. |
+| How | How is the skirt tied? | In a knot. |
+| How | How does the woman's pose add to the overall allure of the image? | With her hand on her hip. |

@@ -1,0 +1,7 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What is the gender of the person in the image? |A. Male |B. Female |C. Non-binary |D. Unknown |B. |
+| What is the color of the person's shirt in the image? |A. White |B. Black |C. Gray |D. Blue |A. |
+| What is the condition of the person's shirt in the image? |A. Dry |B. Wet |C. Torn |D. Stained |B. |
+| What is the atmosphere of the image? |A. Happy |B. Sad |C. Moody |D. Playful |C. |
+| What does the darkness of the background in the image evoke? |A. Feelings of warmth |B. Feelings of coldness |C. Feelings of intrigue |D. Feelings of comfort |C. |

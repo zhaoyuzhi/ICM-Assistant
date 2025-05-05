@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue suit? | Yes. |
+| Yes/No | Are her hands in her pockets? | Yes. |
+| Yes/No | Is the background a plain white wall? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman dressed in a professional manner? | Yes. |
+| What | What color is the woman's suit? | Blue. |
+| What | What is the woman's attire like? | Professional. |
+| How | How are the woman's hands positioned in the image? | In her pockets. |
+| How | How would you describe the atmosphere of the image? | Professional and formal. |

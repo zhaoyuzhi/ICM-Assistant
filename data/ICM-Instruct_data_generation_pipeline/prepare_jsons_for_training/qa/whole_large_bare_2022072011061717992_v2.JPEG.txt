@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a thong? | Yes. |
+| Yes/No | Is the woman in the image posing in a way that exposes her stomach? | Yes. |
+| Yes/No | Is the woman in the image posing in a way that exposes her thighs? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the image in color or black and white? | Color. |
+| What | What is the woman in the image wearing? | A bra and a thong. |
+| What | What is the overall atmosphere of the image? | Seductive and alluring. |
+| How | How is the woman posing in the image? | Confidently and dynamically. |
+| How | How does the combination of the thong and bra create a sense of intimacy and vulnerability? | It emphasizes the woman's body and creates a sense of exposure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Is the person wearing black socks? | Yes. |
+| Yes/No | Are there books visible in the background? | Yes. |
+| Yes/No | Does the image create an atmosphere that is both stylish and seductive? | Yes. |
+| What | What is the person in the image wearing on their feet? | Black shoes. |
+| What | What is the color of the floor in the store? | Blue and white. |
+| How | How is the person standing in the store? | With their legs slightly apart. |
+| How | How does the image create an atmosphere that is both stylish and seductive? | Through a combination of the person's clothing, pose, and setting. |

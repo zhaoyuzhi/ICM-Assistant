@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the fabric of the dress flowing? | Yes. |
+| Yes/No | Are the walls in the background white? | Yes. |
+| Yes/No | Is the floor in the background wooden? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the dress? | White. |
+| What | What is the background of the image? | White walls and wooden floor. |
+| How | How does the fabric of the dress add to the image's appeal? | The flowing fabric adds a sense of movement and fluidity, enhancing the sexy feel. |
+| How | How does the background contribute to the image's overall atmosphere? | The simple and uncluttered background allows the viewer to focus on the person and their attire, contributing to the elegant and alluring atmosphere. |

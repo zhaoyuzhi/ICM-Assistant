@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a towel? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image include a painting in the background? | Yes. |
+| Yes/No | Is the woman's hair in a bun? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the woman in the image wearing? | A white towel wrapped around her upper body. |
+| What | What is the subject of the painting in the background? | Unspecified. |
+| How | How is the woman's hair styled? | In a bun. |
+| How | How does the woman seem to be feeling in the image? | Relaxed and content. |

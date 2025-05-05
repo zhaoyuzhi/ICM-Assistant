@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Is the woman standing in front of a window? | Yes. |
+| Yes/No | Are there flowers in the background of the image? | Yes. |
+| Yes/No | Is the woman wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's shirt? | Blue. |
+| What | What is the woman doing in the image? | Taking off her clothes. |
+| How | How does the woman's shirt and skirt contribute to the overall atmosphere of the image? | They add to the allure and are simple yet revealing. |
+| How | How does the presence of flowers in the background affect the mood of the image? | They add a touch of elegance and softness to the scene, creating an atmosphere that is both alluring and seductive. |

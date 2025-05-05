@@ -1,0 +1,23 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | No. |
+| Yes/No | Is the person in the image working on a laptop? | Yes. |
+| Yes/No | Is the person in the image dressed in a white shirt? | Yes. |
+| Yes/No | Is the desk positioned against a glass wall? | Yes. |
+| Yes/No | Does the image depict a sexual or sensual context? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the person in the image working on? | A laptop. |
+| What | What is the professional atmosphere of the image? | A modern and professional touch. |
+| How | How is the person in the image positioned? | Sitting at a desk. |
+| How | How does the glass wall in the background contribute to the image? | It adds a modern and professional touch to the scene. |
+| Yes/No | Is the person in the image nude? | No. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the person sitting at a desk? | Yes. |
+| Yes/No | Is the desk positioned against a glass wall? | Yes. |
+| Yes/No | Does the person appear to be deeply focused on their work? | Yes. |
+| What | What is the person in the image doing? | They are sitting at a desk, working on a laptop. |
+| What | What is the backdrop of the scene? | The backdrop of the scene is a glass wall. |
+| How | How is the person's posture? | The person's posture suggests they are deeply focused on their task, indicating a high level of concentration. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is professional and serious, with no signs of nudity or inappropriate content. |
+| How | How sexy is the image? | Not sexy. |

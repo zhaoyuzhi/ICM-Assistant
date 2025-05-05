@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a white purse? | Yes. |
+| Yes/No | Is the woman in the image wearing a green top? | Yes. |
+| Yes/No | Does the image take place in a store? | Yes. |
+| Yes/No | Is the woman's posture confident and poised? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What color is the woman's skirt? | White. |
+| What | What is the woman holding in her hand? | A white purse. |
+| How | How does the woman's posture contribute to the image's overall vibe? | The woman's confident and poised posture adds to the image's sexy vibe. |
+| How | How does the store setting enhance the image's overall vibe? | The casual, everyday atmosphere of the store setting enhances the image's sexy vibe by creating a sense of intimacy and informality. |

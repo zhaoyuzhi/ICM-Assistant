@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying down? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the carpeted surface visible in the image? | Yes. |
+| Yes/No | Is the person wearing any clothing? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| How | Does the image show the person's face? | No. |
+| What | What is the person's gender? | The person's gender cannot be determined from the image alone. |
+| What | What is the person's age? | The person's age cannot be determined from the image alone. |
+| How | How are the person's legs positioned? | The person's legs are crossed. |
+| How | How does the image creates an intimate and sensual atmosphere? | The image creates an intimate and sensual atmosphere through the closeup perspective, the person's crossed legs, and the carpeted surface. |

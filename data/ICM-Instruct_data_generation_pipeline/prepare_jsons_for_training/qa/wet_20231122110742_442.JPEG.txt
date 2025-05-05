@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Are her arms raised above her head? | Yes. |
+| Yes/No | Is she wearing a white top? | Yes. |
+| Yes/No | Is her hair wet? | Yes. |
+| Yes/No | Is the overall atmosphere of the image playful? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual? | Yes. |
+| What | What is the woman's facial expression? | She is smiling. |
+| What | What is the woman's hair like? | Her hair is long and wet. |
+| How | How is the woman posing for the camera? | She is posing playfully and confidently. |
+| How | How does the image make you feel? | The image makes me feel inviting and allured. |

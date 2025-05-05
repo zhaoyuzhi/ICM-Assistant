@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress flowing and long? | Yes. |
+| Yes/No | Is the person wearing a straw hat? | Yes. |
+| Yes/No | Does the straw hat have a ribbon tied around it? | Yes. |
+| Yes/No | Is the person carrying a straw bag in their left hand? | Yes. |
+| Yes/No | Are they facing away from the camera? | Yes. |
+| What | What is the person carrying in their left hand? | A straw bag. |
+| What | What is the person wearing on their head? | A straw hat. |
+| How | How does the dress flow? | It flows and has a train. |
+| How | How does the person look while walking? | Elegant and graceful. |

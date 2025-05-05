@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the man in the image assisting the woman in putting on her bra? | Yes. |
+| Yes/No | Are the man's hands on the woman's back and shoulders? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image depict a sexy or seductive scene? | Yes. |
+| Yes/No | Is the white wall in the background of the image? | Yes. |
+| What | What is the woman in the image wearing? | A black bra. |
+| What | What is the man in the image doing? | Assisting the woman in putting on her bra. |
+| How | How are the man's hands positioned in the image? | On the woman's back and shoulders. |
+| How | How does the image depict the relationship between the man and woman? | It depicts a close and intimate connection between the two. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the man in the image assisting the woman in putting on her bra? | Yes. |
+| Yes/No | Are the couple standing in front of a white wall? | Yes. |
+| Yes/No | Are the woman's hands placed on the man's shoulders? | Yes. |
+| Yes/No | Are the man's hands on the woman's back? | Yes. |
+| Yes/No | Does the image have a sexy or sensual atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A black bra. |
+| What | What is the man doing in the image? | Assisting the woman in putting on her bra. |
+| How | How are the couple positioned in the image? | The woman is standing in front of the man, who is positioned behind her. |
+| How | How are the man's hands placed in the image? | The man's hands are on the woman's back and shoulders. |

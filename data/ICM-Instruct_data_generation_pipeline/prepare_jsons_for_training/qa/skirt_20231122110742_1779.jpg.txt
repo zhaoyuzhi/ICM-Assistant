@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Is the dress short? | Yes. |
+| Yes/No | Does the dress have a slit up the front? | Yes. |
+| Yes/No | Are the woman's legs visible in the image? | Yes. |
+| Yes/No | Is the woman wearing white socks? | Yes. |
+| Yes/No | Is the woman wearing white shoes? | Yes. |
+| What | What color is the woman's coat? | White. |
+| What | What is the woman lifting her dress with? | Her hands. |
+| How | How is the woman lifting her dress? | By holding it with both hands and pulling it up. |
+| What | What is the atmosphere of the image? | Sexy/alluring/intimate. |

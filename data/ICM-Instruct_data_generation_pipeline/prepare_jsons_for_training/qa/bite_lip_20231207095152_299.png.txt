@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black turtleneck? | Yes. |
+| Yes/No | Does the person in the image have red lipstick on? | Yes. |
+| Yes/No | Is the person in the image looking up at the camera? | Yes. |
+| Yes/No | Does the person in the image have a slight smile on their face? | Yes. |
+| Yes/No | Are the person's eyes closed? | Yes. |
+| Yes/No | Is the person biting their lip? | Yes. |
+| What | What color is the person's turtleneck? | Black. |
+| What | What is the person's facial expression? | Slight smile. |
+| How | How is the person looking at the camera? | Up. |
+| How | How does the person's red lipstick, black turtleneck, and facial expression contribute to the overall atmosphere of the image? | They create an alluring and seductive atmosphere. |

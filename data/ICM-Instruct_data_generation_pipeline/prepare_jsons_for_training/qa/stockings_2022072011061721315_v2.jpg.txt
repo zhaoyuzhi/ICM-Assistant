@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing a garter belt? | Yes. |
+| Yes/No | Are the woman's legs apart in the image? | Yes. |
+| Yes/No | Are the woman's hands on her hips in the image? | Yes. |
+| Yes/No | Is the woman in the image wearing high heels? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the woman in the image wearing around her waist? | A garter belt. |
+| What | What type of footwear is the woman in the image wearing? | High heels. |
+| How | How many parts does a garter belt have? | Two (waistband and garters). |
+| How | How many straps do high heels typically have? | Three (one at the ankle and two at the instep). |

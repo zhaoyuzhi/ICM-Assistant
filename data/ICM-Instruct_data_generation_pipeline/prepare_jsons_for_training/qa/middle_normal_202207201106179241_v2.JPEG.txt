@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a pair of blue denim shorts? | Yes. |
+| Yes/No | Is the woman's shirt matching the color of her shorts? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Is the woman's backside the main subject of the photo? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the unique feature of the woman's shorts? | The shorts have a heartshaped pocket on the back. |
+| What | What is the color of the woman's shirt? | The woman's shirt is blue. |
+| How | How is the woman's body exposed in the image? | Only a small portion of the woman's body is visible in the image due to the low exposure level. |
+| How | How does the low angle of the shot contribute to the overall atmosphere of the image? | The low angle of the shot creates a sense of intimacy and informality, contributing to a candid and relaxed atmosphere. |
+| Yes/No | Is the person in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Does the person have their hands resting on their hips? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Are the shorts designed with a heart-shaped pocket on the back? | Yes. |
+| Yes/No | Is the person wearing a blue denim shirt? | Yes. |
+| Yes/No | Does the image suggest a comfortable and informal setting? | Yes. |
+| What | What is the color of the denim shorts and shirt? | Blue. |
+| What | What is the unique feature of the shorts' pocket? | Heartshaped. |
+| How | How is the person posing in the image? | Neutral, with hands resting on hips. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

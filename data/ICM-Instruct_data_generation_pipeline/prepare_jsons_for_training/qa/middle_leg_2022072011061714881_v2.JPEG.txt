@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Does the skirt have a frayed hem? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Are the woman's hands placed on her hips? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the color of the woman's top? | White. |
+| What | What is the style of the skirt's hem? | Frayed. |
+| How | How does the woman's pose convey confidence and self-assuredness? | The woman's pose with her hands on her hips adds a confident and assertive vibe to the image. |
+| How | How does the contrast between the denim skirt and white top highlight the woman's figure? | The contrast between the dark denim of the skirt and the white top provides a striking visual difference that draws the viewer's attention to the woman's silhouette, highlighting her figure. |

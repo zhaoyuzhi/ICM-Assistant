@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image smiling? | Yes. |
+| Yes/No | Is the person in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Are there any signs of nudity or provocative poses in the image? | No. |
+| Yes/No | Is the atmosphere of the image calm and peaceful? | Yes. |
+| What | What is the person in the image standing in? | A park. |
+| What | What is the color of the person's jacket? | Black. |
+| How | How is the person standing in the park? | Not specified. |
+| How | How does the low exposure level contribute to the image's appearance? | It makes the image appear less detailed and more dimly lit. |

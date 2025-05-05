@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing olive green pants? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | No. |
+| Yes/No | Is the person's pose suggestive or explicit? | No. |
+| Yes/No | Does the image contain any text or objects that could be considered inappropriate or suggestive? | No. |
+| Yes/No | Is the focus of the image on the person's attire and pose, rather than their physical appearance? | Yes. |
+| Yes/No | Does the image have a neutral atmosphere? | Yes. |
+| What | What color are the person's pants? | Olive green. |
+| What | What is the person's pose in the image? | Neutral, with their hands resting at their sides. |
+| How | How are the person's pants styled? | Loose and flowing, giving a sense of movement to the image. |
+| How | How does the low exposure level of the person's body affect the overall focus of the image? | It emphasizes the focus on the person's clothing and stance, rather than their physical appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are they in an indoor setting? | No. |
+| Yes/No | Is the man wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman wearing a black and white dress? | Yes. |
+| Yes/No | Does the woman have her hand on the man's face? | Yes. |
+| Yes/No | Is the background of the image a field and trees? | Yes. |
+| What | What is the color of the woman's dress? | Black and white. |
+| What | What is the man wearing? | A white tshirt. |
+| How | How are the couple standing in relation to each other? | Close together. |
+| How | How does the background contribute to the overall atmosphere of the image? | It creates a serene and intimate atmosphere. |

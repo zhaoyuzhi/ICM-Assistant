@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black crop top? | Yes. |
+| Yes/No | Are blue jeans worn by the woman in the image? | Yes. |
+| Yes/No | Does the woman have a black purse with a gold chain strap? | Yes. |
+| Yes/No | Is the woman walking down a street in the image? | Yes. |
+| Yes/No | Is the woman looking at her phone? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the color of the woman's purse in the image? | Black. |
+| What | What is the material of the chain strap on the woman's purse? | Gold. |
+| How | How is the woman carrying her purse? | She is carrying it with a gold chain strap. |
+| How | How would you describe the woman's overall look in the image? | Confident and stylish. |

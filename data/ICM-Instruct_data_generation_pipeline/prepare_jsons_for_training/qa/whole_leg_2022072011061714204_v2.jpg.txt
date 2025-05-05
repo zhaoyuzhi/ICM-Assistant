@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image carrying a gray purse? | Yes. |
+| Yes/No | Is the woman in the image looking down? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman's outfit in the image modest? | Yes. |
+| Yes/No | Does the image have a light-hearted and fun atmosphere? | Yes. |
+| What | What color is the woman's skirt in the image? | Beige. |
+| What | What is the woman's facial expression in the image? | Smiling. |
+| How | How is the woman standing in the image? | She is standing with her feet shoulderwidth apart, with her weight shifted onto one leg and her other leg slightly bent. |
+| How | How does the woman's pose and facial expression contribute to the overall atmosphere of the image? | The woman's pose and facial expression contribute to the overall atmosphere of the image by creating a sense of playfulness and confidence, which adds to the lighthearted and fun nature of the scene. |

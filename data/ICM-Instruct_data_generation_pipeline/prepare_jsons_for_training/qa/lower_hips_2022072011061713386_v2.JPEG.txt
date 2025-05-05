@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are they holding a shopping bag? | Yes. |
+| Yes/No | Is the background of the image a grocery store? | Yes. |
+| Yes/No | Are there grocery items on the shelves? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual? | Yes. |
+| What | What is the person's gender? | The person's gender cannot be determined from the description. |
+| What | What is the person's facial expression? | The person's facial expression is not described in the image. |
+| How | How is the person holding the shopping bag? | The person is holding the shopping bag in their hand. |
+| How | How is the person standing in the grocery store aisle? | The person is standing in the grocery store aisle with their backside prominently displayed. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Is the woman in the image standing on a cliff? | Yes. |
+| Yes/No | Does the woman's top contrast with the blue of the denim skirt? | Yes. |
+| Yes/No | Are the gold buttons on the front of the skirt visible in the image? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive of confidence and style? | Yes. |
+| Yes/No | Does the image feature a scenic backdrop? | Yes. |
+| What | What color is the woman's top in the image? | White. |
+| What | What is the color of the denim skirt in the image? | Blue. |
+| How | How does the woman's pose in the image contribute to the overall aesthetic of the image? | It suggests confidence and style, and adds to the sexy feel of the image. |

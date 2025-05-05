@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Does the dress feature a checkered pattern? | Yes. |
+| Yes/No | Is the woman wearing red lipstick? | Yes. |
+| Yes/No | Is the woman pointing to her chest? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and self-assurance? | Yes. |
+| What | What color is the dress? | Black and white. |
+| What | What is the woman pointing to? | Her chest. |
+| How | How does the checkered pattern contribute to the image's overall atmosphere? | It adds a bold and stylish touch to the outfit. |
+| How | How does the red lipstick contribute to the woman's overall appearance? | It adds a pop of color to her look and enhances her overall attractiveness. |

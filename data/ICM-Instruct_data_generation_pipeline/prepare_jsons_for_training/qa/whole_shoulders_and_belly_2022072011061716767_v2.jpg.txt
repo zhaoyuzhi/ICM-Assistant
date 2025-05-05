@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the man in the image wearing a brown sweater? | Yes. |
+| Yes/No | Are the woman's clothes strapless? | Yes. |
+| Yes/No | Is the woman's midriff visible? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| What | What is the woman's outfit in the image? | A white blouse and blue jeans. |
+| What | What is the man's outfit in the image? | A brown sweater and glasses. |
+| How | How is the woman's outfit different from the man's? | The woman's outfit is strapless and midriffbaring, while the man's outfit is not. |
+| How | How does the woman's direct gaze at the camera contribute to the atmosphere of the image? | The woman's direct gaze at the camera adds to the overall atmosphere of confidence and allure in the image. |

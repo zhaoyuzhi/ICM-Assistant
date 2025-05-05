@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Are the woman's gloves white? | Yes. |
+| Yes/No | Is the image taken outdoors? | Yes. |
+| Yes/No | Are there trees in the background of the image? | Yes. |
+| Yes/No | Does the woman have her hand on her neck? | Yes. |
+| What | What color is the dress? | White. |
+| What | What is the woman's hand doing in the image? | Her hand is on her neck. |
+| How | How does the woman's attire give her a classic and elegant appearance? | The white dress with a low back and the white gloves create a timeless and sophisticated look. |
+| How | How does the outdoor setting contribute to the overall atmosphere of the image? | The natural surroundings and serene atmosphere of the outdoors contrast with the woman's alluring presence, creating a seductive and captivating image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Does the person in the image have a confident and assertive pose? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the mesh panel on the leggings add a stylish touch to the outfit? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| What | What color are the leggings in the image? | Gray. |
+| What | What is the color of the sports bra in the image? | Black. |
+| How | How does the person in the image pose? | With hands resting on hips and head slightly tilted to the side. |
+| How | How does the mesh panel on the leggings add an element of intrigue to the outfit? | It adds a sense of allure and sophistication to the formfitting leggings. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the woman wearing a white t-shirt? | Yes. |
+| Yes/No | Are the sweatpants gray? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's pose suggestive of confidence? | Yes. |
+| Yes/No | Does the image capture a moment of casual elegance? | Yes. |
+| What | What color is the woman's t-shirt? | White. |
+| What | What is the color of the sweatpants? | Gray. |
+| How | How does the woman's pose suggest confidence? | The woman has her hands on her hips, which is a confident pose. |
+| How | How does the image create a sense of allure and intrigue? | The woman's clothing almost exposes her thighs, creating a sense of subtle exposure that adds to her confident pose and creates a sense of allure and intrigue. |

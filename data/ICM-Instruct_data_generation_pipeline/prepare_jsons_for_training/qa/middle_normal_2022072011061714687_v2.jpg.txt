@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the man's shirt unbuttoned? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire and posture provocative or intimate? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What is the color of the man's shorts? | Gray. |
+| How | How is the man's shirt unbuttoned? | Partially. |
+| What | What is the zipper fly of the man's shorts? | Zipper. |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Are the shorts gray? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the man's shirt striped? | Yes. |
+| Yes/No | Does the image have any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image casual and everyday? | Yes. |
+| What | What is the color of the shorts? | Gray. |
+| How | How many pockets does the man's shirt have? | 2 (two). |
+| How | How is the man's pose in the image? | Relaxed, with his hands in his pockets. |
+| What | What does the image suggest about the setting? | A relaxed, informal setting. |

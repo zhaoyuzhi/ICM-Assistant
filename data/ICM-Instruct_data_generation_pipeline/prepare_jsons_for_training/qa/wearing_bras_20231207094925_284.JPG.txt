@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the image focused on the woman's upper body? | Yes. |
+| Yes/No | Does the image capture the woman from the waist up? | Yes. |
+| Yes/No | Is the black bra being put on over the beige bra? | Yes. |
+| Yes/No | Does the image have a sexy tone? | Yes. |
+| What | What color is the beige bra? | Beige. |
+| What | What is the woman doing in the image? | Putting on a black bra. |
+| How | How is the woman looking at the camera? | She is looking up at the camera. |
+| How | How can the contrast between the beige bra and the black bra be described? | It adds an element of intrigue and allure to the image. |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on a black bra? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman looking up at the camera? | Yes. |
+| Yes/No | Does the image capture the woman's full body? | No. |
+| Yes/No | Does the image focus on the woman's upper body and the bras she is wearing? | Yes. |
+| What | What is the color of the bra that the woman is putting on? | Black. |
+| What | What is the color of the other bra that the woman is wearing? | Beige. |
+| How | How is the woman's demeanor in the image? | Confident and playful. |
+| How | How does the contrast between the two bras contribute to the image's overall feeling? | It adds an element of intrigue and allure. |

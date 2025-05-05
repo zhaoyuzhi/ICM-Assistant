@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige bra with a lace trim? | Yes. |
+| Yes/No | Is the woman standing against a white background? | Yes. |
+| Yes/No | Is the woman's hand placed on her shoulder? | Yes. |
+| Yes/No | Is the woman looking downwards? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the bra the woman is wearing? | Beige. |
+| What | What is the woman's posture suggesting? | Confidence. |
+| How | How does the close-up nature of the image affect the viewer's focus? | It allows the viewer to focus on the woman's body and the details of her clothing. |
+| How | How does the white background contrast with the woman's figure? | It provides a stark contrast that further emphasizes the woman's figure. |

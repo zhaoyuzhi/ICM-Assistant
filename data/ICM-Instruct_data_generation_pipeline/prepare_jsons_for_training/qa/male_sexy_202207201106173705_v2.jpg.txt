@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the weight machine black and silver? | Yes. |
+| Yes/No | Is the man wearing black shorts? | Yes. |
+| Yes/No | Is the man wearing black shoes? | Yes. |
+| Yes/No | Is the image set in a gym setting? | Yes. |
+| Yes/No | Does the image evoke a sense of desire? | Yes. |
+| What | What is the man lifting weights with? | A black and silver weight machine. |
+| What | What is the man wearing? | Black shorts and black shoes. |
+| How | How is the man lifting the weights? | The man is lifting the weights by using the black and silver weight machine. |
+| How | How does the image create an atmosphere? | The image creates an atmosphere that is both visually appealing and evokes a sense of desire by featuring a shirtless man lifting weights in a gym setting. |

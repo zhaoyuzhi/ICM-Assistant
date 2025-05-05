@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a striped shirt? | Yes. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the man's hand on the woman's face? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and affection? | Yes. |
+| Yes/No | Is the image visually appealing? | Yes. |
+| What | What is the man wearing? | A striped shirt. |
+| What | What is the woman wearing? | A necklace. |
+| How | How are the couple standing? | Close to each other. |
+| How | How does the man's hand on the woman's face suggest an intimate interaction? | It suggests a romantic and passionate moment between the couple. |

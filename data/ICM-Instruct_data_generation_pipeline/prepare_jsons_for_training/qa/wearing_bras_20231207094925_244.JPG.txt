@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are the bra and underwear the same color? | Yes. |
+| Yes/No | Is the background of the image light blue? | Yes. |
+| Yes/No | Are there flowers in the top left corner of the image? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and allure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the bra and underwear? | Pink. |
+| What | What is the woman doing in the image? | Putting on her bra. |
+| How | How does the woman's pose suggest confidence and allure? | The woman is standing with her hands on her hips and a sly smile on her face, which conveys a sense of confidence and allure. |
+| How | How does the light blue background and flowers in the top left corner add to the overall mood of the image? | The light blue background and flowers in the top left corner create a soothing and calming atmosphere that contrasts with the woman's confident and alluring pose, making the image visually appealing and sexy. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Are the bra and underwear pink? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the background of the image light blue? | Yes. |
+| Yes/No | Are there flowers in the top left corner of the image? | Yes. |
+| What | What color are the bra and underwear? | Pink. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How is the woman posing in the image? | Confidently and alluringly. |
+| How | How does the background and flowers in the image contribute to its overall atmosphere? | The light blue background and flowers in the top left corner add a soothing and calming atmosphere, contrasting with the woman's confident and alluring pose, creating a visually appealing and sexy image. |

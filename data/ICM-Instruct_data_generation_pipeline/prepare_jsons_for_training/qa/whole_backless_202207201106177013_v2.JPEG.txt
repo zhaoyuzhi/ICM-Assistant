@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Are the person's black and white sneakers visible in the image? | Yes. |
+| How | Does the image showcase the person's physique in a sexy way? | Yes. |
+| What | What color are the person's leggings in the image? | Blue. |
+| What | What type of shoes is the person wearing in the image? | Black and white sneakers. |
+| How | How is the person's back exposed in the image? | The person's back is exposed because they are not wearing a shirt or jacket. |
+| How | How does the combination of the black sports bra and blue leggings create a visually appealing contrast in the image? | The contrast between the black and blue creates a visually striking image, with the black sports bra standing out against the blue leggings. |

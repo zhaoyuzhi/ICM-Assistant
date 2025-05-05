@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin wearing a black top? | Yes. |
+| Yes/No | Are the mannequin's shorts cropped at the knee? | Yes. |
+| Yes/No | Is the mannequin's pose relaxed? | Yes. |
+| Yes/No | Are the mannequin's arms relaxed at its sides? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the mannequin's top? | Black. |
+| What | What is the color of the mannequin's shorts? | White. |
+| How | How are the mannequin's legs positioned? | Slightly apart. |
+| How | How would you describe the mannequin's overall pose? | Relaxed and confident. |

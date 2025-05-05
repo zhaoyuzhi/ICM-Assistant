@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing sweatpants? | Yes. |
+| Yes/No | Is the woman in the image holding her sweatpants open? | Yes. |
+| Yes/No | Is the woman in the image standing against a white background? | Yes. |
+| Yes/No | Does the image depict a sexy scene? | Yes. |
+| How | Is the woman in the image showing her midriff? | Yes. |
+| What | What is the woman in the image wearing on her top? | A black sports bra. |
+| What | What color are the woman's sweatpants in the image? | Gray. |
+| How | How is the woman holding her sweatpants open in the image? | With her left hand. |
+| How | How does the white background of the image affect the overall look of the image? | It provides a stark contrast, further emphasizing the woman and her outfit. |

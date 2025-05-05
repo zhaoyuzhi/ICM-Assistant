@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Is the person's skin tone dark? | Yes. |
+| Yes/No | Is the belly button the main focus of the image? | Yes. |
+| Yes/No | Are the person's clothes casual? | Yes. |
+| What | What is the person's attire in the image? | Black top and blue jeans. |
+| What | What is the symbolism of the belly button piercing in the image? | Selfexpression and confidence. |
+| How | How does the person's skin tone contribute to the image's overall aesthetic? | It adds warmth and depth to the image. |
+| How | How does the combination of the person's attire, skin tone, and piercing create a visually appealing image? | The combination creates a sexy and sensual atmosphere, with the piercing drawing attention to the person's body and selfexpression. |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Does the person have a belly button piercing? | Yes. |
+| Yes/No | Is the person's navel ring visible in the image? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the person's attire casual? | Yes. |
+| What | What is the color of the person's top? | Black. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How would you describe the overall style of the person's attire? | Casual yet stylish. |

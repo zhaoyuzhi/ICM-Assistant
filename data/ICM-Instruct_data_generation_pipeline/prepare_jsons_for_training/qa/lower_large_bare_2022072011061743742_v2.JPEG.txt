@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| How | Does the image show a close-up of the person's face? | No. |
+| Yes/No | Is the person in the image sitting or standing? | No. |
+| What | What color is the person's underwear in the image? | Black. |
+| What | What is the color of the bed in the image? | White. |
+| How | How many articles of clothing is the person wearing in the image? | 2 (white shirt and black underwear). |
+| How | How is the person's lower body exposed in the image? | The person's legs are crossed, revealing their lower body and black underwear. |

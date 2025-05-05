@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the person's nose prominent in the image? | Yes. |
+| Yes/No | Does the person have a pouting expression? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive? | Yes. |
+| Yes/No | Does the image evoke a sense of confidence and self-assurance? | Yes. |
+| Yes/No | Does the close-up nature of the photo create a sense of intimacy? | Yes. |
+| What | What color is the person's lipstick? | Red. |
+| What | What is the person's facial expression? | Pouting. |
+| How | How does the person's nose contribute to their overall facial features? | It appears welldefined, contributing to their overall attractiveness. |
+| How | How does the image make the viewer feel? | It creates a sense of intimacy and makes the viewer feel as if they are part of the scene. |

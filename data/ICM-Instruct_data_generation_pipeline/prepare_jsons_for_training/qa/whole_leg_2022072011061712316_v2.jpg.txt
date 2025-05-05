@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the background plain and white? | Yes. |
+| Yes/No | Is the woman wearing a gray sweater? | Yes. |
+| Yes/No | Are the shorts checkered? | Yes. |
+| Yes/No | Is the woman holding a small white purse in her left hand? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the woman wearing? | A gray sweater and white shorts. |
+| What | What is the pattern on the shorts? | Checkered. |
+| How | How is the woman standing? | Neutral. |
+| How | How does the woman's pose and direct gaze into the camera make the image sexy? | It suggests confidence and allure, and creates a sense of direct engagement with the viewer. |

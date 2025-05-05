@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person performing a specific action in the image? | No. |
+| Yes/No | Is the atmosphere of the image simple and focused on the person's attire? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the blue leggings tight-fitting? | Yes. |
+| What | What is the person wearing in the image? | Blue leggings that cover their legs and torso. |
+| What | What is the background color of the image? | White. |
+| How | How are the blue leggings accentuating the person's legs? | They are tightfitting, creating a sense of allure and mystery. |
+| How | How does the exposed belly add to the overall atmosphere of the image? | It adds an element of intimacy and vulnerability, enhancing the allure of the image. |

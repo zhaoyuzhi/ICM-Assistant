@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image driving a red sports car? | Yes. |
+| Yes/No | Is the man wearing a black baseball cap? | Yes. |
+| Yes/No | Is the man wearing sunglasses? | Yes. |
+| Yes/No | Is the man's shirt black? | Yes. |
+| Yes/No | Is the image overly bright or washed out? | No. |
+| Yes/No | Does the image create a sexy atmosphere? | No. |
+| What | What is the color of the sports car in the image? | Red. |
+| What | What is the man's facial expression in the image? | Focused/Determined. |
+| How | How is the man dressed in the image? | Casually. |
+| How | How does the low exposure level contribute to the image's atmosphere? | It adds a sense of realism and authenticity. |

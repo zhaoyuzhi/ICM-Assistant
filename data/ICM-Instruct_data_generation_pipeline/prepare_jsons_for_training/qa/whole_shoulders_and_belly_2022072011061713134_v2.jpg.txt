@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Are the woman's legs covered in the image? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera in the image? | Yes. |
+| Yes/No | Does the image feature any other people besides the woman? | No. |
+| Yes/No | Is the woman's midriff exposed in the image? | Yes. |
+| What | What color is the woman's tank top in the image? | White. |
+| What | What is the woman's pose in the image? | Sitting on the floor. |
+| How | How is the woman's hair styled in the image? | In a ponytail. |
+| How | How is the woman looking in the image? | With a slight smile. |

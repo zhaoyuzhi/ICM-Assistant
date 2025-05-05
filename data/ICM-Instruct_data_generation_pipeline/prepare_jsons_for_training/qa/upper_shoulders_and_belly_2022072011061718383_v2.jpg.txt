@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Does the dress have a low neckline? | Yes. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Is the background of the image a blue sky with white clouds? | Yes. |
+| Yes/No | Does the woman have her hand on her shoulder? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the woman's pose in the image? | She is posing with her hand on her shoulder. |
+| How | How does the woman's attire contribute to the sexy atmosphere of the image? | The woman's strapless dress with a low neckline and her necklace add to the sexy feel of the image. |
+| How | How does the background contrast with the woman's attire? | The blue sky with white clouds provides a stark contrast to the woman's white dress, further emphasizing her presence in the image. |

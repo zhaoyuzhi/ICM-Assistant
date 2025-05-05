@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a watch? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the person's clothes revealing or suggestive? | No. |
+| Yes/No | Is the atmosphere of the image calm and neutral? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire casual and non-sexual? | Yes. |
+| What | What is the person wearing on their left wrist? | A watch. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| How | How is the person's attire depicted in the image? | The person is wearing black pants and a black shirt. |
+| How | How does the image depict the person's actions? | The person's actions are not depicted in the image. |

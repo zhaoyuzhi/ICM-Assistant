@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the person's legs spread apart in the image? | Yes. |
+| Yes/No | Is the image set in a bedroom? | Yes. |
+| Yes/No | Does the image contain any explicit content? | No. |
+| Yes/No | Is the person's attire in the image suggestive? | Yes. |
+| Yes/No | Does the image create a seductive and alluring visual experience? | Yes. |
+| What | What is the person wearing on their feet in the image? | White heels. |
+| What | What is the color of the person's top in the image? | White. |
+| How | How are the person's legs positioned in the image? | Spread apart. |
+| What | What creates a contrast with the person's skin in the image? | The white top and heels. |

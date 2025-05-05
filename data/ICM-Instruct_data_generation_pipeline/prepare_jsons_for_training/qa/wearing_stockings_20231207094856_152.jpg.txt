@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the stockings being put on by the person black? | Yes. |
+| Yes/No | Does the person have their legs crossed? | Yes. |
+| Yes/No | Is the person's hand placed on their thigh? | Yes. |
+| Yes/No | Are the stockings designed with a ruffled top? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their lower body? | Black stockings. |
+| What | What is the color of the person's sweater? | White. |
+| How | How are the stockings being put on by the person? | The person is in the process of putting on the stockings. |
+| What | What is the atmosphere of the image? | Intimate and sensual. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the stockings black? | Yes. |
+| Yes/No | Are the stockings designed with a ruffled top? | Yes. |
+| Yes/No | Is the person's hand placed on their thigh? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the contrast between the white sweater and black stockings highlight the person's legs? | Yes. |
+| What | What is the person in the image doing? | Putting on black stockings. |
+| What | What is the atmosphere of the image? | Intimate and sensual. |
+| How | How are the stockings designed? | With a ruffled top and shiny black fabric. |
+| How | How is the image shot? | Closeup perspective. |

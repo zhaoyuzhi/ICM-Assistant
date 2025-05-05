@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person's chin tucked in? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's lips? | Yes. |
+| Yes/No | Is the person's skin tone light? | Yes. |
+| Yes/No | Are the person's lips a vibrant red color? | Yes. |
+| What | What is the facial expression of the person in the image? | Pouting. |
+| What | What is the dominant color of the person's lips? | Red. |
+| How | How does the close-up nature of the image affect the viewer's perception of the person's lips? | It allows the viewer to focus on the lips and the person's facial expression, which can be perceived as flirtatious or provocative. |
+| How | How does the combination of the pouting expression and red lipstick create an atmosphere? | It creates a seductive and enticing atmosphere. |

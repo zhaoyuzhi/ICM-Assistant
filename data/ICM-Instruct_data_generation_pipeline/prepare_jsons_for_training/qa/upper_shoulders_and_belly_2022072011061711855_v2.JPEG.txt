@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Does the top have a cutout in the middle? | Yes. |
+| Yes/No | Are the sleeves of the top long? | Yes. |
+| Yes/No | Is the woman wearing black sweatpants? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's pose and attire suggestive of a casual, sporty style? | Yes. |
+| What | What is the color of the woman's top? | Black. |
+| What | What is the design of the woman's top? | Vneck and long sleeves. |
+| How | How does the woman's pose and attire suggest a sense of confidence and self-assuredness? | The woman's strapless or midriffbaring outfit and casual, sporty style pose suggest a sense of confidence and selfassuredness. |
+| How | How does the overall atmosphere of the image contribute to its perception as sexy? | The overall atmosphere of the image is casual and relaxed, which can contribute to its perception as sexy. |

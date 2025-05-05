@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Is the person in the image putting on white stockings? | Yes. |
+| Yes/No | Is the person's right hand holding the stocking? | Yes. |
+| Yes/No | Is the person's left hand holding their foot? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Are the person's legs and feet exposed in the image? | Yes. |
+| What | What is the person in the image wearing? | A plaid skirt and white stockings. |
+| What | What is the person in the image doing? | Putting on stockings. |
+| How | How is the person holding the stocking? | With their right hand. |
+| How | How is the person holding their foot? | With their left hand. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Is the person in the image putting on white stockings? | Yes. |
+| Yes/No | Is the person's right hand holding the stocking? | Yes. |
+| Yes/No | Is the person's left hand holding the foot? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Are the person's legs and feet exposed in the image? | Yes. |
+| What | What is the person in the image wearing? | A plaid skirt and white stockings. |
+| What | What is the person in the image doing? | Putting on stockings. |
+| How | How is the person holding the stocking? | With their right hand. |
+| How | How is the person holding their foot? | With their left hand. |

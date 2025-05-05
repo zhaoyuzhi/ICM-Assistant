@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image holding a cell phone? | Yes. |
+| Yes/No | Is the man in the image sitting on a couch? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the man in the image wearing a gray sweater? | Yes. |
+| Yes/No | Is the image taken in a dimly lit room? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the man in the image holding in his hand? | A cell phone. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How is the man in the image positioned on the couch? | He is sitting with his back supported by the backrest. |
+| How | How does the image focus on the man's posture? | The image highlights the man's casual and relaxed posture, with his legs crossed and his arm resting on the armrest. |

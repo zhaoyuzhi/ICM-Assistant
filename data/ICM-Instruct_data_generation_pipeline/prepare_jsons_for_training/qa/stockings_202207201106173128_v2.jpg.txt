@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image contain explicit content? | No. |
+| Yes/No | Is the person in the image posed in a relaxed position? | Yes. |
+| What | What is the person in the image wearing? | Black stockings and a black dress. |
+| What | What is the overall atmosphere of the image? | Intimate and sensual. |
+| How | How are the person's legs positioned in the image? | Crossed and resting on the bed. |
+| How | How does the black stockings and dress add to the allure of the image? | They create a sense of mystery and allure, while the person's crossed legs and relaxed posture suggest a sense of comfort and confidence. |

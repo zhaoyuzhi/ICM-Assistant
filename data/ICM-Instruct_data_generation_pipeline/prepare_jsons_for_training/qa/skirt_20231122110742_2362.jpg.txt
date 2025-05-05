@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman in the image standing in a room with a white wall? | Yes. |
+| Yes/No | Is the woman in the image standing near a bed? | Yes. |
+| Yes/No | Is the woman in the image lifting her dress to reveal her legs? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What is the color of the woman's skirt? | Black. |
+| What | What is the color of the woman's top? | White. |
+| How | How is the woman posing in the image? | Confidently. |
+| How | How does the woman's actions in the image suggest? | Sense of confidence and allure. |

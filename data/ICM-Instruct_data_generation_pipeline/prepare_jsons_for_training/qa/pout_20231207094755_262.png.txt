@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the woman have a playful expression? | Yes. |
+| Yes/No | Is the woman's facial expression seductive? | Yes. |
+| Yes/No | Are the woman's lips slightly parted? | Yes. |
+| Yes/No | Does the image create a sense of intimacy? | Yes. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| What | What is the woman looking at? | The camera. |
+| How | How is the woman's hair styled? | Blonde. |
+| How | How does the woman's gaze contribute to the overall atmosphere of the image? | It adds to the sense of intimacy and allure. |

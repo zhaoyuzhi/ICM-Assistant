@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | No. |
+| Yes/No | Are the woman's boots black? | Yes. |
+| Yes/No | Is the woman carrying a purse? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman carrying in her hand? | A black purse. |
+| What | What is the color of the woman's boots? | White. |
+| How | How does the woman's hair look like? | Loose waves. |
+| How | How does the woman's dress look like? | It reaches her knees and is styled in a sexy way. |

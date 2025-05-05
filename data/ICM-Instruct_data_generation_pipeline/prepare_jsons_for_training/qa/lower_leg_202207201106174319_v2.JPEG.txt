@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are her legs crossed in the image? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the woman have her gaze downward in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman sitting on in the image? | A white box. |
+| What | What is the color of the woman's shoes in the image? | Black. |
+| How | How does the woman's pose in the image contribute to the overall sensuality of the image? | Her crossed legs and downward gaze add to the overall sensuality of the image. |
+| How | How does the plain white background affect the focus of the image? | It puts the focus solely on the woman, emphasizing her as the subject of the image. |

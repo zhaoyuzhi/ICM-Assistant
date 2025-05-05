@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Is the person's shirt visible in the image? | No. |
+| Yes/No | Are the pants loose-fitting? | Yes. |
+| How | Does the image show a small portion of the person's body? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the image sexy or provocative? | No. |
+| What | What color are the pants? | Beige. |
+| What | What is the person's shirt color? | White. |
+| How | How are the pants fitting? | Slim fit. |
+| How | How much of the person's body is visible in the image? | A small portion of their lower body. |
+| Yes/No | Is the person in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Is the person's shirt white? | Yes. |
+| Yes/No | Is the person's attire revealing? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a sexy or provocative context? | No. |
+| What | What is the color of the person's pants? | Beige. |
+| What | What is the overall atmosphere of the image? | Casual and everyday. |
+| How | How is the person dressed in the image? | In a simple and comfortable outfit. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the person's clothing and the overall atmosphere, rather than on the person's body or appearance. |

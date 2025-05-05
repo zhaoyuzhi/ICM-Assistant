@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a person's face? | Yes. |
+| Yes/No | Does the person in the image have a smile on their face? | Yes. |
+| Yes/No | Are the person's eyes visible in the image? | No. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Do the person's lips appear alluring in the image? | Yes. |
+| What | What is the main focus of the image? | The person's lips and mouth. |
+| What | What is the facial expression of the person in the image? | A slight smile. |
+| How | How does the close-up nature of the image contribute to its atmosphere? | It allows the viewer to focus on the person's lips and mouth, creating a sense of intimacy and allure. |
+| How | How do the person's slightly parted lips reveal their teeth? | They reveal the person's teeth in a way that can be perceived as alluring. |

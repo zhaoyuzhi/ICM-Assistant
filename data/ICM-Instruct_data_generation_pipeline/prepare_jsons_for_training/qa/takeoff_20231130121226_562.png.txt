@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue top? | Yes. |
+| Yes/No | Are there white curtains in the room? | Yes. |
+| Yes/No | Is the woman taking off her clothes? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image depict a private space? | Yes. |
+| Yes/No | Is the woman's body exposed in the image? | Yes. |
+| What | What is the woman wearing on the bottom? | White shorts. |
+| What | What is the color of the woman's top? | Blue. |
+| How | How is the woman removing her clothes? | Starting with her top. |
+| How | How does the natural light coming through the window contribute to the atmosphere of the image? | It creates a warm and inviting environment. |

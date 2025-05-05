@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the man in the image supporting the woman? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| What | What is the man doing in the image? | He is holding her waist and providing support. |
+| How | How is the woman adjusting her bra? | She is holding the straps with both hands and adjusting them to fit her body. |
+| How | How is the man supporting the woman? | He is holding her waist with his hands. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the man in the image holding the woman's waist? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Is the woman in the process of putting on her bra? | Yes. |
+| Yes/No | Are the man's actions supportive and assisting the woman? | Yes. |
+| Yes/No | Is the color of the bra light blue? | Yes. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| What | What is the man doing in the image? | He is holding her waist and providing support. |
+| How | How is the woman adjusting the bra? | She is holding the straps with both hands and adjusting them to fit her body. |
+| How | How is the man supporting the woman? | He is holding her waist with his hands. |

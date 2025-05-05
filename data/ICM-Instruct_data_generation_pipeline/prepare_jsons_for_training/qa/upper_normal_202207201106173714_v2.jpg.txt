@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a chef or cook? | Yes. |
+| Yes/No | Is the person wearing a brown apron? | Yes. |
+| Yes/No | Is the person wearing a face mask? | Yes. |
+| Yes/No | Is the person holding a pair of tongs? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the atmosphere of the image professional? | Yes. |
+| What | What is the person in the image preparing? | Food. |
+| What | What is the person in the image holding? | Tongs. |
+| How | How is the person in the image dressed? | In a brown apron and face mask. |
+| How | How is the food being prepared? | With tongs. |

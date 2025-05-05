@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a black jacket? | Yes. |
+| Yes/No | Are they both looking at their cell phones? | Yes. |
+| Yes/No | Is the background of the image an urban setting? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the interaction between the man and woman? | Yes. |
+| What | What is the man wearing? | Blue shirt and jeans. |
+| What | What is the woman wearing? | Black jacket and black pants. |
+| How | How are the man and woman engaged? | They are both looking at their cell phones. |
+| What | What does the low exposure level of the image suggest? | It suggests that the image was taken in a public space where privacy is respected. |

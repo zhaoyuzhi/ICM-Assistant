@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a NASA t-shirt? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun? | Yes. |
+| Yes/No | Does the woman have a nose piercing? | Yes. |
+| Yes/No | Is the woman holding her shirt open with her left hand? | Yes. |
+| Yes/No | Are the woman's bikini bottoms visible in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image bold and confident? | Yes. |
+| What | What is the woman holding in her left hand? | Her shirt. |
+| What | What is the unique and interesting element added by the NASA t-shirt? | The NASA logo or design. |
+| How | How is the woman's pose in the image? | She is standing with her shirt open, inviting the viewer to focus on her body and attire. |
+| How | How does the image showcase the woman's body? | It showcases her stomach and upper body, with her shirt open and bikini bottom visible. |

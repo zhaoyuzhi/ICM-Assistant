@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image featuring a pair of sneakers? | Yes. |
+| Yes/No | Are the sneakers white? | Yes. |
+| Yes/No | Do the sneakers have brown laces? | Yes. |
+| Yes/No | Is the brand name "HUMAN" visible on the sneakers? | Yes. |
+| Yes/No | Are the laces neatly tied? | Yes. |
+| Yes/No | Do the sneakers appear to be in pristine condition? | Yes. |
+| What | What is the main focus of the image? | The pair of white sneakers. |
+| What | What is the material of the table on which the sneakers are placed? | Wood. |
+| How | How are the laces tied? | Neatly. |
+| How | How does the image showcase the sneakers? | By emphasizing their design and quality. |

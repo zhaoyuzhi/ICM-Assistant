@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing leggings? | Yes. |
+| Yes/No | Is the woman in the image holding a weight? | Yes. |
+| Yes/No | Is the woman in the image squatting? | Yes. |
+| Yes/No | Is the woman in the image wearing white sneakers? | Yes. |
+| Yes/No | Does the image create a seductive or alluring atmosphere? | Yes. |
+| What | What is the color of the woman's sports bra and leggings? | Red. |
+| What | What is the woman's right hand placed on? | Her hip. |
+| How | How is the woman holding the weight? | With her left hand. |
+| How | How is the woman's right hand positioned? | On her hip. |

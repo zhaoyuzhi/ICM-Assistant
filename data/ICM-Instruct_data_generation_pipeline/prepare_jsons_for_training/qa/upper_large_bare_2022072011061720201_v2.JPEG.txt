@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top green and white? | Yes. |
+| Yes/No | Is the bikini bottom blue and white? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other discernible objects or people? | No. |
+| What | What is the color of the bikini top? | Green and white. |
+| What | What is the color of the bikini bottom? | Blue and white. |
+| How | How is the woman standing on the beach? | She is standing confidently with her feet visible beneath her. |
+| How | How does the woman's gaze contribute to the overall allure of the image? | Her direct gaze meets ours and enhances the sensual atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra purple? | Yes. |
+| Yes/No | Is the woman looking downwards? | Yes. |
+| Yes/No | Is the background of the image a gradient of blue? | Yes. |
+| Yes/No | Does the image create a calm and serene atmosphere? | Yes. |
+| Yes/No | Is the woman's pose in the image sexy? | Yes. |
+| What | What color is the bra the woman is wearing? | Purple. |
+| What | What is the woman in the image possibly doing? | Contemplating or lost in thought. |
+| How | How does the purple lace bra add to the woman's appearance? | It adds a touch of sophistication and femininity. |
+| How | How does the gradient blue background contribute to the overall mood of the image? | It creates a calming and soothing ambiance. |

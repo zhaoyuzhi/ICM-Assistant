@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a wrap skirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have any other clothing on besides the bikini top and wrap skirt? | No. |
+| What | What is the color of the bikini top? | Purple. |
+| What | What is the color of the wrap skirt? | White. |
+| How | How is the woman posing in the image? | With her hands on her hips. |
+| How | How does the white background affect the overall appearance of the image? | It provides a stark contrast, making the woman the focal point of the image. |

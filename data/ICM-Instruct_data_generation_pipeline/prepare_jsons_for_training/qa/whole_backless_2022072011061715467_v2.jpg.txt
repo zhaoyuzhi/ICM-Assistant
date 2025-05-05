@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a cutout in the back? | Yes. |
+| Yes/No | Is the garden in the background lush and green? | Yes. |
+| Yes/No | Is the overall atmosphere of the photo seductive and captivating? | Yes. |
+| Yes/No | Is the woman's attire and pose associated with a sexy and alluring appearance? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the woman's pose in the image? | Standing in the garden with her back to the camera. |
+| How | How does the woman's attire contribute to the sexy atmosphere of the photo? | The black dress with the large cutout in the back exposes a significant amount of the woman's skin, which is often associated with a sexy and alluring appearance. |
+| How | How does the woman's pose add to the intrigue of the image? | The woman's pose, standing in the garden with her back to the camera, adds an element of mystery and intrigue to the image. |

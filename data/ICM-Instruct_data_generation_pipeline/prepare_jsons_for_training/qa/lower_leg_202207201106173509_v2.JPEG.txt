@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing green shorts? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the person standing with their legs apart? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Are there any other discernible objects in the image? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color are the person's shorts? | Green. |
+| What | What type of shoes is the person wearing? | White shoes. |
+| How | How is the person standing in the image? | With their legs apart and hands on their hips. |
+| What | What does the person's pose and attire suggest about the atmosphere of the image? | A casual and relaxed atmosphere. |

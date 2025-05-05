@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of beige shorts? | Yes. |
+| Yes/No | Does the woman have a drawstring waist in her shorts? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Is the woman wearing a purple crop top? | Yes. |
+| Yes/No | Is the top cropped at the waist? | Yes. |
+| Yes/No | Does the woman have her hands resting on her hips? | Yes. |
+| What | What is the color of the woman's shorts? | Beige. |
+| What | What is the color of the woman's crop top? | Purple. |
+| How | How are the shorts designed? | They are designed with a drawstring waist, allowing for a comfortable and adjustable fit. |
+| How | How does the woman's pose enhance the atmosphere of the image? | Her confident pose, with her hands resting on her hips, adds to the overall sensuality of the image. |

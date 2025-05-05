@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Is the person wearing a skirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's hands resting on their knees? | Yes. |
+| Yes/No | Are the person's socks knee-high? | Yes. |
+| Yes/No | Does the image have an intimate or suggestive atmosphere? | Yes. |
+| What | What is the person's pose in the image? | The person's pose is sitting with their legs crossed. |
+| What | What type of socks is the person wearing? | Kneehigh socks. |
+| How | How are the person's hands positioned in the image? | The person's hands are resting on their knees. |
+| How | How does the person's attire and pose evoke a sense of sensuality? | The person's attire and pose evoke a sense of sensuality because of the combination of the skirt, crossed legs, and kneehigh socks, which are often associated with intimacy and confidence. |

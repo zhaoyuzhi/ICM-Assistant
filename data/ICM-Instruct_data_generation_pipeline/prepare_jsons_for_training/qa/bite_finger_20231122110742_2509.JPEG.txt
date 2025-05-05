@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | No. |
+| Yes/No | Is the person in the image wearing clothes? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Does the image contain any other people or objects? | No. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the person in the image doing with their finger? | Putting it inside their mouth. |
+| What | What is the facial expression of the person in the image? | Not visible. |
+| How | How is the overall atmosphere of the image conveyed? | Through the closeup nature of the image and the association of the action with intimacy and sexuality. |
+| How | How does the image portray the person's facial features? | Through a closeup of the person's face, highlighting their nose, lips, and tongue. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red bikini bottom? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Is the chair covered with a blue towel? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image showcase the person's form? | Yes. |
+| Yes/No | Does the image emphasize the beauty of the beach setting? | Yes. |
+| What | What is the color of the bikini bottom? | Red. |
+| What | What is the color of the towel covering the chair? | Blue. |
+| How | How is the person positioned on the chair? | Laying down. |
+| How | How does the image create an atmosphere? | Visually appealing and evocative. |

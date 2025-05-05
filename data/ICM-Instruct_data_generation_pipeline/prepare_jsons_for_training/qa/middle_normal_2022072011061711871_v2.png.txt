@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of navy blue sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a matching navy blue sweatshirt? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Are the person's hands tucked into the pockets of their sweatpants? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| What | What color are the person's sweatpants and sweatshirt? | Navy blue. |
+| What | What is the person's pose in the image? | Standing with hands casually tucked into pockets. |
+| How | How much of the person's body is visible in the image? | A small portion. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It creates a nonsexual atmosphere by not highlighting any provocative or revealing elements. |
+| Yes/No | Is the person in the image wearing a navy blue sweatshirt and sweatpants? | Yes. |
+| Yes/No | Is the person's left hand tucked into their pocket? | Yes. |
+| Yes/No | Is the person's right hand resting on their hip? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the person's clothing and pose modest? | Yes. |
+| Yes/No | Does the gray wall in the background contribute to a neutral and non-sexual tone? | Yes. |
+| What | What color is the person's sweatshirt and sweatpants? | Navy blue. |
+| What | What is the person's right hand doing? | Resting on their hip. |
+| How | How is the person's left hand positioned? | Tucked into their pocket. |
+| How | How does the gray wall in the background contribute to the tone of the image? | It creates a neutral and nonsexual atmosphere. |

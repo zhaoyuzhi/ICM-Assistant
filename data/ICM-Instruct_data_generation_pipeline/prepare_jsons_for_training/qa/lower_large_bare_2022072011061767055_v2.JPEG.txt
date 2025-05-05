@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Are the bracelets on the person's wrists a matching set? | No. |
+| Yes/No | Is the image set in a tropical location? | No. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What type of swimwear is the person wearing? | Bikini. |
+| What | What is the atmosphere of the image? | Relaxed, summery. |
+| How | How is the person posing in the image? | Confidently, with their lower body exposed. |
+| How | How does the beach setting contribute to the image's overall atmosphere? | It adds to the relaxed, summery feeling. |

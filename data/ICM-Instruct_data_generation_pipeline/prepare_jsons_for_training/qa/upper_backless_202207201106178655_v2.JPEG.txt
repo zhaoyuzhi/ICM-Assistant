@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini yellow? | Yes. |
+| Yes/No | Are the thin straps of the top and bottom tied at the back and sides, respectively? | Yes. |
+| Yes/No | Does the image feature a white background? | Yes. |
+| Yes/No | Is the person's back the focal point of the image? | Yes. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| What | What color is the bikini? | Yellow. |
+| What | What is the design of the bottom of the bikini? | A classic triangle shape. |
+| How | How are the thin straps of the top and bottom tied? | They tie at the back and sides, respectively. |
+| How | How does the white background enhance the image? | It creates a stark contrast with the yellow bikini, drawing attention to the person's back and the revealing nature of the swimsuit. |

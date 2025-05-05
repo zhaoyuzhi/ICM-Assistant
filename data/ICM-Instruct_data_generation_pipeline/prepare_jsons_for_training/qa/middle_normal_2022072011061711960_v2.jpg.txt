@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing khaki pants? | Yes. |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man standing in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image neutral? | Yes. |
+| What | What color are the man's pants? | Khaki. |
+| What | What is the man's shirt color? | Blue. |
+| How | How is the man dressed in the image? | Casually. |
+| How | How much of the man's body is visible in the image? | Only a small portion. |
+| Yes/No | Is the man in the image wearing khaki pants? | Yes. |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose in the image relaxed and casual? | Yes. |
+| Yes/No | Does the image evoke a sexual atmosphere? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man's pose in the image? | He is standing with his hands in his pockets. |
+| What | What is the overall atmosphere of the image? | Calm and nonthreatening. |
+| How | How much of the man's body is visible in the image? | Only a small portion. |
+| How | How does the low exposure level of the image affect the potential for a sexual impression? | It reduces the potential for any sexual implications. |

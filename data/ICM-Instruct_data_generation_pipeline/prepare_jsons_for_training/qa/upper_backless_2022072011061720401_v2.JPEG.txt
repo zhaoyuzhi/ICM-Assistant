@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's hair long? | Yes. |
+| Yes/No | Is the person's back exposed? | Yes. |
+| Yes/No | Is the white shirt draped over the person's shoulder? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| What | What color is the person's bra? | Black. |
+| What | What is the person holding over their shoulder? | A white shirt. |
+| How | How is the person's hair styled? | It is flowing behind them. |
+| How | How does the white shirt add to the image's atmosphere? | It adds an element of mystery and intrigue, partially concealing the person's torso while still revealing the bra. |

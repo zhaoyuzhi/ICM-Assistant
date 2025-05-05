@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person's facial expression playful? | Yes. |
+| Yes/No | Does the image feature any bright colors? | No. |
+| Yes/No | Does the person have their eyes closed? | No. |
+| Yes/No | Are the person's lips pink? | Yes. |
+| Yes/No | Does the image give off a flirtatious vibe? | Yes. |
+| Yes/No | Does the image depict a kiss? | No. |
+| What | What is the person's facial expression? | Playful and seductive. |
+| What | What is the overall atmosphere of the image? | Flirtatious and inviting. |
+| How | How does the person's pouted mouth contribute to the image's allure? | It creates a sense of mystery and allure. |
+| How | How does the image use color? | It uses pink lips to add a touch of color and softness. |

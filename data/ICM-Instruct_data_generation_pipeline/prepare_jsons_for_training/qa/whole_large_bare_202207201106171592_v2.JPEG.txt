@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman lying on her back? | No. |
+| Yes/No | Is the woman's left hand placed on her hip? | Yes. |
+| Yes/No | Is the woman's right hand resting on her thigh? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's bikini reveal a significant amount of her body? | Yes. |
+| What | What color is the woman's bikini? | Red and white. |
+| What | What is the woman's hair color? | Not visible in the image. |
+| How | How is the woman's left hand positioned on her hip? | It is placed flat on her hip, with her fingers spread out. |
+| How | How is the woman's right hand positioned on her thigh? | It is resting lightly on her thigh, with her fingers curled up. |

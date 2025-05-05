@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and gold dress? | Yes. |
+| Yes/No | Is the dress high-waisted? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the woman wearing black tights? | Yes. |
+| Yes/No | Are her high heels visible in the image? | Yes. |
+| What | What is the color of the background in the image? | Green. |
+| What | What is the woman's pose in the image? | She is standing with her left leg extended behind her and her right leg bent at the knee. |
+| How | How does the woman's attire contribute to the overall allure of the image? | The highwaisted dress and plunging neckline reveal her thighs, creating a sexy and alluring atmosphere. |
+| How | How does the woman's pose contribute to the overall allure of the image? | Her dynamic pose, with her left leg extended behind her and her right leg bent at the knee, adds to the overall allure of the image, creating a seductive and enticing atmosphere. |

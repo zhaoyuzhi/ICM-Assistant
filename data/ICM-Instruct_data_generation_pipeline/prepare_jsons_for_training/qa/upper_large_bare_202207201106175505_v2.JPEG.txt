@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Are her arms raised above her head? | Yes. |
+| Yes/No | Is she looking up at the sky? | Yes. |
+| Yes/No | Is the beach surrounded by rocks? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| What | What is the woman wearing in the image? | A white bikini top and a white bikini bottom. |
+| What | What is the main focus of the image? | The woman's body, specifically her upper body. |
+| How | How is the woman posing in the image? | Confidently, with her arms raised above her head. |
+| How | How does the beach setting contribute to the atmosphere of the image? | It adds to the allure and relaxed atmosphere, associate with summer and vacation. |

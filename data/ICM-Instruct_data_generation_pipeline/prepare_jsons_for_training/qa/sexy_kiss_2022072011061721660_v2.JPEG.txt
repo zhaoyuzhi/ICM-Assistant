@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Is the woman wearing a white coat? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's neck? | Yes. |
+| Yes/No | Is the woman's mouth slightly ajar? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | A black jacket. |
+| What | What is the woman wearing? | A white coat. |
+| How | How are the man and woman standing? | Close to each other. |
+| How | How are the man's arms positioned? | Wrapped around the woman's neck. |

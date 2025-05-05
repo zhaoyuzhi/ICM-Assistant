@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing red pants? | Yes. |
+| Yes/No | Are the pants loose-fitting? | Yes. |
+| Yes/No | Do the pants have a bell bottom design? | Yes. |
+| Yes/No | Is the woman wearing white sneakers? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the pants? | Red. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips. |
+| How | How do the red pants and white sneakers complement each other? | They contrast nicely, creating a visually appealing combination. |
+| How | How does the image make you feel? | It evokes feelings of confidence and boldness. |

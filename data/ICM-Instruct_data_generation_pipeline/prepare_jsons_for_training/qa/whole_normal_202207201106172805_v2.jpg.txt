@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image sexually explicit? | No. |
+| Yes/No | Are any of the women wearing revealing clothing? | No. |
+| Yes/No | Are the women engaged in any suggestive or provocative poses? | No. |
+| Yes/No | Is the image appropriate for all audiences? | Yes. |
+| Yes/No | Does the image contain any explicit or inappropriate content? | No. |
+| Yes/No | Are the women dressed in modest clothing? | Yes. |
+| What | What is the dominant color of the woman's dress in the top left? | Blue. |
+| What | What is the dominant color of the woman's sweater in the top right? | Pink. |
+| What | What is the overall atmosphere of the image? | Calm and composed. |

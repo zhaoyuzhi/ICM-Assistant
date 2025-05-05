@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray sports bra? | Yes. |
+| Yes/No | Are they wearing black leggings? | Yes. |
+| Yes/No | Is the person sitting on a couch? | Yes. |
+| Yes/No | Are their legs crossed? | Yes. |
+| Yes/No | Is the person looking down at the floor? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the person's sports bra? | Gray. |
+| What | What is the color of the person's leggings? | Black. |
+| How | How is the person's buttocks displayed in the image? | Prominently. |
+| How | How does the person's attire contribute to the overall allure of the image? | It adds to the sexy atmosphere. |

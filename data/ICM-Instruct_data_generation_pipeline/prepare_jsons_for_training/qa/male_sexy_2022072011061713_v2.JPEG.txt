@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing? | No. |
+| Yes/No | Are the man's arms crossed? | No. |
+| Yes/No | Is the image taken from a high angle? | No. |
+| Yes/No | Is the man's body facing the camera directly? | No. |
+| Yes/No | Does the image include any other people or objects? | No. |
+| What | What is the man wearing in the image? | Red shorts. |
+| What | What is the dominant color in the image? | Red. |
+| How | How is the man positioned in the image? | Leaning against a wall. |
+| How | How does the image emphasize the man's physique? | Through a low angle shot and closeup of his chest and muscles. |

@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress shirt? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the person wearing on their legs? | Sheer stockings. |
+| What | What is the person's attire in the image? | A dress shirt and stockings. |
+| How | How are the person's feet resting on the bed? | With their feet resting on the bed. |
+| What | What does the dress shirt add to the overall atmosphere of the image? | A formal touch. |

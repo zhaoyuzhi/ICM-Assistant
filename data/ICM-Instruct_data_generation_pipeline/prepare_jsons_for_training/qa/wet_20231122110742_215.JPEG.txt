@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young man? | Yes. |
+| Yes/No | Are the young man's clothes soaked? | Yes. |
+| Yes/No | Does the young man have a serious expression on his face? | Yes. |
+| Yes/No | Is the young man holding his hair back with his left hand? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Do the young man's soaked clothes give him a seductive feel? | Yes. |
+| What | What is the young man doing with his left hand? | He is holding his hair back. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is sexy. |
+| How | How is the young man holding his hair back? | He is holding his hair back with his left hand. |
+| How | How does the young man's serious expression and the way he is holding his hair back with his left hand add to the allure of the image? | His serious expression and the way he is holding his hair back with his left hand add to the allure of the image by creating an intriguing and captivating scene that evokes a sense of mystery and desire. |

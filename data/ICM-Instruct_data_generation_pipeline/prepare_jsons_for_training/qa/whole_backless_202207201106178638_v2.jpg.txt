@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman holding a gold clutch in her hand? | Yes. |
+| Yes/No | Is the woman stepping out of a black car? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman attending a formal event or special occasion? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the woman holding in her hand? | A gold clutch. |
+| How | How is the woman's back exposed in the image? | The woman's back is exposed due to the design of her dress. |
+| How | How does the image create a seductive atmosphere? | The image creates a seductive atmosphere through the woman's attire, exposure of her back, and the context of her stepping out of a black car, suggesting a formal event or special occasion. |

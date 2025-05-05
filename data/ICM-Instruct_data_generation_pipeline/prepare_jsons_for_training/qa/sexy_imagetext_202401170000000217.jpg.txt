@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a billiard ball? | Yes. |
+| Yes/No | Is the woman wearing a black bra? | Yes. |
+| Yes/No | Does the woman have leopard ears on her head? | Yes. |
+| Yes/No | Is the background of the image a green pool table? | Yes. |
+| Yes/No | Is there a white fur rug in the background of the image? | Yes. |
+| Yes/No | Does the woman have a serious expression on her face? | Yes. |
+| What | What is the woman holding in her hand? | A billiard ball. |
+| What | What is the color of the woman's bra? | Black. |
+| How | How many ears does the woman have? | 2 (leopard ears). |
+| How | How would you describe the woman's expression? | Serious. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are they both wearing shirts? | Yes. |
+| Yes/No | Is the woman wearing a ponytail? | Yes. |
+| Yes/No | Is the man wearing a ring? | Yes. |
+| Yes/No | Are they lying on a bed? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and romantic? | Yes. |
+| What | What is the color of the woman's shirt? | Black and white. |
+| What | What is the color of the man's shirt? | Gray. |
+| How | How is the woman's hair styled? | In a ponytail. |
+| How | How would you describe the overall atmosphere of the image? | Intimate and romantic. |

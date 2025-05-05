@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing high heels? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Are the high heels black? | Yes. |
+| Yes/No | Is the wall in the image white? | Yes. |
+| Yes/No | Are the person's legs bent at the knees? | Yes. |
+| Yes/No | Are the person's feet pointed upwards? | Yes. |
+| What | What color are the high heels? | Black. |
+| What | What is the person's pose in the image? | The person's legs are bent at the knees, and their feet are pointed upwards. |
+| How | How does the contrast between the black heels and white wall accentuate the person's legs and feet? | The contrast creates a visual focus on the person's lower body, drawing the viewer's attention to their legs and feet. |
+| How | How does the pose of the person create a sense of movement and energy in the image? | The bent knees and pointed feet create a dynamic and energetic line that adds movement and energy to the image. |

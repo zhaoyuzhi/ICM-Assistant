@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person sitting on a chair? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a black dress? | Yes. |
+| Yes/No | Are the person's stockings beige? | Yes. |
+| Yes/No | Is the person putting on their stockings? | Yes. |
+| What | What is the person wearing? | A black dress and beige stockings. |
+| What | What is the person doing in the image? | Putting on their stockings. |
+| How | How is the person's attire contributing to the sexy feel of the image? | The black dress adds elegance and sophistication, while the beige stockings add allure and mystery. |
+| How | How is the act of putting on stockings contributing to the sexy feel of the image? | The act of putting on stockings is associated with sensuality and intimacy, and it creates a private and personal moment. |
+| Yes/No | Is the person in the image sitting on a wooden chair? | Yes. |
+| Yes/No | Is the person wearing a black dress? | Yes. |
+| Yes/No | Are they wearing beige stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the black dress add a sense of elegance and sophistication to the image? | Yes. |
+| What | What is the person in the image doing? | Putting on stockings. |
+| What | What color are the stockings the person is wearing? | Beige. |
+| How | How is the person putting on the stockings? | They are pulling them up with their hand inside the stocking. |
+| What | What atmosphere does the image convey? | Intimate and alluring. |

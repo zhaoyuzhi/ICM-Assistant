@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Does the person in the image have a belly button piercing? | Yes. |
+| Yes/No | Is the person in the image standing in front of a building? | Yes. |
+| Yes/No | Does the person in the image have a navel piercing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the blue shirt and jeans the main focus of the image? | No. |
+| What | What is the person in the image wearing? | A blue shirt and blue jeans. |
+| What | What is the person's body language in the image? | The person is standing with their belly exposed, suggesting confidence and selfexpression. |
+| How | How does the image capture a moment of personal style and confidence? | The image highlights the person's unique piercings and casual outfit, creating a sense of selfexpression and confidence. |
+| How | How does the background building add to the image? | The building provides a sense of location and context, but it is not the main focus of the image, which allows the person's body and piercings to take center stage. |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are the person's jeans also blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person's attire casual? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's shirt? | Blue. |
+| What | What is the person's belly button visible? | Yes. |
+| How | How does the person's attire contribute to the casual atmosphere? | The person's blue shirt and jeans create a relaxed and casual atmosphere. |
+| How | How does the image convey a sense of intimacy and sensuality? | The closeup view of the person's skin and clothing, combined with their exposed belly, creates a sense of intimacy and sensuality. |

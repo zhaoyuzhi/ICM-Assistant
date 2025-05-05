@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person's nose slightly flared? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the facial expression of the person in the image? | Pouting. |
+| What | What is the focus of the image? | The person's lips and nose. |
+| How | How does the close-up nature of the shot contribute to the image's atmosphere? | It allows for a more intimate and personal connection with the viewer, which can contribute to the sexy atmosphere of the image. |
+| How | How does the pouting expression contribute to the image's atmosphere? | It is often associated with confidence and allure, which can be perceived as sexy by some viewers. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Is the woman wearing heels? | Yes. |
+| Yes/No | Is the woman standing in a room? | Yes. |
+| Yes/No | Is there a mirror in the room? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's skirt? | White. |
+| What | What color is the woman's blouse? | Pink. |
+| How | How is the woman's pose in the image? | Confident. |
+| How | How does the mirror in the room contribute to the image? | It adds depth and makes the woman appear more prominent and alluring. |

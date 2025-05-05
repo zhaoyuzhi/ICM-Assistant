@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image standing in front of a wall? | Yes. |
+| Yes/No | Is the woman wearing a white blouse with long sleeves? | Yes. |
+| Yes/No | Does the blouse have lace trim? | Yes. |
+| Yes/No | Is the woman interacting with water in the image? | Yes. |
+| Yes/No | Is the woman's attire in the image sexy? | Yes. |
+| Yes/No | Does the image have a playful atmosphere? | Yes. |
+| What | What is the woman doing in the image? | The woman is standing in front of a wall and interacting with water. |
+| What | What is the color of the woman's blouse? | The woman's blouse is white. |
+| How | How is the woman's attire in the image? | The woman's attire is delicate and alluring. |
+| How | How does the woman appear in the image? | The woman appears soaked and playful in the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have sleeves? | No. |
+| Yes/No | Is the neckline of the dress low? | Yes. |
+| Yes/No | Are the woman's shoulders and upper back exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing red lipstick? | Yes. |
+| Yes/No | Does the woman have loose waves in her hair? | Yes. |
+| What | What is the color of the woman's lipstick? | Red. |
+| What | What is the style of the woman's hair in the image? | Loose waves. |
+| How | How does the woman's pose contribute to the overall allure of the image? | The woman's pose, with her shoulders and upper back exposed, adds to the overall allure of the image by creating a sense of sensuality and intimacy. |
+| How | How does the black dress contribute to the sexy atmosphere of the image? | The black dress is a classic choice that can be considered sexy, especially when paired with the low neckline. It creates a sleek and sophisticated look that adds to the overall allure of the image. |

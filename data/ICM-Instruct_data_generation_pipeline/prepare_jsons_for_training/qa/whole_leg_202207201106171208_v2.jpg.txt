@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing white shorts? | Yes. |
+| Yes/No | Does the t-shirt have a black cat design on it? | Yes. |
+| Yes/No | Is the woman's pose in the image neutral? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the woman's attire in the image? | A white tshirt and white shorts. |
+| What | What is the design on the woman's t-shirt? | A black cat. |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | The woman's outfit, consisting of a white tshirt and shorts, exposes her thighs, creating a sense of intimacy and allure. |
+| How | How does the white background affect the image? | The white background further emphasizes the subject, drawing attention to her attire and pose. |

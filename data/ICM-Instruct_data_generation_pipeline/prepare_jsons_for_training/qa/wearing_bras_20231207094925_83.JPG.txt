@@ -1,0 +1,24 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a white skirt? | Yes. |
+| Yes/No | Is the bra the woman is wearing a white bra with thin straps? | Yes. |
+| Yes/No | Is the woman standing in a room with a bed and a wall in the background? | Yes. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Does the image have a sexy and alluring vibe? | Yes. |
+| What | What is the woman doing in the image? | She is putting on the bra. |
+| What | What is the color of the bra the woman is wearing? | White. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, which is somewhat suggestive, adds to the sensual and alluring atmosphere of the image. |
+| How | How does the simple and uncluttered setting of the room contribute to the image's overall atmosphere? | The simple and uncluttered setting of the room allows the viewer to focus on the woman and her actions, enhancing the sexy and alluring vibe of the image. |
+| Yes/No | Question | Answer. |
+| Yes/No | --- | ---. |
+| Yes/No | Is the woman in the image clothed? | Yes. |
+| Yes/No | Is the woman seated? | No. |
+| Yes/No | Is the woman smiling? | No. |
+| Yes/No | Are there other people in the room? | No. |
+| Yes/No | Is there a window in the background? | No. |
+| Yes/No | Is she wearing jewelry? | Yes. |
+| What | What is the primary color of the woman's bra? | White. |
+| What | What is the approximate length of the woman's necklace? | Long. |
+| How | How many straps does the woman's bra have? | Thin straps. |
+| How | How does the overall atmosphere of the room contribute to the feel of the image? | It adds a sense of vulnerability and allure. |

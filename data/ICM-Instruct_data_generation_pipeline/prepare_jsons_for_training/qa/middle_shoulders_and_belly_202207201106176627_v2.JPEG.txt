@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image facing the camera directly? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's posture neutral? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's sports attire? | Blue. |
+| What | What is the woman's posture in the image? | Neutral. |
+| How | How does the woman's direct gaze into the camera enhance the image? | It creates a sense of connection and intimacy. |
+| How | How does the image showcase the woman's athletic physique? | It highlights her muscular abdominal muscles and suggests she is engaged in physical activity. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports skirt? | Yes. |
+| Yes/No | Is the woman in the image engaged in some form of physical activity or exercise? | Yes. |
+| Yes/No | Is the woman's attire in the image suggestive or revealing? | Yes. |
+| How | Does the image showcase the woman's athletic body? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability? | Yes. |
+| What | What is the woman's attire in the image? | Sports bra and sports skirt. |
+| What | What is the woman's posture in the image? | Confident. |
+| How | How does the woman's attire suggest she is engaged in physical activity or exercise? | The woman is wearing athletic wear, specifically a sports bra and skirt, which implies she is engaging in some form of physical activity or exercise. |
+| How | How does the image convey a sense of vulnerability? | The woman's exposed belly adds an element of vulnerability to the image, suggesting she is comfortable in her own skin and confident in her body. |

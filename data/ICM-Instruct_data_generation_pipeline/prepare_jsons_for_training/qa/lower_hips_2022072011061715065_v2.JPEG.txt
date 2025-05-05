@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Are the person's knees bent in the image? | Yes. |
+| Yes/No | Are the person's hands resting on their knees in the image? | Yes. |
+| Yes/No | Is the person's buttocks prominently displayed in the image? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What is the person in the image wearing on their lower body? | Gray leggings. |
+| What | What is the person in the image wearing on their upper body? | Black sports bra. |
+| How | How are the person's knees positioned in the image? | Bent. |
+| How | How are the person's hands positioned in the image? | Resting on their knees. |

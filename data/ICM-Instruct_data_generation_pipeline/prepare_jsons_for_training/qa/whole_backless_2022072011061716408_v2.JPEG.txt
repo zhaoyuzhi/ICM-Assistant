@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and gold nightgown? | Yes. |
+| Yes/No | Does the nightgown have a lace trim? | Yes. |
+| Yes/No | Is the woman standing in front of a white couch? | Yes. |
+| Yes/No | Is there a birdcage in the background? | Yes. |
+| Yes/No | Is the woman facing away from the camera? | Yes. |
+| Yes/No | Are the woman's arms placed on her head? | Yes. |
+| What | What color is the nightgown? | Black and gold. |
+| What | What is the material of the nightgown? | Lace trim. |
+| How | How is the woman posing in the image? | With her arms on her head. |
+| How | How does the image create an atmosphere? | The image creates a seductive and alluring atmosphere that is both visually appealing and intriguing. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image an advertisement? | Yes. |
+| Yes/No | Does the image feature a person? | No. |
+| Yes/No | Is the product being advertised Tide laundry detergent? | Yes. |
+| Yes/No | Does the image include a logo? | Yes. |
+| Yes/No | Is the background of the image red? | Yes. |
+| Yes/No | Does the image depict any intimate or provocative scenarios? | No. |
+| What | What is the name of the product being advertised? | Tide laundry detergent. |
+| What | What language is written on the label of the detergent bag? | English and Chinese. |
+| How | How does the image draw attention to the product? | The bright colors and bold text on the label of the detergent bag contrast with the red background and draw attention to the product. |
+| How | How does the image portray the product's features and benefits? | The image highlights the product's features and benefits by displaying the detergent bag prominently and including the Tide logo and text on the label. |

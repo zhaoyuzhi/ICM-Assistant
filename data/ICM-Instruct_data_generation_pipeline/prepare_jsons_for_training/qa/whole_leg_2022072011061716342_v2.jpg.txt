@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have a leopard print pattern? | Yes. |
+| Yes/No | Is the t-shirt loose-fitting? | Yes. |
+| Yes/No | Does the woman have a V-neck collar? | Yes. |
+| Yes/No | Is she holding her shirt up with her left hand? | Yes. |
+| Yes/No | Are her thighs visible in the image? | Yes. |
+| What | What is the background color of the image? | White. |
+| What | What is the woman holding in her left hand? | Her tshirt. |
+| How | How is the woman's outfit bold and eye-catching? | The leopard print pattern on her tshirt and shoes is bold and eyecatching. |
+| How | How does the woman's pose contribute to the sexy feel of the image? | Her pose of holding up her shirt with one hand reveals her thighs, which is a common element in sexy images. |

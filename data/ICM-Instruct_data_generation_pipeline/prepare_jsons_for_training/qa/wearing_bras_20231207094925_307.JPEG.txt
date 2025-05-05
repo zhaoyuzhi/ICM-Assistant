@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a white bra in all the photos? | Yes. |
+| Yes/No | Is the woman holding the bra with both hands in the top left and bottom right photos? | Yes. |
+| Yes/No | Is the woman wearing a white shirt in all the photos? | Yes. |
+| Yes/No | Is the woman adjusting the bra with one hand in the top right and bottom left photos? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Does the collage format of the image create a dynamic and engaging visual experience? | Yes. |
+| What | What is the woman wearing in all the photos? | A white bra and a white shirt. |
+| What | What is the woman doing in the bottom right photo? | Adjusting the bra with both hands. |
+| How | How is the woman holding the bra in the top left and bottom right photos? | With both hands. |
+| How | How does the collage format of the image create a dynamic and engaging visual experience? | By capturing the woman's movements in different ways and creating a sense of visual interest and variety. |
+| Yes/No | Is the woman wearing a white bra in all photos? | Yes. |
+| Yes/No | Is the woman adjusting the bra with both hands in all photos? | No. |
+| Yes/No | Is the woman wearing a white shirt in all photos? | Yes. |
+| Yes/No | Are the photos featuring the woman adjusting the bra in different ways? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and allure? | Yes. |
+| Yes/No | Does the collage format of the image create a dynamic and engaging visual experience? | Yes. |
+| What | What is the woman wearing in all photos? | A white bra and a white shirt. |
+| What | What is the woman doing in the bottom right photo? | Adjusting the bra with both hands. |
+| How | How is the woman adjusting the bra in the top left photo? | With both hands. |
+| How | How is the woman adjusting the bra in the bottom left photo? | With one hand. |

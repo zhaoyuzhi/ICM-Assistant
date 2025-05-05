@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray jumpsuit? | Yes. |
+| Yes/No | Is the wall in the background black? | Yes. |
+| Yes/No | Is the floor in the image white? | Yes. |
+| Yes/No | Is the woman carrying a black purse? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image feature any explicit or implied sexual content? | No. |
+| What | What is the woman wearing on her head? | A black hat. |
+| What | What is the color of the woman's purse? | Black. |
+| How | How is the woman standing in the room? | Not specified in the description. |
+| How | How does the image make you feel? | Calm and neutral. |

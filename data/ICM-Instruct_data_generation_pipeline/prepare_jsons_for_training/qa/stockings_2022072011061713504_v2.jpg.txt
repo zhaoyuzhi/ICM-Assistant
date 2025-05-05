@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a garter belt? | Yes. |
+| Yes/No | Are the stockings in the image white? | Yes. |
+| Yes/No | Is the woman in the image standing with her legs apart? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman in the image posing suggestively? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What is the woman in the image wearing on her legs? | Stockings and a thighhigh garter belt. |
+| What | What is the woman in the image doing with her hands? | She has her hands on her hips. |
+| How | How is the woman in the image standing? | She is standing with her legs apart. |
+| How | How does the image convey a sense of confidence and allure? | Through the woman's pose and attire, which suggest selfassurance and sensuality. |

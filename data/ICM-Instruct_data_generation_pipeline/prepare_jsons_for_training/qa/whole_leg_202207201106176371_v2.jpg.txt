@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is she wearing a light blue shirt? | Yes. |
+| Yes/No | Are her pants black? | Yes. |
+| Yes/No | Is the background blue? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and confidence? | Yes. |
+| What | What color is the woman's shirt? | Light blue. |
+| What | What color are her pants? | Black. |
+| How | How is the woman positioned on the stool? | She is sitting with her legs crossed. |
+| How | How does the woman look at the camera? | She is smiling and looking directly at the camera. |

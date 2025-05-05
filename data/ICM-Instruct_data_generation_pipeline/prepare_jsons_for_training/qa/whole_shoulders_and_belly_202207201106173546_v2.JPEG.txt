@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Does the woman have a microphone attached to her face? | Yes. |
+| Yes/No | Are the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman captured mid-motion? | Yes. |
+| Yes/No | Is the woman wearing blue jean shorts? | Yes. |
+| Yes/No | Is the woman's midriff exposed? | Yes. |
+| What | What is the woman wearing on her top? | A strapless top. |
+| What | What is the woman's hair style? | Loose waves. |
+| How | How is the woman posing? | Confidently. |
+| How | How does the image's context contribute to its atmosphere? | It suggests the woman is performing, adding a sense of allure to her appearance and creating a dynamic and captivating atmosphere. |

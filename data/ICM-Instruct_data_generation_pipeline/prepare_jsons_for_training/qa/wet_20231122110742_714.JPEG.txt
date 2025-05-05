@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the shirt wet and dripping? | Yes. |
+| Yes/No | Is the person's hair wet? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Is the water blue? | Yes. |
+| Yes/No | Is the person alone in the water? | Yes. |
+| What | What is the gender of the person in the image? | The gender of the person cannot be determined based on the description. |
+| What | What is the person's facial expression? | The person's facial expression cannot be determined based on the description. |
+| How | How is the person standing in the water? | The person is standing in the water with their body language suggesting a sense of intimacy and vulnerability. |
+| How | How does the blue water contrast with the person's wet clothes? | The blue water provides a contrasting backdrop that further emphasizes the person's figure, creating a sensual and evocative atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman sitting on a bean bag chair? | Yes. |
+| Yes/No | Is the woman wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a black and white skirt? | Yes. |
+| Yes/No | Does the bean bag chair have a watermelon design on it? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the color of the woman's shirt? | Black. |
+| What | What is the design on the bean bag chair? | Watermelon. |
+| How | How is the woman sitting on the bean bag chair? | Relaxed and comfortable. |
+| How | How would you describe the overall atmosphere of the image? | Calm and relaxed. |

@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Is the person putting on knee-high socks in the image? | Yes. |
+| Yes/No | Is the background of the image a wooden floor? | Yes. |
+| Yes/No | Is the person sitting on a chair in the image? | Yes. |
+| Yes/No | Does the image have a seductive and alluring appearance? | Yes. |
+| What | What is the person wearing in the image? | A plaid skirt and kneehigh socks. |
+| What | What is the person doing in the image? | Putting on kneehigh socks. |
+| How | How is the person's pose in the image? | Bent legs, sitting on a chair. |
+| How | How does the image create an atmosphere of allure and sensuality? | Through the combination of the plaid skirt and kneehigh socks, and the person's playful and intimate act of putting on the socks. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Is the person in the process of putting on their socks in the image? | Yes. |
+| Yes/No | Is the background of the image a wooden floor and a white curtain? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the person in the image wearing on their legs? | Kneehigh socks. |
+| What | What is the person in the image sitting on? | A chair. |
+| How | How are the person's legs bent in the image? | With their legs bent and the socks pulled up. |
+| How | How does the image create an overall atmosphere of allure and sensuality? | Through the combination of the plaid skirt and kneehigh socks, and the playful and intimate act of putting on the socks. |

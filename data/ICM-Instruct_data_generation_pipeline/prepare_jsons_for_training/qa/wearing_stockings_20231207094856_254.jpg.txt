@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a beige garter belt? | Yes. |
+| Yes/No | Are the person's legs visible in the image? | Yes. |
+| Yes/No | Is the focus of the image on the stockings and garter belt? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | Black stockings and a beige garter belt. |
+| What | What is the atmosphere of the image? | Intimate and alluring. |
+| How | How is the person's expression in the image? | Focused and intent. |
+| How | How does the beige garter belt add to the scene? | It adds a touch of sophistication and tradition. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a beige garter belt? | Yes. |
+| Yes/No | Are the person's legs visible in the image? | Yes. |
+| Yes/No | Is the focus of the image on the stockings and garter belt? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | Black stockings and a beige garter belt. |
+| What | What is the atmosphere of the image? | Intimate and alluring. |
+| How | How is the person's expression in the image? | Focused and intent. |
+| How | How are the stockings being put on in the image? | With care and attention to detail. |

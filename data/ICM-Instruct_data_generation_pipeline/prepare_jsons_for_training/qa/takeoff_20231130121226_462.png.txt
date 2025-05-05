@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing black pants? | Yes. |
+| Yes/No | Is the woman in the image taking off her shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white bra with a lace trim? | Yes. |
+| Yes/No | Is the woman in the image wearing a black mask? | Yes. |
+| Yes/No | Does the image provide any additional context or information about the woman's actions or intentions? | No. |
+| What | What is the woman in the image removing? | Her shirt. |
+| What | What is the woman in the image wearing on her upper body? | A white bra with a lace trim. |
+| How | How is the woman in the image taking off her shirt? | She is in the process of taking it off. |
+| How | How does the woman's attire and actions in the image contribute to the overall atmosphere? | They create an alluring and enticing atmosphere that is perceived as sexy. |

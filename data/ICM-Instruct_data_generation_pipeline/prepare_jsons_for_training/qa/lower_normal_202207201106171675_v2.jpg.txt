@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of white sweatpants with a blue stripe on the side? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Are they wearing a pair of green and yellow Nike sneakers? | Yes. |
+| Yes/No | Is the person holding a magazine in their left hand? | Yes. |
+| Yes/No | Are they pointing at a photo in the magazine with their right hand? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the person holding in their left hand? | A magazine. |
+| What | What type of shoes are the person wearing? | Green and yellow Nike sneakers. |
+| How | How is the person's attire? | Casual and relaxed. |
+| What | What is the focus of the image? | The person's clothing and the magazine they are holding. |

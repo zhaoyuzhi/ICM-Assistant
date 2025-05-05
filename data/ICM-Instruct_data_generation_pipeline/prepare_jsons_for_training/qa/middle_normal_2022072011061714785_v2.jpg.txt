@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Does the person have a relaxed and comfortable appearance? | Yes. |
+| Yes/No | Are the person's hands resting at their sides? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and unassuming? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual context or suggestive poses? | No. |
+| What | What is the person wearing on their bottom half? | Black pants. |
+| What | What is the color of the background in the image? | Black. |
+| How | How are the person's pants fitting? | Loosefitting. |
+| How | How would you describe the person's posture? | Neutral. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Does the person have a relaxed and comfortable appearance? | Yes. |
+| Yes/No | Are the person's hands resting at their sides? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and unassuming? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual context or suggestive poses? | No. |
+| What | What is the person's attire in the image? | White top and black pants. |
+| What | What is the color of the background in the image? | Black. |
+| How | How are the person's pants fitting? | Loosefitting. |
+| How | How would you describe the person's pose in the image? | Neutral. |

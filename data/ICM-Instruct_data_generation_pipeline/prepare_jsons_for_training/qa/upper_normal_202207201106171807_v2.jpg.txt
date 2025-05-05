@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image dressed in a suit and tie? | Yes. |
+| Yes/No | Is the man standing or sitting? | Sitting. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy or personal connection? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man's posture in the image? | His hands are clasped together in front of him. |
+| What | What is the setting of the image? | An office setting. |
+| How | How is the man dressed in the image? | He is dressed in a suit and tie. |
+| How | How does the image convey a sense of professionalism and formality? | The man's attire, the office setting, and the blurred background all contribute to a professional and formal atmosphere. The low exposure level further emphasizes the professional nature of the image. |

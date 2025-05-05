@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Does the dress have a lace back? | Yes. |
+| Yes/No | Is the woman holding a bouquet of flowers? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the woman have her back turned towards the camera? | Yes. |
+| What | What is the woman holding in the image? | A bouquet of flowers. |
+| What | What is the dominant color of the woman's outfit? | White. |
+| How | How is the woman's posture in the image? | Confident and poised. |
+| How | How does the woman hold the bouquet of flowers? | With elegance and sophistication. |

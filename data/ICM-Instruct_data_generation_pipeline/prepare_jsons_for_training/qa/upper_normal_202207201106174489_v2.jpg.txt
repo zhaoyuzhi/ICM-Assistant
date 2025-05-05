@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a brown blazer? | Yes. |
+| Yes/No | Does the woman have long, dark hair? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the main color of the woman's blazer? | Brown. |
+| What | What is the woman's facial expression? | Smiling, cheerful. |
+| How | How is the woman's hair styled? | Long, dark hair. |
+| How | How would you describe the exposure level of the image? | Low, not overly bright or overexposed. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white bikini? | Yes. |
+| Yes/No | Is the woman posing on a beach in the image? | Yes. |
+| Yes/No | Does the woman have her hands on her hips in the image? | Yes. |
+| Yes/No | Is the woman's head tilted to the side in the image? | Yes. |
+| Yes/No | Does the woman have a gold bracelet on her left wrist in the image? | Yes. |
+| Yes/No | Is the woman's cleavage visible in the image? | Yes. |
+| What | What color is the woman's bikini in the image? | White. |
+| What | What is the woman wearing on her wrist in the image? | A gold bracelet. |
+| How | How is the woman posing in the image? | With her hands on her hips and her head tilted to the side. |
+| How | How does the woman's attire in the image make her look? | Confident and alluring. |

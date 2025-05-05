@@ -1,0 +1,16 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman standing in front of a light blue wall? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra the woman is wearing? | Beige. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How is the atmosphere of the image described? | Alluring and enticing. |
+| What | What element of the image contributes to its sensual nature? | The woman is in the process of putting on a beige bra. |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman standing in front of a light blue wall? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra the woman is wearing? | Beige. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How is the atmosphere of the image described? | Alluring and enticing. |
+| How | How does the woman's attire contribute to the image's sexiness? | The beige bra is associated with lingerie and a seductive or alluring appearance. |

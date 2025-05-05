@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked from the thighs down? | Yes. |
+| Yes/No | Is the person wearing a denim skirt? | Yes. |
+| Yes/No | Does the skirt have a frayed hem? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the image focused solely on the person and their attire? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What is the person wearing on their lower half? | A denim skirt that is cropped at the knee. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the hem of the skirt styled? | It has a frayed hem. |
+| How | How does the image create a sense of intimacy and allure? | The combination of the person's attire and pose creates a sense of intimacy and allure, making the image sexy. |

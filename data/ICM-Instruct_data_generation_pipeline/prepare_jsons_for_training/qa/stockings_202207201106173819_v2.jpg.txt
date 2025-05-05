@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a garter belt? | Yes. |
+| Yes/No | Are the stockings black? | No. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the woman's legs apart? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What is the woman's attire in the image? | She is wearing stockings and a garter belt. |
+| What | What is the color of the fur rug? | White. |
+| How | How is the woman standing on the fur rug? | Her legs are slightly apart. |
+| How | How does the woman's pose enhance the image's sensuality? | Her confident pose suggests allure and seduction. |

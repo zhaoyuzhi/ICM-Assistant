@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing away from the camera? | Yes. |
+| Yes/No | Is the person wearing a black dress with a low back? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Are there buildings and bushes lining the alleyway? | Yes. |
+| Yes/No | Is the person walking down the alleyway? | Yes. |
+| What | What is the person in the image wearing? | A black dress with a low back. |
+| What | What is the person's hair style? | A ponytail. |
+| How | How does the person's attire contribute to the image's atmosphere? | The black dress with a low back reveals a large area of the person's back, which is often associated with a sense of allure and sensuality. |
+| How | How does the setting of the alleyway contribute to the image's atmosphere? | The narrow alleyway and the surrounding buildings and bushes add to the intimate and private ambiance, further enhancing the sexy feel of the image. |

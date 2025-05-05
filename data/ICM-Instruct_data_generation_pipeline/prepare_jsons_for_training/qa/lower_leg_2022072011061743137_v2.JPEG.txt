@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing denim shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a beige sweatshirt? | Yes. |
+| Yes/No | Does the person in the image have their legs apart? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person's pose in the image associated with confidence and self-assuredness? | Yes. |
+| Yes/No | Does the image have a casual, relaxed atmosphere? | Yes. |
+| What | What color are the shorts in the image? | Blue. |
+| What | What is the color of the person's sweatshirt in the image? | Beige. |
+| How | How does the person's pose in the image contribute to the overall sexiness of the image? | The person's pose, with their legs apart, suggests confidence and selfassuredness, which can be perceived as sexy. |
+| How | How does the frayed hem of the shorts add to the overall style of the image? | The frayed hem adds a touch of detail and style to the overall look, contributing to the image's sexiness. |

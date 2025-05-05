@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image resting their head on a pillow? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the bed covered with white sheets? | Yes. |
+| Yes/No | Does the image create an intimate atmosphere? | Yes. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| What | What is the person in the image wearing? | A white shirt and black stockings. |
+| What | What is the person in the image resting their head on? | A pillow. |
+| How | How are the person's legs positioned? | Crossed. |
+| How | How does the image create an intimate atmosphere? | Through the use of white sheets, a relaxed posture, and an overall calm environment. |

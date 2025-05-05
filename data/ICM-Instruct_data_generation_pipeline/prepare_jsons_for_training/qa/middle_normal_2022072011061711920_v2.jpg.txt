@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white apron? | Yes. |
+| Yes/No | Are the person's shorts cropped at the knee? | Yes. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person looking directly at the camera? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| What | What is the person wearing in the image? | A white apron and white shorts. |
+| What | What is the focus of the image? | The person's attire and the apron. |
+| How | How is the person's body positioned in the image? | The person is standing with their hands on their hips and looking directly at the camera. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonsexual. |
+| Yes/No | Is the person in the image wearing a white apron? | Yes. |
+| Yes/No | Are the person's shorts cropped at the knee? | Yes. |
+| Yes/No | Is the person's attire modest? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the person's attire in the image? | White apron and white shorts. |
+| What | What is the person's facial expression in the image? | Direct gaze. |
+| How | How are the person's hands positioned in the image? | Placed on their hips. |
+| How | How would you describe the overall mood of the image? | Modest, direct, and straightforward. |

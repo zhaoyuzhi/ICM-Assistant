@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are his hands visible in the image? | Yes. |
+| Yes/No | Is he looking directly at the camera? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose aggressive or threatening? | No. |
+| Yes/No | Does the image have a sexual connotation? | No. |
+| What | What is the man's facial expression in the image? | Slight smile. |
+| What | What color are the man's pants in the image? | Khaki. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and nonthreatening. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire revealing or provocative? | No. |
+| Yes/No | Does the image evoke any sexual or sensual feelings? | No. |
+| What | What is the man's facial expression in the image? | Relaxed and nonchalant. |
+| What | What is the background color of the image? | White. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Calm and unassuming. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a pair of gray shorts? | Yes. |
+| Yes/No | Is the person wearing a black belt? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What color are the person's shorts? | Gray. |
+| What | What is the color of the person's shirt? | White. |
+| How | How is the person's body positioned in the image? | The person is standing with their back to the camera. |
+| How | How much of the person's body is visible in the image? | Only a small portion of the person's body is visible. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a pair of gray shorts? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire revealing or provocative? | No. |
+| Yes/No | Is the focus of the image on the person's body? | No. |
+| What | What color are the person's shorts? | Gray. |
+| What | What is the color of the person's shirt? | White. |
+| How | How many pockets do the person's shorts have? | Multiple. |
+| What | What is the exposure level of the image? | Low. |

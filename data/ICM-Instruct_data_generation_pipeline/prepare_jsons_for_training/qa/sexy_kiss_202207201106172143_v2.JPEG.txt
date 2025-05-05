@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the woman's hand placed on the man's chest? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the contrast between the man's black jacket and the woman's white dress add to the overall romantic theme of the image? | Yes. |
+| What | What is the man in the image wearing? | A black jacket. |
+| What | What is the woman in the image wearing? | A white dress. |
+| How | How are the man and woman positioned in the image? | The man is positioned on the left, and the woman is positioned on the right. |
+| How | How does the woman's hand on the man's chest add to the romantic atmosphere of the image? | It creates a sense of intimacy and connection between the two figures. |

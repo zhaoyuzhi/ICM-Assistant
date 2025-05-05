@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person in the image putting on black stockings? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Does the woman have a left hand? | Yes. |
+| Yes/No | Does the act of putting on stockings have any association with sensuality? | Yes. |
+| Yes/No | Are the woman's clothing choices (black skirt and white top) adding to the overall allure of the image? | Yes. |
+| What | What is the woman holding in her right hand? | Stocking. |
+| What | What is the woman wearing on the upper part of her body? | White top. |
+| How | How is the woman's left hand positioned? | Holding the other end of the stocking. |
+| How | How does the combination of elements in the image create an atmosphere? | It creates a seductive atmosphere that evokes feelings of desire and fascination in the viewer. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person putting on black stockings? | Yes. |
+| Yes/No | Is the person wearing a black skirt? | Yes. |
+| Yes/No | Is the person wearing a white top? | Yes. |
+| Yes/No | Is the background a white wall? | Yes. |
+| Yes/No | Does the image convey a sensual atmosphere? | Yes. |
+| What | What is the person holding in their right hand? | The stocking. |
+| What | What is the person holding in their left hand? | The other end of the stocking. |
+| How | How is the woman's choice of clothing contributing to the atmosphere of the image? | It adds to the overall allure of the image. |
+| How | How does the act of putting on stockings contribute to the atmosphere of the image? | It can be seen as a form of selfcare and selfexpression that evokes feelings of desire and fascination in the viewer. |

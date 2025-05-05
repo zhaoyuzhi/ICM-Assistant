@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress have sleeves? | No. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Are the straps of the dress tied in the back? | Yes. |
+| Yes/No | Is the dress lace? | Yes. |
+| Yes/No | Is the color of the dress burgundy? | Yes. |
+| What | What is the main focus of the image? | The person wearing a burgundy dress with a lace back. |
+| What | What is the significance of the lace back of the dress? | It adds a hint of elegance and allure. |
+| How | How are the thin straps of the dress tied in the back? | They are tied in a way that reveals a significant amount of the person's back. |
+| How | How does the image evoke a sense of sensuality and allure? | The combination of the burgundy color, lace back, and thin straps tied in the back creates a visually appealing image that evokes a sense of sensuality and allure. |

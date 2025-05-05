@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the man and woman in the image wearing matching shirts? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the couple standing in the image? | No. |
+| Yes/No | Is the image taken from a distance? | No. |
+| Yes/No | Is the image sexually explicit? | Yes. |
+| What | What is the man wearing in the image? | A black shirt. |
+| What | What is the woman wearing in the image? | A white shirt. |
+| How | How are the couple's lips positioned in the image? | They are pressed together in a passionate kiss. |
+| How | How does the contrast between the man's black shirt and the woman's white shirt affect the image? | It adds to the visual interest of the image. |

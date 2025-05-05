@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a brown shirt? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the woman's attire in the image? | A brown shirt. |
+| What | What is the woman's expression in the image? | Neutral. |
+| How | How is the focus of the image? | The focus is on the woman because of her direct gaze and the blurred background. |
+| How | How does the exposure level of the image contribute to its overall atmosphere? | The low exposure level creates a calm and neutral atmosphere, which does not evoke any sexual or provocative feelings. |

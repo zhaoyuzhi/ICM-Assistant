@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black coat? | Yes. |
+| Yes/No | Is the person wearing a skirt? | Yes. |
+| Yes/No | Are they holding a purse? | Yes. |
+| Yes/No | Is the purse black? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the wall in the background gray? | Yes. |
+| What | What is the person's left hand holding? | A black purse. |
+| What | What is the color of the person's sneakers? | White. |
+| How | How is the person dressed? | Modestly and simply, with a black coat, black skirt, and white sneakers. |
+| What | What is the overall atmosphere of the image? | Calm and unassuming. |

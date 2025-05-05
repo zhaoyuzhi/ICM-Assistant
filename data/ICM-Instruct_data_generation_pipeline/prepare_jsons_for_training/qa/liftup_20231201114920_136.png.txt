@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Is the wall in the background white? | Yes. |
+| Yes/No | Is the chair in the image yellow? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Are they also wearing white underwear? | Yes. |
+| Yes/No | Is the person lifting their shirt? | Yes. |
+| What | What color is the person's shirt? | Black. |
+| What | What color is the underwear? | White. |
+| How | How is the person standing? | The person is standing in a lifting pose with their shirt raised. |
+| What | What is the atmosphere of the image? | The atmosphere is intimate, sensual, and seductive. |

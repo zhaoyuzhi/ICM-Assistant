@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a sweater? | Yes. |
+| Yes/No | Does the skirt fall above the person's knees? | Yes. |
+| Yes/No | Is the person in the image carrying a purse? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image have a sexy feel to it? | Yes. |
+| What | What is the color of the skirt? | Brown. |
+| What | What is the color of the sweater? | White. |
+| How | How does the person carry herself in the image? | Confidently and relaxed. |
+| How | How does the exposure of the person's thighs contribute to the image's overall feel? | It creates a sense of allure and intrigue. |

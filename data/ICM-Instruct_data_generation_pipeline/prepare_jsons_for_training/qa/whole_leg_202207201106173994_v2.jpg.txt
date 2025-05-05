@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blouse with a high collar? | Yes. |
+| Yes/No | Is the woman in the image holding a clutch purse? | Yes. |
+| Yes/No | Is the woman in the image looking off to the side? | Yes. |
+| Yes/No | Does the woman in the image have a slight smile on her face? | Yes. |
+| Yes/No | Is the room in the image well-lit? | Yes. |
+| What | What is the woman in the image holding in her left hand? | A small clutch purse. |
+| What | What is the woman in the image wearing on her feet? | The description does not mention the woman's footwear, so this question cannot be answered. |
+| How | How is the woman in the image standing? | The woman is standing with a sense of elegance and confidence, with her feet shoulderwidth apart and her weight evenly distributed. |
+| How | How does the woman in the image appear to be feeling? | The woman appears to be feeling confident and alluring, with a slight smile on her face and a relaxed, yet poised, stance. |

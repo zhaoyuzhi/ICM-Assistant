@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and romantic? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the man and woman? | Yes. |
+| Yes/No | Does the image have a sexy and sensual tone? | Yes. |
+| What | What is the woman's top color? | White. |
+| What | What is the man's clothing status? | Shirtless. |
+| How | How is the woman's head positioned in the image? | Tilted back. |
+| How | How is the man's mouth positioned in relation to the woman's mouth? | On hers. |

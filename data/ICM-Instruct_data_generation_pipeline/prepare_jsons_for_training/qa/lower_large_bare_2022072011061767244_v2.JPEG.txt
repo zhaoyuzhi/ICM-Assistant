@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige tights? | Yes. |
+| Yes/No | Is the person's left leg bent at the knee? | Yes. |
+| Yes/No | Does the person have their right leg extended straight? | Yes. |
+| Yes/No | Is the person's left hand placed on their hip? | Yes. |
+| Yes/No | Is the person's right hand placed on their thigh? | Yes. |
+| Yes/No | Is the person's left foot slightly lifted off the ground? | Yes. |
+| What | What color are the tights the person is wearing? | Beige. |
+| What | What is the person's body facing in the image? | The camera. |
+| How | How is the person's left leg positioned in the image? | Bent at the knee. |
+| How | How is the person's right foot positioned in the image? | Firmly planted on the ground. |

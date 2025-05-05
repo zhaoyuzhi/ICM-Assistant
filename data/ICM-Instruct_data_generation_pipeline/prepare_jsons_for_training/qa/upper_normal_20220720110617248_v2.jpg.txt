@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling in all three photos? | Yes. |
+| Yes/No | Is the woman looking directly at the camera in all three photos? | No. |
+| Yes/No | Is the woman wearing a white blouse in all three photos? | Yes. |
+| Yes/No | Does the woman have a pink bow in her hair in all three photos? | Yes. |
+| Yes/No | Is the background of the photos a plain white wall? | Yes. |
+| Yes/No | Does the image have a sexual or provocative atmosphere? | No. |
+| What | What is the woman's facial expression in the first photo? | Smiling. |
+| What | What is the woman's facial expression in the third photo? | Looking down with a slight smile. |
+| How | How is the woman's attire in the photos? | She is wearing a white blouse and a pink bow in her hair. |

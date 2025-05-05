@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a cell phone? | Yes. |
+| Yes/No | Is the woman in the image wearing a black and white polka dot shirt? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image focus on the woman's actions and attire? | Yes. |
+| Yes/No | Are there any other objects or actions in the image that suggest a sexual context? | No. |
+| What | What is the woman in the image holding in her right hand? | A cell phone. |
+| What | What is the woman in the image wearing? | A black and white polka dot shirt. |
+| How | How is the woman in the image holding the cell phone? | The woman is holding the cell phone in her right hand. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is not sexy and does not depict any explicit or suggestive content. |

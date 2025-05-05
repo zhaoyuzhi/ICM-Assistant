@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person wearing a sweater? | Yes. |
+| Yes/No | Are the boots black? | Yes. |
+| Yes/No | Is the store window in the background black? | Yes. |
+| Yes/No | Does the person have their arms relaxed at their sides? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the shorts? | Green. |
+| What | What is the person's pose in the image? | Legs slightly apart, arms relaxed at their sides. |
+| How | How does the person's outfit contribute to the sexy atmosphere of the image? | The person's outfit, with the combination of shorts and a sweater, creates a casual yet stylish look that adds to the sexy atmosphere. The boots add an element of sophistication. |
+| How | How does the background contribute to the overall atmosphere of the image? | The store window in the background adds an urban and fashionable setting to the image, which contributes to the sexy and stylish atmosphere. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image facing the camera? | No. |
+| Yes/No | Is the man wearing a black belt? | Yes. |
+| Yes/No | Is the man holding a knife? | Yes. |
+| Yes/No | Is the image a close-up of the man's face? | No. |
+| Yes/No | Is the image a full-body shot of the man? | No. |
+| Yes/No | Is the atmosphere of the image sexy or provocative? | No. |
+| What | What is the man holding in his right hand? | A knife. |
+| What | What is the color of the man's pants? | Khaki. |
+| How | How is the man standing in the image? | With his back to the camera. |
+| How | How is the knife being held in the image? | Pointed towards the ground. |
+| Yes/No | Is the person in the image wearing a pair of khaki pants? | Yes. |
+| Yes/No | Does the person have their back to the camera? | Yes. |
+| Yes/No | Is the person wearing a belt? | Yes. |
+| Yes/No | Are the pants described as having a tactical design? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What kind of material might the pants be made of? | Durable, functional material suitable for outdoor activities or work environments. |
+| What | What is the focus of the image? | The person's clothing and the overall composition of the image. |
+| How | How does the low exposure level affect the image? | It focuses the viewer's attention on the clothing and the overall atmosphere of the image. |
+| How | How might the image be appropriate for a wide range of audiences? | It does not contain any elements that would be considered provocative or suggestive. |

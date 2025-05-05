@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image standing in front of a wooden counter? | Yes. |
+| Yes/No | Is the person in the image facing away from the camera? | Yes. |
+| Yes/No | Are the jeans the person is wearing tight? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What color are the jeans the person is wearing? | Blue. |
+| What | What is the person in the image facing away from the camera? | A wooden counter. |
+| How | How are the jeans the person is wearing accentuating their buttocks? | They are tight, which creates a clear view of the person's back and buttocks. |
+| How | How does the image create a sense of allure? | The person's pose and attire, specifically the tight jeans, create a sense of allure. The casual and relaxed atmosphere of the image further enhances this feeling. |

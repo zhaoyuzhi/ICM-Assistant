@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a top? | Yes. |
+| Yes/No | Is the person in the image holding their skirt up? | Yes. |
+| Yes/No | Is the person in the image wearing a bracelet? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Is the person in the image standing against a white background? | Yes. |
+| What | What color is the person's skirt? | Beige. |
+| What | What is the person holding in their left hand? | Their skirt. |
+| How | How is the person holding their skirt up? | With their left hand. |
+| What | What is the focus of the image? | The person's outfit and the gold button on the waistband. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Does the person in the image have a bracelet on their left wrist? | Yes. |
+| Yes/No | Is the gold button on the waistband of the skirt visible in the image? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the person in the image have a provocative pose? | No. |
+| What | What color is the skirt the person is wearing? | Beige. |
+| What | What is the person holding their skirt up with? | Their left hand. |
+| How | How is the person's outfit styled in the image? | The person is wearing a beige skirt and a white top, with a gold button on the waistband. The outfit is styled in a neutral and professional manner. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level of the image emphasizes the focus on the person's attire and pose, rather than their body, and contributes to a neutral and professional atmosphere. |

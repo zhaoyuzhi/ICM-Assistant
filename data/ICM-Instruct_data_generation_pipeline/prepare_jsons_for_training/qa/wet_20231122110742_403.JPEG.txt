@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image leaning against a wall? | Yes. |
+| Yes/No | Is the woman's dress soaked? | Yes. |
+| Yes/No | Does the woman's pose create a sense of intimacy? | Yes. |
+| Yes/No | Is the concrete wall in the image plain? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the woman's curves accentuated by her dress? | Yes. |
+| What | What is the woman leaning against in the image? | A concrete wall with a circular hole in it. |
+| What | What is the woman wearing in the image? | A white, flowing dress that appears to be soaked. |
+| How | How does the woman's pose contribute to the image's overall atmosphere? | The woman's pose, leaning against the wall, adds to the intimacy and allure of the image. |
+| How | How does the concrete wall contrast with the woman's dress? | The rough, plain concrete wall provides a stark contrast to the soft, flowing dress, enhancing the sexy atmosphere of the photo. |

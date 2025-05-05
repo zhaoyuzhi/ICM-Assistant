@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt beige? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Are the woman's sneakers white? | Yes. |
+| Yes/No | Does the woman have loose waves in her hair? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the woman's hair style in the image? | Loose waves. |
+| What | What is the color of the woman's sneakers? | White. |
+| How | How does the woman's outfit complement her overall look? | The woman's beige skirt and white sneakers complement her overall look by adding a touch of elegance and sophistication. |
+| How | How does the woman's pose contribute to the atmosphere of the image? | The woman's pose, with her standing against a white background and looking directly at the camera, contributes to the calm and composed atmosphere of the image by creating a sense of direct engagement and focus on her attire and pose. |

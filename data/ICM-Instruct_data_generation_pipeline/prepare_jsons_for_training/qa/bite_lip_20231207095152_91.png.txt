@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the woman have a floral pattern on her shirt? | Yes. |
+| Yes/No | Is the woman standing in front of a counter? | Yes. |
+| Yes/No | Is there a mirror in the background? | Yes. |
+| Yes/No | Does the woman have her hair pulled back into a bun? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| What | What is the woman biting? | Her lip. |
+| What | What is the texture of the shirt? | Floral. |
+| How | How is the woman's facial expression? | Seductive/alluring. |
+| How | How does the image create a sense of allure and intrigue? | Through the woman's body language, the floral shirt, and the overall atmosphere. |

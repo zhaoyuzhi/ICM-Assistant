@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the dress pink? | Yes. |
+| Yes/No | Does the dress have a unique cutout in the back? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Does the person's pose create a sense of confidence? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the dress? | Pink. |
+| What | What is the person's pose in the image? | Standing with their back facing the camera. |
+| How | How is the dress tied in the back? | It is tied with a bow or knot. |
+| How | How much of the person's back is exposed in the image? | A significant area of their back is exposed. |

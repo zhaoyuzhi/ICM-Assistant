@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sticking their tongue out? | Yes. |
+| Yes/No | Is the person in the image holding their finger in their mouth? | Yes. |
+| Yes/No | Is the image seductive? | Yes. |
+| Yes/No | Is the facial expression of the person visible? | No. |
+| Yes/No | Does the image portray a playful gesture? | Yes. |
+| Yes/No | Is the atmosphere of the image light-hearted? | Yes. |
+| What | What is the color of the person's tongue? | Pink. |
+| What | What is the expresssion of the person in the image? | Playful and seductive. |
+| How | How is the person holding their finger in the image? | In their mouth. |
+| How | How does the image evoke feelings in the viewer? | Desire and attraction. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Does the woman in the image have brown hair? | Yes. |
+| Yes/No | Is the woman in the image wearing a black hat? | Yes. |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| What | What color is the woman's hat? | Black. |
+| What | What is the woman's facial expression? | Playful and confident. |
+| How | How is the woman's tongue positioned in the image? | Sticking out. |
+| How | How does the woman's direct gaze and smile contribute to the image's overall atmosphere? | They create an atmosphere of confidence and allure. |

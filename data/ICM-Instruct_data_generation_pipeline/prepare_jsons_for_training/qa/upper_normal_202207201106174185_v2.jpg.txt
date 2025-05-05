@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | Yes. |
+| Yes/No | Are the women smiling? | No. |
+| Yes/No | Is the background complex? | No. |
+| Yes/No | Are there any men in the image? | No. |
+| Yes/No | Is the image taken indoors? | Yes. |
+| Yes/No | Is the image artistic? | Yes. |
+| What | What is the dominant color in the image? | White, red, and blue. |
+| What | What is the occupation of the women in the image? | None obvious. |
+| How | How many women are in the image? | Three. |
+| How | How are the women dressed? | In casual attire (white shirt, red jacket, blue shirt). |

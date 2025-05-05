@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress beige in color? | Yes. |
+| Yes/No | Is the woman holding a purse? | Yes. |
+| Yes/No | Is the image taken in a casual setting? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire modest? | Yes. |
+| What | What is the color of the woman's dress? | Beige. |
+| What | What is the woman holding in her hand? | A purse. |
+| How | How is the woman standing in the doorway? | The woman is standing in a casual pose, possibly leaning against the doorframe. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level creates a calm and relaxed atmosphere, emphasizing the casual and modest nature of the scene. |

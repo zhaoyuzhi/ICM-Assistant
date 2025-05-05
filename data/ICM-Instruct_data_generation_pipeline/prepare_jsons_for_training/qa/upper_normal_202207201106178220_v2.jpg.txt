@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pink vest? | Yes. |
+| Yes/No | Is the woman's hair styled in a bob? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color is the woman's vest? | Pink. |
+| What | What is the woman's hairstyle? | Bob. |
+| How | How is the woman's expression? | Neutral. |
+| How | How is the background of the image? | Blurred. |

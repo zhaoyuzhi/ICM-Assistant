@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a bright or bold outfit? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the person's posture suggestive or provocative? | No. |
+| Yes/No | Does the image convey a sense of sexuality or intimacy? | No. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| What | What is the person wearing in the image? | Khaki pants and a white shirt. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How does the low exposure level contribute to the image's atmosphere? | It limits the viewer's focus on the person's body and emphasizes the casual and nonsexual nature of the image. |
+| How | How does the person's posture and attire suggest a casual and relaxed setting? | The person's posture is relaxed and their attire is casual, suggesting a setting where they feel comfortable and at ease. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a brightly colored shirt? | No. |
+| Yes/No | Are the person's shoulders visible in the image? | No. |
+| Yes/No | Is the person's attire revealing or suggestive? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and non-threatening? | Yes. |
+| What | What is the color of the person's pants? | Khaki. |
+| What | What is the color of the person's shirt? | White. |
+| How | How is the person standing in the image? | With their back to the camera. |
+| How | How would you describe the person's posture in the image? | Casual and relaxed. |

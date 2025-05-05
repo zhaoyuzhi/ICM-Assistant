@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman's breast fully covered in the image? | No. |
+| Yes/No | Is the flower crown made of real flowers? | Yes. |
+| What | What is the woman's facial expression in the image? | Lost in thought/contemplative. |
+| What | What is the woman's hair style in the image? | Flower crown. |
+| How | How is the woman's breast exposed in the image? | The woman is wearing a beige bra that is visible in the image, and her breast is partially exposed due to the closeup nature of the shot. |
+| How | How does the flower crown add to the overall atmosphere of the image? | The flower crown adds a touch of natural beauty to the image, which contrasts with the woman's human form and enhances the overall allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image holding flowers? | Yes. |
+| Yes/No | Is the woman in the image wearing a sweater? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Does the woman have a confident and alluring pose? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the skirt? | Brown. |
+| What | What is the woman holding in her hand? | A bouquet of flowers. |
+| How | How is the skirt styled? | Highwaisted. |
+| How | How does the woman hold the flowers? | With confidence and allure. |

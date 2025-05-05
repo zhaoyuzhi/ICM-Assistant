@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing sandals? | Yes. |
+| Yes/No | Is the person in the image looking down at the ground? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Does the person's attire and posture suggest a casual, everyday setting? | Yes. |
+| What | What color is the person's skirt? | Beige. |
+| What | What color is the person's shirt? | White. |
+| How | How long does the person's skirt reach? | Down to their ankles. |
+| How | How are the person's hands positioned? | On their hips. |

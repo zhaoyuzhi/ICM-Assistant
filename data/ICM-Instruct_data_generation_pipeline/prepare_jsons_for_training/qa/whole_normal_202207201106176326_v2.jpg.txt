@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a tracksuit? | Yes. |
+| Yes/No | Is the person in the image holding a cigarette? | Yes. |
+| Yes/No | Is the person in the image looking off to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire in the image casual? | Yes. |
+| Yes/No | Does the image reveal any private or sensitive information about the person? | No. |
+| What | What is the color of the person's tracksuit? | Black and yellow. |
+| What | What is the word written on the person's shirt? | JUNIOR. |
+| How | How is the person's demeanor in the image? | Relaxed. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

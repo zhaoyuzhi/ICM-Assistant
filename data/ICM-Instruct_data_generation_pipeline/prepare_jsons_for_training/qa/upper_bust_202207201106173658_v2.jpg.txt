@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white crocheted top? | Yes. |
+| Yes/No | Is the woman in the image sitting on a bed? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman's focus in the image solely on her chest and the ruffled neckline of her top? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A white crocheted top with a ruffled neckline. |
+| What | What is the woman in the image sitting on? | A bed. |
+| How | How is the woman's top crocheted? | It has a textured appearance. |
+| How | How does the woman's pose and the close-up nature of the photo create a sense of intimacy and vulnerability? | The woman's focus is solely on her chest and the ruffled neckline of her top, and the closeup nature of the photo emphasizes her upper body and creates a sense of vulnerability. |

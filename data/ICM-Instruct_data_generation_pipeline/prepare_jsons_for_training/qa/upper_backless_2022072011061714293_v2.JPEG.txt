@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress off-the-shoulder? | Yes. |
+| Yes/No | Does the person have their hair styled in a bun? | Yes. |
+| Yes/No | Is the beach setting sunny? | No. |
+| Yes/No | Is the person's back exposed? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What color is the dress? | White. |
+| What | What is the person's hair style? | Bun. |
+| How | How is the person's back exposed? | Through a plunging neckline and offtheshoulder sleeves. |
+| How | How does the beach setting add to the atmosphere of the image? | By evoking feelings of relaxation and freedom, which can be perceived as sexy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a crop top? | Yes. |
+| Yes/No | Is the woman wearing jeans? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Are there any other objects in the image? | No. |
+| What | What is the woman wearing on her upper body? | A white crop top with lace trim. |
+| What | What is the woman wearing on her lower body? | Blue jeans. |
+| How | How is the woman's pose in the image? | Confident and assertive. |
+| How | How does the lace trim on the crop top add to the overall look of the image? | It adds a touch of sophistication to the woman's outfit. |

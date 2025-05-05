@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the woman carrying a green purse? | Yes. |
+| Yes/No | Is the woman's outfit considered sexy? | Yes. |
+| Yes/No | Does the image take place in an airport terminal? | Yes. |
+| Yes/No | Is the woman holding a white phone? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What color are the woman's shorts? | Blue. |
+| How | How does the woman carry herself in the image? | Confidently and stylishly. |
+| How | How does the green purse and white phone add to the image? | They add a pop of color and make the outfit stand out. |

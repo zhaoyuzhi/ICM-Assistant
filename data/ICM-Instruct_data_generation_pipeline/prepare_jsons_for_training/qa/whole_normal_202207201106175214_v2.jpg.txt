@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Does the woman in the image have a neutral pose? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image depict any provocative or revealing clothing or poses? | No. |
+| Yes/No | Does the image create a sexual atmosphere? | No. |
+| What | What is the woman in the image wearing? | A white blouse and a black skirt. |
+| What | What is the background color of the image? | Pink. |
+| How | How is the woman standing in the image? | Neutrally. |
+| How | How much of the woman's body is visible in the image? | A small portion. |

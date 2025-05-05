@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing yellow leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a white sports bra? | Yes. |
+| Yes/No | Does the person in the image have their left hand on their hip? | Yes. |
+| Yes/No | Does the person in the image have their right hand on the wall? | Yes. |
+| Yes/No | Is the person in the image looking down at the camera? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What color are the leggings the person is wearing? | Yellow. |
+| What | What is the color of the sports bra the person is wearing? | White. |
+| How | How is the person posing in the image? | The person is posing in a sexy manner, with their left hand on their hip and their right hand on the wall. |
+| What | What does the person's expression convey? | The person's expression conveys confidence and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red blouse? | Yes. |
+| Yes/No | Is the woman in a formal or professional setting? | Yes. |
+| Yes/No | Does the woman have her legs crossed? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Does the woman have a slight smile on her face? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What color is the woman's blouse? | Red. |
+| What | What is the woman's pose in the image? | She is sitting with her legs crossed and her hands resting on her knees. |
+| How | How is the woman's attire in the image? | Formal and professional. |
+| How | How would you describe the overall atmosphere of the image? | Calm and composed. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the man's torso exposed? | Yes. |
+| Yes/No | Are the man's jeans black? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Are there any other discernible objects in the image? | No. |
+| What | What is the man wearing in the image? | Black jeans. |
+| What | What color is the background of the image? | White. |
+| Yes/No | Why is the man's skin glistening? | Possibly due to sweat or moisture. |
+| What | What does the absence of other objects in the image do? | It allows the viewer to focus solely on the man's physique and the sensual atmosphere created by the image. |

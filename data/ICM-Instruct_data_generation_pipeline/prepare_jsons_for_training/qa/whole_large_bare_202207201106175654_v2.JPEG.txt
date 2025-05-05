@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing black underwear? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Are the sheets on the bed white? | Yes. |
+| Yes/No | Does the image have an intimate and seductive atmosphere? | Yes. |
+| What | What color is the bra the woman is wearing? | Black. |
+| What | What is the woman's facial expression? | Smiling. |
+| How | How is the woman posed on the bed? | Lying down. |
+| How | How does the woman's gaze into the camera create a sense of connection? | It creates a sense of eye contact and intimacy. |

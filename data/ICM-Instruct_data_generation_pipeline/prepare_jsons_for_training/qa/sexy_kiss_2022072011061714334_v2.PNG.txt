@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a gray shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the man's shirt? | Gray. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How is the woman's head positioned? | Tilted back. |
+| How | How is the man leaning in to kiss the woman? | Leaning in. |

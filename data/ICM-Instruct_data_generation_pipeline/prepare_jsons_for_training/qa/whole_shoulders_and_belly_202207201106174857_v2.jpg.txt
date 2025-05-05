@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless yellow dress? | Yes. |
+| Yes/No | Does the woman's dress expose her midriff? | Yes. |
+| Yes/No | Is the woman sitting on a chair? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Does the image feature a green and white color scheme? | Yes. |
+| Yes/No | Are there multiple pairs of shoes visible in the background? | Yes. |
+| What | What is the woman looking at? | Her feet. |
+| What | What is the color scheme of the room? | Green and white. |
+| How | How is the woman's outfit contributing to the sexy atmosphere of the image? | The strapless yellow dress exposes her midriff, creating a common feature in sexy attire. |
+| How | How does the woman's pose contribute to the sexy atmosphere of the image? | Her crossed legs and looking down at her feet suggest a sense of vulnerability and intimacy. |

@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are the woman's pants khaki? | Yes. |
+| Yes/No | Does the woman have two pockets on the front of her pants? | Yes. |
+| Yes/No | Is the woman's shirt open? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What color are the woman's pants? | Khaki. |
+| What | What is the woman holding open with her hands? | Her shirt. |
+| How | How many pockets does the woman have on the front of her pants? | Two. |
+| How | How is the woman's shirt being held open? | By her hands. |
+| Yes/No | Is the woman in the image wearing a pair of khaki cargo pants? | Yes. |
+| Yes/No | Is the woman's shirt open, revealing her torso? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the woman's actions in the image suggestive or provocative? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image contain any revealing or provocative elements? | No. |
+| What | What is the woman wearing on her bottom half? | Khaki cargo pants. |
+| What | What is the woman holding open with her hands? | Her shirt. |
+| How | How is the woman's shirt being held open? | She is holding it open with her hands. |

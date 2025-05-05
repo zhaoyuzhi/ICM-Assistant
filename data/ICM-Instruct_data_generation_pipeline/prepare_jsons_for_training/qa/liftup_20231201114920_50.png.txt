@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Is the person wearing a white jacket? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Is the setting of the image dark? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and allure? | Yes. |
+| What | What is the person lifting in the image? | His shirt and jacket. |
+| What | What does the person's attire and the dark setting suggest about their personality? | Confidence, selfassuredness, attractiveness. |
+| How | How is the person's torso and abdominal muscles described in the image? | Muscular. |
+| How | How does the combination of the person's attire and the dark setting contribute to the overall atmosphere of the image? | It creates an impression of strength, fitness, and mystery, making the image feel intimate and alluring. |

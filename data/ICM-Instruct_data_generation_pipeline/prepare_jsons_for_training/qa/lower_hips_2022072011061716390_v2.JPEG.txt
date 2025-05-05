@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray sports bra and leggings? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Is the woman in a yoga pose? | Yes. |
+| Yes/No | Are her hands on the ground? | Yes. |
+| Yes/No | Is the image seductive and alluring? | Yes. |
+| Yes/No | Does the image accentuate the curves and shape of the lower body? | Yes. |
+| What | What is the woman wearing in the image? | A gray sports bra and leggings. |
+| What | What is the focal point of the image? | The woman in the yoga pose. |
+| How | How does the white background contribute to the image? | It puts the focus entirely on the woman and emphasizes her curves and shape. |
+| How | How does the gray sports bra and leggings contribute to the image? | They contribute to the overall athletic and fitness theme and complement the woman's body. |

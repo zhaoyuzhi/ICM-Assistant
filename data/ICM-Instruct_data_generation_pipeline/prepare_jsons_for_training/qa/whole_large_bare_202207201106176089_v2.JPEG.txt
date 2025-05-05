@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman's hair styled in a high ponytail? | Yes. |
+| Yes/No | Are there palm trees in the background of the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the woman wearing on her feet? | Nothing (she is barefoot). |
+| What | What is the color of the woman's bikini top and skirt? | Blue. |
+| How | How is the woman's body positioned in the chair? | She is sitting up straight with her legs crossed. |
+| How | How does the woman's facial expression contribute to the overall atmosphere of the image? | Her confident and stylish appearance and direct gaze at the camera create a sense of connection and intimacy, enhancing the overall atmosphere of the image. |

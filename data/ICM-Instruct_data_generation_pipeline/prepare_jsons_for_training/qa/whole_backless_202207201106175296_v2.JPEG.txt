@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink dress? | Yes. |
+| Yes/No | Is the dress shimmering? | Yes. |
+| Yes/No | Does the person have their back exposed? | Yes. |
+| Yes/No | Is the person wearing a bracelet on their left wrist? | Yes. |
+| Yes/No | Is the couch gray? | Yes. |
+| Yes/No | Are the person's legs bent at the knees? | Yes. |
+| What | What color is the dress? | Pink. |
+| What | What is the person's pose on the couch? | Lying on their stomach with their head resting on a pillow and their legs bent at the knees. |
+| How | How does the shimmering dress add to the overall allure of the image? | It creates a sense of intimacy and allure. |
+| How | How does the person's pose contribute to the seductive atmosphere? | It adds to the overall allure of the image, evoking feelings of desire and allure in the viewer. |

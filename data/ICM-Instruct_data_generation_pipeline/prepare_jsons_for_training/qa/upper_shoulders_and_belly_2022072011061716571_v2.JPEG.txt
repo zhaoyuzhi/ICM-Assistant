@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the pants the woman is wearing striped? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman posing with her hand on her hip? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's top? | Orange. |
+| What | What is the woman's hair style in the image? | Ponytail. |
+| How | How is the woman posing in the image? | With her hand on her hip. |
+| What | What can be inferred about the woman's confidence level based on her clothing and pose? | She appears confident and alluring. |

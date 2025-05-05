@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray leggings? | Yes. |
+| Yes/No | Is the person in the image posing in a confident manner? | Yes. |
+| Yes/No | Does the image feature a white wall as the background? | Yes. |
+| Yes/No | Are the person's buttocks prominently displayed in the image? | Yes. |
+| Yes/No | Is the person wearing white sneakers? | Yes. |
+| Yes/No | Does the image convey a sense of allure and attractiveness? | Yes. |
+| What | What is the primary color of the person's leggings? | Gray. |
+| What | What is the color of the person's sneakers? | White. |
+| How | How is the person posing in the image? | Confidently, with their buttocks prominently displayed. |
+| How | How does the contrast between the person's outfit and the white wall contribute to the overall aesthetic of the image? | It creates a visually appealing contrast that enhances the person's confident pose and attire, contributing to the image's sexiness. |

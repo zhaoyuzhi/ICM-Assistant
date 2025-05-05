@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Is the person in the image putting on beige stockings? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Is the image perceived as sexy? | Yes. |
+| Yes/No | Are the white shorts and top considered revealing clothing? | Yes. |
+| What | What is the person in the image wearing on their lower body? | White shorts. |
+| What | What is the person in the image wearing on their upper body? | A white top. |
+| How | How is the person in the image putting on the beige stockings? | The person is in the process of putting them on. |
+| How | How does the image create an atmosphere that is perceived as sexy? | The image creates an atmosphere that is perceived as sexy because the woman is wearing revealing clothing (white shorts and a white top), and the act of putting on stockings is often associated with sensuality and allure. |
+| Yes/No | Is the person in the image wearing white shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are beige stockings being put on by the person in the image? | Yes. |
+| Yes/No | Is the background of the image a gray curtain? | Yes. |
+| Yes/No | Does the image depict a woman? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image wearing? | White shorts and a white top. |
+| What | What is the person in the image doing? | Putting on beige stockings. |
+| How | How is the person in the image standing? | Standing in front of a gray curtain. |
+| How | How would you describe the atmosphere of the image? | Sexy and suggestive. |

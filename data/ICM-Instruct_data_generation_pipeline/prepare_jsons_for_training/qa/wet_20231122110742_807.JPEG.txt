@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the shirt soaked? | Yes. |
+| Yes/No | Is the woman holding her shirt open? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have a confident pose? | Yes. |
+| What | What is the woman holding in the image? | Her shirt. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How is the shirt soaked? | (Not specified in the description). |
+| How | How is the woman holding her shirt open? | (Not specified in the description). |

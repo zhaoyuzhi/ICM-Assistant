@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing denim shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a striped top? | Yes. |
+| Yes/No | Does the woman in the image have a purse? | Yes. |
+| Yes/No | Is the woman in the image standing with her hands on her hips? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What is the woman in the image wearing on her feet? | The image doesn't provide information about the woman's footwear. |
+| What | What is the color of the woman's striped top? | The description doesn't specify the exact color of the striped top, but it does mention that it adds a pop of color to her outfit. |
+| How | How does the woman's pose in the image suggest confidence and self-assuredness? | The woman's pose with her hands on her hips and her standing position suggests confidence and selfassuredness. |
+| How | How does the combination of the woman's outfit and pose contribute to the sexy feel of the image? | The combination of the highwaisted denim shorts, striped top, and the woman's confident pose creates a sexy and stylish look. |

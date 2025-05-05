@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a short denim skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image carrying a purse? | Yes. |
+| Yes/No | Is the woman in the image smoking a cigarette? | Yes. |
+| Yes/No | Is the woman in the image moving towards the right side of the image? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| What | What is the woman in the image wearing on her lower body? | A short denim skirt. |
+| What | What is the woman in the image carrying? | A purse. |
+| How | How is the woman in the image moving? | She is walking. |
+| How | How does the woman's outfit and actions suggest her personality? | Her outfit and actions suggest a sense of confidence and selfassuredness. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of olive green cargo pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the person's posture suggest a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Are the person's clothing and posture neutral and non-sexual? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color are the person's cargo pants? | Olive green. |
+| What | What is the person's posture in the image? | Standing with hands on hips. |
+| How | How does the person's attire contribute to the non-sexual nature of the image? | The person's clothing is neutral and does not evoke any sexual connotations. |
+| How | How does the exposure level of the image contribute to its non-sexual nature? | The low exposure level means that there is no explicit or suggestive content in the image. |
+| Yes/No | Is the person in the image wearing a pair of olive green cargo pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the person in the image have their hands on their hips? | Yes. |
+| Yes/No | Is the image depicting a casual, relaxed setting? | Yes. |
+| Yes/No | Does the person's posture and attire suggest a sexual or explicit atmosphere? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color are the person's pants? | Olive green. |
+| What | What is the person's posture in the image? | Standing with hands on hips. |
+| How | How does the person's attire contribute to the non-sexual atmosphere of the image? | The person's clothing is neutral and does not evoke any sexual connotations. |
+| How | How does the exposure level of the image contribute to the non-sexual atmosphere? | The low exposure level further contributes to the nonsexual atmosphere by not highlighting any provocative elements. |

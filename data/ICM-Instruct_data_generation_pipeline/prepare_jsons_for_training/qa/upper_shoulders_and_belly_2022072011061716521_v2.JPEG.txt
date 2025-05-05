@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a midriff-baring outfit? | Yes. |
+| Yes/No | Is the woman in the image wearing a brown belt? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color is the woman's top? | Red and white checkered. |
+| What | What is the woman's hair style? | Loose waves. |
+| How | How is the woman's top held up? | Strapless. |
+| How | How is the woman's midriff exposed? | Midriffbaring outfit. |

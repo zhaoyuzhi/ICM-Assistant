@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white wedding dress? | Yes. |
+| Yes/No | Is the dress long and elegant? | Yes. |
+| Yes/No | Does the dress have a high slit on the back? | Yes. |
+| Yes/No | Is the person holding a bouquet of flowers? | Yes. |
+| Yes/No | Are the flowers adding a touch of color to the image? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| What | What is the person wearing in the image? | A white wedding dress and a bouquet of flowers. |
+| What | What is the surrounding environment like in the image? | A wooded area with trees and foliage. |
+| How | How does the high slit on the back of the dress contribute to the overall atmosphere of the image? | It reveals a significant amount of skin, making the image sexy and alluring. |
+| How | How does the bouquet of flowers add to the image? | It adds a touch of color and femininity to the scene, enhancing the seductive and alluring atmosphere. |

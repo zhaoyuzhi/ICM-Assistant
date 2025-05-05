@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink shorts? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's blouse matching the color of her shorts? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the pocket on the front of the shorts a functional element? | Yes. |
+| Yes/No | Does the pink color of the outfit add an eye-catching element to the image? | Yes. |
+| What | What color are the woman's shorts? | Pink. |
+| What | What is the woman's pose in the image? | She has her hands placed on her hips. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | Her confident pose suggests selfassurance and contributes to the sexy atmosphere. |
+| How | How does the pocket on the front of the shorts add a practical touch to the image? | The pocket adds a functional element to the garment, making it both stylish and practical. |

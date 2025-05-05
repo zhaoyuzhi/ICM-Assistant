@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image holding an ice cream cone? | Yes. |
+| Yes/No | Is the woman in the image holding an ice cream cone? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Are the man and woman in the image dressed casually? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man in the image wearing? | A red and white striped shirt. |
+| What | What is the woman in the image wearing? | A striped shirt. |
+| How | How are the man and woman in the image positioned? | They are standing close together, with the man's hand on the woman's waist and their faces close together in a kiss. |
+| How | How does the presence of ice cream cones in the image contribute to its atmosphere? | The presence of ice cream cones suggests a fun and lighthearted moment, further enhancing the overall sexy vibe of the image. |

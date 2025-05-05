@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black turtleneck sweater? | Yes. |
+| Yes/No | Is the sweater cropped at the waist? | Yes. |
+| Yes/No | Does the sweater feature a pink logo on the front? | Yes. |
+| Yes/No | Is the woman's hair long and straight? | Yes. |
+| Yes/No | Is the woman's left hand resting on her hip? | Yes. |
+| Yes/No | Is the woman's right hand lightly touching her face? | Yes. |
+| What | What color is the woman's sweater? | Black. |
+| What | What is the woman's hair color? | Straight, black. |
+| How | How is the woman posing in the image? | She is striking a pose with her left hand resting on her hip and her right hand lightly touching her face. |
+| How | How does the background contrast with the woman's outfit? | The stark white wall provides a clean, minimalist backdrop that contrasts with the woman's dark sweater and accentuates her figure. |

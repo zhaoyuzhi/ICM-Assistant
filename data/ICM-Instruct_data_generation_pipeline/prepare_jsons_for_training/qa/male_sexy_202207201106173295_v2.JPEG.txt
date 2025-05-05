@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the man facing the camera? | Yes. |
+| Yes/No | Are the man's hands on his hips? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image contain any objects other than the man? | No. |
+| What | What is the man wearing in the image? | A pair of black and gray boxer briefs. |
+| What | What is the pose of the man in the image? | Standing with his hands on his hips. |
+| How | How does the image create a sense of sensuality? | The man's toplessness and pose create a sense of intimacy and vulnerability, which contributes to the overall sensuality of the image. |
+| How | How does the image create a sense of attractiveness? | The combination of the man's toplessness, pose, and the color palette of the image creates a sense of attractiveness that can be perceived as sexy. |

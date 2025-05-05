@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Are her arms raised above her head? | Yes. |
+| Yes/No | Is the background of the image a clear blue sky? | Yes. |
+| Yes/No | Is the image sexy due to the woman's exposed upper body? | Yes. |
+| Yes/No | Does the image feature a beach setting? | Yes. |
+| Yes/No | Is the woman in the image confident and relaxed? | Yes. |
+| What | What is the woman in the image wearing? | A white bikini top. |
+| What | What is the background of the image? | A clear blue sky. |
+| How | How is the woman in the image standing? | She is standing on a beach. |
+| How | How does the image make the viewer feel? | It feels inviting and appealing. |

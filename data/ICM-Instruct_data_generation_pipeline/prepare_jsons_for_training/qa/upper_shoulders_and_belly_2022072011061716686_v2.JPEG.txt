@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Does the black top have a cutout in the middle? | Yes. |
+| Yes/No | Are the blue jeans a matching color to the black top? | No. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her upper body? | A black top with a cutout in the middle. |
+| What | What is the woman wearing on her lower body? | Blue jeans with a silver buckle. |
+| How | How is the woman's pose in the image? | She is striking a pose with her hand on her hip. |
+| How | How would you describe the atmosphere of the image? | Sexy and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pink underwear? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Is the image set on a white couch? | Yes. |
+| Yes/No | Does the image create an intimate atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person's stomach visible in the image? | Yes. |
+| What | What color is the person's underwear? | Pink. |
+| What | What is the person's attire in the image? | Pink underwear. |
+| How | How is the person's lower body exposed in the image? | The person's legs are crossed. |
+| How | How does the image create an intimate atmosphere? | The image showcases a person's lower body in a closeup shot, with their legs crossed and wearing pink underwear, creating an atmosphere of sensuality and allure. The exposure of the person's stomach and the intimate setting of the white couch further enhance the image's allure. |

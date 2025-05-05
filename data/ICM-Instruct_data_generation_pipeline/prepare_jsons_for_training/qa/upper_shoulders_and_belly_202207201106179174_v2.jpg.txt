@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman's midriff exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing a choker necklace? | Yes. |
+| Yes/No | Does the woman have long, dark hair? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the woman's facial expression in the image? | She is smiling and looking off to the side. |
+| What | What type of clothing is the woman wearing in the image? | She is wearing a strapless top and a choker necklace. |
+| How | How does the woman's outfit contribute to the overall feeling of the image? | The woman's outfit, specifically the strapless top and choker necklace, contribute to the sexy and sophisticated feeling of the image. |
+| How | How does the blurred background affect the focus of the image? | The blurred background puts the focus on the woman and her outfit, enhancing the sexy feel of the image. |

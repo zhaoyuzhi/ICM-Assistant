@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have long red hair? | Yes. |
+| Yes/No | Is the woman's facial expression open and inviting? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards and to the left? | Yes. |
+| What | What is the woman's facial expression in the image? | Open and inviting. |
+| What | What is the woman's tongue doing in the image? | Sticking out. |
+| How | How does the woman's gaze contribute to the overall atmosphere of the image? | Her upward and leftward gaze adds a sense of curiosity and engagement with the viewer, which contributes to the flirtatious and alluring atmosphere of the image. |
+| How | How does the woman's playful and seductive pose, combined with her confident and inviting facial expression, contribute to the overall atmosphere of the image? | Her playful and seductive pose, combined with her confident and inviting facial expression, creates a sense of allure and confidence, which contributes to the overall flirtatious and alluring atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt short? | Yes. |
+| Yes/No | Does the person have a relaxed atmosphere? | Yes. |
+| Yes/No | Is the washing machine silver? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the person's thighs exposed? | Yes. |
+| What | What is the color of the person's skirt? | Pink. |
+| What | What is the color of the washing machine? | Silver. |
+| How | How does the person's pose contribute to the sexy atmosphere? | The person's pose is relaxed and casual, suggesting a carefree and confident attitude. |
+| How | How does the short skirt contribute to the sexy atmosphere? | The short skirt exposes the person's thighs, which is often associated with a seductive or alluring appearance. |

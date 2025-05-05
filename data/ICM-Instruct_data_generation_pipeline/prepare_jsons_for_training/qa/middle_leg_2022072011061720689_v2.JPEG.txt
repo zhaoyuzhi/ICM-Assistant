@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Are the shorts high-waisted? | Yes. |
+| Yes/No | Does the image have a warm tone? | Yes. |
+| Yes/No | Is the person's pose confident and assertive? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the shorts? | Brown. |
+| How | How are the person's hands placed on their hips? | The person's hands are placed confidently and assertively on their hips. |
+| What | What does the high-waisted shorts and the person's pose suggest about their personality? | The highwaisted shorts and the person's pose suggest that the person is strong, assertive, and confident. |

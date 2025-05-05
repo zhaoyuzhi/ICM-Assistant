@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress soaked? | Yes. |
+| Yes/No | Is the woman standing on a balcony? | Yes. |
+| Yes/No | Is she leaning on a railing? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image suggest a sense of mystery and allure? | Yes. |
+| What | What is the woman wearing in the image? | A white dress. |
+| What | What is the setting of the image? | A balcony with a railing and a cityscape in the background. |
+| How | How is the woman posing in the image? | She is leaning on the railing and looking at the camera. |
+| How | How does the image create a captivating and seductive atmosphere? | Through the combination of the woman's attire, the setting, and her pose, which suggest a sense of mystery and allure. |

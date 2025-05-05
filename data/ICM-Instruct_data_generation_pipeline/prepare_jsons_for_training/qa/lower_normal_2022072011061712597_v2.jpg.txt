@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Do they have black shoes? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the person wearing a watch? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the person's gender? | The person's gender cannot be determined from the image because their face is not visible. |
+| What | What is the person's hair color? | The person's hair color cannot be determined from the image because their face is not visible. |
+| How | How is the person dressed? | The person is dressed in casual clothing  a white shirt, black pants, and black shoes. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is casual and everyday. |

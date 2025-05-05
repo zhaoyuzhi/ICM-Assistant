@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blazer? | Yes. |
+| Yes/No | Does the woman have her eyes closed? | Yes. |
+| Yes/No | Are her hands clasped together in front of her? | Yes. |
+| Yes/No | Is the background of the image dark and out of focus? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image convey a sense of calm and serenity? | Yes. |
+| What | What is the woman doing in the image? | She is sitting in a chair with her eyes closed and her hands clasped together in front of her, suggesting a moment of contemplation or relaxation. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is calm and serene. |
+| How | How does the woman's pose and expression contribute to the image's atmosphere? | The woman's closed eyes and clasped hands contribute to the image's calm and serene atmosphere, suggesting a moment of contemplation or relaxation. |
+| How | How does the dark background and low exposure level add to the image's atmosphere? | The dark background and low exposure level add to the image's sense of tranquility, creating a peaceful and calming environment. |

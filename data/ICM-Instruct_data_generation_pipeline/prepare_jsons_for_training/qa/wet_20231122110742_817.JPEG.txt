@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the person's hair wet in the image? | Yes. |
+| Yes/No | Is the person's necklace visible in the image? | Yes. |
+| Yes/No | Does the image capture a moment of vulnerability and intimacy? | Yes. |
+| Yes/No | Is the atmosphere of the image moody and dramatic? | Yes. |
+| Yes/No | Does the image create a sense of connection with the viewer? | Yes. |
+| What | What is the person wearing in the image? | A white tshirt. |
+| What | What is the weather like in the image? | Rainy. |
+| How | How does the person's clothing add to the sexy feel of the image? | The person's clothes are clinging to their body, which adds to the sexy feel of the image. |
+| How | How does the image create a sense of connection with the viewer? | The person is exposed to the elements, with their clothes clinging to their body in the rain, creating a sense of shared experience with the viewer. |

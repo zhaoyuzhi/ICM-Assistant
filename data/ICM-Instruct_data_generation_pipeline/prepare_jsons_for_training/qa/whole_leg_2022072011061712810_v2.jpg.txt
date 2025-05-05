@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the central figure in the image a young woman? | Yes. |
+| Yes/No | Is the woman dressed in a gray tank top and maroon shorts? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and relaxation? | Yes. |
+| Yes/No | Is the image sexy due to the woman's attire and pose? | Yes. |
+| Yes/No | Does the woman's left hand rest on her hip? | Yes. |
+| Yes/No | Does the woman's right hand lightly touch the railing? | Yes. |
+| What | What is the color of the woman's tank top? | Gray. |
+| What | What is the color of the woman's shorts? | Maroon. |
+| How | How is the woman's pose in the image? | Confident and relaxed. |
+| How | How does the balcony setting add to the overall atmosphere of the image? | It adds an element of intrigue. |

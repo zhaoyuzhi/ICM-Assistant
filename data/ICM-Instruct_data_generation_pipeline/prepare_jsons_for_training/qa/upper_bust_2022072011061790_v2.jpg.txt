@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra gray in color? | Yes. |
+| Yes/No | Does the bra have thin straps? | Yes. |
+| Yes/No | Is the neckline of the bra low? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| Yes/No | Is the woman's gaze directed downwards? | Yes. |
+| What | What is the color of the bra? | Gray. |
+| What | What is the direction of the woman's gaze? | Downwards. |
+| How | How does the image showcase the woman's breast? | The image showcases the woman's breast in a closeup shot, highlighting its shape and curve. |
+| How | How does the plain white background affect the image? | The plain white background puts the focus entirely on the woman and her attire, enhancing the intimate and alluring atmosphere of the image. |

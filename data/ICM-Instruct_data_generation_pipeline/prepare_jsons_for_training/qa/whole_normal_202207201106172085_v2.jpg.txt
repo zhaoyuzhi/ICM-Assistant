@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a jumpsuit? | Yes. |
+| Yes/No | Does the jumpsuit have a floral design on the back? | Yes. |
+| Yes/No | Is the neckline of the jumpsuit high? | Yes. |
+| Yes/No | Are the sleeves of the jumpsuit long? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| What | What is the color of the jumpsuit? | Pink. |
+| What | What is the overall atmosphere of the image? | Modest and elegant. |
+| How | How is the woman standing in the image? | She is standing in front of a white background. |
+| How | How does the low exposure level of the image affect the scene? | It emphasizes the modesty of the scene. |

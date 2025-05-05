@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the top orange in color? | Yes. |
+| Yes/No | Are the woman's pants black? | Yes. |
+| Yes/No | Is the woman leaning against a white wall? | Yes. |
+| Yes/No | Is her left arm resting on the wall? | Yes. |
+| Yes/No | Is her right arm hanging down? | Yes. |
+| What | What is the color of the woman's top? | Orange. |
+| What | What is the design on the back of the woman's top? | Crisscross. |
+| How | How is the woman's pose in the image? | She is leaning against the wall with her left arm resting on the wall and her right arm hanging down. |
+| How | How does the contrast between the woman's skin and the white wall enhance the visual impact of the image? | It creates a striking visual contrast that draws the viewer's attention to the woman's exposed skin, making the image more sexy and alluring. |

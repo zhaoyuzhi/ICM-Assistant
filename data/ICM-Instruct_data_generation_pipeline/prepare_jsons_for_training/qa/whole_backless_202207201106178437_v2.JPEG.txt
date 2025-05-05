@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a sheer panel on the back? | Yes. |
+| Yes/No | Is the dress designed with a high slit? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person's attire and the exposed area of their back the main focus of the image? | Yes. |
+| What | What is the color of the person's dress? | Black. |
+| What | What is the material of the sheer panel on the back of the dress? | Sheer. |
+| How | How is the dress designed at the back? | With a tie. |
+| How | How much of the person's back is exposed in the image? | A significant portion. |

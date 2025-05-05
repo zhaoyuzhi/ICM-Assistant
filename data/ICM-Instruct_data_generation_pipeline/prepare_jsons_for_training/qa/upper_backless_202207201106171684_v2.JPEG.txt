@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a tank top? | Yes. |
+| Yes/No | Are they wearing leggings? | Yes. |
+| Yes/No | Does the tank top have a crisscross design? | Yes. |
+| Yes/No | Is the crisscross design on the back of the tank top? | Yes. |
+| Yes/No | Does the person have their hand on their hip? | Yes. |
+| Yes/No | Is the background of the image a glass door? | Yes. |
+| What | What color is the tank top? | White. |
+| What | What color are the leggings? | Orange. |
+| How | How does the crisscross design contribute to the image's sex appeal? | It exposes a large area of the person's back, which is a common feature in sexy clothing. |
+| How | How does the combination of the white tank top and orange leggings contribute to the image's visual appeal? | It creates a contrast in colors, adding to the overall allure of the image. |

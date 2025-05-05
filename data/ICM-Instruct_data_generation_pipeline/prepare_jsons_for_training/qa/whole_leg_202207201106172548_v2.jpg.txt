@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the central figure in the image a young woman? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman wearing a white polo shirt? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Are the woman's shoes white? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What is the woman's pose in the image? | She is standing with her left hand on her hip and her right hand resting on her thigh. |
+| What | What color is the woman's outfit? | White and black. |
+| How | How does the woman's pose suggest confidence and allure? | Her pose, with her left hand on her hip and her right hand resting on her thigh, exudes a sense of selfassuredness and allure. |
+| How | How does the white background emphasize the woman and her outfit? | The white background further emphasizes the woman and her outfit, making her the focal point of the image. |

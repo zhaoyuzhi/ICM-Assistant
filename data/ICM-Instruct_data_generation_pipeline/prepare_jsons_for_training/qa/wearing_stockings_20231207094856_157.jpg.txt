@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Is the person sitting on a white couch? | Yes. |
+| Yes/No | Is the person wearing a gray sweater? | Yes. |
+| Yes/No | Is the person's knee bent? | Yes. |
+| Yes/No | Is the person wearing a beige skirt? | Yes. |
+| Yes/No | Does the image capture a private and intimate moment? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What color is the person's sweater? | Gray. |
+| How | How is the person's posture in the image? | Bent knee, intimate and vulnerable. |
+| How | How does the beige color of the stockings and sweater contribute to the atmosphere of the image? | Warm and inviting, enhancing the sexy feel. |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Is the person wearing a gray sweater? | Yes. |
+| Yes/No | Is the person sitting on a white couch? | Yes. |
+| Yes/No | Is the person's knee bent in the image? | Yes. |
+| Yes/No | Is the person wearing a beige skirt? | Yes. |
+| Yes/No | Does the image capture a private and intimate moment? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the stockings and sweater? | Beige. |
+| How | How is the person's posture in the image? | Bent knee, intimate and vulnerable. |
+| What | What atmosphere does the image convey? | Intimate, sensual, warm, and inviting. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Does the image have a serene and peaceful backdrop? | Yes. |
+| Yes/No | Is the woman's outfit stylish and flattering? | Yes. |
+| Yes/No | Does the image evoke a sense of desire? | Yes. |
+| Yes/No | Is the woman's pose confident and stylish? | Yes. |
+| What | What is the woman wearing on her upper body? | A gray tank top. |
+| What | What is the color of the purse the woman is holding? | Black. |
+| How | How does the woman's pose contrast with the surrounding scenery? | The woman's confident and stylish pose contrasts with the serene and peaceful backdrop of the rice fields, creating a visually appealing image. |
+| How | How does the high-waisted design and frayed hem of the skirt add to the overall style of the outfit? | The highwaisted design and frayed hem of the skirt add a touch of casual chic to the overall style of the outfit, making it stylish and flattering. |

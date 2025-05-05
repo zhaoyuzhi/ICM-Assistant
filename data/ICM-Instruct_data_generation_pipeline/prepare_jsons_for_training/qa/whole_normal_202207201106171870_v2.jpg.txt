@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black sports outfit? | Yes. |
+| Yes/No | Is the background of the image a white floor and a white wall? | Yes. |
+| Yes/No | Is the woman holding a phone in her right hand? | Yes. |
+| Yes/No | Is the woman's left hand placed on her hip? | Yes. |
+| Yes/No | Are the photos arranged in a 3x3 grid? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman wearing in the image? | A black sports top and black leggings. |
+| What | What is the woman holding in her right hand? | A phone. |
+| How | How is the woman standing in the image? | With her left hand on her hip and her right hand holding a phone. |
+| How | How is the image arranged? | The photos are arranged in a 3x3 grid. |

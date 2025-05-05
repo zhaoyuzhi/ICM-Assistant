@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Does the skirt have a button-down front? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the woman wearing a black belt? | Yes. |
+| Yes/No | Does the outfit give an impression of stylishness and fashion? | Yes. |
+| Yes/No | Does the image appear sexy? | Yes. |
+| What | What is the color of the woman's skirt? | Black. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How is the woman's waist fastened? | With a black belt. |
+| How | How does the woman's attire almost expose her thighs? | The skirt is designed with a buttondown front, allowing for a revealing view of her thighs. |

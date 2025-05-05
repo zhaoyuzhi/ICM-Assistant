@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the bikini top blue and white? | Yes. |
+| Yes/No | Is the bikini bottom pink? | Yes. |
+| What | What is the color of the bikini top? | Blue and white. |
+| What | What is the color of the bikini bottom? | Pink. |
+| How | How is the woman standing in the image? | She is standing with her hands on her hips. |
+| How | How does the image create a sexy atmosphere? | The image creates a sexy atmosphere through the woman's attire, confident pose, and the white background, which draws the viewer's attention to her. |

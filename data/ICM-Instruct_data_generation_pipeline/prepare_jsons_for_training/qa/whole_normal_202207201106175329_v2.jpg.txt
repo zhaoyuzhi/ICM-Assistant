@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a green coat? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are the subjects posing for the camera? | Yes. |
+| Yes/No | Is the building behind them tall? | Yes. |
+| Yes/No | Does the image have a dark or muted appearance? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the man wearing? | A green coat. |
+| What | What is the woman wearing? | A white dress. |
+| How | How many windows does the building behind them have? | Many. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, public space. |

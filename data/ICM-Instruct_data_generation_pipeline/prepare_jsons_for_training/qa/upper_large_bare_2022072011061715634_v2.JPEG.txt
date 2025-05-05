@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the woman posing in a suggestive manner? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman's attire appropriate for a beach setting? | Yes. |
+| What | What is the woman's facial expression in the image? | She is tilting her head to the side. |
+| What | What is the color of the woman's bikini? | White. |
+| How | How is the woman posing in the image? | She is posing with her hands on her hips and her head tilted to the side. |
+| How | How does the beach setting contribute to the overall atmosphere of the image? | The beach setting adds to the sexy and alluring atmosphere of the image, as it is often associated with relaxation and leisure activities. |

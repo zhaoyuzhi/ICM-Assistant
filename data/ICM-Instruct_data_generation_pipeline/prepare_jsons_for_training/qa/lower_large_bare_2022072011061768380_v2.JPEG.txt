@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing gray underwear? | Yes. |
+| Yes/No | Is the couch in the image white? | Yes. |
+| Yes/No | Are there pink flowers in a vase nearby? | Yes. |
+| Yes/No | Is the woman putting on her underwear in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the contrasting color scheme of gray and white add to the visual appeal? | Yes. |
+| What | What is the primary focus of the image? | The woman's lower body. |
+| What | What do the pink flowers in the vase add to the scene? | A touch of color and softness. |
+| What | What does the woman's actions of putting on her underwear suggest? | A sense of intimacy and vulnerability. |

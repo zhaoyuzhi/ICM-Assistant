@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing red lipstick? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the woman looking upwards? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman holding her finger in her mouth? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color is the woman's lipstick? | Red. |
+| What | What is the woman doing with her finger? | She is holding it in her mouth. |
+| How | How does the woman's facial expression contribute to the seductive atmosphere of the image? | Her slight smile and looking upwards suggest a sense of confidence and sensuality. |
+| How | How does the woman's body language contribute to the seductive atmosphere of the image? | Her pose and gesture of holding her finger in her mouth suggest a sense of allure and playfulness. |

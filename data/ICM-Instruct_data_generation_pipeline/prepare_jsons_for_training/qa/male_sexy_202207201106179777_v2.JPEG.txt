@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing shoes? | No. |
+| Yes/No | Is the man in the image standing in a formal pose? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the man in the image smiling? | No. |
+| What | What is the man in the image wearing on his lower half? | Blue and white patterned boxer shorts. |
+| What | What is the man's body position in the image? | Standing in a relaxed pose. |
+| How | How does the image make the viewer feel? | The image creates a sense of intimacy and vulnerability and makes the viewer feel as if they are getting a glimpse into the man's personal space. |
+| How | How does the man's pose contribute to the overall atmosphere of the image? | The relaxed pose adds to the overall atmosphere, making the viewer feel as if they are getting a glimpse into his personal space. |

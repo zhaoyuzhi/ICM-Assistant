@@ -1,0 +1,13 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing leggings? | Yes. |
+| Yes/No | Is the logo on the leggings white? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman striking a pose in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have her left hand on her hip? | Yes. |
+| What | What color are the leggings? | Blue. |
+| Yes/No | --- | ---. |
+| What | What is the woman's pose in the image? | She is standing with her left hand on her hip and her right hand on her thigh. |
+| How | How does the contrast between the blue leggings and white floor affect the image? | It draws attention to the woman's body and highlights her pose. |
+| How | How does the white logo on the leggings contribute to the image? | It adds a touch of detail and makes the image more interesting. |

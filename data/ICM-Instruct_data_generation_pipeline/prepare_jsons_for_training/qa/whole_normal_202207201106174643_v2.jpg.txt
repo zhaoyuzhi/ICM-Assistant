@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image smiling? | Yes. |
+| Yes/No | Is the girl looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain explicit nudity or suggestive content? | No. |
+| Yes/No | Is the girl's dress white? | Yes. |
+| Yes/No | Does the toy toolbox have a picture of a toy car on it? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the girl sitting on? | A toy toolbox. |
+| What | What is the color of the girl's dress? | White. |
+| How | How is the girl's hair styled? | Blonde. |
+| What | What is the overall atmosphere of the image? | Innocent and playful. |

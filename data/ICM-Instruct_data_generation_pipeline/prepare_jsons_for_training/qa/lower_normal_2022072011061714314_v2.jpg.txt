@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man's watch visible in the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the man's attire provocative? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the man's pose in the image? | He is standing with his hands casually tucked into his pockets. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is neutral and nonsexual. |
+| How | How is the man's attire? | His attire is casual. |
+| How | How is the image's background? | The image's background is white. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of teal shorts? | Yes. |
+| Yes/No | Does the person in the image have a white shirt on? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the focus of the image on the person's outfit rather than their physical appearance? | Yes. |
+| Yes/No | Does the image suggest any form of intimacy or sexuality? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color are the shorts in the image? | Teal. |
+| What | What color is the person's shirt in the image? | White. |
+| How | How is the waist of the shorts designed? | With a drawstring. |
+| How | How much of the person's body is visible in the image? | Only the lower half, including the shorts and shirt. |
+| Yes/No | Is the person in the image wearing a pair of teal shorts? | Yes. |
+| Yes/No | Does the person's shirt contrast with the color of their shorts? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the focus of the image on the person's attire rather than any potential sexual implications? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the color of the person's shorts? | Teal. |
+| What | What is the type of waistband on the person's shorts? | Drawstring. |
+| How | How much of the person's body is visible in the image? | Lower half of their torso and legs. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

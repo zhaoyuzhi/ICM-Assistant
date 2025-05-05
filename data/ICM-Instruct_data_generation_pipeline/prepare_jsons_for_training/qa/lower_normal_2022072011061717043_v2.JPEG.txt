@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress green? | Yes. |
+| Yes/No | Does the dress have a high slit on the left side? | Yes. |
+| Yes/No | Is the woman wearing black heels? | Yes. |
+| Yes/No | Is the purse black? | Yes. |
+| Yes/No | Is the setting of the image an urban street? | Yes. |
+| What | What is the woman carrying in her hand? | A black purse. |
+| What | What is the color of the woman's dress? | Green. |
+| How | How long is the dress? | Down to her ankles. |
+| What | What is the style of the woman's shoes? | Black heels. |

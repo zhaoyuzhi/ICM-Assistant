@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Is the person lifting their shirt? | Yes. |
+| Yes/No | Is the person lifting their pants? | Yes. |
+| Yes/No | Is the person wearing a belt? | Yes. |
+| What | What is the person wearing around their waist? | A belt. |
+| What | What is the person's attire? | A white shirt and black pants. |
+| How | How is the person's body being accentuated? | Through the contrast of the white shirt and black pants, and the lifting of their clothes. |
+| What | What atmosphere does the image convey? | Sensual and provocative. |

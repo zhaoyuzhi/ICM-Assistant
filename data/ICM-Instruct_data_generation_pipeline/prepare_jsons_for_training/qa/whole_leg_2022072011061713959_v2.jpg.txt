@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink cardigan? | Yes. |
+| Yes/No | Is the woman in the image wearing a white collared shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a gray skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black belt? | Yes. |
+| Yes/No | Are the woman's clothes almost exposing her thighs? | Yes. |
+| Yes/No | Does the image have a seductive and enticing feel? | Yes. |
+| What | What color is the woman's cardigan? | Pink. |
+| What | What is the woman's pose in the image? | She is posing in a way that her clothes almost expose her thighs. |
+| How | How does the pink cardigan add to the image's overall aesthetic? | The pink cardigan adds a pop of color to the woman's outfit, creating a visually appealing contrast with the gray skirt and black belt. |
+| How | How does the woman's pose contribute to the image's sensual atmosphere? | The woman's pose, with her clothes almost exposing her thighs, gives the image a seductive and enticing feel. |

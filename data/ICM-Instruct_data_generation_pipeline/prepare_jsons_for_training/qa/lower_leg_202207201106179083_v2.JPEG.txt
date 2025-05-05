@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of white shorts? | Yes. |
+| Yes/No | Is the woman's left hand placed on her hip? | Yes. |
+| Yes/No | Is the woman holding a black purse in her right hand? | Yes. |
+| Yes/No | Are her black and white sneakers visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the mirror reflect her image? | Yes. |
+| What | What color is the woman's shirt? | Red and white striped. |
+| What | What is the woman wearing on her feet? | Black and white sneakers. |
+| How | How is the woman's left hand positioned? | Placed on her hip. |
+| How | How does the image create a sense of depth? | The mirror reflects her image, creating a sense of depth. |

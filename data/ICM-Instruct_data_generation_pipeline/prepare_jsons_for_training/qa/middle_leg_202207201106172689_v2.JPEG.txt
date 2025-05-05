@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman's top white? | Yes. |
+| Yes/No | Does the woman have a confident pose? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Are the woman's thighs exposed? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing on her bottom half? | A black skirt. |
+| What | What is the color of the woman's top? | White. |
+| How | How is the woman standing in the image? | With a confident pose. |
+| How | How does the black skirt and white top combination contribute to the image's overall visual appeal? | The contrast between the black skirt and white top adds to the overall visual appeal of the image, making it more captivating and sexy. |

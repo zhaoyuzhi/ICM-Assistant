@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a black sweatshirt? | Yes. |
+| Yes/No | Does the sweatshirt have the phrase "Just Do It" written on it? | Yes. |
+| Yes/No | Is the sweatshirt cropped at the waist? | Yes. |
+| Yes/No | Are the woman's sweatpants also black? | Yes. |
+| Yes/No | Do the sweatpants have the same "Just Do It" text on them? | Yes. |
+| What | What is the woman's pose in the image? | She is striking a pose with her left hand on her hip and her right hand resting on her thigh. |
+| What | What is the woman's facial expression in the image? | She is looking directly at the camera with a slight smile on her face. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The black sweatshirt and sweatpants, combined with the cropped waist, create a sense of allure and confidence. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, with her left hand on her hip and her right hand resting on her thigh, adds to the overall sensuality of the image. |

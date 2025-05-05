@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the woman wearing a white coat? | Yes. |
+| Yes/No | Is the man wearing a black suit? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Are there any other people visible in the image? | No. |
+| What | What is the woman's head tilted back in the image? | She is tilting her head back as she kisses the man. |
+| What | What is the mood of the image? | The mood of the image is romantic and intimate. |
+| How | How is the couple positioned in the image? | The couple is standing close to each other, with the woman's head tilted back as they kiss. |
+| How | How does the nighttime setting contribute to the mood of the image? | The nighttime setting adds to the romantic atmosphere, as it is often associated with intimacy and privacy. It also draws attention to the couple, making their actions appear more intense and passionate. |

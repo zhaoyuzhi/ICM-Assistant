@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a lace back? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Are earrings visible in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the lace add a touch of sophistication to the dress? | Yes. |
+| How | How much of the person's back is exposed in the image? | A large area. |
+| How | How does the person's pose and the way they are facing away from the camera contribute to the overall mood of the image? | It creates a sense of mystery and intrigue. |
+| What | What is the main element that makes the image sexy? | The large area of the person's back exposed. |
+| What | What type of earrings is the person wearing? | Not specified in the description. |

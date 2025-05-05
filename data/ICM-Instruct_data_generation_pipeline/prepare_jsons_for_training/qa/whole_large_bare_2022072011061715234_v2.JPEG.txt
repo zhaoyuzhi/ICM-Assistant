@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini designed with a triangle top? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman lying on her back? | No. |
+| Yes/No | Is the image taken indoors? | No. |
+| Yes/No | Does the image evoke feelings of relaxation? | Yes. |
+| What | What color is the bikini? | Pink. |
+| What | What is the woman resting her head on? | Her hand. |
+| How | How is the woman lying on the beach? | She is lying on her stomach. |
+| How | How does the image capture a moment of relaxation and enjoyment? | The woman is lying on a sandy beach, often associated with relaxation and leisure, and she is wearing a bikini, which adds to the overall allure of the image. |

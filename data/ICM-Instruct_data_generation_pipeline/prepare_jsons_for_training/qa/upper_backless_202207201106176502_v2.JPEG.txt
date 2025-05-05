@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a bouquet of red roses? | Yes. |
+| Yes/No | Is the woman wearing a white dress with a black belt? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the woman looking out the window? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman looking at outside the window? | The sky or something above her gaze. |
+| What | What color are the roses the woman is holding? | Red. |
+| How | How is the woman's pose in the image? | Standing with her feet shoulderwidth apart, looking upwards. |
+| How | How would you describe the woman's appearance in the image? | Sexy/alluring due to the combination of her attire and the large windows in the background. |

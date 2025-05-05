@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a pair of sneakers? | Yes. |
+| Yes/No | Are the sneakers colored in shades of pink and purple? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the color of the floor in the image? | Gray. |
+| What | What is the pattern on the wall behind the person in the image? | Black and white checkered. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the person's pose and attire contribute to the overall allure of the image? | The person's pose and attire, specifically their crossed legs and colorful sneakers, contribute to the image's allure and sense of confidence and intrigue. |

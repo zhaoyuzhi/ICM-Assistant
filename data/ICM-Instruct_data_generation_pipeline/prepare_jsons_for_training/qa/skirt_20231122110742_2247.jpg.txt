@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray dress? | Yes. |
+| Yes/No | Is the dress patterned? | Yes. |
+| Yes/No | Is the woman lifting the dress up? | Yes. |
+| Yes/No | Are her thighs visible? | Yes. |
+| Yes/No | Is she wearing a necklace? | Yes. |
+| Yes/No | Are there bracelets in the image? | Yes. |
+| What | What is the color of the dress? | Gray. |
+| What | What kind of jewelry is the woman wearing? | A necklace and bracelets. |
+| How | How is the image angled? | Low angle. |
+| What | What does the low angle of the shot emphasize? | The woman's actions and the dress. |

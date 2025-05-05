@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image holding a tape measure? | Yes. |
+| Yes/No | Is the woman in the image measuring her waist? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman in the image confident and determined? | Yes. |
+| What | What is the woman in the image measuring her waist with? | A tape measure. |
+| What | What color are the woman's sports bra and jeans? | Black and blue. |
+| How | How is the woman in the image displaying confidence and determination? | Through her posture and focus on her body and fitness. |
+| How | How does the image convey a sense of strength, determination, and confidence in the woman's fitness journey? | Through the woman's exposed belly, the act of measuring her waist, and the athletic and sporty atmosphere created by the black sports bra and blue jeans. |
+| Yes/No | Is the woman in the image wearing a black sports bra? | Yes. |
+| Yes/No | Is the woman in the image holding a tape measure? | Yes. |
+| Yes/No | Is the tape measure black and white? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and determination? | Yes. |
+| What | What is the woman using the tape measure to measure? | Her waist. |
+| What | What is the color of the woman's sports bra? | Black. |
+| How | How is the woman holding the tape measure? | She is holding it in her right hand. |
+| What | What does the image suggest about the woman's posture? | It suggests that she is in the process of taking her measurements. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Is the woman looking down at the newspaper? | Yes. |
+| Yes/No | Is the woman's shirt red? | Yes. |
+| Yes/No | Are there three buttons on the front of the skirt? | Yes. |
+| Yes/No | Is the woman's top white? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the woman holding in the image? | A newspaper. |
+| What | What color is the woman's shirt? | Red. |
+| How | How does the woman's pose suggest a sense of curiosity and engagement with the content? | She is looking down at the newspaper, suggesting she is reading or interested in the content. |
+| How | How does the denim skirt add a touch of casual elegance to the woman's outfit? | The denim skirt is a classic and timeless piece of clothing that adds a touch of sophistication to the woman's overall look. |

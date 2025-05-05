@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black sweatshirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Does the person have black and white sneakers? | Yes. |
+| Yes/No | Is the background of the image a gray wall? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and relaxed? | Yes. |
+| What | What is the person sitting on in the image? | A bench. |
+| What | What is the color of the person's sneakers? | Black and white. |
+| How | How is the person sitting in the image? | In a neutral and nonsexual pose. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It emphasizes that the image is not intended to be sexy or provocative. |

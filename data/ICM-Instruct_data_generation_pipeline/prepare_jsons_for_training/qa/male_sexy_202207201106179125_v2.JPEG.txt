@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | Yes. |
+| Yes/No | Is the man in the image topless? | Yes. |
+| Yes/No | Are the man's hands on his chest? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image create a sexy and enticing atmosphere? | Yes. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| What | What is the man wearing? | A white shirt that is unbuttoned. |
+| What | What is the color of the background? | White. |
+| How | How is the man posing in the image? | With his hands on his chest, showcasing his muscular physique. |
+| How | How does the white shirt contrast with the man's skin tone? | It adds a contrast that further emphasizes his muscularity. |

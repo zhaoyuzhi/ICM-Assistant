@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shoes? | Yes. |
+| Yes/No | Is the couch white? | Yes. |
+| Yes/No | Does the couch have a floral pattern? | Yes. |
+| Yes/No | Is the person wearing a black skirt? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| What | What is the person in the image wearing on their feet? | Black shoes. |
+| What | What is the color of the couch? | White. |
+| How | How is the person standing in relation to the couch? | In front of the couch. |
+| How | How does the person's pose add to the image? | Confidence and allure. |

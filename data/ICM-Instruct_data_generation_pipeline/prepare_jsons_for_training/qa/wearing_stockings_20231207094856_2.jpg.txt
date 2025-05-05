@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink skirt? | Yes. |
+| Yes/No | Are the stockings the person is putting on black? | Yes. |
+| Yes/No | Is the bedspread white? | Yes. |
+| Yes/No | Are the person's bare feet visible? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the contrast between the pink skirt, black stockings, and white bedspread add to the sexy feel of the image? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the skirt the person is wearing? | Pink. |
+| How | How is the person standing on the bed? | The person is standing on the bedspread. |
+| How | How does the image evoke a sense of sensuality? | The image evokes a sense of sensuality through the combination of the pink skirt, black stockings, and white bedspread, which creates a visually striking image that captures a vulnerable and intimate moment. |
+| Yes/No | Is the person in the image wearing a pink skirt? | Yes. |
+| Yes/No | Are the stockings being worn by the person in the image black? | Yes. |
+| Yes/No | Is the bedspread in the image white? | Yes. |
+| Yes/No | Are the person's bare feet visible in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image evoke a sense of vulnerability? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the skirt being worn by the person in the image? | Pink. |
+| How | How are the stockings being worn by the person in the image? | Pulled up to their knees. |
+| How | How does the image capture a vulnerable and intimate moment? | The person is in the process of putting on their stockings, creating a sense of vulnerability and intimacy. |

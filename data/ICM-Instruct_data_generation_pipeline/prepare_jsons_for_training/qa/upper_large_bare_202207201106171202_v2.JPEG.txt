@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink bikini? | Yes. |
+| Yes/No | Is the woman standing in front of a pool? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the bikini top low-cut? | Yes. |
+| Yes/No | Is the bikini bottom high-waisted? | Yes. |
+| Yes/No | Does the image create a sense of confidence and allure? | Yes. |
+| What | What is the color of the woman's bikini? | Pink. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips. |
+| How | How does the woman's upper body contribute to the overall allure of the image? | The woman's exposed cleavage and stomach create a sense of allure. |
+| How | How does the image create a sense of confidence and allure? | The woman's confident pose, the lowcut bikini top, and the highwaisted bikini bottom combine to create a sense of allure and confidence. |

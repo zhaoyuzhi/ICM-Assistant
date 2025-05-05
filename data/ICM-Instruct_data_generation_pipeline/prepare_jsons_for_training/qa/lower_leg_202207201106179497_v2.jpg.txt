@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image walking towards the camera? | Yes. |
+| Yes/No | Is the person wearing a pair of gray sweatpants? | Yes. |
+| Yes/No | Is the person wearing a white t-shirt? | Yes. |
+| Yes/No | Are they wearing sandals? | Yes. |
+| Yes/No | Is the person's legs slightly bent? | Yes. |
+| Yes/No | Is the person looking down at the ground? | Yes. |
+| What | What color are the sweatpants? | Gray. |
+| What | What is the person looking at? | The ground. |
+| How | How are the person's legs bent? | Slightly. |
+| How | How does the image make you feel? | Relaxed and confident. |

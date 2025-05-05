@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Is the woman in the image wearing sweatpants? | Yes. |
+| Yes/No | Does the woman in the image have long hair? | Yes. |
+| Yes/No | Is the woman in the image leaning on a railing? | Yes. |
+| Yes/No | Does the woman in the image have her right hand on her hip? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| What | What color is the crop top the woman is wearing? | Pink. |
+| What | What color are the sweatpants the woman is wearing? | White. |
+| How | How is the woman's left hand positioned in the image? | The woman's left hand is placed on the railing. |
+| How | How does the woman's pose in the image contribute to the overall atmosphere? | The woman's pose, leaning on the railing with her hip in the air, suggests a sense of relaxation and selfassuredness, which contributes to the seductive and alluring atmosphere of the image. |

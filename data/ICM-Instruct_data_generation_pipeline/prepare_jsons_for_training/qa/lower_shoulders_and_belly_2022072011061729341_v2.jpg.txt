@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a blue sports bra? | Yes. |
+| Yes/No | Does the person in the image have their belly exposed? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Does the image create a sense of allure and strength? | Yes. |
+| What | What color are the person's leggings and sports bra? | Blue. |
+| What | What type of shoes is the person wearing? | White sneakers. |
+| How | How does the person's pose suggest confidence and strength? | The person is standing with their hands on their hips, facing the camera, and their body language conveys confidence and strength. |
+| How | How does the image create a sense of allure and strength? | The person's exposed belly and confident pose create a sense of allure, while the blue leggings and sports bra add a touch of athleticism and fitness, and the white sneakers provide a contrast to the blue, which contributes to the overall bold and confident atmosphere of the image. |

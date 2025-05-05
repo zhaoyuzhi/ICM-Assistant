@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a t-shirt? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the beach setting in the image serene? | Yes. |
+| Yes/No | Are there any palm trees in the image? | Yes. |
+| Yes/No | Is the image appropriate? | Yes. |
+| What | What is the man in the image wearing on his feet? | The man in the image is not wearing any shoes, he is barefoot. |
+| What | What is the color of the man's shorts? | The man's shorts are black and white. |
+| How | How many items of clothing is the man in the image wearing? | The man in the image is wearing three items of clothing: a pair of shorts, a tshirt, and a pair of bare feet. |
+| How | How would you describe the atmosphere in the image? | The atmosphere in the image is calm and relaxed. |
+| Yes/No | Is the man in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Is the man facing the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the beach in the background sandy? | Yes. |
+| Yes/No | Is the sky above the beach blue? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| What | What is the man wearing on his upper body? | A white tshirt. |
+| What | What is the pattern on the man's shorts? | A tropical print of palm trees and flowers. |
+| How | How is the man positioned in the image? | He is standing with his feet shoulderwidth apart, facing the camera. |
+| How | How would you describe the overall atmosphere of the image? | Relaxed and casual, with a beachy vibe. |

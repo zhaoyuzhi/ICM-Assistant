@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's shorts wet? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Is the water green? | Yes. |
+| Yes/No | Is there a tree trunk visible in the background? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the person's attire? | White shirt and shorts. |
+| What | What is the color of the water? | Green. |
+| How | How is the person standing in the water? | The person is standing in a natural and relaxed way, with their weight shifted onto one leg and the other leg slightly bent. |
+| How | How does the image evoke feelings of relaxation and enjoyment? | The image evokes feelings of relaxation and enjoyment by depicting a serene and natural environment, with the person enjoying the water and the surrounding greenery, creating a sense of tranquility and peacefulness. |

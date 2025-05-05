@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the background of the image natural? | Yes. |
+| Yes/No | Does the woman have a scarf on her head? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the woman sitting on a wooden bench? | Yes. |
+| What | What is the woman in the image looking at? | The camera. |
+| What | What is the woman in the image sitting on? | A wooden bench. |
+| How | How is the woman's attire contributing to the atmosphere of the image? | Her bikini top and scarf create a sense of allure and seduction. |
+| How | How does the natural setting add to the overall aesthetic of the image? | The trees and wooden structure create a serene and natural atmosphere that complements the woman's confidence and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the swimsuit black? | Yes. |
+| Yes/No | Does the swimsuit have a cutout in the back? | Yes. |
+| Yes/No | Are the straps of the swimsuit thin? | Yes. |
+| Yes/No | Is the person's hair styled in loose waves? | Yes. |
+| Yes/No | Is the person looking over their shoulder towards the ocean? | Yes. |
+| What | What is the color of the swimsuit? | Black. |
+| What | What is the style of the person's hair? | Loose waves. |
+| How | How are the straps of the swimsuit designed? | Thin. |
+| How | How is the person posing in the image? | With their hair styled in loose waves and looking over their shoulder towards the ocean. |

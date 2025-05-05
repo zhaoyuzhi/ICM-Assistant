@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a watch? | Yes. |
+| Yes/No | Is the woman wearing a dress? | Yes. |
+| Yes/No | Are they standing on a grassy field? | Yes. |
+| Yes/No | Is there a building visible in the background? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Do the man and woman appear to have a strong connection? | Yes. |
+| What | What is the man wearing on his left wrist? | A watch. |
+| What | What is the woman wearing that adds to the romantic atmosphere? | A white dress adorned with a floral pattern. |
+| How | How are the man and woman positioned in the image? | They are standing on a grassy field, locked in an embrace. |
+| How | How does the setting in the park contribute to the overall mood of the image? | It adds to the romantic atmosphere, as it is a natural and serene environment that is often associated with love and affection. |

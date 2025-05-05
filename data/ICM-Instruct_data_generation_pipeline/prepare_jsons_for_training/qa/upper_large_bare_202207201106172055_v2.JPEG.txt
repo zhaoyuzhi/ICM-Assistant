@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | Yes. |
+| Yes/No | Are the woman's ears covered with cat ears? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What is the woman wearing on her upper body? | A bikini top. |
+| What | What is the pattern on the woman's bikini bottom? | Tiger print. |
+| How | How is the woman's hair styled? | In a long ponytail. |
+| How | How does the beach setting and ocean in the background contribute to the image's atmosphere? | They create a relaxed and carefree atmosphere that enhances the sexy vibe of the image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a shorts suit? | Yes. |
+| Yes/No | Does the shorts suit have a gold belt and buckle? | Yes. |
+| Yes/No | Are there two pockets on the front of the shorts? | Yes. |
+| Yes/No | Is the woman's pose in the image neutral? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the overall atmosphere of the image neutral and professional? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her hands resting on her hips. |
+| What | What is the focus of the image? | The focus of the image is on the woman and her outfit. |
+| How | How many pockets are on the front of the shorts? | There are two pockets on the front of the shorts. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is neutral and professional. |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a gold buckle on her waistband? | Yes. |
+| Yes/No | Is the image focused on the woman's shorts? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the woman in the image posing in a casual and relaxed manner? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the main focus of the image? | The woman's shorts. |
+| What | What is the atmosphere of the image? | Calm and nonthreatening. |
+| How | How is the woman posing in the image? | Casually and relaxed. |
+| How | How does the low exposure level of the image contribute to the overall atmosphere? | It emphasizes the focus on the woman's shorts and creates a nonsexual atmosphere. |

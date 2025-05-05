@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman wearing a bikini? | Yes. |
+| Yes/No | Is the woman's hand on her head? | Yes. |
+| Yes/No | Is the woman holding a hat? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the beach setting visible? | Yes. |
+| What | What is the woman wearing on her head? | A white hat. |
+| What | What is the color of the bikini? | Blue and white stripes. |
+| How | How is the woman standing? | With her hand on her head and the hat in her hand. |
+| How | How does the image make you feel? | It creates a seductive and alluring atmosphere. |

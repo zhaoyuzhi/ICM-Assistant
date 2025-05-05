@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a short skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's socks black? | Yes. |
+| Yes/No | Are the person's shoes black? | Yes. |
+| Yes/No | Is the person walking on a sidewalk? | Yes. |
+| Yes/No | Are there buildings in the background of the image? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What color are the person's socks? | Black. |
+| How | How is the person walking? | The person is walking down a street. |
+| What | What creates a sense of allure and intrigue in the image? | The combination of the person wearing a short skirt and black socks, walking down a street, and the buildings in the background create a sense of allure and intrigue. |

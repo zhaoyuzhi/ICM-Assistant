@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a black dress? | Yes. |
+| Yes/No | Is the woman holding a white purse? | Yes. |
+| Yes/No | Is the background of the image a tree and a building? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image focus on the woman's body or reveal any intimate details? | No. |
+| Yes/No | Is the woman sitting in a relaxed position? | Yes. |
+| What | What is the woman's attire in the image? | A black dress and a beige coat. |
+| What | What is the overall atmosphere of the image? | Calm and composed. |
+| How | How is the woman sitting in the image? | In a relaxed position. |
+| How | How does the low exposure level contribute to the image's nature? | It contributes to the image's innocent and nonsexual nature. |

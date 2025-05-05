@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing black underwear? | Yes. |
+| Yes/No | Is the woman in the image sitting on a couch? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| Yes/No | Is the woman's shirt unbuttoned in the image? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color is the woman's bra in the image? | Black. |
+| What | What is the woman's pose in the image? | Sitting with legs crossed. |
+| How | How does the woman's pose add to the allure of the image? | The crossed legs and unbuttoned shirt create a suggestive and confident atmosphere. |
+| How | How does the contrast between the black bra and white shirt contribute to the image's visual appeal? | The contrast creates a striking visual that draws the viewer's attention to the woman's attire and pose. |

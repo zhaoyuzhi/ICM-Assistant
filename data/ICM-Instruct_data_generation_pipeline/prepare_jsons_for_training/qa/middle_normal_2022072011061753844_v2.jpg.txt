@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's pants khaki? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the man looking downwards? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| What | What is the color of the man's belt? | Brown. |
+| What | What is the man's attire and posture in the image? | Neutral, casual. |
+| How | How are the man's hands positioned in the image? | Tucked into his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Everyday, relaxed, neutral. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man looking downwards in the image? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire and posture relaxed and informal? | Yes. |
+| Yes/No | Does the low exposure level of the image emphasize the non-sexual nature of the image? | Yes. |
+| What | What is the man wearing in the image? | A white shirt and khaki pants. |
+| What | What is the man's posture in the image? | His hands are casually tucked into his pockets, and he is looking downwards. |
+| How | How does the man's attire and posture suggest a relaxed and informal setting? | The man's attire and posture are neutral and do not evoke any sexual connotations, and the low exposure level further emphasizes the nonsexual nature of the image. |
+| How | How does the low exposure level of the image emphasize the non-sexual nature of the image? | The low exposure level prevents any provocative elements from being highlighted, focusing instead on the man's casual attire and posture. |

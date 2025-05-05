@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing ripped jean shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a red sweater? | Yes. |
+| Yes/No | Does the sweater have a graphic of a person's face on it? | Yes. |
+| Yes/No | Is the person's hand resting on her hip? | Yes. |
+| Yes/No | Are the shorts black in color? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color are the shorts? | Black. |
+| What | What is the graphic on the sweater? | A person's face. |
+| How | How is the person's hand positioned in the image? | Resting on her hip. |
+| How | How do the ripped jean shorts and red sweater contribute to the overall allure of the image? | They accentuate the person's body and create a sexy atmosphere. |

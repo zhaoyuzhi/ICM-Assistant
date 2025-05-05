@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a belt? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's pose in the image neutral? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image feature a white background? | Yes. |
+| What | What color is the woman's skirt? | Beige. |
+| What | What color is the woman's belt? | Brown. |
+| How | How does the woman's outfit expose her thighs? | The short skirt falls just above her knees, exposing her thighs. |
+| How | How does the simplicity of the white background emphasize the subject? | The white background creates a clean and minimalist look, drawing attention to the woman and her attire. |

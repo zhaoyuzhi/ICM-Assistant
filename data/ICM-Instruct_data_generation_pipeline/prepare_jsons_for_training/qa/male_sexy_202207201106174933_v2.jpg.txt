@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing? | Yes. |
+| Yes/No | Is the background of the image a white wall and a window? | Yes. |
+| Yes/No | Does the man's pose suggest confidence and self-assurance? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| Yes/No | Are the man's clothes casual? | Yes. |
+| What | What is the man wearing on his feet? | White sneakers. |
+| What | What is the color of the man's sweatpants? | Gray. |
+| How | How does the man's pose contribute to the overall atmosphere of the image? | It suggests confidence and selfassurance. |
+| How | How does the background of the image contrast with the man's presence? | The white wall and window provide a stark contrast, further emphasizing the man's presence in the image. |

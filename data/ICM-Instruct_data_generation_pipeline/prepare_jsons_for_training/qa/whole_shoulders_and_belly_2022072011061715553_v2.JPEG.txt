@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress reach her knees? | Yes. |
+| Yes/No | Is she standing in a hallway? | Yes. |
+| Yes/No | Is there a mirror on the wall behind her? | Yes. |
+| Yes/No | Is her hair styled in loose waves? | Yes. |
+| Yes/No | Is she wearing long, pointed earrings? | Yes. |
+| What | What is the woman looking at? | Her phone. |
+| What | What is the woman's left hand placed on? | Her hip. |
+| How | How is the woman's pose in the image? | With her hand on her hip and her gaze directed downwards. |
+| How | How does the mirror in the background contribute to the atmosphere of the image? | It adds depth to the scene, creating a sense of space and intimacy. |

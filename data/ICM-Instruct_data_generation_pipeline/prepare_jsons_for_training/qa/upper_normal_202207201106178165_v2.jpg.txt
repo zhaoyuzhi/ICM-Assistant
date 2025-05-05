@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black hoodie? | Yes. |
+| Yes/No | Does the box of hair products have a green label? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the image sexually suggestive or explicit? | No. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the image focused on the woman and the box of hair products? | Yes. |
+| What | What is the woman holding in the image? | A box of hair products. |
+| What | What is the color of the box of hair products? | White. |
+| How | How is the woman's hair styled in the image? | Long and dark. |
+| How | How would you describe the overall atmosphere of the image? | Simple and straightforward. |

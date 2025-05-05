@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the girl reading a book in the image? | Yes. |
+| Yes/No | Does the girl have a bun hairstyle in the image? | Yes. |
+| Yes/No | Is the girl wearing earrings in the image? | Yes. |
+| Yes/No | Is the girl wearing a pearl necklace in the image? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the girl reading in the image? | A book. |
+| What | What color are the flowers on the girl's dress? | Blue and pink. |
+| How | How is the girl's hair styled in the image? | In a bun. |
+| How | How would you describe the overall atmosphere of the image? | Innocent and simple. |

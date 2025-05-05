@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pink pants? | Yes. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person holding a stocking in their left hand? | Yes. |
+| Yes/No | Is the person's right hand on their knee? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black stockings. |
+| What | What is the person in the image holding in their left hand? | A stocking. |
+| How | How is the person in the image putting on the stocking? | They are holding the stocking with their left hand and have their right hand on their knee. |
+| What | What atmosphere does the image convey? | A seductive atmosphere. |
+| Yes/No | Is the person in the image wearing pink pants? | Yes. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are the stockings being put on by the person black? | Yes. |
+| Yes/No | Is the person's left hand holding the stocking? | Yes. |
+| Yes/No | Is the person's right hand resting on their knee? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's pants? | Pink. |
+| What | What is the person holding in their left hand? | A black stocking. |
+| How | How is the person putting on the stocking? | The person is holding the stocking with their left hand while their right hand is on their knee. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is seductive and intimate. |

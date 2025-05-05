@@ -1,0 +1,13 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black lace underwear? | Yes. |
+| Yes/No | Is the person's lower body exposed in all four photos? | Yes. |
+| Yes/No | Is the person's attire consistent throughout the four photos? | Yes. |
+| Yes/No | Does the image depict the person in different locations? | No. |
+| How | Does the image show the person's full body? | No. |
+| Yes/No | Is the overall atmosphere of the picture playful? | No. |
+| What | What is the person wearing in the image? | Black bra and black lace underwear. |
+| Yes/No | --- | ---. |
+| What | What is the color palette of the objects in the image? | Pink, white. |
+| Yes/No | --- | ---. |
+| How | How is the person's pose in the first photo? | Sitting. |

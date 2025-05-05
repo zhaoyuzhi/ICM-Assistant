@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's shorts midriff-baring? | Yes. |
+| Yes/No | Does the woman have a confident stride? | Yes. |
+| Yes/No | Is the background of the image an urban setting? | Yes. |
+| Yes/No | Does the woman have a green smoothie in her hand? | Yes. |
+| Yes/No | Is the woman's hairstyle loose waves? | Yes. |
+| What | What is the woman holding in her hand? | A green smoothie. |
+| What | What is the style of the woman's hairstyle? | Loose waves. |
+| How | How does the woman's outfit contribute to the sexy atmosphere of the image? | The woman's midriffbaring strapless top and denim shorts reveal her toned physique and create a sexy atmosphere. |
+| How | How does the woman's hairstyle contribute to her alluring appearance? | The loose waves hairstyle adds a carefree and effortless touch to the woman's overall look, making her appear more alluring. |

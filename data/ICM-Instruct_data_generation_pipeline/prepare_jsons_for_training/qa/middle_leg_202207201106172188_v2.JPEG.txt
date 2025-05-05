@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the woman wearing a black shirt? | Yes. |
+| Yes/No | Does the shirt have the word "Gemini" written on it? | Yes. |
+| Yes/No | Is the woman wearing a blue denim skirt? | Yes. |
+| Yes/No | Does the skirt have a high waist? | Yes. |
+| Yes/No | Does the skirt have a full skirt? | Yes. |
+| What | What color is the purse the woman is holding? | Beige. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the woman's pose in the image? | She is standing with her hand on her hip. |
+| How | How would you describe the atmosphere in the image? | Sexy. |

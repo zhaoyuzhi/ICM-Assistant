@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray leggings? | Yes. |
+| Yes/No | Does the person have a white Nike logo on their left leg? | Yes. |
+| Yes/No | Are the person's hands resting on their hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the black gloves adding a touch of contrast to the gray leggings? | Yes. |
+| Yes/No | Is the mirror reflecting the person's image? | Yes. |
+| What | What is the color of the leggings? | Gray. |
+| What | What is the color of the gloves? | Black. |
+| How | How is the person standing in the image? | Confidently, with their hands resting on their hips. |
+| How | How does the mirror's reflection add to the overall aesthetic of the image? | It creates a sense of depth and perspective, and captures the person's pose and the surrounding environment. |

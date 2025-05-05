@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Is the woman wearing a pink sweater? | Yes. |
+| Yes/No | Does the woman have her head tilted back? | Yes. |
+| Yes/No | Does the image have a romantic atmosphere? | Yes. |
+| What | What is the color of the woman's sweater? | Pink. |
+| What | What is the man's hand position on the woman's shoulders? | On her shoulders. |
+| How | How is the woman looking at the man? | Looking up at him. |
+| How | How is the man's hand position on the woman's shoulders suggesting his attitude towards her? | Suggesting a sense of control and possession. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Are the person's feet positioned on a table? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with sensuality and allure? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the person's shirt in the image? | White. |
+| How | How are the person's legs positioned in the image? | Bent. |
+| How | How does the image's content and atmosphere work together to create a visual experience? | They create a sexy and alluring visual experience. |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Are the person's feet positioned on a table? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image capture a private, intimate moment? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the person's shirt? | White. |
+| How | How are the person's legs positioned in the image? | Bent. |
+| How | How does the image evoke feelings of vulnerability and mystery? | Through the person's actions and attire, creating an intimate and sensual atmosphere. |

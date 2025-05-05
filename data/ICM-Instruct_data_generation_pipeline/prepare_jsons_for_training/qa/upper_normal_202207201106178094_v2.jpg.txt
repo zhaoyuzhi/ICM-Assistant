@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Does the woman have a plate of food in front of her? | Yes. |
+| Yes/No | Is the food on the plate a piece of meat and a piece of bread? | Yes. |
+| Yes/No | Is the woman's attire in the image suggestive or revealing? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's movement discernible from the image? | No. |
+| What | What is the woman holding in her hand? | A plate of food. |
+| What | What is the main focus of the image? | The woman's attire and the food on the plate. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| How | How would you describe the woman's movements in the image? | Not discernible. |

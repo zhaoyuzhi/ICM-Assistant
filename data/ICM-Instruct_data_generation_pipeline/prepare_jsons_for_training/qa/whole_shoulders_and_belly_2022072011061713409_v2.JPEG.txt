@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a shimmering gold sequin top? | Yes. |
+| Yes/No | Does the top have a plunging neckline? | Yes. |
+| Yes/No | Does the top have a cutout in the center? | Yes. |
+| Yes/No | Are the blue jeans cropped at the ankle? | Yes. |
+| Yes/No | Is the woman's gaze directed straight at the camera? | Yes. |
+| What | What is the color of the woman's top? | Gold. |
+| What | What is the color of the woman's jeans? | Blue. |
+| How | How is the woman's left hand positioned in the image? | Resting on her hip. |
+| How | How is the woman's right hand positioned in the image? | Resting on her thigh. |

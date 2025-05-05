@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top white with a floral pattern? | Yes. |
+| Yes/No | Is the bikini bottom white with a leaf pattern? | Yes. |
+| Yes/No | Is the woman standing in a parking lot? | Yes. |
+| Yes/No | Is there a building visible in the background? | Yes. |
+| Yes/No | Is the woman looking down and to the left? | Yes. |
+| What | What is the woman wearing? | A white bikini top and bottom. |
+| What | What is the atmosphere of the image? | Urban and casual, with a sexy appeal. |
+| How | How is the woman posing in the image? | She is standing with a confident and alluring pose. |
+| How | How does the image make you feel? | It's intended to make the viewer feel attracted and intrigued. |

@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink blouse? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the image revealing any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman sitting in? | The passenger seat of a car. |
+| What | What is the woman wearing? | A pink blouse. |
+| How | How is the woman's hair styled? | Long and dark. |
+| What | What is the exposure level of the image? | Very low. |
+| Yes/No | Is the image appropriate for most viewers? | Yes. |
+| How | Does the image show nudity? | No. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image suggest a sense of motion? | Yes. |
+| Yes/No | Is the woman's attire elegant? | Yes. |
+| What | What color is the woman's blouse? | Pink. |
+| What | What is the woman's hair style? | Loose waves. |
+| How | How does the woman's expression contribute to the dynamic of the image? | It suggests something unexpected or surprising has just occurred. |
+| How | How does the blurred background affect the focus of the image? | It draws focus to the woman and adds a sense of motion to the scene. |

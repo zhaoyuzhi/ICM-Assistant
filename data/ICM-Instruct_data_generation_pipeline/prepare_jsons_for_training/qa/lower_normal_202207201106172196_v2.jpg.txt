@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in black? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is she wearing black heels? | Yes. |
+| Yes/No | Is she carrying a purse? | Yes. |
+| Yes/No | Is the purse green? | Yes. |
+| What | What is the woman's pose in the image? | Neutral. |
+| What | What is the woman's gaze directed at? | Straight at the camera. |
+| How | How is the woman's attire in the image? | Modest. |
+| What | What atmosphere does the image convey? | Calm and composed. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of olive green trousers? | Yes. |
+| Yes/No | Is the person's top black? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual context? | No. |
+| Yes/No | Are the person's clothes revealing or suggestive? | No. |
+| What | What color are the person's trousers? | Olive green. |
+| What | What is the person's pose in the image? | Confident stance with hands on hips. |
+| How | How is the person's tie tied? | In a bow. |
+| What | What is the overall atmosphere of the image? | Neutral and professional. |
+| Yes/No | Is the person in the image wearing a pair of olive green trousers? | Yes. |
+| Yes/No | Is the person's top black? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Does the person's pose and attire evoke any sexual connotations? | No. |
+| What | What color are the person's trousers? | Olive green. |
+| What | What is the person's top color? | Black. |
+| How | How is the person's waist tied? | With a tie. |
+| What | What is the focus of the image? | The person's clothing and pose. |

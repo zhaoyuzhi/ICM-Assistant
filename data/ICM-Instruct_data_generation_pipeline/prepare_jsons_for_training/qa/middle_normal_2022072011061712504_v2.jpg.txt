@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the woman wearing a light green skirt? | Yes. |
+| Yes/No | Does the woman have a relaxed pose? | Yes. |
+| Yes/No | Are her hands resting on her hips? | Yes. |
+| Yes/No | Is the background plain and white? | Yes. |
+| What | What is the woman's attire? | A white blouse and a light green skirt. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| How | How is the woman's pose? | Relaxed. |
+| How | How does the plain background affect the focus of the image? | It puts the focus entirely on the woman and her clothing, rather than any potential for sensuality or allure. |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the person in the image wearing a light green skirt? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the person looking off to the side? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the person's attire suggest any form of undress or sexuality? | No. |
+| What | What is the person wearing? | A white blouse and a light green skirt. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| How | How are the person's hands positioned in the image? | Placed on their hips. |
+| How | How would you describe the person's attire in the image? | Modest and loosefitting. |

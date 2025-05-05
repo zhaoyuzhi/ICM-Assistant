@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman sitting on a table? | Yes. |
+| Yes/No | Is the woman's hand on her face? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the white color of the top a common choice for a sexy outfit? | Yes. |
+| Yes/No | Does the woman's pose add a sense of confidence and allure to the image? | Yes. |
+| What | What is the woman wearing in the image? | A strapless white top. |
+| What | What is the woman's pose in the image? | She is sitting on a table with her hand on her face. |
+| How | How does the woman's attire contribute to the sexy atmosphere of the image? | The strapless top and white color create a sexy and alluring look. |
+| How | How does the woman's pose contribute to the sexy atmosphere of the image? | The confident and relaxed pose adds a sense of allure and seduction. |

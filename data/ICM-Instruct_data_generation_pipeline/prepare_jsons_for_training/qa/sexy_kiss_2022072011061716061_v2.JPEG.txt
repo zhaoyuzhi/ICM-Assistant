@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man and woman in the image kissing? | Yes. |
+| Yes/No | Are they wearing matching outfits? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Are they standing in a public place? | No. |
+| Yes/No | Is the woman wearing a red dress? | No. |
+| Yes/No | Is the man wearing a suit? | No. |
+| What | What is the woman wearing? | A black dress. |
+| What | What is the man wearing? | A white shirt. |
+| How | How are the man and woman positioned in the image? | They are locked in a passionate embrace, with their lips together. |
+| How | How does the image capture the moment? | It captures a moment of intense emotion and physical connection between the man and woman, suggesting a strong emotional connection between them. |

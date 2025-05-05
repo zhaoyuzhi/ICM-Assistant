@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of olive green cargo shorts? | Yes. |
+| Yes/No | Does the man have any tattoos or piercings visible in the image? | No. |
+| Yes/No | Is the man's t-shirt white? | Yes. |
+| Yes/No | Are the man's arms crossed or relaxed at his sides? | Relaxed. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color are the man's cargo shorts? | Olive green. |
+| What | What type of watch is the man wearing? | Black. |
+| What | What is the man's attire in the image? | Casual (tshirt and cargo shorts). |
+| Yes/No | Is the man in the image wearing a pair of olive green cargo shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose in the image sexually suggestive? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the image set in a formal or informal setting? | Informal. |
+| What | What color are the cargo shorts the man is wearing? | Olive green. |
+| What | What is the man's posture in the image? | Standing with his hands in his pockets. |
+| How | How many pockets are on the front of the man's cargo shorts? | Two. |
+| How | How is the man's t-shirt styled? | It has a zipper fly. |

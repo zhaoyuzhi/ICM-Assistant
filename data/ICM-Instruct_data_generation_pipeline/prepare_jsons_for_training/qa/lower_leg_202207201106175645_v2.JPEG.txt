@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a school uniform? | Yes. |
+| Yes/No | Is the person facing the camera? | No. |
+| Yes/No | Are the person's arms straight or bent? | Bent. |
+| Yes/No | Does the person have a backpack? | Yes. |
+| Yes/No | Are the person's legs together or apart? | Apart. |
+| Yes/No | Is the person smiling? | No. |
+| What | What color is the person's backpack? | Blue. |
+| What | What type of shoes is the person wearing? | Black. |
+| How | How many items are the person carrying? | 2 (backpack and blue bag). |
+| What | What is the atmosphere of the image? | Casual and candid, with a focus on the person's attire and posture. |

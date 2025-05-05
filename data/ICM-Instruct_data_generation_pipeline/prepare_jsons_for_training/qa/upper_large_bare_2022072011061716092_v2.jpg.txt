@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing blue underwear? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Does the woman have a shawl over her shoulder? | Yes. |
+| Yes/No | Is the floor made of wood? | Yes. |
+| Yes/No | Does the image contain text? | No. |
+| What | What color is the bikini top? | Blue. |
+| What | What is the woman holding over her shoulder? | A white shawl. |
+| How | How is the woman standing? | Standing. |
+| How | How would you describe the atmosphere of the image? | Seductive and alluring. |

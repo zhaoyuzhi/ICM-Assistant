@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the person facing the camera? | No. |
+| Yes/No | Is the image taken indoors? | No. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Is the person's upper body exposed? | No. |
+| Yes/No | Does the image have a sexual connotation? | Yes. |
+| What | What is the person's attire in the image? | Blue bikini bottom. |
+| What | What is the background setting of the image? | Sandy beach. |
+| How | How does the image evoke feelings of relaxation and enjoyment? | Through the combination of the person's attire and the beach setting, suggesting a relaxed and casual atmosphere. |
+| How | How does the image represent freedom and self-expression? | Through the person's exposed skin and the beach setting, which can be seen as a representation of freedom and selfexpression. |

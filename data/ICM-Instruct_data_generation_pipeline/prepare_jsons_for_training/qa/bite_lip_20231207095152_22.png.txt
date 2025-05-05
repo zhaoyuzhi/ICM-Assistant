@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing glasses? | Yes. |
+| Yes/No | Is the person in the image wearing lipstick? | Yes. |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Does the person in the image have a tattoo on their neck? | Yes. |
+| What | What color is the lipstick the person is wearing? | Red. |
+| What | What is the person in the image biting? | Their lip. |
+| How | How does the person's facial expression contribute to the overall allure of the image? | It adds a seductive or alluring quality. |
+| How | How does the red lipstick contribute to the overall allure of the image? | It adds a bold and vibrant touch, enhancing the person's appearance and contributing to the overall sex appeal of the image. |

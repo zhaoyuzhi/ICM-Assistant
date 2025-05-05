@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman taking off her clothes? | Yes. |
+| Yes/No | Is the woman wearing a black bra? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the atmosphere of the image sexy and alluring? | Yes. |
+| What | What is the woman holding onto with both hands? | Her dress. |
+| What | What color are the woman's bra and dress? | Black. |
+| How | How is the woman taking off her dress? | She is pulling it down with both hands. |
+| What | What is the overall mood or atmosphere of the image? | Sensual and alluring. |

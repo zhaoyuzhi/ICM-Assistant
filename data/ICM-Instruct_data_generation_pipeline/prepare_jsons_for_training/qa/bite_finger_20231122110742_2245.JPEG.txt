@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person in the image wearing earrings? | Yes. |
+| Yes/No | Is the person's facial expression clearly visible in the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the person doing with their finger in the image? | They are putting their finger in their mouth. |
+| What | What is the person's hair color in the image? | It is not mentioned in the description. |
+| How | How many earrings is the person wearing in the image? | Two. |
+| What | What is the color of the earrings the person is wearing in the image? | It is not mentioned in the description. |

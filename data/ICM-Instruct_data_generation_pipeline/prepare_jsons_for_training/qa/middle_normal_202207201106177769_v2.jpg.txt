@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's hands in their pockets? | Yes. |
+| Yes/No | Is the person wearing black shorts? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Does the person's pose evoke any sexual connotations? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the person's attire in the image? | White shirt and black shorts. |
+| What | What is the person's pose in the image? | Standing with hands in pockets. |
+| How | How does the image convey a casual and relaxed atmosphere? | Through the person's pose and attire. |
+| How | How does the image avoid being interpreted as provocative or inappropriate? | Through the lack of explicit or suggestive content and the neutral pose and attire. |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the person in the image have their hands on their hips? | Yes. |
+| Yes/No | Is the atmosphere in the image casual and relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level in the image low? | Yes. |
+| What | What color are the person's shorts? | Black. |
+| What | What is the person's attire? | A pair of black shorts and a white shirt. |
+| How | How is the person standing in the image? | With their hands on their hips. |
+| How | How would you describe the atmosphere in the image? | Casual and relaxed. |

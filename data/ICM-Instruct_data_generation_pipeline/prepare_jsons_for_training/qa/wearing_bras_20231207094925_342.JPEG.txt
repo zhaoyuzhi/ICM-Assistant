@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wear a bra? | Yes. |
+| Yes/No | Is the bra purple? | Yes. |
+| Yes/No | Is the woman's tank top white? | Yes. |
+| Yes/No | Is the bra lacy? | Yes. |
+| Yes/No | Is the woman adjusting the bra with her right hand? | Yes. |
+| Yes/No | Is the woman holding the cup of the bra with her left hand? | Yes. |
+| What | What is the woman wearing underneath the bra? | A white tank top. |
+| What | What is the color of the bra? | Purple. |
+| How | How is the woman adjusting the bra? | She is using her right hand to adjust the straps of the bra, while her left hand is holding the cup of the bra. |
+| How | How does the image create a sensual atmosphere? | The image creates a sensual atmosphere through the woman's focused expression, the closeup view of her actions, the contrast between the soft, stretchy bra and the white tank top, and the purple color of the bra. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra purple? | Yes. |
+| Yes/No | Is the woman adjusting the straps of the bra with her right hand? | Yes. |
+| Yes/No | Is the woman holding the cup of the bra with her left hand? | Yes. |
+| Yes/No | Is the woman wearing a white tank top? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a purple bra. |
+| What | What is the material of the bra? | The bra is made of a soft, stretchy material. |
+| How | How is the woman adjusting the straps of the bra? | She is using her right hand to adjust the straps. |
+| How | How is the woman holding the cup of the bra? | She is holding the cup with her left hand. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing white socks? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs and feet exposed? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What is the person's gender? | The person's gender cannot be determined based on the provided description. |
+| What | What is the person's facial expression? | The person's facial expression is not described in the provided description. |
+| How | How are the person's legs crossed? | The person's legs are crossed in a way that is not specified in the provided description. |
+| How | How does the image create a sense of intimacy and sensuality? | The image creates a sense of intimacy and sensuality through the person's exposed legs and feet, the closeup perspective, and the contrast between the white socks and shirt and the skin. |

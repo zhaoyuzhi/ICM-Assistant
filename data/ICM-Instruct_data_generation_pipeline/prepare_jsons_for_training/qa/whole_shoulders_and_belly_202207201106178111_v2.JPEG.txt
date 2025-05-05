@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white crop top? | Yes. |
+| Yes/No | Are the blue jeans casual and comfortable? | Yes. |
+| Yes/No | Is the woman striking a pose in the image? | Yes. |
+| Yes/No | Does the pose accentuate the woman's waist and hips? | Yes. |
+| Yes/No | Is the image generally considered sexy? | Yes. |
+| What | What color is the woman's crop top? | White. |
+| What | What is the color of the woman's jeans? | Blue. |
+| How | How is the woman posing in the image? | With her left hand on her hip and her right hand resting on her thigh. |
+| What | What does the woman's pose do to the overall feel of the image? | It adds a confident and alluring element to the image, making it sexy. |

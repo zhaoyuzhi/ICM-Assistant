@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are black stockings often associated with a sense of allure and mystery? | Yes. |
+| Yes/No | Is the combination of black stockings and a white shirt visually appealing? | Yes. |
+| Yes/No | Does the person's pose suggest a sense of intimacy and sensuality? | Yes. |
+| Yes/No | Is the white stuffed animal on the bed a neutral element in the image? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person in the image wearing on their upper body? | A white shirt. |
+| How | How is the person in the image applying the stockings? | Carefully. |
+| How | How does the white stuffed animal on the bed add to the overall atmosphere of the image? | It adds an element of playfulness and innocence, balancing the overall atmosphere of the image. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the black stockings the primary focus of the image? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the bed covered with a white blanket? | Yes. |
+| Yes/No | Does the image have a playful atmosphere? | Yes. |
+| What | What color are the black stockings? | Black. |
+| What | What is the white stuffed animal on the bed? | Unspecified (the description only mentions that it is white). |
+| How | How is the person applying the black stockings? | Carefully. |
+| What | What creates a contrast in the image? | The combination of the black stockings and the white shirt. |

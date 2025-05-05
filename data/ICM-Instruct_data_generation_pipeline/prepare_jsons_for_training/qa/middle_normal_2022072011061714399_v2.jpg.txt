@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a gray t-shirt? | Yes. |
+| Yes/No | Are the man's shorts frayed at the hem? | Yes. |
+| Yes/No | Is the man's pose in the image relaxed? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| What | What is the man's attire in the image? | A gray tshirt and gray shorts. |
+| What | What is the overall atmosphere of the image? | Neutral and nonsexual. |
+| How | How are the man's shorts styled? | They have a frayed hem. |
+| How | How does the image focus on the man's outfit and pose? | The image highlights the man's casual and neutral attire and pose, rather than any explicit or suggestive content. |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a t-shirt? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the image low-key? | Yes. |
+| Yes/No | Does the man's attire suggest any provocative or seductive intent? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color are the man's shorts? | Gray. |
+| What | What color is the man's t-shirt? | Green. |
+| How | How is the image's exposure level? | Lowkey. |
+| What | What can be inferred about the man's intentions based on his attire? | His attire suggests a casual and relaxed intent, rather than a provocative or seductive one. |

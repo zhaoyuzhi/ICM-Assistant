@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black leather jacket? | Yes. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are the person's gloves black? | Yes. |
+| Yes/No | Is the person's body exposed in the image? | Yes. |
+| Yes/No | Is the person standing in front of a tree? | Yes. |
+| Yes/No | Is the person standing in front of a building? | Yes. |
+| What | What color is the person's leather jacket? | Black. |
+| What | What color is the person's shirt? | Pink. |
+| How | How many articles of clothing are the person wearing that are black? | 4 (jacket, gloves, mask, pants). |
+| How | How many articles of clothing are the person wearing that are pink? | 2 (shirt, shoes). |

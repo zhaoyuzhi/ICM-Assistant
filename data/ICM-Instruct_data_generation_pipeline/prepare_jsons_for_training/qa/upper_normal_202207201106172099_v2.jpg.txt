@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the man holding a pen? | Yes. |
+| Yes/No | Is the man writing on a piece of paper? | Yes. |
+| Yes/No | Is the desk cluttered with papers? | Yes. |
+| Yes/No | Is the cup visible in the image? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the man's posture in the image? | Focused, professional. |
+| What | What is the atmosphere of the image? | Professional, formal. |
+| How | How is the man's task depicted in the image? | He is holding a pen and writing on a piece of paper. |
+| How | How would you describe the exposure level of the image? | Low, darker appearance. |

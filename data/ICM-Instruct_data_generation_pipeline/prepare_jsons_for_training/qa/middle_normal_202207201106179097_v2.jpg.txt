@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shorts and a black shirt? | Yes. |
+| Yes/No | Are the person's hands in their pockets? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| How | Does the image show the person's body or any intimate areas? | No. |
+| Yes/No | Is the atmosphere of the image calm and non-sexual? | Yes. |
+| Yes/No | Is the image considered sexy? | No. |
+| What | What is the person wearing in the image? | Black shorts and a black shirt. |
+| What | What is the person's posture in the image? | Standing with their hands in their pockets. |
+| How | How is the person dressed in the image? | Casually. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the person's overall appearance rather than their body or any intimate details. |
+| Yes/No | Is the person in the image wearing black shorts and a black shirt? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Does the image contain explicit nudity or explicit content? | No. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| Yes/No | Does the image suggest any sexual activity? | No. |
+| What | What is the person in the image wearing? | Black shorts and a black shirt. |
+| What | What is the focus of the image? | The person's posture and the overall setting. |
+| How | How is the person standing in the image? | With their hands in their pockets. |
+| How | How does the low exposure level of the image affect the atmosphere? | It creates a neutral and nonsexual atmosphere. |

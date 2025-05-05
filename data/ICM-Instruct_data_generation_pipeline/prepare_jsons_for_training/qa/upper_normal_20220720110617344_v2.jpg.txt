@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a coat? | Yes. |
+| Yes/No | Is the woman in the image singing or speaking? | Yes. |
+| Yes/No | Is the image a low-exposure shot? | Yes. |
+| Yes/No | Is the image taken in a public space? | Yes. |
+| Yes/No | Is the image intended to be provocative or sensual? | No. |
+| Yes/No | Is the focus of the image on the woman's clothing and actions rather than her appearance? | Yes. |
+| What | What is the woman wearing in the image? | A brown coat. |
+| What | What is the woman doing in the image? | Speaking or singing. |
+| How | How is the image lit? | Low exposure level. |
+| How | How does the image convey the atmosphere? | The low exposure level and setting in a public space suggest a candid shot capturing a moment in the woman's day, rather than a provocative or sensual image. |

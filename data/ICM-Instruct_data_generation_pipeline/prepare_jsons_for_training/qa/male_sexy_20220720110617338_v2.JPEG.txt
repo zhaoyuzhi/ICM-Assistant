@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man's skin tone pale? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the man in the image topless? | Yes. |
+| Yes/No | Does the image contain any bright colors? | No. |
+| What | What is the man's facial hair like? | The man has a slight beard. |
+| What | What is the man's body language? | The man's arms are resting against a wall. |
+| How | How does the image's lack of other objects or people contribute to its atmosphere? | It puts the focus solely on the man, emphasizing his physical appearance and the sexy vibe of the picture. |
+| How | How does the man's skin tone contribute to the overall atmosphere of the image? | It adds to the sexy and sensual atmosphere of the image. |

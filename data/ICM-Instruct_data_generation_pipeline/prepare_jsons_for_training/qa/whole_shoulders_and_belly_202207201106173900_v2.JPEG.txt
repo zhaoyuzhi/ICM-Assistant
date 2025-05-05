@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the central figure in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a strapless dress? | Yes. |
+| Yes/No | Does the dress feature a lace pattern? | Yes. |
+| Yes/No | Is the neckline of the dress a sweetheart neckline? | Yes. |
+| Yes/No | Is the woman standing in front of a pool? | Yes. |
+| Yes/No | Is the pool surrounded by a fence? | Yes. |
+| What | What is the woman holding in her hand? | A purse. |
+| What | What is the color of the woman's dress? | White. |
+| How | How does the lace pattern on the dress add to the overall atmosphere of the image? | It adds a touch of elegance. |
+| How | How does the sweetheart neckline add a romantic element to the woman's outfit? | It creates a sense of intimacy and closeness. |

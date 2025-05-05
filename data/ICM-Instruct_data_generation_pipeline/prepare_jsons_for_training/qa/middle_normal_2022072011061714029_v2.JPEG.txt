@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person have a white tag on the back pocket of their jeans? | Yes. |
+| Yes/No | Is the person standing with their back to the camera? | Yes. |
+| Yes/No | Are the jeans a classic style with a straight leg and mid-rise? | Yes. |
+| Yes/No | Is the image focused on the person's clothing rather than their body or appearance? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color are the jeans? | Blue. |
+| What | What is the style of the jeans? | Classic with a straight leg and midrise. |
+| How | How is the person standing in the image? | With their back to the camera. |
+| How | How does the image showcase the back pocket and tag of the jeans? | By featuring the person's back to the camera, highlighting the back pocket and tag. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the tag on the back pocket of the jeans white? | Yes. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the jeans a classic style? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the main focus of the image? | The jeans. |
+| What | What is the atmosphere of the image? | Casual and everyday. |
+| How | How are the jeans styled? | Straight leg, midrise. |
+| How | How much skin or underwear is visible in the image? | None. |

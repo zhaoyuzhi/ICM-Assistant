@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing lingerie? | Yes. |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person's head resting on their hand in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Are black stockings commonly perceived as sexually suggestive? | Yes. |
+| What | What is the person wearing on their legs in the image? | Black stockings. |
+| What | What is the person's attire in the image, overall? | Lingerie. |
+| How | How is the person positioned on the bed in the image? | In a relaxed position, with their legs crossed and head resting on their hand. |
+| How | How does the image create an atmosphere of sensuality and allure? | Through the combination of the person's attire and the setting, which is often associated with intimacy and relaxation. |

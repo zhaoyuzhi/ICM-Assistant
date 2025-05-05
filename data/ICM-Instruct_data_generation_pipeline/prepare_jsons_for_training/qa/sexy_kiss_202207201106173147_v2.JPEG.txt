@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a striped shirt? | Yes. |
+| Yes/No | Is the woman wearing a striped shirt? | Yes. |
+| Yes/No | Are the man and woman kissing each other? | Yes. |
+| Yes/No | Is the woman's shirt pink and gray? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | No. |
+| Yes/No | Is the background a wall with graffiti? | Yes. |
+| What | What is the color of the man's shirt? | Striped (blue and white). |
+| What | What is the color of the woman's shirt? | Striped (pink and gray). |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other, with the woman's arms wrapped around the man's neck. |
+| How | How does the background contribute to the overall atmosphere of the image? | The graffiticovered wall in the background adds an urban and edgy feel to the image, which enhances the overall atmosphere of tenderness and intimacy between the man and woman. |

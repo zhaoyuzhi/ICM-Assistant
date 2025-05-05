@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue dress? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Are people sitting at tables in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and social? | Yes. |
+| Yes/No | Does the woman's attire contribute to the sexy atmosphere of the image? | Yes. |
+| Yes/No | Is the image visually appealing? | Yes. |
+| What | What is the woman carrying in the image? | A purse. |
+| What | What color is the woman's dress? | Blue. |
+| How | How is the woman's back exposed in the image? | Her dress has a low back. |
+| How | How does the woman's attire contribute to the overall sexy atmosphere of the image? | It highlights her curves and backside, and is often associated with confidence and allure. |

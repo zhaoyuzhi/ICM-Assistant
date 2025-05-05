@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing blue shorts? | Yes. |
+| Yes/No | Is the man in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the man's hands placed on his hips? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image contain any elements that suggest a romantic or intimate atmosphere? | No. |
+| What | What color are the man's shorts? | Blue. |
+| What | What is the man's pose in the image? | Standing with hands on hips. |
+| How | How is the man's attire in the image? | Neutral. |
+| How | How does the white background affect the image? | It emphasizes the simplicity of the scene and focuses attention on the man and his attire. |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man's attire in the image suggestive or explicit? | No. |
+| Yes/No | Does the image feature a background that is not white? | No. |
+| Yes/No | Does the image depict the man in a sexual or intimate pose? | No. |
+| What | What is the color of the man's shorts? | Navy blue. |
+| What | What is the color of the man's shoes? | Black. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Calm and straightforward. |

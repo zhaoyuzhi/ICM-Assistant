@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing high heels? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person wearing ripped jean shorts in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person's pose suggest confidence? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the person in the image wearing on their feet? | Black high heels. |
+| What | What is the person's pose in the image? | Sitting with their legs crossed. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The ripped jean shorts add a casual yet stylish element, while the black high heels add a touch of sophistication, contributing to a seductive and alluring atmosphere. |
+| How | How does the person's pose and attire suggest confidence and allure? | The person's crossed legs and high heels suggest a sense of confidence and allure, while their relaxed pose and attire contribute to a sense of ease and sophistication. |

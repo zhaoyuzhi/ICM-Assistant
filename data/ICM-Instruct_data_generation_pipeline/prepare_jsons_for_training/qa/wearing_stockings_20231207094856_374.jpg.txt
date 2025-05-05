@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black and white polka dot pants? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person's left hand on their right knee in the image? | Yes. |
+| Yes/No | Is the person's right hand on their left knee in the image? | Yes. |
+| Yes/No | Does the image feature a sexy or alluring atmosphere? | Yes. |
+| Yes/No | Are stockings often associated with a seductive or alluring appearance? | Yes. |
+| What | What color are the person's stockings in the image? | Black. |
+| What | What is the color of the couch in the image? | Gray. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the overall atmosphere of the image feel? | Intimate and sensual. |
+| Yes/No | Is the person in the image wearing black and white polka dot pants? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person's left hand on their right knee? | Yes. |
+| Yes/No | Is the person's right hand on their left knee? | Yes. |
+| Yes/No | Does the image create an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Does the image evoke a sense of desire and intrigue? | Yes. |
+| What | What is the person in the image wearing on their legs? | Stockings. |
+| What | What is the color of the couch in the image? | Gray. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image create an intimate and sensual atmosphere? | Through the use of stockings, crossed legs, and a closeup view of the person's legs and stockings. |

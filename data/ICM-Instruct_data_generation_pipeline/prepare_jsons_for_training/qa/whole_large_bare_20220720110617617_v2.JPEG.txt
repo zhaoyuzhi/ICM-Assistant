@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Does the woman have cat ears on? | Yes. |
+| Yes/No | Is the bed covered with white sheets? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual? | Yes. |
+| What | What is the woman wearing on her torso? | A black bra. |
+| What | What is the color of the sheets on the bed? | White. |
+| How | How many objects are in the image? | One (the woman). |
+| How | How many people are in the image? | One (the woman). |

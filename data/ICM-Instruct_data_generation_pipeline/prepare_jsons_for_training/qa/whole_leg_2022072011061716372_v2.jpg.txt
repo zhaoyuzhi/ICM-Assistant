@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have a phrase written on it? | Yes. |
+| Yes/No | Is the woman standing with her hands on her hips? | Yes. |
+| Yes/No | Are the shorts the woman is wearing blue? | Yes. |
+| Yes/No | Is the woman's pose in the image casual and relaxed? | Yes. |
+| Yes/No | Does the image have a sexy feel to it? | Yes. |
+| What | What color are the shorts the woman is wearing? | Blue. |
+| What | What is the phrase written on the woman's t-shirt? | "Sometimes I hate you". |
+| How | How does the woman's pose in the image contribute to its overall sexy feel? | The woman's confident pose and the casual, relaxed atmosphere contribute to the overall sexy feel of the image. |
+| How | How does the combination of the yellow t-shirt and blue shorts contribute to the image's visual appeal? | The yellow tshirt and blue shorts combination adds a pop of color to the image, making it visually appealing. |

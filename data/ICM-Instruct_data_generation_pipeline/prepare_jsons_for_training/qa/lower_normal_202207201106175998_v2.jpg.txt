@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pajamas? | Yes. |
+| Yes/No | Are the pajamas brightly colored? | No. |
+| Yes/No | Does the person have a visible tattoo or piercing? | No. |
+| Yes/No | Is the background of the image busy or cluttered? | No. |
+| Yes/No | Is the person smiling or making a facial expression? | No. |
+| Yes/No | Are there any other people or objects in the image? | No. |
+| What | What color are the pajama pants? | Dark blue. |
+| What | What is the background color of the image? | Gray. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The loosefitting pajama pants and comfortable fit create a relaxed and casual atmosphere. |
+| How | How does the image convey a sense of comfort and relaxation? | The image features a person dressed in simple, comfortable clothing standing against a plain background, with no explicit or suggestive elements, conveying a sense of relaxation and lack of tension. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man's shirt striped? | Yes. |
+| Yes/No | Is the man's left hand in his pocket? | Yes. |
+| Yes/No | Is the man's right hand extended outward? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the image feature any explicit or provocative elements? | No. |
+| What | What is the man's attire in the image? | Khaki shorts and a striped shirt. |
+| What | What is the man's movement in the image? | Walking or jogging. |
+| How | How is the man's left hand positioned in the image? | In his pocket. |
+| How | How is the man's right hand positioned in the image? | Extended outward. |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man's shirt striped? | Yes. |
+| Yes/No | Is the man's left hand in his pocket? | Yes. |
+| Yes/No | Is the man's right hand extended outward? | Yes. |
+| Yes/No | Is the man walking or jogging? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the man's shirt made of? | Stripes. |
+| What | What is the man's hand positioned on? | His right hand is extended outward. |
+| How | How is the man's body positioned in the frame? | The man's body is positioned in motion, possibly walking or jogging. |
+| How | How does the low exposure level of the image affect the focus of the image? | The low exposure level emphasizes the focus on the man's movement and the surrounding environment rather than his physical appearance. |

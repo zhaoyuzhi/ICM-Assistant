@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Are the sandals black? | Yes. |
+| Yes/No | Does the dress cover the person's legs and feet? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and elegant? | Yes. |
+| Yes/No | Is the image appropriate? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color is the dress? | Pink. |
+| What | What type of shoes is the person wearing? | Black sandals with ruffles. |
+| How | How are the person's feet positioned? | Slightly apart, suggesting a relaxed stance. |
+| How | How does the gray floor complement the person's outfit? | It provides a neutral background that further emphasizes the person's attire. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red sweatshirt? | Yes. |
+| Yes/No | Does the sweatshirt have text on it? | Yes. |
+| Yes/No | Is the text on the sweatshirt positive? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the woman's midriff exposed? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| What | What color are the woman's leggings? | Black. |
+| What | What does the text on the sweatshirt say? | "Tudd is a good guy". |
+| How | How is the woman posing in the image? | With her arms raised above her head and her midriff exposed. |
+| What | What effect does the contrast between the red sweatshirt and black leggings have on the image? | It draws attention to the woman's midriff, creating a seductive atmosphere. |

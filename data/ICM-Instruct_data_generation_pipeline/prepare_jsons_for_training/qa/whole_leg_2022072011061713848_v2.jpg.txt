@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue and white shirt? | Yes. |
+| Yes/No | Is the shirt short-sleeved? | Yes. |
+| Yes/No | Does the shirt have a pattern of blue and white circles? | Yes. |
+| Yes/No | Is the woman wearing a blue baseball cap? | Yes. |
+| Yes/No | Is the purse beige? | Yes. |
+| Yes/No | Is the woman moving towards the right side of the image? | Yes. |
+| What | What is the color of the woman's shirt? | Blue and white. |
+| What | What is the woman carrying in her hand? | A beige purse. |
+| How | How is the woman's shirt adorned? | With a pattern of blue and white circles. |
+| How | How is the woman carrying her purse? | In her hand. |

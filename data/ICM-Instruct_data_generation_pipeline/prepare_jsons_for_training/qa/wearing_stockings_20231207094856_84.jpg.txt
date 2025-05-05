@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the person wearing beige knee-high socks? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color are the stockings? | Beige. |
+| What | What is the person in the image doing? | Putting on their stockings. |
+| How | How are the stockings being pulled up the person's legs? | The person is actively pulling them up. |
+| What | What creates a sexy atmosphere in the image? | The combination of the person wearing stockings, the act of putting them on, and the beige color. |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on their stockings? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the person wearing beige knee-high socks? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their legs? | Beige stockings. |
+| What | What is the person in the process of doing in the image? | Putting on their stockings. |
+| How | How are the stockings being pulled up the person's legs? | The person is actively pulling them up. |
+| What | What color are the stockings that the person is wearing? | Beige. |

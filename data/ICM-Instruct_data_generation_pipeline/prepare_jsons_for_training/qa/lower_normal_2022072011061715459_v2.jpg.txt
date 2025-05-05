@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding a handbag? | Yes. |
+| Yes/No | Is the handbag made of leather? | Yes. |
+| Yes/No | Does the person's face appear in the image? | No. |
+| Yes/No | Is the store setting well-lit? | Yes. |
+| Yes/No | Is the person wearing casual clothing? | Yes. |
+| Yes/No | Does the image have a romantic or intimate atmosphere? | No. |
+| What | What is the color of the person's jacket? | Black. |
+| What | What is the color of the handbag? | Gray. |
+| How | How is the handbag zipper designed? | Gold. |
+| What | What is the overall atmosphere of the image? | Calm and focused on the handbag. |

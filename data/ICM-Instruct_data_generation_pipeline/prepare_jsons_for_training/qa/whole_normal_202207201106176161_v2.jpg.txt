@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the car in the image silver? | Yes. |
+| Yes/No | Are the man and woman standing in front of the car? | Yes. |
+| Yes/No | Is the image not overly revealing or explicit? | Yes. |
+| Yes/No | Does the image suggest a professional or formal setting? | Yes. |
+| What | What is the man wearing? | A suit and tie. |
+| What | What is the woman wearing? | A white dress. |
+| How | How is the car positioned in the image? | It is parked behind the man and woman. |
+| How | How would you describe the overall atmosphere of the image? | Formal and professional, not sexy or provocative. |

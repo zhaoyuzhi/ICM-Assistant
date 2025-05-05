@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red swimsuit? | Yes. |
+| Yes/No | Is the pool table green? | Yes. |
+| Yes/No | Are the woman's legs spread apart? | Yes. |
+| Yes/No | Is the lighting in the pool hall dim? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Is the woman's pose confident? | Yes. |
+| What | What is the woman wearing in the image? | A red swimsuit. |
+| What | What is the color of the pool table? | Green. |
+| How | How is the woman positioned on the pool table? | With her legs spread apart. |
+| How | How does the dim lighting of the pool hall contribute to the atmosphere of the image? | It creates a mysterious and seductive ambiance that enhances the sexy atmosphere of the image. |

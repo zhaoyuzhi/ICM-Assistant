@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless bra? | Yes. |
+| Yes/No | Is the bra in the image a light beige color? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the bra being worn over a black bra? | Yes. |
+| Yes/No | Does the image include a close-up of the bra? | Yes. |
+| Yes/No | Is the close-up of the bra a black color with a light pink trim? | Yes. |
+| What | What color is the strapless bra in the image? | Light beige. |
+| What | What color is the bra that the woman is wearing under the strapless bra? | Black. |
+| How | How is the woman adjusting the straps of the bra? | With her hands. |
+| How | How does the contrast between the light beige color of the strapless bra and the black bra underneath contribute to the overall atmosphere of the image? | It adds a visual interest and contributes to the intimate and alluring atmosphere. |
+| Yes/No | Is the woman in the image wearing a strapless bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the bra a light beige color? | Yes. |
+| Yes/No | Is the woman wearing a black bra underneath the strapless bra? | Yes. |
+| Yes/No | Does the image include a close-up of the bra? | Yes. |
+| Yes/No | Is the close-up of the bra a black color with a light pink trim? | Yes. |
+| What | What is the main color of the strapless bra? | Light beige. |
+| What | What is the color of the trim on the close-up of the bra? | Light pink. |
+| How | How is the woman adjusting the straps of the bra? | She is using her hands to adjust the straps. |
+| How | How does the contrast between the light beige color of the strapless bra and the black bra underneath contribute to the image? | It adds a visual interest to the image. |

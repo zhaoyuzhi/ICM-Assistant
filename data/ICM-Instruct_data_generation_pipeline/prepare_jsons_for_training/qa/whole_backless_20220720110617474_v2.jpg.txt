@@ -1,0 +1,13 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress long? | Yes. |
+| Yes/No | Is the dress made of a soft fabric? | Yes. |
+| Yes/No | Is the person wearing a brown purse? | Yes. |
+| Yes/No | Is the purse made of leather? | Yes. |
+| Yes/No | Is the person's back turned towards the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image wearing on their shoulder? | A brown leather purse. |
+| What | What is the person's posture in the image? | Relaxed and confident. |
+| How | How is the purse attached to the person's shoulder? | With a strap. |
+| How | How does the person's posture and the way they are holding the purse suggest they are feeling? | In a relaxed and confident manner. |

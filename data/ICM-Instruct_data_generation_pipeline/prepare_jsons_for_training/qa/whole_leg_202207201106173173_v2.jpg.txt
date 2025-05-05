@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main focus of the image a pair of white sneakers? | Yes. |
+| Yes/No | Are the sneakers positioned on a white background? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the stripe on the sneakers? | Black. |
+| What | What is the color of the background? | White. |
+| How | How are the sneakers positioned in the image? | The left shoe is slightly ahead of the right one. |
+| What | What creates a sense of allure and intrigue in the image? | The minimalistic background and the positioning of the sneakers create a sense of allure and intrigue. |

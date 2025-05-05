@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a top? | Yes. |
+| Yes/No | Are the stockings being put on in a sensual way? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the person lying on a bed? | Yes. |
+| Yes/No | Is the act of putting on stockings often seen as a form of self-expression? | Yes. |
+| What | What color is the skirt the person is wearing? | Brown. |
+| What | What color is the top the person is wearing? | Black. |
+| How | How are the stockings being put on in the image? | In a sensual way, suggesting intimacy and sensuality. |
+| What | What does the overall atmosphere of the image suggest? | A sexy and enticing atmosphere, due to the combination of the person's actions and their attire. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person lying on a bed? | Yes. |
+| Yes/No | Is the person wearing a brown skirt? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Does the image suggest a sense of intimacy and sensuality? | Yes. |
+| Yes/No | Does the act of putting on stockings involve exposing the legs? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person in the image wearing? | A brown skirt and a black top. |
+| How | How is the person putting on the stockings? | In a way that suggests a sense of intimacy and sensuality. |
+| What | What atmosphere does the image convey? | A sexy and enticing atmosphere. |

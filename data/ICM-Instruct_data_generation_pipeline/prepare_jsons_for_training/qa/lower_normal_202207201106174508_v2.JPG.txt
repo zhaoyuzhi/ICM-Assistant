@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | Yes. |
+| Yes/No | Is the woman wearing a red skirt? | Yes. |
+| Yes/No | Is the woman's top black? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| Yes/No | Is the woman's attire modest? | Yes. |
+| What | What is the woman wearing? | A long red skirt and a black top. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| How | How does the woman's attire contribute to the image's modesty? | The woman's attire, consisting of a long red skirt and a black top, is simple and modest, covering her body adequately and not revealing any intimate details. |
+| How | How does the low exposure level of the image enhance the sense of peacefulness and modesty? | The low exposure level of the image does not focus on the woman's body or reveal any intimate details, further enhancing the sense of peacefulness and modesty. |

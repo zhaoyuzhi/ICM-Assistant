@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Are camouflage pants worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman holding a cell phone in her right hand? | Yes. |
+| Yes/No | Does the woman have a purse in her left hand? | Yes. |
+| Yes/No | Is the woman walking on a sidewalk? | Yes. |
+| Yes/No | Is the woman looking at her phone? | Yes. |
+| What | What is the woman wearing on her upper body? | A strapless top. |
+| What | What is the woman carrying in her left hand? | A purse. |
+| How | How is the woman holding her cell phone? | In her right hand. |
+| What | What is the woman doing with her phone? | Looking at it. |

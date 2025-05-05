@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a brown vest? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the woman standing in front of a tree? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and serene? | Yes. |
+| What | What is the woman wearing in the image? | A white shirt and a brown vest. |
+| What | What is the setting of the image? | A forest. |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

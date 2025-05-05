@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a red and white school uniform? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man's attire suggest a formal or professional setting? | Yes. |
+| What | What is the woman's school uniform? | Red and white. |
+| What | What is the man's attire? | White shirt and black tie. |
+| How | How are the couple standing? | Close to each other. |
+| How | How is the woman's head tilted? | Back. |

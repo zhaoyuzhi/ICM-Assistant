@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the man in the image wearing a blue tie? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the man's gaze directed towards the viewer? | No. |
+| Yes/No | Does the image have a high level of exposure? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the man's attire in the image? | A white shirt and a blue tie. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man's gaze directed in the image? | Off to the side. |
+| How | How does the low exposure level of the image affect the viewer's attention? | It focuses the viewer's attention on the man's attire and pose rather than his facial expression or body language. |

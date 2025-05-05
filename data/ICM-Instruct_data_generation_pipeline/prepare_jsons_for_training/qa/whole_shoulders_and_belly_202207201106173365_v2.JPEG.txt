@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's hands in her pockets? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Does the woman's outfit expose her midriff and chest area? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her feet? | Blue jeans. |
+| What | What is the pattern on the front of the woman's top? | Lace. |
+| How | How is the woman standing in the image? | With her hands in her pockets. |
+| How | How does the gray background affect the image? | It helps to highlight the woman and her outfit, making her the focal point of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini white? | Yes. |
+| Yes/No | Does the bikini have a floral pattern? | Yes. |
+| Yes/No | Is the woman lying on a bed? | Yes. |
+| Yes/No | Are her legs spread apart? | Yes. |
+| Yes/No | Is she looking directly at the camera? | Yes. |
+| What | What is the woman's facial expression? | Slight smile. |
+| What | What is the color of the bikini? | White. |
+| How | How is the woman lying on the bed? | With her legs spread apart. |
+| How | How does the woman's direct gaze contribute to the image's atmosphere? | It adds to the overall sensual atmosphere of the picture. |

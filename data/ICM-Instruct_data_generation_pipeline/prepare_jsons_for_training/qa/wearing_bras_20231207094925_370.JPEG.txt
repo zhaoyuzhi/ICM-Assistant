@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Are the woman's pants black? | Yes. |
+| Yes/No | Is the man's hand on the woman's back? | Yes. |
+| Yes/No | Is the woman facing away from the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's bra? | White. |
+| What | What color are the woman's pants? | Black. |
+| How | How is the man's hand positioned on the woman's back? | The man's hands are on the woman's back, holding the bra in place. |
+| What | What does the contrast between the white bra and black pants add to the image? | The contrast adds to the intimate and seductive atmosphere of the image. |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Is the woman in the image wearing black pants? | Yes. |
+| Yes/No | Is the man's hands on the woman's back? | Yes. |
+| Yes/No | Is the woman facing away from the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing? | A white bra and black pants. |
+| What | What is the man doing? | Holding the bra in place on the woman's back. |
+| How | How is the woman's attire depicted in the image? | The woman is wearing a white bra and black pants, which creates a contrasting element that makes the white bra stand out. |
+| How | How do the man's actions contribute to the overall atmosphere of the image? | The man's hands on the woman's back suggest a sense of intimacy and closeness between the two individuals, which adds to the overall intimate and seductive atmosphere of the image. |

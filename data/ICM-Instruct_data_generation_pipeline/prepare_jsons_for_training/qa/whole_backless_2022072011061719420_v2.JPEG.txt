@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a purple sports bra? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Are the person's hands clasped in front of them? | Yes. |
+| Yes/No | Is the image in a meditative or yoga pose? | Yes. |
+| Yes/No | Does the image suggest a focus on mindfulness and relaxation? | Yes. |
+| What | What color is the person's sports bra? | Purple. |
+| What | What is the color of the person's pants? | White. |
+| How | How is the person's back exposed in the image? | The person's back is exposed due to their pose, suggesting a focus on mindfulness and relaxation. |
+| How | How does the image create a sense of vulnerability and intimacy? | The image creates a sense of vulnerability and intimacy through the exposure of the person's back, which can be perceived as sexy by some viewers. |

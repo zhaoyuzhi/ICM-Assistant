@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a tan skirt? | Yes. |
+| Yes/No | Is the woman holding a brown purse in her left hand? | Yes. |
+| Yes/No | Does the skirt have two pockets on the front? | Yes. |
+| Yes/No | Is the woman standing on a street with a sidewalk visible in the background? | Yes. |
+| Yes/No | Does the woman's attire and pose suggest a sense of confidence and allure? | Yes. |
+| Yes/No | Are the woman's clothes revealing her thighs? | Yes. |
+| What | What color is the woman's blouse? | Brown. |
+| What | What is the woman holding in her left hand? | A brown purse. |
+| How | How is the woman's skirt styled? | Highwaisted. |
+| How | How does the woman hold her purse? | In her left hand. |

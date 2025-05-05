@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the woman holding a black purse in her hand? | Yes. |
+| Yes/No | Is the room she is in a hotel room? | Yes. |
+| Yes/No | Does the woman's outfit suggest a sense of confidence and allure? | Yes. |
+| Yes/No | Does the image have an overall sexy atmosphere? | Yes. |
+| What | What is the woman holding in her hand? | A black purse. |
+| What | What is the color of the woman's t-shirt? | Black. |
+| How | How is the woman's hair styled? | Pulled back into a ponytail. |
+| How | How does the image make you feel? | Intrigued and drawn to the woman's confidence and allure. |

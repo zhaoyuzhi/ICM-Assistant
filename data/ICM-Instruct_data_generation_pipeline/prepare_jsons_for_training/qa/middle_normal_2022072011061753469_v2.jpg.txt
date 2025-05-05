@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the man's attire revealing or provocative? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's reflection visible in the mirror? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What color are the man's shorts? | Olive green. |
+| What | What is the man's attire? | A white shirt and olive green shorts. |
+| How | How is the man positioned in the image? | He is standing in front of the mirror. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It limits the viewer's ability to see any details beyond the man's clothing, contributing to a lack of sensuality. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's shorts olive green? | Yes. |
+| Yes/No | Is the man's reflection visible in the mirror? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the image focus on the man's body or intimate details? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What color are the man's shorts? | Olive green. |
+| What | What is the man wearing in the image? | A white shirt and olive green shorts. |
+| How | How is the man positioned in the image? | He is standing in front of a mirror, with his reflection visible. |
+| How | How does the low exposure level of the image contribute to the atmosphere? | It does not focus on the man's body or any intimate details, contributing to a nonsexy atmosphere. |

@@ -1,0 +1,14 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image lying on a bed? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Is the man's underwear colorful? | No. |
+| Yes/No | Is the image taken in a public place? | No. |
+| What | What is the man's underwear color? | Black and white. |
+| Yes/No | --- | ---. |
+| What | What is the atmosphere of the image? | Sensual and inviting. |
+| How | How is the man positioned on the bed? | With his hands on his thighs. |
+| Yes/No | --- | ---. |
+| How | How would you describe the image's overall mood? | Intimate and relaxed. |

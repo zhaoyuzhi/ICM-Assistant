@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white bikini top? | Yes. |
+| Yes/No | Is the person in the image wearing a white skirt? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the background of the image a building and a fountain? | Yes. |
+| Yes/No | Does the image convey a sense of allure and sensuality? | Yes. |
+| Yes/No | Is the person's body exposed in the image? | Yes. |
+| What | What is the color of the bikini top? | White. |
+| What | What is the pose of the person in the image? | Hands on hips. |
+| How | How does the person's pose contribute to the image's allure? | It suggests confidence and selfassuredness. |
+| How | How does the combination of the white bikini top and skirt create an atmosphere? | It creates an atmosphere of allure and sensuality. |

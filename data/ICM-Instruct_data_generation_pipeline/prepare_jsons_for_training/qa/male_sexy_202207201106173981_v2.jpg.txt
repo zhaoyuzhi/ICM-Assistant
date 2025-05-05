@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing with his hands on his hips? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man in the image wearing black pants and a black belt? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image wearing? | Black pants and a black belt. |
+| What | What is the man in the image doing with his hands? | He is standing with his hands on his hips. |
+| How | How is the man in the image standing? | He is standing with his feet shoulderwidth apart and his hands on his hips. |
+| How | How does the image make the viewer feel? | The image creates a sense of intimacy and vulnerability, and the man's pose and attire create a strong, confident, and alluring appearance. The simplicity of the image allows the viewer to focus solely on the man and his attire, enhancing the sexy atmosphere. |

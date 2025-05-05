@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the sports bra peach-colored? | Yes. |
+| Yes/No | Does the sports bra have a lace-up design on the back? | Yes. |
+| Yes/No | Are the woman's hands on her back? | Yes. |
+| Yes/No | Is the woman posing in a seductive way? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| What | What is the color of the woman's sports bra? | Peach. |
+| What | What is the design on the back of the sports bra? | Laceup. |
+| How | How is the woman posing in the image? | With her hands on her back, pulling the straps of the bra down. |
+| How | How does the image make the viewer feel? | Confident and seductive. |

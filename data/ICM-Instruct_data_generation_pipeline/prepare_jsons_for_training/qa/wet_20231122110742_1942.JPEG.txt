@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a light blue shirt? | Yes. |
+| Yes/No | Does the shirt have the word "Pirelli" on it? | Yes. |
+| Yes/No | Is the woman's hair wet? | Yes. |
+| Yes/No | Is the woman standing in a pool of water? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing around her neck? | A black necklace. |
+| What | What is the color of the woman's shirt? | Light blue. |
+| How | How is the woman's shirt soaked? | The woman has been in the water for some time. |
+| What | What does the woman's pose in the water suggest? | The woman's pose suggests a sensual and alluring atmosphere. |

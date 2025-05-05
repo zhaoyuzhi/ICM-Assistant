@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a chair? | Yes. |
+| Yes/No | Are there other chairs and a table in the background? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Is the person in the image putting on stockings? | Yes. |
+| Yes/No | Are white stockings associated with elegance and sophistication? | Yes. |
+| What | What is the person in the image doing? | The person is putting on white stockings. |
+| What | What is the overall atmosphere of the image? | The atmosphere is intimate and sensual. |
+| How | How are the white stockings being put on? | The person is pulling them up with their hand. |
+| How | How does the image create a sense of intrigue and allure? | The image captures a private moment of the person putting on stockings, which is a common activity associated with intimacy and sensuality, and the white stockings add to the allure, creating a sense of elegance and sophistication. |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a chair? | Yes. |
+| Yes/No | Are there other chairs and a table in the background of the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Is the image associated with a sense of allure and mystery? | Yes. |
+| Yes/No | Does the image capture a private moment of the person putting on stockings? | Yes. |
+| What | What is the person in the image putting on? | White stockings. |
+| What | What is the atmosphere of the image? | Intimate and sensual. |
+| How | How are the white stockings being put on? | The person is pulling them up with their hand. |
+| How | How does the image create a sense of intrigue and allure? | Through the combination of the person's actions and the overall atmosphere, which is associated with intimacy, sensuality, elegance, and sophistication. |

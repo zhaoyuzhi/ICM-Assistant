@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a jacket? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is the bench made of metal? | No. |
+| Yes/No | Is the image taken indoors? | No. |
+| Yes/No | Is the woman's shirt fully exposed? | No. |
+| What | What color is the woman's jacket? | White and blue. |
+| What | What is the woman's facial expression? | Slight smile. |
+| How | How is the woman's jacket unzipped? | Revealing a white shirt underneath. |
+| How | How does the outdoor setting contribute to the overall atmosphere of the image? | Suggests a casual and carefree environment. |

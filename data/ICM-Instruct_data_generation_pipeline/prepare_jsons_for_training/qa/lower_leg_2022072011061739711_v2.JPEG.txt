@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Does the person have their legs apart? | Yes. |
+| Yes/No | Are the shorts checkered? | Yes. |
+| Yes/No | Is the background of the image plain gray? | Yes. |
+| Yes/No | Does the person have any other clothing on besides the shorts? | No. |
+| Yes/No | Are the shoes white? | Yes. |
+| What | What color are the shorts? | White with a checkered pattern. |
+| What | What color are the shoes? | White. |
+| How | How does the checkered pattern of the shorts contribute to the overall aesthetic of the image? | The checkered pattern of the shorts creates a visually appealing contrast with the plain gray background, drawing attention to the person and their attire. |
+| How | How does the plain gray background affect the image? | The plain gray background emphasizes the subject, drawing attention to the person and their attire and creating a seductive atmosphere. |

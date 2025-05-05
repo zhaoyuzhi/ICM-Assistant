@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue top? | Yes. |
+| Yes/No | Is the woman in the image wearing a white skirt? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the woman wearing blue high heels? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman standing in front of? | A wooden cabinet. |
+| What | What is the woman wearing on her feet? | Blue high heels. |
+| How | How is the woman's skirt styled? | Highwaisted with a slit on the left side. |
+| How | How does the woman's pose and attire contribute to the image's atmosphere? | Her confident pose and alluring outfit create a sense of allure and contribute to the sexy feel of the image. |

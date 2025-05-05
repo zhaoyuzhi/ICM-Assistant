@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| How | Is the woman in the image standing in front of a shower head? | Yes. |
+| Yes/No | Is the woman wearing a white t-shirt? | Yes. |
+| Yes/No | Are her clothes soaked? | Yes. |
+| How | Is the shower head located on the left side of the image? | Yes. |
+| Yes/No | Is the woman positioned on the right side of the image? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and vulnerability? | Yes. |
+| What | What is the woman's hair color? | Brown. |
+| What | What is the woman's clothing item? | A white tshirt. |
+| How | How is the water spraying onto the woman? | Dynamically. |
+| How | How does the image create a sense of movement and energy? | Through the dynamic water spraying onto the woman. |

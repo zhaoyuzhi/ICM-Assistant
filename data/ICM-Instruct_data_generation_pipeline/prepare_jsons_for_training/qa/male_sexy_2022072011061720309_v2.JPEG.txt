@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the man's underwear black and white polka dot? | Yes. |
+| Yes/No | Are the man's arms crossed or resting on his hips? | B. |
+| Yes/No | Is the image in color or black and white? | B. |
+| Yes/No | Does the image contain any objects other than the man? | No. |
+| What | What is the man's underwear style? | Black and white polka dot. |
+| What | What is the man's facial expression? | Not specified. |
+| How | How is the man standing in the image? | With his arms to his sides and his hands resting on his hips. |
+| How | How does the man's pose contribute to the overall atmosphere of the image? | Suggesting confidence and selfassuredness. |

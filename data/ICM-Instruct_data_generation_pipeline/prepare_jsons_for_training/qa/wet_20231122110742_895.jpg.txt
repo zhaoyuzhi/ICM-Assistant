@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the doll in the image wearing a pink dress? | Yes. |
+| Yes/No | Is the doll holding a pink rose in its hand? | Yes. |
+| Yes/No | Is the bathtub filled with water? | Yes. |
+| Yes/No | Are the doll's clothes soaked? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and romantic? | Yes. |
+| Yes/No | Does the image features a sense of vulnerability? | Yes. |
+| What | What is the doll holding in its hand? | A pink rose. |
+| What | What is the color of the doll's dress? | Pink. |
+| How | How does the doll's expression look? | Lost in thought. |
+| How | How does the image make the viewer feel? | Curious about the doll's thoughts and emotions. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the man standing on a beach? | Yes. |
+| Yes/No | Is the man's hair messy? | Yes. |
+| Yes/No | Is the man looking off to the side? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| Yes/No | Are the man's clothes wet? | Yes. |
+| What | What is the man's expression? | Serious. |
+| What | What is the atmosphere of the image? | Carefree and relaxed, with a contrasting layer of complexity and intrigue. |
+| How | How does the image create a sense of intrigue? | The contrast between the man's serious expression and the carefree beach setting creates a sense of intrigue and curiosity. |
+| How | How does the image evoke feelings of relaxation and freedom? | The beach setting and the man's wet clothes suggest a sense of playfulness and spontaneity, evoking feelings of relaxation and freedom. |

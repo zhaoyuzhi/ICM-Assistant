@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person wearing a red jacket? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the person's blue jeans visible in the image? | Yes. |
+| Yes/No | Is the person lifting his shirt and exposing his stomach? | Yes. |
+| Yes/No | Is the person wearing earphones? | Yes. |
+| What | What color is the person's jacket? | Red. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the person's stomach exposed? | The person is lifting his shirt. |
+| What | What does the person's earphones suggest about his activity? | They suggest he might be in the middle of a performance or recording session. |

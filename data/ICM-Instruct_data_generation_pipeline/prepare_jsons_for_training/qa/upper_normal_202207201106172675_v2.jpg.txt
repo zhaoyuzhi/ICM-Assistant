@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sweatshirt? | Yes. |
+| Yes/No | Is the sweatshirt orange in color? | Yes. |
+| Yes/No | Does the sweatshirt have black text on it? | Yes. |
+| Yes/No | Is the text on the sweatshirt written in Chinese? | Yes. |
+| Yes/No | Does the text on the sweatshirt translate to "The greatest enemy is oneself"? | Yes. |
+| Yes/No | Is the woman in the image also wearing blue jeans? | Yes. |
+| What | What is the main message of the text on the sweatshirt? | The greatest enemy is oneself. |
+| What | What is the overall atmosphere of the image? | Calm and focused on the woman's clothing rather than her appearance. |
+| How | How is the woman's clothing depicted in the image? | The woman is wearing a sweatshirt and blue jeans. |
+| How | How does the low exposure level of the image contribute to its non-sexual nature? | The low exposure level means that the focus is on the woman's clothing rather than her physical appearance, making the image less sexual. |

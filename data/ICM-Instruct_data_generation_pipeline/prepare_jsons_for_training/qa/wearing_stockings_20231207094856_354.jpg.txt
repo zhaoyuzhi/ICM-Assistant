@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are they wearing beige pants? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Are the person's movements focused on putting on the stockings? | Yes. |
+| Yes/No | Is the attire of the person in the image casual? | Yes. |
+| What | What is the person in the image putting on? | Beige stockings. |
+| What | What is the person wearing? | A black shirt and beige pants. |
+| How | How are the person's movements described? | Focused on putting on the stockings. |
+| How | How would you describe the atmosphere of the image? | Sexy. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are they wearing beige pants? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the person's attire consist of a casual outfit? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with sensuality and intimacy? | Yes. |
+| What | What is the person wearing on their feet? | Beige stockings. |
+| What | What color is the person's shirt? | Black. |
+| How | How are the person's movements focused? | They are focused on putting on the stockings. |
+| How | How does the contrast between the person's attire and the stockings contribute to the image's atmosphere? | It adds to the visual appeal and creates a sense of allure and intrigue. |

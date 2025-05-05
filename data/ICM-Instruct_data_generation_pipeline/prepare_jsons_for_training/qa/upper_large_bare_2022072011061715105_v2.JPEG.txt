@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Are the sheets on the bed white? | Yes. |
+| Yes/No | Is the woman's body exposed in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What color is the woman's bra and underwear? | Beige. |
+| What | What is the woman's facial expression in the image? | Slight smile. |
+| How | How is the woman's body positioned on the bed? | Lying down with her stomach and lower back visible. |
+| What | What atmosphere does the image suggest? | Relaxation and confidence. |

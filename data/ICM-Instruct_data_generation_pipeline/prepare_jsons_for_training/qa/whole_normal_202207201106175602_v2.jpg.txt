@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a plaid jacket? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman holding a purse in her left hand? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the woman wearing on her feet? | The woman is wearing blue jeans. |
+| What | What is the woman holding in her left hand? | The woman is holding a purse in her left hand. |
+| How | How is the woman standing in the image? | The woman is standing in a modest pose with her feet shoulderwidth apart. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is calm and composed. |

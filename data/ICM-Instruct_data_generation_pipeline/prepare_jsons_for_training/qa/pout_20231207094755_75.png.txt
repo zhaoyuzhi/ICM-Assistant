@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pink lipstick? | Yes. |
+| Yes/No | Does the person have long, dark hair? | Yes. |
+| Yes/No | Is the person making a pouting or kissing face? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the person's facial expression contribute to the overall atmosphere of the image? | Yes. |
+| Yes/No | Is the pink lipstick a main element that contributes to the overall atmosphere of the image? | Yes. |
+| What | What color is the person's lipstick? | Pink. |
+| What | What is the person's facial expression? | Pouting or kissing face. |
+| How | How does the person's long, dark hair add to the overall aesthetic of the image? | It adds a sense of mystery and drama. |
+| How | How does the pink lipstick add to the overall atmosphere of the image? | It adds a hint of playfulness and a pop of color. |

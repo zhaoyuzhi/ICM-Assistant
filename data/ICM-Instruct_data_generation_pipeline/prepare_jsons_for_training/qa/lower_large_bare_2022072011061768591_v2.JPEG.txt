@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige sweater? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the image atmospherically intimate and sensual? | Yes. |
+| Yes/No | Does the image reveal the person's lower body? | Yes. |
+| Yes/No | Is the person's pose in the image confident and self-assured? | Yes. |
+| Yes/No | Does the image feature a warm, soft tone? | Yes. |
+| What | What is the person wearing in the image? | A beige sweater and beige pants. |
+| What | What is the person's pose in the image? | Sitting with their legs crossed. |
+| How | How does the image capture a moment of intimacy and vulnerability? | Through the person's exposed lower body and confident pose. |
+| How | How does the beige sweater and pants enhance the image? | They add a soft, warm tone that enhances the sense of comfort and relaxation. |

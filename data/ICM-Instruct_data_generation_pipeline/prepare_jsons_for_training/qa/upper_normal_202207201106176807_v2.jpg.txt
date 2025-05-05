@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the man's expression serious? | Yes. |
+| Yes/No | Are his hands clasped behind his back? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image contain any provocative or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image solemn and dignified? | Yes. |
+| What | What is the man wearing on his head? | A black hat adorned with a gold tassel. |
+| What | What is the color of the man's robe? | Blue and gold. |
+| How | How is the man standing? | Against a white background. |
+| How | How is the image lit? | Lowexposure. |

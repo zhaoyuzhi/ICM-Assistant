@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the woman's arms visible in the image? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's pose confident and alluring? | Yes. |
+| Yes/No | Is the image a classic and timeless choice? | Yes. |
+| What | What is the woman wearing in the image? | A strapless black dress. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| How | How is the woman standing in the image? | With her arms to her sides and her head slightly tilted to the side. |
+| How | How does the image evoke a sense of desire and allure? | Through the combination of the woman's attire and pose, creating a sexy and alluring atmosphere. |

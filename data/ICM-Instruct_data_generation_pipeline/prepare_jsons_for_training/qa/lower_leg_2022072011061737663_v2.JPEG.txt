@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red Converse All Stars shoes? | Yes. |
+| Yes/No | Is the person in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Are the person's legs slightly apart in the image? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides in the image? | Yes. |
+| Yes/No | Is the background of the image a brick wall and a sidewalk? | Yes. |
+| How | Does the image showcase the person's legs and feet as the main focus? | Yes. |
+| What | What color are the person's shoes in the image? | Red. |
+| What | What is the person's pose in the image? | Legs slightly apart, arms relaxed. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |
+| How | How does the image capture the person's confidence? | Through their relaxed pose and the focus on their legs and feet. |

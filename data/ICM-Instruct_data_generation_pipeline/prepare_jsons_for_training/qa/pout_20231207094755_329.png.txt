@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pink lipstick? | Yes. |
+| Yes/No | Are the person's eyes closed in the image? | Yes. |
+| Yes/No | Is the person's facial expression playful and seductive? | Yes. |
+| Yes/No | Does the image feature a close-up perspective of the person's lips and chin area? | Yes. |
+| Yes/No | Is the person's skin tone fair? | Yes. |
+| Yes/No | Is the person's hair dark? | Yes. |
+| What | What color is the person's lipstick? | Pink. |
+| What | What is the person's facial expression in the image? | Playful and seductive. |
+| How | How are the person's lips puckered in the image? | They are puckered in a sensual way. |
+| How | How does the close-up perspective of the image make the person's lips and chin area appear? | It makes them appear more prominent and attractive. |

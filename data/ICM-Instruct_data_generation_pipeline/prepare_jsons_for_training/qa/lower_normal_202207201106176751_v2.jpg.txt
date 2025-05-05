@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's pants gray sweatpants? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image calm and unassuming? | Yes. |
+| Yes/No | Does the image capture a casual moment of the man walking in a room? | Yes. |
+| Yes/No | Does the man's movements appear relaxed and unhurried? | Yes. |
+| What | What is the color of the couch in the background? | Black. |
+| What | What is the type of plant featured in the background? | Not specified (the description does not provide information about the type of plant). |
+| How | How are the man's movements described in the image? | Casual and unhurried. |
+| How | How would you describe the overall atmosphere of the image? | Calm and unassuming. |

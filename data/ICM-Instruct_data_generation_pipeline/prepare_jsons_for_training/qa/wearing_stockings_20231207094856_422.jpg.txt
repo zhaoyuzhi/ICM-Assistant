@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing two pairs of stockings? | Yes. |
+| Yes/No | Are the stockings the person is wearing black and orange? | Yes. |
+| Yes/No | Is the person sitting on a wooden floor? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is there a book nearby? | Yes. |
+| Yes/No | Is the person in the process of putting on the black stockings? | Yes. |
+| What | What is the person in the image wearing? | The person is wearing a pair of black stockings and a pair of orange stockings. |
+| What | What is the person doing in the image? | The person is in the process of putting on the black stockings. |
+| How | How are the black stockings different from the orange stockings? | The black stockings are tighter than the orange ones. |
+| How | How does the image capture a moment of intimacy and vulnerability? | The image captures a moment of intimacy and vulnerability because the person is in the process of putting on stockings, which adds an element of anticipation and curiosity, and the contrast between the black stockings and the orange stockings adds visual interest. |
+| Yes/No | Is the person in the image wearing two different pairs of stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a wooden floor? | Yes. |
+| Yes/No | Does the image depict a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Are the black stockings tighter than the orange ones? | Yes. |
+| Yes/No | Is the person in the process of putting on the black stockings? | Yes. |
+| Yes/No | Does the image have an element of anticipation and curiosity? | Yes. |
+| What | What is the person in the image wearing? | A pair of black stockings and a pair of orange stockings. |
+| What | What is the person in the image doing? | Putting on the black stockings. |
+| How | How are the black stockings different from the orange ones? | The black stockings are tighter than the orange ones. |
+| How | How does the contrast between the black stockings and the orange stockings add visual interest to the image? | It creates a striking visual contrast that draws the viewer's attention to the person's legs. |

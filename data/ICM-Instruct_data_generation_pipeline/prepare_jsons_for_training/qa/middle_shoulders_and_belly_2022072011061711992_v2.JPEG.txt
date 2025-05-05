@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Is the person wearing a ring? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the person's hand pointing towards their belly button? | Yes. |
+| Yes/No | Is the image taken indoors? | No. |
+| What | What is the person's gender? | The person's gender cannot be determined from the image alone. |
+| What | What is the person's hair color? | The person's hair color cannot be determined from the image alone. |
+| How | How is the person's hand positioned in the image? | The person's hand is pointing towards their belly button. |
+| How | How does the image make the viewer feel? | The image may make the viewer feel intrigued, curious, or sensual. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's hair blonde? | Yes. |
+| Yes/No | Is the person's skin pale? | Yes. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and revealing? | Yes. |
+| What | What is the person's hand pointing towards? | Their belly button. |
+| What | What is the person's piercing associated with? | Selfexpression and personal style. |
+| How | How does the person's choice of clothing contribute to the image's vibe? | It adds to the casual and relaxed vibe. |
+| How | How does the person's hand pointing towards their belly button draw attention to the piercing? | It creates a sense of focus and emphasis on the piercing. |

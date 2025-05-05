@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of khaki cargo shorts? | Yes. |
+| Yes/No | Is the man wearing a black t-shirt? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the man wearing a watch on his left wrist? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color are the man's shorts? | Khaki. |
+| What | What type of clothing is the man wearing on his upper body? | A black tshirt. |
+| How | How many pockets do the shorts have? | Multiple pockets. |
+| What | What is the man's pose in the image? | He is standing with his hands in his pockets. |

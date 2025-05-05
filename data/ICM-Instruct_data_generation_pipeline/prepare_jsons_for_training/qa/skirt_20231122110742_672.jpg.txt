@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the woman's legs visible in the image? | Yes. |
+| Yes/No | Is the image set in a hallway? | Yes. |
+| Yes/No | Is there a door in the background of the image? | Yes. |
+| Yes/No | Is there a light switch in the background of the image? | Yes. |
+| What | What color is the woman's blouse? | Green. |
+| What | What color are the woman's socks? | Black. |
+| How | How is the woman lifting her dress? | By lifting the hem. |
+| What | What does the setting in a hallway suggest about the image? | Intimacy. |

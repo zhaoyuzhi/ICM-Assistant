@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a tank top? | Yes. |
+| Yes/No | Are the shorts black and white? | Yes. |
+| Yes/No | Does the man have a tropical print on his shorts? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the man's pose suggestive or provocative? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the man's attire in the image? | A white tank top and black and white shorts with a tropical print. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man posing in the image? | Neutral. |
+| How | How would you describe the overall atmosphere of the image? | Calm and straightforward. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts black? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man posing for the photo? | Yes. |
+| Yes/No | Does the image have a seductive or enticing atmosphere? | No. |
+| Yes/No | Is the man's attire revealing or provocative? | No. |
+| What | What is the man wearing on his upper body? | A white tshirt. |
+| What | What is the pattern on the shorts? | A floral pattern. |
+| How | How is the man standing in the image? | He is standing straight and facing the camera. |
+| How | How does the white background affect the overall atmosphere of the image? | It emphasizes the focus on the man and his clothing, rather than creating a seductive or enticing atmosphere. |

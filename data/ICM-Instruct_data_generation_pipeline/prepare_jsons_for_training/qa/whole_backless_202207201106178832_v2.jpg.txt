@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Is the dress form-fitting and clinging to the body? | Yes. |
+| Yes/No | Is the person's arm raised in the image? | Yes. |
+| Yes/No | Is the back of the dress exposed in the image? | Yes. |
+| Yes/No | Is the person wearing a watch on their wrist? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What is the color of the dress the person is wearing? | Black. |
+| What | What is the person's skin color? | Not specified in the description (assuming it's not relevant to the question). |
+| How | How is the person's form accentuated in the image? | The person's form is accentuated by the raised arm and the clinging black dress. |
+| How | How does the image create a sense of intimacy and allure? | The image creates a sense of intimacy and allure through the combination of the black dress, the exposed back, and the raised arm, which showcases the person's body in a revealing manner and accentuates their form and curves. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Does the skirt have a slit on the side? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Are her hands on her hips? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color is the skirt? | Brown. |
+| What | What is the material of the skirt? | Shiny. |
+| How | How does the woman's pose accentuate her body? | Her pose accentuates her waist and hips. |
+| How | How does the contrast between the white top and brown skirt contribute to the image's sexiness? | The contrast draws attention to her waist and hips, adding to the overall sexy atmosphere of the image. |

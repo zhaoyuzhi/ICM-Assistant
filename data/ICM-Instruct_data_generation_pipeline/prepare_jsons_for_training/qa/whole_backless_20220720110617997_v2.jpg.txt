@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Are the woman's shoulders bare? | Yes. |
+| Yes/No | Is the woman wearing sunglasses? | Yes. |
+| Yes/No | Does the woman have her hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the woman's attire in the image? | A black sleeveless dress with a low back. |
+| What | What is the setting of the image? | In front of a pool. |
+| How | How is the woman posing in the image? | She is standing with her weight shifted onto one leg and looking over her shoulder. |
+| How | How does the image highlight the woman's beauty? | The image showcases the woman's body and the low back of her dress, creating an alluring and seductive atmosphere. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person sitting on the floor? | Yes. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the person's movements deliberate and careful? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image doing? | Putting on white stockings. |
+| What | What is the person's attire in the image? | Plaid skirt and white shirt. |
+| How | How is the person putting on the stockings? | Carefully and deliberately. |
+| How | How does the image create a sexy atmosphere? | Through the combination of the person's actions and attire, which can be associated with sensuality and intimacy. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person sitting on the floor? | Yes. |
+| Yes/No | Is the person putting on white stockings? | Yes. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image doing? | Putting on white stockings. |
+| What | What is the person wearing? | A plaid skirt and a white shirt. |
+| How | How is the person putting on the stockings? | Carefully and deliberately. |
+| What | What does the image suggest about the person's movements? | The person is ensuring a perfect fit. |

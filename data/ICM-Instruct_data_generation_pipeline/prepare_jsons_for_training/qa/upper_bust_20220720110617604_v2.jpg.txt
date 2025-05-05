@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Is the blouse cropped at the waist? | Yes. |
+| Yes/No | Does the blouse have a keyhole cutout on the chest? | Yes. |
+| Yes/No | Is the woman's hand resting on her knee? | Yes. |
+| Yes/No | Are the white pants worn by the woman in the image? | Yes. |
+| Yes/No | Does the image feature a close-up of the woman's torso? | Yes. |
+| What | What color is the blouse worn by the woman in the image? | Light blue. |
+| What | What is the woman's pose in the image? | Confident and alluring. |
+| How | How does the keyhole cutout on the blouse reveal the woman's chest? | It reveals her cleavage. |
+| How | How does the close-up nature of the image emphasize the woman's cleavage and the keyhole cutout on her blouse? | It makes them the focal point of the photograph. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | No. |
+| Yes/No | Are the individuals in the image clothed? | Yes. |
+| Yes/No | Is the image taken indoors? | No. |
+| Yes/No | Is the image a close-up shot? | No. |
+| Yes/No | Are the individuals in the image smiling? | No. |
+| Yes/No | Does the image depict a romantic or sexual relationship? | Yes. |
+| What | What is the gender of the individuals in the image? | Male and female. |
+| What | What is the color of the man's shirt? | Black. |
+| How | How are the individuals positioned in the image? | Standing close to each other, with the woman's head tilted to the side. |
+| How | How does the image capture the emotion and physical closeness of the moment? | Through the intimate nature of the kiss, the close proximity of the individuals, and the stark contrast created by their black attire against the background. |

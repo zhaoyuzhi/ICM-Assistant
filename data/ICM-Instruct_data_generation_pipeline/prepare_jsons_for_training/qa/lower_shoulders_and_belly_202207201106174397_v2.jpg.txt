@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Does the person's belly appear exposed in the image? | Yes. |
+| Yes/No | Are the person's feet shoulder-width apart in the image? | Yes. |
+| Yes/No | Is the person facing the camera directly in the image? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the leggings in the image? | Blue. |
+| What | What is the person's pose in the image? | Standing with feet shoulderwidth apart, facing the camera directly. |
+| How | How do the blue leggings contribute to the image's overall aesthetic? | They add a pop of color and create a sense of formfittingness. |
+| How | How does the person's direct gaze into the camera contribute to the image's atmosphere? | It creates a sense of intimacy and confidence. |

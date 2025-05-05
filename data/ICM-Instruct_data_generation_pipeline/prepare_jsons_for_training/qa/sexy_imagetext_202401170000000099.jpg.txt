@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a suit and tie? | Yes. |
+| Yes/No | Is the woman standing in a living room? | Yes. |
+| Yes/No | Does the image feature a couch and a coffee table? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A suit and tie. |
+| What | What is the setting of the image? | A living room. |
+| How | How does the woman appear in the image? | Confident and assertive. |
+| How | How does the living room setting contribute to the overall atmosphere of the image? | It adds a sense of intimacy and familiarity, making the viewer feel more connected to the subject. |

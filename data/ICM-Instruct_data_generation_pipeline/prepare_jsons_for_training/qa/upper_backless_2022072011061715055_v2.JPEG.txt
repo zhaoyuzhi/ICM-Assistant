@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the person's hair pulled back into a bun? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Does the image create a sense of allure and intimacy? | Yes. |
+| Yes/No | Does the white dress add a touch of purity and innocence? | Yes. |
+| What | What is the person's hair style in the image? | Bun. |
+| What | What is the color of the dress? | White. |
+| How | How is the person's back exposed in the image? | The dress has a plunging neckline. |
+| How | How does the image create a sense of mystery and intrigue? | The person is facing away from the camera, adding an element of mystery and intrigue. |

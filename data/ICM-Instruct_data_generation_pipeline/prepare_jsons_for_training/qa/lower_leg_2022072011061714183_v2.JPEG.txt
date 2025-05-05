@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person's shirt striped? | Yes. |
+| How | Does the person's pose showcase their legs and feet? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Are their feet shoulder-width apart? | Yes. |
+| Yes/No | Does the image evoke feelings of desire? | Yes. |
+| What | What is the person wearing? | Shorts and a striped shirt. |
+| What | What is the setting of the image? | A living room with a couch and coffee table. |
+| How | How are the person's legs positioned? | Slightly apart. |
+| How | How are their feet positioned? | Shoulderwidth apart. |

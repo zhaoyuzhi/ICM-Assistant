@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have thin straps? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is she wearing gold earrings? | Yes. |
+| Yes/No | Has the woman's hair been pulled back into a ponytail? | Yes. |
+| Yes/No | Does the image convey a sense of allure and sensuality? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the woman's hair style in the image? | Ponytail. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, combined with the revealing nature of her dress, creates a sense of allure and sensuality. |
+| How | How does the black dress and gold earrings contribute to the overall atmosphere of the image? | The black dress, combined with the gold earrings, adds a touch of elegance and sophistication to the overall atmosphere. |

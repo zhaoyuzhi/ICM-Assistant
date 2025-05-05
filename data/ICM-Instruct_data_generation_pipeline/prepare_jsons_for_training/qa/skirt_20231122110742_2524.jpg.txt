@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a bow on the back of her dress? | Yes. |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing an apron in the image? | Yes. |
+| Yes/No | Is the woman wearing a collar in the image? | Yes. |
+| What | What is the material of the woman's dress? | Cotton or silk. |
+| What | What is the atmosphere of the image? | Sexy, confident, alluring, vulnerable. |
+| How | How is the woman posing in the image? | She is lifting her dress, exposing her thighs and the back of her dress. |
+| How | How does the image evoke emotions and reactions from the viewer? | It creates a seductive and enticing atmosphere that evokes strong emotions and reactions. |

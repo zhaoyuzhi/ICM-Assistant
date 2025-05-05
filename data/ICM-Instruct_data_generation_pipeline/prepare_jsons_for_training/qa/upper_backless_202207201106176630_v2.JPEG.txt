@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing away from the camera? | Yes. |
+| Yes/No | Is the person wearing a silver dress? | Yes. |
+| Yes/No | Does the person have long brown hair? | Yes. |
+| Yes/No | Is the strap across the person's back black? | Yes. |
+| Yes/No | Are there small white beads on the strap? | Yes. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| What | What color is the dress the person is wearing? | Silver. |
+| What | What is the color of the person's hair? | Brown. |
+| How | How is the person's hair styled? | In a ponytail. |
+| How | How does the black strap across the person's back add to the overall look of the image? | It adds a touch of mystery and elegance to the image. |

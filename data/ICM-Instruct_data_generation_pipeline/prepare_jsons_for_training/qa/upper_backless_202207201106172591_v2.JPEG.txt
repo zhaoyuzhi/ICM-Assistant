@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Does the woman have a green flower in her hair? | Yes. |
+| Yes/No | Is the lighting in the image soft? | Yes. |
+| Yes/No | Does the image create a sense of intimacy? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's hair accessory in the image? | A green flower. |
+| What | What is the color of the woman's dress in the image? | White. |
+| How | How does the lighting in the image enhance the atmosphere? | It creates a soft and intimate atmosphere. |
+| How | How does the woman's exposed back and green flower in her hair contribute to the image's overall atmosphere? | They suggest a sense of confidence and sensuality and add a touch of elegance and sophistication, respectively. |

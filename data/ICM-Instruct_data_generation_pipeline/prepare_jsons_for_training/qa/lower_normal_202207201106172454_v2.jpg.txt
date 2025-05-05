@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person have a tag on the back pocket of their jeans? | Yes. |
+| Yes/No | Are the person's sneakers white with orange accents? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Is the image a low exposure image? | Yes. |
+| Yes/No | Does the image have a plain background? | Yes. |
+| What | What color are the person's sneakers? | White with orange accents. |
+| What | What is the focus of the image? | The person's attire and posture. |
+| How | How is the person posing in the image? | The person is posing in a neutral and nonprovocative way. |
+| How | How does the plain background contribute to the atmosphere of the image? | The plain background contributes to a neutral and nonsexual atmosphere. |

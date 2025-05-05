@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a striped shirt? | Yes. |
+| Yes/No | Is the man's left hand tucked into his pocket? | Yes. |
+| Yes/No | Is the man's right hand resting on his hip? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| Yes/No | Is the man's attire revealing any skin or body parts? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What is the man's attire consisting of? | A striped shirt, blue shorts, and a brown belt. |
+| What | What is the background of the image? | A building with a glass facade. |
+| How | How is the man's left hand positioned in the image? | Casually tucked into his pocket. |
+| How | How is the man's right hand positioned in the image? | Resting on his hip. |
+| Yes/No | Is the person in the image wearing blue shorts? | Yes. |
+| Yes/No | Is the person looking down at their phone? | Yes. |
+| Yes/No | Is the background of the image a building with a glass facade? | Yes. |
+| Yes/No | Does the person have their hand tucked into their pocket? | Yes. |
+| Yes/No | Is the person's pose and attire suggestive or explicit? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and ordinary? | Yes. |
+| What | What is the person wearing on their lower body? | Blue shorts. |
+| What | What is the person looking at? | Their phone. |
+| How | How is the person's hand positioned? | Casually tucked into their pocket. |
+| How | How does the background of the image reflect the light in the scene? | The glass facade of the building reflects the light, creating a bright and airy atmosphere. |

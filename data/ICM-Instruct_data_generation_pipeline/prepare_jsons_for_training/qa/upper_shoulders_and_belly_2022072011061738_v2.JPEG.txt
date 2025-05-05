@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are her arms raised above her head? | Yes. |
+| Yes/No | Is she standing in front of a white wall? | Yes. |
+| Yes/No | Is she smiling? | Yes. |
+| Yes/No | Does the image have a seductive and alluring feel? | Yes. |
+| Yes/No | Does the woman's smile add a playful and inviting element to the image? | Yes. |
+| What | What color is the woman's shirt? | Pink. |
+| What | What is the woman's facial expression? | Smiling. |
+| How | How are the woman's arms positioned in the image? | Raised above her head. |
+| What | What does the combination of the woman's clothing and arm position convey? | Confidence and selfassuredness. |

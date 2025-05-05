@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray socks? | Yes. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a pink sweater? | Yes. |
+| Yes/No | Are the black stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the scene taking place on a carpeted floor? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the socks that the person is wearing? | Gray. |
+| What | What color is the sweater that the person is wearing? | Pink. |
+| How | How are the black stockings being pulled up the person's legs? | The person is putting them on. |
+| How | How does the image create a contrast in color and texture? | The combination of gray socks and black stockings creates a contrast in color and texture. |
+| Yes/No | Is the person in the image wearing gray socks? | Yes. |
+| Yes/No | Is the person in the image wearing a pink sweater? | Yes. |
+| Yes/No | Are the black stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the scene taking place on a carpeted floor? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the combination of gray socks and black stockings create a contrast in color and texture? | Yes. |
+| What | What is the person in the image wearing on their feet? | Gray socks and black stockings. |
+| What | What is the color of the sweater the person is wearing? | Pink. |
+| How | How are the black stockings being put on? | They are being pulled up the person's legs. |
+| What | What atmosphere does the carpeted floor provide? | A comfortable and cozy atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Is the background of the image red? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| What | What color is the woman's blouse? | Pink. |
+| What | What is the color of the background? | Red. |
+| How | How does the woman's expression create a passionate atmosphere? | The woman's serious expression and biting of her lip create an intense and passionate atmosphere. |
+| How | How does the red background draw attention to the woman? | The red background provides a strong contrast that draws attention to the woman, making her stand out in the image. |

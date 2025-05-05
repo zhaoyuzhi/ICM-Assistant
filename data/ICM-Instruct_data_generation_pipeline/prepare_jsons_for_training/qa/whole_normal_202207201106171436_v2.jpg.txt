@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a brown dress? | Yes. |
+| Yes/No | Is the woman standing in front of a weather map? | Yes. |
+| Yes/No | Is the woman gesturing with her hands? | Yes. |
+| Yes/No | Is the image's exposure level low? | Yes. |
+| Yes/No | Is the image's overall atmosphere informative and educational? | Yes. |
+| Yes/No | Does the image appear to be a weather forecast or explanation? | Yes. |
+| What | What is the woman's attire in the image? | A brown dress. |
+| What | What is the woman doing in the image? | Gesturing with her hands, possibly explaining the weather conditions. |
+| How | How is the woman's body depicted in the image? | The woman's body is not the main focus of the image, and her attire is not revealing or suggestive. |
+| How | How does the image convey information about the weather conditions? | The image features a weather map in the background, and the woman is gesturing to explain the weather conditions. |

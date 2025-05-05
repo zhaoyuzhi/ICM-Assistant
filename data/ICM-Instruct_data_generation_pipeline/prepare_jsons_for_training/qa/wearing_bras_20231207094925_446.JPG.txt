@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Is the woman standing in a living room? | Yes. |
+| Yes/No | Are there other pieces of furniture visible in the background? | Yes. |
+| Yes/No | Is the focus of the image on the woman's actions? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| What | What color is the bra the woman is wearing? | Pink. |
+| How | How is the woman putting on the bra? | She is in the process of putting it on. |
+| How | How does the color of the bra contribute to the overall atmosphere of the image? | It adds a touch of sensuality. |
+| Yes/No | Is the woman in the image wearing a pink bra? | Yes. |
+| Yes/No | Is the woman in the image standing in a living room? | Yes. |
+| Yes/No | Is the focus of the image on the woman's actions and attire? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the pink color of the bra add a touch of sensuality to the image? | Yes. |
+| Yes/No | Do the woman's actions of putting on the bra suggest a sense of intimacy and vulnerability? | Yes. |
+| What | What is the woman in the image putting on? | A pink bra. |
+| What | What is the atmosphere associated with the image? | Sensuality and allure. |
+| How | How is the woman putting on the bra? | She is in the process of putting it on. |
+| How | How does the image make the viewer feel? | It creates an atmosphere that is often associated with sensuality and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are her hands on her head? | Yes. |
+| Yes/No | Is she wearing black pants? | Yes. |
+| Yes/No | Is the background plain white? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the woman's clothes associated with a sexy and confident look? | Yes. |
+| What | What is the woman wearing on her top? | A strapless top. |
+| What | What color are her pants? | Black. |
+| How | How is the woman posing in the image? | She is striking a pose with her hands on her head. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the woman and emphasizes her and the overall atmosphere of the image. |

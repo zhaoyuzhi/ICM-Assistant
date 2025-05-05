@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image kissing the woman? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink top? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man and woman in the image standing close to each other? | Yes. |
+| Yes/No | Are the man's hands on the woman's face? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| What | What is the woman wearing? | A pink top. |
+| What | What is the man wearing? | A white shirt. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the man's arms wrapped around the woman. |
+| How | How does the woman look in the image? | She looks up at the man with her eyes closed, suggesting a deep connection and emotional intensity. |

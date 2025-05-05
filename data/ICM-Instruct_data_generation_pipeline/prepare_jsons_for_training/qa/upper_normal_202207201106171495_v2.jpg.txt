@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in professional attire? | Yes. |
+| Yes/No | Is the woman's attire revealing or suggestive? | No. |
+| Yes/No | Does the image feature any explicit or inappropriate content? | No. |
+| Yes/No | Is the lighting in the image dim or low-key? | Yes. |
+| Yes/No | Is the woman's facial expression neutral or serious? | Yes. |
+| Yes/No | Does the image suggest a work-related or professional context? | Yes. |
+| What | What is the woman holding in her hands? | A red book. |
+| What | What is the dominant color of the woman's blazer? | Yellow. |
+| How | How is the woman dressed in the image? | She is dressed in a professional manner, wearing a yellow blazer and a white shirt. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It emphasizes the professional nature of the image and makes it inappropriate for a sexy context. |

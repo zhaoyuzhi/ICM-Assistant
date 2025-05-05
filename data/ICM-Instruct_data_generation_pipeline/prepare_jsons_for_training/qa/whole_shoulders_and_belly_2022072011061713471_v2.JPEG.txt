@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman sitting on a wicker chair? | Yes. |
+| Yes/No | Is the woman wearing a white off-the-shoulder top? | Yes. |
+| Yes/No | Is the woman wearing a gold necklace? | Yes. |
+| Yes/No | Is the woman holding a gold purse? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing on her top? | A white offtheshoulder top with a ruffled collar. |
+| What | What is the woman holding in her hand? | A gold purse. |
+| How | How is the woman posing in the image? | She is sitting on a wicker chair with her hand on her hip. |
+| How | How does the white wall in the background affect the image? | It provides a neutral backdrop that further highlights the woman and her outfit. |

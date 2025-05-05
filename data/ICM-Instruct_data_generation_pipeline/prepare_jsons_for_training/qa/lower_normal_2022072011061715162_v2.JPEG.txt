@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Does the image feature a human model? | No. |
+| Yes/No | Is the mannequin dressed in a revealing outfit? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the atmosphere of the image calm and unassuming? | Yes. |
+| Yes/No | Does the image feature a bright or bold color palette? | No. |
+| What | What is the color of the mannequin's skirt? | Beige. |
+| What | What is the color of the mannequin's tights? | Black. |
+| How | How is the mannequin positioned in the image? | The mannequin is positioned as if it were walking. |
+| How | How does the white background contribute to the overall atmosphere of the image? | The white background contrasts with the beige skirt and black tights, emphasizing the simplicity of the scene and creating a calm and unassuming atmosphere. |

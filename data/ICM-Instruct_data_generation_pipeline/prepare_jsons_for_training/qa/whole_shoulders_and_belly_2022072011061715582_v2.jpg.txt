@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white crop top? | Yes. |
+| Yes/No | Are the woman's pants high-waisted? | Yes. |
+| Yes/No | Does the woman's outfit reveal her midriff? | Yes. |
+| Yes/No | Is the woman wearing hoop earrings? | Yes. |
+| Yes/No | Is the overall atmosphere of the image stylish? | Yes. |
+| Yes/No | Is the woman in the image confident in her appearance? | Yes. |
+| What | What is the woman in the image wearing on her feet? | The image doesn't provide information about the woman's footwear. |
+| What | What is the color of the woman's crop top and pants? | White. |
+| How | How does the woman's pose suggest she feels about her appearance? | The woman's confident pose suggests that she is comfortable and confident in her appearance. |
+| How | How does the woman's outfit and pose create a sense of allure and confidence? | The strapless crop top and highwaisted pants reveal the woman's midriff, creating a sexy look, while her confident pose and sophisticated hoop earrings suggest she feels good about her appearance, which in turn creates a sense of allure and confidence. |

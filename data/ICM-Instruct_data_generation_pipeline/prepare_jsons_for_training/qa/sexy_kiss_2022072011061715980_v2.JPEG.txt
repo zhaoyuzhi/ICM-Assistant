@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the woman's hand on the man's face? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Do the man and woman appear to have a strong emotional connection? | Yes. |
+| What | What color is the man's shirt? | Blue. |
+| What | What color is the woman's shirt? | White. |
+| How | How are the man and woman positioned in the image? | They are in close proximity, with the woman's hand on the man's face. |
+| How | How would you describe the overall atmosphere of the image? | Romantic and sensual. |

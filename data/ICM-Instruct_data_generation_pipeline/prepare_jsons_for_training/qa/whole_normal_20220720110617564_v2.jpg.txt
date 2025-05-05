@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image feature a building in the background? | Yes. |
+| Yes/No | Is the building made of brick? | Yes. |
+| Yes/No | Does the woman's attire reveal any intimate details? | No. |
+| What | What is the woman's facial expression? | Smiling. |
+| What | What is the primary color of the woman's shirt? | Blue. |
+| How | How is the woman's hair styled? | In a bun. |
+| How | How would you describe the overall atmosphere of the image? | Casual and friendly. |

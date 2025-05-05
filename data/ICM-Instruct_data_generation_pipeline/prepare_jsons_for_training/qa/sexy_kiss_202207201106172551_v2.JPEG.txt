@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are they kissing? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Are there trees in the background? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | A black shirt. |
+| What | What is the woman wearing? | A white shirt and a pearl necklace. |
+| How | How is the background depicted? | Blurred. |
+| How | How would you describe the atmosphere of the image? | Romantic and alluring. |

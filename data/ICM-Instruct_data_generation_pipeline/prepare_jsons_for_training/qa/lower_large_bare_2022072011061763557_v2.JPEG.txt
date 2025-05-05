@@ -1,0 +1,14 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is a person in the image? | Yes. |
+| Yes/No | Is the person clothed? | Yes. |
+| Yes/No | Is the person lying on the floor? | Yes. |
+| Yes/No | Are the person's legs spread apart? | Yes. |
+| Yes/No | Is the image in color? | No. |
+| Yes/No | Does the image depict a sensual atmosphere? | Yes. |
+| What | What is the person wearing? | A pair of white underwear. |
+| Yes/No | --- | ---. |
+| What | What is the dominant color of the image? | White. |
+| How | How is the person positioned in the image? | The person is in a reclining position, with their legs spread apart and their feet pointed towards the ceiling. |
+| Yes/No | --- | ---. |
+| How | How does the image invite the viewer to focus? | The image invites the viewer to focus on the person's body and the details of their attire, creating an intimate and alluring atmosphere. |

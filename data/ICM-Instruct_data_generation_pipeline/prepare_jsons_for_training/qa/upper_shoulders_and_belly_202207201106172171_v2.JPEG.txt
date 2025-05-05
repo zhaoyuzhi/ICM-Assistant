@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the woman have a graphic of a sun on her back? | Yes. |
+| Yes/No | Is she wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is her hair styled in a ponytail? | Yes. |
+| Yes/No | Is she looking over her shoulder? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| What | What is the woman wearing on her top? | A strapless top with a graphic of a sun. |
+| What | What is the woman's hairstyle in the image? | A ponytail. |
+| How | How does the graphic of the sun on her back add to the image? | It adds a unique and artistic touch to her outfit. |
+| How | How does the woman's ponytail and the way she is looking over her shoulder create a sense of intrigue and allure? | It creates a sense of intrigue and allure by drawing attention to her face and body language. |

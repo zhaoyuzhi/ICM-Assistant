@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image taking off their clothes? | Yes. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Is the person in the image wearing a red lace bra? | Yes. |
+| Yes/No | Is the background of the image black? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person in the image likely a woman? | Yes. |
+| What | What is the person in the image taking off? | Their clothes. |
+| What | What color is the person's bra? | Red. |
+| How | How is the person's actions in the image creating a sense of mystery and allure? | The person's actions, combined with the black background, create a sense of mystery and allure by suggesting intimacy and vulnerability. |
+| How | How does the white sweater add to the overall atmosphere of the image? | The white sweater adds a layer of softness and warmth to the image, which can be perceived as sensual. |

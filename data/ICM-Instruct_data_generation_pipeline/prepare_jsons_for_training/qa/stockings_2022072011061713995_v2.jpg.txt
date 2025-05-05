@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Does the garter belt have a lace trim? | Yes. |
+| Yes/No | Are the stockings sheer? | Yes. |
+| Yes/No | Is the person sitting on a chair? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the person wearing on their legs? | Black stockings. |
+| What | What is the color of the garter belt? | Black. |
+| How | How are the stockings trimmed? | With a lace trim. |
+| How | How is the person posing in the image? | With their legs crossed. |

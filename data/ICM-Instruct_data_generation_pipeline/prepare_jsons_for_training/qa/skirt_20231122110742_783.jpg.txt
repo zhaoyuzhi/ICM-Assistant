@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a brown skirt? | Yes. |
+| Yes/No | Is the woman lifting her skirt? | Yes. |
+| Yes/No | Is the woman wearing a beige top? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the room in the image white? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman lifting her skirt revealing? | Her legs. |
+| What | What is the woman wearing on her feet? | Unknown (not visible in the image). |
+| How | How is the woman standing in the room? | Standing straight, with her feet shoulderwidth apart. |
+| How | How is the woman holding her jacket? | Not specified (jacket is not visible in the image). |

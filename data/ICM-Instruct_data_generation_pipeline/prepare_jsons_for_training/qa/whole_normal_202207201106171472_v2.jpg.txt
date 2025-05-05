@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of black leggings and a purple top? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the image likely for a fitness or sportswear advertisement? | Yes. |
+| Yes/No | Does the image focus on the woman's athletic attire and physical activity rather than her appearance? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the woman's outfit in the image? | A pair of black leggings and a purple top. |
+| What | What is the woman doing in the image? | Standing, sitting, and taking a selfie. |
+| What | What is the overall atmosphere of the image? | Professional and focused on fitness or sportswear, rather than sensuality or allure. |

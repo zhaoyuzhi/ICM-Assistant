@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person's hair blonde? | Yes. |
+| Yes/No | Are the person's thighs exposed in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the person wearing a sweater? | Yes. |
+| Yes/No | Does the image feature a close-up view of the person's body? | Yes. |
+| What | What is the length of the person's skirt? | Above the knees. |
+| What | What is the color of the person's sweater? | Black. |
+| How | How does the gray skirt emphasize the person's form? | By falling just above the knees and creating a sense of intimacy. |
+| How | How does the black sweater add a contrasting element to the image? | By drawing attention to the person's upper body and creating a sense of contrast with the gray skirt. |

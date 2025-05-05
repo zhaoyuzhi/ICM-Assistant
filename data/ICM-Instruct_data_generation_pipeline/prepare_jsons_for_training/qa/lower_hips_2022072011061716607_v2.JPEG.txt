@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the jeans loose and baggy? | No. |
+| Yes/No | Is the black top see-through? | No. |
+| Yes/No | Does the image contain other objects or people? | No. |
+| Yes/No | Is the person's attire casual and relaxed? | No. |
+| Yes/No | Does the image have a romantic or soft focus effect? | No. |
+| What | What color are the jeans? | Blue. |
+| What | What is the color of the top? | Black. |
+| How | How are the jeans fitting the person? | Tight. |
+| How | How would you describe the overall atmosphere of the image? | Seductive and provocative. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image depicting a romantic scene? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Is the setting of the image a kitchen? | Yes. |
+| Yes/No | Are there any objects in the background of the image? | Yes. |
+| What | What is the man wearing? | A white shirt. |
+| What | What is the woman wearing? | A white dress. |
+| How | How are the man and woman positioned in the image? | They are standing in a close embrace, with the man's left hand on the woman's waist and his right hand on the back of her head, while the woman has her left hand on the man's shoulder and her right hand on his chest. |
+| How | How does the image create a sense of intimacy and connection between the man and woman? | The image creates a sense of intimacy and connection between the man and woman through their close proximity, the way they are locked in an embrace, and the private setting of the kitchen. Additionally, the harmonious color palette of their clothing and the realism of the objects in the background contribute to the overall aesthetic appeal of the image, making the scene feel more relatable and engaging. |

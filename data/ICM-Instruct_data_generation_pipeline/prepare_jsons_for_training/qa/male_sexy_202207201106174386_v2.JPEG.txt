@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man lifting weights? | Yes. |
+| Yes/No | Is the gym well-lit? | Yes. |
+| Yes/No | Is the spotlight shining on the man? | Yes. |
+| How | Does the image showcase the man's physique? | Yes. |
+| Yes/No | Does the image create an atmosphere of determination and effort? | Yes. |
+| What | What is the man holding in the image? | A barbell. |
+| What | What is the man's facial expression in the image? | Focused/intense. |
+| How | How is the man's physique described in the image? | Muscular/toned. |
+| How | How does the image create an atmosphere of intensity and power? | Through the use of lighting, the man's focused expression, and the fact that he is lifting weights. |

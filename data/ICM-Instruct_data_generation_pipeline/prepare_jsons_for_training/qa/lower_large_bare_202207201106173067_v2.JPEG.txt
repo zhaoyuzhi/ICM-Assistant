@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Are the person's bare feet visible in the image? | Yes. |
+| Yes/No | Is the person walking on the beach in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image relaxed and casual? | Yes. |
+| Yes/No | Does the image evoke feelings of relaxation and enjoyment? | Yes. |
+| What | What is the person wearing in the image? | A bikini. |
+| What | What is the person doing in the image? | Walking on the beach. |
+| How | How is the person's confident and carefree stride conveyed in the image? | Through their relaxed posture and unhurried pace. |
+| How | How does the image create an atmosphere of intimacy and allure? | Through the person's exposed skin and the casual setting of the beach, which suggest a sense of vulnerability and sensuality. |

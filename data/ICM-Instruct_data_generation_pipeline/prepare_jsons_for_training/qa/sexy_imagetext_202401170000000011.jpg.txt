@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a collage of two photos? | Yes. |
+| Yes/No | Are the man and woman sitting side by side in the left photo? | Yes. |
+| Yes/No | Are the man and woman kissing in the right photo? | Yes. |
+| Yes/No | Is the man wearing a gray sweater? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the man wearing? | A gray sweater. |
+| What | What is the woman wearing? | A white shirt. |
+| How | How are the man and woman positioned in the left photo? | They are sitting side by side. |
+| How | How are the man and woman interacting in the right photo? | They are kissing with the woman's arms wrapped around the man. |

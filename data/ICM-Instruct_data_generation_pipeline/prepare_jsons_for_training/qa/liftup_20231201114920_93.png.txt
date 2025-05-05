@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person's midriff exposed? | Yes. |
+| Yes/No | Is the person wearing a black shirt with a tie in the front? | Yes. |
+| Yes/No | Is the background of the image a white wall and a plant? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image lifting? | Her shirt. |
+| What | What is the person's hair style in the image? | A ponytail. |
+| How | How is the black shirt with a tie in the front contrasting with the background? | The black shirt with a tie in the front is contrasting with the white wall and plant in the background, creating a visually striking image. |
+| How | How does the image evoke a sense of allure and sensuality? | The image evokes a sense of allure and sensuality through the woman's confident pose, the way she is lifting her shirt, revealing her midriff, and the contrast between the black shirt with a tie in the front and the white wall and plant in the background. |

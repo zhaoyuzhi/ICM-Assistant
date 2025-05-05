@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Are the person's eyes closed? | Yes. |
+| Yes/No | Is the person's facial expression serious? | Yes. |
+| Yes/No | Are the person's lips the main focus of the image? | Yes. |
+| Yes/No | Does the image have a seductive or alluring quality? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intense? | Yes. |
+| What | What is the person's facial expression? | Serious. |
+| What | What is the person's lips expression? | Pouting. |
+| How | How does the close-up nature of the image contribute to its allure? | It allows the viewer to focus on the person's facial features and expression, which can be perceived as alluring. |
+| How | How does the seriousness of the person's expression and lips contribute to the image's intensity? | It creates a sense of mystery and adds to the alluring quality of the image. |

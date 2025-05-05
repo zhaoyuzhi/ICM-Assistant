@@ -1,0 +1,13 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a red shirt? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the background of the image a gradient of pink and blue colors? | Yes. |
+| Yes/No | Is the woman positioned centrally in the image? | Yes. |
+| Yes/No | Is the image free of any explicit or suggestive content? | Yes. |
+| What | What is the woman's gaze directed towards? | The camera. |
+| What | What is the overall atmosphere of the image? | Cheerful and friendly. |
+| How | How is the woman's pose in the image? | Innocent and friendly. |
+| How | How would you describe the image's exposure level? | Low. |

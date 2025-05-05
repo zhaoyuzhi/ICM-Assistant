@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Is the dress black? | Yes. |
+| Yes/No | Is the person's hand visible? | Yes. |
+| Yes/No | Are they holding a hair dryer? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their legs? | Stockings. |
+| What | What is the color of the dress? | Black. |
+| How | How does the person's hand look like in the image? | It looks like they are holding a hair dryer. |
+| How | How does the image create a sense of elegance and sophistication? | The combination of the stockings and the black dress creates a sense of elegance and sophistication. |

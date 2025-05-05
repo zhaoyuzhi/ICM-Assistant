@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Is the pants' pocket visible? | Yes. |
+| Yes/No | Is the shirt tucked into the pants? | Yes. |
+| What | What is the color of the person's pants? | White. |
+| What | What is the color of the person's shirt? | White. |
+| How | How are the person's hands positioned? | On their hips. |
+| How | How is the image angled? | Low angle, focusing on the person's lower body. |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person's top also white? | Yes. |
+| Yes/No | Is the fabric of the pants stretchy? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image simple and unassuming? | Yes. |
+| What | What is the primary color of the person's attire? | White. |
+| What | What is the focus of the image? | The person's clothing, specifically the white pants and top. |
+| How | How is the person's attire described? | Minimalistic and unobtrusive. |
+| How | How does the low exposure level of the image affect the viewer's perception of the person's body? | It creates a sense of modesty and discretion, focusing the viewer's attention solely on the person's clothing. |

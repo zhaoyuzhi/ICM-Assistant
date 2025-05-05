@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image removing their shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a black face mask? | Yes. |
+| Yes/No | Is the person in the image likely a woman? | Yes. |
+| Yes/No | Is the image depicting a vulnerable and intimate moment? | Yes. |
+| Yes/No | Does the image create a sense of mystery and intrigue? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image removing from their face? | A black face mask. |
+| What | What is the color of the tank top the person is wearing? | Gray. |
+| How | How is the shirt being removed from the person's head? | It is being pulled up over her head. |
+| What | What element in the image adds a sense of mystery and intrigue to the image? | The black face mask adds an element of mystery and intrigue to the image. |

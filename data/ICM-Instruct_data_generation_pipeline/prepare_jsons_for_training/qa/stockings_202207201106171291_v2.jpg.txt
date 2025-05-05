@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Is the bed in the image covered with a white comforter? | Yes. |
+| Yes/No | Does the woman have her legs crossed? | Yes. |
+| Yes/No | Is the woman wearing a black bra? | Yes. |
+| Yes/No | Are the stockings black fishnet? | Yes. |
+| Yes/No | Is the headboard of the bed black? | Yes. |
+| What | What color are the stockings? | Black. |
+| What | What is the woman looking at? | The floor. |
+| How | How is the woman sitting on the bed? | With her legs crossed. |
+| How | How does the contrast between the black bra and fishnet stockings and the white comforter contribute to the atmosphere of the image? | It creates a sense of intimacy and sensuality, emphasizing the woman's presence in the image. |

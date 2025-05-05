@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a floral blouse? | Yes. |
+| Yes/No | Does the blouse have short sleeves? | Yes. |
+| Yes/No | Does the blouse have a collar? | Yes. |
+| Yes/No | Is the woman wearing a white skirt? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| Yes/No | Does the woman have a neutral pose? | Yes. |
+| What | What is the woman looking at? | Off to the side. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| How | How is the woman's pose in the image? | Neutral. |
+| How | How does the image makes you feel? | Calm. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink dress? | Yes. |
+| Yes/No | Does the dress have a bow on the back? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the piano black and gold? | Yes. |
+| Yes/No | Are the person's shoes white? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and elegant? | Yes. |
+| What | What color is the dress? | Pink. |
+| What | What is the person's back to the camera, facing? | The piano. |
+| How | How is the fabric of the dress described? | Light, flowing. |
+| How | How would you describe the overall atmosphere of the image? | Sophisticated, alluring, sexy. |

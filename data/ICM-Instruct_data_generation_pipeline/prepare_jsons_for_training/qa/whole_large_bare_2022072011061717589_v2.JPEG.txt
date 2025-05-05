@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Is the rock the woman is sitting on gray? | Yes. |
+| Yes/No | Is the ocean in the background dark blue? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bikini the woman is wearing? | Blue and white. |
+| What | What is the woman sitting on in the image? | A rock. |
+| How | How is the woman positioned on the rock? | She is sitting with her legs spread apart. |
+| How | How does the image make you feel? | It creates a sense of allure and sensuality. |

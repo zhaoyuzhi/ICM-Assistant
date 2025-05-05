@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a suit? | Yes. |
+| Yes/No | Is the woman wearing a dress? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Does the image convey a sense of passion and intimacy? | Yes. |
+| What | What is the man wearing? | A suit and a tie. |
+| What | What is the woman wearing? | A dress. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the man's arms wrapped around the woman's waist. |
+| How | How does the background appear? | Blurred, but it appears to be a room with a couch and a lamp. |

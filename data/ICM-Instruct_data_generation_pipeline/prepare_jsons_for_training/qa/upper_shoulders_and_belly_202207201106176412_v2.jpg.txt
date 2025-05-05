@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink skirt? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman standing in front of a wooden fence? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What is the woman's pose in the image? | Standing in front of a wooden fence. |
+| How | How does the woman's outfit contribute to the sexy atmosphere of the image? | The woman's strapless top and midriffbaring outfit is often associated with confidence and allure. |
+| How | How does the wooden fence in the background contribute to the atmosphere of the image? | The wooden fence adds a natural and rustic touch to the scene, which can be perceived as sensual and inviting. |

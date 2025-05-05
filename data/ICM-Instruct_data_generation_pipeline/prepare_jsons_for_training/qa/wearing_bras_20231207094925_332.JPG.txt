@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra burgundy in color? | Yes. |
+| Yes/No | Is the woman adjusting the bra with her hands? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image showcase the woman's form? | Yes. |
+| Yes/No | Is the woman's expression determined and self-assured? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What color is the bra the woman is wearing? | Burgundy. |
+| How | How is the woman adjusting the bra? | With her hands on the back of the bra. |
+| How | How does the image evoke feelings? | It evokes feelings of desire and allure. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra burgundy in color? | Yes. |
+| Yes/No | Is the woman adjusting the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the woman's expression determined? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and allure? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a burgundy bra. |
+| What | What color is the bra the woman is wearing? | Burgundy. |
+| How | How is the woman adjusting the bra? | She has her hands on the back of the bra, adjusting it. |
+| How | How does the image evoke feelings of desire and allure? | The image showcases the woman's form and the act of putting on a bra, which is often associated with sensuality and intimacy, and the burgundy color of the bra adds a touch of sophistication and elegance to the scene. |

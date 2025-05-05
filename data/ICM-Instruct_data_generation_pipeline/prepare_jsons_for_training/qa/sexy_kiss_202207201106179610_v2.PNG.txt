@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image depicting a romantic scene? | Yes. |
+| Yes/No | Are the women in the image kissing? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the women wearing revealing clothing? | No. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the women? | Yes. |
+| What | What is the main focus of the image? | The couple kissing. |
+| What | What is the color of the woman's top on the left? | White. |
+| How | How are the women positioned in the image? | They are standing close together, with their mouths close together. |
+| How | How does the blurred background affect the image? | It draws focus to the couple and emphasizes their actions. |

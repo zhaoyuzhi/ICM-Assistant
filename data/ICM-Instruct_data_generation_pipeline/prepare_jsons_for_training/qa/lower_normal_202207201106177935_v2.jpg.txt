@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of gray sweatpants? | Yes. |
+| Yes/No | Is the woman's top white? | Yes. |
+| Yes/No | Is the woman standing against a white background? | Yes. |
+| Yes/No | Are the sweatpants loose-fitting? | Yes. |
+| Yes/No | Does the woman's top reveal any cleavage or skin? | No. |
+| Yes/No | Is the overall atmosphere of the image neutral and non-sexual? | Yes. |
+| What | What is the woman wearing on her bottom half? | Gray sweatpants. |
+| What | What is the color of the woman's top? | White. |
+| How | How are the sweatpants fitting on the woman's body? | Loosefitting. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and nonsexual. |

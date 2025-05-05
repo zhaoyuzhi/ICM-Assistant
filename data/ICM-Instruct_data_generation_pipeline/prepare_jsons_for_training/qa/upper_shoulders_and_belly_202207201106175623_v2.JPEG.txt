@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Does the dress have a sweetheart neckline? | Yes. |
+| Yes/No | Is the fabric of the dress lightweight? | Yes. |
+| Yes/No | Are the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| What | What is the woman's gaze directed at in the image? | Off to the side, away from the camera. |
+| How | How does the dress add elegance to the woman's appearance? | The dress's sweetheart neckline and lightweight fabric add a touch of elegance to the woman's appearance. |
+| How | How does the woman's pose add intrigue to the image? | The woman's pose, looking off to the side, adds an air of mystery and intrigue to the image, making it seem as though she is lost in thought or unaware of the viewer's gaze. |

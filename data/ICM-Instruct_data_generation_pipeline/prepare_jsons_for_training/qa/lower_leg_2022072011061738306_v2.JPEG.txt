@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing denim shorts? | Yes. |
+| Yes/No | Are the shorts rolled up at the bottom? | Yes. |
+| Yes/No | Is the person wearing white sneakers? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person's pose with their legs apart? | Yes. |
+| Yes/No | Does the image create a sense of confidence and allure? | Yes. |
+| What | What is the person wearing on their feet? | White sneakers. |
+| What | What is the person's attire in the image? | Denim shorts and white sneakers. |
+| How | How are the shorts rolled up at the bottom? | The shorts are rolled up at the bottom, revealing the person's legs. |
+| How | How does the image create an atmosphere? | The image creates an atmosphere that is both casual and alluring, making it sexy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a robe? | Yes. |
+| Yes/No | Does the robe have flowers on it? | Yes. |
+| Yes/No | Is the room dimly lit? | Yes. |
+| Yes/No | Is the woman taking off her clothes? | Yes. |
+| Yes/No | Does the image have a sense of intimacy? | Yes. |
+| What | What color are the flowers on the robe? | Pink and green. |
+| What | What is the woman doing in the image? | Taking off her clothes. |
+| How | How is the room lit? | Dimly lit. |
+| How | How does the flowing robe add to the overall sensuality of the image? | It adds a touch of elegance and femininity to the scene. |

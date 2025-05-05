@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the floral pattern on the dress add elegance to her outfit? | Yes. |
+| Yes/No | Is the woman lifting her dress up to reveal her legs? | Yes. |
+| Yes/No | Is the dress made of a lightweight fabric? | Yes. |
+| Yes/No | Is the woman's pose confident and seductive? | Yes. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| What | What is the woman lifting her dress up to reveal? | Her legs. |
+| What | What does the floral pattern on the dress add to her outfit? | Elegance. |
+| How | How is the woman's confidence and seductive pose conveyed in the image? | Through her body language and facial expression. |
+| How | How does the image create a seductive atmosphere? | Through the combination of the woman's confident pose, revealing dress, and the floral pattern. |

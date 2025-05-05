@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Are the person's shorts black? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What color are the person's shorts? | Black. |
+| What | What color are the person's sneakers? | White. |
+| How | How is the person posing in the image? | With their legs apart and hands on their hips. |
+| How | How does the white background affect the image? | It puts the focus entirely on the person and emphasizes their attire, making the image more visually striking. |

@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the image taken from a side view? | Yes. |
+| Yes/No | Is the person lying on a white carpeted floor? | Yes. |
+| Yes/No | Does the image have a sexy and alluring atmosphere? | Yes. |
+| Yes/No | Is the act of putting on stockings often associated with sensuality and intimacy? | Yes. |
+| Yes/No | Does the beige color of the stockings and the white carpeted floor create a warm and inviting atmosphere? | Yes. |
+| What | What is the person in the image putting on? | Beige kneehigh socks. |
+| What | What is the color of the carpeted floor in the image? | White. |
+| How | How is the person positioned in the image? | Lying down. |
+| How | How does the side view of the person add to the overall allure of the image? | It creates a sense of mystery and intrigue, leaving the viewer to imagine what the person might look like from the front. |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the person in the image lying on a white carpeted floor? | Yes. |
+| Yes/No | Is the image taken from a side view? | Yes. |
+| Yes/No | Does the image have a sexy and alluring atmosphere? | Yes. |
+| What | What color are the stockings the person is wearing? | Beige. |
+| What | What is the color of the carpeted floor in the image? | White. |
+| How | How is the person putting on the stockings? | The person is in the process of putting them on. |
+| What | What is the overall mood of the image? | The overall mood of the image is sexy and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman posing in a suggestive way? | Yes. |
+| Yes/No | Is the beach setting sunny? | No. |
+| Yes/No | Is the woman smiling? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman's body facing the camera? | Yes. |
+| What | What is the woman's attire in the image? | A white bikini. |
+| What | What is the woman's pose in the image? | She is posing with her hand on her hip. |
+| How | How does the beach setting contribute to the overall atmosphere of the image? | The beach setting suggests a relaxed and casual atmosphere. |
+| How | How does the woman's pose contribute to the overall sensuality of the image? | The woman's confident pose and the revealing nature of her bikini contribute to the overall sensuality of the image. |

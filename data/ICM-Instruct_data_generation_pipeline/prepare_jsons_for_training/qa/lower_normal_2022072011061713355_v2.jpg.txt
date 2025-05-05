@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs and feet the only body parts visible in the image? | Yes. |
+| Yes/No | Does the image contain any provocative or suggestive elements? | No. |
+| Yes/No | Is the person walking in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What color are the person's sneakers? | White. |
+| What | What is the person's exposure level in the image? | Low. |
+| How | How is the person's movement depicted in the image? | The person is walking. |
+| How | How does the image emphasize the casual nature of the scene? | The person's low exposure level and the focus on their movement and attire rather than their appearance emphasize the casual nature of the scene. |

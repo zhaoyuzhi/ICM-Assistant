@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image sitting on a rock? | Yes. |
+| Yes/No | Does the image feature a sunny beach setting? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Does the image convey a sense of relaxation and enjoyment? | Yes. |
+| Yes/No | Is the woman's pose on the rocks suggestive of confidence and self-assuredness? | Yes. |
+| What | What is the woman wearing on her upper body? | A bikini top and a bra. |
+| What | What is the color of the woman's bikini top? | The description does not provide information about the color of the bikini top. |
+| How | How is the woman positioned on the rocks? | The woman is sitting on the rocks with her legs spread apart and her hands on her hips. |
+| How | How does the sunlight affect the image? | The sunlight creates a warm glow on the scene and highlights the woman's skin, adding to the overall allure of the image. |

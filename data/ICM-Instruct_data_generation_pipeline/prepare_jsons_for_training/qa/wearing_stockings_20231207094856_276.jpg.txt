@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Are the person's feet bare in the image? | Yes. |
+| Yes/No | Is the person wearing stockings in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing on their feet? | Bare feet. |
+| What | What is the person wearing on their legs? | Beige stockings. |
+| How | How are the stockings being worn? | Pulled up. |
+| How | How does the image make you feel? | Intrigued, allured. |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Is the person's dress polka dot? | Yes. |
+| Yes/No | Are the stockings being pulled up? | Yes. |
+| Yes/No | Are the person's bare feet visible? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color are the stockings? | Beige. |
+| What | What type of dress is the person wearing? | Polka dot. |
+| How | How are the stockings being pulled up? | The person is pulling them up. |
+| How | How does the image create an atmosphere of allure and intrigue? | The combination of the person's stockings, polka dot dress, and the act of putting on stockings creates an atmosphere of allure and intrigue. |

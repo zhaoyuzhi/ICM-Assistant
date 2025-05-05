@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a brown sweater? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and relaxed? | Yes. |
+| What | What is the woman sitting on in the image? | A couch. |
+| What | What is the focus of the image? | Her clothing and posture. |
+| How | How is the woman's hair styled in the image? | It is not specified in the description. |
+| How | How does the image convey a sense of simplicity and modesty? | Through the use of a low exposure level and a focus on the woman's clothing and posture rather than her physical appearance. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray dress? | Yes. |
+| Yes/No | Are the woman's thighs and knees exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing black heels in the image? | Yes. |
+| Yes/No | Is the setting of the image a hallway? | Yes. |
+| Yes/No | Does the woman have her hair down in the image? | No. |
+| What | What is the color of the woman's dress? | Gray. |
+| What | What is the woman doing in the image? | Lifting her dress to expose her thighs and knees. |
+| How | How is the woman standing in the image? | She is standing with her feet shoulderwidth apart and her weight shifted onto one leg, while lifting her dress with the other hand. |
+| What | What is the background of the image? | The background of the image is a hallway with a door and a light switch. |

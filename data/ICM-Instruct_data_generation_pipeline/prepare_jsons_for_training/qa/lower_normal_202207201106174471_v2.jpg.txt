@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman in the image sitting on a white surface? | Yes. |
+| Yes/No | Does the woman in the image have her legs crossed? | Yes. |
+| Yes/No | Is the woman looking down at her feet? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman's posture and attire considered provocative or inappropriate? | No. |
+| What | What is the color of the woman's shoes? | White. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How is the woman's posture in the image? | Modest. |
+| How | How would you describe the overall atmosphere of the image? | Calm and composed. |

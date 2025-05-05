@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are they wearing matching black outfits? | Yes. |
+| Yes/No | Is the man's hand on the woman's neck? | Yes. |
+| Yes/No | Is the woman's hand on the man's face? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Do the couple's body language and facial expressions suggest a strong emotional connection? | Yes. |
+| What | What is the man wearing? | A black shirt with spikes on the collar. |
+| What | What is the woman wearing? | A black dress. |
+| How | How is the man's hand positioned on the woman's neck? | He is pulling her closer to him. |
+| How | How is the woman's hand positioned on the man's face? | Indicating a deep connection between them. |

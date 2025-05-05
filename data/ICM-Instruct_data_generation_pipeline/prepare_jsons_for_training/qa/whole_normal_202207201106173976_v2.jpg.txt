@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink? | Yes. |
+| Yes/No | Is the woman holding a blue purse? | Yes. |
+| Yes/No | Are there cosmetics and skincare items in the store aisle? | Yes. |
+| Yes/No | Is the woman's attire appropriate for a shopping environment? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Does the woman appear to be in the middle of shopping? | Yes. |
+| What | What color is the woman's shirt? | Pink. |
+| What | What is the woman holding in her hand? | A blue purse. |
+| How | How is the woman's attire appropriate for a shopping environment? | The woman is wearing a pink shirt and plaid pants, which are appropriate for a casual shopping trip. |
+| How | How does the image convey a casual and everyday atmosphere? | The image shows the woman shopping in a store aisle filled with various products, with no suggestive or explicit content, conveying a casual and everyday atmosphere. |

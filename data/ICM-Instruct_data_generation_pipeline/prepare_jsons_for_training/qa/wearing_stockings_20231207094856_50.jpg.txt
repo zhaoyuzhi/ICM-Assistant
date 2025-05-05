@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing black heels? | Yes. |
+| Yes/No | Is the person in the image standing on a white floor? | Yes. |
+| Yes/No | Is the person in the image putting on their stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image doing? | Putting on their stockings. |
+| What | What is the person in the image wearing? | Black dress, black stockings, black heels. |
+| How | How is the person in the image standing? | With their left hand on their thigh and their right hand on their knee. |
+| How | How does the image capture the moment? | It captures a private, intimate, and alluring moment. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Does the person have their left hand on their thigh? | Yes. |
+| Yes/No | Are they wearing black heels? | Yes. |
+| What | What color is the floor in the image? | White. |
+| What | What is the person in the image putting on? | Black stockings. |
+| How | How many hands are visible in the image? | Two. |
+| What | What is the mood of the image? | Sensual and intimate. |

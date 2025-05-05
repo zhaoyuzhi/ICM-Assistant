@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sweatshirt? | Yes. |
+| Yes/No | Are the sweatpants gray? | Yes. |
+| Yes/No | Does the person have their arms crossed in front of them? | Yes. |
+| Yes/No | Are the sneakers white? | Yes. |
+| Yes/No | Is the background blue? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the word written on the sweatpants? | AIR. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How are the person's arms positioned in the image? | Crossed in front of them. |
+| How | How does the blue background contribute to the atmosphere of the image? | It contributes to the calm and nonsexual atmosphere. |

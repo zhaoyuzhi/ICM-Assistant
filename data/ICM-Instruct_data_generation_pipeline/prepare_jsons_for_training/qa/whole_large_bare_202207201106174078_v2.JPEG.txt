@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman smiling at the camera? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Does the woman have a large area of her body exposed? | Yes. |
+| Yes/No | Is the image visually appealing? | Yes. |
+| Yes/No | Does the image evoke a sense of allure? | Yes. |
+| What | What color is the woman's bikini top? | Green. |
+| What | What is the woman's facial expression? | Smiling. |
+| How | How is the woman's body positioned in the image? | She is sitting. |
+| How | How does the image create a relaxed and inviting atmosphere? | The beach setting and the woman's smile create a relaxed and inviting atmosphere. |

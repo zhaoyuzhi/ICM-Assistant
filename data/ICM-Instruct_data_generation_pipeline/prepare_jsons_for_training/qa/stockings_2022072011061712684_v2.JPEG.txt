@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the woman in the image holding a pair of black heels in her right hand? | Yes. |
+| Yes/No | Is the image in 3D? | Yes. |
+| Yes/No | Is the floor in the image made of wood? | Yes. |
+| Yes/No | Is the woman's left leg raised? | Yes. |
+| Yes/No | Is the woman's right leg bent at the knee? | Yes. |
+| What | What is the woman holding in her right hand? | A pair of black heels. |
+| What | What is the color of the woman's stockings? | Black. |

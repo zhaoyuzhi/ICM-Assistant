@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a gray skirt? | Yes. |
+| Yes/No | Does the image depict the person putting on the stockings? | Yes. |
+| Yes/No | Are the stockings black and white striped? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their feet? | Black stockings and a black and white striped sock. |
+| What | What is the color of the skirt worn by the person in the image? | Gray. |
+| How | How does the combination of the black stockings and the black and white striped sock contribute to the visual appeal of the image? | It creates a contrast that adds to the visual appeal. |
+| How | How does the image evoke a sense of allure and intrigue? | The image suggests a sense of vulnerability and selfexpression, and the contrast of colors adds to the visual appeal, making it sexy. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a gray skirt? | Yes. |
+| Yes/No | Does the image depict the person putting on the stockings? | Yes. |
+| Yes/No | Are the stockings striped? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's skirt? | Gray. |
+| What | What type of sock is the person wearing? | Black and white striped. |
+| How | How does the person look while putting on the stockings? | Vulnerable and selfexpressive. |
+| What | What does the combination of black stockings and black and white striped sock create? | A visual contrast that adds to the image's appeal. |

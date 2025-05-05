@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green top? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman's right hand on her thigh? | Yes. |
+| Yes/No | Does the woman have a confident expression on her face? | Yes. |
+| Yes/No | Are the woman's clothes tight-fitting? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the color of the woman's top? | Green. |
+| What | What is the color of the woman's leggings? | Black. |
+| How | How is the woman's left hand positioned in the image? | On her hip. |
+| How | How does the woman's pose and attire contribute to the overall allure of the image? | The woman's pose and attire expose her thighs and create a sense of confidence and selfassuredness, contributing to the overall allure and sensuality of the image. |

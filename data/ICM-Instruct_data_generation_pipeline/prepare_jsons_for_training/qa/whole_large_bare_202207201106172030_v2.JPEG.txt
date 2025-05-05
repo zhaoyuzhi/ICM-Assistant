@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the woman's body fully covered in the image? | No. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Are the woman's hands on her knees in the image? | Yes. |
+| Yes/No | Is the bed in the image covered with a white comforter? | Yes. |
+| What | What is the color of the woman's bra and underwear in the image? | White. |
+| What | What is the atmosphere of the image? | Sensual and provocative. |
+| How | How is the woman's pose in the image? | She is sitting with her legs spread apart and her hands on her knees. |
+| How | How does the contrast of the woman's white attire against the bed's white comforter contribute to the image's overall atmosphere? | It creates a sense of intimacy and allure. |

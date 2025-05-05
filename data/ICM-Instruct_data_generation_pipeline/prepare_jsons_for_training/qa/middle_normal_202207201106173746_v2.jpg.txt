@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Does the person have a black top on? | Yes. |
+| Yes/No | Are the pants designed with a high waist and wide leg? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image have any explicit or suggestive elements? | No. |
+| Yes/No | Is the focus of the image on the person's clothing and composition rather than any provocative or sensual content? | Yes. |
+| What | What is the color of the person's top? | Black. |
+| What | What is the style of the pants (e.g. skinny, straight, wide leg)? | Wide leg. |
+| How | How does the low exposure level contribute to the non-sexual nature of the image? | It does not reveal any intimate or revealing details about the person's body. |
+| How | How does the overall atmosphere of the image differ from an image with a high exposure level? | The low exposure level creates a more subdued and everyday atmosphere, rather than a provocative or sensual one. |
+| Yes/No | Is the person in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Is the person's top black? | Yes. |
+| Yes/No | Does the image feature any skin or body parts? | No. |
+| Yes/No | Is the atmosphere of the image sexy or provocative? | No. |
+| Yes/No | Does the image contain any elements that suggest a sexy or provocative atmosphere? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the color of the person's trousers? | Beige. |
+| What | What is the color of the person's top? | Black. |
+| How | How does the person's clothing contribute to the overall atmosphere of the image? | The neutral color palette and loose fit of the clothing contribute to a nonsexy atmosphere. |
+| How | How does the exposure level of the image affect the potential for it to be perceived as sexy? | The low exposure level reduces the potential for the image to be perceived as sexy by not revealing any skin or body parts. |

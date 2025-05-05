@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red and white shirt? | Yes. |
+| Yes/No | Is the person's hair styled in a ponytail? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person biting their lower lip? | Yes. |
+| Yes/No | Is the image considered sexy because of the close-up nature of the shot? | Yes. |
+| Yes/No | Does the person's gesture of biting their lip suggest confidence, allure, and a sense of mystery? | Yes. |
+| What | What is the color of the person's shirt? | Red and white. |
+| What | What is the person's hair style? | Ponytail. |
+| How | How are the person's lips positioned in the image? | Slightly parted. |
+| How | How is the person's lower lip being bitten? | Biting. |

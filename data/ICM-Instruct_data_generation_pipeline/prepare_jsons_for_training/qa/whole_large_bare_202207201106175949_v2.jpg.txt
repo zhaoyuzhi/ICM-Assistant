@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image sitting on a chair? | Yes. |
+| Yes/No | Does the woman in the image have her legs crossed? | Yes. |
+| Yes/No | Is the background of the image a white brick wall? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image wearing? | A yellow bikini top and a pair of crossed legs. |
+| What | What is the color of the bikini top? | Yellow. |
+| How | How is the woman in the image sitting? | She is sitting on a chair with her legs crossed. |
+| How | How does the image convey a sense of confidence and allure? | The woman's pose and attire, specifically her crossed legs and yellow bikini top, suggest a sense of confidence and allure, and the neutral background further highlights these features. |

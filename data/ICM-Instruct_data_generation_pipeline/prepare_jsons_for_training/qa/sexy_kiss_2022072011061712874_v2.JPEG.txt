@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a gray suit? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink scarf? | Yes. |
+| Yes/No | Are the man and woman standing on a beach? | Yes. |
+| Yes/No | Is the sky above them clear blue? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and emotional bond between the man and woman? | Yes. |
+| Yes/No | Does the beach setting add to the romantic atmosphere of the scene? | Yes. |
+| What | What is the man holding the woman close with? | His arms. |
+| What | What is the woman leaning into the man's embrace with? | Her body. |
+| How | How are the man and woman positioned in relation to each other? | The man is holding the woman close to him, with her leaning into his embrace. |
+| How | How does the image convey a sense of tranquility and natural beauty? | The image conveys a sense of tranquility and natural beauty through the depiction of a serene beach setting with a clear blue sky and a vast expanse of ocean in the background. |

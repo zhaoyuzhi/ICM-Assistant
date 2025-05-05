@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing black underwear? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image feature the man's muscular physique? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image's composition and the man's pose suggest a focus on physical attractiveness and allure? | Yes. |
+| What | What is the man's pose in the image? | The man is standing in a pose that showcases his muscular physique. |
+| What | What is the color of the man's underwear in the image? | The man's underwear is black. |
+| How | How does the white background contrast with the man's dark attire and physique? | The white background contrasts starkly with the man's dark attire and accentuates his physique. |
+| How | How does the image's composition and the man's pose create an atmosphere? | The image's composition and the man's pose create an atmosphere of allure and sensuality. |

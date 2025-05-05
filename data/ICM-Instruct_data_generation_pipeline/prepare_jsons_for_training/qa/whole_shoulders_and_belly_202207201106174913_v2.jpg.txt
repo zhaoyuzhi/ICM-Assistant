@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the woman wearing a face mask? | Yes. |
+| Yes/No | Is the woman carrying a black purse? | Yes. |
+| Yes/No | Is the image set in a busy street? | Yes. |
+| How | Does the woman's outfit show her midriff? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing on her feet? | The description does not specify what the woman is wearing on her feet. |
+| What | What is the color of the woman's dress? | White. |
+| How | How is the woman's dress styled? | The dress is strapless and midriffbaring. |
+| How | How would you describe the atmosphere of the image? | Bustling and lively. |

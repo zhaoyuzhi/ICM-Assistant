@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Does the image include any other objects or people? | No. |
+| Yes/No | Is the person in the image wearing any clothing? | No. |
+| Yes/No | Is the image in black and white or color? | Color. |
+| Yes/No | Does the image have a filter or effect applied to it? | No. |
+| What | What is the person in the image doing with their tongue? | Sticking it out. |
+| What | What is the person in the image doing with their mouth? | Opening it. |
+| How | How is the person in the image expressing themselves? | Playfully and provocatively. |
+| How | How does the image create a sense of intimacy and vulnerability? | Through the person's gesture and the closeup nature of the image. |

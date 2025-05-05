@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image posing for the camera? | Yes. |
+| Yes/No | Does the image contain any clothing or objects? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man's physique like in the image? | Muscular. |
+| What | What is the atmosphere created by the image? | Sensuality and allure. |
+| How | How does the absence of clothing contribute to the image's overall feel? | It emphasizes the man's strength and attractiveness. |
+| How | How does the focus on the man's physique contribute to the image's overall feel? | It creates an atmosphere of sexual attraction. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the man have any other clothing on besides his boxer briefs? | No. |
+| Yes/No | Is the man facing the camera? | Yes. |
+| Yes/No | Is the man giving a thumbs up? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Are there any other objects in the image? | No. |
+| What | What is the man wearing on his bottom half? | Blue and white patterned boxer briefs. |
+| What | What is the man's gesture in the image? | Thumbs up. |
+| How | How is the man's body positioned in the image? | Facing the camera. |
+| How | How can the image be described in terms of its atmosphere? | Alluring and intriguing, with a sense of intimacy and vulnerability. |

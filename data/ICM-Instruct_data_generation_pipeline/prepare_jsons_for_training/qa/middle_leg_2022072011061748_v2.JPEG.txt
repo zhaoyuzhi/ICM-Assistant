@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of white shorts? | Yes. |
+| Yes/No | Is the person wearing a gray sweater? | Yes. |
+| Yes/No | Are the person's arms relaxed at her sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image feature a sexy appearance? | Yes. |
+| What | What color are the person's shorts? | White. |
+| What | What color is the person's sweater? | Gray. |
+| How | How are the person's shorts positioned? | At the person's waist. |
+| How | How does the person's sweater reveal the shorts? | By being draped over her shoulders. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red leotard? | Yes. |
+| Yes/No | Are the woman's arms outstretched to the side? | Yes. |
+| Yes/No | Does the image feature a white curtain? | Yes. |
+| Yes/No | Does the image feature a white pedestal? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and alluring? | Yes. |
+| Yes/No | Does the red leotard, white tights, and pink ballet slippers create a contrast with the white curtain and pedestal? | Yes. |
+| What | What color is the leotard that the woman is wearing? | Red. |
+| What | What color are the woman's tights? | White. |
+| How | How is the woman standing in the image? | With her arms outstretched to the side. |
+| How | How does the woman's pose add to the overall atmosphere of the image? | It adds a sense of grace and elegance to the image. |

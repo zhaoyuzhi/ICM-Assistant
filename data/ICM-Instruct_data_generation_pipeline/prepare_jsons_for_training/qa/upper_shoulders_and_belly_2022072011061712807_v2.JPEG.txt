@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Are the jeans the woman is wearing blue? | Yes. |
+| Yes/No | Is the top cropped at the waist? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual? | Yes. |
+| Yes/No | Is the overall atmosphere of the image confident? | Yes. |
+| What | What is the woman wearing on her upper body? | A white top with black stripes. |
+| What | What is the woman's pose in the image? | She is posing with her hands on her hips. |
+| How | How is the woman's midriff exposed in the image? | Her midriff is exposed because she is wearing a strapless top. |
+| How | How does the woman's pose and outfit combination contribute to the overall sexy atmosphere of the image? | The pose and outfit combination suggest confidence and selfassuredness, which can be perceived as sexy. |

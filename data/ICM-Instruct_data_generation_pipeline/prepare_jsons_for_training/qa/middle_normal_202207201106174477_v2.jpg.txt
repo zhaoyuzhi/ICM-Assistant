@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man facing the camera? | No. |
+| Yes/No | Is the man wearing a pair of brown pants? | Yes. |
+| Yes/No | Is the man's shirt blue? | Yes. |
+| Yes/No | Does the shirt have white polka dots? | Yes. |
+| Yes/No | Is the atmosphere of the image casual? | Yes. |
+| Yes/No | Does the image suggest a relaxed atmosphere? | Yes. |
+| What | What color are the man's pants? | Brown. |
+| What | What color is the man's shirt? | Blue. |
+| How | How are the man's pants fitted? | Wellfitted. |
+| How | How does the image capture the man's attire? | It captures a simple moment of a man standing with his back to the camera, wearing a casual outfit. |
+| Yes/No | Is the man in the image wearing a blue and white polo shirt? | Yes. |
+| Yes/No | Are the man's hands in his pockets? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image depict a sexual or explicit scene? | No. |
+| Yes/No | Is the man's pose in the image aggressive or threatening? | No. |
+| How | Does the image show the man's entire body? | No. |
+| What | What is the man's attire in the image? | A blue and white polo shirt and brown pants. |
+| What | What is the overall atmosphere of the image? | Calm and nonthreatening. |
+| How | How are the man's hands positioned in the image? | In his pockets. |
+| How | How would you describe the exposure level of the image? | Very low. |

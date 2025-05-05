@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a hat? | Yes. |
+| Yes/No | Is the woman in the image wearing a blouse with a lace collar? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the image an appropriate image? | Yes. |
+| Yes/No | Does the image feature a vase of flowers on a table? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the woman in the image wearing on her head? | A large hat with a wide brim. |
+| What | What is the color of the woman's blouse? | Brown. |
+| How | How is the woman's blouse designed? | With a lace collar. |
+| How | How would you describe the overall atmosphere of the image? | Modest and elegant. |

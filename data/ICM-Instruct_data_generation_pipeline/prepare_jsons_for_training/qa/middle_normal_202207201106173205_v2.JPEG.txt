@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are they wearing a striped shirt? | Yes. |
+| Yes/No | Is their hand tucked into the back pocket of their jeans? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| Yes/No | Does the person's pose or attire evoke any sexual or provocative feelings? | No. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the person's hand doing? | It is tucked into the back pocket of their jeans. |
+| How | How is the person standing? | They are standing with their back to the camera. |
+| How | How does the low exposure level contribute to the image's atmosphere? | It adds to the nonsexual nature of the image by only showing a small portion of the person's body. |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| How | Does the image show the person's entire body? | No. |
+| Yes/No | Is the person's hand tucked into their pocket? | Yes. |
+| Yes/No | Is the image taken from the waist down? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Does the image suggest a sexual context or provocative behavior? | No. |
+| What | What is the person in the image wearing on their upper body? | A striped shirt. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the person's hand positioned in the image? | Casually tucked into their pocket. |
+| How | How would you describe the overall atmosphere of the image? | Casual and laidback. |

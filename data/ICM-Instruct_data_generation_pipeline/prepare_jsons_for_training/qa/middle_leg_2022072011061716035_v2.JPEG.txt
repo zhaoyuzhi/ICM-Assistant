@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink shorts? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman standing against a white background? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Are the shorts tight-fitting? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What color are the shorts? | Pink. |
+| What | What is the woman's pose in the image? | Confident and relaxed. |
+| How | How are the shorts designed at the top? | With a button closure. |
+| How | How does the white top contrast with the pink shorts? | It contrasts by being a different color, drawing attention to the woman's figure. |

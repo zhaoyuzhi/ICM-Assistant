@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a striped shirt? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the background a serene park? | Yes. |
+| Yes/No | Are there trees in the background? | Yes. |
+| Yes/No | Is the sky blue? | Yes. |
+| What | What is the man wearing? | A striped shirt. |
+| What | What is the woman wearing? | A white top. |
+| How | How are the man and woman positioned in the image? | They are standing close together, with the man on the right and the woman on the left. |
+| How | How does the background contribute to the overall mood of the image? | The serene park and clear blue sky create a peaceful and natural setting that contrasts with the intense emotions of the couple, adding to the overall aesthetic appeal of the image. |

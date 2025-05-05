@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shorts and a black top? | Yes. |
+| Yes/No | Does the person's pose suggest a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image focus on the person's body or suggest any intimate or provocative actions? | No. |
+| Yes/No | Does the person's attire evoke a sense of sexuality? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements that would make it appear sexy? | No. |
+| What | What is the person's pose in the image? | The person is standing with their hands placed on their hips. |
+| What | What is the overall atmosphere suggested by the image? | The atmosphere suggested by the image is casual and relaxed. |
+| How | How does the person's attire contribute to the casual and relaxed atmosphere of the image? | The person's attire, which consists of black shorts and a black top, contributes to the casual and relaxed atmosphere of the image by being simple, comfortable, and not revealing or provocative. |
+| How | How does the low exposure level of the image affect the viewer's perception of the person's body? | The low exposure level of the image ensures that only a small portion of the person's body is visible, which shifts the focus away from their physical attributes and towards their overall appearance and demeanor. |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Does the person in the image have their arms relaxed at their sides? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the image considered sexy? | No. |
+| Yes/No | Does the image contain any explicit or implied nudity or sexual content? | No. |
+| What | What is the person in the image wearing on their lower body? | Black highwaisted shorts. |
+| What | What is the person in the image wearing on their upper body? | Black top. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How would you describe the overall atmosphere of the image? | Simple and straightforward. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image painting a picture? | Yes. |
+| Yes/No | Is the woman wearing a green shirt? | Yes. |
+| Yes/No | Does the painting feature tulips? | Yes. |
+| Yes/No | Are the tulips in shades of purple and white? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image suggest a sense of concentration and dedication to the woman's craft? | Yes. |
+| What | What is the woman painting? | Tulips. |
+| What | What is the dominant color scheme of the painting? | Purple and white. |
+| How | How is the woman's engagement with her work depicted in the image? | The woman is fully absorbed in her painting, with a focused expression and body language that suggests dedication and concentration. |
+| How | How does the low exposure level of the image affect the overall atmosphere of the image? | The low exposure level creates a sense of intimacy and focus on the woman's actions and the painting, rather than her physical appearance, and emphasizes the artistic process and the woman's engagement with her work. |

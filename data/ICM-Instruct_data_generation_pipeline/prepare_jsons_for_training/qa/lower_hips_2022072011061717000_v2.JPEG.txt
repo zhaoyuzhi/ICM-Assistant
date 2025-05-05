@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of purple leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a green sports bra? | Yes. |
+| Yes/No | Is the person in the image posing in a confident and seductive manner? | Yes. |
+| Yes/No | Is the person's left hand resting on their hip? | Yes. |
+| Yes/No | Is the person's right hand resting on their thigh? | Yes. |
+| Yes/No | Does the image create a sense of allure and seduction? | Yes. |
+| What | What color are the leggings that the person is wearing? | Purple. |
+| What | What is the color of the sports bra that the person is wearing? | Green. |
+| How | How is the person posing in the image? | The person is posing with their left hand on their hip and their right hand resting on their thigh. |
+| How | How does the person's choice of clothing contribute to the allure of the image? | The person's choice to wear a sports bra and leggings, rather than more conservative clothing, adds to the allure of the image. |

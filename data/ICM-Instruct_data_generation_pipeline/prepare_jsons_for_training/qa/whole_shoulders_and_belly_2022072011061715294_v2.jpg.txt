@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the background plain and white? | Yes. |
+| Yes/No | Are the woman's clothes midriff-baring? | Yes. |
+| Yes/No | Is the woman's pose confident and relaxed? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the image sexy due to the woman's attire and pose? | Yes. |
+| What | What is the woman wearing? | A strapless top and plaid pants. |
+| What | What is the pattern of the pants? | Black and white plaid. |
+| How | How is the woman's pose? | Confident and relaxed. |
+| How | How are her hands positioned? | Resting on her hips. |

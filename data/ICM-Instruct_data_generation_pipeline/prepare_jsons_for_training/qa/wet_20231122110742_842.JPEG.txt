@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's clothes soaked? | Yes. |
+| Yes/No | Is the background of the image a blue tiled wall? | Yes. |
+| Yes/No | Is the man leaning on the wall? | Yes. |
+| Yes/No | Does the image have a seductive and intimate atmosphere? | Yes. |
+| Yes/No | Is the man's pose vulnerable? | Yes. |
+| What | What is the man's hair color? | Dark. |
+| What | What is the color of the tiled wall? | Blue. |
+| How | How are the man's clothes soaked? | Presumably from being in the water for an extended period of time. |
+| How | How does the man's pose add to the image's atmosphere? | It adds a sense of vulnerability and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the woman in the image have a graphic of a shark on her shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black belt? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the woman in the image posing in a sexy way? | Yes. |
+| What | What is the color of the woman's skirt? | Black. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How does the woman's outfit create a contrast in the image? | The black skirt and white shirt create a contrast that draws attention to her thighs. |
+| How | How does the woman's pose accentuate her figure? | The woman's pose with her hands on her hips accentuates her figure by drawing attention to her waist and thighs. |

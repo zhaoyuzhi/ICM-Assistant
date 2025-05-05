@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple shirt? | Yes. |
+| Yes/No | Is the woman in the image standing on one leg? | No. |
+| Yes/No | Does the image suggest a sexual context? | No. |
+| Yes/No | Is the woman's focus away from the camera? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman's hair tied up? | No. |
+| What | What is the woman balancing on? | A ballet barre. |
+| What | What is the color of the woman's pants? | Black. |
+| How | How is the woman standing? | With her arms stretched out to the sides and balancing on a ballet barre. |
+| How | How would you describe the woman's pose? | Focused and controlled. |

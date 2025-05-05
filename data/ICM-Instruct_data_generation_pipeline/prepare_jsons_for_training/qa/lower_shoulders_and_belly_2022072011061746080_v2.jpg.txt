@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Is the exercise ball in the image round? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Does the woman in the image have a serious expression? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the woman in the image standing on one leg? | No. |
+| What | What is the woman in the image wearing on her lower body? | Pink sweatpants. |
+| What | What is the brand name written on the exercise ball in the image? | Reebok. |
+| How | How is the woman in the image standing in relation to the exercise ball? | She is standing in front of it. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

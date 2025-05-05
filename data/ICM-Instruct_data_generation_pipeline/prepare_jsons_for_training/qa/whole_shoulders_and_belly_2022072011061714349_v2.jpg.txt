@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a fur collar? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the background of the image a bathroom? | Yes. |
+| Yes/No | Does the woman have glasses on? | Yes. |
+| Yes/No | Is the woman's outfit casual? | Yes. |
+| What | What color are the woman's jeans? | Blue. |
+| What | What is the material of the woman's blouse? | White with a fur collar. |
+| How | How does the woman's pose exude confidence? | The woman's arms are raised above her head, suggesting a sense of freedom and selfassurance. |
+| How | How does the mirror in the background add depth to the image? | The mirror reflects the woman's figure, creating a sense of space and intimacy. It also adds a touch of realism, making the image feel more lifelike. |

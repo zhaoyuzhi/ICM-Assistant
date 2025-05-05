@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a black skirt? | Yes. |
+| Yes/No | Is the woman's blouse short-sleeved? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Does the woman's pose suggest a sexual context? | No. |
+| Yes/No | Is the atmosphere of the image simple and professional? | Yes. |
+| Yes/No | Does the woman's attire include a white blouse? | Yes. |
+| What | What is the length of the woman's skirt? | The skirt falls to her knees. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How does the gray background contribute to the image's atmosphere? | The gray background does not draw attention away from the woman or her attire, contributing to the image's simplicity and professionalism. |
+| How | How does the woman's attire, specifically the black skirt and white blouse, contribute to the image's atmosphere? | The modest and professional attire emphasizes the image's neutral and professional atmosphere. |

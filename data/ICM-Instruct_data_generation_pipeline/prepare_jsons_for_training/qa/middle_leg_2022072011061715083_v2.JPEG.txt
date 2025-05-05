@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt brown in color? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's thigh exposed in the image? | Yes. |
+| What | What is the color of the woman's top? | Black. |
+| What | What is the color of the woman's skirt? | Brown. |
+| How | How is the woman's thigh exposed in the image? | Through a slit on the left side of her skirt. |
+| How | How does the contrast between the brown skirt and black top accentuate the woman's body? | It creates a visual contrast that draws attention to her body. |

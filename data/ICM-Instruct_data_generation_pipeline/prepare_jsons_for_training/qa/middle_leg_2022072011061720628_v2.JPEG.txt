@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink shorts? | Yes. |
+| Yes/No | Does the woman have a drawstring waist? | Yes. |
+| Yes/No | Is the woman's tank top cropped? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's pose confident and relaxed? | Yes. |
+| What | What is the color of the woman's shorts? | Pink. |
+| What | What is the color of the woman's tank top? | Gray. |
+| How | How is the woman's midriff revealed in the image? | The woman's midriff is revealed through the cropped tank top. |
+| How | How does the woman's pose enhance the sexy atmosphere of the image? | The woman's confident pose with her hands on her hips enhances the sexy atmosphere of the image. |

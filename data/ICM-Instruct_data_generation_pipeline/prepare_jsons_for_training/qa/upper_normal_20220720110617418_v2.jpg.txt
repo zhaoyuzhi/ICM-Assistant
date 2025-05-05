@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the girl's outfit red and gold? | Yes. |
+| Yes/No | Does the girl have a white fur collar? | Yes. |
+| Yes/No | Is the girl's hair styled in a traditional Chinese hairstyle? | Yes. |
+| Yes/No | Does the image feature a temple in the background? | Yes. |
+| Yes/No | Is the overall atmosphere of the image one of cultural significance and tradition? | Yes. |
+| What | What is the girl wearing on her head? | A gold headband and pearl earrings. |
+| What | What is the color of the temple's roof? | Red. |
+| How | How is the girl's hair styled? | In a traditional Chinese hairstyle. |
+| How | How would you describe the overall atmosphere of the image? | One of cultural significance and tradition. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink sweater? | Yes. |
+| Yes/No | Are the person's legs covered in black tights? | Yes. |
+| Yes/No | Is the person in the process of putting on black stockings? | Yes. |
+| Yes/No | Is the floor in the image white? | Yes. |
+| Yes/No | Is there a white couch in the background of the image? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy and allure? | Yes. |
+| What | What color is the person's sweater? | Pink. |
+| What | What is the person in the image putting on? | Black stockings. |
+| How | How is the person's attire contributing to the overall atmosphere of the image? | The black tights and act of putting on stockings create a sensual and deliberate atmosphere, adding to the overall sense of allure and sensuality. |
+| How | How does the image evoke a sense of allure and sensuality? | The combination of the person's attire, the act of putting on stockings, and the black tights, which are often associated with intimacy and allure, create an image that evokes a sense of allure and sensuality. |
+| Yes/No | Is the person in the image wearing a pink sweater? | Yes. |
+| Yes/No | Are they wearing black tights? | Yes. |
+| Yes/No | Is the floor white? | Yes. |
+| Yes/No | Is there a white couch in the background? | Yes. |
+| Yes/No | Is the person putting on black stockings? | Yes. |
+| Yes/No | Does the image evoke a sense of allure and sensuality? | Yes. |
+| What | What is the person in the image wearing? | A pink sweater and black tights. |
+| What | What is the person doing in the image? | Putting on black stockings. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The black tights and pink sweater create a sense of allure and sensuality. |
+| How | How does the act of putting on stockings add to the overall atmosphere of the image? | The deliberate and sensual process of putting on stockings adds to the image's sense of intimacy and allure. |

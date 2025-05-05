@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray dress? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the dress made of a sheer material? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color is the woman's dress? | Gray. |
+| What | What is the woman lifting her dress with? | Her hands. |
+| How | How is the woman's pose in the image? | Confident. |
+| How | How does the woman's look over her shoulder add to the atmosphere of the image? | It adds to the overall sense of seduction and allure. |

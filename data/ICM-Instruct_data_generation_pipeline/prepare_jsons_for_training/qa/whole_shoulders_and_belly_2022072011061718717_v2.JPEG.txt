@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Is the dress blue and white in color? | Yes. |
+| Yes/No | Is the woman holding a basket in her left hand? | Yes. |
+| Yes/No | Are the leaves in the basket green? | Yes. |
+| What | What is the woman holding in her left hand? | A basket filled with green leaves. |
+| What | What is the color of the dress? | Blue and white. |
+| How | How does the white wall in the background contribute to the atmosphere of the image? | It provides a clean and minimalistic backdrop that allows the focus to remain on the woman and her attire, creating an atmosphere that is both visually appealing and evocative of a sense of allure. |
+| How | How does the floral pattern on the dress add to the overall image? | It adds a touch of nature to the image, which complements the sense of allure evoked by the strapless dress and the connection to the outdoors suggested by the green leaves in the basket. |

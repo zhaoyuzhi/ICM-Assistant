@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a silver dress? | Yes. |
+| Yes/No | Does the image depict a blue background? | Yes. |
+| Yes/No | Are there visible brush strokes in the image? | Yes. |
+| Yes/No | Is the woman's hair long and dark? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image tranquil and calm? | Yes. |
+| What | What is the woman in the image wearing? | A silver dress. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How are the woman's brush strokes depicted in the image? | Visible. |
+| How | How would you describe the mood of the image? | Tranquil and calm. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of denim shorts? | Yes. |
+| Yes/No | Is the person's top white? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the person's shorts? | Blue. |
+| What | What is the style of the person's shorts? | Casual. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |
+| How | How do the denim shorts and white top contribute to the overall atmosphere of the image? | They create a casual and relaxed look with a touch of edginess, which adds to the sexy vibe of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of gray sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a gray tank top? | Yes. |
+| Yes/No | Does the person in the image have a drawstring waist? | Yes. |
+| Yes/No | Is the person in the image posing in a sexy manner? | Yes. |
+| Yes/No | Is the image associated with a relaxed and laid-back atmosphere? | Yes. |
+| Yes/No | Does the person in the image have their arms resting at their sides? | Yes. |
+| What | What is the color of the sweatpants? | Gray. |
+| What | What is the color of the tank top? | Gray. |
+| How | How does the drawstring waist of the sweatpants add a touch of detail? | It allows for a more personalized fit. |
+| How | How does the person's neutral pose enhance the sexy feel of the image? | It suggests a sense of confidence and selfassuredness. |

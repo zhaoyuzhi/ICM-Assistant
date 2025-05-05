@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray bra and underwear? | Yes. |
+| Yes/No | Is the woman standing against a white background? | Yes. |
+| Yes/No | Does the woman have her hair pulled back into a ponytail in the second photo? | Yes. |
+| Yes/No | Is the woman's pose in the third photo different from the first two photos? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Does the gray bra and underwear create a contrast against the white background? | Yes. |
+| What | What is the woman's attire in the image? | Gray bra and underwear. |
+| What | What is the woman's hair style in the third photo? | Loose waves. |
+| How | How does the woman's pose in the image suggest confidence and self-assuredness? | Her hands are placed on her hips, which gives a sense of confidence and selfassurance. |
+| How | How does the image create a bold and confident atmosphere? | The use of a white background, the woman's confident pose, and her attire all contribute to a bold and confident atmosphere. |

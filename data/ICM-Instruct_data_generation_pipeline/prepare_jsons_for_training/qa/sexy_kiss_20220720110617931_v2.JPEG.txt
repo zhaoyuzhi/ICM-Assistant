@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the couple standing in a public place? | No. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Is the man wearing a black suit? | Yes. |
+| Yes/No | Does the image have a sexual connotation? | Yes. |
+| Yes/No | Are the couple's faces visible in the image? | Yes. |
+| What | What is the woman's facial expression in the image? | She is looking up at the man with her head tilted back. |
+| What | What is the man's facial expression in the image? | He is looking down at the woman with a passionate expression. |
+| How | How are the couple's bodies positioned in the image? | The couple is standing close to each other, with the woman's arms wrapped around the man's neck and the man's hands on the woman's shoulders. |
+| How | How does the background of the image contribute to the overall mood of the image? | The background features a staircase and a building, suggesting an urban setting that adds to the sophisticated and intimate atmosphere of the image. |

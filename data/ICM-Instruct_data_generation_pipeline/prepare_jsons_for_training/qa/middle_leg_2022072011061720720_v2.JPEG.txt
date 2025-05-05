@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a sweater? | Yes. |
+| How | Does the image show the woman's thighs? | Yes. |
+| Yes/No | Is the woman standing with her hands on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image show the woman's face? | No. |
+| What | What color are the shorts? | White. |
+| What | What color is the sweater? | Gray. |
+| How | How is the fit of the shorts adjustable? | The shorts have a drawstring at the waist. |
+| How | How does the woman's pose accentuate her body? | The woman's pose, with her hands on her hips, emphasizes her waist and thighs. |

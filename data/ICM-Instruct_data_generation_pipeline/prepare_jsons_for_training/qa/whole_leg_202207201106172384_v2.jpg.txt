@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image standing against a white background? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Are her legs slightly apart? | Yes. |
+| Yes/No | Is the purse hanging from her shoulder purple? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| Yes/No | Does the image have a confident atmosphere? | Yes. |
+| What | What color are the woman's shorts? | Blue. |
+| What | What is the color of the purse? | Purple. |
+| How | How is the woman's pose in the image? | Relaxed, with her arms at her sides and her legs slightly apart. |
+| How | How does the image make you feel? | The image makes me feel like the woman is confident and selfassured. |

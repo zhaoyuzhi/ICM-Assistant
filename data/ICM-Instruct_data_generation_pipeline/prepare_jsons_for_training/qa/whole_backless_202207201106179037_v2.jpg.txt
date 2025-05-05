@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the dress worn by the person in the image black? | No. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the person standing on a beach? | No. |
+| Yes/No | Does the image feature a cityscape in the background? | No. |
+| Yes/No | Is the person's head turned towards the camera? | No. |
+| What | What color is the dress worn by the person in the image? | White. |
+| What | What is the main feature of the person's back in the image? | A large area of the back is visible through the slit in the dress. |
+| How | How is the person standing on the cliff? | The person is standing with their feet shoulderwidth apart, with one foot slightly in front of the other. |
+| How | How does the image create a sense of drama and intrigue? | The image creates a sense of drama and intrigue through the person's pose on the cliff, the mountainous landscape in the background, and the overall atmosphere of the picture. |

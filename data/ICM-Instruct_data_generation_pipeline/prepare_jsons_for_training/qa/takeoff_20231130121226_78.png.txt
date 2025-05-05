@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Are the curtains in the room white? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Are the woman's shorts white? | Yes. |
+| Yes/No | Is the woman wearing high heels? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing? | A black top and white shorts. |
+| What | What is the woman's appearance enhanced by? | Her high heels. |
+| How | How is the woman taking off her clothes? | She is removing her top and shorts. |
+| How | How does the woman look in the image? | Seductive and confident. |

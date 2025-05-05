@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Is the man wearing glasses? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are the man's lips on the woman's lips? | Yes. |
+| Yes/No | Does the image convey a sense of romance and intimacy? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the man and woman? | Yes. |
+| What | What is the woman wearing? | A white top. |
+| What | What is the man wearing? | A white shirt. |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other, with the man's lips on the woman's lips. |
+| How | How does the image convey a sense of passion and intimacy? | The close proximity of the man and woman, along with their kiss, suggests a strong emotional connection and a sense of passion. The image also captures a tender and intimate moment between the two individuals. |

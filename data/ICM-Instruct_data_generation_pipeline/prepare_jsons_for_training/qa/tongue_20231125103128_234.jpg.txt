@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman wearing a white tank top? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman's facial expression playful and confident? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's facial expression in the image? | Playful and confident. |
+| What | What is the woman's hair color in the image? | Brown. |
+| How | How is the woman's tongue positioned in the image? | Sticking out. |
+| How | How would you describe the atmosphere created by the woman's expression and pose in the image? | Alluring and intriguing. |

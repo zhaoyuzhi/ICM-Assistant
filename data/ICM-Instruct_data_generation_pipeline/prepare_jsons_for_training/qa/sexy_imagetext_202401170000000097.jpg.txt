@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blazer? | Yes. |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Is the woman holding the man's tie with both hands? | Yes. |
+| Yes/No | Is the man looking down at the woman? | Yes. |
+| Yes/No | Does the image depict a moment of intimacy between the two characters? | Yes. |
+| What | What is the woman doing to the man's tie? | She is lifting it. |
+| What | What is the color contrast between the woman's blazer and the man's shirt? | White and blue. |
+| How | How is the woman holding the man's tie? | With both hands. |
+| How | How does the image capture the atmosphere of the moment? | It captures a moment of connection and intimacy between the two characters, creating a sensual and alluring atmosphere. |

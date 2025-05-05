@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing red nail polish? | Yes. |
+| Yes/No | Does the woman have her tongue sticking out in the image? | Yes. |
+| Yes/No | Are the woman's eyes closed in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image playful? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive? | Yes. |
+| What | What is the woman's facial expression in the image? | Duck face. |
+| What | What is the overall mood of the image? | Playful and seductive. |
+| How | How does the woman's red nail polish contribute to the image's atmosphere? | It adds a touch of boldness and confidence to her appearance. |
+| How | How does the closed eyes and upward gaze contribute to the image's atmosphere? | It suggests a sense of vulnerability and invitation. |

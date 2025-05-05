@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a tank top? | Yes. |
+| Yes/No | Is the tank top black and white striped? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Does the tank top appear to be tight-fitting? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person wearing in the image? | A black and white striped tank top. |
+| What | What is the person's physique like in the image? | The person's physique is visible and appears toned. |
+| How | How is the person's back exposed in the image? | The person's back is exposed due to the large area of their back being visible. |
+| How | How does the black and white striped tank top add to the person's appearance? | The black and white striped tank top adds a sense of style and confidence to the person's appearance. |

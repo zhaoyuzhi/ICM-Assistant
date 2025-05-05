@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person posing for the photo? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image showcase the person's body in a vulnerable way? | Yes. |
+| Yes/No | Does the person's attire add to the casual and relaxed atmosphere of the image? | Yes. |
+| What | What is the person wearing in the image? | Blue jeans and a white shirt. |
+| What | What is the person's pose in the image? | Standing and posing. |
+| How | How does the image create a sense of intimacy? | Through the exposure of the belly and the closeup nature of the photo. |
+| How | How does the person's attire contribute to the image's atmosphere? | The blue jeans and white shirt add to the casual and relaxed atmosphere. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest a casual atmosphere? | Yes. |
+| Yes/No | Is the person's attire casual? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the main focus of the image? | The person's belly. |
+| How | How does the image evoke a sense of sensuality and allure? | Through the combination of the person's skin and casual clothing. |
+| How | How does the image capture a moment of vulnerability and confidence? | Through the exposure of the person's belly and the casual attire. |

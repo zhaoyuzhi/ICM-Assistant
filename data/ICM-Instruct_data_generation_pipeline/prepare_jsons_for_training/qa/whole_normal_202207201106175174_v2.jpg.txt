@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink robe? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Are the woman's heels white? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the woman's outfit include a tie at the waist? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| What | What color is the woman's robe? | Pink. |
+| What | What is the woman's hair style? | Loose waves. |
+| How | How is the woman's robe cinched at the waist? | With a tie. |
+| How | How do the woman's heels contribute to her overall look? | They add an extra touch of sophistication to her attire. |

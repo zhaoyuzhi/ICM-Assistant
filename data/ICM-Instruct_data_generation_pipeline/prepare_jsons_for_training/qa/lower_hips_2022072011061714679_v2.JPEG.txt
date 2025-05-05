@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray bodysuit? | Yes. |
+| Yes/No | Are the black stripes on the sides of the bodysuit? | Yes. |
+| Yes/No | Is the bodysuit form-fitting? | Yes. |
+| Yes/No | Are the white sneakers contrasting with the gray of the bodysuit? | Yes. |
+| Yes/No | Is the person standing against a white background? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the stripes on the bodysuit? | Black. |
+| What | What type of shoes is the person wearing? | White sneakers. |
+| How | How does the gray bodysuit accentuate the person's curves? | It is formfitting, emphasizing the person's lower body. |
+| How | How does the white background highlight the person's outfit? | It creates a contrast that draws attention to the person and their attire, making the image feel more intimate and alluring. |

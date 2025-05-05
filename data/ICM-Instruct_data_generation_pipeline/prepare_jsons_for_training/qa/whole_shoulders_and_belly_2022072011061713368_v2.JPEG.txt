@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray sweatshirt? | Yes. |
+| Yes/No | Are the woman's leggings maroon? | Yes. |
+| Yes/No | Is the woman's body facing the camera? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's outfit casual and sporty? | Yes. |
+| Yes/No | Is the woman's pose suggestive or seductive? | Yes. |
+| What | What color is the woman's sweatshirt? | Gray. |
+| What | What is the woman's pose in the image? | Arms on head, body facing camera. |
+| How | How does the woman's outfit suggest confidence and self-assuredness? | The strapless or midriffbaring outfit exposes her midriff and abdominal area, which is often associated with confidence and selfassurance. |
+| How | How does the woman's pose contribute to the overall allure of the image? | The woman's pose, with her arms on her head, adds to the seductive atmosphere and draws the viewer's attention. |

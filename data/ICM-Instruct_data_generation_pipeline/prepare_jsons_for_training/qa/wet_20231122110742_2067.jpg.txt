@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image standing in the swimming pool? | Yes. |
+| Yes/No | Is the man wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's arms stretched out in front of him? | Yes. |
+| Yes/No | Is the man looking down at the water? | Yes. |
+| Yes/No | Is the pool surrounded by a tiled wall? | Yes. |
+| Yes/No | Is there a fountain in the background? | Yes. |
+| What | What is the man's pose in the image? | He has his arms stretched out in front of him. |
+| What | What is the color of the man's t-shirt? | White. |
+| How | How does the man's wet clothes contribute to the overall atmosphere of the image? | They evoke a sense of intimacy and allure. |
+| How | How does the tiled wall and fountain in the background complement the man's figure? | They provide a visually appealing setting that complements the man's figure and adds to the overall atmosphere of the image. |

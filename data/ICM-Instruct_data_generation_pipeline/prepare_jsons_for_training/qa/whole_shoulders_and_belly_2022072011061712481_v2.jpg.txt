@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image posing with her hands on her hips? | Yes. |
+| Yes/No | Are jeans a casual and comfortable choice of clothing? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the woman's pose reveal her midriff? | Yes. |
+| Yes/No | Is the lace-up neckline a touch of elegance to her outfit? | Yes. |
+| What | What is the woman wearing on her upper body? | A blue strapless top with a laceup neckline. |
+| What | What is the woman's pose in the image? | She is posing with her hands on her hips. |
+| How | How does the woman's outfit create an image that is both visually appealing and evokes a sense of allure and confidence? | The combination of the strapless top, laceup neckline, and jeans creates a sexy and confident image, and her pose with her hands on her hips adds to the confidence and allure of the image. |
+| How | How does the image evoke a sense of allure and confidence? | The image evokes a sense of allure and confidence through the woman's pose, outfit, and the combination of sexy and elegant elements. |

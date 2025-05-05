@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a clipboard? | Yes. |
+| Yes/No | Is the man in the image holding a book? | Yes. |
+| Yes/No | Are the people in the image walking down a street? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Are the people in the image dressed formally? | Yes. |
+| What | What is the woman holding in the image? | A clipboard. |
+| What | What is the man holding in the image? | A book. |
+| How | How are the people in the image dressed? | The woman is wearing a blue blazer, and the man is wearing a black jacket. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is not sexy, it's more focused on the everyday activities of the two individuals rather than their physical appearance. |

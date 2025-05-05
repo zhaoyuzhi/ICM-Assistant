@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman's hair long and black? | Yes. |
+| Yes/No | Is the woman standing in a living room? | Yes. |
+| Yes/No | Is there a couch in the background of the image? | Yes. |
+| Yes/No | Is the woman lifting her dress? | Yes. |
+| Yes/No | Are the woman's high heels visible in the image? | Yes. |
+| What | What is the woman lifting her dress? | Her white dress with a ruffled skirt. |
+| What | What is the color of the woman's dress? | White. |
+| How | How is the woman standing in the image? | Confidently. |
+| How | How does the woman's action of lifting her dress create an atmosphere? | It creates an atmosphere of allure and sensuality. |

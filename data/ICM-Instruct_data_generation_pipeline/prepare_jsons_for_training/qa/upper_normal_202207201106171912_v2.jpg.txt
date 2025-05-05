@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Is the woman's hair styled in a neat bun? | Yes. |
+| Yes/No | Is the woman wearing earrings? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What is the woman's facial expression? | Smiling and looking off to the side. |
+| What | What is the primary focus of the image? | The woman's face and upper body. |
+| How | How is the woman's pose in the image? | Casual and relaxed. |
+| How | How does the image's low exposure level affect the focus of the image? | It emphasizes the woman's face and upper body. |

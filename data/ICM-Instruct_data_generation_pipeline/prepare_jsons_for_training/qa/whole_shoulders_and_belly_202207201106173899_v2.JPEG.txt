@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Are there boxes in the background of the image? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| What | What is the color of the woman's top? | White. |
+| What | What is the color of the woman's jeans? | Blue. |
+| How | How is the woman posing in the image? | With her hands on her hips and looking directly at the camera. |
+| How | How would you describe the atmosphere of the image? | Sexy. |

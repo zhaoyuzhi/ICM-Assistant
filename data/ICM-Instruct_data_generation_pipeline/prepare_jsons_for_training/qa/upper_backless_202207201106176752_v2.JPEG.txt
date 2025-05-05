@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image sitting on a pink wall? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A white sweater. |
+| What | What is the dominant color of the background in the image? | Pink. |
+| How | How is the woman in the image posing? | She is sitting on a pink wall with her arm resting on her knee and her gaze directed over her shoulder. |
+| How | How would you describe the atmosphere created by the combination of the woman's attire and the background? | Visually appealing and alluring. |

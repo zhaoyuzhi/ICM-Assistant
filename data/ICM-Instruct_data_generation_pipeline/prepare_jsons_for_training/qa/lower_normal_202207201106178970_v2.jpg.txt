@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a t-shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man's watch visible in the image? | Yes. |
+| Yes/No | Is the man standing in a provocative or explicit pose? | No. |
+| Yes/No | Is the man's attire revealing or suggestive? | No. |
+| Yes/No | Does the image depict a sexy or explicit atmosphere? | No. |
+| What | What color are the man's sweatpants? | Gray. |
+| What | What is the man wearing on his left wrist? | A watch. |
+| How | How are the man's hands positioned in the image? | Casually tucked into the pockets of his sweatpants. |
+| What | What is the overall atmosphere of the image? | Casual and nonthreatening. |

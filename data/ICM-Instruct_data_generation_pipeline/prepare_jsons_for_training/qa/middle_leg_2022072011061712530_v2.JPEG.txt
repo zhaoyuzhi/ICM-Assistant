@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Is the woman looking down at her skirt? | Yes. |
+| Yes/No | Is the woman holding a woven purse in her left hand? | Yes. |
+| Yes/No | Does the denim skirt have a frayed hem? | Yes. |
+| Yes/No | Is the white t-shirt complementing the skirt? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman holding in her left hand? | A woven purse. |
+| What | What is the color of the woman's t-shirt? | White. |
+| How | How is the woman adjusting her skirt? | She is looking down at it and appears to be adjusting it. |
+| How | How does the high-waisted skirt add an element of intrigue and mystery to the image? | It creates a sense of concealment and draws attention to the woman's waistline. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman's body exposed in the image? | Yes. |
+| Yes/No | Is the doll positioned next to the woman's head? | Yes. |
+| Yes/No | Is the woman looking at the camera? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Does the woman's bikini feature a striped pattern? | Yes. |
+| What | What is the woman's body position in the image? | She is lying on her stomach. |
+| What | What is the woman's facial expression in the image? | She is looking at the camera. |
+| How | How is the woman interacting with the doll in the image? | She is resting her head on the doll. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is sexy and alluring. |

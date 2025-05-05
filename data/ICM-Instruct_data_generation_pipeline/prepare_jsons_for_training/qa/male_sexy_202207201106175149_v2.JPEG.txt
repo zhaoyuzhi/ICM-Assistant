@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing underwear? | Yes. |
+| Yes/No | Is the underwear blue and black patterned? | Yes. |
+| Yes/No | Is the man standing with his hands on his hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the man wearing underneath his underwear? | Nothing (he is topless). |
+| What | What is the color and pattern of the man's underwear? | Blue and black patterned. |
+| How | How is the man standing in the image? | With his hands on his hips. |
+| How | How does the image make you feel? | It could make you feel a sense of intimacy and vulnerability, and the blue and black patterned underwear adds a touch of color and detail that can contribute to a visually appealing image. The man's pose with his hands on his hips also adds a confident and assertive vibe that can be perceived as sexy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image standing on the beach? | Yes. |
+| Yes/No | Is the woman in the image posing in a playful or confident manner? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman in the image alone in the image? | Yes. |
+| What | What is the woman in the image wearing on her lower body? | Bikini bottoms. |
+| What | What is the woman in the image wearing on her upper body? | Bikini top. |
+| How | How is the woman in the image standing? | With her left hand on her hip and her right hand on her thigh. |
+| How | How does the woman in the image appear to be feeling? | She appears to be enjoying herself and feeling confident. |

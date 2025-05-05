@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a pink stool? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing yellow sandals? | Yes. |
+| Yes/No | Are the person's arms resting on their knees? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's sandals? | Yellow. |
+| What | What is the color of the stool that the person is sitting on? | Pink. |
+| How | How are the person's legs positioned in the image? | The person's legs are bent at the knees and resting on the stool. |
+| How | How does the image create a sense of allure and intrigue? | The image creates a sense of allure and intrigue through the person's pose, the colorful elements in the image, and the focus on the person's legs and feet. |

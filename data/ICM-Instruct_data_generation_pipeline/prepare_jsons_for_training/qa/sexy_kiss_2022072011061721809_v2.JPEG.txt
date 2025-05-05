@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a black shirt? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Does the image depict a moment of intense physical contact? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | A white shirt. |
+| What | What is the woman wearing? | A black shirt. |
+| How | How are the man and woman kissing? | Passionately, with their lips locked together. |
+| What | What does the image suggest about the couple's emotional connection? | A strong emotional connection, which is often associated with sexual attraction. |

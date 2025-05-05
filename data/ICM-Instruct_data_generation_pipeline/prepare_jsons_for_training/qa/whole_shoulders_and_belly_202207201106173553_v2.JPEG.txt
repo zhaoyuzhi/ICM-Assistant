@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the woman have any visible tattoos or piercings? | No. |
+| Yes/No | Is the bed in the image a double bed or larger? | No. |
+| Yes/No | Does the woman's top have sleeves? | No. |
+| Yes/No | Are there any other people or objects in the image? | No. |
+| What | What color is the woman's top? | Blue and white polka dot. |
+| What | What is the woman sitting on? | White sheets and a white pillow. |
+| How | How is the woman's top tied at the neck? | It is tied with a bow. |
+| What | What creates a cozy and intimate atmosphere in the image? | The combination of the woman's outfit and the setting, specifically the white sheets and pillow, create a cozy and intimate atmosphere. |

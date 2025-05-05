@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige dress? | Yes. |
+| Yes/No | Is the woman lifting her dress with her left hand? | Yes. |
+| Yes/No | Are her legs and thighs revealed due to lifting the dress? | Yes. |
+| Yes/No | Is the background of the image a gray curtain? | Yes. |
+| Yes/No | Does the shiny material of the dress add glamour to her outfit? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman lifting her dress with? | Her left hand. |
+| What | What color is the curtain in the background? | Gray. |
+| How | How does the woman's pose contribute to the atmosphere of the image? | It adds to the overall allure and sensuality of the image. |
+| How | How does the shiny material of the dress contribute to the atmosphere of the image? | It adds to the glamour and makes the image feel more seductive. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the man in the image wearing a beige jacket? | Yes. |
+| Yes/No | Is the image set in a video game? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Is the focus of the image on the man's movement? | Yes. |
+| What | What is the man in the image wearing? | A white shirt and a beige jacket. |
+| What | What is the setting of the image? | A video game. |
+| How | How is the image lit? | Low exposure, dark and not welllit. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It contributes to a lack of sexy content and focuses attention on the man's movement and attire rather than potential sexual content. |

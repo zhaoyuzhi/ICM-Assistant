@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing in front of a construction site? | Yes. |
+| Yes/No | Are the man's arms flexed in the image? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| Yes/No | Is the construction site in the background of the image? | Yes. |
+| Yes/No | Does the man's muscular physique suggest strength and confidence? | Yes. |
+| What | What is the man wearing in the image? | A pair of white underwear. |
+| What | What is visible behind the man in the image? | A ladder. |
+| How | How is the man standing in the image? | With his arms flexed. |
+| How | How does the construction site in the background add to the image's atmosphere? | It adds an element of intrigue and allure. |

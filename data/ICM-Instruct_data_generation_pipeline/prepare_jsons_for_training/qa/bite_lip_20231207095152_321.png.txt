@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the image focused on the person's face? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and allure? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's face? | Yes. |
+| What | What is the person in the image doing with their lip? | Biting. |
+| What | What is the background of the image? | Blurred. |
+| How | How does the image create a sense of intimacy and allure? | Through a closeup of the person's face, a lip biting gesture, and a blurred background. |
+| How | How does the blurred background contribute to the image's atmosphere? | It draws attention to the person's face and expression, emphasizing their vulnerability and sensuality. |

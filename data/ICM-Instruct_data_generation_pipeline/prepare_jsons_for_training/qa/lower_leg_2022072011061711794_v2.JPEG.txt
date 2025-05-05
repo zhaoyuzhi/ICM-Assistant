@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing heels? | Yes. |
+| Yes/No | Is the dress floral? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the person's sleeves long? | Yes. |
+| What | What color are the heels? | Beige. |
+| What | What pattern is the dress? | Floral. |
+| How | How would you describe the atmosphere of the image? | Sexy, elegant, feminine, delicate, intimate, alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of purple shorts? | Yes. |
+| Yes/No | Does the person have a confident and relaxed pose in the image? | Yes. |
+| Yes/No | Is the purple sweatshirt matching the color of the shorts? | Yes. |
+| Yes/No | Does the image depict a person of a specific age or gender? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the drawstring waist of the shorts add a touch of casualness to the overall look? | Yes. |
+| What | What is the color of the shorts and sweatshirt in the image? | Purple. |
+| What | What is the person's pose in the image? | Confident and relaxed. |
+| How | How does the drawstring waist of the shorts contribute to the overall look of the image? | It adds a touch of casualness to the overall look. |
+| How | How does the combination of the purple shorts and sweatshirt create a cohesive outfit? | It creates a stylish and coordinated outfit. |

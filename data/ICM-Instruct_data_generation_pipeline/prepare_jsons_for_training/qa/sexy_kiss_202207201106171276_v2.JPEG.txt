@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the two men in the image kissing? | Yes. |
+| Yes/No | Is the man on the left wearing a white t-shirt? | Yes. |
+| Yes/No | Is the man on the right wearing a black t-shirt? | Yes. |
+| Yes/No | Is the image set in a field? | Yes. |
+| Yes/No | Does the image evoke feelings of love and desire? | Yes. |
+| What | What is the color of the man's t-shirt on the left? | White. |
+| What | What is the color of the man's t-shirt on the right? | Black. |
+| How | How are the two men positioned in the image? | They are standing and embracing, with their lips locked in a kiss. |
+| How | How does the natural setting of the image contribute to its overall mood? | The serene field creates a sense of tranquility and adds to the intimate and romantic atmosphere of the image. |

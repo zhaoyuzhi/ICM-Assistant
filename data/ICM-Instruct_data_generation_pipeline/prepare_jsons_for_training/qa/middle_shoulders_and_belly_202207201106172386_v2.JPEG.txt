@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person wearing a gray sweater? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person's posture suggest confidence? | Yes. |
+| How | Does the image showcase the person's body in a confident and uninhibited manner? | Yes. |
+| What | What is the person's belly exposed? | The person's belly is exposed because they are wearing a cropped top or a shirt that is rolled up, revealing their midriff. |
+| What | What is the atmosphere created by the image? | The atmosphere created by the image is sexy, confident, and relaxed. |
+| How | How does the person's posture suggest confidence? | The person's posture suggests confidence because they are standing or sitting up straight with their shoulders back, and their head held high. |
+| How | How does the image highlight the person's physical attributes? | The image highlights the person's physical attributes by focusing on their belly and showcasing their body in a way that emphasizes their curves and muscles. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Is the person's belly the main focus of the image? | Yes. |
+| Yes/No | Are the person's movements discernible from the image? | No. |
+| Yes/No | Is the exposure level in the image minimal? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the person in the image wearing? | Blue jeans and a gray sweater. |
+| What | What is the focal point of the image? | The person's belly. |
+| How | How does the image make the person's belly the focal point? | The image uses a closeup view and a neutral backdrop to emphasize the person's belly, making it the main focus of the image. |
+| How | How does the image create an intimate and alluring atmosphere? | The image uses casual clothing, minimal exposure level, and a neutral backdrop to create an intimate and alluring atmosphere. The closeup view of the person's belly also adds to the overall sense of sensuality and allure. |

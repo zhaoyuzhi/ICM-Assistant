@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Are their legs crossed? | Yes. |
+| Yes/No | Is the bed covered with a white comforter and a pillow? | Yes. |
+| Yes/No | Does the image have an intimate and seductive atmosphere? | Yes. |
+| What | What is the person wearing on their lower body? | Black shorts. |
+| What | What is the color of the stockings the person is putting on? | Beige. |
+| How | How are the person's legs positioned? | Crossed. |
+| How | How does the person hold their hands? | On their knees. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person's attire considered casual and comfortable? | Yes. |
+| Yes/No | Is the person in the process of putting on beige stockings? | Yes. |
+| Yes/No | Are their legs crossed? | Yes. |
+| Yes/No | Does the image have an intimate and seductive atmosphere? | Yes. |
+| What | What is the person in the image wearing on their legs? | Beige stockings. |
+| What | What is the color of the comforter and pillow on the bed? | White. |
+| How | How are the person's hands positioned in the image? | On their knees. |
+| How | How does the person appear in the image? | Relaxed and comfortable. |

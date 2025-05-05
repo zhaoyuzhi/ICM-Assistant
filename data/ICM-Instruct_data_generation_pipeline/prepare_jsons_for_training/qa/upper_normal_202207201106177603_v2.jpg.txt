@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue polo shirt? | Yes. |
+| Yes/No | Is the chair the woman is sitting on orange? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and casual? | Yes. |
+| What | What is the color of the woman's polo shirt? | Blue. |
+| What | What is the color of the chair the woman is sitting on? | Orange. |
+| How | How is the woman posing in the image? | Relaxed. |
+| How | How does the woman appear to be looking? | Off to the side. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the man standing with his feet shoulder-width apart? | No. |
+| Yes/No | Does the image contain any objects other than the man? | No. |
+| Yes/No | Is the man's body facing the camera? | Yes. |
+| Yes/No | Is the man's attire form-fitting? | Yes. |
+| What | What is the man wearing on his legs? | Black leggings. |
+| What | What is the man's pose in the image? | Standing with his hands on his hips. |
+| How | How is the man standing in the image? | Barefoot. |
+| How | How does the man's attire accentuate his physique? | The black leggings accentuate his muscular physique. |

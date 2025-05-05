@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the device in the person's hand an iPod? | Yes. |
+| Yes/No | Is the person wearing a belt in the image? | Yes. |
+| Yes/No | Is the person's tattoo visible in the image? | Yes. |
+| Yes/No | Does the image provide any additional details about the person's appearance or surroundings? | No. |
+| What | What is the person holding in their hand? | An iPod. |
+| What | What color is the person's shirt? | Green. |
+| How | How is the person's belly exposed in the image? | The person's shirt is raised, revealing their belly. |
+| How | How does the image create an atmosphere that is both alluring and intriguing? | The combination of the person's exposed belly, iPod, and tattoo creates a sense of sensuality, style, and confidence. |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is the iPod white? | Yes. |
+| Yes/No | Is the cord black? | Yes. |
+| Yes/No | Is the person's hand positioned over their belly? | Yes. |
+| Yes/No | Are they looking down at the iPod? | Yes. |
+| What | What color is the person's shirt? | Green. |
+| What | What is the person holding in their hand? | An iPod. |
+| How | How is the person holding the iPod? | The person is holding the iPod with their hand positioned over their belly. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is casual and relaxed. |

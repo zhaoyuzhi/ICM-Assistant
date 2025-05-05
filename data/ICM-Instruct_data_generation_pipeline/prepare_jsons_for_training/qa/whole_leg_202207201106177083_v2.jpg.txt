@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Does the woman in the image have her hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the woman in the image looking at the camera? | Yes. |
+| How | Does the image show the woman's thighs? | No. |
+| Yes/No | Is the woman in the image sitting on a couch? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A white shirt. |
+| What | What is the woman in the image wearing on her lower body? | A black skirt. |
+| How | How is the woman's hair styled in the image? | Pulled back into a ponytail. |
+| How | How is the woman looking at the camera in the image? | With a smile and a sense of confidence. |

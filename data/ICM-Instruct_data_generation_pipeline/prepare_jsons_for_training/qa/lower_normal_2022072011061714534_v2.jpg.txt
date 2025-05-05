@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's feet crossed at the ankles? | Yes. |
+| Yes/No | Is the person wearing a watch on their left wrist? | Yes. |
+| Yes/No | Is the stool black and made of wood? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What is the color of the stool? | Black. |
+| How | How are the person's hands positioned? | Resting on their knees. |
+| How | How does the green plant in the background contribute to the image's atmosphere? | It adds a touch of nature to the scene. |

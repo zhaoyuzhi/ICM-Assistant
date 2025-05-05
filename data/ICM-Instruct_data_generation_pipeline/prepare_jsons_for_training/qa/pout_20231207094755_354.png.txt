@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman making a playful face? | Yes. |
+| Yes/No | Is the woman winking in the image? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's facial expression confident? | Yes. |
+| Yes/No | Is the image alluring? | Yes. |
+| What | What is the woman's hair color in the image? | Blonde. |
+| What | What is the woman doing with her tongue in the image? | Sticking it out. |
+| How | How is the woman posing in the image? | Playfully and seductively. |
+| How | How does the image make some viewers feel? | Intrigued and desirous. |

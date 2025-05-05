@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the woman in the image wearing a suit? | Yes. |
+| Yes/No | Are the man and woman walking in the same direction? | Yes. |
+| Yes/No | Is the image set in a workplace or office environment? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual or provocative context? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man in the image wearing? | A gray suit and tie. |
+| What | What is the woman in the image wearing? | A blue suit and tie. |
+| How | How are the man and woman moving in the image? | They are walking together in the same direction. |
+| What | What does the low exposure level of the image suggest about its content? | It suggests that the image is not provocative or suggestive. |

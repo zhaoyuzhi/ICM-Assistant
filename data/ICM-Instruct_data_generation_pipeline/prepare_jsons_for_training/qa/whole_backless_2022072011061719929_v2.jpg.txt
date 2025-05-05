@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red satin nightgown? | Yes. |
+| Yes/No | Does the nightgown have thin straps? | Yes. |
+| Yes/No | Does the nightgown have a low neckline? | Yes. |
+| Yes/No | Is the woman standing against a white wall? | Yes. |
+| Yes/No | Is the woman's back facing the camera? | Yes. |
+| Yes/No | Does the image create an alluring contrast between the red nightgown and the white wall? | Yes. |
+| What | What is the color of the nightgown? | Red. |
+| What | What is the material of the nightgown? | Satin. |
+| How | How does the woman's pose enhance the seductive atmosphere? | The woman's pose, with her back facing the camera, invites the viewer to focus on her body and the details of her attire, creating a sense of vulnerability and allure. |
+| How | How do the thin straps of the nightgown add to the sense of vulnerability? | The thin straps of the nightgown expose the woman's shoulders and upper back, creating a sense of vulnerability and intimacy. |

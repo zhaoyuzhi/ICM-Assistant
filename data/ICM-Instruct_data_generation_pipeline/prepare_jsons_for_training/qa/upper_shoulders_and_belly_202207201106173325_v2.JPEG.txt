@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a red sequin top? | Yes. |
+| Yes/No | Does the woman have a black skirt? | Yes. |
+| Yes/No | Is the top strapless? | Yes. |
+| Yes/No | Does the skirt appear to be made of a stretchy fabric? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What is the color of the woman's top? | Red. |
+| What | What is the style of the woman's skirt? | Black. |
+| How | How does the woman's pose exude confidence and self-assuredness? | She has her hand on her hip. |
+| How | How does the combination of the red sequin top and black skirt create a striking contrast? | The contrast between the bright red and black creates a bold and eyecatching effect. |

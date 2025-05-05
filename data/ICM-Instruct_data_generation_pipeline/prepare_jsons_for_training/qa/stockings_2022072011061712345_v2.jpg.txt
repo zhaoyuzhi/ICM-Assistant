@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing fishnet stockings? | Yes. |
+| Yes/No | Is the woman standing with her legs crossed? | Yes. |
+| Yes/No | Is the woman wearing a black bra? | Yes. |
+| Yes/No | Is the woman wearing black heels? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the image in color? | No. |
+| What | What is the woman's pose in the image? | Standing with her legs crossed and her hands on her hips. |
+| What | What is the woman wearing on her feet? | Black heels. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's attire, including the fishnet stockings, black bra, and black heels, contributes to an atmosphere of confidence, allure, and sensuality. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's confident pose, with her hands on her hips and her legs crossed, adds to the atmosphere of confidence and allure in the image. |

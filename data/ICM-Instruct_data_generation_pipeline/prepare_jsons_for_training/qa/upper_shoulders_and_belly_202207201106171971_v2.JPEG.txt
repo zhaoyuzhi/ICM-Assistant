@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black long-sleeved top? | Yes. |
+| Yes/No | Are the leggings the woman is wearing gray? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's pose in the image confident and assertive? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's cropped top? | Black. |
+| What | What is the color of the leggings the woman is wearing? | Gray. |
+| How | How does the contrast between the dark and light colors contribute to the overall allure of the image? | It creates a visually appealing contrast that enhances the sexy atmosphere. |
+| How | How does the woman's confident pose with her hands on her hips enhance the sexy atmosphere? | It adds to the overall confidence and assertiveness of the image, making it more evocative. |

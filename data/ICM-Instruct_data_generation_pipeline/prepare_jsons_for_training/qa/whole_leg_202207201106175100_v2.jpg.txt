@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the woman's shorts cropped at the knee? | Yes. |
+| Yes/No | Is the woman's pose in the image confident? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Does the woman have her hands on her hips in the image? | Yes. |
+| What | What color is the woman's shirt in the image? | Black. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips. |
+| How | How does the woman's pose contribute to the sexy atmosphere in the image? | The woman's confident pose with her hands on her hips adds to the overall sensuality of the image. |
+| How | How do the woman's shorts contribute to the sexy atmosphere in the image? | The shorts are cropped at the knee, revealing her thighs and creating a sense of intimacy and allure. |

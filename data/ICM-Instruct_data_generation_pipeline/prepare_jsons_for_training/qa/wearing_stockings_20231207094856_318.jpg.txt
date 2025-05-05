@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a wooden floor? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the person's sweater? | White. |
+| How | How does the person's sitting position contribute to the image's sexy appeal? | The person's crossed legs create a sense of intimacy and sensuality. |
+| How | How does the contrast between the black stockings and white sweater contribute to the image's sexy appeal? | The contrast creates a visual interest and draws the viewer's attention to the person's legs, making the image more alluring. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a wooden floor? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing on their upper body? | A white sweater. |
+| What | What is the person's legwear? | Black stockings. |
+| How | How is the person sitting on the floor? | Crosslegged. |
+| How | How does the image evoke feelings in the viewer? | Intimate and sensual; desire and allure. |

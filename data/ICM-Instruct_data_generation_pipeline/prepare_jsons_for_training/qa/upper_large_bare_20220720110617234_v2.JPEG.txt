@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the person in the image standing next to someone else? | Yes. |
+| Yes/No | Is the person in the image exposing a large area of their upper body? | Yes. |
+| Yes/No | Is the person in the image wearing a green and white swimsuit? | Yes. |
+| Yes/No | Is the person in the image standing in a close proximity to the other person? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the bikini top worn by the person in the image? | Blue. |
+| What | What is the color of the choker worn by the person in the sailor suit? | Blue. |
+| How | How is the person in the image standing next to the other person? | The person is standing next to the other person with their shoulders touching. |
+| How | How does the blue choker contribute to the overall atmosphere of the image? | The blue choker adds to the sensuality of the scene and enhances the allure of the image. |

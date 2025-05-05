@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray sweatshirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's left hand holding their belt loop? | Yes. |
+| Yes/No | Is the person's right hand resting on their hip? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image have a sexual context? | No. |
+| What | What is the person's attire in the image? | Gray sweatshirt and blue jeans. |
+| What | What is the person's posture in the image? | Standing with a relaxed posture. |
+| How | How is the person's left hand positioned in the image? | Holding their belt loop. |
+| How | How is the person's right hand positioned in the image? | Resting on their hip. |
+| Yes/No | Is the person in the image wearing a gray sweatshirt? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the person's other hand placed on their hip? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image reveal any intimate details? | No. |
+| What | What color is the person's sweatshirt? | Gray. |
+| What | What is the person's posture like? | They are standing with one hand on their hip and the other holding their pants up. |
+| How | How is the person's hand positioned on their hip? | Their hand is placed on their hip. |
+| How | How are the person's pants being held up? | They are being held up with one hand. |

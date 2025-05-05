@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the text on the man's shirt readable? | Yes. |
+| Yes/No | Does the text on the man's shirt include the word "TRUTH"? | Yes. |
+| Yes/No | Is the man wearing a baseball cap? | Yes. |
+| Yes/No | Is the building in the background gray? | Yes. |
+| Yes/No | Is the man the only person in the image? | Yes. |
+| What | What is the color of the man's watch? | The color of the man's watch cannot be determined from the description. |
+| What | What is the man's facial expression? | The man's facial expression cannot be determined from the description. |
+| How | How is the man standing in relation to the building? | The man is standing in front of the building. |
+| How | How does the man's attire contribute to the overall atmosphere of the image? | The man's casual attire and lack of provocative actions contribute to a calm and nonsexual atmosphere. |

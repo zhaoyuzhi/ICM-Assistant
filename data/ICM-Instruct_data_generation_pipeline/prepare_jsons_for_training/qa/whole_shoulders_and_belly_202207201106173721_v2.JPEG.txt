@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the shorts the woman is wearing cropped at the waist? | Yes. |
+| Yes/No | Does the top have a sweetheart neckline? | Yes. |
+| Yes/No | Is the checkered pattern on the top in shades of pink and white? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | Yes. |
+| Yes/No | Does the woman's outfit include a strapless top and cropped shorts? | Yes. |
+| What | What is the woman wearing on her top? | A checkered pattern in shades of pink and white. |
+| What | What is the woman's top features? | A sweetheart neckline. |
+| How | How does the woman's choice of clothing contribute to the image's atmosphere? | The combination of a strapless top and cropped shorts creates a sexy and alluring atmosphere. |
+| How | How does the checkered pattern on the top contribute to the image's overall aesthetic? | The checkered pattern adds a playful and feminine touch to the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's pants black? | Yes. |
+| Yes/No | Is the man smiling in the image? | Yes. |
+| Yes/No | Does the image depict a professional or formal setting? | Yes. |
+| Yes/No | Is the image a close-up shot? | No. |
+| Yes/No | Does the image evoke any sexual or provocative feelings? | No. |
+| What | What is the man's facial expression in the image? | Relaxed and friendly. |
+| What | What is the focus of the image? | The man's facial expression and body language. |
+| How | How is the man standing in the image? | With his hands clasped together in front of him and a relaxed posture. |
+| How | How would you describe the overall atmosphere of the image? | Calm and pleasant. |

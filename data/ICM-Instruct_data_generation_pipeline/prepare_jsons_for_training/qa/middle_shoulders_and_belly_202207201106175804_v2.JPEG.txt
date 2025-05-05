@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image suggest a casual, everyday setting? | Yes. |
+| Yes/No | Is the person's posture relaxed? | Yes. |
+| Yes/No | Does the image feature any additional details about the person's actions or the surrounding environment? | No. |
+| What | What is the main focus of the image? | The person's belly. |
+| What | What is the atmosphere of the image? | Inviting and seductive. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The casual setting and relaxed posture contribute to the inviting and seductive atmosphere. |
+| How | How does the exposure of the person's belly contribute to the overall atmosphere of the image? | The exposure of the person's belly creates a sense of intimacy and allure, which contributes to the overall atmosphere of the image. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image set in a casual, relaxed setting? | Yes. |
+| Yes/No | Does the image suggest intimacy and vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the main focus of the image? | The person's belly. |
+| What | What is the person's attire in the image? | White shirt and blue jeans. |
+| How | How does the image create a sense of intimacy and vulnerability? | Through the exposure of the person's belly and the relaxed, casual setting. |
+| How | How does the image convey a sense of sensuality and allure? | Through the combination of the person's attire, the exposed belly, and the relaxed posture, which create a sense of intimacy and vulnerability. |

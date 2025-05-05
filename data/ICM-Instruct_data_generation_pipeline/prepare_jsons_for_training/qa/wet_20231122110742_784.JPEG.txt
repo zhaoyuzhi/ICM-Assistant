@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a dress shirt? | Yes. |
+| Yes/No | Is the man wearing a tie? | Yes. |
+| Yes/No | Are the man's clothes wet? | Yes. |
+| Yes/No | Is the man holding a white bag? | Yes. |
+| Yes/No | Is the man standing in front of a turnstile? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man holding in his hand? | A white bag. |
+| What | What is the man's posture suggesting? | That he is either in a hurry or trying to maintain a professional appearance despite his wet clothes. |
+| How | How is the man's shirt soaked? | It is likely due to his clothes being wet. |
+| How | How does the image create an intriguing contrast? | The combination of the man's wet clothes and his formal attire creates an intriguing contrast that can be perceived as alluring or provocative. |

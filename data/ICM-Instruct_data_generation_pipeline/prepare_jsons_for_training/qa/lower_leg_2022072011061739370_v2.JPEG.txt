@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a denim jacket? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Is the person wearing blue shoes? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the person's pose confident and assertive? | Yes. |
+| Yes/No | Are the clothing items casual and comfortable? | Yes. |
+| What | What color are the person's shoes? | Blue. |
+| What | What type of clothing item is the person wearing on their lower body? | Blue jean shorts. |
+| How | How is the person standing in the image? | With their legs apart and hands on their hips. |
+| What | What atmosphere does the image convey? | Cool and relaxed. |

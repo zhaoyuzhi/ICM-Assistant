@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the bench located near a body of water? | Yes. |
+| Yes/No | Are there trees in the background of the image? | Yes. |
+| Yes/No | Is the woman wearing a yellow sweater? | Yes. |
+| Yes/No | Is the woman's face fully visible in the image? | No. |
+| What | What color is the woman's sweater? | Yellow. |
+| What | What is the woman's facial expression? | Smiling. |
+| How | How is the woman sitting on the bench? | She is sitting in a relaxed position, with her back straight and her hands in her lap. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It enhances the sense of tranquility by drawing attention to the woman's expression and the natural surroundings rather than focusing on her physical appearance. |

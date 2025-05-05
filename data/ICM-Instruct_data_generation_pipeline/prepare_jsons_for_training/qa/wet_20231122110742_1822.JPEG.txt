@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's shorts blue? | Yes. |
+| Yes/No | Is the person's t-shirt soaked? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's attire in the image? | White tshirt and blue shorts. |
+| What | What is the reason for the sexy feel in the image? | The person's soaked clothing exposing their skin. |
+| How | How does the image capture a moment of vulnerability? | The person is exposed and unguarded. |
+| How | How does the combination of casual setting and attire evoke a sense of allure and intrigue? | The contrast between the person's exposed skin and the relaxed atmosphere creates a sense of sensuality and provocativeness. |

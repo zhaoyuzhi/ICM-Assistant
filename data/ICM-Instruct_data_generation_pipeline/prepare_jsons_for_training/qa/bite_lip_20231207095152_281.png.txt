@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white striped shirt? | Yes. |
+| Yes/No | Does the woman have long blonde hair? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image create an atmosphere of intrigue and mystery? | Yes. |
+| Yes/No | Is the overall aesthetic of the image alluring? | Yes. |
+| What | What is the woman's facial expression in the image? | Serious. |
+| What | What is the woman doing with her lip in the image? | Biting it. |
+| How | How does the woman's hair contribute to the overall aesthetic of the image? | It adds to the overall alluring quality of the image. |
+| How | How does the image create an atmosphere of intrigue and mystery? | Through the combination of the woman's serious expression, biting her lip, and the black and white striped shirt. |

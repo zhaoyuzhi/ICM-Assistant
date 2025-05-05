@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black pants? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | No. |
+| Yes/No | Is the person's attire formal? | No. |
+| Yes/No | Does the image feature a plain white background? | Yes. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What color are the person's pants? | Black. |
+| What | What is the person's stance in the image? | Casual, with hands tucked into pockets. |
+| How | How are the person's pants styled? | Torn at the knees. |
+| How | How does the image's background contribute to its overall atmosphere? | The plain white background emphasizes the person's clothing and relaxed posture, rather than their physical appearance. |

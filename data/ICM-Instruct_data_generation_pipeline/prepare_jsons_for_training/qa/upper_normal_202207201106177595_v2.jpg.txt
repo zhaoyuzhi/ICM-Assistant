@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a brown turtleneck sweater? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Does the woman have her hands in her pockets? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What color is the woman's sweater? | Brown. |
+| What | What is the woman's facial expression? | Slight smile. |
+| How | How are the woman's hands positioned in the image? | Casually tucked into her pockets. |
+| How | How does the low exposure level affect the image's focus? | It emphasizes the focus on the woman's face and upper body, rather than her lower body or any suggestive poses. |

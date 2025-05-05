@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image holding a cell phone? | Yes. |
+| Yes/No | Is the man in the image standing in front of a mirror? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual and provocative? | Yes. |
+| Yes/No | Is the image sexy because of the man's attire? | Yes. |
+| Yes/No | Is the image sexy because of the man's action of taking a selfie? | Yes. |
+| What | What is the man in the image holding in his right hand? | A cell phone. |
+| What | What is the man in the image doing? | Taking a selfie. |
+| How | How is the man in the image expressing himself? | Through his attire and action of taking a selfie. |
+| How | How does the mirror in the background enhance the image? | It creates a sense of depth and adds an element of intimacy to the scene. |

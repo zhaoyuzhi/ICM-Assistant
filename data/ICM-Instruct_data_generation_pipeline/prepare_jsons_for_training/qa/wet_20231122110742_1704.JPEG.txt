@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting on a rock? | Yes. |
+| Yes/No | Is the woman's dress white? | Yes. |
+| Yes/No | Is the woman's hair wet? | Yes. |
+| Yes/No | Is the river water brown? | Yes. |
+| Yes/No | Does the image evoke a sense of adventure? | Yes. |
+| Yes/No | Does the image evoke a sense of freedom? | Yes. |
+| What | What is the woman sitting on? | A rock. |
+| What | What is the color of the woman's dress? | White. |
+| How | How is the woman's interaction with the water? | She is sitting on a rock in the river, seemingly enjoying her time in the water. |
+| How | How does the white dress contrast with the brown river water? | The white dress creates a striking contrast with the brown river water, which further emphasizes the woman's presence in the scene. |

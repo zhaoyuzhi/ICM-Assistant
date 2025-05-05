@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking a selfie? | Yes. |
+| Yes/No | Is the woman wearing a dress? | Yes. |
+| Yes/No | Is the dress light beige in color? | Yes. |
+| Yes/No | Is the fabric of the dress soft and flowing? | Yes. |
+| Yes/No | Is the woman holding a phone in her right hand? | Yes. |
+| Yes/No | Is there a mirror in the background of the image? | Yes. |
+| What | What is the woman doing in the image? | Taking a selfie. |
+| What | What is the color of the woman's dress? | Light beige. |
+| How | How is the woman posing in the image? | Standing in front of a white chair, with a sense of calm and simplicity. |
+| How | How would you describe the overall atmosphere of the image? | Minimalist, calm, and unassuming. |

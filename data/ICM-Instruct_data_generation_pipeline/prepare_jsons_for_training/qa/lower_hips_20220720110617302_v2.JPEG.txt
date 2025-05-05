@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black leggings? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Does the person have their legs apart in the image? | Yes. |
+| Yes/No | Do the black sneakers match the color of the leggings? | Yes. |
+| Yes/No | Is the overall atmosphere of the image confident and stylish? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing on their feet in the image? | Black sneakers. |
+| What | What is the design on the sides of the leggings? | Laceup. |
+| How | How are the leggings fitting the person's legs? | Formfitting. |
+| How | How does the person's pose and attire contribute to the overall atmosphere of the image? | The pose and attire create a sense of selfassuredness and a desire to be seen in a sexy light. |

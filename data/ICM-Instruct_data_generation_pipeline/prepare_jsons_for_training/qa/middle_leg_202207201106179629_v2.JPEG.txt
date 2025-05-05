@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman's blouse white? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the woman standing with her hands on her hips? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What is the color of the woman's skirt? | Black. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How does the woman's pose accentuate her figure? | By placing her hands on her hips, the woman draws attention to her waist and hips, accentuating her figure. |
+| How | How does the contrast between the black skirt and white blouse enhance the visual impact of the image? | The contrast creates a striking visual difference between the two colors, drawing the viewer's attention to the woman's body and enhancing the overall visual impact of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the skirt pink? | Yes. |
+| Yes/No | Is the person wearing a gold necklace? | Yes. |
+| Yes/No | Is the person posing for the camera? | Yes. |
+| Yes/No | Does the image reveal a significant amount of skin? | Yes. |
+| Yes/No | Does the red bow add a playful and flirtatious touch to the image? | Yes. |
+| What | What color is the bikini top? | Black. |
+| What | What is the person's pose in the image? | Hand on hip. |
+| How | How does the gold necklace contribute to the overall look of the image? | It adds a touch of elegance and sophistication. |
+| How | How does the red bow serve in the image? | It serves as a playful and flirtatious accessory. |

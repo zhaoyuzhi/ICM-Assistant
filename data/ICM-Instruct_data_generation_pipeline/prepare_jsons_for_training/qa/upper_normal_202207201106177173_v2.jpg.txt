@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blazer? | Yes. |
+| Yes/No | Is the blazer blue? | Yes. |
+| Yes/No | Is the man's dress shirt white? | Yes. |
+| Yes/No | Is the man wearing a tie? | Yes. |
+| Yes/No | Is the tie tied in a classic Windsor knot? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| What | What color is the man's blazer? | Blue. |
+| What | What is the man's pose in the image? | Standing with a relaxed vibe. |
+| How | How is the man's dress shirt tucked in? | Neatly tucked in. |
+| How | How is the man's tie tied? | Tied in a classic Windsor knot. |

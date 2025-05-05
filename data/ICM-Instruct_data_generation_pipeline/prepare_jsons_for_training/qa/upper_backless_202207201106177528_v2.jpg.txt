@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue swimsuit? | Yes. |
+| Yes/No | Is the swimsuit designed for women? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Is the swimsuit the main focus of the image? | Yes. |
+| Yes/No | Does the person's pose suggest confidence and allure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the swimsuit? | Blue. |
+| What | What is the gender of the person wearing the swimsuit? | Female. |
+| How | How much of the person's back is exposed in the image? | A large area. |
+| How | How would you describe the atmosphere of the image? | Seductive and alluring. |

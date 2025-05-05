@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of gray shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the man looking down at his phone? | Yes. |
+| Yes/No | Is the room well-lit? | Yes. |
+| Yes/No | Are there any other objects or people visible in the image? | No. |
+| What | What is the man's posture in the image? | The man's posture is relaxed and casual. |
+| What | What is the man interacting with in the image? | The man is interacting with his phone. |
+| How | How is the man's attire in the image? | The man's attire is simple and casual, consisting of a white tshirt and gray shorts. |
+| How | How does the overall atmosphere of the image contribute to the lack of sexuality in the scene? | The overall atmosphere of the image is calm and nonthreatening, which further contributes to the lack of sexuality in the scene. |
+| Yes/No | Is the man in the image wearing a pair of olive green shorts? | Yes. |
+| Yes/No | Does the man have a small pocket on the left side of his shorts? | Yes. |
+| Yes/No | Is the man wearing a white t-shirt? | Yes. |
+| Yes/No | Is the man holding a ring in his left hand? | Yes. |
+| Yes/No | Is the room in the image furnished with a wooden chair? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color are the man's shorts? | Olive green. |
+| What | What is the man holding in his left hand? | A ring. |
+| How | How is the man posing in the image? | He is looking down at his left hand, which is holding a ring. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

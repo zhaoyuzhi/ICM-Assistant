@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the person in the image posing in a confident or relaxed manner? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the main focus of the image? | The person's torso. |
+| What | What is the significance of the blue jeans in the image? | They provide a casual and relaxed look and add to the overall atmosphere. |
+| How | How does the image make the viewer feel? | The image is visually appealing and evocative, and may make the viewer feel a sense of confidence and selfassuredness. |
+| How | How does the person's pose and exposed belly contribute to the image's sex appeal? | The confident pose and exposed belly enhance the person's sensuality and allure, making the image sexier. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person's shirt white? | Yes. |
+| Yes/No | Are the person's hands in their pockets? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the color of the person's shirt? | White. |
+| How | How are the person's jeans fitting? | Tight. |
+| How | How does the person's pose contribute to the image's overall atmosphere? | Casual. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a t-shirt? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man's pose in the image relaxed? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What color are the man's shorts? | Green. |
+| What | What is the logo on the man's t-shirt? | Black. |
+| How | How would you describe the man's pose in the image? | Casual, relaxed. |

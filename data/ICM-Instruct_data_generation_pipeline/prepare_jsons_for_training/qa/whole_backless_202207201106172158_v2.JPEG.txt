@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a bun? | Yes. |
+| Yes/No | Is the woman standing with her back to the camera? | Yes. |
+| Yes/No | Is the dress the main focus of the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A black dress with a plunging neckline. |
+| What | What is the woman's pose in the image? | She is standing with her back to the camera. |
+| How | How is the woman's hair styled in the image? | It is pulled back into a bun. |
+| How | How does the woman's pose and hair styling contribute to the overall atmosphere of the image? | They add to the overall sexy atmosphere of the image by accentuating the woman's curves and creating a sense of mystery and allure. |

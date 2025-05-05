@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing black shoes? | Yes. |
+| Yes/No | Is the person in the image wearing blue socks? | Yes. |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person in the image have their legs crossed? | Yes. |
+| What | What color is the person's skirt? | Blue and white plaid. |
+| What | What color are the person's socks? | Blue. |
+| How | How does the person's pose contribute to the image's overall atmosphere? | The person's crossed legs add a sense of elegance and confidence to their pose, contributing to the seductive atmosphere of the image. |
+| How | How does the gray sweater contribute to the image's overall atmosphere? | The gray sweater adds a layer of warmth and softness to the overall image, contributing to its seductive atmosphere. |

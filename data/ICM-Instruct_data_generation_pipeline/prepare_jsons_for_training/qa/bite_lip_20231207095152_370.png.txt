@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the woman's hair gray? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a seductive or alluring atmosphere? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| What | What color is the woman's hair? | Gray. |
+| What | What is the woman's facial expression? | Serious. |
+| How | How is the woman's lipstick described? | Bold and red. |
+| How | How is the woman looking at the camera? | Directly and engagingly. |

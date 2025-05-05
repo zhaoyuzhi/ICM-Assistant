@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a thong? | Yes. |
+| Yes/No | Is the woman looking down at the floor in each photo? | Yes. |
+| Yes/No | Are the colors of the thongs pink, blue, and red? | Yes. |
+| Yes/No | Is the woman sitting on a bed in each photo? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive and provocative? | Yes. |
+| Yes/No | Does the image feature a woman in various poses? | Yes. |
+| What | What is the woman wearing in the first photo? | A pink thong. |
+| What | What is the woman wearing in the fourth photo? | A black bra. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman's midriff visible? | Yes. |
+| Yes/No | Does the woman have a purse? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Are there other people in the background? | Yes. |
+| Yes/No | Is the woman standing? | Yes. |
+| What | What is the woman holding in her left hand? | A white purse. |
+| What | What is the woman's hair style? | A bun. |
+| How | How is the woman's pose? | Confident. |
+| How | How would you describe the image's atmosphere? | Sexy/Provocative. |

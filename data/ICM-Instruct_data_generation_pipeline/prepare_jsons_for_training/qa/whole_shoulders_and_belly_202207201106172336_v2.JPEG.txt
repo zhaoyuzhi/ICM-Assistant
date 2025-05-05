@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a ruffled skirt? | Yes. |
+| Yes/No | Is the woman's left hand on her hip? | Yes. |
+| Yes/No | Is the woman's right hand resting on her thigh? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| What | What is the main focus of the image? | The woman's red dress. |
+| What | What is the color of the dress? | Red. |
+| How | How does the ruffled skirt add to the image? | It adds a sense of movement and fluidity. |
+| How | How does the woman's pose and the red color of the dress suggest a sense of confidence and allure? | The woman's pose and the red color of the dress suggest a sense of confidence and allure because they draw attention to the woman's body and create a sexy atmosphere. |

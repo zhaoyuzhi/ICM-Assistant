@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray leggings? | Yes. |
+| Yes/No | Is the person in the image bending over? | Yes. |
+| Yes/No | Are the person's buttocks prominently displayed in the image? | Yes. |
+| Yes/No | Are they wearing blue sneakers? | Yes. |
+| Yes/No | Is the image set in a kitchen? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive and inviting? | Yes. |
+| What | What color are the person's leggings? | Gray. |
+| What | What is the person's pose in the image? | Bending over. |
+| How | How are the person's buttocks displayed in the image? | Prominently. |
+| How | How would you describe the atmosphere of the image? | Casual and intimate. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray skirt? | Yes. |
+| Yes/No | Does the skirt have a slit on the side? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Are her hands placed on her hips? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's skirt? | Gray. |
+| What | What is the woman's pose in the image? | Standing with her hands placed on her hips. |
+| How | How does the slit on the skirt reveal the woman's thighs? | The slit runs up the side of the skirt, exposing the woman's thighs. |
+| How | How does the woman's pose accentuate her figure? | The pose emphasizes the woman's waist and hips, creating a more hourglass silhouette. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jean shorts? | Yes. |
+| Yes/No | Is the person in the image holding a black purse in their left hand? | Yes. |
+| Yes/No | Is the person in the image wearing white sneakers? | Yes. |
+| Yes/No | Does the image feature a wooden floor? | Yes. |
+| Yes/No | Is the person in the image standing with their legs apart? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the color of the person's top in the image? | White. |
+| What | What is the pose of the person in the image? | Standing with legs apart. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How does the image depict the person's confident and self-assuredness? | Through their pose and exposure of legs. |

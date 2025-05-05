@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the background of the image yellow? | Yes. |
+| Yes/No | Is the woman wearing a white t-shirt? | Yes. |
+| Yes/No | Are her underwear navy blue? | Yes. |
+| Yes/No | Is the woman lifting her tshirt? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| What | What color is the woman's t-shirt? | White. |
+| What | What color are the woman's underwear? | Navy blue. |
+| How | How is the woman posing in the image? | She is standing and lifting her tshirt. |
+| How | How does the image create an alluring atmosphere? | Through a combination of the woman's pose, the contrast between her clothing and the background, and the absence of other objects in the image. |

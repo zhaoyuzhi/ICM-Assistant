@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman's outfit revealing? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman's pose suggestive or explicit? | No. |
+| Yes/No | Does the image feature any sexual content? | No. |
+| Yes/No | Is the woman's top visible? | Yes. |
+| What | What is the woman wearing underneath her skirt? | A white top. |
+| What | What is the color of the woman's skirt? | Olive green. |
+| How | How does the woman's skirt fall? | To her knees. |
+| How | How does the ruffled hem of the skirt add to her outfit? | It adds a touch of detail. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image making a playful expression? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Are the woman's eyes looking directly at the camera? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Does the woman's expression convey confidence? | Yes. |
+| Yes/No | Does the image create a sense of depth? | No. |
+| What | What color is the woman's hair? | Brown. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How does the woman's expression create a sense of allure? | The woman's pouting lips and direct gaze create a sense of allure and confidence. |
+| How | How does the blue background complement the woman's presence in the image? | The cool and calming contrast of the blue background complements the woman's warm and inviting expression, creating a seductive and alluring atmosphere. |

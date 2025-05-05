@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image walking? | Yes. |
+| Yes/No | Is the man dressed in a casual outfit? | Yes. |
+| Yes/No | Does the man have a black backpack? | Yes. |
+| Yes/No | Are the man's movements unhurried? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the man wearing on his feet? | White sneakers. |
+| What | What is the man carrying? | A black backpack. |
+| How | How is the man moving? | Unhurried, suggesting a leisurely stroll. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, casual and mundane. |

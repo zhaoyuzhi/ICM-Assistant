@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image set in a public setting? | Yes. |
+| Yes/No | Are both women smiling? | Yes. |
+| Yes/No | Is the woman on the left wearing a white shirt? | Yes. |
+| Yes/No | Does the woman on the right have her hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman on the left wearing? | A white shirt. |
+| What | What is the woman on the right wearing? | A black shirt. |
+| How | How are both women styling their hair? | The woman on the left has her hair pulled back into a ponytail, while the woman on the right has her hair styled in loose waves. |
+| How | How is the image lit? | The exposure level of the image is low, suggesting that it may have been taken in a public setting where privacy is a concern. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of gray trousers? | Yes. |
+| Yes/No | Is the person's shirt beige? | Yes. |
+| Yes/No | Does the person have their hand on their hip? | Yes. |
+| Yes/No | Is the person looking downwards? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose and attire neutral? | Yes. |
+| What | What is the color of the person's trousers? | Gray. |
+| What | What is the color of the person's shirt? | Beige. |
+| How | How is the person's shirt tucked into their pants? | It is tucked in. |
+| How | How is the person's hand positioned? | It is placed on their hip. |
+| Yes/No | Is the person in the image wearing a pair of gray trousers? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the person wearing a beige shirt? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| Yes/No | Are the trousers loose-fitting? | Yes. |
+| What | What is the color of the person's shirt? | Beige. |
+| What | What is the style of the trousers' fly? | Button fly. |
+| How | How would you describe the overall atmosphere of the image? | Relaxed and informal. |
+| How | How would you describe the person's attire in the image? | Casual and comfortable. |

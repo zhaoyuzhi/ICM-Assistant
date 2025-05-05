@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white coat? | Yes. |
+| Yes/No | Is the woman in the image wearing a blue dress? | Yes. |
+| Yes/No | Are the woman's legs and thighs exposed in the image? | Yes. |
+| Yes/No | Are the white sneakers contrasting with the blue dress? | Yes. |
+| Yes/No | Does the image convey a sense of movement? | Yes. |
+| Yes/No | Does the image have a sensual and alluring atmosphere? | Yes. |
+| What | What is the woman lifting in the image? | Her dress. |
+| What | What is the color of the woman's sneakers? | White. |
+| How | How are the woman's legs and thighs exposed in the image? | She is lifting her dress. |
+| How | How does the contrast between the white sneakers and the blue dress add to the allure of the image? | It draws attention to the woman's legs and the flowing dress. |

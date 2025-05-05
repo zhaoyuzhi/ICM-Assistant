@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini two-piece? | Yes. |
+| Yes/No | Are the sunglasses worn by the woman a common beach accessory? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image feature the woman walking on the sand? | Yes. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| What | What color is the bikini worn by the woman? | Pink, blue, and green. |
+| What | What is the woman wearing on her feet? | Nothing (she is barefoot). |
+| How | How many pieces is the bikini? | Two. |
+| How | How does the woman look in the image? | Sexy. |

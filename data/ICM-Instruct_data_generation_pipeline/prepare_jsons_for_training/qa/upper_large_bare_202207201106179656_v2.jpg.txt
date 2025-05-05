@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini pink? | Yes. |
+| Yes/No | Are the straps of the bikini thin? | Yes. |
+| Yes/No | Is the woman facing the camera? | Yes. |
+| Yes/No | Is the background of the image the beach? | Yes. |
+| Yes/No | Is the ocean visible in the distance? | Yes. |
+| What | What is the color of the bikini? | Pink. |
+| What | What is the woman's pose in the image? | She is standing with her body turned towards the beach. |
+| How | How are the straps of the bikini described? | Thin. |
+| How | How does the beach setting enhance the atmosphere of the image? | It adds to the sense of relaxation, leisure, and enjoyment, which enhances the sexy atmosphere. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing socks? | Yes. |
+| Yes/No | Are the socks striped? | Yes. |
+| Yes/No | Is the man in the image posing in a confident manner? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image wearing on his lower half? | White underwear. |
+| What | What color are the socks the man is wearing? | Black and white. |
+| How | How is the man posing in the image? | With his hands on his hips. |
+| What | What atmosphere does the image create? | Confidence and allure. |

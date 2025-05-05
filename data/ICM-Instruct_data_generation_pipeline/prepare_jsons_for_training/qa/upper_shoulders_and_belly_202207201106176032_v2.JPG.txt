@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the blouse have a lace trim? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Is the woman wearing a belly chain? | Yes. |
+| Yes/No | Is the woman's pose confident? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the woman's attire in the image? | A white blouse with a lace trim and a midriffbaring design, paired with a belly chain. |
+| What | What is the sexy feature of the woman's outfit? | The midriffbaring design and the belly chain. |
+| How | How does the woman's pose contribute to the sexy atmosphere of the image? | The woman's confident pose and direct gaze at the camera enhance the sexy atmosphere of the image. |
+| How | How does the belly chain add to the sexy feel of the woman's outfit? | The belly chain adds an extra layer of intrigue and allure to the woman's look, making it sexier. |

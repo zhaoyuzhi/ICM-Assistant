@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shoes? | Yes. |
+| Yes/No | Are the shoes black? | No. |
+| Yes/No | Does the person have a chair? | Yes. |
+| Yes/No | Is the person sitting? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Are there any provocative or suggestive poses or clothing in the image? | No. |
+| What | What is the color of the person's pants? | Gray. |
+| What | What is the style of the person's shoes? | Buckle closure. |
+| How | How are the person's feet positioned? | Slightly apart. |
+| How | How would you describe the overall atmosphere of the image? | Neutral. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the person in the image putting on pink stockings? | Yes. |
+| Yes/No | Is the room in the image a bedroom or bathroom? | Yes. |
+| Yes/No | Are there clothes hanging on hangers in the closet? | Yes. |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their feet? | Pink socks. |
+| What | What is the person in the image doing? | Putting on pink stockings. |
+| How | How does the image capture a moment of intimacy and vulnerability? | The person is in a private space, such as a bedroom or bathroom, and is engaged in a personal grooming activity, which creates a sense of intimacy and vulnerability. |
+| How | How does the act of putting on stockings contribute to the sexy feel of the image? | The act of putting on stockings can be seen as sensual and alluring, as it involves the person's body and the careful application of the stockings, which adds a touch of softness and femininity to the scene. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the person in the image putting on pink stockings? | Yes. |
+| Yes/No | Is the room in the image a bedroom or bathroom? | Yes. |
+| Yes/No | Are there clothes hanging on hangers in the closet? | Yes. |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | Pink stockings. |
+| What | What color are the socks the person is wearing? | Pink. |
+| How | How is the person applying the stockings? | Carefully. |
+| What | What atmosphere does the image convey? | Intimate and alluring. |

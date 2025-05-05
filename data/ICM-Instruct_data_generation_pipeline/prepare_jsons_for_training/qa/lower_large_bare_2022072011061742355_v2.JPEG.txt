@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white lace thong? | Yes. |
+| Yes/No | Is the person in the image wearing a white bra? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the bedspread floral? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the white lace thong and bra create a contrast with the floral bedspread? | Yes. |
+| What | What is the person's attire in the image? | White lace thong and white bra. |
+| What | What is the texture of the bedspread? | Floral. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the white lace thong and bra draw attention to the person's lower body? | By creating a contrast with the floral bedspread. |

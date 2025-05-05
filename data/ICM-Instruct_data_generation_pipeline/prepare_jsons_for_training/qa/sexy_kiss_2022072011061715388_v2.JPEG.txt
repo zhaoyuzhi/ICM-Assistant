@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are they underwater? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the atmosphere in the image romantic? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing? | A white dress. |
+| What | What is the man wearing? | A white shirt. |
+| How | How does the underwater setting add to the image's atmosphere? | It creates an element of mystery and allure, making the scene more intriguing and captivating. |
+| How | How do the couple's actions contribute to the image's sensuality? | The couple's kissing enhances the sensuality of the image, making it more intimate and romantic. |

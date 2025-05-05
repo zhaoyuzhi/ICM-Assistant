@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| Yes/No | Does the image have an intense and serious atmosphere? | Yes. |
+| Yes/No | Does the woman's expression suggest vulnerability and emotional depth? | Yes. |
+| What | What is the color of the woman's top? | Black. |
+| What | What is the woman's facial expression? | Serious. |
+| How | How does the woman's biting her lip create a sense of tension and anticipation? | It suggests a level of vulnerability and emotional depth. |
+| How | How does the overall atmosphere of the image contribute to its intrigue and allure? | The serious expression and dark color create an intense atmosphere that draws the viewer in. |

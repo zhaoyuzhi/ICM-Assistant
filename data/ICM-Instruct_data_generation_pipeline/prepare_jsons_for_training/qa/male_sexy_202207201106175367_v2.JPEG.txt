@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Does the image contain any bright colors? | No. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the man's gaze directed towards his hands? | Yes. |
+| What | What is the man in the image wearing? | A pair of blue and white patterned boxer briefs. |
+| What | What is associated with the color blue and white? | Sensuality and comfort. |
+| How | How are the man's hands positioned in the image? | Placed on his hips. |
+| How | How does the man's pose and gaze contribute to the overall atmosphere of the image? | It adds to the overall allure of the image. |

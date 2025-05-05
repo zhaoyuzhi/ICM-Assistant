@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shoes? | No. |
+| Yes/No | Are the stockings in the image black? | No. |
+| Yes/No | Is the person in the image standing with their legs straight? | No. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the person in the image wearing a skirt or dress? | No. |
+| Yes/No | Are the stockings in the image patterned? | Yes. |
+| What | What color are the stockings in the image? | White. |
+| What | What is the atmosphere created by the image? | Intimacy and allure. |
+| How | How are the stockings in the image different from regular stockings? | They are lacy. |
+| How | How does the person's pose in the image contribute to the overall atmosphere? | It suggests a more relaxed and casual setting, adding to the sensuality of the image. |

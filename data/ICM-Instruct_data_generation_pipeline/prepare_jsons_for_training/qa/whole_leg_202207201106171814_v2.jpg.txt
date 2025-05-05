@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's shorts also white? | Yes. |
+| Yes/No | Does the woman have a black zipper running down the front of her shirt? | Yes. |
+| Yes/No | Is the woman wearing a blue belt? | Yes. |
+| Yes/No | Does the woman have her hands placed on her hips? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What color is the woman's belt? | Blue. |
+| What | What is the color of the buckle on the woman's belt? | White. |
+| How | How does the woman's pose accentuate her body? | The woman's pose, with her hands on her hips, emphasizes her waist and draws attention to her curves. |
+| How | How does the plain white background affect the image? | The plain white background puts the focus entirely on the woman and her outfit, making the image more visually striking and drawing attention to the woman's body. |

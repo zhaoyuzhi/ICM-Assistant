@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image holding an object? | Yes. |
+| Yes/No | Is the object yellow? | Yes. |
+| Yes/No | Is the person's shirt white? | Yes. |
+| Yes/No | Is the person wearing a beige belt? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What color is the person's skirt? | Green with a white stripe. |
+| What | What is the person holding in their hand? | Yellow object. |
+| How | How is the person standing on the stairs? | The person is standing with their feet shoulderwidth apart, facing the camera. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level emphasizes the focus on the person's clothing and actions rather than their physical appearance, creating a nonsexual atmosphere. |
+| Yes/No | Is the person in the image wearing a green skirt? | Yes. |
+| Yes/No | Is the person in the image holding a yellow object? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a beige belt? | Yes. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What is the person in the image holding in their hand? | A yellow object. |
+| What | What is the overall atmosphere of the image? | Not sexy, focuses on the person's attire and the stairs they are standing on. |
+| How | How is the person standing on the stairs? | The person is standing on the stairs, with their feet on the steps and their body upright. |
+| How | How does the image focus on the person's attire and the setting? | The image focuses on the person's attire and the setting by highlighting the green skirt, white shirt, and beige belt, and by including the stairs and the surrounding environment in the frame. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a shirt or top? | No. |
+| Yes/No | Are the person's arms visible in the image? | No. |
+| Yes/No | Is the person's head visible in the image? | No. |
+| Yes/No | Do the white shorts and shoes match? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the person in the image wearing on their feet? | White shoes. |
+| What | What is the person in the image wearing around their waist? | A pair of white shorts. |
+| How | How are the person's arms positioned in the image? | The person's arms are relaxed at their sides. |
+| How | How would you describe the person's stance in the image? | The person is standing with their legs apart, in a relaxed and confident stance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing fishnet stockings? | Yes. |
+| Yes/No | Are the fishnet stockings black? | Yes. |
+| Yes/No | Do the black high heels have a pointed toe? | Yes. |
+| Yes/No | Is the bed covered with a white comforter? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Are the fishnet stockings sheer? | Yes. |
+| What | What is the person in the image wearing on their feet? | Black high heels. |
+| What | What is the material of the black high heels? | Leather. |
+| How | How are the fishnet stockings described? | Sheer, meshlike garment that covers the legs and feet. |
+| How | How are the black high heels described? | Pointedtoe and appear to be made of leather. |

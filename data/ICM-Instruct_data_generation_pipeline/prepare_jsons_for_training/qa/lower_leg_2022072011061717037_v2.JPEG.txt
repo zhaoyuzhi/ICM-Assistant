@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Is the person wearing white shoes? | Yes. |
+| Yes/No | Are the shoes matching the shorts? | Yes. |
+| Yes/No | Is the image seductive? | Yes. |
+| Yes/No | Is the image provocative? | Yes. |
+| What | What is the primary focus of the image? | The person's legs and feet. |
+| What | What is the atmosphere of the image? | Seductive and provocative. |
+| How | How are the shorts cropped? | They are cropped at the knee. |
+| How | How does the image highlight the person's legs and feet? | It captures a closeup view of the person's legs and feet, which are the primary focus of the image. |

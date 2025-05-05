@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a dress? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Are the person's feet resting on the mat? | Yes. |
+| What | What is the person's pose in the image? | The person is sitting with their legs crossed. |
+| What | What is the main focus of the image? | The person's legs and feet are the main focus of the image. |
+| How | How does the person's attire contribute to the image's sensuality? | The person's floral dress adds a touch of elegance and femininity to the image, contributing to its sensual atmosphere. |
+| How | How does the bamboo mat complement the image's overall aesthetic? | The bamboo mat provides a natural and organic backdrop, complementing the image's intimate and sensual atmosphere. |

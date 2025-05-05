@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra gray? | Yes. |
+| Yes/No | Is the woman holding the straps of the bra with both hands? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the woman's torso visible in the image? | Yes. |
+| What | What is the woman doing in the image? | Adjusting the straps of her bra. |
+| What | What color is the bra the woman is wearing? | Gray. |
+| How | How is the woman's vulnerability conveyed in the image? | Through her act of adjusting the bra straps and the way the image captures her private moment. |
+| How | How does the gray bra add to the overall atmosphere of the image? | It adds a subtle color contrast that enhances the intimate and sensual atmosphere of the image. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra gray? | Yes. |
+| Yes/No | Is the woman adjusting the straps of the bra? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image capture a private moment? | Yes. |
+| Yes/No | Does the gray bra add a subtle color contrast to the image? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What is the color of the bra? | Gray. |
+| How | How is the woman adjusting the straps of the bra? | She is holding the straps with both hands and adjusting them. |
+| What | What atmosphere does the image convey? | Intimate and sensual. |

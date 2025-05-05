@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is the woman holding a black purse in her left hand? | Yes. |
+| Yes/No | Is the woman facing away from the camera? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the woman holding in her left hand? | A black purse. |
+| How | How is the woman posing in the image? | She is facing away from the camera, with her back exposed and her left hand holding a purse. |
+| What | What does the combination of the woman's attire and pose suggest? | It suggests a sense of confidence and allure. |

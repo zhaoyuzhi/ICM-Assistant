@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman taking off her clothes? | Yes. |
+| Yes/No | Is the background of the image black? | Yes. |
+| Yes/No | Is the woman wearing a white sweater? | Yes. |
+| Yes/No | Is the woman wearing red lace underwear? | Yes. |
+| Yes/No | Does the image provide additional context or information about the woman's actions or the overall atmosphere? | No. |
+| What | What is the woman wearing under her sweater? | Red lace underwear. |
+| What | What is the color of the background in the image? | Black. |
+| How | How does the combination of the woman's red lace underwear and the black background contribute to the image's atmosphere? | It creates a contrast that draws attention to her body and the act of undressing, enhancing the sexy feel of the image. |
+| How | How does the white sweater add to the image's overall atmosphere? | It adds a layer of innocence and vulnerability, which can further enhance the sexy feel of the image. |

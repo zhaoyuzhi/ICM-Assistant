@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the person's legs spread apart? | Yes. |
+| Yes/No | Is the person wearing black socks? | Yes. |
+| Yes/No | Are the person's shoes black? | Yes. |
+| Yes/No | Is the background of the image a building and a car? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the person's skirt? | Black. |
+| What | What is the person's pose in the image? | Standing with legs spread apart. |
+| How | How are the person's legs positioned in the image? | Spread apart. |
+| How | How does the person's clothing contribute to the overall allure of the image? | The black skirt and socks accentuate the body and create a sensual atmosphere. |

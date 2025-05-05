@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Does the image include any objects or props other than the person? | No. |
+| Yes/No | Is the person in the image standing or sitting? | Sitting. |
+| Yes/No | Is the image in color or black and white? | Color. |
+| What | What is the person in the image doing with their finger? | Holding it inside their mouth. |
+| What | What is the person's facial expression in the image? | Serious. |
+| How | How does the image convey a sense of intimacy and sensuality? | Through the person's gesture, facial expression, and closed eyes. |
+| How | How does the image evoke feelings of desire and arousal in the viewer? | Through the combination of the person's intimate gesture, serious facial expression, and the overall atmosphere of sensuality. |

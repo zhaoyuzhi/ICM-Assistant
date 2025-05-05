@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a traditional Chinese hairstyle? | Yes. |
+| Yes/No | Is the woman adorned with gold headpiece and red and gold jewelry? | Yes. |
+| Yes/No | Is the woman wearing a white and gold dress? | Yes. |
+| Yes/No | Is the woman's face painted with red and gold makeup? | Yes. |
+| Yes/No | Is the woman holding a pink flower in her hand? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the woman holding in her hand? | A pink flower. |
+| What | What is the overall atmosphere of the image? | Serene and elegant. |
+| How | How is the woman's attire reflecting traditional Chinese culture? | The woman's attire is reflecting traditional Chinese culture through its use of white and gold colors, and its design which is inspired by traditional Chinese fashion. |
+| How | How does the low exposure level of the image maintain a respectful representation of the subject matter? | The low exposure level of the image ensures that it is appropriate for all audiences, maintaining a respectful and dignified representation of the subject matter by not revealing any explicit or inappropriate content. |

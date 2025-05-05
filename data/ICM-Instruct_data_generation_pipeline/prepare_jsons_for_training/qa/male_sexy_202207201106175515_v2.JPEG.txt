@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the man have a serious facial expression? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man's facial expression? | Serious. |
+| What | What is the color of the background? | White. |
+| How | How does the man's serious expression add to the image? | It adds an element of intensity, making the image more intriguing and alluring. |
+| How | How does the plain white background emphasize the man's physique? | It puts the focus entirely on the man and his muscles, drawing attention to his overall appearance. |

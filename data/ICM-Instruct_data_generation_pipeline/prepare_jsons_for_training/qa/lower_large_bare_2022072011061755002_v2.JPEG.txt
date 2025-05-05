@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying on a gray carpeted floor? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person wearing a white shirt and white shorts? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image contain explicit content? | No. |
+| What | What is the person wearing in the image? | A white shirt and white shorts. |
+| What | What is the color of the carpeted floor in the image? | Gray. |
+| How | How is the person positioned in the image? | The person is lying down with their legs crossed. |
+| How | How does the image convey a sense of allure and intimacy? | Through the person's pose, minimalistic attire, and high exposure level. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are the person's jeans also blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image a close-up shot of the person's torso? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's shirt? | Blue. |
+| What | What is the person holding open? | Their shirt. |
+| How | How is the person's belly exposed in the image? | The person is holding their shirt open, revealing their belly. |
+| What | What does the fact that the person is holding their shirt open emphasize? | It emphasizes the focus on the belly area, making the image more provocative and alluring. |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Are there any other discernible objects in the image? | No. |
+| What | What color is the person's shirt? | Blue. |
+| What | What type of clothing is the person wearing? | Casual and comfortable clothing (blue shirt and blue jeans). |
+| How | How is the person holding their shirt? | They are holding it open, revealing their belly. |
+| What | What atmosphere does the image convey? | Casual and relaxed, which can be perceived as sexy by some viewers. |

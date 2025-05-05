@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are the man's arms extended out to the sides? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What is the man holding in his hands? | A red resistance band. |
+| What | What color are the man's shorts? | Gray. |
+| How | How is the man standing? | In a standing position. |
+| What | What is the atmosphere created by the image? | Allure and intrigue. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing underwear? | Yes. |
+| Yes/No | Is the focus of the image on the person's lower body? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the person's exposure level high in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the main subject of the image? | The person's lower body and underwear. |
+| What | What is the perspective of the image? | Closeup. |
+| How | How does the image create a sense of intimacy? | Through the closeup perspective and the person's high exposure level. |
+| How | How does the image emphasize the focus on the lower body? | Through the person's underwear and the absence of other objects or people in the image. |

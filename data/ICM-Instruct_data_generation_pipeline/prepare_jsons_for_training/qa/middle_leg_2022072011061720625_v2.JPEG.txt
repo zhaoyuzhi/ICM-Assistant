@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a short skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a belt? | Yes. |
+| Yes/No | Is the belt silver? | Yes. |
+| Yes/No | Is the woman in the image standing on a white couch? | No. |
+| Yes/No | Is the wall in the background pink? | Yes. |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| What | What is the woman in the image wearing on her feet? | The image doesn't provide enough information to answer this question. |
+| What | What is the woman in the image holding in her hand? | The image doesn't provide enough information to answer this question. |
+| How | How is the woman in the image posing? | The woman is posing in a sexy and confident manner, with her legs slightly apart and her hips slightly tilted to one side. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's attire, particularly the short skirt and belt, contribute to the overall sexy and alluring atmosphere of the image. |

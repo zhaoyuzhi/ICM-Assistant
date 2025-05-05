@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing black heels? | Yes. |
+| Yes/No | Is the woman adjusting her stockings in the image? | Yes. |
+| Yes/No | Is the woman standing in front of a wooden table in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the woman have a confident pose in the image? | Yes. |
+| What | What is the woman adjusting in the image? | Her stockings. |
+| What | What is the woman's attire in the image? | Black stockings and black heels. |
+| How | How is the woman adjusting her stockings in the image? | With her left hand on her right thigh and her right hand on her left thigh. |
+| How | How does the image capture a moment of intimacy and allure? | Through the woman's confident pose and the way she is adjusting her stockings, creating an atmosphere of allure and sensuality. |

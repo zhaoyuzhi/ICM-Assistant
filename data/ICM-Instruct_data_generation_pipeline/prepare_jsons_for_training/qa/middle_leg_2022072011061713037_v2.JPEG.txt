@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink shorts? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Are the shorts high-waisted? | Yes. |
+| Yes/No | Do the shorts have a ruffled hem? | Yes. |
+| Yes/No | Is the image in a casual, relaxed setting? | Yes. |
+| What | What color are the shorts? | Pink. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips. |
+| How | How does the high waist of the shorts draw attention to the woman's waistline? | The high waist of the shorts emphasizes the woman's waistline by creating a defined silhouette that highlights her narrowest point. |
+| How | How does the ruffled hem of the shorts contribute to the overall allure of the image? | The ruffled hem of the shorts adds a playful and feminine touch to the image, which contributes to the overall allure and sense of confidence that the woman exudes. |

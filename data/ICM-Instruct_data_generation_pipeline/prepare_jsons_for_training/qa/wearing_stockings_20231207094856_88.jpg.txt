@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Are the stockings beige? | Yes. |
+| Yes/No | Is the person also wearing knee-high socks? | Yes. |
+| Yes/No | Is the floor wooden? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the stockings being pulled up? | Yes. |
+| What | What is the color of the stockings? | Beige. |
+| What | What is the material of the floor? | Wood. |
+| How | How does the person look while putting on stockings? | Sensual. |
+| How | How does the image create a warm and inviting atmosphere? | Through the use of beige color and natural wooden floor, which contrasts with the smooth, shiny appearance of the stockings. |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Are the stockings beige? | Yes. |
+| Yes/No | Is the person also wearing knee-high socks? | Yes. |
+| Yes/No | Are the socks beige? | Yes. |
+| Yes/No | Is the wooden floor a natural and rustic backdrop? | Yes. |
+| Yes/No | Does the image create a seductive and enticing atmosphere? | Yes. |
+| What | What is the color of the stockings and socks? | Beige. |
+| What | What is the material of the floor? | Wooden. |
+| How | How are the stockings being pulled up? | The person is pulling them up. |
+| How | How does the lighting enhance the visual appeal of the image? | The lighting creates a warm and inviting atmosphere and highlights the smooth, shiny appearance of the stockings, enhancing their visual appeal. |

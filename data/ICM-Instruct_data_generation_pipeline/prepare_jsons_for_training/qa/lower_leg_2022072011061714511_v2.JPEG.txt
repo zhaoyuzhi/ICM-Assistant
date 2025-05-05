@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman sitting on a couch? | Yes. |
+| Yes/No | Is the woman wearing red and black sneakers? | Yes. |
+| Yes/No | Are the woman's legs crossed? | Yes. |
+| Yes/No | Are the woman's feet resting on the couch? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What is the main focus of the image? | The woman's pose and the color of her sneakers. |
+| What | What does the woman's pose and the way her feet are resting on the couch suggest? | A sense of relaxation and confidence. |
+| How | How are the woman's legs positioned in the image? | Crossed. |
+| How | How does the color of the woman's sneakers contribute to the overall atmosphere of the image? | The red and black sneakers add a bold and vibrant touch to the image, drawing attention to the woman's lower body and contributing to the overall casual and confident atmosphere. |

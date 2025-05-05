@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt or top? | No. |
+| Yes/No | Are the person's arms raised in the image? | Yes. |
+| Yes/No | Does the image feature a bathroom mirror? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Are the black pants and silver necklace part of the image? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and strength? | Yes. |
+| What | What is the person in the image wearing on their lower body? | Black pants. |
+| What | What is the person in the image wearing around their neck? | A silver necklace. |
+| How | How are the person's arms positioned in the image? | Raised in a peace sign. |
+| How | How does the image convey a sense of confidence and strength? | Through the person's muscular back and confident pose, combined with the black pants and silver necklace. |

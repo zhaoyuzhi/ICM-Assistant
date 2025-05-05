@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman in the image wearing a blue skirt? | Yes. |
+| Yes/No | Is the woman in the image removing her clothes? | Yes. |
+| Yes/No | Is the room in the image dimly lit? | Yes. |
+| Yes/No | Is there a radiator visible in the background of the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman in the image wearing? | A white top and a blue skirt. |
+| What | What is the woman in the image doing? | Removing her clothes. |
+| How | How is the room in the image lit? | Dimly lit. |
+| How | How does the presence of a radiator in the background contribute to the atmosphere of the image? | It adds to the intimate atmosphere, enhancing the sexy feel of the image. |

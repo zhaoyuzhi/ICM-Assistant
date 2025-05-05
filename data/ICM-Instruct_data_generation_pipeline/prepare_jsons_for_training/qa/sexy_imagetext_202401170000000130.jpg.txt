@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man hugging the woman from behind? | Yes. |
+| Yes/No | Are both people smiling? | Yes. |
+| Yes/No | Is the woman wearing a pink shirt? | Yes. |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Does the advertising slogan suggest that the man is the husband and the woman is his wife? | Yes. |
+| Yes/No | Does the image evoke feelings of happiness and contentment? | Yes. |
+| What | What is the woman wearing? | A pink shirt. |
+| What | What is the man wearing? | A white shirt. |
+| How | How is the man interacting with the woman? | He is hugging her from behind. |
+| How | How would you describe the overall atmosphere of the image? | Lighthearted and playful with a certain level of intimacy between the two people. |

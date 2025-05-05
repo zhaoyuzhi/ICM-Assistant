@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman dressed in a white fur coat and hat? | Yes. |
+| Yes/No | Is she holding a shopping bag? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman holding in her hand? | A shopping bag. |
+| What | What is the woman's attire? | A white fur coat and hat. |
+| How | How is the woman's attire appropriate for a casual setting? | It is modest and not revealing or explicit. |
+| How | How does the low exposure level contribute to the non-sexy atmosphere? | It does not reveal any inappropriate or suggestive details. |

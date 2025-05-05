@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Is the person's lower body exposed? | Yes. |
+| Yes/No | Are the person's feet resting on a black line? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and intimate? | Yes. |
+| What | What is the person sitting on? | A white towel. |
+| What | What is the person looking at? | Their feet. |
+| How | How is the person's skin described in the image? | Shiny. |
+| How | How does the black line on the floor add visual interest to the image? | It creates a sense of contrast. |

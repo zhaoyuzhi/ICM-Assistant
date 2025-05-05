@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Does the woman have blue eyes? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman's hair styled in curls? | Yes. |
+| Yes/No | Is the woman wearing a lot of makeup? | No. |
+| What | What color are the woman's eyes? | Blue. |
+| What | What is the woman's expression? | Slight smile with a seductive touch. |
+| How | How is the woman's hair styled? | In loose curls. |
+| How | How is the woman looking off to the side? | With a sense of confidence and allure. |

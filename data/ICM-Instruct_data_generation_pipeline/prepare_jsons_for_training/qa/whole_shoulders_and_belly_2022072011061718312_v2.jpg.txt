@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a neon yellow crop top? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the woman in the image have her hand on her hip? | Yes. |
+| Yes/No | Is the top strapless? | Yes. |
+| Yes/No | Is the top cropped at the waist? | Yes. |
+| Yes/No | Does the image create a sexy and confident vibe? | Yes. |
+| What | What is the color of the crop top? | Neon yellow. |
+| What | What is the style of the jeans? | Casual. |
+| How | How does the woman's pose accentuate her body? | It emphasizes her midriff and curves. |
+| How | How does the bright color of the top add to the overall allure of the image? | It draws attention to the woman's body and creates a bold and eyecatching element. |

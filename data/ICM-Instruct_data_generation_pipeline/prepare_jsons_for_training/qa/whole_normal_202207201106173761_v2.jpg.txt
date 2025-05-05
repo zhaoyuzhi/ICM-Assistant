@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a black dress? | Yes. |
+| Yes/No | Is the woman holding a white purse? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and composed? | Yes. |
+| Yes/No | Does the woman's pose on the bench suggest a moment of rest or contemplation? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image suggest a sensual or provocative tone? | No. |
+| What | What is the woman holding in her hand? | A white purse. |
+| What | What is the woman wearing? | A black dress and a beige coat. |
+| How | How does the woman's attire reinforce the idea that the image is not meant to be sexy? | The woman's modest black dress and beige coat do not draw attention to her body or suggest any kind of sexuality. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | The low exposure level of the image creates a sense of mystery and intimacy, contributing to the calm and composed atmosphere of the image. |

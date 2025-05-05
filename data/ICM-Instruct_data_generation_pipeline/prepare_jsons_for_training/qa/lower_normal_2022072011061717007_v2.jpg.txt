@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a black skirt and a white top? | Yes. |
+| Yes/No | Is the woman standing against a white background? | Yes. |
+| Yes/No | Is the woman's posture upright and facing the camera directly? | Yes. |
+| Yes/No | Does the image feature any provocative or suggestive elements? | No. |
+| Yes/No | Does the woman's attire reveal any skin or body parts? | No. |
+| Yes/No | Is the exposure level of the image low, focusing on her upper body and torso? | Yes. |
+| What | What is the woman wearing in the image? | A black skirt and a white top. |
+| What | What is the overall atmosphere of the image? | Calm and composed. |
+| How | How is the woman standing in the image? | Upright and facing the camera directly. |
+| How | How does the low exposure level of the image emphasize the woman's clothing and posture? | It emphasizes her modest attire and upright posture, rather than her physical appearance. |

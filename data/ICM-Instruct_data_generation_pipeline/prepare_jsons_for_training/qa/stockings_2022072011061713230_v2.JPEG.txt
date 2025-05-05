@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's stockings black? | Yes. |
+| Yes/No | Are the person's shoes black? | Yes. |
+| Yes/No | Is the person's pose confident and poised? | Yes. |
+| Yes/No | Does the image feature a brick wall in the background? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the person's dress? | Black. |
+| What | What is the person's pose in the image? | Hands resting on hips. |
+| How | How does the person's pose contribute to the image's atmosphere? | It adds to the overall allure and confidence of the image. |
+| How | How does the contrast between the person's clothing and the background enhance the image's atmosphere? | It creates a striking visual contrast that enhances the sexy atmosphere. |

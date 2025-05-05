@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Does the image capture the woman's form? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual and alluring? | Yes. |
+| What | What color is the bra? | Pink. |
+| What | What is the woman doing in the image? | Adjusting her bra. |
+| How | How is the woman's form captured in the image? | Through the reflection in the mirror. |
+| How | How does the color of the bra contribute to the overall atmosphere of the image? | It adds a soft and alluring touch to the scene. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Does the image capture the woman's face? | No. |
+| Yes/No | Is the woman's body partially covered? | Yes. |
+| Yes/No | Does the image suggest an intimate atmosphere? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What color is the bra the woman is wearing? | Pink. |
+| How | How is the woman adjusting the bra? | She has her hands on her back. |
+| How | How does the mirror reflect the woman's actions? | It creates a sense of depth and intimacy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Is the woman's hair blonde? | Yes. |
+| Yes/No | Is the woman's facial expression playful and seductive? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Are the woman's lips slightly parted? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and alluring? | Yes. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| What | What is the woman looking at? | Upwards and to the left. |
+| How | How is the woman's hair styled? | Blonde. |
+| How | How are the woman's lips? | Slightly parted. |

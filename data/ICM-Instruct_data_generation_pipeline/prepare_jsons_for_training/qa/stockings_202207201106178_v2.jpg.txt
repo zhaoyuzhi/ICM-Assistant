@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of black stockings? | Yes. |
+| Yes/No | Does the person have their legs crossed? | Yes. |
+| Yes/No | Is the person resting their head on their hand? | Yes. |
+| Yes/No | Is the background of the image a white fur rug? | Yes. |
+| Yes/No | Does the blue dress contrast nicely with the black stockings? | Yes. |
+| Yes/No | Are the black stockings adorned with a rose design on the thigh? | Yes. |
+| What | What is the person wearing on their legs? | Black stockings. |
+| What | What is the color of the dress the person is wearing? | Blue. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How is the person's head positioned in the image? | Resting on their hand. |

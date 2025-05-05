@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a floral skirt? | Yes. |
+| Yes/No | Is the woman in the image sitting in the back of a car? | Yes. |
+| Yes/No | Are the clothes around her hanging out of the car window? | Yes. |
+| Yes/No | Does the image create a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Does the image create a sexy and alluring atmosphere? | Yes. |
+| What | What is the woman in the image wearing? | A strapless top and a floral skirt. |
+| What | What are the clothes around her doing? | Hanging out of the car window. |
+| How | How is the woman in the image sitting? | She is sitting in the back of a car. |
+| How | How do the clothes around her create a casual and relaxed atmosphere? | They are hanging out of the car window, suggesting that she might be in the process of packing or unpacking. |

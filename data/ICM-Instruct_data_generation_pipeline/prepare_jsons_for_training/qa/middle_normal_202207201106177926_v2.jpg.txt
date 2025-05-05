@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Does the shirt have long sleeves? | Yes. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the color of the skirt? | Black. |
+| What | What is the material of the shirt? | Lightweight fabric. |
+| How | How is the person's leg revealed? | Through a slit on the side of the skirt. |
+| How | How would you describe the atmosphere of the image? | Nonsexual. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the skirt have a slit on the side? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image simple and elegant? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the person's skirt? | Black. |
+| What | What is the color of the person's shirt? | White. |
+| How | How is the person's confidence conveyed in the image? | Through their confident stance, with their hands placed on their hips. |
+| How | How does the white background contribute to the image's non-sexy nature? | It emphasizes the focus on the person's outfit rather than any distractions, contributing to the overall simplicity and elegance of the image. |

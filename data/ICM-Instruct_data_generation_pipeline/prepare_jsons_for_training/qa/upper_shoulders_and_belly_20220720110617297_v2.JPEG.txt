@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing pink shorts? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the woman in the image have her hand on her hip? | Yes. |
+| Yes/No | Is the floral pattern on the top white? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What color is the woman's top? | White. |
+| What | What is the woman's pose in the image? | She has her hand on her hip. |
+| How | How does the floral pattern on the top add to the overall allure of the image? | It adds a touch of femininity and elegance to her outfit. |
+| How | How does the woman's pose accentuate her body? | It emphasizes her waist and hips, creating a more curvaceous silhouette. |

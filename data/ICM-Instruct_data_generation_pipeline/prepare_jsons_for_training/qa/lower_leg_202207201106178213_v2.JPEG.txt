@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Is the person wearing shoes? | No. |
+| How | Does the image showcase the person's front? | No. |
+| Yes/No | Is the living room furnished with a couch and coffee table? | Yes. |
+| Yes/No | Is the mirror in the background reflecting the person's image? | Yes. |
+| What | What is the person wearing? | Denim shorts and a polka dot shirt. |
+| What | What is the mood of the image? | Sexy and alluring. |
+| How | How is the person standing in the living room? | With their legs slightly apart. |
+| How | How does the mirror in the background add depth to the scene? | It reflects the person's image, creating a sense of intimacy. |

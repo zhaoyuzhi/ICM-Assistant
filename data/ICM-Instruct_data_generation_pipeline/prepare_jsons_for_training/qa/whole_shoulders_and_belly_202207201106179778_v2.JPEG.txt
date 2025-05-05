@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing high heels? | Yes. |
+| Yes/No | Does the woman in the image have her left hand on her hip? | Yes. |
+| Yes/No | Does the woman in the image have her right hand on her thigh? | Yes. |
+| Yes/No | Is the woman in the image wearing a denim jacket? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her feet? | High heels. |
+| What | What is the pattern on the woman's shirt? | Floral. |
+| How | How is the woman posing in the image? | She is striking a pose with her left hand on her hip and her right hand on her thigh. |
+| How | How does the combination of elements in the image create an atmosphere? | The combination of the woman's confident pose, revealing outfit, floral pattern, and denim jacket creates an atmosphere that is both alluring and stylish. |

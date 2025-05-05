@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Are the person's lips pink? | Yes. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the person doing with their lip? | Biting. |
+| What | What is the prominent feature in the image? | Chin. |
+| How | How are the lips parted? | Slightly. |
+| How | How does the person's action of biting their lip add to the allure of the image? | Confident and seductive. |

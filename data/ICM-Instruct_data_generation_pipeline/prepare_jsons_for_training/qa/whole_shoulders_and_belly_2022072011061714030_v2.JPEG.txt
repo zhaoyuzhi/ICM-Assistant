@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image wearing white pants? | Yes. |
+| Yes/No | Is the woman in the image holding a black purse? | Yes. |
+| Yes/No | Is the woman in the image standing on a staircase? | Yes. |
+| Yes/No | Does the image provide information about the woman's movements? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the woman in the image wearing? | A black top and white pants. |
+| What | What is the woman in the image holding? | A black purse. |
+| How | How is the woman in the image standing? | She is standing on a staircase. |
+| How | How does the woman in the image carry herself? | She carries herself in a sexy and confident manner. |

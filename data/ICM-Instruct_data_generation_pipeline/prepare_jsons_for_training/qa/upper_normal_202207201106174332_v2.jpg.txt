@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue suit? | Yes. |
+| Yes/No | Is the man in the image sitting at a desk? | Yes. |
+| Yes/No | Does the image depict a professional setting? | Yes. |
+| Yes/No | Is the man in the image engaged in a professional activity? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the image contain any inappropriate content? | No. |
+| What | What is the man in the image doing? | He appears to be working or conducting an interview. |
+| What | What is the color of the man's shirt? | White. |
+| How | How is the man dressed in the image? | He is dressed in a professional attire, wearing a blue suit and a white shirt. |
+| How | How does the exposure level of the image affect the focus of the image? | The low exposure level emphasizes the focus on the man's actions and professional attire, rather than his appearance. |

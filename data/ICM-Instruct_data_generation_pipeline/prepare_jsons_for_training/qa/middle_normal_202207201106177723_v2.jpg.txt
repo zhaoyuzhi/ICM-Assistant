@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Is the person's shirt tucked into their pants? | Yes. |
+| How | Does the image show a large portion of the person's body? | No. |
+| Yes/No | Is the person's posture relaxed and comfortable? | Yes. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| Yes/No | Are the person's clothes revealing or provocative? | No. |
+| What | What is the color of the person's pants? | Beige. |
+| What | What is the person's hand resting on? | Their hip. |
+| How | How is the person's shirt tucked into their pants? | It is tucked in neatly. |
+| How | How does the low exposure level contribute to the image's atmosphere? | It emphasizes the person's casual and comfortable posture rather than their physical appearance, making the atmosphere nonsexual. |
+| Yes/No | Is the person in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Are the pants well-fitted? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person dressed in a casual outfit? | Yes. |
+| What | What is the color of the person's pants? | Beige. |
+| What | What is the person's posture in the image? | Relaxed. |
+| How | How is the person's hand positioned in the image? | In their pocket. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and nonsexual. |

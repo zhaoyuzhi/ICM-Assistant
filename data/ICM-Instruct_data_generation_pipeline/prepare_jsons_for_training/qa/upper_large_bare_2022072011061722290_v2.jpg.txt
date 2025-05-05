@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the swimsuit black and blue? | Yes. |
+| Yes/No | Does the swimsuit have a colorful stripe on the side? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image stark white? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| What | What is the woman in the image doing with her left hand? | Resting it on her hip. |
+| What | What is the woman in the image doing with her right hand? | Resting it on her thigh. |
+| How | How does the black and blue color scheme of the swimsuit contrast with the white background? | It creates a striking contrast that highlights the woman's figure. |
+| How | How does the image convey boldness and allure? | Through the woman's confident pose, the revealing nature of her swimsuit, and the contrast between the swimsuit and the background. |

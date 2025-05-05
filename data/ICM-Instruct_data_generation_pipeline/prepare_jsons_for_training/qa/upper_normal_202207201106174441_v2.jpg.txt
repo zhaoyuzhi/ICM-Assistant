@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white coat? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Is the woman looking into the distance? | Yes. |
+| Yes/No | Does the image have a seductive or alluring atmosphere? | No. |
+| Yes/No | Is the woman's attire revealing or suggestive? | No. |
+| What | What is the woman looking at in the distance? | A city skyline. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| How | How does the low exposure level of the image contribute to its atmosphere? | It creates a dark and quiet nighttime setting, emphasizing the woman's solitary presence and the calmness of the scene. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The white coat adds to the calmness and serenity of the image, rather than evoking a sense of sexuality or allure. |

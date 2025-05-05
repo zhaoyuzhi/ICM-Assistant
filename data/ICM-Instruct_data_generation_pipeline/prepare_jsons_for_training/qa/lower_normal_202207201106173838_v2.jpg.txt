@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sweatshirt? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the person leaning on their left hand? | Yes. |
+| Yes/No | Is the person's right hand resting on their knee? | Yes. |
+| Yes/No | Is the background of the image a building and a tree? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the person's exposure level in the image? | Low. |
+| What | What is the person's attire in the image? | Casual (white sweatshirt, black sweatpants, white sneakers). |
+| How | How is the person positioned in the image? | Leaning on their left hand, right hand resting on their knee. |
+| What | What is the atmosphere of the image? | Calm and relaxed. |

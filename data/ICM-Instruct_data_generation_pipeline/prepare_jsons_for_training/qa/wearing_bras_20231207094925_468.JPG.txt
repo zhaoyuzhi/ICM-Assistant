@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's pants brown? | Yes. |
+| Yes/No | Is the image a full-body shot? | No. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What color is the woman's bra? | Black. |
+| What | What color are the woman's pants? | Brown. |
+| How | How is the woman putting on her bra? | With her hands on her hips. |
+| What | What atmosphere does the image create? | Seductive. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's pants brown? | Yes. |
+| Yes/No | Is the image a close-up of the woman's face? | No. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Does the image depict the woman in a state of undress? | No. |
+| What | What is the woman in the image putting on? | A black bra. |
+| What | What is the dominant color of the woman's outfit? | Black and white. |
+| How | How is the woman putting on the bra? | She is putting it on with her hands on her hips. |
+| What | What atmosphere does the image create? | A seductive atmosphere. |

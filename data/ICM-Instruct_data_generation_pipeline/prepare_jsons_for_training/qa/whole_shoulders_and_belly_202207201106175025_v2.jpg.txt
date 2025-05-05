@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple leotard? | Yes. |
+| Yes/No | Is the leotard strapless? | Yes. |
+| Yes/No | Does the woman have her left leg bent? | Yes. |
+| Yes/No | Is her right leg extended behind her? | Yes. |
+| Yes/No | Does the image have a gradient background? | Yes. |
+| Yes/No | Is the background a combination of purple and yellow? | Yes. |
+| What | What color are the woman's tights? | White. |
+| What | What color are the woman's socks? | Yellow. |
+| How | How is the woman holding her left leg? | With her right hand. |
+| How | How would you describe the overall pose of the woman in the image? | Dynamic. |

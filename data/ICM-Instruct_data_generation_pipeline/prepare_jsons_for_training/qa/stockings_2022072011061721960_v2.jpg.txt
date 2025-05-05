@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the bed in the image covered with a white comforter? | Yes. |
+| Yes/No | Does the woman in the image have her legs crossed? | Yes. |
+| Yes/No | Is the headboard of the bed made of wood? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and sensuality? | Yes. |
+| What | What is the woman in the image wearing on her legs? | Black stockings. |
+| What | What is the color of the comforter on the bed? | White. |
+| How | How is the woman positioned on the bed? | Relaxed, with her legs crossed. |
+| How | How does the image portray the woman's attitude? | Confident and alluring. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the background plain and white? | Yes. |
+| Yes/No | Are the shorts blue denim? | Yes. |
+| Yes/No | Does the woman have a relaxed pose? | Yes. |
+| Yes/No | Is her left hand in her pocket? | Yes. |
+| Yes/No | Is her right hand touching her thigh? | Yes. |
+| What | What color is the woman's t-shirt? | White. |
+| What | What is the color of the polka dots on the shorts? | White. |
+| How | How is the woman's right hand positioned? | Lightly touching her thigh. |

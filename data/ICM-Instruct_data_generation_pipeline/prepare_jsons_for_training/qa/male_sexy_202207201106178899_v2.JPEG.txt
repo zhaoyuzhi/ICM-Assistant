@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing underwear? | Yes. |
+| Yes/No | Is the man in the image standing in a relaxed pose? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image wearing? | A pair of boxer briefs. |
+| What | What is the man in the image doing with his arms? | Resting them on his hips. |
+| How | How is the man standing in the image? | In a relaxed pose. |
+| How | How does the image make you feel? | Alluring and seductive. |

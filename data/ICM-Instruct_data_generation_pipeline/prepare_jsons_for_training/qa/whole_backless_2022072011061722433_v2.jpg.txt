@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a large area of her back exposed? | Yes. |
+| Yes/No | Is the woman holding a bouquet of flowers? | Yes. |
+| Yes/No | Is the image set in a garden? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the image have an elegant atmosphere? | Yes. |
+| What | What is the woman holding in her hand? | A bouquet of flowers. |
+| What | What is the color of the woman's dress? | White. |
+| How | How does the garden setting contribute to the atmosphere of the image? | It adds a natural and serene atmosphere, evoking feelings of romance and intimacy. |
+| How | How does the woman's attire contribute to the atmosphere of the image? | The exposed back and white dress make the wearer feel confident and alluring, contributing to a sexy and alluring atmosphere. |

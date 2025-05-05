@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of jeans? | Yes. |
+| Yes/No | Is the sweater worn by the person in the image brown? | Yes. |
+| Yes/No | Are the person's feet positioned shoulder-width apart? | Yes. |
+| Yes/No | Is the person looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual context or suggestive poses? | No. |
+| Yes/No | Is the focus of the image on the person's clothing and stance, rather than their body or appearance? | Yes. |
+| What | What is the color of the person's jeans? | Dark blue. |
+| What | What is the material of the person's sweater? | Ribbed. |
+| How | How are the person's feet positioned? | Shoulderwidth apart. |
+| How | How does the neutral background contribute to the overall atmosphere of the image? | It creates a nonsexual atmosphere. |

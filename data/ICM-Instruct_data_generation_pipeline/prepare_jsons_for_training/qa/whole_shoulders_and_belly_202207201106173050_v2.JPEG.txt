@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's shorts denim? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the woman have any tattoos or piercings visible in the image? | No. |
+| Yes/No | Is the woman smiling in the image? | No. |
+| What | What color is the woman's top? | Pink and white checkered. |
+| What | What color are the woman's shorts? | Blue. |
+| How | How is the woman's head tilted in the image? | To the side. |
+| How | How is the woman holding her purse? | In her hand. |

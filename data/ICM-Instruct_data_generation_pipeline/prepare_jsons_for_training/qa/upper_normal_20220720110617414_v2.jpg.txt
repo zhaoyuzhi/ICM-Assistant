@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman holding a bottle of shampoo? | Yes. |
+| Yes/No | Is the woman standing in front of a bathroom sink? | Yes. |
+| Yes/No | Are the bathroom walls and floor white tiled? | Yes. |
+| Yes/No | Is there a mirror above the sink? | Yes. |
+| Yes/No | Is the woman actively engaged in washing her hair? | Yes. |
+| What | What is the woman holding in her hand? | Shampoo. |
+| What | What is the woman doing in the image? | Washing her hair. |
+| How | How is the woman's movements in the image? | Suggests she is actively engaged in the task of washing her hair. |
+| How | How would you describe the overall atmosphere of the image? | Mundane, everyday scene. |

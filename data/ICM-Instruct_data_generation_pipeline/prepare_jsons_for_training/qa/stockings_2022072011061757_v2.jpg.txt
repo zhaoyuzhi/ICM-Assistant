@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are the stockings white? | Yes. |
+| Yes/No | Does the bra have a bow on the front? | Yes. |
+| Yes/No | Are the woman's legs spread apart? | Yes. |
+| Yes/No | Is the image seductive and alluring? | Yes. |
+| What | What is the woman kneeling on? | A white fur rug. |
+| What | What color are the stockings? | White. |
+| How | How are the stockings trimmed? | With lace. |
+| What | What creates a sense of intimacy and allure in the image? | The woman's pose, attire, and the white fur rug. |

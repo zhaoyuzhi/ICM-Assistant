@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image removing her clothes? | Yes. |
+| Yes/No | Is the woman standing in front of a white wall? | Yes. |
+| Yes/No | Does the dress have a high slit? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the woman holding the train of the dress with her left hand? | Yes. |
+| Yes/No | Does the image have a sensual and provocative atmosphere? | Yes. |
+| What | What is the woman wearing? | A pink and white floral dress with a high slit and a low back. |
+| What | What is the woman holding in her left hand? | The train of the dress. |
+| How | How is the woman removing her clothes? | She is taking off her dress. |
+| How | How does the woman look while removing her clothes? | She looks sensual and provocative. |

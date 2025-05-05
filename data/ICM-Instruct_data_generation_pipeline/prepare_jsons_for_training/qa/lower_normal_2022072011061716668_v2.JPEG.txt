@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing black pants? | Yes. |
+| Yes/No | Does the person have white text on their leg? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Is the person's body the main focus of the image? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the person wearing on their feet? | A white shoe. |
+| What | What is the color of the person's shirt? | Black. |
+| How | How is the person's body positioned in the image? | The person is standing with their back to the camera. |
+| What | What is the exposure level of the person in the image? | Very low. |

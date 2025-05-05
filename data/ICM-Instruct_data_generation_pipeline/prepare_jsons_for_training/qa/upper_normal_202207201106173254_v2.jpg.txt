@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white coat? | Yes. |
+| Yes/No | Does the woman have long hair in the image? | Yes. |
+| Yes/No | Is the image set in a bedroom? | Yes. |
+| Yes/No | Does the image feature a bed? | Yes. |
+| Yes/No | Is the painting on the wall a prominent feature of the image? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| What | What is the woman wearing in the image? | A white coat. |
+| What | What is the setting of the image? | A bedroom. |
+| How | How is the woman's face visible in the image? | The woman's face is not clearly visible due to the low exposure level of the image. |
+| How | How does the painting on the wall contribute to the atmosphere of the image? | The painting on the wall adds to the domestic and nonsexual setting of the image. |

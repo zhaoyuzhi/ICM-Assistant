@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Is the woman holding a green object in her hand? | Yes. |
+| Yes/No | Is the beach crowded with people? | Yes. |
+| Yes/No | Are there boats in the water? | Yes. |
+| Yes/No | Does the image have a lively and energetic atmosphere? | Yes. |
+| What | What is the woman holding in her hand? | A green object. |
+| What | What is the woman wearing? | A black dress. |
+| How | How is the woman's dress low-cut? | It reveals her back. |
+| How | How does the beach setting contribute to the image's atmosphere? | It creates a sense of freedom and openness. |

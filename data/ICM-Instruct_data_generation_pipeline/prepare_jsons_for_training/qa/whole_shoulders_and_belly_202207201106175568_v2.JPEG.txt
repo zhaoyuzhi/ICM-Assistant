@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the blouse have a lace neckline? | Yes. |
+| Yes/No | Are the sleeves of the blouse off-the-shoulder? | Yes. |
+| Yes/No | Is the blouse cropped at the waist? | Yes. |
+| Yes/No | Is the woman wearing black pants? | Yes. |
+| Yes/No | Is the woman wearing a gold necklace and earrings? | Yes. |
+| What | What is the color of the woman's blouse? | White. |
+| What | What is the type of neckline on the woman's blouse? | Lace. |
+| How | How are the sleeves of the blouse styled? | Offtheshoulder. |
+| How | How is the woman posing in the image? | With her hands on her hips and her head slightly tilted to the side. |

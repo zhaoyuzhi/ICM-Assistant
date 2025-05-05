@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the pool table green? | Yes. |
+| Yes/No | Does the image feature an advertising slogan? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| What | What is the color of the woman's dress? | Black. |
+| What | What is the meaning of the advertising slogan in English? | "Being hard is great". |
+| How | How is the woman lying on the pool table? | Sideways. |
+| How | How is the red advertising slogan displayed in the image? | Horizontally across the top of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing sandals? | Yes. |
+| Yes/No | Is the room decorated with potted plants? | Yes. |
+| Yes/No | Is the chair in the room yellow? | Yes. |
+| Yes/No | Does the person's pose exude confidence and relaxation? | Yes. |
+| What | What color is the person's skirt? | Blue. |
+| What | What color is the person's shirt? | White. |
+| How | How many potted plants can be seen in the room? | A few. |
+| How | How would you describe the person's pose? | Confident and relaxed. |

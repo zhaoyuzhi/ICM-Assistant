@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a garter belt? | Yes. |
+| Yes/No | Are the stockings black? | Yes. |
+| Yes/No | Does the garter belt have a floral pattern? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| What | What color are the stockings? | Black. |
+| What | What is the material of the stockings? | Shiny. |
+| How | How are the woman's legs positioned in the image? | Crossed, with feet resting on the arm of the couch. |
+| How | How would you describe the woman's pose in the image? | Seductive, intimate. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a top or covering their upper body? | No. |
+| Yes/No | Are the person's white sneakers visible in the image? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image suggest a casual and sporty atmosphere? | Yes. |
+| Yes/No | Does the image evoke a sense of sensuality and confidence? | Yes. |
+| What | What color are the person's leggings? | Blue. |
+| What | What type of shoes is the person wearing? | White sneakers. |
+| How | How is the person's midriff exposed in the image? | The person's shirt or top is not covering their midriff. |
+| How | How does the image create an alluring and confident appearance? | The combination of the person's clothing, pose, and exposed midriff creates an alluring and confident appearance. The blue leggings and white sneakers suggest a casual and sporty atmosphere, while the exposed midriff adds a sense of sensuality and confidence. |

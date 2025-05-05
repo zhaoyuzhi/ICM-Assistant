@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black sweatshirt? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Do they have white sneakers on? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What color is the person's sweatshirt? | Black. |
+| What | What color are their sneakers? | White. |
+| How | How is the person dressed in the image? | Casually, in a black sweatshirt, blue jeans, and white sneakers. |
+| What | What is the focus of the image? | The person's movement and casual attire. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink shorts? | Yes. |
+| Yes/No | Is the woman's body positioned in a way that emphasizes her thighs? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Is the woman holding a black purse? | Yes. |
+| Yes/No | Does the image have a plain white background? | Yes. |
+| Yes/No | Does the woman's clothing and body positioning create a sense of allure and confidence? | Yes. |
+| What | What color are the woman's shorts? | Pink. |
+| What | What is the woman holding in her hand? | A black purse. |
+| How | How are the woman's shorts fitting her? | Slightly loose, revealing her thighs. |
+| How | How does the woman's pose and the way she holds her purse suggest? | Selfassuredness and confidence. |

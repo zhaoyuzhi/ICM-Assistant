@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a gray dress? | Yes. |
+| Yes/No | Are black tights worn by the woman? | Yes. |
+| Yes/No | Is the dress short? | Yes. |
+| Yes/No | Is the woman wearing high heels? | Yes. |
+| Yes/No | Does the image depict three photos of the woman in the same pose? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the color of the woman's dress? | Gray. |
+| What | What type of clothing does the woman wear on her feet? | High heels. |
+| How | How is the woman lifting her dress? | By raising it with her hand. |
+| What | What does the woman's pose in the image suggest? | Sensuality and allure. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a top? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Is the top loose-fitting? | Yes. |
+| Yes/No | Are the person's hands resting at their sides? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and neutral? | Yes. |
+| What | What color are the shorts? | Olive green. |
+| What | What color is the top? | Beige. |
+| How | How are the shorts styled? | Cropped at the knee. |
+| How | How would you describe the person's pose? | Neutral. |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Does the woman have a belt around her waist? | Yes. |
+| Yes/No | Are the shorts cropped at the ankle? | Yes. |
+| Yes/No | Is the woman's pose suggestive or provocative? | No. |
+| Yes/No | Does the image feature any explicit or alluring elements? | No. |
+| Yes/No | Is the focus of the image on the woman's attire rather than her body? | Yes. |
+| What | What color are the shorts? | Light green. |
+| What | What is the color of the belt? | Beige. |
+| How | How are the shorts cropped? | Above the ankle. |
+| How | How is the woman's pose? | Neutral. |

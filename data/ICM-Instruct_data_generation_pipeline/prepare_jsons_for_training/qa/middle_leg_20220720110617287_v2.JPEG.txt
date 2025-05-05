@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a sweater? | Yes. |
+| Yes/No | Does the skirt have a black and white pattern? | Yes. |
+| Yes/No | Is the woman standing in a room with a white wall? | Yes. |
+| Yes/No | Is the woman holding a black purse in her left hand? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What is the woman holding in her left hand? | A black purse. |
+| What | What is the dominant color of the woman's sweater? | Pink. |
+| How | How does the woman's outfit create an atmosphere of allure and sensuality? | The woman's outfit, particularly her short skirt, exposes her thighs, creating an atmosphere of allure and sensuality. The contrast between her outfit and the simple, minimalist background further accentuates her presence in the image. |
+| How | How does the image convey the woman's confidence and self-assuredness? | The woman's confident pose and revealing clothing choice suggest a sense of selfassuredness and sensuality, conveying an atmosphere of confidence and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the woman's left hand on her hip? | Yes. |
+| Yes/No | Is the woman's right hand on her thigh? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the woman's blouse? | White. |
+| What | What is the woman's pose in the image? | She is striking a pose with her left hand on her hip and her right hand on her thigh. |
+| How | How does the woman's pose contribute to the sexy atmosphere of the image? | The woman's pose, with her left hand on her hip and her right hand on her thigh, adds to the allure by drawing attention to her body and the revealing nature of her outfit. |
+| How | How does the revealing nature of the woman's outfit contribute to the sexy atmosphere of the image? | The black skirt with a slit on the left side and the white blouse with a high neckline reveal her thighs, which is a common feature in sexy images, creating an atmosphere of confidence and allure. |

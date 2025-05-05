@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray bra? | Yes. |
+| Yes/No | Is the woman fastening the bra with her hands? | Yes. |
+| Yes/No | Is the image focused on the woman's upper body and the bra? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the gray bra add to the seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's posture in the image suggestive? | Yes. |
+| What | What is the woman wearing in the image? | A gray bra and a necklace. |
+| What | What is the woman doing in the image? | Putting on the gray bra. |
+| How | How is the woman's posture in the image? | Suggestive. |
+| How | How does the image create a sense of intimacy and allure? | Through the closeup nature of the image and the woman's actions. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra gray? | Yes. |
+| Yes/No | Is the woman fastening the bra herself? | Yes. |
+| Yes/No | Is the image focused on the woman's upper body? | Yes. |
+| How | Does the image show the woman's face? | No. |
+| Yes/No | Is the atmosphere of the image seductive? | Yes. |
+| What | What is the woman wearing around her neck? | A necklace. |
+| What | What color is the bra? | Gray. |
+| How | How is the woman fastening the bra? | She is using her hands. |
+| How | How does the image capture the woman's attire? | It showcases her bra and posture in a closeup shot. |

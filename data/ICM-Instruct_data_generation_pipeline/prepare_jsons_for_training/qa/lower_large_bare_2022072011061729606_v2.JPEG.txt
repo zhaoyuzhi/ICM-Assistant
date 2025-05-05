@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black underwear? | Yes. |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Does the image feature a large area of the person's lower body exposed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What color are the sheets in the image? | White. |
+| What | What is the person in the image wearing? | Black underwear. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the black underwear contrast with the white sheets in the image? | It creates a striking contrast that draws attention to the person's body. |

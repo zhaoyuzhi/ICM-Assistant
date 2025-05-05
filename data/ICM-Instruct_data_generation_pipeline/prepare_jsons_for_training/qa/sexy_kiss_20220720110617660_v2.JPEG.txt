@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the two men in the image kissing? | Yes. |
+| Yes/No | Is the man in the gray hoodie on top of the other man? | Yes. |
+| Yes/No | Are the men in a bed? | Yes. |
+| Yes/No | Does the image evoke feelings of love and affection? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the shirt worn by the man on the bottom? | Blue. |
+| What | What is the color of the hoodie worn by the man on top? | Gray. |
+| How | How are the men positioned in the image? | The man in the gray hoodie is on top of the other man. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Are the woman's jean shorts blue? | Yes. |
+| Yes/No | Is the woman carrying a black purse? | Yes. |
+| Yes/No | Is the woman wearing high heels? | Yes. |
+| Yes/No | Does the woman's attire contribute to the sexy atmosphere in the image? | Yes. |
+| Yes/No | Does the woman's confidence and poise contribute to the sexy atmosphere in the image? | Yes. |
+| What | What color are the woman's high heels? | Black. |
+| What | What is the color of the woman's purse? | Black. |
+| How | How does the woman carry her purse? | In her hand. |
+| How | How does the woman's attire and heels contribute to her overall appearance? | They create a stylish and sophisticated look that contributes to the sexy atmosphere in the image. |

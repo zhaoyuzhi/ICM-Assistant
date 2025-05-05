@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of white stockings? | Yes. |
+| Yes/No | Is the person lying on a bed? | Yes. |
+| Yes/No | Are the person's legs spread apart? | Yes. |
+| Yes/No | Are the person's feet visible? | Yes. |
+| Yes/No | Is the person wearing a gray sweater? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What color are the stockings the person is wearing? | White. |
+| What | What is the person's sweater color? | Gray. |
+| How | How are the person's legs positioned in the image? | Spread apart. |
+| How | How does the image capture a moment of intimacy and vulnerability? | The person is lying on a bed with their legs spread apart, and their feet are visible, creating an intimate and vulnerable atmosphere. |
+| Yes/No | Is the person in the image wearing a pair of white stockings? | Yes. |
+| Yes/No | Is the person lying on a bed? | Yes. |
+| Yes/No | Are the person's legs spread apart? | Yes. |
+| Yes/No | Are the person's feet visible? | Yes. |
+| Yes/No | Is the person wearing a gray sweater? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What is the person in the image wearing? | White stockings, a gray sweater. |
+| What | What is the atmosphere of the image? | Intimate, seductive. |
+| How | How are the person's legs positioned in the image? | Spread apart. |
+| How | How does the image capture a moment of intimacy and vulnerability? | The person is wearing stockings, which can be seen as a form of selfexpression and can be perceived as a sensual experience, and they are lying on a bed, which is a private and personal space. |

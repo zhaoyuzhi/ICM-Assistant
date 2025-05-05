@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Are her hands placed on her hips? | Yes. |
+| Yes/No | Is she wearing a pair of blue leggings? | Yes. |
+| Yes/No | Is she wearing a black sports bra? | Yes. |
+| Yes/No | Is her belly exposed? | Yes. |
+| Yes/No | Does the image depict a workout or sporting event? | No. |
+| What | What color are the leggings? | Blue. |
+| What | What is the color of the sports bra? | Black. |
+| How | How is the woman's pose in the image? | Confident, with her hands on her hips. |
+| How | How does the image create a sense of allure? | The combination of her pose and attire creates a sense of confidence and allure that makes the image sexy. |

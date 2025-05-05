@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a black thigh-high sock? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a pink shirt? | Yes. |
+| Yes/No | Is the person wearing a blue skirt? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| What | What color is the person's shirt? | Pink. |
+| What | What color is the person's skirt? | Blue. |
+| How | How is the person's legs positioned in the image? | Crossed. |
+| How | How is the person putting on the stockings? | The person is in the process of putting on the stockings. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a black thigh-high sock? | Yes. |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a blue skirt? | Yes. |
+| What | What color is the person's shirt in the image? | Pink. |
+| What | What color is the person's skirt in the image? | Blue. |
+| How | How is the person's legwear being worn in the image? | The person is wearing black stockings and a black thighhigh sock. |
+| What | What is the person doing in the image? | The person is in the process of putting on the stockings. |

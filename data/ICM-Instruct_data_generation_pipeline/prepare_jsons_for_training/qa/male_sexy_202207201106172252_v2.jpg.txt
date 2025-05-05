@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| How | Is the man in the image standing in front of a shower? | Yes. |
+| Yes/No | Are the man's arms crossed in the image? | Yes. |
+| Yes/No | Does the image include a pair of black swim trunks? | Yes. |
+| Yes/No | Does the image include a black headband? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image wearing on his lower half? | Black swim trunks. |
+| What | What is the color of the headband in the image? | Black. |
+| How | How is the man standing in the image? | With his arms crossed. |
+| How | How does the image create a sense of intimacy and vulnerability? | Through the man's toplessness. |

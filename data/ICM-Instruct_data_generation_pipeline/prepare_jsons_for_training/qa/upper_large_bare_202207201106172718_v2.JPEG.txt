@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the person in the image wearing a blue wig? | Yes. |
+| Yes/No | Does the person in the image have their hand on their hip? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image create a captivating atmosphere? | Yes. |
+| Yes/No | Does the large area of the person's upper body exposed enhance the allure of the image? | Yes. |
+| What | What is the color of the wig worn by the person in the image? | Blue. |
+| What | What is the type of clothing worn by the person in the image? | Bikini top. |
+| How | How does the person in the image pose? | With their hand on their hip. |
+| How | How does the blue wig add to the image's overall atmosphere? | It creates a sense of allure and mystery. |

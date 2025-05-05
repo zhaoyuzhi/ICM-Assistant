@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Are the shorts tight-fitting? | Yes. |
+| Yes/No | Is the woman wearing a sports bra? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the shorts? | Pink and purple with a white stripe. |
+| What | What is the woman wearing under her shorts? | A white sports bra. |
+| How | How are the shorts fitting on the woman's body? | Tightfitting. |
+| How | How does the woman's pose accentuate her figure? | With her hands on her hips, her legs are slightly apart, and her figure is accentuated by the tightfitting shorts. |

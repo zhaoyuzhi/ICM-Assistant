@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the person in the image have their hand in their pocket? | Yes. |
+| Yes/No | Are the person's pants slightly pulled down? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image appropriate? | Yes. |
+| What | What is the color of the person's pants? | White. |
+| What | What is the person's pose in the image? | Standing with their hand in their pocket. |
+| How | How low is the exposure level of the image? | Very low. |
+| How | How does the person's pose and low exposure level suggest the setting of the image? | Casual and relaxed. |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the focus of the image on the person's torso and lower half of their legs? | Yes. |
+| What | What is the person in the image wearing? | White pants with a slit on the side. |
+| What | What is the person's hand doing in the image? | In their pocket. |
+| How | How would you describe the atmosphere of the image? | Casual and relaxed. |
+| How | How would you describe the focus of the image? | On the person's torso and lower half of their legs. |

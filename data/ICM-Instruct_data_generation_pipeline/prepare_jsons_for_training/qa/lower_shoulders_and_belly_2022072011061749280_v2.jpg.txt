@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of navy blue leggings? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman striking a pose with her left hand on her hip and her right hand resting on her thigh? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a plain white background? | Yes. |
+| Yes/No | Does the woman have a serious expression on her face? | Yes. |
+| What | What color are the leggings the woman is wearing? | Navy blue. |
+| What | What is the woman's facial expression in the image? | Serious. |
+| How | How is the woman's pose in the image? | Confident and sexy. |
+| How | How does the woman's attire draw attention to her body? | The formfitting leggings accentuate her figure, particularly her waist and hips. |

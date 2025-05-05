@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress short-sleeved? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing white sneakers? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color is the dress? | Blue and white striped. |
+| What | What type of shoes is the woman wearing? | White sneakers. |
+| How | How does the woman's outfit contribute to the sexy atmosphere of the image? | The shortsleeved dress with a high neckline and white sneakers exposes her thighs, creating an alluring and sensual atmosphere. |
+| How | How does the white background affect the image? | The white background draws attention to the subject, emphasizing her and her outfit, and creates a visually appealing and evocative image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the man in the image standing in front of a window? | Yes. |
+| Yes/No | Is the man in the image speaking into a microphone? | Yes. |
+| Yes/No | Is the man in the image dressed in formal attire? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| What | What is the man in the image doing? | He is speaking into a microphone, suggesting that he might be giving an interview or a speech. |
+| What | What is the background of the image? | The background is a white wall. |
+| How | How is the man in the image dressed? | He is dressed in a formal attire, wearing a white shirt and black pants. |
+| How | How does the low exposure level of the image affect the focus of the image? | The low exposure level of the image emphasizes the focus on the man and his actions, rather than his physical appearance or the background. |

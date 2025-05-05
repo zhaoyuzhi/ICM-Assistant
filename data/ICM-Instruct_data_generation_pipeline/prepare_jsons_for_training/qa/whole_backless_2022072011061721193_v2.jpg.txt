@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white wedding dress? | Yes. |
+| Yes/No | Is the dress low back? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is the dress made of sheer fabric? | Yes. |
+| Yes/No | Does the train of the dress extend behind the woman? | Yes. |
+| Yes/No | Is the image generally sexy? | Yes. |
+| What | What is the woman in the image wearing? | A white wedding dress with a low back and a train. |
+| What | What is the significance of the white wedding dress? | It symbolizes bridal beauty and allure. |
+| How | How is the woman posing in the image? | With her back to the camera, facing away from it. |
+| How | How does the woman's pose contribute to the overall allure of the image? | It adds an element of mystery and intrigue, leaving the viewer to imagine what she might look like from the front. |

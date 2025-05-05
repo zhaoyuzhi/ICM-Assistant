@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Is the woman wearing a pink top? | Yes. |
+| Yes/No | Is the curtain behind the woman gray? | Yes. |
+| What | What color is the woman's dress? | Peach. |
+| What | What color is the woman's top? | Pink. |
+| How | How is the woman's attitude in the image? | Confident and alluring. |
+| What | What does the woman's actions and attire suggest? | Sensuality and allure. |

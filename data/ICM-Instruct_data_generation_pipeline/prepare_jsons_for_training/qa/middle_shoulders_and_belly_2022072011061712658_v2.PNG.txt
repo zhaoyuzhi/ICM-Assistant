@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person holding a phone in their left hand? | Yes. |
+| Yes/No | Is there an electronic device on the person's stomach? | Yes. |
+| Yes/No | Is the person standing on a sidewalk? | Yes. |
+| What | What color is the person's shirt? | Black. |
+| What | What is the person holding in their left hand? | A phone. |
+| How | How is the electronic device on the person's stomach connected to the small pouch on their hip? | It is connected by a cord or wire. |
+| How | How does the image make you feel? | The image creates a sense of allure and intrigue, making me feel curious and interested in the person's story. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are they holding a cell phone in their right hand? | Yes. |
+| Yes/No | Is the electronic device on their stomach visible? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What color is the person's shirt? | Black. |
+| What | What is the person holding in their right hand? | A cell phone. |
+| How | How is the person's skin visible in the image? | Their belly is exposed. |
+| How | How does the image create a sense of trust and openness? | The person is wearing an electronic device on their stomach, suggesting a sense of vulnerability and intimacy. |

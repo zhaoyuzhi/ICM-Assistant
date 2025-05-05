@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a red skirt? | Yes. |
+| Yes/No | Does the woman's outfit expose her midriff? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's outfit elegant and sophisticated? | Yes. |
+| What | What is the woman in the image wearing on her top? | A midriffbaring top. |
+| What | What is the pattern on the woman's skirt? | Lace. |
+| How | How does the woman's outfit create an atmosphere? | The combination of the strapless top, red skirt, and lace pattern creates an alluring and captivating atmosphere. |
+| How | How does the blue background contribute to the overall feel of the image? | The blue background complements the woman's outfit and adds a sense of calmness and serenity to the overall feel of the image. |

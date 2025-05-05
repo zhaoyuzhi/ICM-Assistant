@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the child in the image swinging on a swing set? | Yes. |
+| Yes/No | Is the child wearing a white shirt with blue stripes? | Yes. |
+| Yes/No | Does the child have a ponytail? | Yes. |
+| Yes/No | Is the swing set made of wood? | Yes. |
+| Yes/No | Does the swing set have a blue and white striped seat? | Yes. |
+| Yes/No | Is the child's motion blurred in the image, indicating they are in motion? | Yes. |
+| What | What is the child's gender? | The child's gender is not explicitly stated in the description, but based on the ponytail, it is likely a girl. |
+| What | What is the child's age? | The child is described as "young," but their exact age is not specified. They appear to be between 48 years old. |
+| How | How is the child's motion depicted in the image? | The child's motion is depicted as a blur, suggesting they are swinging back and forth on the swing set. |
+| How | How would you describe the mood of the image? | The mood of the image is playful and innocent, with a focus on the child's enjoyment of the swing set. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image wearing a white skirt? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a gray wall? | Yes. |
+| Yes/No | Is the woman in the image looking off to the side? | Yes. |
+| Yes/No | Is the woman's hand placed on her chin? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman's skirt style? | Midriffbaring. |
+| How | How is the woman's hand positioned in the image? | Resting on her chin. |
+| How | How would you describe the woman's overall pose in the image? | Confident and alluring. |

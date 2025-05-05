@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of navy blue sweatpants? | Yes. |
+| Yes/No | Is the man in the image wearing a gray sweatshirt? | Yes. |
+| Yes/No | Does the man's pose suggest a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire casual and non-threatening? | Yes. |
+| What | What is the color of the man's sweatpants? | Navy blue. |
+| What | What is the color of the man's sweatshirt? | Gray. |
+| How | How does the man's pose suggest a casual and relaxed atmosphere? | The man is standing with his hands in his pockets, which implies a relaxed and casual stance. |
+| How | How does the exposure level of the image contribute to the non-sexual nature of the image? | The low exposure level means that only a small portion of the man's body is visible, which reduces the potential for sexualization or objectification. |
+| Yes/No | Is the man in the image wearing blue sweatpants? | Yes. |
+| Yes/No | Are the man's hands in his pockets? | Yes. |
+| Yes/No | Is the man's gaze directed straight ahead? | Yes. |
+| Yes/No | Are the man's pants slightly pulled down, revealing his underwear? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the man's posture in the image? | Relaxed. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How does the low angle shot contribute to the atmosphere of the image? | It emphasizes the man's torso and waist, adding to the casual and relaxed atmosphere. |
+| How | How does the exposure level of the image contribute to its non-sexual nature? | The very low exposure level helps to minimize any potentially sexualizing aspects of the image, further contributing to its nonsexual nature. |

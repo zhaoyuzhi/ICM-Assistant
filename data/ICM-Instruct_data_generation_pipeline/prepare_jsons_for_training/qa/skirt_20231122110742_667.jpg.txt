@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green dress? | Yes. |
+| Yes/No | Is the dress a crop top? | Yes. |
+| Yes/No | Does the dress have a high slit? | Yes. |
+| Yes/No | Are the woman's legs and thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing white shoes? | Yes. |
+| Yes/No | Is the image a collage of three photos? | Yes. |
+| What | What color is the woman's dress? | Green. |
+| What | What is the woman lifting her dress above her knees with? | Her hands. |
+| How | How is the woman's pose in the image? | Seductive. |

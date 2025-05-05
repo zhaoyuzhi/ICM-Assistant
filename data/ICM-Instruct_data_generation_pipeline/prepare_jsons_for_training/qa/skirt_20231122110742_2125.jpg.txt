@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress flowery? | Yes. |
+| Yes/No | Does the dress have a high slit? | Yes. |
+| Yes/No | Is the woman lifting her dress to reveal her legs? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color is the dress? | Pink. |
+| What | What is the woman doing in the image? | Lifting her dress to reveal her legs. |
+| How | How does the white wall in the background affect the image? | It provides a stark contrast, emphasizing the woman and her actions. |
+| How | How does the overall appearance of the dress contribute to the image's atmosphere? | The flowery dress with a high slit adds to the overall allure, showing off the woman's legs and creating a visually appealing image. |

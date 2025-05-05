@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a tank top? | Yes. |
+| Yes/No | Is the wall in the background blue? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person have a large exposed back? | Yes. |
+| Yes/No | Is the barbell in the image black? | No. |
+| Yes/No | Is the person standing? | Yes. |
+| What | What color is the wall in the background? | Red. |
+| What | What is the person holding above their head? | A barbell. |
+| How | How many questions do you create? | 10. |

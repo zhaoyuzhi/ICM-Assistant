@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman's tongue sticking out in the image? | Yes. |
+| Yes/No | Are her eyes visible in the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the woman smiling in the image? | No. |
+| How | Does the image show the woman's full face? | No. |
+| Yes/No | Is the woman's hair visible in the image? | No. |
+| What | What is the woman doing in the image? | Sticking out her tongue. |
+| What | What is the dominant color of the woman's lips in the image? | Pink. |
+| How | How is the woman's tongue positioned in the image? | It is sticking out of her mouth. |
+| How | How does the close-up nature of the image contribute to its overall atmosphere? | It creates a sense of intimacy and allure. |

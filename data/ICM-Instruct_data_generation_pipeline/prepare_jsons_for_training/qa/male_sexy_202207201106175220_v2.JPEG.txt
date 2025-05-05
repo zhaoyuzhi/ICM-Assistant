@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing against a plain white background? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Are the man's boxer shorts black and white patterned? | Yes. |
+| Yes/No | Does the image have a sensual and alluring atmosphere? | Yes. |
+| What | What is the man wearing? | A pair of black and white patterned boxer shorts. |
+| What | What is the background of the image? | Plain white. |
+| How | How is the man posing in the image? | Confidently. |
+| How | How does the image make the man's physique feel? | More sensual and alluring due to the plain white background and black and white patterned boxer shorts. |

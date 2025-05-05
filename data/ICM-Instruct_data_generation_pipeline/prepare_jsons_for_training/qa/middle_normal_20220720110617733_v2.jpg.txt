@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Does the person have a tropical print design on their shorts? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Is the image intended to be sexy? | No. |
+| What | What is the color of the person's shorts? | Blue and white. |
+| What | What is the focus of the image? | The person's attire. |
+| How | How are the shorts designed? | They have a tropical print design featuring palm trees and flowers. |
+| How | How much of the person's body is visible in the image? | Only a small portion. |
+| Yes/No | Is the person in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Does the person have a tropical print design on their shorts? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Is the focus of the image on the person's attire rather than their body or potential nudity? | Yes. |
+| What | What is the color of the person's shorts? | Blue and green. |
+| What | What is the atmosphere of the image? | Casual and relaxed. |
+| How | How is the person standing in the image? | Against a white background. |
+| How | How does the low exposure level contribute to the image's non-sexy appearance? | It emphasizes the person's clothing rather than their body. |

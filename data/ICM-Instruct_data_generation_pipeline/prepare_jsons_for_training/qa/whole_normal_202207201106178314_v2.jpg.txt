@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl the main subject of the image? | Yes. |
+| Yes/No | Is the girl wearing a blue dress with a pink collar and a white shoe? | Yes. |
+| Yes/No | Is the girl standing in a pose with her left hand on her hip and her right hand on her thigh? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the overall atmosphere of the image? | Innocent and playful. |
+| What | What does the girl's pose and outfit suggest? | Youthfulness and joy. |
+| How | How does the plain white background contribute to the image's atmosphere? | It emphasizes the girl and her outfit, making the image feel clean and uncluttered. |
+| How | How does the low exposure level of the image contribute to its atmosphere? | It contributes to a calm and peaceful atmosphere. |

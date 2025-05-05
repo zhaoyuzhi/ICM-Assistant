@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a garter belt? | Yes. |
+| Yes/No | Is the woman in the image standing on a balcony? | Yes. |
+| Yes/No | Is the woman in the image holding onto the railing? | Yes. |
+| Yes/No | Is the woman in the image wearing a pearl necklace? | Yes. |
+| Yes/No | Is the woman in the image wearing earrings? | Yes. |
+| What | What is the woman in the image holding onto the railing with? | Her left hand. |
+| What | What is the woman in the image wearing around her neck? | A pearl necklace. |
+| How | How is the woman in the image standing in relation to the railing? | She is standing with her feet shoulderwidth apart, with her left hand holding onto the railing for support. |
+| How | How does the woman in the image look? | She looks elegant and sophisticated. |

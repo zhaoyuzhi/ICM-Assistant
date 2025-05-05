@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a denim jacket? | Yes. |
+| Yes/No | Does the woman in the image have her hair styled in loose curls? | Yes. |
+| Yes/No | Is the woman in the image posing with her hands on her hips? | Yes. |
+| Yes/No | Is the image sexy because of the woman's attire and pose? | Yes. |
+| What | What is the woman in the image wearing? | A strapless top and a denim jacket. |
+| How | How is the woman's hair styled in the image? | Loose curls. |
+| How | How is the woman posing in the image? | With her hands on her hips. |
+| What | What atmosphere does the image convey? | Bold and seductive. |

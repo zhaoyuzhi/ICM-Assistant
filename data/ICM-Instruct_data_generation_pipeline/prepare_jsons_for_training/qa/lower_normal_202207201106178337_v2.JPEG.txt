@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a black top and olive green trousers? | Yes. |
+| Yes/No | Does the woman have black shoes? | Yes. |
+| Yes/No | Is the woman's gaze directed straight ahead? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's outfit modest? | Yes. |
+| Yes/No | Does the image evoke any sexual connotations? | No. |
+| What | What is the color of the woman's top? | Black. |
+| What | What is the color of the woman's trousers? | Olive green. |
+| How | How is the woman standing in the image? | Neutral. |
+| How | How does the white background of the image contribute to its overall atmosphere? | It emphasizes the simplicity of the image and creates a calm and unassuming atmosphere. |

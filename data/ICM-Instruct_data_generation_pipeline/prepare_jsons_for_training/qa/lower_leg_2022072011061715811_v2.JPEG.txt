@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Does the person have a bow on their sandals? | Yes. |
+| Yes/No | Is the person sitting on the floor? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's hands placed on their knees? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the person's sandals? | Beige. |
+| What | What is the pattern on the skirt? | Floral. |
+| How | How are the person's legs positioned in the image? | Crossed, with feet resting on the floor. |
+| How | How does the close-up perspective of the image enhance the overall atmosphere? | It emphasizes the details of the person's attire and posture, creating a sense of intimacy. |

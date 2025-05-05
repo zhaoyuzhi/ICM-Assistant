@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a brown blouse with a floral pattern? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman carrying a white purse? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color is the woman's blouse? | Brown. |
+| What | What is the woman carrying in her hand? | A white purse. |
+| How | How does the woman's attire and overall atmosphere of the image suggest modesty? | The woman's attire is modest and appropriate, with a classic and elegant look, and the overall atmosphere of the image is also modest and appropriate, with a focus on the woman's outfit and pose rather than any provocative elements. |
+| How | How does the low exposure level of the image further emphasize the modesty of the image? | The low exposure level of the image ensures that the woman's attire and pose are the focus of the image, rather than any explicit or suggestive content, further emphasizing the modesty of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman's facial expression relaxed? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Does the image convey an atmosphere of allure and intrigue? | Yes. |
+| Yes/No | Is the woman's hair dark? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What is the gesture made by the woman in the image? | Sticking out her tongue. |
+| How | How does the woman's facial expression add to the overall atmosphere of the picture? | It is relaxed and inviting. |
+| How | How does the contrast between the woman's hair and shirt enhance the image? | It adds a touch of boldness and sophistication. |

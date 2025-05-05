@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Is the bed covered with white sheets? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's pose draw attention to her body? | Yes. |
+| What | What is the woman wearing in the image? | A white bra and white underwear. |
+| What | What is the atmosphere of the image? | Sensual and seductive. |
+| How | How is the woman posing in the image? | With her legs spread apart and her hands on her knees. |
+| How | How does the image make the woman appear? | More alluring. |

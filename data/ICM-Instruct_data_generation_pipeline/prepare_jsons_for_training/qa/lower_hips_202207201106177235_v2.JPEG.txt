@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image posing in a confident manner? | Yes. |
+| Yes/No | Is the person in the image wearing red leggings? | Yes. |
+| Yes/No | Does the person's left hand rest on their hip? | Yes. |
+| Yes/No | Is the person's right hand placed on their thigh? | Yes. |
+| Yes/No | Is the person looking directly at the camera? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual and alluring? | Yes. |
+| What | What is the person's pose in the image? | The person is posing in a confident and seductive manner, with their left hand resting on their hip and their right hand placed on their thigh. |
+| What | What is the texture of the red leggings? | The red leggings have a textured pattern, adding a sense of depth and detail to the image. |
+| How | How does the person's gaze directed towards the camera make the viewer feel? | The person's gaze directed towards the camera engages the viewer and makes them the focal point of the image, creating a sense of attraction and allure. |
+| How | How do the red leggings draw attention to the person's lower body? | The red leggings add a vibrant and eyecatching element to the image, drawing attention to the person's lower body and accentuating their curves. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Are the person's legs exposed in the image? | Yes. |
+| Yes/No | Is the person's attire and pose suggestive of a relaxed and confident demeanor? | Yes. |
+| Yes/No | Does the image exude a sense of confidence and allure? | Yes. |
+| Yes/No | Is the person wearing red flip flops? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their feet? | Red flip flops. |
+| What | What is the person's pose in the image? | Crossed legs. |
+| How | How does the person's attire and pose suggest a relaxed and confident demeanor? | The person's attire, a bikini, is often associated with a sense of freedom and relaxation, while their crossed legs pose exudes confidence and seductiveness. |
+| How | How does the image exude a sense of confidence and allure? | The combination of the person's attire, pose, and the red flip flops creates an atmosphere that is both alluring and inviting, making the image sexy. |

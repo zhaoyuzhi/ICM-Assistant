@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing green shorts? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Is the person wearing red heels? | Yes. |
+| Yes/No | Does the image capture a moment that is both stylish and provocative? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the person's pose with their legs apart add an element of allure and intrigue? | Yes. |
+| What | What color are the shorts? | Green. |
+| What | What kind of shoes is the person wearing? | Red heels. |
+| How | How does the person's pose with their legs apart contribute to the overall atmosphere of the image? | It adds an element of allure and intrigue. |
+| How | How do the cropped shorts and red heels suggest a sense of confidence and boldness? | They create a bold and confident appearance. |

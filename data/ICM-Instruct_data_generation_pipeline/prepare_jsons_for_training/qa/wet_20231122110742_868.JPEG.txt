@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue and white plaid shirt? | Yes. |
+| Yes/No | Is the woman laying down on a rock in a stream? | Yes. |
+| Yes/No | Are her clothes soaked? | Yes. |
+| Yes/No | Does the image evoke a sense of vulnerability? | Yes. |
+| Yes/No | Is the overall atmosphere of the image serene and peaceful? | Yes. |
+| Yes/No | Does the image suggest that the woman is in a relaxed and carefree state? | Yes. |
+| What | What is the woman doing in the image? | She is laying down on a rock in a stream with her eyes closed. |
+| What | What is the woman's facial expression in the image? | Her facial expression is relaxed and peaceful. |
+| How | How is the woman's body positioned in the image? | She is laying down on her back with her arms and legs stretched out. |
+| How | How does the water appear to be interacting with the woman's body in the image? | The water is flowing over her body, giving the impression that she is being washed away or carried by the stream. |

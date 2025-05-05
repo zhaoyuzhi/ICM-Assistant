@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person looking down at the floor in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Are the black stockings with a floral pattern associated with sensuality and allure? | Yes. |
+| What | What is the person in the image looking at? | The floor. |
+| What | What is the color of the couch in the image? | White. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the person's downward gaze contribute to the overall atmosphere of the image? | It creates a sense of vulnerability and intimacy. |

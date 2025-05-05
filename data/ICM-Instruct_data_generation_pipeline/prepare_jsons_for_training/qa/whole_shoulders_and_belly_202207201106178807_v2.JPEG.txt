@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image holding a cup of popcorn? | Yes. |
+| Yes/No | Are the colors in the woman's outfit a combination of blue, pink, and white? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| Yes/No | Is the overall atmosphere of the image playful and confident? | Yes. |
+| What | What is the woman in the image holding in her hand? | A cup of popcorn. |
+| What | What color is the woman's outfit? | Blue, pink, and white. |
+| How | How is the woman posing for the camera? | With her hands on her hips and her head tilted to the side. |
+| How | How would you describe the overall atmosphere of the image? | Playful and confident. |

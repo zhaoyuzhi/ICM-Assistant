@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the left photo wearing a traditional Chinese outfit? | Yes. |
+| Yes/No | Is the man in the right photo holding a sword? | Yes. |
+| Yes/No | Are the woman and man kissing in the image? | Yes. |
+| Yes/No | Is the woman's lips pressed against the man's? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the image include a collage of two photos? | Yes. |
+| What | What is the woman holding in her hand in the left photo? | A fan. |
+| What | What is the man holding in his hand in the right photo? | A sword. |
+| How | How are the woman and man dressed in the image? | The woman is dressed in a traditional Chinese outfit, and the man is dressed in a white outfit. |
+| How | How do the woman and man appear to be interacting in the image? | They appear to be kissing passionately. |

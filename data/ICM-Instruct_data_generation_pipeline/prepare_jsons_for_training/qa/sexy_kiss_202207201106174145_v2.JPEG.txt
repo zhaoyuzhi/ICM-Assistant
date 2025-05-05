@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a pink shirt? | Yes. |
+| Yes/No | Are the couple kissing passionately? | Yes. |
+| Yes/No | Is the atmosphere of the image romantic? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the couple's close proximity suggest a deep connection between them? | Yes. |
+| What | What is the color of the man's shirt? | Black. |
+| What | What is the color of the woman's shirt? | Pink. |
+| How | How are the couple positioned in the image? | The man is positioned on the left, and the woman is positioned on the right. |
+| How | How do the couple's lips meet in the kiss? | Their lips meet tenderly and passionately. |

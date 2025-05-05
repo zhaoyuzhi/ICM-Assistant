@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Does the woman have a short bob with bangs? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Is the woman dressed in a modest outfit? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| What | What is the woman wearing? | A beige blouse with a buttondown front and a collar. |
+| What | What is the woman's hair style? | A short bob with bangs. |
+| How | How is the background of the image? | Blurred, indicating a low exposure level. |
+| How | How would you describe the overall atmosphere of the image? | Casual, everyday setting; not sexy, ordinary. |

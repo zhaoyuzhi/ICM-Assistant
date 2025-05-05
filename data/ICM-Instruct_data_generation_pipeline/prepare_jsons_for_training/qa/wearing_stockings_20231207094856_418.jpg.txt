@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's heels black? | Yes. |
+| Yes/No | Is the person wearing a gold bracelet? | Yes. |
+| Yes/No | Is the person's left hand holding a stocking? | Yes. |
+| Yes/No | Is the person's right hand pulling up the stocking? | Yes. |
+| Yes/No | Is the person's left leg exposed in the image? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black stockings. |
+| What | What is the person in the image wearing on their feet? | Black heels. |
+| How | How is the person in the image putting on their stockings? | They are holding the stocking up with their left hand and pulling it up their left leg with their right hand. |
+| How | How does the person's attire and actions in the image contribute to the overall atmosphere? | The person's attire and actions create a seductive atmosphere in the image, suggesting a sense of intimacy, allure, and selfcare. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person wearing a black dress? | Yes. |
+| Yes/No | Are black heels worn by the person in the image? | Yes. |
+| Yes/No | Is the person's left hand holding the stocking up? | Yes. |
+| Yes/No | Is the person's right hand pulling the stocking up their left leg? | Yes. |
+| Yes/No | Does the person have a gold bracelet on their left wrist? | Yes. |
+| What | What is the person in the image wearing on their feet? | Black heels. |
+| What | What is the person holding in their left hand in the image? | A black stocking. |
+| How | How is the person wearing their hair in the image? | Not specified. |
+| How | How does the image make you feel? | It creates a seductive atmosphere and gives off a sense of intimacy and allure. |

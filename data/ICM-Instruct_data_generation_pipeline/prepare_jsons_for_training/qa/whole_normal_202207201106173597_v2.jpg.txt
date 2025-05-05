@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing sneakers? | Yes. |
+| Yes/No | Is the person in the image wearing a baseball cap? | Yes. |
+| Yes/No | Are the sneakers black and purple? | Yes. |
+| Yes/No | Does the person in the image have their hands on their knees? | Yes. |
+| Yes/No | Is the background of the image a brick wall? | Yes. |
+| Yes/No | Is the image exposed properly? | No. |
+| What | What color is the person's shirt? | Blue and white. |
+| What | What is the logo on the side of the sneakers? | Triangle. |
+| How | How is the person positioned in the image? | Crouching down. |
+| What | What is the atmosphere of the image? | Casual and lowkey. |

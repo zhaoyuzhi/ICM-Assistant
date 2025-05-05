@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing khaki pants? | Yes. |
+| Yes/No | Is the person in the image wearing a striped shirt? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's pants pulled down revealing their underwear? | Yes. |
+| Yes/No | Is the image sexually explicit? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What color are the person's pants? | Khaki. |
+| What | What type of shirt is the person wearing? | Striped. |
+| How | How are the person's pants pulled down? | Slightly. |
+| What | What is the overall atmosphere of the picture? | Nonsexual. |
+| Yes/No | Is the person in the image wearing a pair of khaki pants? | Yes. |
+| Yes/No | Does the person have a striped shirt on? | Yes. |
+| Yes/No | Is the style of the pants flat front and straight leg? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the focus of the image on the person's clothing rather than their body? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the pants? | Khaki. |
+| What | What is the style of the shirt? | Striped. |
+| How | How low is the exposure level of the image? | Very low. |
+| How | How much of the person's body is visible in the image? | Only the lower half, including the pants and shirt. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the belt have a graphic design on it? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person's attire suggest a casual, everyday setting? | Yes. |
+| What | What is the main focus of the image? | The person's belly. |
+| What | What is the person's attire, including the shirt and jeans? | White shirt and blue jeans. |
+| How | How does the graphic design on the belt add to the overall look of the image? | It adds a touch of personality and style. |
+| How | How does the image create a visually appealing and sexy atmosphere? | The closeup view of the belly, combined with the casual and relaxed atmosphere created by the person's attire, and the graphic design on the belt, creates a visually appealing and sexy image. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the graphic design on the belt visible in the image? | Yes. |
+| Yes/No | Is the person's hand holding up their shirt? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person wearing on their feet? | The person is not wearing any shoes, as they are only wearing socks. |
+| What | What is the color of the graphic design on the belt? | The graphic design on the belt is blue. |
+| How | How is the person holding up their shirt? | The person is holding up their shirt with their right hand. |
+| How | How does the graphic design on the belt contribute to the overall atmosphere of the image? | The graphic design on the belt adds a touch of edginess and playfulness to the image, which complements the person's confident and alluring demeanor. |

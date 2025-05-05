@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black pants? | Yes. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the person's shirt have white text on it? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire modest and simple? | Yes. |
+| What | What is the color of the person's pants? | Black. |
+| What | What is the color of the person's shirt? | Black. |
+| What | What is the logo on the back of the person's pants? | Small. |

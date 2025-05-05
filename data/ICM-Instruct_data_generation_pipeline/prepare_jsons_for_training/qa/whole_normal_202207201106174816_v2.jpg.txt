@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the car in the image a silver sedan? | Yes. |
+| Yes/No | Is the man's shirt white? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the image contain any elements that suggest a romantic or intimate context? | No. |
+| What | What is the man in the image doing? | Stepping out of a car. |
+| What | What is the color of the car's roof? | Black. |
+| How | How is the man's appearance depicted in the image? | Not clearly visible due to low exposure level. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It emphasizes the man's actions and the car, rather than his appearance or the setting. |

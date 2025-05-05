@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Does the image contain any explicit content? | No. |
+| Yes/No | Is the woman in the image standing against a white background? | Yes. |
+| Yes/No | Does the image have a calm atmosphere? | Yes. |
+| Yes/No | Is the image modest? | Yes. |
+| What | What is the color of the woman's skirt? | Light brown. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How is the woman standing in the image? | She is standing upright, with her feet shoulderwidth apart. |
+| How | How can you describe the woman's pose in the image? | Her pose is relaxed, with her arms at her sides. |

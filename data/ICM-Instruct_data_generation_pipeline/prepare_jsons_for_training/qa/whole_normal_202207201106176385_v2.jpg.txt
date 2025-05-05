@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress navy blue? | Yes. |
+| Yes/No | Does the dress have a white collar? | Yes. |
+| Yes/No | Is the woman holding a purse? | Yes. |
+| Yes/No | Is the purse white? | Yes. |
+| Yes/No | Are the woman's hands clasped in front of her? | Yes. |
+| What | What color is the couch in the background? | White. |
+| What | What type of necklace is the woman wearing? | Gold. |
+| How | How would you describe the overall atmosphere of the image? | Calm and composed. |
+| How | How does the low exposure level of the image contribute to the modesty of the scene? | It emphasizes the modesty of the woman's outfit and the overall atmosphere of the image. |

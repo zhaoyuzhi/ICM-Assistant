@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Is the woman wearing any other jewelry aside from the gold necklace? | No. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the woman's pose in the image? | Confident. |
+| How | How does the woman's confident pose contribute to the overall atmosphere of the image? | It adds to the overall allure and sophistication of the image. |
+| How | How does the gold necklace with a pendant add to the image? | It adds a touch of luxury and elegance to her outfit. |

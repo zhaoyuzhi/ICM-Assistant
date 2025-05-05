@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the woman wearing high heels? | Yes. |
+| Yes/No | Does the image suggest an urban setting? | Yes. |
+| Yes/No | Does the woman's pose and attire create a sense of confidence and allure? | Yes. |
+| What | What color is the woman's shirt? | Blue. |
+| What | What is the woman's skirt length? | Short. |
+| How | How does the woman's attire contribute to the overall sexy feel of the image? | The woman's short skirt and high heels create a sense of sexualization and allure. |
+| How | How does the image suggest confidence and sophistication? | The woman's pose and attire, particularly her high heels, suggest confidence and sophistication. |

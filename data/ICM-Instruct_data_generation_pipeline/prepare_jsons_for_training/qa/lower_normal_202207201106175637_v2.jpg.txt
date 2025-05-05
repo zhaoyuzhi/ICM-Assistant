@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a jumpsuit? | Yes. |
+| Yes/No | Is the background of the image green? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| Yes/No | Are the woman's sneakers white? | Yes. |
+| Yes/No | Is the woman's attire revealing or intimate? | No. |
+| Yes/No | Does the image focus on the woman's body rather than her outfit? | No. |
+| What | What is the woman wearing on her feet? | White sneakers. |
+| What | What is the dominant color of the woman's outfit? | Black. |
+| How | How does the green background contribute to the image's atmosphere? | It provides a neutral backdrop that emphasizes the woman's outfit rather than her body. |
+| How | How does the low exposure level of the woman contribute to the image's non-sexual nature? | It does not focus on her body or reveal any intimate details. |

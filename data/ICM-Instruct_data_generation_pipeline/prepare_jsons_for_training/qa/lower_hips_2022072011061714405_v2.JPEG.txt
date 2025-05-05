@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the person's legs bent and their hands resting on their knees? | Yes. |
+| Yes/No | Are the person's white sneakers a contrast to the blue of their leggings? | Yes. |
+| How | Does the image showcase the person's buttocks? | Yes. |
+| Yes/No | Is the overall atmosphere of the image confident and assertive? | Yes. |
+| What | What color are the person's leggings? | Blue. |
+| What | What type of shoes is the person wearing? | White sneakers. |
+| How | How are the person's legs bent? | They are kneeling on the floor with their legs bent and their hands resting on their knees. |
+| How | How does the image create a visually appealing contrast? | The blue leggings and white sneakers create a contrast that draws attention to the buttocks. |

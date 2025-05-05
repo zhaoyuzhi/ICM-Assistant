@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Is the man standing in front of a wooden structure? | Yes. |
+| Yes/No | Are there people in the background of the image? | Yes. |
+| Yes/No | Is the image focused on the man and the wooden structure? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the man wearing in the image? | A black tshirt. |
+| What | What is the man standing in front of in the image? | A wooden structure. |
+| How | How many people are in the background of the image? | A group of people. |
+| How | How is the image focused? | The image is focused on the man and the wooden structure. |

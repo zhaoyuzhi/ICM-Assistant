@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a midriff-baring skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a blue purse? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a white wall? | Yes. |
+| Yes/No | Does the woman's outfit and pose suggest a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman holding in her hand? | A blue purse. |
+| What | What is the color of the wall in the background? | White. |
+| How | How is the woman standing in the image? | She is standing with a sense of confidence and allure. |
+| How | How does the white wall in the background contrast with the woman and her outfit? | It provides a stark contrast, further emphasizing the woman and her outfit. |

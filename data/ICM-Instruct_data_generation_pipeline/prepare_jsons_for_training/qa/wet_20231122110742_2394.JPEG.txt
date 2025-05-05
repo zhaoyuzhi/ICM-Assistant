@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image sitting in a body of water? | Yes. |
+| Yes/No | Is the man wearing a blue shirt and black pants? | Yes. |
+| Yes/No | Are the man's clothes soaked? | Yes. |
+| Yes/No | Is the man looking off to the side? | Yes. |
+| Yes/No | Is his hand resting on his head? | Yes. |
+| Yes/No | Does the image have a sense of relaxation and contemplation? | Yes. |
+| What | What color is the man's shirt? | Blue. |
+| What | What is the man's facial expression? | Looking off to the side with a sense of contemplation. |
+| How | How are the man's clothes soaked? | They are soaked because he has been in the water for some time. |
+| How | How does the body of water contribute to the atmosphere of the image? | It adds a sense of mystery and allure, suggesting that there may be more beyond the frame of the image. |

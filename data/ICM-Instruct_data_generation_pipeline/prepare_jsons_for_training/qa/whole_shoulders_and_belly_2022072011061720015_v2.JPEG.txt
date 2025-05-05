@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Does the dress have a high slit? | Yes. |
+| Yes/No | Is the dress cinched at the waist with a belt? | Yes. |
+| Yes/No | Does the dress have a tie at the neck? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the dress? | Gray. |
+| What | What is the woman standing on? | Red carpet. |
+| How | How is the dress cinched at the waist? | With a belt. |
+| How | How does the image make the woman's outfit feel? | Glamorous and alluring. |

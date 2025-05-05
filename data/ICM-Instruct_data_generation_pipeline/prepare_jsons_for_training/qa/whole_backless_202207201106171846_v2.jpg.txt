@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the person leaning on a bed? | Yes. |
+| Yes/No | Is the person's right hand resting on the bed? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What color is the dress? | Red. |
+| What | What is the person's pose? | Leaning on the bed with their left hand, right hand resting on the bed. |
+| How | How is the person's attire revealing? | The dress has a deep neckline and low back, revealing a large area of the person's back. |
+| How | How does the person's pose contribute to the intimate atmosphere? | The person's pose suggests a relaxed and confident demeanor, adding to the intimate atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the photo? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the purse white? | Yes. |
+| Yes/No | Is the background white? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How does the woman carry her purse? | She carries it in her hand. |
+| How | How would you describe the atmosphere of the image? | Neutral and nonsexual. |

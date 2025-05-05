@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the bra blue? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Does the woman have a focused expression? | Yes. |
+| Yes/No | Is the image close-up? | Yes. |
+| What | What is the woman holding in her hands? | The bra cups. |
+| What | What is the dominant color of the bra? | Blue. |
+| How | How is the woman adjusting the bra? | She is holding the cups and adjusting them. |
+| What | What atmosphere does the image evoke? | Intimacy and allure. |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman's expression focused? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the act of putting on a bra generally considered intimate and personal? | Yes. |
+| What | What color is the woman's bra? | Blue. |
+| What | What is the woman's facial expression in the image? | Focused. |
+| How | How is the woman adjusting the bra cups? | She is holding them in her hands and adjusting them. |
+| What | What feeling does the image evoke? | Intimacy and allure. |

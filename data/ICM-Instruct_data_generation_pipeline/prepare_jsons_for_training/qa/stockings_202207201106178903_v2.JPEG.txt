@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the person wearing a white ribbon around their ankle? | Yes. |
+| Yes/No | Is the chair made of wood? | Yes. |
+| Yes/No | Does the background include a white curtain? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the color of the stockings? | White. |
+| What | What is the material of the chair? | Wood. |
+| How | How does the person's pose on the chair enhance the image? | It gives the impression of confidence and selfassuredness. |
+| How | How does the white curtain in the background contribute to the atmosphere of the image? | It creates a soft and intimate atmosphere. |

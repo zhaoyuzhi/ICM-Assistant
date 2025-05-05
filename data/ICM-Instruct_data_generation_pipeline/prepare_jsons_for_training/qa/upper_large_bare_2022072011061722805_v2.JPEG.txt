@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Is the woman in the image holding a tennis racket? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Is the woman's left hand placed on her hip? | Yes. |
+| Yes/No | Is the image described as "sexy"? | Yes. |
+| Yes/No | Are the woman's underwear and bra matching? | Yes. |
+| What | What is the woman holding in her right hand? | A tennis racket. |
+| What | What color is the woman's bra and underwear? | Blue. |
+| How | How is the woman standing in the image? | With her left hand on her hip and her right hand holding a tennis racket. |
+| How | How would you describe the atmosphere of the image? | Seductive and alluring. |

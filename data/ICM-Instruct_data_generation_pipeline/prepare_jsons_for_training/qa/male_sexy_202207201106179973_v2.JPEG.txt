@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the man holding a barbell? | Yes. |
+| Yes/No | Is the image taken in a gym setting? | Yes. |
+| Yes/No | Does the man have well-defined muscles? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man have a confident demeanor? | Yes. |
+| What | What is the man holding in the image? | A barbell. |
+| What | What is the man wearing in the image? | Blue shorts. |
+| How | How is the man's physique described in the image? | Muscular and welldefined. |
+| How | How does the gym setting contribute to the overall atmosphere of the image? | It emphasizes the man's dedication to fitness and health, which can be seen as sexy to some viewers. |

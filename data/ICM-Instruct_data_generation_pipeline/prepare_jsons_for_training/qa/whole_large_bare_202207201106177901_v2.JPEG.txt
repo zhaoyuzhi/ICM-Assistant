@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a thong? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Are the woman's hands resting on her knees in the image? | Yes. |
+| Yes/No | Is the bed in the image covered with a white sheet? | Yes. |
+| Yes/No | Does the image have a sexy and alluring atmosphere? | Yes. |
+| What | What color is the woman's bra in the image? | White. |
+| What | What color is the woman's thong in the image? | Purple. |
+| How | How are the woman's legs positioned in the image? | Spread apart. |
+| How | How are the woman's hands positioned in the image? | Resting on her knees. |

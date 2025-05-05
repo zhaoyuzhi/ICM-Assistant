@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have a heart-shaped design? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the background of the image a simple white curtain? | Yes. |
+| Yes/No | Is the woman's pose dynamic? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She is resting her left hand on her head and placing her right hand on her hip. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, with her left hand on her head and her right hand on her hip, adds a sense of confidence and allure to the image, contributing to its seductive and inviting atmosphere. |
+| How | How does the white t-shirt with the heart-shaped design contrast with the blue jeans? | The white tshirt with the heartshaped design adds a touch of innocence and purity, while the blue jeans provide a casual and relaxed look, creating a contrast that enhances the image's overall seductive appeal. |

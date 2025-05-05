@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing denim shorts? | Yes. |
+| Yes/No | Is the person wearing a blue t-shirt? | Yes. |
+| Yes/No | Are the denim shorts adorned with a floral pattern? | Yes. |
+| Yes/No | Is the person wearing white sneakers? | Yes. |
+| Yes/No | Is the image sexy due to the person's attire and pose? | Yes. |
+| Yes/No | Does the white wall in the background accentuate the person? | Yes. |
+| What | What color are the person's sneakers? | White. |
+| What | What type of pattern is on the denim shorts? | Floral. |
+| How | How does the person's pose contribute to the image's overall vibe? | The person's pose gives off a confident and sexy vibe. |
+| How | How does the white wall in the background affect the image? | The white wall in the background further accentuates the person, making them the focal point of the image. |

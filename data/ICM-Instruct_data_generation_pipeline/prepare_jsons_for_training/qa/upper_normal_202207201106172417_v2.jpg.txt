@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's arms visible in the image? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the color scheme of the image? | Black and white. |
+| What | What is the person's facial expression in the image? | Not visible. |
+| How | How is the person's torso positioned in the image? | Not specified. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It makes the image appear less sexy and more minimalist. |

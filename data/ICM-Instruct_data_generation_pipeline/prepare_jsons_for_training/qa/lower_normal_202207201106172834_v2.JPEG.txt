@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt long? | Yes. |
+| Yes/No | Does the skirt have a high waist? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| What | What color is the skirt? | Light green. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips. |
+| How | How does the woman's attire and pose reflect her personality? | The woman's attire and pose suggest confidence and selfassuredness. |
+| How | How does the image's overall atmosphere feel? | Modest and elegant. |

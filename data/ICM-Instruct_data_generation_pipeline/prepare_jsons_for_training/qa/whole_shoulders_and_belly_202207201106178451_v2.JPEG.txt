@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Does the top have a cutout on the side? | Yes. |
+| Yes/No | Is the woman wearing black pants? | Yes. |
+| Yes/No | Is the woman's pose confident? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's top cropped at? | The waist. |
+| What | What does the cutout on the side of the top reveal? | Her midriff. |
+| How | How does the woman's pose enhance the sexy atmosphere? | It's confident and direct. |
+| How | How does the cutout on the top add an element of intrigue? | It reveals her midriff, which is often associated with a sexy or provocative look. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked? | Yes. |
+| Yes/No | Are the person's arms crossed in front of them? | Yes. |
+| Yes/No | Is the person wearing white sneakers? | Yes. |
+| Yes/No | Are the laces of the sneakers green? | Yes. |
+| Yes/No | Is the background of the image pink? | Yes. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| What | What color are the sneakers? | White. |
+| What | What color are the laces of the sneakers? | Green. |
+| How | How is the person standing in the image? | With their arms crossed in front of them. |
+| How | How would you describe the atmosphere of the image? | Sensual and alluring. |

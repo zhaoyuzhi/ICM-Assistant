@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a pink chair? | Yes. |
+| Yes/No | Are the person's feet pointing towards the left side of the image? | Yes. |
+| Yes/No | Is the person wearing light blue sandals with a thick sole and buckle closure? | Yes. |
+| Yes/No | Are the person's legs crossed at the knees? | Yes. |
+| Yes/No | Is the background of the image a plain beige color? | Yes. |
+| Yes/No | Does the image convey a sense of casual elegance and relaxation? | Yes. |
+| What | What color are the person's sandals? | Light blue. |
+| What | What is the color of the chair in the image? | Pink. |
+| How | How are the person's feet resting on the chair? | The person's feet are resting on the chair with their toes pointing towards the left side of the image. |
+| How | How does the image convey a sense of relaxation? | The image conveys a sense of relaxation through the person's comfortable posture, the neutral background, and the contrast created by the pink chair. |

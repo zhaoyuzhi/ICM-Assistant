@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the person have a pink belt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color is the person's blouse? | White. |
+| What | What color is the person's belt? | Pink. |
+| How | How is the person standing in the image? | With their hands on their hips. |
+| What | What is the overall atmosphere of the image? | Simple and modest. |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the person have a high collar? | Yes. |
+| Yes/No | Is the person wearing a pink belt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the person's movements in the image minimal? | Yes. |
+| Yes/No | Is the image considered sexy or provocative? | No. |
+| What | What is the color of the person's blouse? | White. |
+| What | What is the color of the person's belt? | Pink. |
+| How | How is the person's attire in the image described? | Modest. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonsexual. |

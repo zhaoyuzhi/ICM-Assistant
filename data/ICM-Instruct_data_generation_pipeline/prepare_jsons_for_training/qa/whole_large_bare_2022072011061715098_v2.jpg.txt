@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green bra? | Yes. |
+| Yes/No | Is the woman in the image sitting on a bed? | Yes. |
+| Yes/No | Is the woman in the image holding a green leaf in her hand? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual and intimate? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the image in color or black and white? | Color. |
+| What | What is the woman in the image holding in her hand? | A green leaf. |
+| What | What is the color of the woman's bra and underwear? | Green. |
+| How | How is the woman's body positioned in the image? | She is sitting on a bed with her body exposed. |
+| How | How does the green leaf in the image contribute to the overall atmosphere? | It adds an element of nature and can be seen as a symbol of growth and vitality, contributing to the sensual and intimate atmosphere. |

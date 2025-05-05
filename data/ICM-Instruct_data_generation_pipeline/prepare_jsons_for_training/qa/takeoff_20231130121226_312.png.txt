@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Is the woman wearing a blue shirt? | Yes. |
+| Yes/No | Are black shorts part of her outfit? | Yes. |
+| Yes/No | Is the room decorated with a white couch? | Yes. |
+| Yes/No | Are flowers present in the image? | Yes. |
+| Yes/No | Does the image convey an intimate atmosphere? | Yes. |
+| What | What is the woman doing in the image? | Taking off her clothes. |
+| What | What is the color of the vase of flowers? | White. |
+| How | How is the woman's outfit considered? | Casual and comfortable. |
+| How | How would you describe the atmosphere of the image? | Intimate and sensual. |

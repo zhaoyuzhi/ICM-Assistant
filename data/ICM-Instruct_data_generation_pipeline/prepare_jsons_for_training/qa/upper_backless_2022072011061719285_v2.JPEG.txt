@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a man? | Yes. |
+| Yes/No | Is the person wearing a shirt? | No. |
+| Yes/No | Are the dumbbells in the image black? | No. |
+| Yes/No | Is the person in a gym setting? | No. |
+| Yes/No | Does the image depict a workout scene? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| What | What is the person holding in their hands? | Dumbbells. |
+| What | What color are the dumbbells? | Gray. |
+| How | How is the person standing in the image? | With a strong, determined posture. |

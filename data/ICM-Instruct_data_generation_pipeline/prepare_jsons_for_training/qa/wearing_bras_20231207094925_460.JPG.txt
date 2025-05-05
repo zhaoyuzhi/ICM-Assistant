@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman standing in front of a gray curtain? | Yes. |
+| Yes/No | Is there a potted plant in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture the woman from the back? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What color is the bra the woman is wearing? | Beige. |
+| What | What is the woman doing in the image? | Putting on her bra. |
+| How | How does the beige color of the bra contrast with the gray curtain? | It creates a visual contrast that draws attention to the woman's actions and attire. |
+| How | How does the potted plant add to the atmosphere of the image? | It adds a touch of natural beauty and creates a sense of warmth and comfort. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Is the woman standing in front of a gray curtain? | Yes. |
+| Yes/No | Is there a potted plant in the image? | Yes. |
+| Yes/No | Is the woman's form depicted in a sensual way? | Yes. |
+| Yes/No | Does the image invite the viewer to appreciate the woman's form? | Yes. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| What | What is the color of the curtain in the image? | Gray. |
+| How | How does the beige color of the bra contrast with the gray curtain? | The beige color of the bra stands out against the gray curtain, drawing attention to the woman's actions and attire. |
+| How | How does the potted plant add to the atmosphere of the image? | The potted plant adds a touch of natural beauty to the scene, creating a sense of warmth and comfort. |

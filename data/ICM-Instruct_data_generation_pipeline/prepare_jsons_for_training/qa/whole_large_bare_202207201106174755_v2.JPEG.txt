@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the bikini colorful? | Yes. |
+| Yes/No | Does the bikini feature a floral pattern? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| What | What type of swimwear is the woman wearing? | A bikini. |
+| What | What is the main color of the bikini? | The bikini is colorful, featuring stripes and a floral pattern. |
+| How | How is the woman posing in the image? | The woman is standing and looking off to the side. |
+| How | How does the image make you feel? | The image creates a sense of relaxation and enjoyment. |

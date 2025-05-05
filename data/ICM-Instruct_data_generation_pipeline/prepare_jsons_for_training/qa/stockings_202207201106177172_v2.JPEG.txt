@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black tights? | Yes. |
+| Yes/No | Is the woman in the image wearing black boots? | Yes. |
+| Yes/No | Is the woman in the image wearing a black coat? | Yes. |
+| Yes/No | Is the background of the image a brick wall? | Yes. |
+| Yes/No | Does the image create a sense of allure and intrigue? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image sitting on? | A bench. |
+| What | What color are the woman's tights in the image? | Black. |
+| How | How is the woman posing in the image? | She is sitting on a bench. |
+| What | What atmosphere does the image convey? | A sexy and alluring atmosphere. |

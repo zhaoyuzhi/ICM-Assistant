@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Is the belly button ring pink and black? | Yes. |
+| Yes/No | Is the person's skin tone visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image showcase the person's body in a vulnerable way? | Yes. |
+| What | What color is the person's shirt? | Pink. |
+| What | What is the main focus of the image? | The person's belly button. |
+| How | How does the pink shirt add to the image's atmosphere? | It adds a touch of color and femininity. |
+| How | How does the contrast between the skin and the shirt highlight the person's body? | It creates a visual contrast that draws attention to the person's body. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Does the person in the image have a navel piercing? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| How | Does the image showcase the person's body in a vulnerable way? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the person's shirt in the image? | Pink. |
+| What | What is the prominent feature in the image that draws attention to the person's body? | The navel piercing. |
+| How | How does the pink shirt add to the scene? | It adds a touch of color and personality to the scene. |
+| How | How does the image create a sense of intimacy and allure? | The exposed belly and closeup view of the person's body create a sense of intimacy and allure. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of a lightweight fabric? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and poise? | Yes. |
+| Yes/No | Is the image taken from a side angle? | Yes. |
+| Yes/No | Does the image reveal any skin or cleavage? | No. |
+| Yes/No | Is the overall atmosphere of the image professional and modest? | Yes. |
+| What | What is the woman's attire suggestive of? | A formal or business setting. |
+| What | What is the focus of the image? | The woman's torso and legs. |
+| How | How is the woman standing in the image? | With her hands on her hips. |
+| How | How would you describe the woman's pose in the image? | Confident and poised. |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress reach down to her knees? | Yes. |
+| Yes/No | Is the fabric of the dress lightweight? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and poise? | Yes. |
+| Yes/No | Is the image appropriate for a professional setting? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the woman's pose in the image? | She is standing with her hands on her hips. |
+| What | What is the focus of the image? | The focus is solely on the woman and her attire. |
+| How | How would you describe the atmosphere of the image? | Professional and respectful. |
+| How | How would you rate the exposure level of the image? | Low. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Is the woman in the image looking down at her phone? | Yes. |
+| Yes/No | Does the image feature a minimalist bedroom design? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's outfit casual yet stylish? | Yes. |
+| What | What is the woman in the image wearing on her top half? | A white crop top. |
+| What | What is the woman in the image wearing on her bottom half? | Blue jeans. |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| How | How does the woman's pose in the image suggest a relaxed atmosphere? | She is looking down at her phone and has a relaxed, comfortable stance. |

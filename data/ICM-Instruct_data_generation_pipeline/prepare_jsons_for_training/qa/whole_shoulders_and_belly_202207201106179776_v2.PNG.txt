@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the woman's leggings black? | Yes. |
+| Yes/No | Is the woman in a dynamic pose? | Yes. |
+| Yes/No | Does the background feature a gradient of pink and purple? | Yes. |
+| Yes/No | Does the image depict a sexy scene? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A midriffbaring top. |
+| What | What is the color of the woman's leggings? | Black. |
+| How | How is the woman's left leg positioned in the image? | Bent. |
+| How | How is the woman's right arm positioned in the image? | Extended behind her. |

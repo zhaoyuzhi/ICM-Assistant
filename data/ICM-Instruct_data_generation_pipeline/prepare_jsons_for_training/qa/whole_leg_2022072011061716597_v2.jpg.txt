@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pink polo shirt? | Yes. |
+| Yes/No | Does the polo shirt have short sleeves? | Yes. |
+| Yes/No | Does the polo shirt have a collar? | Yes. |
+| Yes/No | Are the shorts black? | Yes. |
+| Yes/No | Does the woman have a neutral pose? | Yes. |
+| What | What color is the background of the image? | Light blue. |
+| What | What color are the shorts? | Black. |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | The woman's outfit, consisting of a pink polo shirt and black shorts, almost exposes her thighs, creating an atmosphere of confidence and allure. |
+| How | How does the light blue background contribute to the overall aesthetic of the image? | The light blue background adds to the overall aesthetic of the image, making it visually appealing and attentiongrabbing. |

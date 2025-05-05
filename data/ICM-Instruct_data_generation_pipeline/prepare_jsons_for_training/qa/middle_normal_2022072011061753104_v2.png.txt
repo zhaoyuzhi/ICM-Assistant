@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the person's pants high-waisted? | Yes. |
+| Yes/No | Does the image feature any form of intimacy or sexual suggestion? | No. |
+| Yes/No | Is the person's midriff visible in the image? | Yes. |
+| Yes/No | Is the image focused on the person's body? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What is the person's hand doing in the image? | The person's hand is casually tucked into their pocket. |
+| What | What is the focus of the image? | The focus of the image is on the person's outfit and pose. |
+| How | How does the white color of the person's clothing contribute to the image's atmosphere? | The white color of the person's clothing contributes to the image's neutral and nonsexual atmosphere. |
+| How | How does the image's low exposure level affect the viewer's focus? | The image's low exposure level directs the viewer's focus towards the person's outfit and pose, rather than their body. |
+| Yes/No | Is the person in the image wearing a white outfit? | Yes. |
+| Yes/No | Is the person's hand tucked into their pocket? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the person's outfit include a belt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| What | What color is the person's outfit? | White. |
+| What | What is the person's pose in the image? | Casually standing with a relaxed vibe. |
+| How | How is the person's waist cinched? | With a white belt. |
+| How | How much of the person's body is visible in the image? | A small portion. |

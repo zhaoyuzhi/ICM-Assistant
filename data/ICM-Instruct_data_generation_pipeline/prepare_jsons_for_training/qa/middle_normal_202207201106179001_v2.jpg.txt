@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are her hands placed on her hips? | Yes. |
+| Yes/No | Is she looking over her shoulder? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the woman's pose suggestive or provocative? | No. |
+| Yes/No | Does the image contain any elements that suggest a sexual context? | No. |
+| What | What is the woman wearing in the image? | A white blouse and white pants. |
+| What | What is the overall atmosphere of the image? | Modest and simple. |
+| How | How is the woman standing in the image? | With her hands on her hips and looking over her shoulder. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It adds to the modesty of the image by only showing a small portion of the woman's body. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are her pants white? | Yes. |
+| Yes/No | Does the woman have her hands in her pockets? | Yes. |
+| Yes/No | Is she looking at the camera? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any explicit content? | No. |
+| What | What is the woman's attire in the image? | A white blouse and white pants with a gold stripe running down the side. |
+| What | What is the woman's pose in the image? | Standing with her hands in her pockets and looking over her shoulder. |
+| How | How is the woman's attire modest? | The woman's attire covers her body completely, revealing no skin or body parts, and the white color gives a sense of purity and innocence. |
+| How | How does the background contribute to the simplicity of the scene? | The white wall in the background creates a clean and plain backdrop that draws attention to the woman and her attire, emphasizing their simplicity and lack of provocative elements. |

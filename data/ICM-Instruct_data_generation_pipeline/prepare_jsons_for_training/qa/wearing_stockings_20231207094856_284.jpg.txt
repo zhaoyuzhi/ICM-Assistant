@@ -1,0 +1,18 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a beige skirt? | Yes. |
+| Yes/No | Is the person in the image standing on a wooden floor? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person in the image wearing? | A beige skirt. |
+| How | How are the stockings being put on? | The person is pulling them up their legs. |
+| What | What atmosphere does the wooden floor provide? | A natural and warm backdrop. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image standing on a wooden floor? | Yes. |
+| Yes/No | Is the person in the image wearing a beige skirt? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person in the image wearing with their black stockings? | A beige skirt. |
+| How | How are the stockings being put on in the image? | The person is pulling them up their legs. |
+| What | What is the atmosphere of the image? | Intimate and alluring. |

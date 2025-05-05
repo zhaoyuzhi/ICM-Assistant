@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a suit? | Yes. |
+| Yes/No | Is the woman wearing a dress? | Yes. |
+| Yes/No | Are they standing close to each other? | Yes. |
+| Yes/No | Is the woman's background blurred? | Yes. |
+| Yes/No | Are they kissing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | A black suit with a bow tie. |
+| What | What is the woman wearing? | A white dress and earrings. |
+| How | How are they standing? | Close to each other, with the woman's arms wrapped around the man's neck. |
+| How | How would you describe the atmosphere of the image? | Romantic and sensual. |

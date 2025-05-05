@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black leather jacket? | Yes. |
+| Yes/No | Is the woman in the image carrying a white paper? | Yes. |
+| Yes/No | Are the woman's clothes revealing or attention-grabbing? | No. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Does the image suggest a provocative or sensual atmosphere? | No. |
+| Yes/No | Is the woman's outfit consistent with a casual, everyday setting? | Yes. |
+| What | What is the woman carrying in her hand? | White paper. |
+| What | What is the dominant color of the woman's outfit? | Black. |
+| How | How is the woman dressed in the image? | She is dressed in a black leather jacket, a white shirt, and blue jeans. |
+| How | How would you describe the overall atmosphere of the image? | Casual, everyday setting. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman wearing pink lipstick? | Yes. |
+| Yes/No | Is the woman making a duck lips expression? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Is the woman looking upwards? | Yes. |
+| Yes/No | Is the image described as sexy? | Yes. |
+| What | What color is the woman's lipstick? | Pink. |
+| What | What is the woman's facial expression? | Duck lips. |
+| How | How is the woman's confidence and seductiveness conveyed in the image? | Through her playful expression, closed eyes, and upward gaze. |
+| How | How does the image evoke a sense of desire and intrigue? | Through the combination of the woman's attractive features, playful expression, and overall seductive mood. |

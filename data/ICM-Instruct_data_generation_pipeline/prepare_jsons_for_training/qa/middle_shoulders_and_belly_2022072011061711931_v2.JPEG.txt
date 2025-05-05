@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image set in a casual, everyday setting? | Yes. |
+| Yes/No | Does the person's posture suggest they are comfortable and relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the main focus of the image? | The person's belly. |
+| What | What is the atmosphere of the image? | Confident and alluring. |
+| How | How does the person's exposed belly and casual attire contribute to the image's sexy appeal? | They create a sense of vulnerability and intimacy. |
+| How | How does the image's composition draw attention to the person's body? | It centers the person's belly as the central focus. |
+| Yes/No | Is the person in the image wearing a red shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image contain any other discernible objects or people? | No. |
+| Yes/No | Is the person's posture relaxed and comfortable? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the person's shirt? | Red. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the person's shirt tucked into their jeans? | The person's shirt is tucked into their jeans in a relaxed and casual way, suggesting a comfortable and everyday setting. |
+| How | How does the image showcase the person's belly? | The person's belly is the main focus of the image, and it is showcased in a way that highlights its shape and size, making it a prominent feature of the image. |

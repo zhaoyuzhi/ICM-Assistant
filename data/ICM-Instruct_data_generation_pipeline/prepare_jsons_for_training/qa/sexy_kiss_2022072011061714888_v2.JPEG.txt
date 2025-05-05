@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are they wearing matching black outfits? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Are the couple's arms wrapped around each other? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the couple? | Yes. |
+| What | What is the woman wearing in the image? | A black dress. |
+| What | What is the man wearing in the image? | A black sweater. |
+| How | How are the couple's arms positioned in the image? | The woman's arms are wrapped around the man's neck. |
+| How | How would you describe the couple's kiss in the image? | Passionate and intimate. |

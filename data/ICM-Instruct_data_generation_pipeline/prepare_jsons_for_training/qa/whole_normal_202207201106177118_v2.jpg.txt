@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a plaid shirt? | Yes. |
+| Yes/No | Is the store a food co-op? | Yes. |
+| Yes/No | Is the sign on the store yellow and black? | Yes. |
+| Yes/No | Is the man looking at a display of food items? | Yes. |
+| Yes/No | Does the image contain any explicit sexual content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man in the image wearing? | A plaid shirt and jeans. |
+| What | What is the name of the store in the image? | Camden Food Coop. |
+| How | How is the man standing in the store? | He is standing in front of a display of food items, possibly considering making a purchase. |
+| How | How would you describe the overall atmosphere of the image? | Casual and everyday. |

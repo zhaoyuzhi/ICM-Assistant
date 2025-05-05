@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman in the image lifting up her dress? | Yes. |
+| Yes/No | Are the woman's legs visible in the image? | Yes. |
+| Yes/No | Is the woman wearing high heels? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image have a sensual or alluring atmosphere? | Yes. |
+| What | What is the woman lifting up her dress revealing? | Her legs. |
+| What | What is the woman wearing on her feet? | High heels. |
+| How | How is the woman's action of lifting her dress associated? | With sensuality and allure. |
+| How | How does the background of the image contribute to the overall atmosphere? | It accentuates the woman and her actions, making the image more visually striking and attentiongrabbing. |

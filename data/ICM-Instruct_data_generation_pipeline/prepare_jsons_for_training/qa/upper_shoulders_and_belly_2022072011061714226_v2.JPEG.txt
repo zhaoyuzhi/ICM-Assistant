@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Does the woman have a strapless top on? | Yes. |
+| Yes/No | Is the image set against a dark background? | Yes. |
+| What | What is the woman wearing on her top? | A black tshirt with the word "LOVE" written on it. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How does the woman's pose add to the overall allure of the image? | Her hand on her hip adds a touch of confidence and selfassuredness to the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the skirt made of a shiny material? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| How | Does the image showcase the person's body in a confident and assertive manner? | Yes. |
+| Yes/No | Is the skirt positioned above the knees? | Yes. |
+| What | What is the color of the person's top? | Black. |
+| What | What is the material of the skirt? | Shiny. |
+| How | How is the person's pose in the image? | Confident and assertive. |
+| How | How does the shiny material of the skirt add to the overall allure of the image? | It reflects light and draws attention to the person's body. |

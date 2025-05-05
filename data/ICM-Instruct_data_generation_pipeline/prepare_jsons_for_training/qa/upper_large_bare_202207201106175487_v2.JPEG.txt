@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the bikini top white? | Yes. |
+| Yes/No | Does the bikini top have a lace-up design? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's pose in the image? | She is posing with her left hand on her hip and her right hand on her thigh. |
+| What | What is the color of the bikini top? | White. |
+| How | How is the bikini top designed? | It has a laceup design. |
+| How | How is the woman's hair styled in the image? | Her hair is styled in a ponytail. |

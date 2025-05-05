@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have thin straps? | Yes. |
+| Yes/No | Is the dress backless? | Yes. |
+| Yes/No | Are the person's hands resting on their hips? | Yes. |
+| Yes/No | Is the image a close-up view of the person's back and the dress? | Yes. |
+| Yes/No | Does the image capture the details of the dress and the person's posture? | Yes. |
+| What | What is the color of the dress? | Black. |
+| What | What is the design of the dress? | Crisscross. |
+| How | How does the person's pose accentuate the backless design of the dress? | The person's pose is confident and poised, with their hands resting on their hips, further accentuating the backless design of the dress. |
+| How | How does the close-up view of the dress and the person's back highlight the details of the dress and the person's posture? | The closeup view of the dress and the person's back highlights the details of the dress and the person's posture, making the image feel more intimate and alluring. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a white skirt? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the blue color of the bra contrast with the white skirt? | Yes. |
+| What | What is the woman in the image wearing? | A blue bra and a white skirt. |
+| What | What is the woman in the process of doing in the image? | Putting on a bra. |
+| How | How does the image capture a private moment of the woman? | The image shows the woman in the act of dressing, specifically putting on a bra, which is a private activity. |
+| How | How does the image contribute to an atmosphere of sensuality and allure? | The closeup nature of the image and the woman's focused expression create a sense of intimacy and sensuality, while the contrasting colors of the bra and skirt draw attention to the woman's upper body, enhancing her appearance and suggesting a sense of allure. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image depict a private moment? | Yes. |
+| What | What is the woman in the image putting on? | A bra. |
+| What | What is the color of the bra? | Blue. |
+| How | How is the woman's expression in the image? | Focused. |
+| How | How does the image capture the woman's upper body? | The blue bra contrasts with the white skirt, drawing attention to the woman's upper body. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the woman have a white collar? | Yes. |
+| Yes/No | Is the woman holding a black purse? | Yes. |
+| Yes/No | Is the dresser in the background white? | Yes. |
+| Yes/No | Is the woman facing away from the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the dresser? | White. |
+| What | What is the woman holding in her hand? | A black purse. |
+| How | How is the woman standing in relation to the camera? | She is standing facing away from the camera. |
+| How | How would you describe the aesthetic of the image? | The image has a clean and minimalist aesthetic with a touch of elegance and sophistication. |

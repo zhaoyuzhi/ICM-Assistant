@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a black baseball cap? | Yes. |
+| Yes/No | Is the person in the image holding a black bag? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the person's jacket? | Black. |
+| What | What is the color of the person's shirt? | White. |
+| How | How is the person's attire in the image? | Simple and straightforward. |
+| What | What is the focus of the image? | The person's clothing and accessories. |

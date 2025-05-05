@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman's facial expression neutral? | Yes. |
+| Yes/No | Is the woman wearing a red sweater? | Yes. |
+| Yes/No | Does the image create an atmosphere of allure and intrigue? | Yes. |
+| Yes/No | Is the woman's pose associated with confidence and self-assuredness? | Yes. |
+| Yes/No | Does the red sweater add a pop of color to the image? | Yes. |
+| What | What color is the woman's sweater? | Red. |
+| What | What is the woman's facial expression? | Neutral. |
+| How | How does the woman's tongue sticking out add to the image's atmosphere? | It adds a sense of fun and confidence to her appearance. |
+| How | How does the red sweater draw attention to the woman's face and expression? | It creates a visual contrast that directs the viewer's attention to her face and expression. |

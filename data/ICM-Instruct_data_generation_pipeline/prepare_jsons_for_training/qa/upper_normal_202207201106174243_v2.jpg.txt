@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding a clear plastic bag? | Yes. |
+| Yes/No | Is the bag filled with water? | Yes. |
+| Yes/No | Are there strawberries inside the bag? | Yes. |
+| Yes/No | Are there leaves inside the bag? | Yes. |
+| Yes/No | Is the person wearing a yellow shirt? | Yes. |
+| Yes/No | Is the person wearing an apron? | Yes. |
+| What | What is the person in the image preparing or cleaning? | A meal. |
+| What | What is the color of the person's shirt? | Yellow. |
+| How | How is the person carrying the bag of water and food? | By holding it. |
+| How | How does the image maintain the person's privacy? | The exposure level is very low, making the person's face not visible. |

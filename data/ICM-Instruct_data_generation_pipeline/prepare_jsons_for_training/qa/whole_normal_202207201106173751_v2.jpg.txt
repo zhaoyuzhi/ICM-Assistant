@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Does the person in the image have dark hair? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the person in the image standing still? | Yes. |
+| Yes/No | Are there any discernible actions taking place in the image? | No. |
+| What | What is the person in the image wearing? | A green shirt and dark hair. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| How | How is the person standing in the image? | Still. |
+| How | How would you describe the visual impact of the image? | Low. |

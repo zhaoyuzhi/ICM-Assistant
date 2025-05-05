@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the image set at night? | Yes. |
+| Yes/No | Is the woman wearing a white bra? | Yes. |
+| Yes/No | Are her actions suggestive of vulnerability? | Yes. |
+| Yes/No | Are her actions suggestive of confidence? | Yes. |
+| What | What is the primary color of the woman's bra? | White. |
+| What | What is the secondary color of the woman's bra? | Blue. |
+| How | How does the darkness of the night add to the overall atmosphere of the image? | It creates a sense of mystery and allure. |
+| How | How does the beach setting add to the overall atmosphere of the image? | It adds a sense of isolation and intimacy. |

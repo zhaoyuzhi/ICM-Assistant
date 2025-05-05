@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress gold in color? | Yes. |
+| Yes/No | Does the dress have a high slit on the back? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image glamorous and sophisticated? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | A long, gold dress with a high slit on the back. |
+| What | What is the setting of the image? | A red carpet event. |
+| How | How does the dress add to the overall allure of the image? | The shimmering fabric and high slit of the dress draw attention to the person's back and curve of their spine, creating a sense of intrigue and allure. |
+| How | How does the atmosphere of the image enhance the sexy feel of the image? | The glamorous and sophisticated atmosphere of the red carpet event further enhances the sexy feel of the image, creating a captivating and alluring overall effect. |

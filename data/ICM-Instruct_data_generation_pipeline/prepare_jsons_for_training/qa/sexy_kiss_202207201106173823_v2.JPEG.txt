@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the two men in the image kissing? | Yes. |
+| Yes/No | Is one of the men wearing a black hoodie with white text? | Yes. |
+| Yes/No | Is the other man wearing a white shirt? | Yes. |
+| Yes/No | Are the men standing close to each other? | Yes. |
+| Yes/No | Does the image evoke a sense of warmth and affection? | Yes. |
+| What | What is the color of the hoodie worn by one of the men? | Black. |
+| What | What is the color of the shirt worn by the other man? | White. |
+| How | How are the men standing in relation to each other? | Close. |
+| How | How are their lips pressed together? | Passionately. |

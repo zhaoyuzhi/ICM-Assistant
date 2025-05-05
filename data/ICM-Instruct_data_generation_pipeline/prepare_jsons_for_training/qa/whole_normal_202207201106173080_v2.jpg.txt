@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a navy blue suit? | Yes. |
+| Yes/No | Is the woman's shirt white? | Yes. |
+| Yes/No | Is the woman's tie gold? | Yes. |
+| Yes/No | Does the woman have a neat bun hairstyle? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What color is the woman's suit? | Navy blue. |
+| What | What is the woman's pose in the image? | Relaxed, with her hand casually resting on her hip. |
+| How | How is the woman's attire in the image? | Professional. |
+| How | How does the plain background of the image affect the focus of the image? | It puts the focus entirely on the woman and her outfit, without any distractions or provocative elements. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a hoodie? | Yes. |
+| Yes/No | Are the leggings black? | Yes. |
+| Yes/No | Does the hoodie have a cropped waist? | Yes. |
+| Yes/No | Is the woman holding an object in her hand? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| Yes/No | Does the image have a sporty atmosphere? | Yes. |
+| What | What color is the hoodie? | Purple. |
+| What | What is the name of the brand written on the leggings? | Gymshark. |
+| How | How is the woman holding the object in her hand? | The woman is holding the object in her hand with a sense of style and selfassuredness. |
+| What | What is the overall vibe of the image? | The overall vibe of the image is sexy, confident, and alluring. |

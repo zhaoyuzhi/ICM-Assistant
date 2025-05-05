@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the background of the image plain? | Yes. |
+| Yes/No | Is the woman wearing a strapless outfit? | Yes. |
+| Yes/No | Is the outfit yellow in color? | Yes. |
+| Yes/No | Does the outfit have a ruffled hem? | Yes. |
+| Yes/No | Is the woman carrying a woven purse? | Yes. |
+| What | What is the color of the woman's outfit? | Yellow. |
+| What | What is the woman carrying on her shoulder? | A woven purse. |
+| How | How does the yellow color of the outfit contribute to the overall atmosphere of the image? | It adds a pop of color, making the image more vibrant and eyecatching. |
+| How | How does the ruffled hem of the outfit contribute to the overall atmosphere of the image? | It adds a playful element to her look, making the image more alluring and sexy. |

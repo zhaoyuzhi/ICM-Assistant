@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the image taken in a studio or outdoor environment? | No. |
+| Yes/No | Does the man have any tattoos or scars visible in the image? | No. |
+| Yes/No | Is the image in black and white or color? | Color. |
+| Yes/No | Does the man have facial hair? | No. |
+| Yes/No | Is the image blurred or sharp? | Sharp. |
+| What | What is the man's facial expression in the image? | Confident/Sensual. |
+| What | What is the mood of the image? | Alluring/Sensual. |
+| How | How is the man standing in the image? | He is posing with his body facing the camera. |
+| How | How does the lighting in the image affect the overall mood of the photo? | The lighting accentuates the man's features and adds a sense of intimacy. |

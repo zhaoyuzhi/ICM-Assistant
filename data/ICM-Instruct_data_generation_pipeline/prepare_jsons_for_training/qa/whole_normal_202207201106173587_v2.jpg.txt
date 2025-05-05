@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Is the girl's hair styled in a ponytail? | Yes. |
+| Yes/No | Is the girl looking directly at the camera? | Yes. |
+| Yes/No | Is the background of the image a pink wall with a white bedspread? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the girl wearing on her shirt? | "UNIRO". |
+| What | What is the color of the wall in the background? | Pink. |
+| How | How is the girl's hair styled? | In a ponytail. |
+| How | How is the girl looking at the camera? | Directly. |

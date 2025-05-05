@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing glasses? | Yes. |
+| Yes/No | Is the man in the image sitting on a chair? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Is the man posing in a suggestive manner? | No. |
+| Yes/No | Does the image contain any explicit or implied nudity or intimacy? | No. |
+| Yes/No | Is the focus of the image on the man's appearance and surroundings? | Yes. |
+| What | What is the man in the image wearing? | A white shirt and glasses. |
+| What | What is the overall atmosphere of the image? | Not sexy, focus is on the man's appearance and surroundings. |
+| How | How is the man sitting on the chair? | Not specified in the description. |
+| How | How is the image lit? | The exposure level is very low, meaning the image is not welllit and details are not clear. |

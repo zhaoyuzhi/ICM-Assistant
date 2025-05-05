@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Are the person's legs spread apart? | Yes. |
+| Yes/No | Is the person wearing black shoes? | Yes. |
+| Yes/No | Is the person wearing a pink shirt? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's shoes? | Black. |
+| What | What color is the person's shirt? | Pink. |
+| How | How many objects are in the image? | 1 (the person). |

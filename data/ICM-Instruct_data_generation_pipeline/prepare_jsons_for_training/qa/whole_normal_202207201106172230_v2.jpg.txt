@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bodysuit? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman holding her bodysuit open with her left hand? | Yes. |
+| Yes/No | Is the woman looking down at her hand? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Does the image have a calm and focused atmosphere? | Yes. |
+| What | What is the woman doing in the image? | She is holding her bodysuit open and looking down at her hand. |
+| What | What is the color of the bodysuit? | Blue. |
+| How | How is the woman holding her bodysuit open? | She is holding it open with her left hand. |
+| How | How is the woman looking in the image? | She is looking down at her hand. |

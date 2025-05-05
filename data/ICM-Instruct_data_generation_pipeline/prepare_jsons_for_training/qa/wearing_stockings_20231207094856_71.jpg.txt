@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Is the person in the image putting on beige stockings? | Yes. |
+| Yes/No | Is the person's left hand holding the stocking up? | Yes. |
+| Yes/No | Is the person's right hand inside the stocking, pulling it up? | Yes. |
+| Yes/No | Is the stocking being pulled up over the person's left leg? | Yes. |
+| Yes/No | Is the person also wearing a beige thigh-high sock? | Yes. |
+| What | What is the person in the image wearing on their legs? | Beige stockings and a beige thighhigh sock. |
+| What | What is the color of the dress the person is wearing? | White. |
+| How | How is the person in the image holding the stocking up? | With their left hand. |
+| How | How is the person in the image pulling up the stocking? | With their right hand, from the inside of the stocking. |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Is the person wearing a white dress? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is the person's left hand holding the stocking? | Yes. |
+| Yes/No | Is the person's right hand inside the stocking? | Yes. |
+| Yes/No | Does the image create an intimate atmosphere? | Yes. |
+| What | What color is the dress? | White. |
+| What | What color are the stockings and sock? | Beige. |
+| How | How is the person holding the stocking? | With their left hand. |
+| How | How is the person pulling up the stocking? | With their right hand, pulling it up over their left leg. |

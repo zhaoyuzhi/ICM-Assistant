@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing leggings? | Yes. |
+| Yes/No | Is the woman in the image wearing a sportswear? | No. |
+| Yes/No | Does the woman in the image have a confident expression? | Yes. |
+| Yes/No | Is the woman's pose in the image sexually suggestive? | Yes. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Is the woman in the image standing still? | No. |
+| What | What color are the woman's leggings? | Turquoise. |
+| What | What is the woman's right hand resting on? | Her thigh. |
+| How | How is the woman's left leg positioned in the image? | Extended behind her. |
+| How | How does the woman's pose in the image create a sense of movement and energy? | Her left leg is extended behind her and her right hand is resting on her thigh, creating a dynamic pose. |

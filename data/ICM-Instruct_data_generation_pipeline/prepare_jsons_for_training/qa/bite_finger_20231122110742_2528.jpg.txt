@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding an object? | Yes. |
+| Yes/No | Is the object white? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the woman have a slight smile on her face? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the image sensual? | Yes. |
+| What | What is the woman holding in her hand? | A white object. |
+| What | What is the woman's facial expression? | A slight smile. |
+| How | How is the woman holding the object? | She is holding it in her hand. |
+| How | How does the woman's body language suggest confidence and allure? | Her body language suggests confidence and allure through her direct gaze and the way she is holding the object in her hand. |

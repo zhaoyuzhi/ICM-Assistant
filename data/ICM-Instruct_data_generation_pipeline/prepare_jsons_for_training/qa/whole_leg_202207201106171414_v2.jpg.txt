@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing denim shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a lace-up top? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the shorts high-waisted? | Yes. |
+| Yes/No | Does the top have a scalloped hem? | Yes. |
+| What | What color is the lace-up top? | Purple. |
+| What | What is the woman's pose in the image? | Confident and relaxed. |
+| How | How are the shorts frayed at the bottom? | They are frayed in a distressed manner. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | It adds a sense of selfassurance and confidence. |

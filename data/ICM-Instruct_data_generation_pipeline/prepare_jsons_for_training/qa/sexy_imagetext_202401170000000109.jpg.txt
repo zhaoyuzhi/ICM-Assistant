@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting on a red chair? | Yes. |
+| Yes/No | Is the woman wearing a white suit? | Yes. |
+| Yes/No | Is the background of the image silver? | Yes. |
+| Yes/No | Does the advertising slogan in the image imply a story of a woman who has become a personal secretary to her first love? | Yes. |
+| Yes/No | Does the woman's attire give off a sense of elegance and confidence? | Yes. |
+| Yes/No | Does the overall atmosphere of the image feel seductive and alluring? | Yes. |
+| What | What is the color of the woman's suit? | White. |
+| What | What is the color of the background in the image? | Silver. |
+| How | How does the woman's posture on the red chair add to the overall atmosphere of the image? | It adds a touch of sophistication and allure. |
+| How | How does the advertising slogan in the image add a layer of intrigue and mystery to the image? | It implies a story of a woman who has become a personal secretary to her first love, adding a layer of intrigue and mystery to the image. |

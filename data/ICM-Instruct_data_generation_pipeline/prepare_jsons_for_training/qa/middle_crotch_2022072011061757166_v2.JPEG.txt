@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pants? | No. |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Is the person in the image posing suggestively? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| How | Does the image show the person's face? | No. |
+| Yes/No | Is the image focused on the person's crotch? | Yes. |
+| Yes/No | Brand of shorts is the person wearing? | Nike. |
+| Yes/No | Color of the shorts? | Black and gold. |
+| Yes/No | Is the person's body positioned in the image? | Not visible. |
+| Yes/No | Is the focus of the image? | Closeup of the person's underwear. |

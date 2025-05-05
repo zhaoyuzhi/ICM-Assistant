@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing fishnet stockings? | Yes. |
+| Yes/No | Are the stockings a light beige color? | Yes. |
+| Yes/No | Does the woman have her legs crossed? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image a wooden floor? | Yes. |
+| Yes/No | Is there a window visible in the background? | Yes. |
+| What | What is the color of the woman's stockings? | Beige. |
+| What | What is the material of the woman's stockings? | Delicate, seethrough material. |
+| How | How are the woman's hands positioned in the image? | Placed on her knees. |
+| How | How does the woman's pose on the couch contribute to the overall atmosphere of the image? | Intimate and provocative nature. |

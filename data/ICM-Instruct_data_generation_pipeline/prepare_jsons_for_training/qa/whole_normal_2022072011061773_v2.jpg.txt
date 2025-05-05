@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sweater? | Yes. |
+| Yes/No | Is the woman in the image standing in a kitchen? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire in the image revealing or provocative? | No. |
+| Yes/No | Does the image focus on the woman's interaction with her phone? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and ordinary? | Yes. |
+| What | What is the woman in the image engaged in? | She is engaged in interacting with her phone. |
+| What | What is the color of the woman's sweater in the image? | The woman's sweater is pink. |
+| How | How is the woman dressed in the image? | The woman is dressed in a pink sweater and black pants. |
+| How | How does the image depict the woman's actions? | The image depicts the woman engrossed in her phone. |

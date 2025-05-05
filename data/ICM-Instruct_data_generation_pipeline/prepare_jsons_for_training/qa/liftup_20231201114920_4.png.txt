@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the person wearing a black tie? | Yes. |
+| Yes/No | Are the person's pants khaki? | Yes. |
+| Yes/No | Is the person lifting their shirt? | Yes. |
+| Yes/No | Is the person exposing their belly? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What color are the person's pants? | Khaki. |
+| How | How is the person lifting their shirt? | By raising it up towards their chest. |
+| How | How does the image's overall atmosphere contribute to its sex appeal? | The image's suggestive and provocative atmosphere, combined with the contrasting visual effect of the white shirt, black tie, and khaki pants, creates a sexy and alluring scene. The male body's association with strength and attractiveness also adds to the image's sex appeal. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the person's face masked? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the image provocative? | Yes. |
+| Yes/No | Are the person's clothes being lifted to reveal their body? | Yes. |
+| What | What color is the person's shirt? | Black. |
+| What | What is the person's facial expression? | Not visible (face mask). |
+| How | How is the person's body being revealed? | By lifting their shirt and pants. |
+| What | What element does the black face mask add to the image? | Mystery and intrigue. |

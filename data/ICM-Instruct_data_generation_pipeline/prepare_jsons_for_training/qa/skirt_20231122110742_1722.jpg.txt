@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Is the woman's dress black? | Yes. |
+| Yes/No | Are the woman's heels black? | Yes. |
+| Yes/No | Is the woman's shirt blue? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What color is the woman's shirt? | Blue. |
+| What | What is the woman's pose in the image? | Lifting her dress. |
+| How | How does the woman's shirt contrast with her skirt? | The blue shirt contrasts with the black skirt, creating a visually appealing color combination. |
+| How | How do the woman's black heels contribute to her overall pose? | The black heels add an element of sophistication and confidence to her pose. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a lace top? | Yes. |
+| Yes/No | Is the woman wearing a choker? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Does the dress have a midriff-baring design? | Yes. |
+| Yes/No | Is the woman carrying a purse? | Yes. |
+| What | What color is the dress? | Black. |
+| What | What is the woman's posture like? | Confident. |
+| How | How does the woman carry herself? | With allure. |
+| What | What element does the lace top and choker add to the woman's appearance? | Sophistication and allure. |

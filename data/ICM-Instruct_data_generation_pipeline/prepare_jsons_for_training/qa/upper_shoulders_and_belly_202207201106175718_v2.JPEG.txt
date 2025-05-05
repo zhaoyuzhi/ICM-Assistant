@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman's outfit strapless? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's stomach exposed in the image? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| What | What is the woman's hairstyle in the image? | Bob. |
+| What | What is the overall mood of the image? | Confident and sexy. |
+| How | How is the woman's outfit exposing her stomach? | The woman's strapless top and blue jeans are exposing her stomach. |
+| How | How does the woman's pose contribute to the overall allure of the image? | The woman's confident pose with her hands on her hips adds to the overall allure of the image. |

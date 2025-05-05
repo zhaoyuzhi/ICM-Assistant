@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Is the woman wearing heels? | Yes. |
+| Yes/No | Does the woman's attire suggest a casual setting? | Yes. |
+| Yes/No | Is the background of the image a building? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | No. |
+| Yes/No | Does the image contain explicit content? | No. |
+| What | What is the color of the woman's skirt? | Mustard. |
+| What | What is the color of the woman's blazer? | Black. |
+| How | How long does the skirt fall? | To her knees. |
+| What | What is the style of the woman's heels? | Beige. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sweatshirt? | Yes. |
+| Yes/No | Are the woman's shorts navy blue? | Yes. |
+| Yes/No | Is the woman's pose neutral? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the background white? | Yes. |
+| What | What is the brand of the sweatshirt? | University of California Los Angeles. |
+| What | What color are the woman's sneakers? | White. |
+| How | How is the woman's outfit completed? | With white sneakers. |
+| How | How does the image create a sense of confidence and allure? | Through the exposure of the woman's thighs, her neutral pose, and direct gaze, combined with the white background that draws attention to her attire and posture. |

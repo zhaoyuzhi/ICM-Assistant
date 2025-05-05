@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a plaid shirt? | Yes. |
+| Yes/No | Is the woman wearing a green dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | No. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image suggest a romantic and intimate atmosphere? | Yes. |
+| What | What is the man wearing? | A plaid shirt. |
+| What | What is the woman wearing? | A green dress. |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other, with the woman's arms wrapped around the man's neck, pulling him closer for the kiss. |
+| How | How does the image make you feel? | The image feels intimate and alluring, evoking a sense of warmth and affection. |

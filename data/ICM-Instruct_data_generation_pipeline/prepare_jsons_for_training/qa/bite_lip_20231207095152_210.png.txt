@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a necklace? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman sitting in front of a microphone? | Yes. |
+| Yes/No | Is the woman singing? | Yes. |
+| Yes/No | Does the woman have a confident facial expression? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the woman biting her lip? | Her lip. |
+| What | What is the woman doing in front of the microphone? | Singing. |
+| How | How does the woman's facial expression contribute to the sexy atmosphere? | It suggests confidence and allure. |
+| How | How does the microphone contribute to the sexy atmosphere? | It evokes feelings of passion and sensuality. |

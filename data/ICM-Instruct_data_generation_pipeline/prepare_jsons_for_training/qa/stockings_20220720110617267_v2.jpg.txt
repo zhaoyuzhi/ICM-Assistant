@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the person's legs spread apart in the image? | Yes. |
+| Yes/No | Is the person wearing high heels in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color are the person's stockings in the image? | Black. |
+| What | What type of shoes is the person wearing in the image? | High heels. |
+| How | How are the person's legs positioned in the image? | Spread apart. |
+| What | What does the image evoke a sense of? | Intimacy and sensuality. |

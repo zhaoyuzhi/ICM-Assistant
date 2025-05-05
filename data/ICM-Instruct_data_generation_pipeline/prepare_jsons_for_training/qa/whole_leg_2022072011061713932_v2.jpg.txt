@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's shorts black? | Yes. |
+| Yes/No | Is the woman wearing a black baseball cap? | Yes. |
+| Yes/No | Is the woman carrying a white purse? | Yes. |
+| Yes/No | Are there benches in the background of the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image relaxed and casual? | Yes. |
+| What | What color are the woman's shorts? | Black. |
+| What | What is the woman carrying in her hand? | A white purse. |
+| How | How is the woman carrying her purse? | She is carrying it in her hand. |
+| How | How would you describe the woman's pose in the image? | She is walking with a confident stride, her shoulders back and her head held high. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the skirt the woman is wearing blue? | Yes. |
+| Yes/No | Does the t-shirt have a button on the left side? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Are the woman's hands resting on her hips? | Yes. |
+| What | What color is the woman's t-shirt? | White. |
+| What | What is the woman's pose in the image? | Confident, with her hands resting on her hips. |
+| How | How does the white background affect the image? | It helps to focus attention on the woman and her outfit, making the image more visually striking and sexy. |
+| How | How does the combination of the white t-shirt and blue denim skirt contribute to the overall atmosphere of the image? | It creates a contrast that highlights the woman's figure and adds to the sexy atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing in a pool? | Yes. |
+| Yes/No | Does the man in the image have a beard? | Yes. |
+| Yes/No | Is the image taken from a side angle? | Yes. |
+| Yes/No | Is the atmosphere of the image relaxed and casual? | Yes. |
+| Yes/No | Does the image capture a moment of the man enjoying himself in a pool? | Yes. |
+| What | What is the man in the image wearing around his neck? | A necklace. |
+| What | What is the man in the image possibly doing in the pool? | Swimming or cooling off. |
+| How | How is the man in the image standing in the pool? | He is standing in a relaxed pose, possibly with his feet shoulderwidth apart. |
+| How | How does the image make the viewer feel? | The image makes the viewer feel as if they are part of the scene, and it creates a sense of relaxation and comfort. |

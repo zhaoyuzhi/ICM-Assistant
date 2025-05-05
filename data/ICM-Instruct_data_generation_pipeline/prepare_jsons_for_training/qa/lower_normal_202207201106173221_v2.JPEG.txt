@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Does the woman in the image have her hair pulled back into a bun? | Yes. |
+| Yes/No | Is the woman in the image looking off to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman's attire and pose modest and appropriate? | Yes. |
+| What | What color is the woman's skirt? | Beige. |
+| What | What color is the woman's top? | Black. |
+| How | How is the woman's skirt cinched at the waist? | With a black belt. |
+| How | How is the woman's hair styled? | Pulled back into a bun. |

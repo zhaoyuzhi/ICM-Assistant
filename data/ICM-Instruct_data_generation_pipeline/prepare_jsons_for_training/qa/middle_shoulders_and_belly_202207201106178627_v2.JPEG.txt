@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman in the image holding a measuring tape? | Yes. |
+| Yes/No | Is the woman in the image measuring her waist? | Yes. |
+| Yes/No | Is the image taken in a casual setting? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability and self-assessment? | Yes. |
+| What | What is the woman using to measure her waist? | A measuring tape. |
+| What | What is the woman's expression in the image? | Focused. |
+| How | How is the woman using the measuring tape? | She is holding it around her waist. |
+| What | What does the image suggest about the woman's intentions? | She is trying to lose weight or maintain a healthy lifestyle. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman holding a measuring tape in the image? | Yes. |
+| Yes/No | Is the woman measuring her waist in the image? | Yes. |
+| Yes/No | Does the image have an intimate and personal atmosphere? | Yes. |
+| Yes/No | Does the image suggest a focus on the woman's own body and health? | Yes. |
+| What | What is the woman measuring in the image? | Her waist. |
+| What | What is the woman wearing in the image? | A white top. |
+| How | How is the woman's movement in the image? | Focused on measuring her waist. |
+| How | How does the image evoke feelings? | Intimacy, connection, vulnerability. |

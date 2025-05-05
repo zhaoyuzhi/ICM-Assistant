@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a white lace dress? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Does the dress have long sleeves? | Yes. |
+| Yes/No | Is the back of the dress open? | Yes. |
+| Yes/No | Are the flowers in the bouquet the woman is holding red? | No. |
+| What | What is the woman holding in her hands? | A bouquet of flowers. |
+| What | What is the color of the lace dress the woman is wearing? | White. |
+| How | How does the open back of the dress add to the overall image? | It reveals the woman's skin and adds a sense of mystery and allure. |
+| How | How does the bouquet of flowers contrast with the woman's dress? | The bouquet of flowers adds a soft and delicate touch to the image, creating a contrast with the woman's bold and daring choice of dress. |

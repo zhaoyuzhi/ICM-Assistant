@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Are the shorts red and black in color? | Yes. |
+| Yes/No | Is the person's skin visible through the shorts? | Yes. |
+| Yes/No | Are the shorts made of a stretchy material? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the person's buttocks the main subject of the photograph? | Yes. |
+| What | What color are the shorts? | Red and black. |
+| What | What is the material of the shorts? | Stretchy. |
+| How | How are the shorts fitting the person? | Comfortably. |
+| How | How is the image emphasizing the person's buttocks? | Through a closeup perspective. |

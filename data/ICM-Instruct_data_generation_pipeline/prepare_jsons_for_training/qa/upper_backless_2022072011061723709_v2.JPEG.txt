@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black swimsuit? | Yes. |
+| Yes/No | Does the swimsuit have thin straps? | Yes. |
+| Yes/No | Is the back of the swimsuit low? | Yes. |
+| Yes/No | Is the woman standing with her back to the camera? | Yes. |
+| Yes/No | Is the swimsuit tight? | Yes. |
+| Yes/No | Does the image create a sense of allure and sensuality? | Yes. |
+| What | What color is the swimsuit? | Black. |
+| What | What is the woman's pose in the image? | Standing with her back to the camera, facing away. |
+| How | How are the straps of the swimsuit described? | Thin. |
+| How | How would you describe the woman's back in the image? | Significant amount shown, tight swimsuit. |

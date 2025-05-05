@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a purple satin dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the dress form-fitting? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| How | Does the image showcase the person's body in a provocative manner? | Yes. |
+| What | What is the color of the satin dress? | Purple. |
+| What | What is the material of the dress? | Satin. |
+| How | How is the dress fitting on the person's body? | Formfitting. |
+| How | How is the person's back revealed in the image? | The dress has a low back, revealing a significant amount of skin. |

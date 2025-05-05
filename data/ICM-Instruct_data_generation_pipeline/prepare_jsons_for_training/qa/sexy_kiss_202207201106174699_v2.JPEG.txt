@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a brown jacket? | Yes. |
+| Yes/No | Is the woman in the image wearing a black jacket? | Yes. |
+| Yes/No | Are the man and woman in the image locked in an intimate embrace? | Yes. |
+| Yes/No | Are their lips locked in a passionate kiss? | Yes. |
+| Yes/No | Does the image depict a strong emotional connection between the man and woman? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intense and romantic? | Yes. |
+| What | What is the color of the man's jacket? | Brown. |
+| What | What is the color of the woman's jacket? | Black. |
+| How | How are the man and woman positioned in the image? | The man is positioned on the left, and the woman is positioned on the right. |
+| How | How would you describe the overall mood of the image? | The overall mood of the image is intense and romantic. |

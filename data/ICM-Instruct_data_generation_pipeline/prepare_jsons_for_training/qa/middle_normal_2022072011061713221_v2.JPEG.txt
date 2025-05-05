@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the image feature a high waist and slim fit jeans? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| Yes/No | Are there any intimate or suggestive clothing or actions in the image? | No. |
+| What | What color are the jeans in the image? | Blue. |
+| What | What is the style of the jeans in the image? | Classic. |
+| How | How does the image contrast with the blue jeans? | The white background contrasts with the blue jeans. |
+| How | How would you describe the overall atmosphere of the image? | Casual and everyday. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| How | Does the image show any skin or undergarments? | No. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| Yes/No | Is the focus of the image on the person's clothing rather than their body or appearance? | Yes. |
+| Yes/No | Does the image feature any explicit content? | No. |
+| What | What is the main focus of the image? | The person's blue jeans. |
+| What | What is the exposure level of the image? | Very low. |
+| How | How much of the person's body is visible in the image? | A small portion. |
+| How | How does the image's focus on clothing rather than the person's body or appearance contribute to its atmosphere? | It contributes to a neutral and nonsexy atmosphere. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a plaid shirt? | Yes. |
+| Yes/No | Are the person's pants khaki? | Yes. |
+| Yes/No | Is the book the person is holding written in French? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image focus on the person's physical appearance? | No. |
+| What | What is the person holding in their left hand? | A book written in French. |
+| What | What is the overall atmosphere of the image? | Calm and focused on the person's intellectual pursuits. |
+| How | How is the person standing in the image? | Against a white background. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the book and the person's clothing, rather than their body or any potential nudity. |
+| Yes/No | Is the person in the image wearing a plaid shirt? | Yes. |
+| Yes/No | Are they holding a book in their left hand? | Yes. |
+| Yes/No | Is the book written in French? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the person in the image holding in their left hand? | A book written in French. |
+| What | What is the person's attire in the image? | A plaid shirt and khaki pants. |
+| How | How is the person standing in the image? | Against a white background. |
+| How | How would you describe the atmosphere of the image? | Intellectual or academic. |

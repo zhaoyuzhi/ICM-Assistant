@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the bra a strapless style? | Yes. |
+| Yes/No | Is the woman smiling and looking directly at the camera? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra? | Beige. |
+| What | What is the style of the bra? | Strapless with thin straps and a sweetheart neckline. |
+| How | How is the woman posing in the image? | Confident and sexy. |
+| How | How does the image create a sense of allure and seduction? | Through the combination of the woman's confident pose, direct gaze, and the strapless bra. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra strapless? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing? | A beige strapless bra with thin straps and a sweetheart neckline. |
+| What | What is the woman's facial expression? | She is smiling. |
+| How | How is the woman posing? | Confidently and seductively. |
+| What | What does the woman's direct gaze at the camera suggest? | That she is inviting the viewer to look at her. |

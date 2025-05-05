@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing lipstick? | Yes. |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Does the image feature any other facial expressions? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| Yes/No | Is the image a close-up of the person's face? | Yes. |
+| What | What color is the lipstick in the image? | Pink. |
+| What | What is the person in the image doing with their lip? | Biting it. |
+| How | How does the person's facial expression contribute to the image's sexiness? | The neutral expression allows the viewer to focus on the lips and teeth, emphasizing the allure of the image. |
+| How | How does the pink lipstick contribute to the image's sexiness? | The bold, vibrant color adds an attractive touch to the image and draws attention to the lips. |

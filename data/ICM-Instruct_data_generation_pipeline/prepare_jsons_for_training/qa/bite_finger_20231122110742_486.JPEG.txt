@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Is the woman looking down in the image? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| Yes/No | Does the image feature enough information to describe the woman's facial features in detail? | No. |
+| What | What is the woman doing with her finger in the image? | She's putting her finger inside her mouth. |
+| What | What is the mood of the image? | The mood of the image is dark and mysterious. |
+| How | How does the woman's expression contribute to the overall mood of the image? | The woman's serious expression adds to the dark and mysterious atmosphere of the image. |
+| How | How does the image evoke feelings? | It evokes feelings of desire and fascination. |

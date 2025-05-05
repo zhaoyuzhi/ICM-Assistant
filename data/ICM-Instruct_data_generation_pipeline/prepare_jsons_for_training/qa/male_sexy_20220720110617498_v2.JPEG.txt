@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing blue boxer briefs? | Yes. |
+| Yes/No | Does the man in the image have a muscular physique? | Yes. |
+| Yes/No | Is the man in the image standing with his hands on his hips? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image wearing? | Blue boxer briefs. |
+| What | What is the man in the image doing with his hands? | He is standing with his hands on his hips. |
+| How | How does the man's attire and pose suggest confidence and self-assuredness? | The man's toplessness and casual, confident pose create an atmosphere of allure and sensuality, suggesting a sense of selfassuredness. |
+| How | How does the image convey a sense of allure and sensuality? | The combination of the man's welldefined muscles and his toplessness, along with his casual, confident pose, create a sense of allure and sensuality. |

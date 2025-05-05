@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow smiley face on their shoes? | Yes. |
+| Yes/No | Are the person's clothes white? | Yes. |
+| Yes/No | Is the person standing on a wooden deck? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image suggest a sexy or provocative atmosphere? | No. |
+| Yes/No | Are the person's feet positioned in a relaxed manner? | Yes. |
+| What | What is the color of the person's shoes? | White. |
+| What | What is the color of the person's shirt and pants? | White. |
+| How | How are the person's feet positioned in the image? | In a relaxed manner. |
+| How | How does the low exposure level of the person in the image contribute to the overall atmosphere? | It emphasizes the casual nature of the scene. |

@@ -1,0 +1,12 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What is the color of the person's jeans? |A. Black |B. Blue |C. White |D. Gray |B. |
+| What is the style of the person's jeans? |A. Low-rise |B. High-waisted |C. Skinny |D. Bootcut |B. |
+| What is the condition of the person's jeans? |A. Brand new |B. Slightly faded |C. Distressed |D. Torn |B. |
+| Does the person's sweater match their jeans? |A. Yes |B. No |C. Sort of |D. Not visible |B. |
+| What is the mood of the image? |A. Sexy |B. Playful |C. Neutral |D. Provocative |C. |
+| What is the dominant color of the person's pants? |A. Blue |B. Black |C. Gray |D. White |A. |
+| What is the style of the person's jeans? |A. Low-rise |B. High-waisted |C. Skinny |D. Bootcut |B. |
+| What is the condition of the person's jeans? |A. Brand new |B. Slightly faded |C. Distressed |D. Torn |B. |
+| What is the person wearing on their upper body? |A. A t-shirt |B. A sweater |C. A jacket |D. A dress |B. |
+| What is the overall atmosphere of the image? |A. Sexy |B. Provocative |C. Casual |D. Formal |C. |

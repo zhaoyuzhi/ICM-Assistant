@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini two-piece? | Yes. |
+| Yes/No | Is the woman lying on her stomach? | Yes. |
+| Yes/No | Is her head resting on her hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the setting of the image a sandy beach? | Yes. |
+| What | What color is the top of the bikini? | Orange. |
+| What | What color is the bottom of the bikini? | Red. |
+| How | How is the woman posing in the image? | She is lying on her stomach with her head resting on her hand. |
+| What | What atmosphere does the image convey? | A sexy and alluring atmosphere. |

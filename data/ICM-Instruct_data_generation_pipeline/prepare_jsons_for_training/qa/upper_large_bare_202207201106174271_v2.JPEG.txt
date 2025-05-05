@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the bikini top red, white, and blue in color? | Yes. |
+| Yes/No | Is the woman sitting on a sandy beach? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the image convey a sense of relaxation and enjoyment? | Yes. |
+| What | What is the woman wearing in the image? | A red, white, and blue bikini top. |
+| What | What is the color of the bikini top? | Red, white, and blue. |
+| How | How is the woman's body language in the image? | She is smiling and appears to be enjoying her time on the beach. |
+| How | How does the image convey a sense of sexy? | The combination of the woman's attire and her body language creates an alluring and enticing visual. |

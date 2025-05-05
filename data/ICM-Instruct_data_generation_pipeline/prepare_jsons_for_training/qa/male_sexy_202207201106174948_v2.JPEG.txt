@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image posing in a sexual manner? | Yes. |
+| Yes/No | Is the image set in a private or intimate setting? | No. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the man in the image smiling or expressing emotion? | No. |
+| Yes/No | Does the image have a color scheme that is primarily neutral? | No. |
+| What | What is the man in the image wearing? | A pair of gray underwear. |
+| What | What is the background of the image? | A cityscape. |
+| How | How is the man posing in the image? | Confidently and sexily. |
+| How | How does the image create a sexy atmosphere? | Through the man's physique, pose, and the contrast of the intimate scene with the cityscape in the background. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Are they wearing white shorts? | Yes. |
+| Yes/No | Is the shirt being held above their head? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person holding above their head? | A black shirt. |
+| What | What is the person wearing on their lower body? | White shorts. |
+| How | How is the person holding the shirt? | They are holding it above their head. |
+| How | How does the beach setting contribute to the image's overall feeling? | It adds to the allure and sense of openness and sensuality. |

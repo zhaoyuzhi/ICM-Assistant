@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man lifting weights in a gym? | Yes. |
+| Yes/No | Does the image depict a fitness enthusiast? | Yes. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man have a barbell with both hands? | Yes. |
+| What | What is the man lifting in the image? | A barbell. |
+| What | What is the setting of the image? | A gym. |
+| How | How is the man holding the barbell? | With both hands. |
+| What | What does the image suggest about the man's personality? | Confidence and strength. |

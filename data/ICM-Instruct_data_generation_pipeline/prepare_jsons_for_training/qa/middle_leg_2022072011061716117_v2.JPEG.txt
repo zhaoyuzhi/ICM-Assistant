@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Does the person have a curved back pocket? | Yes. |
+| Yes/No | Is the person wearing a gray tank top? | Yes. |
+| Yes/No | Are the shorts high-waisted? | Yes. |
+| How | Does the image showcase the person's lower body? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the shorts? | Blue. |
+| What | What is the color of the tank top? | Gray. |
+| How | How are the shorts designed? | With a high waist and a curved back pocket. |
+| How | How does the person's pose contribute to the overall atmosphere of the image? | The person's neutral pose, with their arms resting at their sides, adds to the overall sensuality of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Are her eyes closed? | Yes. |
+| Yes/No | Is the background light-colored? | Yes. |
+| Yes/No | Does the image portray the woman in a state of distress or sadness? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the image appropriate for a sexy context? | No. |
+| What | What is the woman's emotional state in the image? | Distressed/Sad. |
+| What | What is the overall atmosphere of the picture? | Somber. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It emphasizes the somber mood and makes the image appear more dramatic. |
+| How | How does the focus of the image differ from a sexy image? | The focus is on the woman's emotional state and the overall atmosphere, rather than on her physical appearance. |

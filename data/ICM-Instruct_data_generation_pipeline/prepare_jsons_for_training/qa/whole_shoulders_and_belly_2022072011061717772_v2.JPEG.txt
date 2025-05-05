@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Are the jeans she's wearing ripped? | Yes. |
+| Yes/No | Is the bench behind her empty? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the overall vibe of the image sexy? | Yes. |
+| What | What color is the crop top the woman is wearing? | Black. |
+| What | What is the style of the jeans the woman is wearing? | Ripped. |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| How | How does the woman's pose accentuate her body? | With her hand on her hip. |

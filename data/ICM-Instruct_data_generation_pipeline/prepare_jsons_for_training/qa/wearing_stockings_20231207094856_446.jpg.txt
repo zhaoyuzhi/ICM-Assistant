@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Are the person's legs bent at the knees? | Yes. |
+| Yes/No | Is the person wearing a pink sweater? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | A pair of beige stockings. |
+| What | What is the color of the person's sweater? | Pink. |
+| How | How are the person's legs positioned in the image? | Bent at the knees. |
+| How | How does the wooden floor contrast with the person's clothing? | It provides a warm and natural backdrop that contrasts with the person's clothing, enhancing the overall atmosphere. |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Is the person's sweater pink? | Yes. |
+| Yes/No | Are the person's legs bent at the knees? | Yes. |
+| Yes/No | Is the person standing on a wooden floor? | Yes. |
+| Yes/No | Does the image capture a moment of vulnerability? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| What | What is the person in the image wearing? | A pink sweater and beige stockings. |
+| What | What is the color of the person's sweater? | Pink. |
+| How | How are the person's legs positioned in the image? | Bent at the knees. |
+| How | How does the wooden floor contrast with the person's clothing? | It provides a warm and natural backdrop that contrasts with the person's clothing, enhancing the overall atmosphere. |

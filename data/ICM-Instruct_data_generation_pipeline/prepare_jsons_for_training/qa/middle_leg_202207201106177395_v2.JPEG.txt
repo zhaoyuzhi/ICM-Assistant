@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt short? | Yes. |
+| Yes/No | Does the skirt have a button closure on the front? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image provide any additional details about the woman's body? | No. |
+| Yes/No | Does the image provide any additional details about the surrounding environment? | No. |
+| What | What is the color of the skirt? | Beige. |
+| What | What is the woman's pose in the image? | Confident. |
+| How | How does the woman's pose and the short skirt she is wearing expose her thighs? | The woman's legs are straight and her feet are shoulderwidth apart, and the short skirt ends above her knees, revealing her thighs. |
+| How | How does the beige color of the skirt add to the overall aesthetic of the image? | The beige color of the skirt complements the woman's skin tone and creates a neutral background that draws attention to her thighs, making the image visually appealing. |

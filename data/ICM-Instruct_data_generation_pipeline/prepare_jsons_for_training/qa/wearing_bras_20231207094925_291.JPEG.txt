@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the bra the main focus of the image? | Yes. |
+| Yes/No | Does the image capture the woman from the waist down? | Yes. |
+| Yes/No | Is the background of the image black? | Yes. |
+| What | What color is the bra? | Gray. |
+| What | What is the woman doing in the image? | Adjusting the bra around her back. |
+| How | How does the gray color of the bra contrast with the background? | It adds a subtle contrast, drawing attention to the woman and her actions. |
+| How | How does the image evoke a sense of allure and intrigue? | The intimate scene and the woman's attire create an atmosphere of intimacy and sensuality, evoking a sense of allure and intrigue. |
+| Yes/No | Is the woman in the image wearing a gray bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image capture the woman from the waist down? | Yes. |
+| Yes/No | Is the background of the image black? | Yes. |
+| Yes/No | Does the gray color of the bra add contrast to the image? | Yes. |
+| What | What is the woman adjusting around her back? | The bra. |
+| What | What is the atmosphere of the image? | Intimate and sensual. |
+| How | How is the woman adjusting the bra? | She is holding it with both hands and adjusting it around her back. |
+| How | How does the image evoke a sense of allure and intrigue? | The private moment of the woman adjusting her bra is captured, making the image intimate and sensual. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of khaki pants? | Yes. |
+| Yes/No | Is the man's shirt white? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Does the man's pose and attire evoke any sexual feelings? | No. |
+| What | What is the style of the man's pants? | Classic. |
+| What | What is the color of the man's shirt? | White. |
+| How | How is the man standing in the image? | With his hands in his pockets, giving off a relaxed and casual vibe. |
+| How | How does the image focus on the man's clothing and posture? | By showing a small portion of his body, focusing on his torso and pants, and not highlighting his physical appearance. |
+| Yes/No | Is the man in the image wearing a pair of khaki pants? | Yes. |
+| Yes/No | Are the pants made of a cotton blend? | Yes. |
+| Yes/No | Is the man wearing a brown belt with a silver buckle? | Yes. |
+| Yes/No | Is the man standing with his hands in his pockets? | Yes. |
+| Yes/No | Is the man's head slightly tilted to the side? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What is the color of the man's pants? | Light green. |
+| What | What is the man's pose in the image? | Standing with his hands in his pockets and his head slightly tilted to the side. |
+| How | How is the man's attire in the image? | Neutral. |
+| How | How does the low exposure level contribute to the image's overall atmosphere? | It contributes to a nonsexual atmosphere by only showing a small portion of the man's body. |

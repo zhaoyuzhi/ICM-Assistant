@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black denim shorts? | Yes. |
+| Yes/No | Does the person have a bracelet on their left wrist? | Yes. |
+| Yes/No | Are the shorts frayed at the hem? | Yes. |
+| Yes/No | Is the image a close-up of the person's buttocks? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person's attire casual and stylish? | Yes. |
+| What | What is the person wearing on their wrist? | A bracelet. |
+| What | What is the style of the shorts? | Black denim shorts with a frayed hem. |
+| How | How does the frayed hem of the shorts add to the overall look of the image? | It adds a touch of edginess to the overall look. |
+| How | How does the close-up nature of the image allow the viewer to focus on the person's attire? | It allows the viewer to focus on the details of the person's attire and the overall atmosphere of the picture. |

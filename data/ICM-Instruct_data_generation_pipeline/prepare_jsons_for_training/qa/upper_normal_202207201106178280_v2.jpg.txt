@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue blazer? | Yes. |
+| Yes/No | Is the man holding a pen in his hand? | Yes. |
+| Yes/No | Is the table adorned with a pink flower arrangement? | Yes. |
+| Yes/No | Is the background of the image dark and out of focus? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Does the image have a romantic or intimate context? | No. |
+| What | What is the man in the image holding in his hand? | A pen. |
+| What | What is the color of the flower arrangement on the table? | Pink. |
+| How | How is the background of the image? | Dark and out of focus. |
+| How | How would you describe the overall atmosphere of the image? | Formal and professional. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing leggings? | Yes. |
+| Yes/No | Does the woman in the image have a confident expression? | Yes. |
+| Yes/No | Is the woman's left leg extended behind her? | Yes. |
+| Yes/No | Is the woman's right leg bent at the knee? | Yes. |
+| Yes/No | Does the image have a modern and stylish touch? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A black sports bra. |
+| What | What is the pattern on the woman's leggings? | A geometric pattern. |
+| How | How is the woman in the image standing? | She is standing with her left leg extended behind her and her right leg bent at the knee. |
+| How | How is the woman in the image looking? | She is looking down and to the left. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a lace-up back? | Yes. |
+| Yes/No | Is the woman holding a bouquet of red roses? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a bun? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the image have a romantic element? | Yes. |
+| What | What is the woman holding in her hands? | A bouquet of red roses. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How is the woman's back exposed in the image? | Through a laceup back on her dress. |
+| How | How does the woman look over her shoulder? | She looks over her shoulder with a seductive expression. |

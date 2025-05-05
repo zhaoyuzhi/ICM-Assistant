@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing cargo shorts? | Yes. |
+| Yes/No | Are the shorts gray? | Yes. |
+| Yes/No | Does the image feature any suggestive or revealing elements? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the person's attire include any revealing or provocative elements? | No. |
+| Yes/No | Is the focus of the image on the person's body or appearance? | No. |
+| What | What is the color of the background in the image? | White. |
+| How | How many pockets are on the front of the shorts? | Two. |
+| How | How is the image focused on the person's clothing? | The image emphasizes the details of the cargo shorts rather than the person's body or appearance. |
+| What | What is the exposure level of the image? | Very low. |
+| Yes/No | Is the person in the image wearing a pair of olive green cargo shorts? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the person have a drawstring at the waist of their shorts? | Yes. |
+| Yes/No | Are there two pockets on the front of the shorts? | Yes. |
+| Yes/No | Is the person wearing a gray shirt? | Yes. |
+| What | What is the color of the person's shirt? | Gray. |
+| What | What is the color of the person's shorts? | Olive green. |
+| What | What is the level of exposure in the image? | Low. |

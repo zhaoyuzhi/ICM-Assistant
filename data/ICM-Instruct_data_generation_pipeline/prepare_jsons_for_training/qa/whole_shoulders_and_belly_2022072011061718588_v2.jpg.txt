@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking a selfie? | Yes. |
+| Yes/No | Is the woman wearing a green off-the-shoulder top? | Yes. |
+| Yes/No | Is she wearing blue jeans? | Yes. |
+| Yes/No | Does the kitchen have a white countertop? | Yes. |
+| Yes/No | Does the kitchen have a white sink? | Yes. |
+| Yes/No | Is the woman posing suggestively? | Yes. |
+| What | What color is the woman's top? | Green. |
+| What | What is the color of the woman's jeans? | Blue. |
+| How | How is the woman posing in the image? | Confidently and comfortably. |
+| How | How does the kitchen setting contribute to the image's atmosphere? | It adds a casual and relaxed vibe, enhancing the sexy feel. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing in a gym? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Are the man's arms flexed in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image wearing? | Black shorts. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How is the man standing in the image? | Standing with flexed arms. |
+| How | How does the background contrast with the man's attire? | The blue wall provides a stark contrast to the man's dark shorts. |

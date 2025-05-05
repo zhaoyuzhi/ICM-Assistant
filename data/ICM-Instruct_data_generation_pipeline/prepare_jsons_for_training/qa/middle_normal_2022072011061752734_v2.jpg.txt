@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the boy in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Does the boy's t-shirt have any print or design? | No. |
+| Yes/No | Is the boy's hair visible in the image? | No. |
+| Yes/No | Does the image contain any background elements other than the white wall? | No. |
+| Yes/No | Is the boy's facial expression neutral or expressionless? | Yes. |
+| Yes/No | Are the boy's arms visible in the image? | No. |
+| What | What is the color of the boy's shorts? | White with a black and green palm tree print. |
+| What | What is the color of the boy's t-shirt? | White. |
+| How | How is the boy's waistband styled in the image? | The boy's waistband is black and has a black stripe on the bottom. |
+| How | How does the image convey innocence and simplicity? | The image has a low exposure level, the boy is wearing casual clothing, and there are no suggestive or provocative elements in the scene. |
+| Yes/No | Is the boy in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the boy's shorts black and white striped? | Yes. |
+| Yes/No | Is the boy's pose neutral? | Yes. |
+| Yes/No | Is the boy looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the boy's attire in the image? | White tshirt and shorts with a tropical print. |
+| What | What is the focus of the image? | The boy's clothing and pose. |
+| How | How is the boy's pose in the image? | Neutral. |
+| How | How does the tropical print on the boy's shorts add to the image? | It adds a playful touch to the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| What | What is the woman's attire in the image? | A white strapless tank top and midriffbaring outfit. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| How | How is the woman posing in the image? | With her arms raised above her head. |
+| How | How would you describe the overall atmosphere of the image? | Casual yet stylish. |

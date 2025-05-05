@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white? | Yes. |
+| Yes/No | Is the person looking downwards? | Yes. |
+| Yes/No | Is the t-shirt soaked? | Yes. |
+| Yes/No | Is the atmosphere of the image mysterious? | Yes. |
+| Yes/No | Does the image evoke a sense of romance? | Yes. |
+| Yes/No | Is the image seductive? | Yes. |
+| What | What is the person wearing? | White tshirt and blue jeans. |
+| What | What is the person looking at? | Possibly the water or the ground. |
+| How | How is the atmosphere of the image? | Somewhat mysterious and intriguing. |
+| What | What does the person's wet clothes suggest? | That they might have been in the water for an extended period. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking up at the camera? | Yes. |
+| Yes/No | Is the bra the woman is wearing white? | Yes. |
+| Yes/No | Does the image capture the woman from the waist up? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman appear vulnerable in the image? | Yes. |
+| What | What is the woman in the image wearing? | A white bra. |
+| What | What is the woman in the image doing? | Putting on a bra. |
+| How | How is the woman in the image looking at the camera? | She is smiling and looking up at the camera. |
+| How | How does the image make you feel? | It feels intimate and alluring. |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Is the woman looking up at the camera? | Yes. |
+| Yes/No | Is the image focused on the woman's upper body? | Yes. |
+| Yes/No | Does the image capture the woman from the waist up? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy and alluring? | Yes. |
+| Yes/No | Does the woman have a smile on her face? | Yes. |
+| What | What color is the bra the woman is wearing? | White. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How is the woman looking up at the camera? | With a smile. |
+| How | How does the image make the viewer feel? | Intimate and allured. |

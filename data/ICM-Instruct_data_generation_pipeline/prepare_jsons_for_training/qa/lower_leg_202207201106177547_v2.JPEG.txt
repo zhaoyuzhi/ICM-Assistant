@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the background of the image a plain beige color? | Yes. |
+| Yes/No | Does the person have their arms resting on their knees? | Yes. |
+| Yes/No | Is the dress lacy? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| What | What color are the person's heels? | Black. |
+| What | What is the material of the dress? | Sheer. |
+| How | How are the person's arms positioned? | Resting on their knees. |
+| How | How is the person's body positioned in relation to the camera? | Turned slightly to the side. |

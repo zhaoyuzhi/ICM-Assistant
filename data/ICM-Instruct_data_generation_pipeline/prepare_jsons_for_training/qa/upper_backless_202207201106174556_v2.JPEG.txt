@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assurance? | Yes. |
+| Yes/No | Does the image suggest a sense of style and fashion? | Yes. |
+| How | How many items of clothing can be seen in the image? | 3 (skirt, bra, hands on hips). |
+| How | How would you describe the posture of the person in the image? | Confident, selfassured. |
+| What | What color is the skirt in the image? | Gray. |
+| What | What color is the bra in the image? | Pink. |

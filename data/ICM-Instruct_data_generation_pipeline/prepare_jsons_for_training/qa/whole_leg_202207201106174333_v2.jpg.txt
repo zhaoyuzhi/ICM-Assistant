@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the central figure in the image a young woman? | Yes. |
+| Yes/No | Is the woman standing in front of a store window? | Yes. |
+| Yes/No | Does the store window have a sign that reads "serene get tea"? | Yes. |
+| Yes/No | Is the woman wearing a navy blue dress with a white collar and belt? | Yes. |
+| Yes/No | Does the dress have a high neckline and a full skirt? | Yes. |
+| Yes/No | Is the woman's left leg visible through a slit in the dress? | Yes. |
+| What | What is the color of the woman's dress? | Navy blue. |
+| What | What is the woman's confident pose in the image? | She has her left hand on her hip and her right hand resting on her thigh. |
+| How | How does the woman's attire contribute to the overall allure of the image? | The navy blue dress with its high neckline and slit reveals her thighs, creating a seductive atmosphere. |
+| How | How does the woman's pose contribute to the overall allure of the image? | Her confident pose, with her left hand on her hip and her right hand resting on her thigh, adds to the overall allure of the image. |

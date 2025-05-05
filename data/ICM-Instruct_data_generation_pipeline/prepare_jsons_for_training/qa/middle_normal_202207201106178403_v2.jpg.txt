@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are they wearing khaki pants? | Yes. |
+| Yes/No | Is the person's attire formal? | Yes. |
+| Yes/No | Is there a mirror on top of the dresser? | Yes. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| Yes/No | Does the image have a sensual or alluring atmosphere? | No. |
+| What | What color is the person's belt buckle? | Gold. |
+| What | What is the focus of the image? | The person's attire and the dresser. |
+| How | How is the person standing in front of the dresser? | Not specified in the description. |
+| How | How does the low exposure level of the image affect the overall mood? | It creates a neutral and professional atmosphere. |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are the man's pants khaki? | Yes. |
+| Yes/No | Does the man have a belt with a gold buckle? | Yes. |
+| Yes/No | Is the dresser behind the man made of wood? | Yes. |
+| Yes/No | Does the dresser have a mirror on top? | Yes. |
+| Yes/No | Is the man's posture neutral? | Yes. |
+| What | What is the color of the man's shirt? | Blue. |
+| What | What is the material of the dresser? | Wood. |
+| How | How is the man's posture? | Neutral. |
+| How | How does the image's low exposure level contribute to its atmosphere? | It contributes to a neutral and innocuous atmosphere by not revealing any intimate details about the man or his surroundings. |

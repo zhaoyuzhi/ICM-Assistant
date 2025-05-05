@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a purple dress? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the person's dress? | Purple. |
+| How | How are the person's legs positioned in the image? | Bent and pulled up to their knees. |
+| What | What is the overall mood of the image? | Intimate, personal, and sexy. |
+| Yes/No | Is the person in the image wearing a purple dress? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Is the imageset in a private setting? | Yes. |
+| Yes/No | Is the person's attire in the image sexy? | Yes. |
+| Yes/No | Does the image portray a sense of vulnerability? | Yes. |
+| Yes/No | Is the act of putting on socks in the image associated with sensuality? | Yes. |
+| What | What is the person wearing on their feet in the image? | White kneehigh socks. |
+| What | What is the color of the person's dress in the image? | Purple. |
+| How | How are the person's legs positioned in the image? | Bent and pulled up to their knees. |
+| How | How does the image portray a sense of intimacy and vulnerability? | Through the private setting, the person's attire, and the act of putting on stockings. |

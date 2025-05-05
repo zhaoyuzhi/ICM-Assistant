@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the people in the image dressed in business attire? | Yes. |
+| Yes/No | Is the atmosphere of the image calm and professional? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a romantic or intimate context? | No. |
+| Yes/No | Is the focus of the image on the people's actions and interactions rather than their appearance? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What are the people in the image engaged in? | A serious discussion or meeting. |
+| What | What is the overall atmosphere of the image? | Professional and serious. |
+| How | How are the people dressed in the image? | In business attire. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the people's actions and interactions rather than their appearance. |

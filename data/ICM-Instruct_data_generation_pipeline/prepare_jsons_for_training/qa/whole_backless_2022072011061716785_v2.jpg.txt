@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the person wearing a gold bracelet? | Yes. |
+| Yes/No | Does the image have a relaxed atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image wearing on their wrist? | A gold bracelet. |
+| What | What is the person in the image walking on? | A beach. |
+| How | How is the person's hair styled in the image? | In loose waves. |
+| How | How is the dress flowing in the image? | It is flowing. |

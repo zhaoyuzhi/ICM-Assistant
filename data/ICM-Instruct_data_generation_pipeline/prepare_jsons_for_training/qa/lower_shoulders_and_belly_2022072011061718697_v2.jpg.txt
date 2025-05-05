@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue leggings? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman standing in front of a weight machine and a bench? | Yes. |
+| Yes/No | Does the image create a sense of confidence and allure? | Yes. |
+| Yes/No | Does the gym setting add to the overall atmosphere of the image? | Yes. |
+| What | What is the woman's pose in the image? | She is striking a pose with her hand on her hip. |
+| What | What is the woman's attire in the image? | She is wearing a pair of blue leggings and a sports bra. |
+| How | How does the woman's pose and the exposure of her belly create a sense of confidence and allure? | The woman's pose and the exposure of her belly create a sense of confidence and allure because they suggest a sense of strength and fitness, and also highlight her toned physique. |
+| How | How does the gym setting add to the overall atmosphere of the image? | The gym setting adds to the overall atmosphere of the image by suggesting a sense of fitness and health, and also creates a visually appealing contrast between the woman's toned physique and the industriallooking gym equipment. |

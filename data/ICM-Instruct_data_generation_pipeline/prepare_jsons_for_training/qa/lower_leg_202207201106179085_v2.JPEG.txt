@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked from their thighs to their ankles? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the person wearing a pair of denim shorts? | Yes. |
+| Yes/No | Are the denim shorts torn at the knees? | Yes. |
+| Yes/No | Is the person wearing a pair of sandals? | Yes. |
+| What | What is the person in the image wearing on their feet? | Sandals. |
+| What | What is the person in the image wearing on their lower body? | Torn denim shorts. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |

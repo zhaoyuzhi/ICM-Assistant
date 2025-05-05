@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman wearing a swimsuit? | No. |
+| Yes/No | Is the beach crowded? | No. |
+| Yes/No | Is the woman's hair down? | No. |
+| Yes/No | Is the woman's shirt buttoned up? | No. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| What | What is the woman doing in the image? | She is looking out at the ocean. |
+| What | What is the woman wearing? | A white shirt that is unbuttoned. |
+| How | How is the woman's hair styled? | She has her hair in a bun. |
+| How | How does the image capture a moment of vulnerability and allure? | The woman's attire and actions suggest a sense of confidence and allure, creating an atmosphere of sensuality and intrigue. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of olive green trousers? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the man looking off to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and unassuming? | Yes. |
+| What | What is the man's pose in the image? | He is standing with his hands tucked into his pockets and looking off to the side. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man's demeanor in the image? | He appears relaxed and nonchalant. |
+| How | How does the white background contribute to the overall atmosphere of the image? | It emphasizes the simplicity of the scene and reinforces the calm and unassuming atmosphere. |
+| Yes/No | Is the man in the image wearing a pair of olive green trousers? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the man looking off to the side? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the color of the man's trousers? | Olive green. |
+| What | What is the color of the man's shirt? | White. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How does the low exposure level of the image contribute to the lack of sensuality? | It limits the viewer's ability to focus on the man's body or facial features, shifting the focus to his clothing and posture. |

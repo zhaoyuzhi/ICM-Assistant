@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Is the person's exposure level high? | No. |
+| Yes/No | Does the image depict a romantic or intimate environment? | No. |
+| Yes/No | Is the person engaged in any explicit or suggestive actions? | No. |
+| What | What is the person's attire in the image? | A white tshirt and black pants. |
+| What | What is the overall atmosphere of the image? | Casual and nonsexual. |
+| How | How is the person standing in the room? | The person is standing with their back to the camera. |
+| How | How does the image depict the person's attire? | The person's attire is depicted clearly and fully, as they are not facing the camera directly. |

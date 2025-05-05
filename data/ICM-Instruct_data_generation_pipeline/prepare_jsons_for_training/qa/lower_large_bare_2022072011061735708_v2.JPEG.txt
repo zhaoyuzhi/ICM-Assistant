@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a top? | Yes. |
+| Yes/No | Are the person's legs exposed in the image? | Yes. |
+| Yes/No | Are the person's feet exposed in the image? | Yes. |
+| Yes/No | Is the bed covered with a white sheet? | Yes. |
+| Yes/No | Is a blue blanket visible in the image? | Yes. |
+| What | What color are the person's shorts? | The person's shorts are not visible in the image, so it is not possible to determine their color. |
+| What | What is the person's facial expression? | The person's facial expression is not visible in the image, so it is not possible to determine their facial expression. |
+| How | How many blankets are visible in the image? | One blue blanket is visible in the image. |
+| How | How many pairs of feet are visible in the image? | One pair of feet is visible in the image, belonging to the person lying on the bed. |

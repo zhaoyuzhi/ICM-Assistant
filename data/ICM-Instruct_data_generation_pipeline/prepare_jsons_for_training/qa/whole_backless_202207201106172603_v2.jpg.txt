@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the dress made of lace? | Yes. |
+| Yes/No | Is the person standing in a grassy area? | Yes. |
+| Yes/No | Are there rocks and a stone wall in the background? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person's attire in the image? | A white dress with a low back and lace detailing. |
+| What | What is the setting of the image? | A grassy area surrounded by rocks and a stone wall. |
+| How | How does the dress contribute to the overall look of the image? | The dress adds a delicate and elegant touch to the overall look. |
+| How | How does the surrounding environment contrast with the person's attire? | The natural and tranquil backdrop of the grassy area and stone wall contrasts with the person's elegant attire, making the image even more captivating. |

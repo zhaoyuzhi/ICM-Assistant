@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing an orange suit? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Are the woman's movements clearly visible in the image? | No. |
+| Yes/No | Is the woman's facial expression clearly visible in the image? | No. |
+| Yes/No | Does the image suggest a provocative or seductive context? | No. |
+| Yes/No | Is the woman standing on a balcony in the image? | Yes. |
+| What | What is the woman holding in her hands in the image? | Her hands are held together. |
+| What | What is the color of the woman's suit in the image? | Orange. |
+| How | How is the woman standing on the balcony in the image? | She is standing with her feet shoulderwidth apart. |
+| How | How does the low exposure level of the image affect the visibility of the woman's attire and facial expressions? | It makes it difficult to see the woman's attire and facial expressions clearly. |

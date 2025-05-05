@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin dressed in a pair of olive green cargo shorts? | Yes. |
+| Yes/No | Is the mannequin wearing a white sneaker? | Yes. |
+| Yes/No | Does the mannequin have two pockets on the front of its shorts? | Yes. |
+| Yes/No | Is the zipper fly on the mannequin's shorts visible? | Yes. |
+| Yes/No | Is the mannequin positioned in a way that suggests it is walking? | Yes. |
+| Yes/No | Does the image feature a real person? | No. |
+| What | What is the color of the mannequin's sneaker? | White. |
+| What | What is the color of the mannequin's shorts? | Olive green. |
+| How | How is the mannequin positioned in the image? | It appears to be walking. |

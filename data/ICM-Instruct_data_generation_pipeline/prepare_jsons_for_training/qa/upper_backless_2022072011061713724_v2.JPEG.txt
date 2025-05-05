@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Are the person's pants black and white striped? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the person resting their head on their hand? | Yes. |
+| Yes/No | Are the white sheets of the bed a prominent feature in the image? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What is the person's attire in the image? | Black bra and black and white striped pants. |
+| What | What is the main focus of the image? | The person's exposed back. |
+| How | How is the person resting their head? | On their hand, with their elbow on their knee. |
+| How | How does the image suggest a sense of relaxation and confidence? | Through the person's posture and the exposed back. |

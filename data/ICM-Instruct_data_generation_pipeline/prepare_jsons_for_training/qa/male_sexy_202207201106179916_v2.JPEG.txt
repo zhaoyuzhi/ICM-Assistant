@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the man leaning against a wall? | Yes. |
+| Yes/No | Is the man looking at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man's facial expression? | Serious. |
+| What | What is the atmosphere of the image? | Intense and captivating. |
+| How | How is the man's gaze directed? | Off to the side. |
+| How | How does the image make the viewer feel? | Connected and captivated. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing black heels in the image? | Yes. |
+| Yes/No | Is the woman looking off to the side in the image? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What is the color of the woman's skirt? | Blue. |
+| What | What is the woman's facial expression in the image? | Slight smile. |
+| How | How is the woman's skirt styled? | Short and highwaisted. |
+| How | How does the woman's pose and expression suggest confidence and allure? | Her pose is relaxed and her expression is subtle yet inviting, suggesting a sense of selfassurance and attractiveness. |

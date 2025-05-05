@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing leggings? | Yes. |
+| Yes/No | Are the leggings blue? | Yes. |
+| Yes/No | Does the woman have her legs apart? | Yes. |
+| Yes/No | Is the woman's pose in the image confident? | Yes. |
+| Yes/No | Are the leggings designed with a high waist? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What color are the leggings? | Blue. |
+| What | What is the woman's pose in the image? | Standing with her legs apart. |
+| How | How does the woman's pose accentuate her figure? | The pose highlights the leggings' design and fit, accentuating the woman's figure in a confident and stylish way. |
+| How | How does the image create a sexy atmosphere? | The combination of the leggings' design, the woman's pose, and her confident stance creates a sexy atmosphere in the image. |

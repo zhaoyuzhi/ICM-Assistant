@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a gun? | Yes. |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Does the image depict the woman posing for the camera? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Does the presence of the gun in the image add an element of power and intrigue? | Yes. |
+| What | What is the woman in the image holding? | A large gun. |
+| What | What is the woman in the image wearing? | A bikini top. |
+| How | How is the woman posing for the camera? | She is smiling and posing in a sexy manner. |
+| How | How does the image convey a sense of confidence and allure? | Through the combination of the woman's attire, the large gun, and her pose. |

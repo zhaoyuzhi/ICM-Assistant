@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a gray sweater? | Yes. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the woman's head tilted back in the image? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the image indoors? | No. |
+| What | What is the man in the image wearing? | A gray sweater. |
+| What | What is the woman in the image wearing? | A black dress. |
+| How | How is the woman's head positioned in the image? | Tilted back. |
+| How | How would you describe the atmosphere of the image? | Warm and close. |

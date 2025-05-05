@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image muscular? | Yes. |
+| Yes/No | Is the man in the image exposing a large area of his back? | Yes. |
+| Yes/No | Is the man in the image lifting weights in a gym? | Yes. |
+| Yes/No | Does the man in the image have a tattoo on his back? | Yes. |
+| Yes/No | Is the image sexy because of the man's physique? | Yes. |
+| Yes/No | Is the image sexy because of the man's dedication to fitness? | Yes. |
+| What | What is the man in the image lifting? | A barbell. |
+| What | What is the man in the image wearing? | Black shorts. |
+| How | How is the man in the image lifting the barbell? | Above his head. |
+| How | How does the large area of the man's back exposed highlight his muscular build? | It highlights his welldefined muscles and associates them with attractiveness and strength. |

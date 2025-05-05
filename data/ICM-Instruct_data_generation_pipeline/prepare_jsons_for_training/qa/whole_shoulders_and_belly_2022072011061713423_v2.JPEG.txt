@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a black crop top? | Yes. |
+| Yes/No | Are the woman's jeans cropped at the waist? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's pose neutral? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the design of the woman's crop top? | Scoop neck and long sleeves. |
+| What | What is the color of the woman's jeans? | Black. |
+| How | How does the woman's pose add to the image's atmosphere? | Neutral pose adds an element of mystery. |
+| How | How does the woman's outfit and pose suggest her personality traits? | Selfassuredness and confidence. |

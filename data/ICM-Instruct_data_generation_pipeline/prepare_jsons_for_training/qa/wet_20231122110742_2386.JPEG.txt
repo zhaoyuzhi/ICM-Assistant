@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a spray bottle? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's clothes wet? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the woman appear to be engaging in some form of physical activity? | Yes. |
+| What | What is the woman holding in her hand? | A pink spray bottle. |
+| What | What is the woman's facial expression? | Smiling. |
+| How | How are the woman's clothes wet? | They are soaked. |
+| How | How does the garden setting contribute to the overall atmosphere of the image? | It adds to the sense of intimacy and sensuality. |

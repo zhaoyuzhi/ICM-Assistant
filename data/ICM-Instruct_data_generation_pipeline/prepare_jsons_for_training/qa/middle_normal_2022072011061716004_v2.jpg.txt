@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a wristband? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | No. |
+| Yes/No | Is the person looking directly at the camera? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image casual and non-sexual? | Yes. |
+| What | What color are the person's shorts? | Olive green. |
+| What | What is the person's wristband color? | Black. |
+| How | How many pockets do the person's shorts have? | Multiple. |
+| What | What is the person's posture in the image? | Neutral. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are they wearing a pair of olive green cargo shorts? | Yes. |
+| Yes/No | Is the person's attire functional rather than revealing? | Yes. |
+| Yes/No | Does the image feature a brick wall in the background? | Yes. |
+| Yes/No | Is the person looking over their shoulder? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| What | What color is the person's wristband? | Black. |
+| What | What is the person's stance in the image? | Hands on hips. |
+| How | How does the low angle of the shot contribute to the overall composition? | It emphasizes the person's stance and attire, and adds a sense of strength and confidence to their posture. |
+| How | How does the brick wall in the background affect the image? | It provides a neutral backdrop that does not draw attention away from the person, and adds a rustic touch to the overall composition. |

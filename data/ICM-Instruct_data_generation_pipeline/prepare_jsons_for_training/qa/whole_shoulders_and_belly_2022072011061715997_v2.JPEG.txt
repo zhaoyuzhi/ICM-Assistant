@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman standing in a confident pose? | Yes. |
+| Yes/No | Is her left hand resting on her hip? | Yes. |
+| Yes/No | Is her right hand lightly touching her thigh? | Yes. |
+| Yes/No | Is she wearing a red top? | Yes. |
+| Yes/No | Are the jeans ripped? | Yes. |
+| What | What is the woman wearing on her wrist? | A gold bracelet. |
+| What | What is the color of the woman's top? | Red. |
+| How | How is the woman's pose in the image? | Confident. |
+| How | How does the gold bracelet add to the woman's overall look? | It adds a touch of elegance. |

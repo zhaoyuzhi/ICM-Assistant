@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a bun? | Yes. |
+| Yes/No | Is the building in the background white? | Yes. |
+| Yes/No | Does the woman have a confident expression? | Yes. |
+| Yes/No | Are there columns in the background? | Yes. |
+| Yes/No | Is the woman's dress peach-colored? | Yes. |
+| What | What is the woman's attire suggestive of? | That she might be attending a formal event or a special occasion. |
+| What | What does the white building with columns in the background add to the scene? | Elegance and sophistication. |
+| How | How does the woman's pose suggest she feels about her appearance? | Confident and comfortable. |
+| How | How does the image evoke a sense of allure and intrigue? | Through the combination of the woman's attire, confident pose, and elegant setting. |

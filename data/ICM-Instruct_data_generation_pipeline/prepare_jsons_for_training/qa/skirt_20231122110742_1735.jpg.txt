@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Does the dress have a high slit? | Yes. |
+| Yes/No | Does the dress have a crop top? | Yes. |
+| Yes/No | Is the woman lifting the dress up to reveal her thighs? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the background of the image a beach or outdoor setting? | No. |
+| What | What color is the dress? | Pink. |
+| What | What is the material of the dress? | Shiny. |
+| How | How is the woman posing in the image? | She is standing and lifting the dress up to reveal her thighs. |
+| How | How would you describe the overall atmosphere of the image? | Sexy and enticing. |

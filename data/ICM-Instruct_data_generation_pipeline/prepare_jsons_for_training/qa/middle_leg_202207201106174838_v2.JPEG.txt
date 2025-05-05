@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Is the skirt gray? | Yes. |
+| Yes/No | Does the skirt have a heart-shaped charm attached to the zipper? | Yes. |
+| Yes/No | Is the woman wearing a sweater? | Yes. |
+| Yes/No | Is the sweater beige? | Yes. |
+| Yes/No | Can you see the woman's thighs in the image? | No. |
+| What | What color is the woman's sweater? | Beige. |
+| What | What is the shape of the charm attached to the skirt's zipper? | Heartshaped. |
+| How | How does the contrast between the skirt and sweater contribute to the image's overall atmosphere? | It creates a contrast that draws attention to the skirt and charm, enhancing the image's sexy atmosphere. |
+| How | How does the woman's pose and gaze contribute to the image's overall atmosphere? | The woman's pose and gaze contribute to the overall allure of the image, adding a playful and romantic element to it. |

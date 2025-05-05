@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Are the person's lips painted red? | Yes. |
+| Yes/No | Is the image a close-up of the person's lips? | Yes. |
+| Yes/No | Is the person's facial expression serious? | Yes. |
+| Yes/No | Does the image capture a moment of intense emotion? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the person's lips? | Red. |
+| What | What is the facial expression of the person in the image? | Serious. |
+| How | How are the person's lips painted? | Bold red. |
+| How | How does the close-up perspective emphasize the person's lips? | It draws attention to the lips and the action of biting them. |

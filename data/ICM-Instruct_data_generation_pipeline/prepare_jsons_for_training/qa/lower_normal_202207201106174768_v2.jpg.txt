@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of jeans? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the image feature a background that is not plain white? | No. |
+| Yes/No | Is the woman's pose in the image suggestive or provocative? | No. |
+| Yes/No | Does the image contain any elements that suggest a sexual context? | No. |
+| Yes/No | Is the woman's outfit in the image revealing or expose | No. |
+| What | What is the color of the woman's shirt in the image? | White. |
+| What | What is the style of the woman's jeans in the image? | Long and highwaisted. |
+| How | How does the woman's pose in the image compare to a fashion model's pose? | Neutral/natural. |
+| How | How does the image's focus on the woman's outfit compare to a typical fashion photograph? | More casual and everyday, rather than glamorous or sexy. |

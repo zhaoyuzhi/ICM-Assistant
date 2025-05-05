@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman sitting on a couch? | Yes. |
+| Yes/No | Is the woman wearing a strapless dress? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Are the woman's legs crossed? | Yes. |
+| Yes/No | Are the woman's arms resting on her knees? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What color is the dress? | Green and blue. |
+| What | What is the woman's pose? | Sitting with legs crossed and arms resting on knees. |
+| How | How does the woman's attire contribute to the sexy atmosphere in the image? | The strapless dress and floral pattern create a sexy and elegant appearance. |
+| How | How does the woman's pose contribute to the sexy atmosphere in the image? | The confident and relaxed pose adds to the sexy atmosphere. |

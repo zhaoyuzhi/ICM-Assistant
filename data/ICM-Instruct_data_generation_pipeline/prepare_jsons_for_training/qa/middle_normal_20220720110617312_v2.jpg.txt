@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person's tie gray? | Yes. |
+| Yes/No | Are the person's pants gray? | Yes. |
+| Yes/No | Is the person holding a black purse? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the person's attire in the image? | A white shirt with a floral pattern, a gray paisley tie, and gray pants. |
+| What | What is the person holding in their left hand? | A black purse. |
+| How | How is the person's attire modest and appropriate? | The person's attire covers their body appropriately, and the focus is on their clothing and accessories rather than their physical appearance. |
+| How | How does the low exposure level of the image emphasize the focus on the person's clothing and accessories? | The low exposure level means that only a small portion of the image is visible, drawing attention to the person's clothing and accessories rather than their body. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the person wearing a skirt? | Yes. |
+| Yes/No | Is the person holding a purse? | Yes. |
+| Yes/No | Is the image sexually suggestive or provocative? | No. |
+| Yes/No | Is the person's attire casual? | Yes. |
+| What | What is the person's belt color? | Gray. |
+| What | What is the person's skirt color? | Brown. |
+| How | How is the person's attire different from typical sexy or provocative clothing? | The person is dressed in a casual outfit consisting of a white shirt, gray belt, and brown skirt, which is not typically associated with sexy or provocative clothing. |
+| How | How does the low exposure level of the image contribute to the overall atmosphere? | The low exposure level of the image emphasizes the person's outfit and the background, rather than their body or any suggestive poses, contributing to a nonsexy atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing only underwear? | Yes. |
+| Yes/No | Is the underwear the only clothing item visible in the image? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's body? | No. |
+| Yes/No | Is the person's body visible in the image? | No. |
+| Yes/No | Does the image include any other elements besides the person and the underwear? | No. |
+| Yes/No | Is the image sexy and provocative? | Yes. |
+| What | What is the color of the underwear in the image? | Light blue. |
+| What | What is the logo on the waistband of the underwear? | A cat. |
+| How | How does the light blue color of the underwear contribute to the overall atmosphere of the image? | It adds a touch of innocence. |
+| How | How does the cat logo on the waistband contribute to the overall atmosphere of the image? | It adds a playful and feminine element. |

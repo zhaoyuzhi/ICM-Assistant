@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a tank top? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Is the woman leaning against a couch? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other people or objects? | No. |
+| Yes/No | Is the atmosphere of the image seductive and alluring? | Yes. |
+| What | What is the woman wearing in the image? | A beige tank top. |
+| What | What is the woman's pose in the image? | She is leaning against a couch, with a closeup of her torso. |
+| How | How does the woman's gaze contribute to the image's atmosphere? | Her direct gaze engages the viewer and creates a sense of intimacy and allure. |
+| How | How does the image's composition and content work together to create a visual experience? | The closeup of the woman's torso, her direct gaze, and the simplicity of her outfit and background create a sexy and enticing visual experience. |

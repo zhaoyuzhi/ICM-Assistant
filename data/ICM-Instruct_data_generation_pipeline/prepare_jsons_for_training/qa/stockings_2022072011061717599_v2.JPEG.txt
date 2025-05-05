@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the white socks on the right leg? | Yes. |
+| Yes/No | Is the bed covered with white sheets? | Yes. |
+| Yes/No | Is the person's attire considered sexy? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and allure? | Yes. |
+| What | What color are the stockings the person is wearing? | Black. |
+| What | What color are the socks the person is wearing on their right leg? | White. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| What | What atmosphere does the image convey? | Sensual and relaxed. |

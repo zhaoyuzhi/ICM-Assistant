@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman holding a piece of paper in her hands? | Yes. |
+| Yes/No | Is the background of the image a bookshelf with books and a chair? | Yes. |
+| Yes/No | Does the woman's outfit suggest a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Does the messy bun hairstyle add to the casual and relaxed atmosphere? | Yes. |
+| Yes/No | Does the image have an intellectual touch due to the bookshelf in the background? | Yes. |
+| What | What is the woman holding in her hands? | A piece of paper. |
+| What | What is the style of the woman's hairstyle? | A messy bun. |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | It creates a casual and relaxed atmosphere. |
+| How | How does the bookshelf in the background contrast with the woman's outfit and hairstyle? | It contrasts with the casual and relaxed atmosphere created by the woman's outfit and hairstyle, adding an intellectual touch to the image. |

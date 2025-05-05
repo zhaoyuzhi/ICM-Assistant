@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is she sitting on a white background? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's pose modest? | Yes. |
+| Yes/No | Does the image feature any provocative elements or suggestive body language? | No. |
+| What | What is the woman's hair color? | Blonde. |
+| What | What is she wearing? | A white shirt and blue jeans. |
+| How | How is the woman sitting? | With her legs crossed and her hands resting on her knees. |
+| What | What is the overall atmosphere of the image? | Calm and nonsexual. |

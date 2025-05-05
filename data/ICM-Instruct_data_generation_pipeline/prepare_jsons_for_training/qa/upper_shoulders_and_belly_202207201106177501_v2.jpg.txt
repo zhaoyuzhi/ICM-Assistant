@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the dress gray in color? | Yes. |
+| Yes/No | Does the dress have a ruffled neckline? | Yes. |
+| Yes/No | Is the woman sitting in front of a mirror? | Yes. |
+| Yes/No | Is the background of the image minimalistic? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the dress? | Gray. |
+| What | What is the woman's gaze directed at? | Downwards. |
+| How | How is the woman's attire revealing? | The strapless dress reveals her shoulders and upper back. |
+| How | How can the woman's pose be interpreted? | The woman's gaze directed downwards can be interpreted as a seductive pose. |

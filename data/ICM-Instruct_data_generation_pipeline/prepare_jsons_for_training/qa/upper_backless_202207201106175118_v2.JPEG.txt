@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a cropped top? | Yes. |
+| Yes/No | Does the person have any visible tattoos? | No. |
+| Yes/No | Is the person's attire revealing? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the background of the image colorful? | No. |
+| What | What is the person's attire in the image? | Gray cropped top and gray leggings. |
+| What | What is written on the person's leggings? | MITAO. |
+| How | How is the person standing in the image? | With their hands on their hips. |
+| How | How does the image make the viewer feel? | Drawn to the person's presence, sensual and alluring. |

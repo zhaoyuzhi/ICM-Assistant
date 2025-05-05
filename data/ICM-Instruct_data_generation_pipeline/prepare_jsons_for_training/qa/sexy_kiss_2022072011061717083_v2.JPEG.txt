@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man lying on the bed? | Yes. |
+| Yes/No | Is the woman standing over the man? | Yes. |
+| Yes/No | Are they kissing? | Yes. |
+| Yes/No | Is the bed covered with a white comforter? | Yes. |
+| Yes/No | Is the woman wearing a blue nightgown? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | A white tshirt. |
+| What | What is the woman wearing? | A blue nightgown. |
+| How | How are the man and woman positioned on the bed? | The man is lying on his back, while the woman is standing over him. |
+| How | How would you describe the atmosphere of the image? | Cozy, warm, and intimate. |

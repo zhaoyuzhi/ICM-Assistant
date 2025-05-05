@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the color of the person's top? | White. |
+| What | What is the color of the bra strap? | Black. |
+| How | How is the person's hair styled? | Pulled back. |
+| What | What is the focus of the image? | The back of the person's body. |

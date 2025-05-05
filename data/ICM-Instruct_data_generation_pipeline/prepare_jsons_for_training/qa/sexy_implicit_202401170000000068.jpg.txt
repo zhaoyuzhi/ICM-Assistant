@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink feather boa? | Yes. |
+| Yes/No | Is the popsicle in the woman's hand pink? | Yes. |
+| Yes/No | Is the woman sticking out her tongue? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Is the woman wearing a pink glove on her left hand? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What color is the woman's hair? | Brown. |
+| What | What is the woman licking in the image? | A pink popsicle. |
+| How | How is the woman holding the popsicle? | She is licking it with her tongue. |
+| How | How does the pink feather boa add to the atmosphere of the image? | It adds a touch of allure and sensuality to the scene. |

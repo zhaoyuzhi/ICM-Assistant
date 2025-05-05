@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green top? | Yes. |
+| Yes/No | Is the woman in the image wearing black shorts? | Yes. |
+| Yes/No | Is the woman in the image sitting down? | Yes. |
+| Yes/No | Does the woman in the image have a confident posture? | Yes. |
+| Yes/No | Does the woman in the image have a relaxed posture? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| What | What color is the woman's top in the image? | Green. |
+| What | What color are the woman's shorts in the image? | Black. |
+| How | How does the woman's posture in the image make her appear? | Confident and relaxed. |
+| How | How does the low angle of the shot make the woman appear? | Larger and more prominent. |

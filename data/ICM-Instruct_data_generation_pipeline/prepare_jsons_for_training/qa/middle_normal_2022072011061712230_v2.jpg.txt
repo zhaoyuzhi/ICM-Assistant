@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Does the person have a tropical print on their shorts? | Yes. |
+| Yes/No | Is the person wearing a white t-shirt? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the person wearing around their waist? | A drawstring waist. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How are the shorts designed? | With a drawstring waist. |
+| How | How does the image's exposure level contribute to its nature? | Low exposure level contributes to the image's innocent and nonsexual nature. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a t-shirt? | Yes. |
+| Yes/No | Does the person in the image have a tropical print on their shorts? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the color of the person's shorts? | Brightly colored, tropical print. |
+| What | What is the design of the person's shorts? | Drawstring waist. |
+| How | How does the person appear to be enjoying their day by the pool? | The person appears to be relaxed and casual. |
+| How | How does the image convey a sense of casualness and relaxation? | Through the person's attire, the setting, and the lack of explicit content. |

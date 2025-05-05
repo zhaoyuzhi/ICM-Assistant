@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the logo on the left leg of the shorts? | Yes. |
+| Yes/No | Are the shorts purple? | Yes. |
+| Yes/No | Do the shorts have a small pocket on the back? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the color of the shorts? | Purple. |
+| What | What is the position of the person's hands? | On their hips. |
+| How | How are the shorts designed? | With a small pocket on the back and a small logo on the left leg. |
+| How | How does the person's pose contribute to the atmosphere of the image? | The person's pose, with their hands on their hips, adds to the allure of the image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the woman's facial expression? | Smiling. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How does the woman appear to be looking at the camera? | Directly. |
+| How | How would you describe the atmosphere of the image? | Innocent and cheerful. |
+| Yes/No | Is the image appropriate? | Yes. |
+| Yes/No | Does the image contain explicit content? | No. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| What | What is the woman's facial expression in the image? | The woman is smiling and appears confident and joyful. |
+| What | What is the background of the image? | The background appears to be a room with a couch and a painting. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is warm and inviting. |
+| How | How would you rate the level of nudity in the image? | The level of nudity in the image is mildly sexy, as the woman is wearing a white shirt that covers her upper body. |

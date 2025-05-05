@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing yellow leggings? | Yes. |
+| Yes/No | Are the person's sneakers black? | Yes. |
+| Yes/No | Is the person's pose suggestive of confidence and self-assuredness? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the gray wall in the background draw attention to the person? | Yes. |
+| Yes/No | Is the person deliberately displaying their buttocks? | Yes. |
+| What | What color are the person's leggings? | Yellow. |
+| What | What is the color of the person's sneakers? | Black. |
+| How | How is the person's pose suggestive of confidence and self-assuredness? | The person is standing with their feet shoulderwidth apart, with one hand on their hip and the other on their buttocks, striking a confident and selfassured pose. |
+| How | How does the gray wall in the background emphasize the subject? | The gray wall provides a neutral background that contrasts with the bright yellow leggings and black sneakers, drawing attention to the person and their actions. |

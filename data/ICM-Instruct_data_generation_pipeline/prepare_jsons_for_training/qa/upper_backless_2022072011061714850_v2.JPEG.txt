@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a brown tank top? | Yes. |
+| Yes/No | Are they also wearing black leggings? | Yes. |
+| Yes/No | Does the tank top have a cutout in the back? | Yes. |
+| Yes/No | Is the red ribbon tied around their waist? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What color is the tank top? | Brown. |
+| What | What is the person wearing around their waist? | A red ribbon. |
+| How | How is the person's back exposed in the image? | The tank top has a cutout in the back, exposing a large area of their back. |
+| How | How does the red ribbon add to the overall appearance of the outfit? | It adds a touch of color and contrast to the outfit, making it more eyecatching. |

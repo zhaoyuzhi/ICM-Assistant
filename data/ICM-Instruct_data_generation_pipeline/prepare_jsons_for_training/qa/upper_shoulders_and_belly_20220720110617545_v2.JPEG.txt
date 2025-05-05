@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have yellow and orange accents? | Yes. |
+| Yes/No | Is the t-shirt cropped at the waist? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color are the woman's jeans? | Blue. |
+| What | What is the woman's pose in the image? | She has her hands placed on her hips and is looking directly at the camera. |
+| How | How is the t-shirt cropped? | It is cropped at the waist. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | Her pose, with her hands on her hips and direct gaze at the camera, adds to the seductive atmosphere of the image. |

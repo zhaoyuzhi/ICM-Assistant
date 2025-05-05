@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress revealing? | No. |
+| Yes/No | Is the woman's pose suggestive? | No. |
+| Yes/No | Is the image sexually explicit? | No. |
+| Yes/No | Does the image contain any inappropriate content? | No. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| What | What is the woman's purse made of? | Brown leather. |
+| What | What is the woman's hair color? | Not specified in the description. |
+| How | How is the woman standing in the room? | Neutral pose. |
+| How | How does the woman's dress compare to her purse in terms of color? | They match. |

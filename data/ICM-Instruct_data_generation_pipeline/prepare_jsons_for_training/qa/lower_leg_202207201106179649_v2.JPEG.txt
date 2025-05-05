@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Is the woman looking down at the floor? | Yes. |
+| Yes/No | Is the woman holding a small purse? | Yes. |
+| Yes/No | Is the wall in the background gray? | Yes. |
+| Yes/No | Are the woman's legs apart? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her upper body? | A white sweater. |
+| What | What is the woman holding in her hand? | A small purse. |
+| How | How is the woman standing in the image? | With her legs apart and looking down at the floor. |
+| How | How does the gray wall in the background contribute to the overall effect of the image? | It provides a neutral backdrop that highlights the woman and her outfit, adding to the overall sexy and captivating effect. |

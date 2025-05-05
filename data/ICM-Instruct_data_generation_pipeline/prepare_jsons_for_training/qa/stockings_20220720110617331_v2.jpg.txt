@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Are the person's knees bent in the image? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy? | Yes. |
+| Yes/No | Does the image convey a sense of mystery? | Yes. |
+| What | What is the person in the image wearing? | Black stockings and a black dress. |
+| What | What is the person's pose in the image? | Lying on a bed with crossed legs and bent knees. |
+| How | How does the black stockings and dress contribute to the image's atmosphere? | They create a sense of mystery and allure. |
+| How | How does the person's pose contribute to the image's atmosphere? | The crossed legs and bent knees add to the intimate atmosphere. |

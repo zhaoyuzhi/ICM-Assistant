@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person's mouth open in the image? | Yes. |
+| Yes/No | Does the person have their finger inside their mouth? | Yes. |
+| Yes/No | Are the person's bracelets visible in the image? | Yes. |
+| Yes/No | Does the image convey a sexy vibe? | Yes. |
+| Yes/No | Is the person's hair long in the image? | Yes. |
+| What | What is the person doing with their finger in the image? | They have their finger inside their mouth. |
+| What | What is the person's hair color in the image? | Brown. |
+| How | How many bracelets is the person wearing in the image? | Multiple. |
+| What | What is the overall atmosphere conveyed by the image? | Captivating and seductive. |

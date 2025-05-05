@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the background of the image a beach? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | No. |
+| Yes/No | Are there any other people visible in the image? | No. |
+| Yes/No | Is the woman's expression neutral? | No. |
+| What | What is the woman's hair style in the image? | Loose waves. |
+| What | What is the color of the woman's bikini? | White. |
+| How | How is the woman standing in the image? | Confidently. |
+| How | How does the background of the ocean contribute to the overall mood of the image? | It creates an atmosphere of allure and sensuality. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image nude? | No. |
+| Yes/No | Is the person in the image wearing glasses? | Yes. |
+| Yes/No | Is the person in the image sitting on a bench? | Yes. |
+| Yes/No | Is the person in the image gesturing with their hand? | Yes. |
+| Yes/No | Are there trees and foliage in the background of the image? | Yes. |
+| Yes/No | Does the image contain any explicit nudity or explicit content? | No. |
+| What | What is the person in the image wearing? | A white shirt and glasses. |
+| What | What is the overall atmosphere of the image? | Calm and peaceful. |
+| How | How is the person in the image engaged in a conversation? | Through gesturing. |
+| How | How would you rate the level of nudity in the image? | Mildly sexy. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the man in the image wearing glasses? | Yes. |
+| Yes/No | Is the image revealing any explicit or suggestive content? | No. |
+| Yes/No | Is the man engaged in a conversation or interview? | Yes. |
+| Yes/No | Is the atmosphere of the image calm and professional? | Yes. |
+| Yes/No | Does the image contain any sexual content? | No. |
+| What | What is the man in the image engaged in? | A conversation or interview. |
+| What | What is the setting of the image? | A park. |
+| How | How is the man's attire? | Professional or formal. |
+| How | How is the exposure level of the image? | Low. |

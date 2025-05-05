@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing khaki cargo shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a maroon t-shirt? | Yes. |
+| Yes/No | Does the image depict a casual, everyday setting? | Yes. |
+| Yes/No | Is the man's pose in the image neutral? | Yes. |
+| Yes/No | Does the image suggest any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What color are the man's cargo shorts? | Khaki. |
+| What | What is the color of the man's t-shirt? | Maroon. |
+| How | How is the man's pose in the image? | Neutral. |
+| How | How would you describe the overall atmosphere of the image? | Casual and nonsexual. |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man engaged in any specific action? | No. |
+| Yes/No | Are the man's clothes revealing any intimate details? | No. |
+| Yes/No | Is the overall atmosphere of the image calm? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the man's casual attire and relaxed posture? | Yes. |
+| What | What is the man wearing? | Khaki cargo shorts. |
+| What | What is the exposure level of the image? | Very low. |
+| How | How are the man's movements? | Casual and relaxed. |
+| How | How does the image convey a non-sexual atmosphere? | Through the neutral colors and lack of explicit or suggestive content. |

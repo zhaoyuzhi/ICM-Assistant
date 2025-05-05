@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Is the dress flowing in the wind? | Yes. |
+| Yes/No | Is the ocean in the background dark blue? | Yes. |
+| Yes/No | Is the sky in the background light blue? | Yes. |
+| Yes/No | Does the image have a relaxed and casual atmosphere? | Yes. |
+| What | What is the woman standing on? | A rock. |
+| What | What is the color of the woman's dress? | White. |
+| How | How is the dress flowing? | The dress is flowing in the wind. |
+| How | How does the image create a sense of allure and intrigue? | The image creates a sense of allure and intrigue through the woman's attire, the overall atmosphere, and the visually appealing contrast between the dark blue ocean and light blue sky. |

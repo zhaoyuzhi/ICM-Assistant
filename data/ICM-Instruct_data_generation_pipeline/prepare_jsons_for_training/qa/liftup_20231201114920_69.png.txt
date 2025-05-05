@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lifting their shirt? | Yes. |
+| Yes/No | Is the person's chest bare in the image? | Yes. |
+| Yes/No | Is the person wearing a silver belt? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Is the person's hair red? | Yes. |
+| Yes/No | Is the image visually appealing? | Yes. |
+| What | What is the person doing in the image? | Lifting their shirt and exposing their bare chest. |
+| What | What is the color of the person's hair in the image? | Red. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The person's attire, including their silver belt and red hair, adds to the overall allure and creates a visually appealing and provocative scene. |
+| How | How does the person's action of lifting their shirt contribute to the atmosphere of the image? | The person's action of lifting their shirt and exposing their bare chest adds to the sensual and provocative atmosphere of the image. |

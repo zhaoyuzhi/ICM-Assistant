@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Does the person have their belly exposed in the image? | Yes. |
+| Yes/No | Is the belt buckle silver? | Yes. |
+| Yes/No | Is the focus of the image on the person's torso? | Yes. |
+| How | Does the image showcase the person's body in a close-up shot? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How does the combination of the white shirt, blue jeans, and silver belt buckle create a contrast? | The contrast creates a visual interest and draws attention to the person's torso. |
+| How | How does the close-up shot emphasize the person's skin and clothing details? | The closeup shot provides an intimate view of the person's skin and clothing, highlighting the textures and details of the fabric and the person's body. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the belt buckle silver? | Yes. |
+| Yes/No | Is the image a close-up shot of the person's body? | Yes. |
+| Yes/No | Does the image create an intimate and alluring atmosphere? | Yes. |
+| What | What is the main focus of the image? | The person's belly. |
+| What | What is the color of the person's shirt? | White. |
+| How | How is the person's skin visible in the image? | The person's belly is exposed. |
+| How | How does the close-up shot contribute to the image's sexiness? | It highlights the person's body in a provocative way. |

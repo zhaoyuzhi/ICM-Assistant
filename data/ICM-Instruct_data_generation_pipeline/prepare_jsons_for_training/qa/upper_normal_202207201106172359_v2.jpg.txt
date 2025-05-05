@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink blazer? | Yes. |
+| Yes/No | Is the woman holding a microphone? | Yes. |
+| Yes/No | Is the woman standing in front of a store shelf? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the woman's attire modest and appropriate for her profession? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's profession? | News reporter. |
+| What | What is the woman holding in her right hand? | Microphone. |
+| How | How is the woman's attire? | Modest and appropriate for her profession. |
+| How | How is the exposure level of the image? | Low. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress long and flowing? | Yes. |
+| Yes/No | Are the woman's hair and barefoot? | Yes. |
+| Yes/No | Is the woman's pose relaxed? | Yes. |
+| Yes/No | Does the image have a sexual context? | No. |
+| Yes/No | Does the woman's attire and natural setting create a sense of harmony with nature? | Yes. |
+| What | What is the woman's attire in the image? | A long, flowing dress. |
+| What | What is the color of the woman's dress? | A warm, earthy color. |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| How | How does the overall atmosphere of the image make you feel? | Serene and peaceful. |

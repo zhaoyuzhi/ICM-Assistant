@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shoes? | No. |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Does the person in the image have a tattoo? | Yes. |
+| Yes/No | Is the person in the image standing on a wooden deck? | Yes. |
+| Yes/No | Are the person's arms resting on a railing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their legs? | Shorts. |
+| What | What is the person in the image resting their arms on? | A railing. |
+| How | How is the person in the image standing? | Barefoot. |
+| How | How is the person in the image holding their arms? | Resting them on a railing. |

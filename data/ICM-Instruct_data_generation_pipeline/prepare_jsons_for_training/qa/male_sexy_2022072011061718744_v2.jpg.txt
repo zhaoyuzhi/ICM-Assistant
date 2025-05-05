@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| Yes/No | Is the man lying on his back? | No. |
+| Yes/No | Are the man's arms stretched out above his head? | No. |
+| Yes/No | Does the image have a busy or cluttered background? | No. |
+| Yes/No | Is the man's facial expression suggestive or flirtatious? | No. |
+| What | What is the man's facial expression? | The man's facial expression is not visible in the image. |
+| What | What is the color of the man's tank top? | The man's tank top is gray. |
+| How | How is the man positioned in the image? | The man is lying on his stomach with his arms stretched out to the sides and his legs bent at the knees. |
+| How | How does the white background contribute to the image's overall atmosphere? | The white background provides a stark contrast that further emphasizes the man's figure, contributing to the image's seductive and alluring atmosphere. |

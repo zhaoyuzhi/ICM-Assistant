@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the background of the image a blurred beach scene? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A white bikini top and matching bottoms. |
+| What | What is the setting of the image? | A beach. |
+| How | How is the woman standing in the image? | With her arms raised above her head. |
+| How | How does the image capture the woman's attitude? | It suggests a sense of freedom and selfexpression. |

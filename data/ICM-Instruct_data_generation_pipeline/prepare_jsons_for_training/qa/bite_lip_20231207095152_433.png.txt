@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman sitting on a red chair? | Yes. |
+| Yes/No | Is the woman wearing a white sweater? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the woman's pose and expression suggest confidence and allure? | Yes. |
+| What | What is the woman's facial expression? | She has a confident and alluring expression. |
+| What | What is the color of the chair? | The chair is red. |
+| How | How is the woman sitting on the chair? | She is sitting in a confident and alluring pose. |
+| How | How does the image evoke feelings? | The image evokes feelings of desire and attraction due to the woman's confident and alluring pose, her biting her lip, and the contrast between her white sweater and the red chair. |

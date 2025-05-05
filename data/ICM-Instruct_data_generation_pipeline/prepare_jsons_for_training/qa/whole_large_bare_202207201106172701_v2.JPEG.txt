@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a green bikini top? | Yes. |
+| Yes/No | Is the person in the image standing on a beach? | Yes. |
+| Yes/No | Are the other women in the image also wearing bikinis? | Yes. |
+| Yes/No | Is the woman holding hands with one of the other women? | Yes. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the woman's bikini top? | Green. |
+| What | What is the woman holding hands with? | Another woman. |
+| How | How many other women are in the image? | Three. |
+| How | How are the women posing for the camera? | Smiling and posing. |

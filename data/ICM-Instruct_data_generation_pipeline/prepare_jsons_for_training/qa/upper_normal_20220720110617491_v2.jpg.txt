@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image the main focus? | No. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the image blurred? | Yes. |
+| Yes/No | Is the atmosphere of the image calm and serene? | Yes. |
+| Yes/No | Does the image suggest any intimate or provocative actions? | No. |
+| What | What is the woman doing in the image? | Standing. |
+| What | What is the background of the image? | Blurred. |
+| How | How is the woman standing in the image? | Relaxed. |
+| How | How does the image capture the woman's state? | It captures her in a relaxed state. |

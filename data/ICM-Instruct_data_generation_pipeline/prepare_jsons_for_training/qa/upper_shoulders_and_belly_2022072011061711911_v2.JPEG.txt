@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow and black striped shirt? | Yes. |
+| Yes/No | Is the shirt written and directed by Quentin Tarantino? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Is her midriff exposed? | Yes. |
+| Yes/No | Is her hair styled in a high ponytail? | Yes. |
+| Yes/No | Is she posing for the camera? | Yes. |
+| What | What is the color of the woman's shirt? | Yellow and black. |
+| What | What is the woman's hairstyle in the image? | High ponytail. |
+| How | How is the woman's midriff exposed? | Through a strapless top. |
+| How | How is the woman posing for the camera? | Looking directly at it. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the woman in the image have a bow on her collar? | Yes. |
+| Yes/No | Is the woman in the image wearing black shoes? | Yes. |
+| Yes/No | Is the woman in the image standing on a wooden floor? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the woman in the image wearing on her feet? | Black shoes. |
+| What | What is the woman in the image wearing on her upper body? | A black vest and a white blouse with a bow on the collar. |
+| How | How is the woman in the image standing? | The woman is standing modestly, with her arms at her sides. |
+| How | How does the low exposure level of the image affect the overall atmosphere of the photo? | The low exposure level emphasizes the modesty of the scene and creates a more subdued atmosphere. |

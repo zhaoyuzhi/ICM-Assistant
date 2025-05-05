@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image holding the woman? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink jacket? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the image suggest a sexual act between the man and woman? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and suggestive? | Yes. |
+| Yes/No | Does the advertisement text suggest a forbidden or taboo act? | Yes. |
+| What | What is the man holding the woman in his arms? | The woman. |
+| What | What is the overall atmosphere of the image? | Intimate and suggestive. |
+| How | How is the man holding the woman in his arms? | Tightly. |
+| How | How does the image create a sense of intrigue and curiosity? | Through the close proximity of the man and woman, the implied sexual act, and the overall intimate atmosphere. |

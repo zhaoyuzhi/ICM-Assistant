@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the women in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the woman in the red dress positioned closer to the camera than the woman in the blue dress? | Yes. |
+| Yes/No | Are the women engrossed in their cell phones? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the woman in the red dress's dress designed to reveal her thighs? | Yes. |
+| What | What is the primary color of the woman in the red dress's dress? | Red. |
+| What | What is the woman in the red dress focused on? | Her cell phone. |
+| How | How are the women in the image dressed? | In traditional Chinese clothing. |
+| How | How does the woman in the red dress's dress compare to the woman in the blue dress's dress in terms of color? | The red dress is more vibrant and stands out more against the green grass, while the blue dress is more subdued and blends in with the surroundings. |

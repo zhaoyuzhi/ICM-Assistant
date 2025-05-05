@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lying down? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Is the dress soaked? | Yes. |
+| Yes/No | Is the woman's hair wet? | Yes. |
+| Yes/No | Is the woman looking up at the camera? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the woman's attire in the image? | A white dress. |
+| What | What is the woman's facial expression in the image? | Looking up at the camera with a pink lipstick. |
+| How | How is the woman's hair styled in the image? | Wet. |
+| How | How does the image capture a moment of intimacy and vulnerability? | The woman is lying down in a bathtub filled with water, which is often associated with relaxation and selfcare, and her attire and the setting create a sense of vulnerability and allure. |

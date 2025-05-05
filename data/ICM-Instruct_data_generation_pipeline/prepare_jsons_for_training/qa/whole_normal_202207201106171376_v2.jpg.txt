@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and orange blouse? | Yes. |
+| Yes/No | Is the woman standing in front of a gray wall? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the woman wearing white pants? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image focus on the woman's body? | No. |
+| What | What is the unique design feature of the blouse? | A diagonal line pattern. |
+| What | What is the overall atmosphere of the image? | Casual and professional. |
+| How | How does the low exposure level affect the image? | It emphasizes the focus on the woman's attire rather than her body. |
+| How | How does the image differ from a sensual or provocative image? | It focuses on the woman's outfit and pose rather than her body, and has a low exposure level. |

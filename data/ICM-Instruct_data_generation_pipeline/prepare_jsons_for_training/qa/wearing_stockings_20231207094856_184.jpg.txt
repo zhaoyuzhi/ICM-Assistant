@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black bra? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing black stockings? | Yes. |
+| Yes/No | Is the setting of the image luxurious? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the person's feet bare? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the fur rug? | White. |
+| How | How is the person's attitude in the image? | Confident and selfexpressive. |
+| How | How does the image capture the moment? | It captures a moment of preparation, enhancing the overall allure of the scene. |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing black stockings? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the white fur rug add a luxurious atmosphere to the scene? | Yes. |
+| Yes/No | Do the person's bare feet contribute to the overall intimate mood of the picture? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person's attire in the image? | Black bra and black stockings. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image capture a moment of preparation? | The person is in the process of putting on black stockings. |

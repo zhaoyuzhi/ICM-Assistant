@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image kicking a soccer ball? | Yes. |
+| Yes/No | Is the woman in the image wearing any clothing covering her body? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman in the image have a tattoo on her left arm? | Yes. |
+| Yes/No | Is the beach setting in the image associated with relaxation and leisure activities? | Yes. |
+| What | What is the woman in the image doing? | Kicking a soccer ball. |
+| What | What is the woman in the image wearing? | A bikini top. |
+| How | How does the woman's pose suggest a sense of playfulness and confidence? | Her leg is extended and she is holding a soccer ball in a playful manner. |
+| How | How does the tattoo on the woman's arm add to the image? | It adds a personal touch and makes the image more intriguing and captivating. |

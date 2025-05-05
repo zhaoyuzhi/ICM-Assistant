@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of olive green trousers? | Yes. |
+| Yes/No | Does the person have their hands tucked into their pockets? | Yes. |
+| Yes/No | Is the blouse the person is wearing white? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the person's demeanor relaxed and nonchalant? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color are the trousers the person is wearing? | Olive green. |
+| What | What is the person's attire and pose in the image? | The person is wearing a pair of olive green trousers with a drawstring at the waist, and a white blouse with a lace collar. They have a casual and relaxed pose, with their hands tucked into their pockets. |
+| How | How does the person's attire contribute to the image's non-sexual nature? | The person's attire is modest and nonprovocative, with a loosefitting pair of trousers and a white blouse with a lace collar. The lack of any explicit or suggestive content in the image, combined with the modest attire, contributes to its nonsexual nature. |
+| How | How does the image's low exposure level contribute to its non-sexual nature? | The low exposure level of the image does not reveal any intimate details or suggestive body language, further contributing to its nonsexual nature. |
+| Yes/No | Is the person in the image wearing a pair of olive green trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a white blouse with a lace collar? | Yes. |
+| Yes/No | Does the person in the image have their hands placed on their hips? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual context or suggestive poses? | No. |
+| Yes/No | Is the overall atmosphere of the image neutral and non-sexual? | Yes. |
+| What | What color are the trousers the person is wearing? | Olive green. |
+| What | What type of collar does the person's blouse have? | Lace. |
+| How | How are the trousers fitted at the waist? | With a drawstring. |
+| How | How would you describe the person's posture in the image? | Standing with hands on hips. |

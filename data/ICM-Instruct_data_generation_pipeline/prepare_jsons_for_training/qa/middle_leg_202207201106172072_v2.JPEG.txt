@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's arms outstretched to the sides? | Yes. |
+| Yes/No | Is the woman looking upwards? | Yes. |
+| Yes/No | Does the building behind the woman have a sign that reads "BUSINESS USE ONLY"? | Yes. |
+| Yes/No | Does the image create an atmosphere that is both confident and professional? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her arms outstretched to the sides and looking upwards. |
+| What | What does the sign on the building behind the woman read? | The sign reads "BUSINESS USE ONLY". |
+| How | How does the woman's pose and the way her skirt falls suggest a sense of confidence and self-assuredness? | The woman's pose and the way her skirt falls suggest a sense of confidence and selfassuredness because she is standing tall and proudly, with her arms outstretched and her skirt falling in a way that accentuates her figure. |
+| How | How does the building in the background and the sign create a professional setting? | The building in the background and the sign create a professional setting by suggesting a business or office environment, with the sign explicitly indicating that the area is for business use only. |

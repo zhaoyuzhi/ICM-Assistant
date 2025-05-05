@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing underwear? | Yes. |
+| Yes/No | Is the person in the image wearing a purple lace thong? | Yes. |
+| Yes/No | Is the person in the image wearing a red lace thong? | Yes. |
+| Yes/No | Is the person in the image wearing a blue lace thong? | Yes. |
+| Yes/No | Is the person in the image wearing a black lace thong? | Yes. |
+| Yes/No | Is the person in the image wearing a black lace bra? | Yes. |
+| What | What color is the person's underwear? | Purple, red, blue, and black. |
+| What | What type of underwear is the person wearing? | Lace thong. |

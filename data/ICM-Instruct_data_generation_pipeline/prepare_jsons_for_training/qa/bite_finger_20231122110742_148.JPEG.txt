@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | No. |
+| Yes/No | Is the person in the image wearing any clothing? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Does the image feature any objects or props other than the person's hand? | No. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Is the person in the image indoors? | Yes. |
+| What | What is the gesture associated with sensuality and intimacy that the person is making in the image? | The person has their finger inside their mouth. |
+| What | What is the facial expression of the person in the image? | Contemplative or thoughtful. |
+| How | How does the close-up shot of the person's lips and chin emphasize their features? | It highlights the shape and texture of their lips and chin, drawing attention to these facial features. |
+| How | How does the contemplative or thoughtful expression on the person's face add an element of intrigue to the image? | It makes the viewer curious about the person's thoughts and emotions, adding a sense of mystery to the image. |

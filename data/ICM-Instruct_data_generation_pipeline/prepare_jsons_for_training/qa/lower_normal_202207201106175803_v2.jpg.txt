@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white Nike sneaker? | Yes. |
+| Yes/No | Is the person in the image wearing blue jean shorts? | Yes. |
+| Yes/No | Is the person's shirt white? | Yes. |
+| Yes/No | Does the person's shirt have a black logo on it? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| What | What is the color of the person's sneaker? | White. |
+| What | What is the color of the person's shorts? | Blue. |
+| How | How are the person's arms positioned? | Relaxed at their sides. |
+| How | How are the person's legs positioned? | Slightly apart. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black belt? | Yes. |
+| Yes/No | Is the woman in the image holding up a black shoe? | Yes. |
+| Yes/No | Does the shoe have a white sole? | Yes. |
+| Yes/No | Does the shoe have a white strap? | Yes. |
+| Yes/No | Is the background of the image a white shelf with a pink and white geometric pattern? | Yes. |
+| What | What is the woman in the image holding up? | A black shoe with a white sole and white strap. |
+| What | What is the focus of the image? | The woman holding up her shoe. |
+| How | How is the woman in the image standing? | She is standing in front of a white shelf. |
+| How | How would you describe the overall atmosphere of the image? | Simple and innocent. |

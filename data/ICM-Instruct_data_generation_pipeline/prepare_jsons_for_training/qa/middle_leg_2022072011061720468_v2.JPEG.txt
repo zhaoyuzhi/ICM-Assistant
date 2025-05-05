@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a sweater? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the sweater oversized? | Yes. |
+| Yes/No | Is the woman holding a black purse? | Yes. |
+| Yes/No | Is the woman's right hand placed on her hip? | Yes. |
+| What | What color is the woman's skirt? | Beige. |
+| What | What is the woman holding in her left hand? | A black purse. |
+| How | How does the woman's outfit contribute to the sexy feel of the image? | The woman's outfit, specifically the beige skirt with a slit and the oversized white sweater, creates a sense of confidence and selfassuredness, which contributes to the sexy feel of the image. |
+| How | How does the woman's pose contribute to the sexy feel of the image? | The woman's pose, with her hand on her hip and the way she carries herself, exudes a sense of allure and sophistication, which contributes to the sexy feel of the image. |

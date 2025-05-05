@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Is the bikini top strapless? | Yes. |
+| Yes/No | Is the bikini bottom tied at the sides? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's facial expression in the image? | Smiling. |
+| What | What is the pattern on the bikini bottom? | Floral. |
+| How | How is the bikini top secured? | Strapless. |
+| How | How are the bikini bottoms tied? | Tied at the sides. |

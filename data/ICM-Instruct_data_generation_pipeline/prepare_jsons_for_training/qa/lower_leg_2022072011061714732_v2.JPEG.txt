@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing high heels? | Yes. |
+| Yes/No | Is the person in the image wearing a bracelet? | Yes. |
+| Yes/No | Does the person in the image have bare feet? | Yes. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a yellow top? | Yes. |
+| Yes/No | Is the background of the image a building and a tree? | Yes. |
+| What | What is the color of the person's top? | Yellow. |
+| What | What is the color of the person's bracelet? | Gold. |
+| How | How many elements (clothing or accessories) are contributing to the sexy atmosphere of the image? | 4 (high heels, bare legs, frayed hem of shorts, gold bracelet). |

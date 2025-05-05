@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person lifting his shirt? | Yes. |
+| Yes/No | Is the person wearing a black belt? | Yes. |
+| Yes/No | Is the person standing on a stage? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person have a confident or self-assured expression? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What is the person holding open with his hands? | His jacket. |
+| How | How is the person lifting his shirt? | Partially lifted, revealing his chest and abdomen. |
+| How | How is the person standing on the stage? | Standing, suggesting he might be performing or presenting. |

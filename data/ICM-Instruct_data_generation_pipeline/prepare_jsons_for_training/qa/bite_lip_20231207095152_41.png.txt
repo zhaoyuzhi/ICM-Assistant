@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman sitting in a chair? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the woman have a serious facial expression? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What is the woman biting? | Her lip. |
+| How | How does the woman's serious expression and biting her lip create an atmosphere? | It creates an intense and captivating atmosphere. |
+| How | How does the black dress contribute to the overall allure of the image? | It adds sophistication and elegance. |

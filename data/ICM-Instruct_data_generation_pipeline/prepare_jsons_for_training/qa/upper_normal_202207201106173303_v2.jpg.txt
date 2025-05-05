@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pink dress? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Is the background a gradient of pink and purple? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| What | What is the woman's expression? | Neutral. |
+| What | What is the overall atmosphere of the image? | Soft and gentle. |
+| How | How is the woman's attire? | Neutral. |
+| How | How does the low-exposure nature of the image contribute to its appearance? | It makes the image nonsexy by not revealing any explicit or intimate details. |

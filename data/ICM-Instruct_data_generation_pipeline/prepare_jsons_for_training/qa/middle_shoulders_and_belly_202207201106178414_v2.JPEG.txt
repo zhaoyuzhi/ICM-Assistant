@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black belt? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person using a black and silver blood pressure monitor? | Yes. |
+| Yes/No | Is the person wearing a black and silver insulin pump? | Yes. |
+| Yes/No | Is the image intimate and personal? | Yes. |
+| How | Does the image show a private moment of healthcare management? | Yes. |
+| What | What is the person in the image using to check their blood pressure? | A black and silver blood pressure monitor. |
+| What | What is the person in the image wearing on their hip? | A black and silver insulin pump. |
+| How | How does the image create a sense of vulnerability and intimacy? | The person's exposed belly and the closeup of the blood pressure monitor and insulin pump create a sense of vulnerability and intimacy. |
+| How | How does the image represent the human body and the importance of healthcare? | The image is a powerful representation of the human body and the importance of healthcare in our daily lives by showcasing a private moment of healthcare management. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the person in the image standing in front of a blood pressure monitor? | Yes. |
+| Yes/No | Is the blood pressure monitor black and silver in color? | Yes. |
+| Yes/No | Is the person in the image wearing a medical device on their stomach? | Yes. |
+| Yes/No | Is the medical device black and silver in color? | Yes. |
+| Yes/No | Is the tube connected to the medical device black in color? | Yes. |
+| What | What is the person in the image standing in front of? | A white background. |
+| What | What is the color of the person's shirt? | Black. |
+| How | How many colors are mentioned in the description of the blood pressure monitor? | 2 (black and silver). |
+| How | How many devices are mentioned in the description as being worn by the person in the image? | 2 (medical device on their stomach and blood pressure monitor). |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image taking a selfie? | Yes. |
+| Yes/No | Is the person wearing a white jacket? | Yes. |
+| Yes/No | Are the person's thighs visible in the image? | Yes. |
+| Yes/No | Is the person wearing a black baseball cap? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person looking directly at the camera? | Yes. |
+| What | What color is the person's jacket? | White. |
+| What | What is the person's pose in the image? | The person is taking a selfie in a mirror, with a sexy pose and a confident expression. |
+| How | How does the person's pose contribute to the sexy atmosphere of the image? | The person's pose, with their legs slightly apart and their hips shifted to one side, creates a suggestive and confident appearance that contributes to the sexy atmosphere of the image. |
+| How | How does the black baseball cap contribute to the overall sexy feel of the image? | The black baseball cap adds a touch of mystery and edginess to the person's appearance, which enhances the sexy atmosphere of the image. |

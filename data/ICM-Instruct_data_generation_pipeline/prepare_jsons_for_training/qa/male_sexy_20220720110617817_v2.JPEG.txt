@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man lifting a barbell with both hands? | Yes. |
+| Yes/No | Is the image focused solely on the man and his actions? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| How | Does the image showcase the man's muscular physique and engagement in a workout? | Yes. |
+| What | What is the man lifting in the image? | A barbell. |
+| What | What can be inferred about the man's physical condition based on the image? | He is in good physical condition. |
+| How | How is the man holding the barbell? | With both hands. |
+| What | What is the atmosphere of the image? | Intense and focused. |

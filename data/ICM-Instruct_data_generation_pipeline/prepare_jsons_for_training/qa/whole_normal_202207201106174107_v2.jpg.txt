@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white polka dot shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman's face clearly visible in the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| Yes/No | Is the setting of the image intimate or private? | No. |
+| Yes/No | Does the woman's attire include revealing or provocative clothing? | No. |
+| What | What is the woman's posture in the image? | The woman is sitting. |
+| What | What is the focus of the image? | The woman's posture and the cityscape. |
+| How | How is the woman's face lit in the image? | The woman's face is not clearly visible due to low exposure level. |
+| How | How does the cityscape in the background contribute to the atmosphere of the image? | The cityscape suggests a nonintimate or private setting, which contributes to the nonsexy atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini gold? | Yes. |
+| Yes/No | Is the woman lying on a rock? | Yes. |
+| Yes/No | Is the ocean visible in the image? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| What | What color is the bikini? | Gold. |
+| What | What is the woman lying on? | A rock. |
+| How | How is the woman's body positioned in the image? | She is lying down. |
+| How | How does the woman's smile and gaze contribute to the overall atmosphere of the image? | It adds a sense of intrigue and allure, making the image more captivating and sexy. |

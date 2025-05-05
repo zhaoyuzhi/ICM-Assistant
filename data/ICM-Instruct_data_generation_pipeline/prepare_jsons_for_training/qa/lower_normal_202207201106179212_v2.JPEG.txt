@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Are the woman's arms uncrossed in the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the color of the woman's skirt? | Beige. |
+| What | What is the woman's facial expression in the image? | Relaxed/serene. |
+| How | How is the woman standing in the image? | Standing with her arms crossed in front of her. |
+| How | How would you describe the overall atmosphere of the image? | Calm and peaceful. |

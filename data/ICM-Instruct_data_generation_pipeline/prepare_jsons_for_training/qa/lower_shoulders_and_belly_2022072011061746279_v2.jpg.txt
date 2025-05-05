@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing blue pajama pants? | Yes. |
+| Yes/No | Are the pajama pants loose-fitting? | Yes. |
+| Yes/No | Is the man's belly exposed in the image? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability and intimacy? | Yes. |
+| Yes/No | Are the blue pajama pants the dominant color in the image? | Yes. |
+| Yes/No | Does the image have a casual, relaxed atmosphere? | Yes. |
+| What | What color are the pajama pants? | Blue. |
+| What | What is the man's pose in the image? | Standing with his hands in his pockets. |
+| How | How are the pajama pants fitted? | Loosefitting. |
+| How | How does the image convey a sense of comfort and trust? | Through the man's exposed belly and casual, relaxed pose. |

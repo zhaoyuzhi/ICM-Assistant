@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Are her legs and thighs visible in the image? | Yes. |
+| Yes/No | Is she standing in front of a white curtain? | Yes. |
+| Yes/No | Is she wearing high heels? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the woman's left hand lifting up her dress? | Yes. |
+| What | What is the woman lifting up with her left hand? | Her dress. |
+| What | What is the color of the woman's dress? | Light pink. |
+| How | How is the woman standing in relation to the curtain? | She is standing in front of it. |
+| How | How is the woman dress lifted up? | It is lifted up with her left hand. |

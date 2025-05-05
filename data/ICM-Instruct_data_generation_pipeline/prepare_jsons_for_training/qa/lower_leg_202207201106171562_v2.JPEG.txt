@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a white purse? | Yes. |
+| Yes/No | Is the floor in the image gray? | Yes. |
+| Yes/No | Is the wall in the image white? | Yes. |
+| Yes/No | Is the woman in the image looking down at her purse? | Yes. |
+| What | What is the woman in the image holding in her left hand? | A white purse. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How is the woman posing in the image? | She is standing with her left hand on her hip and looking down at her purse. |
+| What | What creates an alluring atmosphere in the image? | The combination of the woman's outfit and her pose, which exposes her legs and adds a sense of mystery and intrigue. |

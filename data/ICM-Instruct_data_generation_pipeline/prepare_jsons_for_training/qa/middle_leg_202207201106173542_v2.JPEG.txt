@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of pink Adidas shorts? | Yes. |
+| Yes/No | Does the woman have a white stripe on the side of her shorts? | Yes. |
+| Yes/No | Is the woman's sports bra cropped at the top? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman standing with her hands on her hips? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the woman's shorts? | Pink. |
+| What | What is the woman wearing on her upper body? | A white sports bra. |
+| How | How are the woman's shorts cropped? | They are cropped at the waist, revealing her thighs. |
+| How | How is the woman standing in the image? | She is standing with her hands on her hips, showcasing her athletic build. |

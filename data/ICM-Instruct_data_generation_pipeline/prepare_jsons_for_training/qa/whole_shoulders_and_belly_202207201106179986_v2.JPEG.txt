@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black sports bra? | Yes. |
+| Yes/No | Is the woman in the image standing in a room with a white floor? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the woman in the image wearing black leggings? | Yes. |
+| Yes/No | Is the woman in the image wearing black sneakers? | Yes. |
+| Yes/No | Does the image feature a stark contrast between the woman's dark outfit and the white background? | Yes. |
+| What | What color are the woman's sneakers in the image? | Black. |
+| What | What is the woman in the image wearing on her feet? | Black sneakers. |
+| How | How is the woman standing in the image? | With her hands on her hips. |
+| How | How does the white background contribute to the overall atmosphere of the image? | It emphasizes the woman's figure and outfit, adding to the sexy atmosphere. |

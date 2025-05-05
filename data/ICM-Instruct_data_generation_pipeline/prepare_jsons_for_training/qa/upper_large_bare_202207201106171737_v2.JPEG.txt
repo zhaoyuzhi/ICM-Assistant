@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman in the image have any article of clothing covering her upper body? | No. |
+| What | What is the woman in the image wearing on her bottom half? | A white bikini bottom. |
+| What | What is the woman in the image's skin tone? | Olive/Tanned. |
+| How | How does the woman in the image appear? | Confident and selfassured. |
+| How | How does the beach setting contribute to the overall atmosphere of the image? | It adds a sense of relaxation, leisure, and enjoyment. |

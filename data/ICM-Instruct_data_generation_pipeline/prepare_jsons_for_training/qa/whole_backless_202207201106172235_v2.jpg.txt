@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Are the earrings sparkly? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What is the color of the dress? | White. |
+| What | What is the person's pose in the image? | Hands on hips. |
+| How | How does the dress add to the overall elegance of the outfit? | The dress has a plunging neckline and a long train, creating a sense of allure and sophistication. |
+| How | How does the person's pose contribute to the image's seductive vibe? | The person's pose, with their hands on their hips, accentuates the alluring and confident vibe of the image. |

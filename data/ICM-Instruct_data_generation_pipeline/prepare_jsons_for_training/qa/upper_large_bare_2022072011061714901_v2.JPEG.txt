@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the person in the image standing in a room? | Yes. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Is the atmosphere of the scene intimate? | Yes. |
+| Yes/No | Does the person have any visible tattoos? | No. |
+| Yes/No | Is any portion of the person's lower body visible? | No. |
+| What | What type of necklace is the person wearing? | A black choker necklace. |
+| What | What is the pattern on the person's bikini top? | Floral. |
+| How | How is the person's pose in the image? | With their hand on their chest. |
+| How | How does the room setting complement the image's overall mood? | It creates a cozy and intimate atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pink shorts? | Yes. |
+| Yes/No | Is the person in the image holding a camera? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Is the person in the image standing with their left hand on their hip? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image convey a sense of sexiness? | Yes. |
+| What | What color are the person's shorts? | Pink. |
+| What | What is the person holding in their right hand? | A camera. |
+| How | How is the person standing in the image? | With their body slightly turned to the left and their left hand on their hip. |
+| How | How does the person's pose contribute to the overall atmosphere of the image? | The person's pose, with their left hand on their hip and their body turned to the left, adds a sense of confidence and allure to the image. |

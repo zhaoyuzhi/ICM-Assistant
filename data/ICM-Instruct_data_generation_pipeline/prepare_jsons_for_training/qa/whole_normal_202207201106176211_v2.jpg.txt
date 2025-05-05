@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman holding a baby in the image? | Yes. |
+| Yes/No | Is the man looking at his phone in the image? | Yes. |
+| Yes/No | Are the people in the image in a sexual pose? | No. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Does the image feature any suggestive content? | No. |
+| Yes/No | Are the people in the image smiling? | No. |
+| What | What is the woman holding in the image? | A baby wrapped in a pink blanket. |
+| What | What is the man wearing in the image? | A brown jacket. |
+| How | How is the man interacting with the woman and baby in the image? | He is looking at his phone while the woman holds the baby. |
+| How | How does the low exposure level affect the image? | It emphasizes the focus on the people and their interaction, rather than on any potential nudity or suggestive elements. |

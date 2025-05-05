@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Are the woman's shorts pink in color? | Yes. |
+| Yes/No | Does the woman's t-shirt have a floral pattern? | No. |
+| Yes/No | Are the woman's arms resting at her sides? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color are the woman's shorts? | Pink. |
+| What | What is the woman's pose in the image? | Neutral, with her arms resting at her sides. |
+| How | How does the woman's t-shirt match her shorts? | The woman's tshirt is also pink and creates a coordinated look with her shorts. |
+| How | How does the plain white background affect the image? | The plain white background puts the focus entirely on the woman and emphasizes her appearance and the overall atmosphere of the image. |

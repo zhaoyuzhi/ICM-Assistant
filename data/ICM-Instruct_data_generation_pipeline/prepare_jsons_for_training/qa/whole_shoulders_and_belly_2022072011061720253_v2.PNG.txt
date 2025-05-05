@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Is the woman holding a purse in her left hand? | Yes. |
+| Yes/No | Is the purse pink? | Yes. |
+| Yes/No | Is the woman holding a jacket in her right hand? | Yes. |
+| Yes/No | Is the jacket blue? | Yes. |
+| What | What is the color of the wall in the background? | White. |
+| What | What is the woman wearing around her neck? | A gold necklace. |
+| How | How is the woman standing in the hallway? | Confidently, with a sense of selfassuredness. |
+| How | How does the woman's pose and the way she is holding her purse and jacket contribute to the overall atmosphere of the image? | It suggests a sense of allure and sensuality. |

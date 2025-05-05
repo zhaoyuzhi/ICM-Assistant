@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman standing in front of a white curtain? | Yes. |
+| Yes/No | Is there a white table in the background of the image? | Yes. |
+| Yes/No | Is the woman's necklace a contributing factor to the image's overall aesthetic? | Yes. |
+| Yes/No | Does the image convey a sensual atmosphere? | Yes. |
+| Yes/No | Is the woman's focused expression a significant aspect of the image? | Yes. |
+| What | What is the woman wearing around her neck? | A necklace. |
+| What | What is the color scheme of the image? | Beige and white. |
+| How | How is the woman's expression contributing to the image's atmosphere? | The woman's focused expression adds to the sensual atmosphere of the image. |
+| How | How does the contrasting color scheme of beige and white contribute to the overall aesthetic of the image? | The contrasting color scheme of beige and white creates a visually pleasing and alluring image. |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman standing in front of a white curtain? | Yes. |
+| Yes/No | Is there a white table in the background? | Yes. |
+| Yes/No | Is the woman's movement focused on putting on the bra? | Yes. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the color of the bra the woman is wearing? | Beige. |
+| What | What is the color of the curtain in the background? | White. |
+| How | How is the woman's expression while putting on the bra? | Focused. |
+| How | How does the contrasting color scheme of the bra and curtain contribute to the overall aesthetic of the image? | It adds to the image's sensual atmosphere. |

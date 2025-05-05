@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin wearing a plaid shirt? | Yes. |
+| Yes/No | Are the mannequin's legs long and slender? | Yes. |
+| Yes/No | Is the mannequin dressed in casual clothing? | Yes. |
+| Yes/No | Does the mannequin appear to be walking? | Yes. |
+| Yes/No | Is the mannequin looking at the viewer? | Yes. |
+| Yes/No | Is the image visually engaging and intriguing? | Yes. |
+| What | What is the mannequin wearing? | A plaid shirt and denim shorts. |
+| What | What is the overall atmosphere of the image? | Playful and lighthearted. |
+| How | How is the mannequin positioned in the image? | With its legs extended and arms at its sides, as if walking. |
+| How | How does the mannequin's attire and pose create a sense of movement and energy in the image? | The combination of the mannequin's casual clothing and relaxed pose, coupled with its movement and energy, creates a sense of movement and energy in the image. |

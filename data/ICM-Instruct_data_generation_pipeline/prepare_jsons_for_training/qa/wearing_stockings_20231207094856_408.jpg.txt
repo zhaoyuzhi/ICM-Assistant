@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black tights? | Yes. |
+| Yes/No | Are the knee pads tan? | Yes. |
+| Yes/No | Is the person wearing a gray skirt? | Yes. |
+| Yes/No | Are the knee pads positioned on the person's knees? | Yes. |
+| Yes/No | Is the person in the process of putting on the knee pads? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy and allure? | Yes. |
+| What | What color are the tights? | Black. |
+| What | What is the person putting on? | Knee pads. |
+| How | How are the knee pads positioned? | On the person's knees. |
+| How | How does the image evoke a sense of intimacy and allure? | Through the combination of the person's attire, their posture, and the act of putting on stockings, which creates a contrast that adds to the overall allure of the image. |
+| Yes/No | Is the person in the image wearing a pair of black tights? | Yes. |
+| Yes/No | Are the knee pads tan? | Yes. |
+| Yes/No | Is the person putting on the knee pads? | Yes. |
+| Yes/No | Is the person wearing a gray skirt? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy? | Yes. |
+| Yes/No | Does the image evoke a sense of allure? | Yes. |
+| What | What is the person putting on in the image? | Knee pads. |
+| What | What is the color of the skirt the person is wearing? | Gray. |
+| How | How are the knee pads positioned on the person's body? | On the knees. |
+| How | How does the person's posture and attitude suggest a sense of confidence and self-assuredness? | The person is bending down to put on the knee pads, with their legs slightly apart, suggesting a sense of confidence and selfassuredness. |

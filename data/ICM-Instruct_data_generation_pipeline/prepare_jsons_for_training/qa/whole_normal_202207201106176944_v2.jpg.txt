@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image singing? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| Yes/No | Is the woman's body shape visible in the image? | No. |
+| What | What is the woman in the image doing? | Singing. |
+| What | What color is the woman's dress? | Pink. |
+| How | How is the woman's hair styled in the image? | Not specified in the description. |
+| How | How does the low exposure level affect the image? | It makes the details not clearly visible. |

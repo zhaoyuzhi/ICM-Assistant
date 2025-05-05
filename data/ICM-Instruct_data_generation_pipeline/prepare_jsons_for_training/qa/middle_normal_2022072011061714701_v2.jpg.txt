@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing gray shorts? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| What | What is the person's attire in the image? | White shirt and gray shorts. |
+| What | What is the person's pose in the image? | Relaxed, with hands in pockets. |
+| How | How does the white background contribute to the image's atmosphere? | It enhances the simplicity and nonsexual nature of the image. |
+| How | How does the low exposure level contribute to the image's atmosphere? | It limits the viewer's ability to see additional details that might suggest a more provocative or sexual context, further emphasizing the nonsexual nature of the image. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing gray shorts? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| What | What is the person's attire in the image? | White shirt and gray shorts. |
+| What | What is the overall atmosphere of the image? | Calm and nonthreatening. |
+| How | How are the person's hands positioned in the image? | In their pockets. |
+| How | How does the low exposure level contribute to the image's atmosphere? | It emphasizes the casual and nonsexual nature of the image and does not reveal any intimate details about the person's body. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress lace? | Yes. |
+| Yes/No | Is the dress slit high? | Yes. |
+| Yes/No | Are the woman's thighs and knees exposed? | Yes. |
+| Yes/No | Is the woman wearing white heels? | Yes. |
+| Yes/No | Is the image set in a hallway? | Yes. |
+| What | What color is the door in the background? | White. |
+| What | What color are the woman's heels? | White. |
+| How | How is the woman lifting the dress? | With her left hand. |
+| What | What does the woman's action of lifting the dress create? | An atmosphere of sensuality and allure. |

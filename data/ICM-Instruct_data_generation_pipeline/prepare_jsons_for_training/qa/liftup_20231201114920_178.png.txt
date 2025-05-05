@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young woman? | Yes. |
+| Yes/No | Is the woman lifting her shirt? | Yes. |
+| Yes/No | Is the woman wearing a black sports bra underneath her shirt? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| What | What color is the woman's shirt? | Pink. |
+| What | What color is the woman's tank top? | Gray. |
+| How | How is the woman lifting her shirt? | She is lifting it up to reveal her sports bra. |
+| What | What does the way the woman is lifting her shirt suggest? | Confidence and allure. |

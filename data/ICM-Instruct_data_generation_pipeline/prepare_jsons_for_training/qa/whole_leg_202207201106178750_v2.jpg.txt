@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have writing on it? | Yes. |
+| Yes/No | Is the skirt blue? | Yes. |
+| Yes/No | Does the skirt have a frayed hem? | Yes. |
+| Yes/No | Is the purse red? | Yes. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| What | What color is the t-shirt? | White. |
+| What | What is the word written on the t-shirt? | ESTABLISSE. |
+| How | How does the person's attire create a sense of confidence and self-assuredness? | The person's simple yet stylish outfit, combined with their neutral pose, conveys a sense of selfassuredness and confidence. |
+| How | How does the image create a sexy atmosphere? | The combination of the person's attire, pose, and the contrasting colors and textures creates a sexy atmosphere. The white tshirt and blue denim skirt create a neutral palette that draws attention to the person's figure, while the red purse adds a pop of color. The frayed hem of the skirt adds a touch of casual style, which contrasts with the person's neutral pose, creating a sense of selfassuredness and confidence. |

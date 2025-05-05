@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a cell phone? | Yes. |
+| Yes/No | Is the woman in the image posing suggestively? | No. |
+| Yes/No | Is the background of the image clear and well-defined? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's hair styled in a way that draws attention to her appearance? | No. |
+| Yes/No | Is the woman's clothing revealing or provocative? | No. |
+| What | What color is the woman's shirt? | White. |
+| What | What color is the phone screen? | Black. |
+| How | How is the woman's hair styled? | Pulled back into a bun. |
+| How | How does the woman's body language appear in the image? | Natural and focused on her conversation. |

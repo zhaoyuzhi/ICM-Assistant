@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Are the person's leggings black? | Yes. |
+| Yes/No | Is the wall in the background beige? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the image atmospherically confident? | Yes. |
+| Yes/No | Does the image suggest self-assuredness? | Yes. |
+| What | What is the color of the bra? | White. |
+| What | What is the overall atmosphere of the image? | Confident and alluring. |
+| How | How does the person's pose contribute to the image's allure? | The person's pose, with their hands on their hips, adds to the allure by suggesting confidence and selfassuredness. |
+| How | How does the contrast between the bra and leggings highlight the person's body? | The white bra and black leggings create a contrast that highlights the person's back and waist, drawing attention to the large area of exposed skin. |

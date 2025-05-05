@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Is the person's buttocks the main focus of the image? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person's skin visible through the back pocket of the shorts? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the denim shorts? | Blue. |
+| What | What is the condition of the hem of the shorts? | Frayed. |
+| How | How does the person's skin appear through the back pocket? | Visible. |
+| How | How would you describe the style of the shorts? | Casual and relaxed with a sense of individuality. |

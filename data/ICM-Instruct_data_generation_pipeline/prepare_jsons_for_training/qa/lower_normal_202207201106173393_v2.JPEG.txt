@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing boots? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the person in the image wearing? | A long, brown skirt, a white blouse, and brown boots. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |

@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the stockings the person is wearing? | Black. |
+| What | What color is the person's shirt? | Pink. |
+| How | How is the person holding the stockings up? | With their hands. |
+| What | What atmosphere does the image evoke? | Sensual and alluring. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black stockings. |
+| What | What color is the person's shirt? | Pink. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How is the person holding the stockings up? | With their hands. |

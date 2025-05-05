@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue and white striped shirt? | Yes. |
+| Yes/No | Is the person's face blurred in the image? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the overall atmosphere of the image mysterious? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content that would be considered sexy? | No. |
+| What | What is the color of the person's shirt in the image? | Blue and white. |
+| What | What is the reason for the low exposure level in the image? | To focus on the person's face and upper body. |
+| How | How is the person's face blurred in the image? | The face is blurred due to the low exposure level and the blurred background. |
+| How | How does the blurred background contribute to the overall atmosphere of the image? | It adds to the mysteriousness of the image. |

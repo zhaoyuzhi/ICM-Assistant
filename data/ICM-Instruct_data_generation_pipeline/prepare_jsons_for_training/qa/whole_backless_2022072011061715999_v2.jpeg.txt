@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress adorned with a floral pattern? | Yes. |
+| Yes/No | Is the woman holding a straw hat in her hand? | Yes. |
+| Yes/No | Is the woman standing on a wooden pier? | Yes. |
+| Yes/No | Is the pier lined with small buildings? | Yes. |
+| Yes/No | Is the woman facing away from the camera? | Yes. |
+| What | What is the color of the woman's dress? | Light blue. |
+| What | What is the woman holding in her hand? | A straw hat. |
+| How | How is the woman standing on the pier? | She is standing. |
+| How | How does the image evoke a sense of tranquility and natural beauty? | The image evokes a sense of tranquility and natural beauty through the use of a serene setting, with a wooden pier extending over a body of water, and the woman's relaxed and casual attire, such as a light blue dress and straw hat, which suggests a summer setting. |

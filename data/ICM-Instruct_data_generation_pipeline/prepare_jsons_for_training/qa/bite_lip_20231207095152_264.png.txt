@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Is the woman smiling? | No. |
+| Yes/No | Is the woman's hair short? | No. |
+| Yes/No | Is the woman wearing any jewelry? | No. |
+| Yes/No | Is the woman's facial expression happy? | No. |
+| Yes/No | Is the woman's body language open and relaxed? | No. |
+| What | What is the woman's facial expression? | Serious, thoughtful, and contemplative. |
+| What | What is the woman's hair color? | Brown. |
+| How | How is the woman looking? | She is looking up and to the left. |
+| How | How is the woman's lip? | She is biting her lower lip. |

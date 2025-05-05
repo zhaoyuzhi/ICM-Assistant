@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the dress white? | Yes. |
+| Yes/No | Are there purple flowers in the image? | Yes. |
+| Yes/No | Is the woman sitting on the ground? | Yes. |
+| Yes/No | Is the image set in a garden setting? | Yes. |
+| Yes/No | Does the image have a serene and peaceful atmosphere? | Yes. |
+| What | What is the main focus of the image? | The woman's dress. |
+| What | What is the likely subject of the photo? | The woman. |
+| How | How does the woman's attire contribute to the image's allure and sensuality? | The strapless design of the dress adds a sense of allure and sensuality to the image. |
+| How | How does the surrounding environment enhance the image's atmosphere? | The purple flowers and garden setting add a touch of natural beauty and serenity to the scene, enhancing the overall atmosphere of the image. |

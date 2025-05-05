@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Are the jeans high-waisted? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| Yes/No | Is the atmosphere of the image casual? | Yes. |
+| Yes/No | Is the atmosphere of the image confident? | Yes. |
+| Yes/No | Does the woman have a tilted head? | Yes. |
+| What | What is the woman's pose in the image? | She is posing with her hand on her hip and her head tilted to the side. |
+| What | What is the design of the crop top? | The crop top is strapless and has a sweetheart neckline, revealing her midriff. |
+| How | How does the woman's outfit accentuate her waist? | The highwaisted jeans and strapless top with a sweetheart neckline accentuate her waist. |
+| How | How does the woman's pose exude confidence and allure? | Her pose, with her hand on her hip and head tilted to the side, exudes confidence and allure. |

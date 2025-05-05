@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman sitting on a couch? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Are her arms resting on the back of the couch? | Yes. |
+| Yes/No | Is the bikini revealing? | Yes. |
+| Yes/No | Is the image intended to be sexy? | Yes. |
+| What | What is the woman wearing? | A bikini. |
+| What | What is the woman's pose? | Sitting with her legs crossed and her arms resting on the back of the couch. |
+| How | How is the bikini designed? | It is designed to be worn in warm weather and is typically made of lightweight, breathable materials. |
+| How | How does the woman's pose and the fact that she is wearing a bikini contribute to the overall allure of the image? | The woman's pose and the fact that she is wearing a bikini create a sense of sensuality and allure, making the image sexy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman holding a lipstick? | Yes. |
+| Yes/No | Is the background of the image pink? | Yes. |
+| Yes/No | Does the woman have a crown on her head? | Yes. |
+| Yes/No | Does the woman have a scepter in her hand? | Yes. |
+| Yes/No | Are there flowers scattered throughout the background? | Yes. |
+| What | What color is the woman's dress? | Pink. |
+| What | What is the woman holding in her hand? | A pink lipstick and a scepter. |
+| How | How is the woman posed in the image? | Regally, with a sense of royalty and elegance. |
+| How | How would you describe the overall atmosphere of the image? | Lighthearted and whimsical. |

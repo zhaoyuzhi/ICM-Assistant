@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the woman's hair pulled back? | Yes. |
+| Yes/No | Is the woman standing in front of a window? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's pose seductive? | Yes. |
+| What | What color is the dress? | Black. |
+| What | What is the woman's hairstyle? | Pulled back. |
+| How | How is the woman standing? | With her back turned to the camera. |
+| How | How would you describe the atmosphere of the image? | Captivating and enticing. |

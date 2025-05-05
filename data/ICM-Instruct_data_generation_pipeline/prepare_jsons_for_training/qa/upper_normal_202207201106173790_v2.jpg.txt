@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dirty white shirt? | Yes. |
+| Yes/No | Is the woman's hair wet? | Yes. |
+| Yes/No | Does the woman have a look of concern or sadness on her face? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image depict a still from a movie or a video game? | Yes. |
+| Yes/No | Is the overall atmosphere of the image somber and intense? | Yes. |
+| What | What is the woman's facial expression in the image? | Concern or sadness. |
+| What | What does the low exposure level of the image suggest about the environment? | That it is a harsh and intense environment. |
+| How | How does the woman's wet hair and muddy clothes suggest she has been exposed to the elements? | It suggests that she has been exposed to rain or water and has been outside for an extended period. |
+| How | How does the low exposure level of the image further emphasize the harshness of the environment? | It creates a dark and gritty mood and draws attention to the difficulty of the woman's situation. |

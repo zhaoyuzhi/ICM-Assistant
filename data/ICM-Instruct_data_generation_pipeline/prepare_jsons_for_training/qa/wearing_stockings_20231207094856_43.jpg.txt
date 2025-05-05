@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing black heels? | Yes. |
+| Yes/No | Is the person putting on black stockings? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Does the person have a sense of control and confidence? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the person's dress and heels? | Black. |
+| How | How are the person's legs positioned? | Crossed. |
+| How | How does the person's attire and the act of putting on stockings contribute to the overall atmosphere of the image? | The black dress and heels create a sense of elegance and allure, while the act of putting on stockings is often associated with a feeling of intimacy and seduction, contributing to the overall sexy feel of the image. |
+| Yes/No | Is the person in the image wearing black? | Yes. |
+| Yes/No | Is the person's attire in the image associated with elegance and allure? | Yes. |
+| Yes/No | Is the act of putting on stockings in the image associated with seduction? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and control? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Does the image create a sense of intimacy? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the dominant color in the image? | Black. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | It creates a sense of elegance and allure. |
+| How | How does the act of putting on stockings contribute to the overall atmosphere of the image? | It enhances the feeling of intimacy and seduction. |

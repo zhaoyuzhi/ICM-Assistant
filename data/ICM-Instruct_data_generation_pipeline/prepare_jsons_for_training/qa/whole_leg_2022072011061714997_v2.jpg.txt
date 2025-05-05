@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are her sleeves ruffled? | Yes. |
+| Yes/No | Is she wearing blue denim shorts? | Yes. |
+| Yes/No | Does she carry a blue purse? | Yes. |
+| Yes/No | Is the woman's attire casual? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the woman's shorts? | Blue. |
+| What | What is the woman carrying? | A blue purse. |
+| How | How does the woman carry herself? | Confidently. |
+| What | What does the woman's outfit suggest about her personality? | Selfassuredness and confidence. |

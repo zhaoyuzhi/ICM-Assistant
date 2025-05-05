@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's expression neutral? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man wearing under his black jacket? | A brown shirt. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| How | How is the man sitting on the bench? | The man is sitting in a relaxed position, with his legs crossed. |
+| How | How does the image convey a sense of neutrality? | The image conveys a sense of neutrality through the man's expression, the low exposure level, and the focus on the man's clothing and the blurred background. |

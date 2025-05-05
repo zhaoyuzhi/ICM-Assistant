@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige shorts suit? | Yes. |
+| Yes/No | Is the woman's left hand holding a black purse? | Yes. |
+| Yes/No | Is the woman's right hand placed on her hip? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Does the black purse have a gold clasp? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color is the woman's shorts suit? | Beige. |
+| What | What is the woman holding in her left hand? | A black purse. |
+| How | How does the bow on the front of the shorts add to the woman's outfit? | It adds a touch of elegance. |
+| How | How does the white background affect the image? | It provides a stark contrast, making the woman and her outfit the main focus. |

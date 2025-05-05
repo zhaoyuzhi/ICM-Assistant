@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have red flowers on it? | Yes. |
+| Yes/No | Is the woman lifting her dress up? | Yes. |
+| Yes/No | Is the dress made of a flowing fabric? | Yes. |
+| Yes/No | Is the image set in a bedroom? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and seductive? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the woman lifting her dress up to reveal? | Her thigh. |
+| How | How is the dress flowing? | The dress appears to be made of a flowing fabric, adding a sense of movement to the image. |
+| How | How does the woman's action of lifting her dress suggest a sense of confidence and allure? | The woman's action of lifting her dress up to reveal her thigh suggests a sense of confidence and allure because it is a provocative and alluring action. |

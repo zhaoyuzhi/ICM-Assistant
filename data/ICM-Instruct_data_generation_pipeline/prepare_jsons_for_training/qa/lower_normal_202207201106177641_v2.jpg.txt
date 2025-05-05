@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are her heels pointed? | Yes. |
+| Yes/No | Does the woman have her arms resting on her hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sophisticated and elegant? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the woman's clothes and pose professional and elegant rather than provocative or alluring? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the style of the woman's heels? | Pointed toe and strap around the ankle. |
+| How | How are the woman's arms positioned in the image? | Resting on her hips. |
+| What | What is the focus of the image? | The woman's outfit and posture. |

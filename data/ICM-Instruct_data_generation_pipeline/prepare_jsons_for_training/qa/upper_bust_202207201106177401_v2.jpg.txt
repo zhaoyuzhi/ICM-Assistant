@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige crop top? | Yes. |
+| Yes/No | Does the woman have a tattoo visible on her arm? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the woman's pose in the image seductive? | Yes. |
+| Yes/No | Are the woman's blue jeans a prominent feature of the image? | No. |
+| Yes/No | Is the image set against a plain white background? | Yes. |
+| What | What color is the woman's crop top? | Beige. |
+| What | What is the central point of interest in the image? | The woman. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's attire, including the beige crop top with a deep neckline and the bow on the shoulder, along with her blue jeans, creates a sense of confidence and allure. |
+| How | How does the close-up nature of the image affect the viewer's experience? | The closeup nature of the image allows the viewer to appreciate the details of the woman's appearance and attire, adding to the intimacy and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have blue flowers? | Yes. |
+| Yes/No | Is the woman lifting the dress up with her hands? | Yes. |
+| Yes/No | Is the dress tied at the neck? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's stomach exposed in the image? | Yes. |
+| What | What color is the dress? | White. |
+| What | What is the woman lifting the dress up with? | Her hands. |
+| How | How is the dress tied at the neck? | With a tie. |
+| How | How does the woman's action of lifting the dress contribute to the overall atmosphere of the image? | It creates a sense of allure and seduction. |

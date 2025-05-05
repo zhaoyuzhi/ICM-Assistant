@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Is the woman in the image standing in a room with a white floor and a white table? | Yes. |
+| Yes/No | Is the woman in the image wearing a straw hat? | Yes. |
+| Yes/No | Does the woman in the image have long legs? | Yes. |
+| What | What is the woman in the image holding in her right hand? | A phone. |
+| What | What is the woman in the image wearing on her head? | A straw hat. |
+| How | How is the woman in the image standing? | With her left hand on her hip. |
+| How | How does the woman in the image appear? | Sexy/provocative. |

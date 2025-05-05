@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the woman in the image wearing a pair of white sneakers? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What color are the leggings the woman is wearing? | Blue. |
+| What | What type of shoes is the woman wearing? | White sneakers. |
+| How | How does the woman's pose suggest confidence and self-assuredness? | The woman's pose with her hands on her hips suggests confidence and selfassuredness because it takes up space and draws attention to her body. |
+| How | How do the tight-fitting blue leggings and the white sneakers create a contrast that draws attention to her lower body? | They create a visual contrast between the blue leggings and the white shoes, drawing the viewer's attention to her lower body. |

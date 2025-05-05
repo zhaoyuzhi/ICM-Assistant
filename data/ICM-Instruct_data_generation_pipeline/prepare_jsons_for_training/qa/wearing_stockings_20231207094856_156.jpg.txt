@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person wearing a black skirt? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the stockings being put on the person's legs? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Is there a painting on the background wall? | Yes. |
+| What | What is the person in the image doing? | Putting on black stockings. |
+| What | What is the color of the person's skirt? | Black. |
+| How | How is the person holding up their leg while putting on the stockings? | With their hand. |
+| How | How would you describe the atmosphere of the image? | Intimate and alluring. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Is she wearing a white shirt? | Yes. |
+| Yes/No | Are the stockings black? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Is there a painting on the wall? | Yes. |
+| What | What is the woman doing in the image? | She is putting on black stockings. |
+| What | What is the atmosphere of the image? | Intimate and alluring. |
+| How | How is the woman's posture while putting on the stockings? | She is holding her leg up with her hand. |
+| How | How do the black skirt and white shirt contrast with the stockings? | They contrast by being different colors, with the stockings being black and the skirt and shirt being white, which draws attention to the lower half of her body. |

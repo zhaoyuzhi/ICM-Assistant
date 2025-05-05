@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue sweatshirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Is the person wearing black shoes? | Yes. |
+| Yes/No | Is the person's sock white? | Yes. |
+| Yes/No | Are the person's hands placed behind their back? | Yes. |
+| Yes/No | Is the person looking downwards? | Yes. |
+| What | What is the color of the background in the image? | Blue. |
+| What | What is the person's attire? | Blue sweatshirt, black pants, black shoes, white sock. |
+| How | How is the person's attire neutral? | The person is wearing casual, nonrevealing clothing that does not draw attention to their body in a sexual way. |
+| How | How does the low exposure level contribute to the non-sexual nature of the image? | The low exposure level focuses on the person's upper body and torso, rather than their entire body, and does not highlight any sexualized features. Additionally, the lack of explicit or suggestive content in the image reinforces its nonsexual nature. |

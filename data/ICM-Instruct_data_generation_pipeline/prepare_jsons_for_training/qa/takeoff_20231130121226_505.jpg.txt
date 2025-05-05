@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman facing away from the camera? | Yes. |
+| Yes/No | Is the woman taking off her clothes? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the image set at night? | Yes. |
+| Yes/No | Does the image convey a sense of mystery? | Yes. |
+| What | What is the woman wearing on her bottom half? | Pants that are down. |
+| What | What is the woman's bra color? | Black. |
+| How | How is the woman taking off her clothes? | She appears to be taking off her pants. |
+| What | What atmosphere does the image create? | Relaxing and sensual. |

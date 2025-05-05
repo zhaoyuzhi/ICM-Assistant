@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man facing the camera? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the logo on the back pocket of the shorts small? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color are the shorts the man is wearing? | Navy blue. |
+| What | What is the focus of the image? | The man's attire. |
+| How | How is the man dressed in the image? | Casually. |
+| How | How does the image portray the man's attire? | Neutral and nonsexual. |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the logo on the back pocket of the shorts white? | Yes. |
+| Yes/No | Are the shorts made of cotton blend fabric? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose and attire neutral and non-sexual? | Yes. |
+| What | What color are the shorts? | Navy blue. |
+| What | What is the focus of the image? | The man's casual clothing and pose. |
+| How | How does the man's pose and attire contribute to the atmosphere of the image? | They suggest a casual, relaxed atmosphere. |
+| How | How does the exposure level of the image contribute to the overall atmosphere? | It reinforces the lowkey, casual atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing lingerie? | Yes. |
+| Yes/No | Is the lingerie black and red? | Yes. |
+| Yes/No | Does the lingerie have a bow on the front? | Yes. |
+| Yes/No | Is the woman holding a camera in her right hand? | Yes. |
+| Yes/No | Is the woman looking at the camera? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| What | What color is the lingerie? | Black and red. |
+| What | What is the woman holding in her right hand? | A camera. |
+| How | How is the woman posing in the image? | She is standing with a slight lean and a smile, looking confident and playful. |
+| How | How does the background of the image contribute to the overall atmosphere of the image? | The plain white wall puts the focus entirely on the woman and her attire, emphasizing the sexy nature of the image and creating an atmosphere that is both alluring and confident. |

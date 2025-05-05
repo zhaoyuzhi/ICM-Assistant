@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Does the blouse have a striped pattern? | Yes. |
+| Yes/No | Is the blouse long-sleeved? | Yes. |
+| Yes/No | Does the blouse have a button-down front? | Yes. |
+| Yes/No | Is the woman wearing a beige skirt? | Yes. |
+| Yes/No | Is the skirt short? | Yes. |
+| What | What is the woman's pose in the image? | Confident, looking directly at the camera. |
+| What | What is the overall atmosphere of the image? | Sexy. |
+| How | How does the blouse and skirt combination contribute to the overall atmosphere of the image? | The combination of the white blouse with a striped pattern and the beige skirt with a tie at the waist creates a sense of allure and confidence. |
+| How | How does the woman's direct gaze at the camera contribute to the overall atmosphere of the image? | The woman's direct gaze at the camera adds to the overall allure of the image, making it more engaging and confident. |

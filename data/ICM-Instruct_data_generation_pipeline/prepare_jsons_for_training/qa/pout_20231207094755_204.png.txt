@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink lipstick? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Is the overall atmosphere of the picture playful and fun? | No. |
+| Yes/No | Is the woman's facial expression neutral? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What color is the woman's lipstick? | Pink. |
+| What | What is the woman's facial expression? | Seductive/alluring. |
+| How | How is the woman looking? | Upwards and to the left. |
+| How | How would you describe the overall mood of the image? | Seductive/alluring. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the person in the image have a large area of their back exposed? | Yes. |
+| Yes/No | Is the woman's hair blonde? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the woman's shirt? | Black. |
+| What | What is the color of the woman's hair? | Blonde. |
+| How | How is the woman's back exposed in the image? | The woman's back is exposed through a large area of her shirt being opened or pulled down. |
+| How | How does the woman's hair add to the overall aesthetic of the image? | The woman's blonde hair creates a visually appealing contrast with her black shirt, adding to the overall aesthetic of the image. |

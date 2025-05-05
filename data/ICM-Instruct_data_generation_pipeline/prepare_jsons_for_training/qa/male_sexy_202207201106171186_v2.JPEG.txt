@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the man have any tattoos visible in the image? | No. |
+| Yes/No | Is the man's underwear black and white? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man looking away from the camera? | No. |
+| Yes/No | Is the man smiling in the image? | No. |
+| What | What color is the man's underwear? | Blue and white. |
+| What | What is the pattern on the man's underwear? | Small dots. |
+| How | How is the man's arms positioned in the image? | Crossed over his chest. |
+| How | How does the man's direct gaze at the camera contribute to the atmosphere of the image? | It creates a sense of connection and intimacy with the viewer, adding to the sexy and alluring atmosphere. |

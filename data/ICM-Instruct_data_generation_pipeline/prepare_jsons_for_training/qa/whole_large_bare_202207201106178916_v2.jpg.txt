@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman sitting on the sand? | Yes. |
+| Yes/No | Is the watermelon slice in the woman's hand large? | Yes. |
+| Yes/No | Is the atmosphere of the image relaxed and casual? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman holding in her hand? | A slice of watermelon. |
+| What | What is the woman biting into? | A slice of watermelon. |
+| How | How is the woman's body revealed in the image? | The woman is wearing a bikini, which is designed to reveal her body. |
+| How | How does the woman's action with the watermelon contribute to the sexy atmosphere of the image? | The woman's playful and sensual action of biting into the large slice of watermelon creates a sense of allure and enticement, contributing to the sexy atmosphere of the image. |

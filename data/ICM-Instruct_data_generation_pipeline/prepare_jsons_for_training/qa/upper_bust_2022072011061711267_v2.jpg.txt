@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a woman's breast? | Yes. |
+| Yes/No | Does the woman wear a white sweater? | Yes. |
+| Yes/No | Is the woman wearing a gold necklace? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the woman's midriff visible? | Yes. |
+| What | What color is the woman's sweater? | White. |
+| What | What is the woman wearing around her neck? | A gold necklace. |
+| How | How is the woman's breast presented in the image? | Prominently displayed, with the curve of the breast accentuated by the cropped sweater. |
+| How | How does the image make the viewer feel? | Intimate and allured, as if they are sharing a private moment with the woman. |

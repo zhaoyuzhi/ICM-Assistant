@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing underwear? | Yes. |
+| Yes/No | Is the man in the image posing with his hand on his head? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man's pose suggest confidence and self-assuredness? | Yes. |
+| What | What is the man in the image wearing? | A pair of gray underwear. |
+| What | What is the man in the image posing with? | His hand on his head. |
+| How | How is the man in the image posing? | With his hand on his head. |
+| How | How does the image evoke feelings in the viewer? | It evokes feelings of desire and attraction. |

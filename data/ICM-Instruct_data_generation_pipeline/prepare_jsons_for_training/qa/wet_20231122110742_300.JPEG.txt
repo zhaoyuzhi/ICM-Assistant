@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Are the woman's clothes soaked? | Yes. |
+| Yes/No | Does the image contain any other discernible objects or people? | No. |
+| Yes/No | Are the woman's clothes suggesting that she has been in a body of water? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and longing? | Yes. |
+| Yes/No | Is the field setting and the trees in the background adding to the overall atmosphere of the image? | Yes. |
+| What | What is the color of the woman's shirt? | Yellow. |
+| What | What is the woman's hair length? | Long. |
+| How | How does the woman's wet hair and clothes give her an alluring appearance? | It gives her a fresh and natural look. |
+| How | How does the field setting and the trees in the background add to the overall atmosphere of the image? | They create a sense of tranquility and natural beauty. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the sleeves of the dress long? | Yes. |
+| Yes/No | Is the woman wearing black heels? | Yes. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What is the woman wearing on her feet? | Black heels. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| How | How is the woman's attire described in the image? | Modest. |
+| How | How does the low exposure level of the image affect the overall feel of the image? | It emphasizes the modesty of the woman's attire and the simplicity of the scene. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked from their thighs to their ankles? | Yes. |
+| Yes/No | Is the person wearing a pair of shorts? | Yes. |
+| Yes/No | Does the pattern on the shorts feature small black dots? | Yes. |
+| Yes/No | Are the person's shoes blue? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What is the primary color of the shorts? | White. |
+| What | What is the color of the person's shoes? | Blue. |
+| How | How are the black dots on the shorts arranged? | In a pattern. |
+| How | How does the color of the shoes contrast with the color of the shorts? | The blue shoes contrast with the white shorts. |

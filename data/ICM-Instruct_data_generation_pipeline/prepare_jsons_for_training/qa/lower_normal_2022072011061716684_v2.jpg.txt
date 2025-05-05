@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a sports bra? | Yes. |
+| Yes/No | Are her arms raised or bent? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman wearing a pair of leggings? | Yes. |
+| Yes/No | Are her legs closed or apart? | Yes. |
+| What | What is the woman wearing on her feet? | White sneakers. |
+| What | What color are the leggings the woman is wearing? | Beige. |
+| How | How are the woman's arms positioned? | Relaxed at her sides. |
+| How | How would you describe the overall atmosphere of the image? | Neutral, focused on the woman's athletic attire rather than her physical appearance. |

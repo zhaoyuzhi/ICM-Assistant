@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue leggings? | Yes. |
+| Yes/No | Is the woman in the image wearing a white sports bra? | Yes. |
+| Yes/No | Does the woman have her hands placed on her hips? | Yes. |
+| Yes/No | Are the leggings cropped at the waist? | Yes. |
+| Yes/No | Does the sports bra have a cropped neckline? | Yes. |
+| Yes/No | Does the image convey a sense of self-assurance and confidence? | Yes. |
+| What | What color are the leggings in the image? | Blue. |
+| What | What is the woman wearing that is cropped at the neckline? | A white sports bra. |
+| How | How are the leggings cropped? | They are cropped at the waist. |
+| How | How does the image create an atmosphere of allure and sensuality? | The image creates an atmosphere of allure and sensuality through the woman's confident pose with her hands on her hips, the cropped leggings and sports bra that reveal her midriff, and the combination of these elements that suggest a sense of selfassuredness and confidence. |

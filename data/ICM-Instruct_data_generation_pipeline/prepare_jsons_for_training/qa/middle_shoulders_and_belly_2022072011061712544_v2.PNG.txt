@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman in the image holding a measuring tape? | Yes. |
+| Yes/No | Is the woman in the image exposing her belly? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| How | Does the image showcase the woman's body in a confident and uninhibited manner? | Yes. |
+| What | What is the woman in the image using to measure her waist? | A measuring tape. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How is the woman in the image posing? | Confidently and uninhibitedly. |
+| How | How does the image make you feel? | Allured and intrigued. |
+| Yes/No | Is the woman in the image wearing a tight blue jean? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman in the image holding a measuring tape? | Yes. |
+| Yes/No | Is the woman in the image measuring her waist? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What is the woman in the image measuring her waist with? | A measuring tape. |
+| What | What color is the woman's top in the image? | White. |
+| How | How is the woman's belly exposed in the image? | Her midriff is exposed. |
+| How | How does the white background of the image emphasize the subject? | It creates a sense of contrast, drawing attention to the woman's form. |

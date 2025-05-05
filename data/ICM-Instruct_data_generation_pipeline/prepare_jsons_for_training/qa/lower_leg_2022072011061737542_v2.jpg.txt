@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a denim skirt? | Yes. |
+| Yes/No | Are the person's legs apart in the image? | Yes. |
+| Yes/No | Is the person looking down in the image? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the person's torso visible in the image? | No. |
+| Yes/No | Does the image have a sexy tone? | Yes. |
+| What | What is the person wearing on their feet in the image? | White sneakers. |
+| What | What is the color of the wall in the background of the image? | White. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |
+| How | How would you describe the person's pose in the image? | Confident and selfassured. |

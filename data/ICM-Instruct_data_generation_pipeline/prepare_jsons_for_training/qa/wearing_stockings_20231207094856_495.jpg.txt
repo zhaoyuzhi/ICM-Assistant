@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Is the person sitting on a wooden floor? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a gray sweater? | Yes. |
+| Yes/No | Are the person's legs the main focus of the image? | Yes. |
+| Yes/No | Does the image captured a moment of vulnerability and intimacy? | Yes. |
+| What | What color are the stockings the person is wearing? | Beige. |
+| What | What is the person wearing on their legs? | Stockings, knee pads. |
+| How | How does the person's crossed legs enhance the overall aesthetic of the image? | They create a sense of intimacy and draw the viewer's attention to the person's legs. |
+| How | How does the wooden floor enhance the overall atmosphere of the image? | It provides a warm and natural backdrop, enhancing the sense of intimacy and vulnerability in the scene. |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Is the person sitting on a wooden floor? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a gray sweater? | Yes. |
+| Yes/No | Are the person's legs the main focus of the image? | Yes. |
+| Yes/No | Does the image capture a moment of vulnerability and intimacy? | Yes. |
+| What | What color are the stockings the person is wearing? | Beige. |
+| What | What is the color of the person's knee pads? | Beige. |
+| How | How do the beige stockings and beige knee pads create a harmonious color palette? | They create a harmonious color palette by being similar in color, creating a sense of continuity and cohesion. |
+| How | How does the close-up perspective of the image enhance the overall aesthetic? | The closeup perspective emphasizes the person's legs and creates a sense of intimacy and vulnerability, adding to the overall aesthetic. |

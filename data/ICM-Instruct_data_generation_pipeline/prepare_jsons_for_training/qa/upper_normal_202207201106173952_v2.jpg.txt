@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a business suit? | Yes. |
+| Yes/No | Is the woman in the image wearing glasses? | Yes. |
+| Yes/No | Is the woman in the image engaged in a professional activity? | Yes. |
+| Yes/No | Is the image set in an office setting? | Yes. |
+| Yes/No | Does the woman in the image have a sexy or provocative appearance? | No. |
+| Yes/No | Does the image contain any elements that suggest a sexy or provocative context? | No. |
+| What | What is the woman in the image doing? | She is working on a computer or taking notes. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is focused and serious. |
+| How | How is the woman dressed in the image? | She is dressed in a business suit. |
+| How | How does the low exposure level of the image contribute to the overall atmosphere? | The low exposure level of the image emphasizes the serious and focused nature of the scene. |

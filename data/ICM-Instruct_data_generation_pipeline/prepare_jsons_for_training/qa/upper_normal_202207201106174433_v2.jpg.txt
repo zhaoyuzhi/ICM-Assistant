@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Does the man have a smile on his face? | Yes. |
+| Yes/No | Is the man's gaze directed off to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose or expression suggestive? | No. |
+| Yes/No | Does the image have a sexual context? | No. |
+| What | What is the man wearing in the image? | A black tshirt. |
+| What | What is the man's facial expression in the image? | A slight smile. |
+| How | How is the man standing in the image? | Against a plain white background. |
+| How | How does the man's head tilt in the image? | Slightly. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are the couple kissing passionately? | Yes. |
+| Yes/No | Is the woman's head resting on the man's chest? | Yes. |
+| Yes/No | Is the man's hand on the woman's face? | Yes. |
+| Yes/No | Are the couple lying on a bed? | Yes. |
+| What | What is the color of the man's shirt? | Black. |
+| What | What is the color of the woman's dress? | White. |
+| How | How is the woman's head positioned on the man's chest? | Resting. |
+| How | How is the man's hand positioned on the woman's face? | Pulling her closer. |

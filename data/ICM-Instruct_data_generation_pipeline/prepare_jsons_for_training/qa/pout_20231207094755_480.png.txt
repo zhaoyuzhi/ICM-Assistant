@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman in the image wearing a black beaded necklace? | Yes. |
+| Yes/No | Does the woman in the image have her eyes closed? | Yes. |
+| Yes/No | Does the woman in the image have her lips puckered? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the woman in the image smiling? | No. |
+| What | What color is the woman's top? | White. |
+| What | What kind of necklace is the woman wearing? | Black beaded necklace. |
+| How | How are the woman's lips? | Puckered. |
+| How | How are the woman's eyes? | Closed. |

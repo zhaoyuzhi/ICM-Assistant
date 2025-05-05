@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Does the person have a black stripe running down the side of their stockings? | Yes. |
+| Yes/No | Is the person wearing a white sweater? | Yes. |
+| Yes/No | Does the white sweater have a button on the shoulder? | Yes. |
+| Yes/No | Is the person sitting on a couch? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and cozy? | Yes. |
+| What | What is the person in the image sitting on? | A couch. |
+| What | What is the color of the book next to the person? | White. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| What | What does the presence of the book suggest about the atmosphere of the image? | Relaxed and leisurely. |
+| Yes/No | Is the person in the image wearing a pair of beige stockings with a black stripe? | Yes. |
+| Yes/No | Is the person wearing a white sweater with a button on the shoulder? | Yes. |
+| Yes/No | Is the person sitting on a couch? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and cozy? | Yes. |
+| Yes/No | Does the presence of the book suggest a relaxed and leisurely atmosphere? | Yes. |
+| Yes/No | Is the image sexy because of the combination of the person's attire and the intimate setting? | Yes. |
+| What | What color is the person's sweater? | White. |
+| What | What is the color of the book's cover? | White. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| What | What element in the image adds an element of relaxation and leisure? | The book. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink shorts? | Yes. |
+| Yes/No | Does the woman have a drawstring waist? | Yes. |
+| Yes/No | Is the woman's blouse short-sleeved? | Yes. |
+| Yes/No | Does the blouse have a floral pattern? | Yes. |
+| Yes/No | Is the woman's pose confident and relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the shorts? | Pink. |
+| What | What is the design of the blouse? | Floral pattern. |
+| How | How does the drawstring waist of the shorts enhance the image? | It allows for a sense of movement and freedom, enhancing the sexy atmosphere. |
+| How | How does the woman's pose contribute to the overall sexy atmosphere of the image? | Her confident and relaxed pose, with her hands on her hips, exudes selfassurance and confidence, which are often associated with a sexy appearance. |

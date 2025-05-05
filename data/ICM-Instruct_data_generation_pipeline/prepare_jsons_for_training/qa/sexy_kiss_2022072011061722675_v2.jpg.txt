@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the body of water in the background a lake? | No. |
+| Yes/No | Are there trees in the background of the image? | Yes. |
+| Yes/No | Is the woman wearing earrings? | Yes. |
+| What | What color is the woman's dress? | Black and white. |
+| What | What is the man's suit color? | Gray. |
+| How | How is the woman's dress styled? | It has a ruffled collar. |
+| How | How is the man holding the woman? | He is holding her close to him. |

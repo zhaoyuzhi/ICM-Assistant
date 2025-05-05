@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra blue? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Does the image capture the woman from the waist up? | Yes. |
+| Yes/No | Is the woman's attire sexy? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a blue bra and adjusting her clothing. |
+| What | What is the color of the bra the woman is wearing? | Blue. |
+| How | How is the woman presenting herself in the image? | She is standing confidently with her hands on her chest, striking a pose. |
+| How | How does the mirror add to the overall atmosphere of the image? | The mirror suggests that the woman is getting dressed in a private setting, adding to the intimacy and sensuality of the scene. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra blue? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Does the image capture the woman from the waist up? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have her hands on her chest? | Yes. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| What | What color is the bra the woman is wearing? | Blue. |
+| How | How is the woman presenting herself in the image? | Confidently and comfortably. |
+| How | How does the image capture the woman's upper body? | It focuses on her shoulders, chest, and arms. |

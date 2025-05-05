@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black jacket? | Yes. |
+| Yes/No | Are the man and woman in the image standing on a beach? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the woman's head tilted back in the image? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman in the image? | Yes. |
+| What | What is the woman in the image wearing? | A black jacket. |
+| What | What is the man in the image wearing? | A white shirt. |
+| How | How is the woman's head positioned in the image? | Tilted back. |
+| How | How are the man's arms positioned in the image? | Wrapped around the woman. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the shorts the person is wearing black? | No. |
+| Yes/No | Does the person have a pocket on the front of their shorts? | No. |
+| Yes/No | Is the belt the person is wearing made of leather? | No. |
+| Yes/No | Does the person have any tattoos or piercings visible in the image? | No. |
+| Yes/No | Is the image taken indoors? | No. |
+| What | What color are the shorts the person is wearing? | Olive green. |
+| What | What is the primary material used to make the belt the person is wearing? | Fabric/textile. |
+| How | How is the person's waist secured in the shorts? | Drawstring. |
+| How | How is the belt fastened around the person's waist? | Buckle. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a pair of olive green cargo shorts? | Yes. |
+| Yes/No | Does the person have a black belt? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the person have any other articles of clothing on? | Yes. |
+| What | What color are the cargo shorts? | Olive green. |
+| What | What is the focus of the image? | The person's attire. |
+| How | How is the person standing? | With their back to the camera. |
+| How | How would you describe the atmosphere of the image? | Casual and everyday. |

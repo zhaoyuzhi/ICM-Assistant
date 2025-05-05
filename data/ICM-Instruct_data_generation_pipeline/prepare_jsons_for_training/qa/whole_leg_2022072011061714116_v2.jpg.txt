@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a tank top? | Yes. |
+| Yes/No | Is the tank top cropped? | Yes. |
+| Yes/No | Does the tank top feature a graphic of a fish? | Yes. |
+| Yes/No | Is the woman wearing pink shorts? | Yes. |
+| Yes/No | Is her left hand resting on her hip? | Yes. |
+| Yes/No | Is her right hand placed on her thigh? | Yes. |
+| What | What color are the woman's shorts? | Pink. |
+| What | What is the graphic on the woman's tank top? | A fish. |
+| How | How is the woman's pose in the image? | Confident and selfassured. |
+| How | How does the image make you feel? | The image makes me feel like the woman is confident and sexy. |

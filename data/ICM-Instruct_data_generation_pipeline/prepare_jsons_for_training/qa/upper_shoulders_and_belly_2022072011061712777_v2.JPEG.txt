@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white off-the-shoulder blouse? | Yes. |
+| Yes/No | Are the sleeves of the blouse ruffled? | Yes. |
+| Yes/No | Is the blouse cropped at the waist? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Does the woman have long blonde hair? | Yes. |
+| Yes/No | Is the woman smiling and looking directly at the camera? | Yes. |
+| What | What color are the jeans that the woman is wearing? | Blue. |
+| What | What is the woman's hair color? | Blonde. |
+| How | How is the woman's blouse cropped? | It is cropped at the waist. |
+| How | How does the woman's smile and direct gaze at the camera contribute to the overall atmosphere of the image? | They add to the overall atmosphere of confidence and allure. |

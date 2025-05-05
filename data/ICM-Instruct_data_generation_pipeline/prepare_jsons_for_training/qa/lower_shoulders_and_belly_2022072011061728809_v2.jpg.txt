@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue leggings? | Yes. |
+| Yes/No | Is the woman in the image wearing a black sports bra? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the leggings? | Blue. |
+| What | What is the woman wearing on her upper body? | A black sports bra. |
+| How | How are the leggings fitting on the woman's body? | Formfitting. |
+| How | How is the woman posing in the image? | With her hands on her hips and looking directly at the camera. |

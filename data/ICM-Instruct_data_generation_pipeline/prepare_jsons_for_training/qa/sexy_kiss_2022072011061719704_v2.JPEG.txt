@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are they in a forest? | Yes. |
+| Yes/No | Is the man wearing a suit? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Are the woman's hands on the man's face? | Yes. |
+| What | What is the man's facial expression? | He is smiling. |
+| What | What is the woman's facial expression? | She is smiling and has her eyes closed. |
+| How | How are the couple's arms positioned? | The man's arms are wrapped around the woman's waist, and the woman's hands are on the man's face. |
+| How | How does the forest setting contribute to the image's overall mood? | It creates a serene and intimate atmosphere, adding an element of mystery and allure. |

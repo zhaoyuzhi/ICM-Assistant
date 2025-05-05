@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of blue jean shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the man in the image looking downwards? | Yes. |
+| Yes/No | Are the man's arms tucked into his pockets? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image focus on the man's torso and legs? | Yes. |
+| What | What is the man's attire in the image? | Blue jean shorts and a white tshirt. |
+| What | What is the man's posture in the image? | Relaxed, with his arms tucked into his pockets. |
+| How | How is the exposure level of the image? | Low. |
+| How | How does the image maintain a non-sexual atmosphere? | Through the man's casual attire, relaxed posture, and low exposure level. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the bicycle in the image blue? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the palm tree in the image green? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the color of the woman's bikini top? | White with a floral pattern. |
+| What | What is the color of the bicycle in the image? | Blue. |
+| How | How is the woman posing in the image? | With her hands on her hips and her body facing the viewer. |
+| How | How does the combination of the woman's attire and the surrounding environment create an atmosphere? | The combination of the woman's bikini top, the palm tree, and the blue bicycle creates a tropical or beach setting that is often associated with sensuality and relaxation, and the woman's confident pose adds to the sexy and alluring atmosphere. |

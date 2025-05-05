@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a mirror? | Yes. |
+| Yes/No | Is the woman in the image looking at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the setting of the image a dressing room or a similar private space? | Yes. |
+| What | What is the woman in the image wearing? | A white bra and matching underwear. |
+| What | What is the woman in the image doing with her hand? | She is resting her hand on her chin. |
+| How | How is the woman in the image posing? | She is posing confidently and seductively, looking over her shoulder at the camera. |
+| How | How does the mirror in the background contribute to the atmosphere of the image? | It creates a sense of depth and space, adding to the seductive atmosphere. |

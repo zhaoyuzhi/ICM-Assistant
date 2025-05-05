@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting on a chair? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Does the dress reach her knees? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is she looking off to the side? | Yes. |
+| Yes/No | Is there a slight smile on her face? | Yes. |
+| What | What is the color of the chair the woman is sitting on? | Black. |
+| What | What is the background of the image? | White. |
+| How | How is the woman's pose in the image? | Confident and alluring. |
+| How | How does the black dress contribute to the overall atmosphere of the image? | Modest yet revealing, adding to the allure of the image. |

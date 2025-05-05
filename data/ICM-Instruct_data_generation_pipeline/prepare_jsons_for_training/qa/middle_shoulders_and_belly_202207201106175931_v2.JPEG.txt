@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a green cloth? | Yes. |
+| Yes/No | Does the belly button piercing have a blue gemstone in the center? | Yes. |
+| Yes/No | Is the person's skin smooth and clear? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the gemstone in the belly button piercing? | Blue. |
+| What | What is the color of the green cloth? | Green. |
+| How | How does the green cloth contrast with the skin tone? | The green cloth contrasts with the skin tone by being a different color. |
+| How | How does the belly button piercing add a touch of color to the scene? | The belly button piercing adds a touch of color to the scene by having a blue gemstone in the center. |
+| Yes/No | Is the person in the image wearing a green cloth? | Yes. |
+| How | Does the image show the person's entire body? | No. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| How | Does the image show any other people or objects? | No. |
+| Yes/No | Is the image taken indoors? | Yes. |
+| What | What is the person wearing on their lower body? | A green cloth. |
+| What | What is the significance of the belly button piercing in the image? | It showcases the person's selfexpression and confidence. |
+| How | How does the green cloth contrast with the rest of the image? | It adds a pop of color and draws attention to the belly button piercing. |
+| How | How does the image convey an intimate and sensual atmosphere? | The focus on the person's body and the details of the piercing create a sense of intimacy and sensuality. |

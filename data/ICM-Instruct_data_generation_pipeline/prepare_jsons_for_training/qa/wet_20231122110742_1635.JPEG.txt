@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman standing in front of a pool? | Yes. |
+| Yes/No | Are there water droplets falling on the woman's face and shoulders? | Yes. |
+| Yes/No | Is the woman's hair wet? | Yes. |
+| Yes/No | Is the woman looking upwards? | Yes. |
+| Yes/No | Does the image have a sensual and intimate atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A white blouse. |
+| What | What is the woman doing in the image? | Looking upwards. |
+| How | How are the water droplets falling on the woman's face and shoulders? | They are falling gently. |
+| How | How does the woman's pose in the image suggest she has been in the water? | She is standing in a pool and her clothes are soaked. |

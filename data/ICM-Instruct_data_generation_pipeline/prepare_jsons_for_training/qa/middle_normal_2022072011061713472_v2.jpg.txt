@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt made of a soft fabric? | Yes. |
+| Yes/No | Is the belt made of a shiny material? | Yes. |
+| Yes/No | Does the person have their hands resting in their pockets? | Yes. |
+| Yes/No | Is the atmosphere of the image calm and relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the color of the background in the image? | Blue. |
+| What | What is the person's pose in the image? | Neutral, with hands resting in pockets. |
+| How | How is the skirt's hem finished? | Ruffled. |
+| How | How does the image's blue background contribute to its atmosphere? | It enhances the calm and relaxed feel of the image. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the skirt ruffled? | Yes. |
+| Yes/No | Are the gold buckles on the belt shiny? | Yes. |
+| Yes/No | Does the person have a confident expression? | Yes. |
+| Yes/No | Is the atmosphere of the image professional? | Yes. |
+| Yes/No | Does the image suggest any intimate or provocative actions? | No. |
+| What | What is the color of the skirt? | Beige. |
+| What | What is the material of the belt? | Leather. |
+| How | How are the gold buckles on the belt fastened? | They are fastened with a gold clasp. |
+| How | How would you describe the person's pose in the image? | The person is standing with their back to the camera, with their shoulders squared and their head held high. |

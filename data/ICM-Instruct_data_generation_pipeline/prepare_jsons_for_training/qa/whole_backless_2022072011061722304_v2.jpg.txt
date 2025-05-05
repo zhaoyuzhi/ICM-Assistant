@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the woman standing in a room with a white wall and a white table? | Yes. |
+| Yes/No | Are there three books and a candle on the table? | Yes. |
+| Yes/No | Is the woman's pose confident and comfortable? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's attire in the image? | A black dress with a low back. |
+| What | What is the background of the image? | A white wall and a white table. |
+| How | How does the woman's pose and attire create a sense of allure? | The confident pose and low back of the dress accentuate the woman's curves, creating a sense of allure. |
+| How | How does the candle on the table add to the atmosphere of the image? | The candle adds a touch of warmth and intimacy to the scene, which can be perceived as seductive. |

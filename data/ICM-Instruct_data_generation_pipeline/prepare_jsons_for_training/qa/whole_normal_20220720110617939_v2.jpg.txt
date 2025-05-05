@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Is the dress patterned? | Yes. |
+| Yes/No | Is the woman wearing sunglasses? | Yes. |
+| Yes/No | Does the woman have her hair styled in a ponytail? | Yes. |
+| Yes/No | Is the background of the image a simple white wall? | Yes. |
+| What | What is the dominant color of the woman's dress? | Brown and yellow. |
+| What | What is the woman's hair style in the image? | Ponytail. |
+| How | How is the woman's dress cinched at the waist? | With a belt. |
+| How | How would you describe the woman's stride in the image? | Confident and poised. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing in the image? | A black skirt and black shoes. |
+| What | What is the person's pose in the image? | Standing with legs apart and hands on hips. |
+| How | How does the person's pose suggest self-assurance? | The person's legs apart and hands on hips pose suggests a sense of selfassuredness and confidence. |
+| How | How does the blurred background contribute to the image's overall atmosphere? | The blurred background puts the focus entirely on the person, making them the center of attention and creating a sexy atmosphere. |

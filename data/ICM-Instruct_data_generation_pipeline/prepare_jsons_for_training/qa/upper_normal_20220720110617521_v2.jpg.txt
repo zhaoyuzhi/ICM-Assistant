@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a collage of two photos? | Yes. |
+| Yes/No | Is the person in the left photo using a food processor? | Yes. |
+| Yes/No | Is the person in the right photo using a blender? | Yes. |
+| Yes/No | Are the person's clothes the same in both photos? | Yes. |
+| Yes/No | Is the background of both photos white? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the person in the left photo using? | A food processor. |
+| What | What is the person in the right photo using? | A blender. |
+| How | How is the focus of the image described? | The focus is on the person's actions and the kitchen appliances, rather than on the person's appearance or body. |

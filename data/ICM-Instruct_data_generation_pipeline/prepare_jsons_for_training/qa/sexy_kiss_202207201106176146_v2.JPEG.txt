@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Does the woman have brown hair? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the woman's head resting on the man's shoulder? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Does the image depict a tender and intimate moment between the couple? | Yes. |
+| What | What is the color of the man's shirt? | Black. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How are the couple standing in relation to each other? | Close, with the woman's head resting on the man's shoulder. |
+| How | How does the blurred background affect the image? | It puts the focus on the couple, emphasizing their interaction and making the image more visually appealing. |

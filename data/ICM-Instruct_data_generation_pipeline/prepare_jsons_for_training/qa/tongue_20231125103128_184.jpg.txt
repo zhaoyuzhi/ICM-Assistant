@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink lipstick? | Yes. |
+| Yes/No | Is the woman sticking out her tongue in the image? | Yes. |
+| Yes/No | Does the woman have a surprised expression on her face? | Yes. |
+| Yes/No | Is the image a close-up shot of the woman's face? | Yes. |
+| Yes/No | Does the image capture a candid moment? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's lipstick? | Pink. |
+| What | What is the woman's facial expression in the image? | Surprised. |
+| How | How does the close-up shot of the woman's face draw attention to her facial features? | It highlights her eyes, eyebrows, nose, and lips, making her look more attractive. |
+| How | How does the pink lipstick add to the image's atmosphere? | It adds a pop of color and can be associated with confidence and allure, contributing to the sexy atmosphere. |

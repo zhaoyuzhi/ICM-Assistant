@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image depicting a romantic scene? | Yes. |
+| Yes/No | Are the two men in the image engaged in physical affection? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Are the men in the image wearing formal attire? | No. |
+| Yes/No | Is the image set indoors? | No. |
+| Yes/No | Does the image depict a moment of love and desire? | Yes. |
+| What | What is the color of the shirt worn by the man standing? | Blue. |
+| What | What is the color of the shirt worn by the man sitting? | Green. |
+| How | How are the two men in the image positioned in relation to each other? | The man standing is behind the man sitting on a fence. |

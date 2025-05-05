@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lying down? | Yes. |
+| Yes/No | Is the woman wearing a blue sweater? | Yes. |
+| Yes/No | Are her eyes closed? | Yes. |
+| Yes/No | Is the couch covered with a blue and white patterned pillow? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman doing in the image? | Resting or sleeping. |
+| What | What is the color of the sweater the woman is wearing? | Blue. |
+| How | How is the woman positioned on the couch? | Lying down. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

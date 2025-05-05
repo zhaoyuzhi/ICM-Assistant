@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress cropped at the waist? | Yes. |
+| Yes/No | Are the woman's boots black? | Yes. |
+| Yes/No | Is the woman's hair styled in a high ponytail? | Yes. |
+| Yes/No | Is there a wooden table visible in the background? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her feet? | Black boots. |
+| What | What is the woman's hairstyle? | High ponytail. |
+| How | How is the woman standing in relation to the mirror? | She is standing in front of the mirror. |
+| How | How does the image create a visually appealing composition? | The woman's outfit and pose, combined with the mirror and wooden table in the background, create a balanced and visually appealing composition. |

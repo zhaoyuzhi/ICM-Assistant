@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Does the woman have a tattoo? | No. |
+| Yes/No | Are they in the ocean? | Yes. |
+| Yes/No | Is the woman's head above the water? | No. |
+| Yes/No | Is the ocean water a dark blue color? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing on his left arm? | A tattoo. |
+| What | What color is the ocean water? | Dark blue. |
+| How | How is the woman holding onto the man? | She is holding onto his waist. |
+| How | How does the man's tattoo add to his appearance? | It adds a touch of intrigue. |

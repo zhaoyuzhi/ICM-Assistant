@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Is the image set in a park? | Yes. |
+| Yes/No | Does the person have a purse? | Yes. |
+| Yes/No | Are they wearing boots? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the person's attire? | Black skirt, white sweater, brown boots. |
+| What | What is the person holding in their left hand? | Brown purse. |
+| How | How is the person standing? | Standing on a stone path. |
+| How | How would you describe the atmosphere of the image? | Calm, serene, and tranquil. |

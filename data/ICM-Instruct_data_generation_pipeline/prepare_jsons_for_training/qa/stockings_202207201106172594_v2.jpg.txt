@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Are the high heels in the image black? | Yes. |
+| Yes/No | Is the woman in the image posing in a confident manner? | Yes. |
+| Yes/No | Are the stockings in the image lacy? | Yes. |
+| Yes/No | Is the image overall sexy? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| What | What is the woman in the image wearing on her legs? | Black stockings. |
+| What | What is the color of the high heels in the image? | Black. |
+| How | How are the stockings in the image described? | Lacy. |
+| How | How is the woman in the image posing? | With her legs spread apart and her hands on her hips. |

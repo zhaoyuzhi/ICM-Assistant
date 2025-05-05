@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing denim shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Is the living room in the image painted beige? | Yes. |
+| Yes/No | Is there a couch visible in the background of the image? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What is the woman looking at in the image? | Her feet. |
+| What | What is the color scheme of the living room in the image? | Beige. |
+| How | How is the woman standing in the image? | With her legs spread apart. |
+| How | How does the living room setting enhance the image's allure? | It provides a comfortable and relaxed atmosphere. |

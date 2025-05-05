@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are they both wearing white clothing? | No. |
+| Yes/No | Is the man shirtless? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the couple? | Yes. |
+| What | What is the woman wearing? | A white dress. |
+| What | What is the man wearing? | No shirt. |
+| How | How is the woman's head positioned? | Tilted back. |
+| How | How is the man's face positioned? | Pressed against the woman's. |

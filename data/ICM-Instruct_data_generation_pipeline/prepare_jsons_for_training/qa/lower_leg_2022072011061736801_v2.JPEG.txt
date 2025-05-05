@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the pattern on the shorts yellow and white birds? | Yes. |
+| Yes/No | Is the person's shirt white? | Yes. |
+| Yes/No | Are the person's sneakers black? | Yes. |
+| Yes/No | Is the image split into two halves? | Yes. |
+| Yes/No | Does the image capture a moment of casual confidence and sensuality? | Yes. |
+| What | What color are the shorts? | Blue. |
+| What | What is the person's pose in the image? | The person is standing with their legs apart. |
+| How | How are the shorts adorned? | The shorts are adorned with a pattern of yellow and white birds. |
+| How | How does the image emphasize the focus on the lower half of the person's body? | The image emphasizes the focus on the lower half of the person's body by contrasting the colorful shorts with the white shirt and black sneakers. |

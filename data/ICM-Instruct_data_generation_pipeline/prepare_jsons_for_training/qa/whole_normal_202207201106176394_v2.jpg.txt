@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Are the woman's legs crossed? | Yes. |
+| Yes/No | Is the woman wearing a yellow top? | Yes. |
+| Yes/No | Are the woman's leggings gray? | Yes. |
+| Yes/No | Is the image inappropriate or explicit? | No. |
+| Yes/No | Does the image contain any suggestive content? | No. |
+| What | What is the woman's facial expression? | Smiling. |
+| What | What is the woman's posture? | Relaxed, with legs crossed. |
+| How | How is the woman's smile perceived? | Friendly and positive. |
+| How | How would you describe the overall atmosphere of the image? | Calm and pleasant. |

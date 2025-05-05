@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a shirt? | Yes. |
+| Yes/No | Are the shorts gray in color? | Yes. |
+| Yes/No | Does the woman have a pocket on her shorts? | Yes. |
+| Yes/No | Is the woman holding her shorts up with her left hand? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| What | What is the color of the woman's shirt? | White. |
+| What | What is the background of the image? | A white wall and a plant. |
+| How | How is the woman holding her shorts up? | With her left hand. |
+| What | What does the woman's pose and the revealing nature of her shorts suggest? | Confidence and selfassuredness. |

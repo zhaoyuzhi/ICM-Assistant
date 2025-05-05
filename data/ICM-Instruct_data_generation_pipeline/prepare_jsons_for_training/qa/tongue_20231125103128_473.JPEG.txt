@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the woman's tongue sticking out? | Yes. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Is the woman wearing a blue and white striped shirt? | Yes. |
+| Yes/No | Does the image depict a playful and flirtatious gesture? | Yes. |
+| What | What color is the woman's shirt? | Blue and white striped. |
+| What | What is the woman's facial expression? | Serious. |
+| How | How is the woman's gesture playful and flirtatious? | The woman's tongue sticking out is playful and flirtatious. |
+| How | How does the image evoke a sense of intrigue and desire in the viewer? | The image evokes a sense of intrigue and desire through a combination of the woman's playful and flirtatious gesture, direct gaze, serious expression, and confident demeanor. |

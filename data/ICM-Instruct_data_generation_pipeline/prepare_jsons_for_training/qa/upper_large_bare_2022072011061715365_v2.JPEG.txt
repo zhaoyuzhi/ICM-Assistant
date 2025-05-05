@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a bikini top? | Yes. |
+| Yes/No | Does the woman have a large area of her upper body exposed? | Yes. |
+| Yes/No | Is the woman wearing a red wig? | Yes. |
+| Yes/No | Does the woman have a pink bow on her head? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| What | What is the woman wearing on her head? | A red wig and a pink bow. |
+| What | What is the woman's facial expression? | A smile. |
+| How | How is the woman posing in the image? | Seductively. |
+| How | How does the woman's appearance contribute to the overall atmosphere of the image? | It creates a visually appealing and seductive scene. |

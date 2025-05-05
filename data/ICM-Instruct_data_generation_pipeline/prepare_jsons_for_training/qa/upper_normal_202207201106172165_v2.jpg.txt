@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Is there a graphic design on the front of the t-shirt? | Yes. |
+| Yes/No | Does the graphic design feature a skull and a sword? | Yes. |
+| Yes/No | Is the man wearing a baseball cap? | Yes. |
+| Yes/No | Is the image low-key? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the man's pose in the image? | Neutral. |
+| What | What is the focus of the image? | The man and his black tshirt with the graphic design. |
+| How | How is the atmosphere of the image? | Calm and straightforward. |
+| How | How does the image lack elements that suggest a romantic or intimate context? | The image does not contain any closeup shots of the man's face or body, suggestive poses, or other objects or people that suggest a romantic or intimate context. |

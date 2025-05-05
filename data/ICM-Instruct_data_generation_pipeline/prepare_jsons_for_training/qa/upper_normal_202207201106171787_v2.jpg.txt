@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black coat? | Yes. |
+| Yes/No | Is the young girl in the image wearing a school uniform? | Yes. |
+| Yes/No | Are both the woman and the girl smiling in the image? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the image a professional or formal portrait? | Yes. |
+| Yes/No | Does the image depict a suggestive or provocative scene? | No. |
+| What | What is the woman wearing in the image? | A black coat adorned with a floral pattern. |
+| What | What is the young girl wearing in the image? | A school uniform. |
+| How | How are the woman and the girl posing in the image? | They are both smiling and creating a warm and friendly atmosphere. |
+| How | How would you describe the overall atmosphere of the image? | Warm, friendly, and formal. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image kneeling on the floor? | Yes. |
+| Yes/No | Is the person wearing a pair of shorts? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the shorts denim? | Yes. |
+| Yes/No | Are the shoes silver? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What color are the shorts? | Blue. |
+| What | What type of shoes is the person wearing? | Silver shoes. |
+| How | How does the person's attire suggest a casual, relaxed atmosphere? | The person is wearing a pair of denim shorts and a white shirt, which are casual and relaxed clothing items. |
+| How | How does the image capture a moment of personal expression and self-assuredness? | The person's pose and attire suggest a sense of vulnerability and confidence, which can be perceived as a moment of personal expression and selfassuredness. |

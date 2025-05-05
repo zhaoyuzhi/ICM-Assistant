@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sequin top? | Yes. |
+| Yes/No | Are the blue jeans in the image casual? | Yes. |
+| Yes/No | Is the combination of the sequin top and blue jeans in the image a classic style? | Yes. |
+| Yes/No | Does the woman in the image have her hand on her hip? | Yes. |
+| Yes/No | Is the image sexy because of the woman's pose and outfit? | Yes. |
+| Yes/No | Does the sequin top in the image shimmer? | Yes. |
+| What | What is the woman in the image wearing on her top? | A silver sequin top. |
+| What | What is the color of the jeans in the image? | Blue. |
+| How | How does the combination of the sequin top and blue jeans add an interesting visual element to the image? | The contrast between the shiny sequins and the casual denim adds an interesting visual element to the image. |
+| How | How does the woman's pose in the image contribute to the overall atmosphere? | The woman's pose with her hand on her hip adds a confident and seductive vibe to the image, contributing to the overall atmosphere of boldness and confidence. |

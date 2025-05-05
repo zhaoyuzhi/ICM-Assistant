@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige bandage on their left leg? | Yes. |
+| Yes/No | Is the person in the process of putting on black stockings? | Yes. |
+| Yes/No | Is the image sexy and alluring? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the person standing in front of a white bathtub? | Yes. |
+| Yes/No | Is the act of putting on stockings often associated with sensuality and allure? | Yes. |
+| What | What is the person in the image wearing on their left leg? | A beige bandage. |
+| What | What is the person in the image putting on? | Black stockings. |
+| How | How does the beige bandage on the person's leg add to the sense of intimacy in the image? | It reveals a personal detail about the person's body, making the image more intimate. |
+| How | How does the white bathtub in the background contribute to the overall atmosphere of the image? | It is often associated with relaxation and indulgence, which adds to the overall sexy and alluring atmosphere of the image. |
+| Yes/No | Is the person in the image putting on black stockings? | Yes. |
+| Yes/No | Is the person wearing a beige bandage on their left leg? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the person standing in front of a white bathtub? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with sensuality and allure? | Yes. |
+| Yes/No | Does the beige bandage on the person's leg reveal a personal detail about their body? | Yes. |
+| What | What is the person putting on? | Black stockings. |
+| What | What is the person standing in front of? | A white bathtub. |
+| How | How does the person's bandage contribute to the sense of intimacy in the image? | The beige bandage on the person's leg adds to the sense of intimacy by revealing a personal detail about their body, making the image more private and vulnerable. |
+| How | How does the white bathtub in the background contribute to the overall atmosphere of the image? | The white bathtub in the background contributes to the overall atmosphere of the image by creating a sense of relaxation and indulgence, which aligns with the sensual and alluring nature of the image. |

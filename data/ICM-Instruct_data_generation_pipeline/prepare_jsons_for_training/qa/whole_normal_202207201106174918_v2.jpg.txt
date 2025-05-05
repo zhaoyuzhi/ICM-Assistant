@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and orange jacket? | Yes. |
+| Yes/No | Is the woman in the image wearing black shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a black sports bra? | Yes. |
+| Yes/No | Is the woman in the image looking down at her feet? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image focus on the woman's body? | No. |
+| What | What is the woman in the image sitting on? | White floor. |
+| What | What is the dominant color of the woman's outfit in the image? | Black. |
+| How | How is the woman's posture in the image? | Crossed legs, looking down. |
+| How | How would you describe the overall atmosphere of the image? | Calm, focused on attire. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the dog in the image sitting next to the woman? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| Yes/No | Is the woman wearing a yellow shirt in the image? | Yes. |
+| Yes/No | Are there any citrus fruits nearby in the image? | Yes. |
+| Yes/No | Does the image convey a sense of companionship between the woman and the dog? | Yes. |
+| What | What is the woman wearing in the image? | Yellow shirt and pink shorts. |
+| What | What is the breed of dog in the image? | Not specified (large, shaggy dog). |
+| How | How is the woman positioned in the image? | Crosslegged. |
+| How | How does the image convey a sense of sensuality? | Woman's thighs are exposed, relaxed atmosphere, and woman's smile. |

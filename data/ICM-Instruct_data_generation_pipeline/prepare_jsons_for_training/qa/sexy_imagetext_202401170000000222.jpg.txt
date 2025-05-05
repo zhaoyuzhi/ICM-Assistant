@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Are the couple hugging each other? | Yes. |
+| Yes/No | Is the woman's head on the man's shoulder? | Yes. |
+| Yes/No | Are the couple smiling? | Yes. |
+| Yes/No | Is the atmosphere of the image warm and intimate? | Yes. |
+| What | What is the woman's position in relation to the man? | The woman's head is on the man's shoulder. |
+| What | What is the overall atmosphere of the image? | Warm and intimate. |
+| How | How are the couple's body language and physical closeness depicted in the image? | The couple is depicted in a close and intimate embrace, with the woman's head on the man's shoulder and both of them smiling. |
+| How | How does the image convey a sense of happiness and contentment? | The couple's smiles and body language convey a sense of happiness and contentment. |

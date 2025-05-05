@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked from their thighs to their ankles? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the person standing against the background? | Yes. |
+| Yes/No | Is the person's posture neutral? | Yes. |
+| Yes/No | Is the person facing the camera directly? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the person's gender? | The person's gender cannot be determined from the description. |
+| What | What is the person's facial expression? | The person's facial expression is neutral. |
+| How | How does the absence of clothing contribute to the image's overall feeling of intimacy and vulnerability? | The absence of clothing accentuates the person's body, creating a sense of exposure and vulnerability. |
+| How | How does the direct gaze of the person contribute to the image's overall feeling of intimacy and vulnerability? | The direct gaze of the person creates a sense of connection and intimacy between the subject and the viewer, emphasizing the vulnerability of the person. |

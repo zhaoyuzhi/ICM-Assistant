@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Are the person's legs spread apart in the image? | Yes. |
+| Yes/No | Is the person's body facing the viewer in the image? | Yes. |
+| Yes/No | Does the image create an intimate atmosphere? | Yes. |
+| Yes/No | Does the image create a sense of vulnerability? | Yes. |
+| Yes/No | Is the image suggestive? | Yes. |
+| What | What is the person in the image wearing? | A white dress and white stockings. |
+| What | What is the overall atmosphere of the image? | Intimate and suggestive. |
+| How | How is the person's body positioned in the image? | The person's knees are bent, and their legs are spread apart. |
+| How | How does the image create a sense of vulnerability? | The person's legs are spread apart, and their head is not visible, creating a sense of exposure and vulnerability. |

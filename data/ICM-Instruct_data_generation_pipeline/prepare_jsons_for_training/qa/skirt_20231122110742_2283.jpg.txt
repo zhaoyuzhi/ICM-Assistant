@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Is the dress white? | Yes. |
+| Yes/No | Does the dress have a flowing design? | Yes. |
+| Yes/No | Are there blue flowers on the dress? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's gesture in the image? | She is lifting her dress. |
+| What | What is the color of the flowers on the dress? | Blue. |
+| How | How does the woman's actions and attire create an atmosphere? | The woman's actions and attire create an atmosphere of sensuality and allure. |
+| How | How does the gray curtain in the background enhance the image? | The gray curtain in the background further enhances the focus on the woman and her actions, making the image more captivating and seductive. |

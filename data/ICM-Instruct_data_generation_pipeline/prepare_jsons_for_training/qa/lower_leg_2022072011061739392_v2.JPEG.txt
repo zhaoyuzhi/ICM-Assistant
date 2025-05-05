@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image walking? | Yes. |
+| Yes/No | Is the person in the image wearing shoes? | No. |
+| Yes/No | Is the road in the image cracked? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the person in the image wearing on their lower body? | Black shorts. |
+| What | What is the person in the image walking on? | A cracked road. |
+| How | How is the person in the image moving? | Towards the right side of the image. |
+| How | How would you describe the atmosphere of the image? | Casual, relaxed, sensual, intimate, and intriguing. |

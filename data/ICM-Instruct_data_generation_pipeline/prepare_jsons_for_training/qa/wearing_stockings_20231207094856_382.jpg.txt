@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's shorts black? | Yes. |
+| Yes/No | Is the person holding white stockings with their left hand? | Yes. |
+| Yes/No | Is the person pulling the stocking up their left leg with their right hand? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the person have a vulnerable and sensual moment? | Yes. |
+| What | What color is the blanket on the bed? | Pink and white striped. |
+| What | What is the person doing in the image? | Putting on white stockings. |
+| How | How is the person holding the stockings? | With their left hand. |
+| How | How are the person's legs and feet exposed? | The person is pulling the stocking up their left leg. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person putting on white stockings? | Yes. |
+| Yes/No | Is the bed covered with a pink and white striped blanket? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the person's left hand holding the stockings? | Yes. |
+| What | What is the person in the image putting on? | White stockings. |
+| What | What color is the blanket on the bed? | Pink and white striped. |
+| How | How is the person holding the stockings? | With their left hand. |
+| How | How are they pulling the stocking up their leg? | With their right hand. |

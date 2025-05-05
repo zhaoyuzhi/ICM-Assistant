@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants white? | Yes. |
+| Yes/No | Is the person lifting their shirt? | Yes. |
+| Yes/No | Are the person's undergarments visible? | Yes. |
+| Yes/No | Is the image a collage of four photos? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person wearing around their waist? | A brown belt. |
+| What | What is the color of the person's undergarments? | The color of the undergarments is not specified in the description, but they are visible. |
+| How | How many photos are included in the collage? | Four. |
+| How | How does the person's choice of clothing contribute to the overall aesthetic of the image? | The white color of the person's clothing creates a contrast with their exposed undergarments, enhancing the sexy atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Does the top have a ruffled collar? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman striking a pose with her hands on her hips? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's top? | Green and white. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How does the ruffled collar add to the woman's outfit? | It adds a touch of elegance. |
+| How | How do the blue jeans complement the woman's top? | They add a casual yet stylish element. |

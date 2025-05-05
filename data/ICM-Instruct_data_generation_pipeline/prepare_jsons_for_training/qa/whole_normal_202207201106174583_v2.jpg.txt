@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the man in the image have short hair? | Yes. |
+| Yes/No | Is the room furnished with a couch? | Yes. |
+| Yes/No | Is the room furnished with a dining table? | Yes. |
+| Yes/No | Is the image revealing any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the man sitting on in the image? | A chair. |
+| What | What is the color of the man's shirt in the image? | Black. |
+| How | How is the man sitting in the chair? | In a relaxed position. |
+| How | How does the low exposure level of the image affect the focus of the image? | It ensures the focus remains on the man and the room's interior, rather than any potential innuendos or provocative elements. |

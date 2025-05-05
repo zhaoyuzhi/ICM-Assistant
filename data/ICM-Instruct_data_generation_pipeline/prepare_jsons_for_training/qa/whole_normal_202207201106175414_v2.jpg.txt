@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main focus of the image? | No. |
+| Yes/No | Is the woman wearing a black and white checkered sweater? | Yes. |
+| Yes/No | Are the woman's pants black? | Yes. |
+| Yes/No | Does the image suggest a sexual context? | No. |
+| Yes/No | Is the woman in a suggestive or provocative pose? | No. |
+| Yes/No | Does the image feature any elements that suggest a sexual context? | No. |
+| What | What is the woman's position in the image? | Left side. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| How | How is the woman standing in the image? | Standing against a white background. |
+| How | How would you describe the exposure level of the image? | Low exposure level. |

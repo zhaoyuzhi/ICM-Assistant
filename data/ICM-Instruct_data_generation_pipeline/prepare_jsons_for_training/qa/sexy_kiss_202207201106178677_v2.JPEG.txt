@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the woman wearing a white wedding dress? | Yes. |
+| Yes/No | Is the man wearing a white suit with a pink bow tie? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and romance? | Yes. |
+| What | What is the woman doing in the image? | Kissing the man's face. |
+| What | What is the man wearing? | A white suit with a pink bow tie. |
+| How | How is the woman's head tilted in the image? | Back. |
+| How | How does the blurred background affect the image? | It puts the emphasis on the couple, making their kiss the central focus. |

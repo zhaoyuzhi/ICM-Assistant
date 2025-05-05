@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image sitting on a white chair? | Yes. |
+| Yes/No | Is the woman in the image holding a book? | Yes. |
+| Yes/No | Is the woman's underwear matching her bra? | Yes. |
+| Yes/No | Is the image sensual? | Yes. |
+| Yes/No | Does the woman's pose suggest intimacy? | Yes. |
+| What | What is the woman holding? | A book. |
+| What | What color is the chair? | White. |
+| How | How is the woman holding the book? | Over her head. |
+| How | How would you describe the woman's pose? | Playful and confident. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the woman's legs visible in the image? | Yes. |
+| Yes/No | Is the woman standing in front of a white door? | Yes. |
+| Yes/No | Does the image depict a sexy scene? | Yes. |
+| Yes/No | Is the contrast between the black dress and white door visually striking? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and self-assuredness? | Yes. |
+| What | What is the woman lifting up in the image? | Her dress. |
+| What | What is the color of the door in the image? | White. |
+| How | How does the woman's pose contribute to the image's allure? | It creates a sense of sensuality and confidence. |
+| How | How does the contrast between the black dress and white door enhance the image's allure? | It creates a visually striking scene that draws the viewer's attention. |

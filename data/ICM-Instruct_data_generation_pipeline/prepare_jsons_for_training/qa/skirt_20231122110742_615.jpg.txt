@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman lifting her dress in the image? | Yes. |
+| Yes/No | Is the woman wearing a necklace in the image? | Yes. |
+| Yes/No | Does the image have a sexy and alluring atmosphere? | Yes. |
+| Yes/No | Is the door behind the woman a mirrored door? | Yes. |
+| Yes/No | Are the woman's legs and thighs exposed in the image? | Yes. |
+| What | What is the woman lifting her dress with? | Her hands. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How is the woman standing in relation to the door? | She is standing in front of it. |
+| How | How does the mirror on the door enhance the atmosphere of the image? | It reflects the woman and the surrounding environment, adding depth and intrigue. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Are the leggings colored in shades of purple, pink, and white? | Yes. |
+| Yes/No | Does the gradient pattern on the leggings transition from one color to another? | Yes. |
+| Yes/No | Are the sneakers black and white in color? | Yes. |
+| Yes/No | Is the person's pose confident and assertive? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the main color of the leggings? | Purple. |
+| What | What is the person's pose in the image? | Hands on hips. |
+| How | How does the gradient pattern on the leggings add to the image? | It adds depth and visual interest. |
+| How | How does the person's pose contribute to the atmosphere of the image? | It suggests selfassuredness and confidence, contributing to an atmosphere of allure and seduction. |

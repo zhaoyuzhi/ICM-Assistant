@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the person's sleeves short? | Yes. |
+| Yes/No | Is the person wearing black pants? | Yes. |
+| Yes/No | Is the background of the image a mirror reflecting the person and a white wall? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the person's attire appear to be sexy? | No. |
+| What | What is the person wearing? | A white blouse with a high neckline and short sleeves, and black pants. |
+| What | What is the texture of the fabric of the blouse? | Textured. |
+| How | How is the person standing in front of the mirror? | Not specified in the description. |
+| How | How does the low exposure level of the image emphasize the modesty of the person's attire? | By only showing the person's upper body and creating a sense of simplicity and conservatism. |

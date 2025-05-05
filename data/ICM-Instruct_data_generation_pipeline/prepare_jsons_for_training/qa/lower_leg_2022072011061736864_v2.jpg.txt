@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of black socks? | Yes. |
+| Yes/No | Is the person holding a small purse in their hand? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a blue denim jacket? | Yes. |
+| Yes/No | Are the black socks and shoes contrasting with the light-colored background? | Yes. |
+| Yes/No | Does the image feature a pink and white checkered pattern in the background? | Yes. |
+| What | What color is the person's jacket? | Blue. |
+| What | What is the person holding in their hand? | A small purse. |
+| How | How are the person's arms positioned? | Resting on their knees. |
+| How | How is the person sitting? | With their legs crossed. |

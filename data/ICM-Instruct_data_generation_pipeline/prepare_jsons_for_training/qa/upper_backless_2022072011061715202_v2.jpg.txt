@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Are the person's earrings visible in the image? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| Yes/No | Does the image evoke feelings of desire or longing? | Yes. |
+| What | What is the person's attire in the image? | A pink and white bikini top. |
+| What | What is the person's posture in the image? | Facing away from the camera with their back exposed. |
+| How | How is the person's attire tied at the back? | It is tied with a bow. |
+| How | How does the image create a sense of mystery and allure? | The person's facing away from the camera and their back is exposed, leaving the viewer to imagine what they might look like from the front. |

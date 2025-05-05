@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light blue? | Yes. |
+| Yes/No | Is the woman holding the cups of the bra with her hands? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman's expression focused? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a light blue bra. |
+| What | What color is the bra the woman is wearing? | Light blue. |
+| How | How is the woman adjusting the bra? | She is holding the cups with her hands. |
+| How | How does the image create a sexy atmosphere? | The image creates a sexy atmosphere through the use of the color light blue, the act of putting on a bra, and the focused expression of the woman. Additionally, the closeup nature of the image enhances the sensual and intimate feeling. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light blue? | Yes. |
+| Yes/No | Is the woman adjusting the cups of the bra with her hands? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra the woman is wearing? | Light blue. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| How | How is the woman adjusting the cups of the bra? | She is holding them with her hands and adjusting them. |
+| What | What atmosphere does the image create? | A sensual and alluring atmosphere. |

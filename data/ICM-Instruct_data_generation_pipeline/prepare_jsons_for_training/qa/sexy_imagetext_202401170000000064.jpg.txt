@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a sweatshirt with the letters "NYC" on it? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Is the woman looking at the man? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the man have a suggestive expression on his face? | No. |
+| Yes/No | Is there a sense of intimacy and allure in the image? | Yes. |
+| What | What is the woman's facial expression? | Attentive. |
+| What | What is the color of the sweatshirt the man is wearing? | Gray. |
+| How | How is the woman looking at the man? | With interest. |
+| How | How is the man standing in relation to the woman? | Close to her. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a colorful shirt? | Yes. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the person posing in a provocative manner? | No. |
+| Yes/No | Is there explicit nudity or suggestive clothing in the image? | No. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the person's outfit in the image? | A colorful shirt and shorts. |
+| What | What is the person's pose in the image? | Standing on a stone wall and looking down. |
+| How | How is the person's face depicted in the image? | The person's face is not visible due to the low exposure level. |
+| How | How does the low exposure level and casual attire contribute to the image's atmosphere? | They contribute to a nonsexy and relaxed atmosphere. |

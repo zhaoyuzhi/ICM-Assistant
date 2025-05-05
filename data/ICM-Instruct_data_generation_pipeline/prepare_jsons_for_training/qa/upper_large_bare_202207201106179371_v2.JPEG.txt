@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top striped? | Yes. |
+| Yes/No | Is the bikini bottom yellow? | Yes. |
+| Yes/No | Is the woman posing confidently? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the stripes on the bikini top? | Yellow, pink, and blue. |
+| What | What is the color of the woman's bikini bottom? | Yellow. |
+| How | How is the woman posing in the image? | She is striking a confident pose, with her left hand resting on her hip and her right hand lightly touching her thigh. |
+| How | How does the background serve to highlight the woman and her attire? | The simple white wall serves to highlight the woman and her colorful attire, making her stand out and drawing attention to her. |

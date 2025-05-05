@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a tank top? | Yes. |
+| Yes/No | Is the tank top beige in color? | Yes. |
+| Yes/No | Does the woman have a silver necklace on? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What color is the tank top the woman is wearing? | Beige. |
+| What | What kind of necklace is the woman wearing? | Silver. |
+| How | How is the woman's breast exposed in the image? | The woman is deliberately showing the curve of her breast. |
+| How | How does the plunging neckline of the tank top add to the overall atmosphere of the image? | It creates a sense of intimacy and allure. |

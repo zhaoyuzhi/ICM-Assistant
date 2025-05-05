@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a suit and tie? | Yes. |
+| Yes/No | Is the woman looking at the man's chest? | Yes. |
+| Yes/No | Is the man's shirt open? | Yes. |
+| Yes/No | Is the image set in a formal or professional setting? | Yes. |
+| Yes/No | Does the image convey a sense of attraction and desire between the two characters? | Yes. |
+| Yes/No | Does the woman's question, "Brother, why are you so powerful?" add an element of mystery and intrigue to the image? | Yes. |
+| What | What is the man's shirt open? | His shirt is open, revealing his chest. |
+| What | What is the woman looking at? | The woman is looking at the man's chest. |
+| How | How is the man's shirt open? | The man's shirt is open, suggesting that he has unbuttoned it himself or that someone else has done so. |
+| How | How is the woman looking at the man's chest? | The woman is looking at the man's chest with interest and desire, suggesting that she is attracted to him. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pair of pink trousers? | Yes. |
+| Yes/No | Does the woman's blouse match her pants? | Yes. |
+| Yes/No | Is the woman wearing a black watch? | Yes. |
+| Yes/No | Are the woman's hands placed on her hips? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What color are the woman's trousers? | Pink. |
+| What | What is the woman wearing on her wrist? | A black watch. |
+| How | How is the woman's blouse tucked into her pants? | Neatly and tidily. |
+| How | How does the bow on the woman's pants add to her outfit? | It adds a touch of elegance and femininity. |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pair of pink trousers? | Yes. |
+| Yes/No | Does the woman have a bow on the front of her trousers? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the blouse tucked into the trousers? | Yes. |
+| Yes/No | Is the woman wearing a black watch on her left wrist? | Yes. |
+| What | What color are the trousers? | Pink. |
+| What | What is the woman wearing on her left wrist? | A black watch. |
+| How | How is the woman standing in the image? | She is standing against a plain white background. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and professional. |

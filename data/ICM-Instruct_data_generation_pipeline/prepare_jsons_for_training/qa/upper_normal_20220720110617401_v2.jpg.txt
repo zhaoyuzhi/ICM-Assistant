@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the woman have a blue logo on her shirt? | Yes. |
+| Yes/No | Is the woman sitting on a chair in a mall? | Yes. |
+| Yes/No | Is the background of the image a blue wall and a white ceiling? | Yes. |
+| Yes/No | Is the woman looking downwards in the image? | Yes. |
+| Yes/No | Does the image have a low-exposure? | Yes. |
+| What | What is the woman doing with her hand in the image? | The woman has her hand on her chin. |
+| What | What is the focus of the image? | The focus of the image is on the woman's clothing and posture. |
+| How | How is the woman's pose in the image? | The woman is sitting on a chair with her posture relaxed. |
+| How | How would you describe the atmosphere of the image? | The atmosphere of the image is calm and relaxed. |

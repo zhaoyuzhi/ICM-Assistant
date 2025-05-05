@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman taking off her clothes? | Yes. |
+| Yes/No | Is the setting of the image a beach? | Yes. |
+| Yes/No | Is the image taken at night? | Yes. |
+| Yes/No | Is the woman wearing a black bra? | Yes. |
+| Yes/No | Is the woman wearing green shorts? | Yes. |
+| What | What color is the woman's bra? | Black. |
+| What | What color are the woman's shorts? | Green. |
+| How | How does the woman's actions and the environment evoke feelings? | It evokes feelings of sensuality and desire. |
+| What | What does the darkness of the night and the ocean in the background create? | It creates a sense of mystery and allure. |

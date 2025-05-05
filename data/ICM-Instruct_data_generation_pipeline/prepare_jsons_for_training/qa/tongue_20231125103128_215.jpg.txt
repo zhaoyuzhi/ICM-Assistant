@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have a pop of color on her lips? | Yes. |
+| Yes/No | Is the woman looking upwards? | Yes. |
+| Yes/No | Does the woman have a slight smile on her face? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image suggest a relaxed and intimate setting? | Yes. |
+| What | What color is the woman's lipstick? | Pink. |
+| What | What is the woman's expression? | Playful and flirtatious. |
+| How | How does the woman's body language come across? | Confident and inviting. |
+| How | How does the overall atmosphere of the image feel? | Relaxed and intimate. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person's facial expression serious? | Yes. |
+| Yes/No | Are the person's eyes visible in the image? | No. |
+| Yes/No | Is the lipstick bold and red? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the act of biting the lip add to the overall allure of the image? | Yes. |
+| What | What is the color of the lipstick? | Red. |
+| What | What is the color of the surrounding skin? | Light pink. |
+| How | How does the close-up of the lips create a sense of intimacy? | It emphasizes the lips and creates a sense of closeness. |
+| How | How does the serious expression contribute to the overall atmosphere of the image? | It adds a sense of mystery and intrigue. |

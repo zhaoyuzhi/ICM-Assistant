@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a maroon t-shirt with a graphic design? | Yes. |
+| Yes/No | Does the graphic design depict a cityscape with a tall building and a ferris wheel? | Yes. |
+| Yes/No | Is the woman carrying a beige purse? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the woman's attire or the setting suggest a sexual context or behavior? | No. |
+| What | What is the main focus of the image? | The woman and her surroundings. |
+| What | What is the color of the woman's t-shirt? | Maroon. |
+| How | How is the woman standing in relation to the bookshelf? | She is standing in front of it. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the woman and her environment, rather than her physical appearance. |

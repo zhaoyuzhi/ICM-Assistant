@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the woman in the image have long hair? | Yes. |
+| Yes/No | Is the dress black and white? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the woman in the image wearing? | A black and white floral dress. |
+| What | What is the overall atmosphere of the image? | Friendly and approachable. |
+| How | How is the woman's hair styled in the image? | Not specified in the description. |
+| How | How does the low exposure level affect the image? | It emphasizes the focus on the woman's facial expression and the overall composition of the image, rather than her physical appearance. |

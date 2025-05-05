@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked from the thighs down to the ankles? | Yes. |
+| Yes/No | Is the person wearing a pair of shorts? | Yes. |
+| Yes/No | Are the shorts green in color? | Yes. |
+| Yes/No | Is the person wearing a pair of white sneakers? | Yes. |
+| Yes/No | Are the person's arms by their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| What | What color are the shorts? | Green. |
+| What | What type of shoes is the person wearing? | White sneakers. |
+| How | How is the person standing? | With their arms to their sides and legs slightly apart. |
+| What | What is the overall atmosphere of the image? | Sexy. |

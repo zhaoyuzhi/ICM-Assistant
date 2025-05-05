@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman holding a red phone in her right hand? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman's pose in the image seductive? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and allure? | Yes. |
+| What | What color is the phone in the woman's hand? | Red. |
+| What | What is the woman's hair style? | Long. |
+| How | How is the woman posing in the image? | Seductively. |
+| How | How does the white top contrast with the red phone? | The white top contrasts with the red phone by creating a visual contrast that draws attention to the woman's body and the curve of her breast. |

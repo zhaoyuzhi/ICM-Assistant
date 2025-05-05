@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting? | Yes. |
+| Yes/No | Is the man in the image sitting? | Yes. |
+| Yes/No | Are the woman's legs spread in the image? | Yes. |
+| Yes/No | Is the man positioned in front of the woman? | Yes. |
+| Yes/No | Is the slogan "Be good and call me husband" displayed in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A white shirt and a black skirt. |
+| What | What is the man wearing in the image? | A black shirt. |
+| How | How is the woman positioned in the image? | She is sitting on a chair with her legs spread. |
+| How | How is the man positioned in the image? | He is sitting on a chair in front of the woman. |

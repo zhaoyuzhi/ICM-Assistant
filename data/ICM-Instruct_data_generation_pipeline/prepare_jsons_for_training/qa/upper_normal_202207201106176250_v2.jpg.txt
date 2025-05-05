@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image focused on the women's actions? | Yes. |
+| Yes/No | Are the women wearing dark jackets? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Are the women holding objects? | Yes. |
+| Yes/No | Is the image's atmosphere sexy? | No. |
+| Yes/No | Do the women have long hair? | Yes. |
+| What | What are the women holding? | Box of tissues, bag of tissues. |
+| What | What is the focus of the image? | The two women and their actions. |
+| How | How are the women dressed? | They are wearing dark jackets. |
+| How | How is the image lit? | The exposure level of the image is very low. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lifting her shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing blue shorts? | Yes. |
+| Yes/No | Is the woman in the image kneeling on a green carpeted floor? | Yes. |
+| Yes/No | Is the image atmosphere sexy? | Yes. |
+| Yes/No | Does the woman's pose and the way she is looking at the camera enhance the sexy atmosphere of the image? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| What | What is the woman lifting her shirt and shorts? | Her clothes. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How is the woman kneeling on the floor? | On her knees. |
+| How | How does the woman's pose and the way she is looking at the camera enhance the sexy atmosphere of the image? | The pose and the way she is looking at the camera create a sensual and alluring effect. |

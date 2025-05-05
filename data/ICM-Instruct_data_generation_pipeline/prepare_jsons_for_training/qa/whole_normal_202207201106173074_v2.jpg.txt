@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Are blue leggings visible in the image? | Yes. |
+| Yes/No | Is the woman holding a phone in her hand? | Yes. |
+| Yes/No | Is the image a selfie? | Maybe. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the woman doing in the image? | Possibly taking a selfie. |
+| What | What is the focus of the camera in the image? | The woman's actions and the surrounding environment. |
+| How | How is the woman sitting on the floor? | The woman is sitting on the wooden floor with her legs crossed. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level emphasizes the focus on the woman's actions and the environment rather than her appearance, creating a nonsexy atmosphere. |

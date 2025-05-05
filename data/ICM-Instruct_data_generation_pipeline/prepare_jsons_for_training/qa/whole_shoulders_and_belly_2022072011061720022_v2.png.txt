@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the woman in the image walking on a street? | Yes. |
+| How | Does the woman's outfit show her midriff? | Yes. |
+| Yes/No | Is the woman's skirt high-waisted? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman holding in her hand? | A purse. |
+| How | How is the woman's skirt styled? | Highwaisted. |
+| What | What is the woman's confident stride contributing to? | The overall sexy atmosphere of the image. |

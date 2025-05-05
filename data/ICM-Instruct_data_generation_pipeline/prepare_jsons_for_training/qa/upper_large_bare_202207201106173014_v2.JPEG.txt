@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman's hair styled in a messy bun? | Yes. |
+| Yes/No | Is the woman standing on a rocky beach? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence? | Yes. |
+| What | What is the woman's attire in the image? | Bikini top and shorts. |
+| What | What is the style of the woman's hairstyle? | Messy bun. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's bikini top and shorts, along with her messy bun hairstyle, create an alluring and seductive atmosphere. |
+| How | How does the background of the image contrast with the woman's appearance? | The rocky beach and ocean in the background add a natural and rugged element to the scene, which contrasts with the woman's stylish and confident appearance. |

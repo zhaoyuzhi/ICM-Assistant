@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image an advertisement? | Yes. |
+| Yes/No | Does the advertisement feature a woman? | Yes. |
+| Yes/No | Is the woman holding a wine bottle? | Yes. |
+| Yes/No | Are the woman's clothes revealing? | Yes. |
+| Yes/No | Does the image suggest a sexual theme? | Yes. |
+| Yes/No | Does the advertisement include a city setting? | Yes. |
+| What | What is the woman holding in the image? | A wine bottle. |
+| What | What is the symbolism of the wine bottle in the image? | Indulgence and sensuality. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | It adds to the seductive and provocative nature of the image. |
+| How | How does the city setting contribute to the overall atmosphere of the image? | It suggests a sense of glamour and sophistication. |

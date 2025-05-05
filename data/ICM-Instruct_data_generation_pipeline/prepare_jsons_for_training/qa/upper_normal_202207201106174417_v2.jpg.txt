@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the person in the image seated in front of a computer monitor? | Yes. |
+| Yes/No | Is the person in the image eating a sandwich? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the person in the image wearing? | A black jacket. |
+| What | What is the person in the image eating? | A sandwich. |
+| How | How is the person in the image seated? | In front of a computer monitor. |
+| How | How would you describe the overall atmosphere of the image? | Casual and informal. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the shirt wet and dripping with water? | Yes. |
+| Yes/No | Is the person flexing their arm? | Yes. |
+| Yes/No | Is the image set on a street? | Yes. |
+| Yes/No | Is there a building visible in the background? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability and confidence? | Yes. |
+| What | What is the color of the person's shirt? | Black. |
+| What | What is the person doing with their arm? | Flexing. |
+| How | How does the wet fabric of the shirt add to the image? | It adds a sense of intimacy and sensuality. |
+| How | How does the image convey a sense of urban setting? | The presence of a building in the background suggests an urban setting. |

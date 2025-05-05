@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the dress made of lace? | Yes. |
+| Yes/No | Does the dress have a train? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Is the cityscape in the background? | Yes. |
+| What | What is the person's attire? | A white lace dress with a low back and train. |
+| What | What is the setting of the image? | A balcony overlooking a cityscape. |
+| How | How does the dress contribute to the image's overall atmosphere? | The white dress with a low back and train creates an alluring and seductive appearance. |
+| How | How does the cityscape in the background enhance the image's atmosphere? | The cityscape adds an element of sophistication and intrigue to the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young man? | Yes. |
+| Yes/No | Does the young man have red hair? | Yes. |
+| Yes/No | Is the young man wearing a white shirt? | Yes. |
+| Yes/No | Is the young man lifting his shirt up? | Yes. |
+| Yes/No | Are earphones visible in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the young man lifting his shirt up to reveal? | His chest. |
+| What | What does the white shirt add to the overall aesthetic of the image? | Visual appeal. |
+| How | How is the young man exposing his chest? | By lifting his shirt up. |
+| How | How does the image capture the viewer's attention? | Through the combination of the young man's actions and attire. |

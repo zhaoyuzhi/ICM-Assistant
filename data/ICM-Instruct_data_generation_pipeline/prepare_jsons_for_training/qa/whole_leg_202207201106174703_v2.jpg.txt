@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman standing on a staircase? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the woman's arms crossed in front of her body? | Yes. |
+| Yes/No | Are the woman's legs slightly apart? | Yes. |
+| Yes/No | Is the staircase white? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What color are the woman's socks? | Pink. |
+| How | How is the woman standing on the staircase? | With her arms crossed and legs slightly apart. |
+| How | How does the woman's pose and attire create an atmosphere? | Confidence and allure. |

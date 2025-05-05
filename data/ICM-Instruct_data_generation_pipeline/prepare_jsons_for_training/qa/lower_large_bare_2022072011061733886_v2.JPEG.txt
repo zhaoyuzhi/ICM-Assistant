@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing underwear? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Are the person's legs crossed at the ankles? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| How | Does the image showcase the person's face? | No. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| What | What color are the underwear the person is wearing? | Gray. |
+| What | What is the color of the sheets on the bed? | White. |
+| How | How are the person's legs positioned in the image? | The person's legs are crossed at the ankles, and their feet are positioned towards the bottom of the bed. |
+| How | How does the image showcase the person's lower body? | The image showcases the person's lower body in a closeup, intimate view. |

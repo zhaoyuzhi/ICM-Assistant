@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is the person's right foot on the bed? | Yes. |
+| Yes/No | Is the image creating a sexy atmosphere? | Yes. |
+| Yes/No | Are stockings typically associated with intimacy and sensuality? | Yes. |
+| What | What is the person holding with their left hand? | The stocking. |
+| What | What color are the person's shorts? | Black. |
+| How | How is the person putting on the stockings? | They are holding the stocking with their left hand while their right foot is on the bed. |
+| What | What is the overall atmosphere created by the image? | An atmosphere of allure and intrigue. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's shorts black? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is the person's right foot on the bed? | Yes. |
+| Yes/No | Is the person holding the stocking with their left hand? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What color are the person's shorts? | Black. |
+| What | What is the person holding in their left hand? | A stocking. |
+| How | How is the person putting on the stocking? | They are holding the stocking with their left hand while their right foot is on the bed. |
+| What | What feeling does the image convey? | An atmosphere of allure and intrigue. |

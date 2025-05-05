@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image feature a plain white background? | Yes. |
+| Yes/No | Is the man's hair styled in a side part? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and attraction? | Yes. |
+| Yes/No | Is the man's upper body exposed in the image? | Yes. |
+| What | What is the man in the image wearing on his lower body? | Black underwear. |
+| What | What is the man's facial expression in the image? | Slight smile. |
+| How | How is the man's hair styled in the image? | Side part. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the man and emphasizes his shirtlessness, adding an element of intimacy and vulnerability to the image. |

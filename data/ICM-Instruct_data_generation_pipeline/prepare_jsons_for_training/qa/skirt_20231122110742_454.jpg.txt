@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the dress flowing and made of a shiny material? | Yes. |
+| Yes/No | Is the woman holding the dress up with her left hand? | Yes. |
+| Yes/No | Are high heels visible in the image? | Yes. |
+| Yes/No | Is the living room in the background gray and white? | Yes. |
+| Yes/No | Does the image create a sense of intimacy? | Yes. |
+| What | What color is the couch in the living room? | Gray. |
+| What | What is the woman wearing on her feet? | High heels. |
+| How | How is the woman holding her dress up? | With her left hand. |
+| How | How does the image create a sense of intimacy? | By revealing the woman's legs and creating a sense of vulnerability. |

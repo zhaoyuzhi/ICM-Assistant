@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting on a bed? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are black stockings being worn by the woman? | Yes. |
+| Yes/No | Is the bed covered with a blue and white patterned blanket? | Yes. |
+| Yes/No | Is the cat-shaped pillow a playful element in the scene? | Yes. |
+| Yes/No | Does the image have a cozy and inviting atmosphere? | Yes. |
+| What | What is the woman doing in the image? | Putting on black stockings. |
+| What | What is the color of the blanket covering the bed? | Blue and white. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's black stockings add a sense of intimacy and sensuality to the image, which combines with the cozy atmosphere to create a sexy feel. |
+| How | How does the cat-shaped pillow add to the overall atmosphere of the image? | The catshaped pillow adds a playful and whimsical element to the scene, contrasting with the sensuality of the woman's attire and enhancing the overall allure of the image. |
+| Yes/No | Is the woman in the image sitting on a bed? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are black stockings being worn by the woman? | Yes. |
+| Yes/No | Is the bed covered with a blue and white patterned blanket? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's left foot already in the black shoe? | Yes. |
+| What | What is the woman in the image putting on? | Black stockings. |
+| What | What is the shape of the pillow on the bed? | Catshaped. |
+| How | How is the overall atmosphere of the image? | Cozy and inviting. |
+| How | How does the woman's focused expression while putting on the stockings add to the image's allure? | It adds a sense of anticipation and intrigue, enhancing the sexy feel of the image. |

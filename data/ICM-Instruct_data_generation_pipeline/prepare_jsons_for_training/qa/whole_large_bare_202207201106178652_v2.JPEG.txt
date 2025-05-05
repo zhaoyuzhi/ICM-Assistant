@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Are all the women in the image wearing bikinis? | Yes. |
+| Yes/No | Is the woman in the foreground lying on her stomach? | Yes. |
+| Yes/No | Are the other women in the image lying on their backs? | Yes. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the bikini worn by the woman in the foreground? | Gold. |
+| What | What is the pose of the woman in the foreground? | Lying on her stomach with her hands behind her head. |
+| How | How many women are in the image? | Several (at least 4). |
+| How | How are the other women in the image positioned? | Lying on their backs with their legs extended straight. |

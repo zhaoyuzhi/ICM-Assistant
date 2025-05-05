@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple and white sports outfit? | Yes. |
+| Yes/No | Is the woman in a squatting position? | Yes. |
+| Yes/No | Are her hands on her knees? | Yes. |
+| Yes/No | Is the background a plain white wall? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman looking down? | Yes. |
+| What | What color are the woman's sneakers? | White. |
+| What | What color is the woman's sports bra and leggings? | Purple. |
+| How | How is the woman's posture in the image? | She is squatting and looking down. |
+| How | How does the plain white wall in the background affect the image? | It puts the focus entirely on the woman and her actions, making the image even more captivating. |

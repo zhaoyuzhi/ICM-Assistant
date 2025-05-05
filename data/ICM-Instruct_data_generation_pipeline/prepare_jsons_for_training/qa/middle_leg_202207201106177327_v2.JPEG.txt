@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Does the skirt have a pleated design? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Do the blouse's sleeves have ruffles? | Yes. |
+| Yes/No | Is the woman holding a black purse? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| What | What is the woman's pose in the image? | She has her hand on her hip. |
+| What | What is the name of the plant in the background of the image? | The plant is not specified in the description. |
+| How | How does the high-waisted skirt and ruffled blouse create a silhouette? | They create a silhouette that is both stylish and flattering. |
+| How | How does the woman's pose add to the atmosphere of the image? | Her pose, with her hand on her hip, adds a touch of sassiness and allure to the image. |

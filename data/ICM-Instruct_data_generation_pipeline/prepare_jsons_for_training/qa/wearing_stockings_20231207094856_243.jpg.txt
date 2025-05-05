@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Is the person lying on a gray blanket? | Yes. |
+| Yes/No | Is the person wearing a black bra? | Yes. |
+| Yes/No | Does the image portray an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Is the person's hand on their thigh? | Yes. |
+| Yes/No | Are stockings often associated with a seductive and alluring appearance? | Yes. |
+| What | What color are the stockings the person is wearing? | Beige. |
+| What | What is the color of the blanket the person is lying on? | Gray. |
+| How | How does the person's pose enhance the sensuality of the image? | The person's hand on their thigh enhances the sensuality of the image. |
+| How | How does the overall atmosphere of the image contribute to its sensuality? | The overall atmosphere of the image, which is intimate and relaxed, contributes to its sensuality. |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Is the person lying on a gray blanket? | Yes. |
+| Yes/No | Is the person wearing a black bra? | Yes. |
+| Yes/No | Does the person have their hand on their thigh? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| What | What color are the stockings the person is wearing? | Beige. |
+| What | What is the person lying on? | A gray blanket. |
+| How | How does the person's pose enhance the sensuality of the image? | The person's hand on their thigh adds to the sensuality of the image. |
+| How | How do the stockings contribute to the image's atmosphere? | The stockings are often associated with a seductive and alluring appearance, which contributes to the overall intimate and sensual atmosphere of the image. |

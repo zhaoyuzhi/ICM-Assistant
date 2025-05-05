@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a graphic t-shirt? | Yes. |
+| Yes/No | Is the woman in the image standing on a wooden floor? | Yes. |
+| Yes/No | Does the woman in the image have a bob haircut? | Yes. |
+| Yes/No | Is the woman in the image wearing sunglasses? | Yes. |
+| Yes/No | Is the woman in the image holding a magazine? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman in the image holding in her left hand? | A magazine. |
+| What | What color are the woman's sneakers in the image? | White. |
+| How | How is the woman's pose in the image? | She has her hand on her hip. |
+| How | How would you describe the overall atmosphere of the image? | Sexy, casual, and relaxed. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Is the woman in the image sitting on a bed? | Yes. |
+| Yes/No | Is the bed covered with a white sheet? | Yes. |
+| Yes/No | Is the woman holding her foot up with her hand? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| Yes/No | Are the woman's legs crossed? | Yes. |
+| What | What is the woman wearing on her legs? | White stockings. |
+| What | What is the color of the sheet on the bed? | White. |
+| How | How is the woman holding her foot up? | With her hand. |
+| How | How does the image create an intimate atmosphere? | The white sheet on the bed and the woman's crossed legs and hand on her foot create a sense of intimacy and allure. |

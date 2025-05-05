@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the process of putting on a bra? | Yes. |
+| Yes/No | Is the bra gray in color? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's posture and adjusting of the bra suggest a sense of care and attention to her appearance? | Yes. |
+| What | What is the woman holding in her hands? | A gray bra. |
+| What | What is the color of the woman's top? | White. |
+| How | How is the bra made? | Soft, stretchy material. |
+| How | How is the woman adjusting the bra? | The woman is holding the bra with both hands and adjusting it. |
+| Yes/No | No | No. |
+| Yes/No | No | No. |
+| Yes/No | No | No. |
+| Yes/No | No | No. |
+| Yes/No | No | No. |
+| Yes/No | No | No. |
+| Yes/No | A white top | A white top. |
+| Yes/No | Soft, stretchy material | Soft, stretchy material. |
+| Yes/No | She is holding it with both hands and adjusting it | She is holding it with both hands and adjusting it. |
+| Yes/No | She is standing up straight and taking her time to adjust the bra properly | She is standing up straight and taking her time to adjust the bra properly. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are they standing close to each other? | Yes. |
+| Yes/No | Is the woman leaning into the man's kiss? | Yes. |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a pink dress? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and romantic? | Yes. |
+| What | What is the color of the man's shirt? | White. |
+| What | What is the color of the woman's dress? | Pink. |
+| How | How is the woman leaning into the man's kiss? | With her head tilted back. |
+| How | How does the contrast between the man's shirt and the woman's dress add to the visual appeal of the image? | It creates a striking visual contrast that draws the viewer's attention to the couple's intimate embrace. |

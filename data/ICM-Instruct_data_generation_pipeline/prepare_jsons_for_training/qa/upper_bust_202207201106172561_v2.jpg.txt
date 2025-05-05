@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image holding a lace ribbon? | Yes. |
+| Yes/No | Is the image set in front of a white wall with a window? | Yes. |
+| Yes/No | Does the image have a playful atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image wearing on her head? | A straw hat. |
+| What | What is the woman in the image holding in her hands? | A lace ribbon. |
+| How | How is the woman in the image standing? | She is standing in front of a white wall with a window. |
+| How | How would you describe the overall atmosphere of the image? | Cheerful and playful. |

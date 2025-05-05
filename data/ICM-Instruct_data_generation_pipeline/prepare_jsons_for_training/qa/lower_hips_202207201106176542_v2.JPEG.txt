@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a white sneaker? | Yes. |
+| Yes/No | Does the image feature the person's buttocks as the main focus? | Yes. |
+| Yes/No | Is the person's pose in the image suggestive of confidence and self-assurance? | Yes. |
+| Yes/No | Are the gray leggings and white sneaker a matching outfit? | No. |
+| Yes/No | Does the image convey a sense of self-expression and confidence? | Yes. |
+| What | What color are the leggings the person is wearing? | Gray. |
+| What | What is the primary focus of the image? | The person's buttocks. |
+| How | How does the person's pose suggest self-assurance? | The person is standing with their legs apart, showcasing their buttocks, which implies confidence and selfassurance. |
+| How | How does the image capture a moment of self-expression and confidence? | The image captures a moment of the person expressing themselves through their attire and pose, which conveys confidence and selfassurance. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the person standing on a wooden floor? | Yes. |
+| Yes/No | Is the person wearing a pink sweater? | Yes. |
+| Yes/No | Are the person's legs slightly bent? | Yes. |
+| Yes/No | Is the person's movement focused on putting on the stockings? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the sweater the person is wearing? | Pink. |
+| What | What is the person in the image doing? | Putting on stockings. |
+| How | How does the person's attire contribute to the sexy atmosphere of the image? | The combination of the beige stockings and pink sweater creates a sense of intimacy and sensuality. |
+| How | How does the wooden floor affect the focus of the image? | It provides a neutral background that allows the viewer to focus on the person and their actions. |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Is the person standing on a wooden floor? | Yes. |
+| Yes/No | Is the person wearing a pink sweater? | Yes. |
+| Yes/No | Are the person's legs slightly bent? | Yes. |
+| Yes/No | Is the person's movement focused on putting on the stockings? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image wearing? | A pink sweater and beige stockings. |
+| What | What is the person in the image doing? | Putting on stockings. |
+| How | How is the person in the image standing? | With their legs slightly bent. |
+| How | How does the pink sweater contrast with the beige stockings? | It adds a soft contrast. |

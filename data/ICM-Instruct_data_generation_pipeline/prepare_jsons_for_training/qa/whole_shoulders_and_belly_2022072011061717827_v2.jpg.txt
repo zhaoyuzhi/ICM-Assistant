@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless denim jumpsuit? | Yes. |
+| Yes/No | Does the jumpsuit have a high neckline? | Yes. |
+| Yes/No | Is the waist of the jumpsuit cinched? | Yes. |
+| Yes/No | Is the woman striking a pose with her hand on her hip? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What is the woman wearing in the image? | A strapless denim jumpsuit. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the woman posing in the image? | With her hand on her hip and her head slightly tilted to the side. |
+| How | How does the background of the image contribute to the overall effect of the image? | It puts the focus entirely on the woman and emphasizes the subject, making the image more captivating and seductive. |

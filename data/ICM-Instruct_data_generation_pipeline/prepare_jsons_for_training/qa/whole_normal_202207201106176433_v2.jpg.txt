@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sweater? | Yes. |
+| Yes/No | Is the woman in the image wearing a gray skirt? | Yes. |
+| Yes/No | Does the image feature a sexual context or suggestive behavior? | No. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Does the woman's attire suggest any provocative or seductive intent? | No. |
+| Yes/No | Is the focus of the image on the woman's movement rather than her appearance? | Yes. |
+| What | What is the woman doing in the image? | Running. |
+| What | What is the overall atmosphere of the image? | Not sexy. |
+| How | How is the woman dressed in the image? | In a pink sweater and a gray skirt. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the woman's movement and the environment around her, rather than her physical appearance. |

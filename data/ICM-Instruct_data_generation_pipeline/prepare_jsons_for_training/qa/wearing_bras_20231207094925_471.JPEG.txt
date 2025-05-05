@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra red? | Yes. |
+| Yes/No | Is the woman adjusting the bra? | Yes. |
+| Yes/No | Is the bra made of a soft, stretchy material? | Yes. |
+| Yes/No | Is the woman in the process of getting dressed? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A red bra. |
+| What | What is the woman doing in the image? | Adjusting the bra. |
+| How | How is the bra made? | It appears to be made of a soft, stretchy material. |
+| How | How does the woman's posture and actions contribute to the overall atmosphere of the image? | The woman's posture and actions suggest that she is in the middle of getting dressed, which adds to the overall atmosphere of the image being sexy. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra red? | Yes. |
+| Yes/No | Is the woman adjusting the bra? | Yes. |
+| Yes/No | Is the bra made of a soft, stretchy material? | Yes. |
+| Yes/No | Is the woman in the process of getting dressed? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman doing in the image? | Adjusting the bra. |
+| What | What color is the bra? | Red. |
+| How | How is the woman adjusting the bra? | She is holding the straps with her hands. |
+| What | What does the woman's posture and actions suggest about her intentions? | She is in the middle of getting dressed. |

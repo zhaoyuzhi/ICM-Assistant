@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a blue and white striped shirt? | Yes. |
+| Yes/No | Is her hair styled in a bun? | Yes. |
+| Yes/No | Is the background a plain white wall? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman's pose and attire modest and appropriate for a casual setting? | Yes. |
+| What | What is the woman's gaze directed at? | The camera. |
+| What | What is the atmosphere of the image? | Casual and relaxed. |
+| How | How is the woman's appearance emphasized in the image? | Through the low exposure level and the focus on her face and upper body. |
+| How | How would you describe the woman's overall look in the image? | Casual yet chic. |

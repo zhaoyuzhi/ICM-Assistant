@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a brown belt? | Yes. |
+| Yes/No | Is the woman in the image standing with her hands in her pockets? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Is the image a high-exposure image? | No. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What is the woman in the image wearing? | A beige blouse and a brown belt. |
+| What | What is the woman in the image doing with her hands? | She is standing with her hands in her pockets. |
+| How | How is the woman in the image standing? | She is standing with her head slightly tilted to the side. |
+| How | How does the image depict the woman's pose and attire? | The image depicts the woman's pose and attire in a neutral and nonsexual manner, focusing on her clothing and posture rather than her physical appearance. |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a beige blouse? | Yes. |
+| Yes/No | Does the blouse have a ruffled collar? | Yes. |
+| Yes/No | Is the belt made of leather? | Yes. |
+| Yes/No | Are the woman's pants gray? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| What | What is the woman's attire appropriate for? | Casual setting. |
+| What | What is the atmosphere of the image? | Calm and relaxed. |
+| How | How is the woman standing? | With her hands in her pockets. |
+| How | How is the image's exposure level? | Low. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red plaid skirt? | Yes. |
+| Yes/No | Is the person in the image holding a white purse? | Yes. |
+| Yes/No | Is the person in the image standing on a gray floor? | Yes. |
+| Yes/No | Is the person in the image leaning against a white wall? | No. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person in the image looking down at the floor? | Yes. |
+| What | What color is the person's top in the image? | White. |
+| What | What is the person holding in their left hand in the image? | A white purse. |
+| How | How is the person standing in the image? | With their legs crossed. |
+| How | How is the person looking in the image? | Down at the floor. |

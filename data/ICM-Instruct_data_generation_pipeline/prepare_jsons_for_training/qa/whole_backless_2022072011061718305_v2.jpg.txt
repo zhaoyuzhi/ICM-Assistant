@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing an orange dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the dress lace-up? | Yes. |
+| Yes/No | Is the person standing against a white wall? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person's pose mysterious and intriguing? | Yes. |
+| What | What color is the dress? | Orange. |
+| What | What is the background color of the image? | White. |
+| How | How does the dress expose the person's back? | The dress has a low back, exposing a large area of the person's back. |
+| How | How does the image evoke feelings of allure and desire? | The combination of the person's attire, the overall atmosphere, and the contrast between the bright orange dress and the white wall creates a visually striking image that can evoke feelings of allure and desire. |

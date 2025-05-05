@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the man looking off to the side? | Yes. |
+| Yes/No | Does the image feature a sexual context or suggestive poses? | No. |
+| Yes/No | Is the man's face fully visible in the image? | No. |
+| Yes/No | Is the man's body fully visible in the image? | No. |
+| What | What is the color of the man's sweater? | White. |
+| What | What is the color of the man's pants? | Black. |
+| How | How is the man standing in the image? | Casually, with a relaxed posture. |
+| How | How does the low exposure level of the image contribute to its atmosphere? | It adds to the overall relaxed and nonchalant feeling of the picture. |

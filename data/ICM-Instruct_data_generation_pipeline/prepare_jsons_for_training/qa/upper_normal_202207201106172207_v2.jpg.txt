@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image holding a cell phone? | Yes. |
+| Yes/No | Is the man wearing a yellow shirt? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the man looking at his phone? | Yes. |
+| Yes/No | Are there any sexual allusions in the image? | No. |
+| Yes/No | Is the background of the image blurred? | No. |
+| What | What is the man doing in the image? | Looking at his phone. |
+| What | What is the color of the man's shirt? | Yellow. |
+| How | How is the man holding his cell phone? | In his right hand. |
+| How | How does the image's low exposure level affect the focus of the image? | It focuses on the man and his actions rather than the background. |

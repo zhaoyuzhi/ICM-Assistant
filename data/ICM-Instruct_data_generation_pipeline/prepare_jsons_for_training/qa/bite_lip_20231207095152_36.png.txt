@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white lace top? | Yes. |
+| Yes/No | Does the woman in the image have long dark hair? | Yes. |
+| Yes/No | Is the woman in the image sitting on a white couch? | Yes. |
+| Yes/No | Is the woman in the image biting her lip? | Yes. |
+| Yes/No | Does the woman in the image have a serious facial expression? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's lace top? | White. |
+| What | What is the color of the couch the woman is sitting on? | White. |
+| How | How does the woman's facial expression contribute to the image's sexiness? | The woman's serious expression, combined with her biting her lip, creates an air of intensity and allure. |
+| How | How does the white lace top and white couch contribute to the image's overall atmosphere? | The white lace top and white couch provide a clean and minimalist backdrop that further accentuates the woman's features, creating an intimate and captivating atmosphere. |

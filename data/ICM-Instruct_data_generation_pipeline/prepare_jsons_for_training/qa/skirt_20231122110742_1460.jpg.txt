@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress white and gray with a lace trim? | Yes. |
+| Yes/No | Are the woman's legs and thighs exposed in the image? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Does the dress have long sleeves? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| What | What is the woman doing in the image? | Lifting her dress. |
+| What | What is the woman revealing by lifting her dress? | Her legs and thighs. |
+| How | How is the woman's outfit contributing to the image's alluring atmosphere? | The elegant dress with a high neckline and long sleeves adds to the woman's confidence and allure. |
+| How | How does the image create a sense of confidence and allure? | The woman's actions and attire combine to create a sense of confidence and allure. |

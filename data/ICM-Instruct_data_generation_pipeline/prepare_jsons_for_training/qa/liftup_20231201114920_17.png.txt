@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young man? | Yes. |
+| Yes/No | Is the person lifting their shirt and jacket? | Yes. |
+| Yes/No | Is the person holding a microphone? | Yes. |
+| Yes/No | Is the person standing on a stage? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the image capture a moment of vulnerability and confidence? | Yes. |
+| What | What is the person in the image holding in their right hand? | A microphone. |
+| What | What is the person's attire in the image? | A pink shirt and white jacket. |
+| How | How is the person standing in the image? | The person is standing confidently and actively engaging with their audience. |
+| How | How does the image capture the person's actions and overall setting? | The image captures the person's actions and overall setting in a way that suggests they are in control of the situation, creating an atmosphere of allure and intrigue. |

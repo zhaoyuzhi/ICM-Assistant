@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image holding a phone? | Yes. |
+| Yes/No | Is the man wearing a white jacket? | Yes. |
+| Yes/No | Is the man wearing a black and white Nike sweatshirt? | Yes. |
+| Yes/No | Is the man engaged in a conversation with a reporter? | Yes. |
+| Yes/No | Is the image taken in a public setting? | Yes. |
+| Yes/No | Does the image depict explicit or suggestive content? | No. |
+| What | What is the man wearing on his upper body? | A white jacket with an orange hoodie and a black and white Nike sweatshirt. |
+| What | What is the man holding in his right hand? | A phone. |
+| How | How is the man standing in the mall? | He is standing in a casual, everyday scenario. |
+| How | How does the low exposure level of the image reinforce the idea that the image is not intended to be sexy or provocative? | The low exposure level suggests that the image was not taken in a controlled environment, such as a studio or a dedicated photo shoot, and that the man was not the main focus of the scene. This, combined with the man's casual attire and the setting of the mall, reinforces the idea that the image is not intended to be sexy or provocative. |

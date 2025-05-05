@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Does the person have long hair? | Yes. |
+| Yes/No | Is the person wearing a blue striped shirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the person's gaze directed straight at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the person's shirt? | Blue. |
+| What | What is the person's hair length? | Long. |
+| How | How is the person standing in the image? | Against a white background. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonthreatening. |

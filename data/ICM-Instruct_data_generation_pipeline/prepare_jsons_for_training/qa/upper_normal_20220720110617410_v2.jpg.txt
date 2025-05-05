@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow sweatshirt? | Yes. |
+| Yes/No | Is the woman holding a phone in her hand? | Yes. |
+| Yes/No | Is the woman standing in a grocery store aisle? | Yes. |
+| Yes/No | Are there apples and oranges visible in the image? | Yes. |
+| Yes/No | Is the woman looking at her phone? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman doing in the image? | She is looking at her phone. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is not sexy, it's a public and everyday setting. |
+| How | How is the woman dressed in the image? | The woman is dressed in a casual yellow sweatshirt. |
+| How | How is the image exposed? | The image is exposed with a low exposure level, which means that only a small portion of the image is visible, and the rest is blurred out. |

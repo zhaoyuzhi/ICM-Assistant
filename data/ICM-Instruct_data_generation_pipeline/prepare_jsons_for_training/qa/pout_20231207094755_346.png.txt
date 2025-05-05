@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Are the person's eyes visible in the image? | No. |
+| Yes/No | Is the image a close-up of the person's face? | Yes. |
+| Yes/No | Is the person's chin tucked in? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the facial expression of the person in the image? | Pouting. |
+| What | What is the focus of the image? | The person's lips and chin. |
+| How | How is the person's chin tucked in? | Slightly. |
+| How | How are the person's lips parted? | Slightly. |

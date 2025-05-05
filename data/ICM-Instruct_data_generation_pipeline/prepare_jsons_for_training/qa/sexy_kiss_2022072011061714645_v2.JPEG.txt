@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black sweater? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Are the couple kissing each other? | Yes. |
+| Yes/No | Does the image depict a private, intimate moment? | Yes. |
+| What | What is the woman wearing? | A white blouse. |
+| What | What is the man wearing? | A black sweater. |
+| How | How are the couple positioned in the image? | They are standing close to each other, with the woman's head tilted to the side. |
+| How | How does the image suggest a strong emotional connection between the couple? | The close proximity of the couple, their body language, and the act of kissing all contribute to a sensual atmosphere and suggest a strong emotional connection between the two individuals. |

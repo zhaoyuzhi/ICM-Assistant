@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the man's pants gray? | Yes. |
+| Yes/No | Does the image contain any explicit sexual content? | No. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| What | What color are the man's sneakers? | White. |
+| What | What is the man's pose in the image? | Casually tucked into his pockets, looking off to the side. |
+| How | How is the man's height emphasized in the image? | The image is taken from a low angle, giving a sense of depth and emphasizing the man's height. |
+| How | How does the low angle of the shot contribute to the atmosphere of the image? | The low angle contributes to a neutral and nonsexual atmosphere, making the image suitable for a wide range of audiences. |

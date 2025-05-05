@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person in the image wearing white sneakers? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Does the image have a casual and sporty vibe? | Yes. |
+| Yes/No | Does the image have an element of intrigue and allure? | Yes. |
+| What | What color are the leggings in the image? | Blue. |
+| What | What type of shoes is the person wearing in the image? | Sneakers. |
+| How | How does the person's pose convey confidence and self-assuredness? | The person is standing with their feet shoulderwidth apart, with their hands on their hips and their head held high, conveying a sense of confidence and selfassuredness. |
+| How | How does the image combine elements of casual and sporty with sensuality? | The image combines the casual and sporty elements of blue leggings and white sneakers with the sensual element of an exposed belly, creating a visually appealing and sensual image. |

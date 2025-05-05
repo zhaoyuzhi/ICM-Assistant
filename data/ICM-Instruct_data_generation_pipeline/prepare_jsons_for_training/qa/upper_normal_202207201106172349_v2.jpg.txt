@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the graphic design on the t-shirt include illustrations? | Yes. |
+| Yes/No | Is the text on the t-shirt written in black? | Yes. |
+| Yes/No | Does the person in the image have a necklace on? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the focus of the image? | The person's clothing and graphic design on their tshirt. |
+| What | What is the overall atmosphere of the image? | Casual and nonsexual. |
+| How | How are the person's pose and the design on their t-shirt suggesting a relaxed and informal setting? | The person is likely standing or sitting in a relaxed position, and the design on their tshirt is not formal or professional. |
+| How | How does the blurred background emphasize the focus on the person and their attire? | The blurred background creates a sense of depth and makes the person and their clothing the focal point of the image. |

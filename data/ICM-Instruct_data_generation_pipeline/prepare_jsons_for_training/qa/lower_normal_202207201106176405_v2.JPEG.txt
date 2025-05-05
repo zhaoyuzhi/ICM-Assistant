@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the person have a knee brace on their left leg? | Yes. |
+| Yes/No | Is the floor in the room silver? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Does the image depict a sexual or explicit scene? | No. |
+| What | What color is the person's t-shirt? | White. |
+| What | What is the color of the wall in the background? | White. |
+| What | What is the color of the person's sneakers? | White. |

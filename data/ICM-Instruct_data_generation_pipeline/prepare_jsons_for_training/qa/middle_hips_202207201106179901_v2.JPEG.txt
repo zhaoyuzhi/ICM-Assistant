@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a brown belt? | Yes. |
+| Yes/No | Is the person in the image wearing a high-waisted style of jeans? | Yes. |
+| Yes/No | Is the person in the image posing in a sexy manner? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| What | What color are the person's jeans? | Dark blue. |
+| What | What is the person wearing around their waist? | A brown belt. |
+| How | How are the person's jeans styled? | Highwaisted. |
+| How | How does the person pose in the image? | In a sexy manner. |

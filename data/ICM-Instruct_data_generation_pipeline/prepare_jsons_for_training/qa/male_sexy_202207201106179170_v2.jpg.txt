@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing in front of a swimming pool? | Yes. |
+| Yes/No | Does the man in the image have the number 311 on his shorts? | Yes. |
+| Yes/No | Is the man in the image posing in a sexy way? | Yes. |
+| Yes/No | Does the image give off a sexy feel? | Yes. |
+| Yes/No | Is the man in the image a swimmer or a fitness enthusiast? | Yes. |
+| What | What is the man in the image wearing? | Black shorts with the number 311 on them. |
+| What | What is in the background of the image? | A swimming pool. |
+| How | How is the man posing in the image? | In a sexy way. |
+| How | How does the image make you feel? | Allured and sensual. |

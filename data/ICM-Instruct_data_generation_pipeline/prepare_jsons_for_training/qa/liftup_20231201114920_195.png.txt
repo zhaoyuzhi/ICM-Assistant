@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the person wearing black pants? | Yes. |
+| Yes/No | Is the person lifting their shirt? | Yes. |
+| Yes/No | Is the person exposing their stomach? | Yes. |
+| Yes/No | Does the image suggest a dance or music video setting? | Yes. |
+| What | What is the person's attire in the image? | White shirt and black pants. |
+| What | What is the atmosphere of the image? | Sexy/provocative. |
+| How | How is the person's physique described in the image? | Muscular. |
+| How | How does the contrast between the white shirt and black pants emphasize the person's physique? | It creates a stark contrast, making the person's physique the focal point of the image. |

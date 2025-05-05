@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image depicting a construction project? | Yes. |
+| Yes/No | Are the women in the image wearing hard hats and safety vests? | Yes. |
+| Yes/No | Is the woman on the left holding a paintbrush? | Yes. |
+| Yes/No | Is the woman on the right holding a level? | Yes. |
+| Yes/No | Are the women in the image wearing overalls? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman on the left holding? | A paintbrush. |
+| What | What is the woman on the right holding? | A level. |
+| How | How are the women in the image dressed? | They are wearing overalls. |
+| What | What is the overall atmosphere of the image? | Professional and focused on the task at hand. |

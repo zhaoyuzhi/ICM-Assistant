@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a brown coat? | Yes. |
+| Yes/No | Is the woman in the image wearing a green necklace? | Yes. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image calm and relaxed? | Yes. |
+| Yes/No | Is the woman in the image sitting on a couch? | Yes. |
+| What | What is the woman in the image wearing? | A brown coat and a green necklace. |
+| What | What is the focus of the image? | Her clothing and posture. |
+| How | How is the woman positioned in the image? | She is sitting on a couch. |
+| How | How would you describe the atmosphere of the image? | Calm and relaxed. |

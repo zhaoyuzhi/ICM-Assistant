@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue leggings? | Yes. |
+| Yes/No | Is the woman in the image wearing a white sports bra? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Are the woman's arms relaxed at her sides? | Yes. |
+| Yes/No | Are the woman's legs slightly apart? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color are the leggings the woman is wearing? | Blue. |
+| What | What is the color of the woman's sports bra? | White. |
+| How | How is the woman's confidence conveyed in the image? | The woman's direct gaze and confident pose convey her selfassurance. |
+| How | How does the contrast between the woman's outfit and the white background affect the image? | The contrast draws attention to the woman's body, making the image more sexy and bold. |

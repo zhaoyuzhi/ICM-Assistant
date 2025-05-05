@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Is the dress backless? | Yes. |
+| Yes/No | Is the person's hair styled in an updo? | Yes. |
+| Yes/No | Is the person standing against a brick wall? | Yes. |
+| Yes/No | Is the person's back turned to the camera? | Yes. |
+| What | What is the material of the dress? | Sheer fabric. |
+| What | What is the person wearing around their neck? | A necklace. |
+| How | How does the person's updo complement the backless design of the dress? | It highlights the person's neck and shoulders, creating a sense of elegance and sophistication. |
+| How | How does the brick wall provide a contrasting texture to the dress? | The rough, uneven texture of the brick wall creates a stark contrast to the smooth, sheer fabric of the dress, drawing attention to the dress and the person's body. |

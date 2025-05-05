@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the swimsuit a solid color? | No. |
+| Yes/No | Does the woman have any tattoos visible in the image? | No. |
+| Yes/No | Is the pool indoors? | No. |
+| Yes/No | Is the woman smiling? | No. |
+| What | What color is the woman's swimsuit? | Yellow and blue. |
+| What | What is the woman's pose in the image? | Standing with her back to the camera. |
+| How | How much of the woman's back is exposed in the image? | A significant amount. |
+| How | How does the image make the viewer feel? | Seductive and captivating. |

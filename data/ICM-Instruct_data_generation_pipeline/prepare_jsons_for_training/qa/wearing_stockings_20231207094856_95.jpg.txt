@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on the floor? | Yes. |
+| Yes/No | Is the cat sitting next to the person? | Yes. |
+| Yes/No | Is the person's shirt white? | Yes. |
+| Yes/No | Are the person's shorts black? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the cat doing in the image? | Sitting next to the person. |
+| How | How are the black stockings being held up? | By the person's hands. |
+| What | What creates a captivating and intriguing atmosphere in the image? | The combination of the person wearing black stockings, the act of putting them on, and the presence of the cat adds an element of playfulness and innocence to the scene, contrasting with the more provocative aspects of the image. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on the floor? | Yes. |
+| Yes/No | Is the cat sitting next to the person? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the black stockings being held up by the person's hands? | Yes. |
+| Yes/No | Is the image atmospheric? | Yes. |
+| What | What is the person in the image wearing? | White shirt and black shorts. |
+| What | What is the cat doing in the image? | Sitting next to the person. |
+| How | How are the black stockings being held up? | By the person's hands. |
+| How | How does the presence of the cat add to the atmosphere of the image? | It adds an element of playfulness and innocence, contrasting with the more provocative aspects of the image. |

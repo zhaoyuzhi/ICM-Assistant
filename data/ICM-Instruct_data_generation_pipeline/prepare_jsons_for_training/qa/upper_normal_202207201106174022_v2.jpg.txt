@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image set in a dark room? | Yes. |
+| Yes/No | Are the man and woman dressed in traditional Chinese clothing? | Yes. |
+| Yes/No | Is the man holding a sword? | Yes. |
+| Yes/No | Is the woman holding a fan? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the man holding in the image? | A sword. |
+| What | What is the woman holding in the image? | A fan. |
+| How | How are the man and woman dressed in the image? | They are dressed in traditional Chinese clothing. |
+| How | How would you describe the atmosphere of the image? | The atmosphere of the image is nonsexy, with a focus on cultural elements and traditional Chinese clothing. |

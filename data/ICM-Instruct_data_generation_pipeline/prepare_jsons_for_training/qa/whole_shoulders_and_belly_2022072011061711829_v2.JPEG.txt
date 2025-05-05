@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Does the woman in the image have her hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman in the image posing with her hand on her hip? | Yes. |
+| Yes/No | Does the woman in the image have a cutout in the center of her top? | Yes. |
+| Yes/No | Are the jeans the woman is wearing high-waisted? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's top? | White. |
+| What | What is the color of the woman's jeans? | Blue. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How is the woman posing in the image? | With her hand on her hip. |

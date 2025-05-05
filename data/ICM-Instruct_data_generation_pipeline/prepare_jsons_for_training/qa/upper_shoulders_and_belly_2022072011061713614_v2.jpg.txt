@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Are the woman's jeans the same color as her top? | Yes. |
+| Yes/No | Is the woman posing with her hands on her hips? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a confident and sexy atmosphere? | Yes. |
+| What | What is the color of the woman's top? | Light blue. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How does the woman's attire contribute to the image's atmosphere? | The strapless top and cropped jeans create a sexy and confident look. |
+| How | How does the woman's pose contribute to the image's atmosphere? | The pose adds an assertive and confident vibe to the image. |

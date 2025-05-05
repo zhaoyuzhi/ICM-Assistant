@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red coat? | Yes. |
+| Yes/No | Is the woman holding a phone in her hand? | Yes. |
+| Yes/No | Is the woman standing on a street? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the woman appear to be engaged in a conversation? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and ordinary? | Yes. |
+| What | What is the woman using the phone for? | Possibly for communication. |
+| What | What is the woman's attire in the image? | A red coat. |
+| How | How does the low exposure level of the image contribute to the overall atmosphere? | It suggests a casual, everyday setting. |
+| How | How does the woman's interaction with the phone contribute to the overall atmosphere of the image? | It reinforces the ordinary, nonsexual nature of the image. |

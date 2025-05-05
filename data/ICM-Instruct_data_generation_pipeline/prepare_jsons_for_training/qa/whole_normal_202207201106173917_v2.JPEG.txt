@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a tank top? | Yes. |
+| Yes/No | Are the palm trees in the background? | Yes. |
+| Yes/No | Is the man's expression serious? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the man's facial expression? | Serious. |
+| What | What is the focus of the image? | The man's serious demeanor. |
+| How | How are the palm trees in the background? | They are in the background and do not contribute to the overall atmosphere of the image. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It suggests that the image is not meant to be provocative or sensual and emphasizes the man's serious expression. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a white jacket? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the woman's head resting on the man's shoulder? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image capture a tender and intimate moment between the couple? | Yes. |
+| What | What is the man wearing around his neck? | A scarf. |
+| What | What is the color of the couple's clothing? | White. |
+| How | How is the woman's head positioned in relation to the man's shoulder? | Resting. |
+| How | How does the blurred background affect the focus of the image? | It puts the focus entirely on the couple, emphasizing their connection and the passionate moment they are sharing. |

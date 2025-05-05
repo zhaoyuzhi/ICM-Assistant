@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black Adidas tracksuit? | Yes. |
+| Yes/No | Are the white sneakers a good match for the tracksuit? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a sexy or provocative context? | No. |
+| What | What type of clothing is the person wearing? | A black Adidas tracksuit. |
+| What | What type of shoes is the person wearing? | White sneakers. |
+| How | How is the person dressed in the image? | Casually and sportily. |
+| What | What is the focus of the image? | The person's outfit and the sporty theme. |

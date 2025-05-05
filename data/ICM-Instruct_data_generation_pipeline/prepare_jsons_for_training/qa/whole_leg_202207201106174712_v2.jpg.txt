@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman standing? | Yes. |
+| Yes/No | Is the woman leaning against a stone wall? | Yes. |
+| Yes/No | Are her hands tucked into her pockets? | Yes. |
+| Yes/No | Is her outfit simple yet stylish? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing? | A blue shirt and black shorts. |
+| What | What color are the woman's shorts? | Black. |
+| How | How are the woman's shorts cropped? | At the knee. |
+| How | How does the woman's pose against the wall contribute to the image's atmosphere? | It adds a sense of relaxed and confident vibe. |

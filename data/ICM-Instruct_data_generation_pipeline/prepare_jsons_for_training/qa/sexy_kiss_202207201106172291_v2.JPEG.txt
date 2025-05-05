@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man and woman in the image kissing? | Yes. |
+| Yes/No | Are they standing close to each other? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Is the man wearing a blue shirt? | Yes. |
+| Yes/No | Does the woman's head tilted to the side? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing? | A white dress. |
+| What | What is the man wearing? | A blue shirt. |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other. |
+| How | How does the woman's head tilted to the side suggest a deep connection and emotional intensity? | It suggests a deep connection and emotional intensity because it implies a level of comfort and trust between the two individuals, and it also creates a sense of vulnerability and openness. |

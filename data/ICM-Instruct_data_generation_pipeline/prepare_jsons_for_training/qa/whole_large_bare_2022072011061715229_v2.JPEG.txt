@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the setting of the image a beach? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the bikini appear to be made of a lightweight material? | Yes. |
+| Yes/No | Are the woman's stomach and thighs visible in the image? | Yes. |
+| What | What is the color of the bikini the woman is wearing? | White. |
+| What | What is the overall atmosphere of the image? | Sexy. |
+| How | How is the woman posing in the image? | Confidently. |
+| How | How does the beach setting and ocean in the background enhance the image? | It creates a relaxed and inviting atmosphere that enhances the sexy vibe of the image. |

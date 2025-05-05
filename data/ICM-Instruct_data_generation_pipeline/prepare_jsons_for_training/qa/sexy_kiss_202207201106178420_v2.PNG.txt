@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the image in color? | No. |
+| Yes/No | Is the image taken outdoors? | No. |
+| Yes/No | Does the image depict a happy moment? | Yes. |
+| What | What is the man in the image wearing? | A black shirt. |
+| What | What is the woman in the image wearing? | A black dress. |
+| How | How are the man and woman positioned in the image? | They are positioned in a close, intimate manner, with their faces close together and their bodies touching. |
+| How | How does the image capture the emotional connection between the man and woman? | The image captures a moment of intense emotion and physical connection, suggesting a strong emotional bond between the man and woman. |

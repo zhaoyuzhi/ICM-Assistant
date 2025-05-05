@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray crop top? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman in the image holding her shirt up? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the image feature a close-up of the woman's upper body? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image holding her shirt up with? | Her hands. |
+| What | What is the color of the woman's crop top? | Gray. |
+| How | How is the woman in the image standing? | She is standing with her feet shoulderwidth apart, with one foot slightly in front of the other. |
+| How | How does the low angle shot enhance the overall atmosphere of the image? | The low angle shot makes the woman appear more powerful and dominant, and it emphasizes her figure and curves, creating a more intimate and alluring atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image flexing his arm? | Yes. |
+| Yes/No | Is the device the man is wearing a piece of exercise equipment? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Are the man's muscles prominently displayed? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| Yes/No | Is the overall atmosphere of the image focused and intense? | Yes. |
+| What | What is the man wearing on his wrist? | A black wristband. |
+| What | What is the man using to exercise? | A black and silver device with a hose attached. |
+| How | How is the man's physique described? | Muscular. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the man and his actions, emphasizing the subject matter and making it clear that the image is not meant to be sensual or provocative. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a crocheted top? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the person sunbathing or playing in the sand? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person wearing? | A white crocheted top. |
+| What | What is the background of the image? | A sandy beach and a vast ocean. |
+| How | How is the person posing in the image? | The person is standing with their back to the camera. |
+| How | How would you describe the atmosphere of the image? | Inviting and seductive. |

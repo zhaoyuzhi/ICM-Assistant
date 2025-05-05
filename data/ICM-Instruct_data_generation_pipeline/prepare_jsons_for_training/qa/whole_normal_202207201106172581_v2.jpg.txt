@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman dressed in a brown blouse and black pants? | Yes. |
+| Yes/No | Is her hair styled in a bun? | Yes. |
+| Yes/No | Is she holding a white book in her left hand? | Yes. |
+| Yes/No | Is the background minimalistic with a white wall and wooden table? | Yes. |
+| Yes/No | Does the image contain any other discernible objects or people? | No. |
+| What | What is the woman holding in her left hand? | A white book. |
+| What | What is the color of the woman's blouse? | Brown. |
+| How | How is the woman's hair styled? | In a bun. |
+| What | What is the atmosphere of the image? | Calm and peaceful. |

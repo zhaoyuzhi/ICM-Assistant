@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing white stockings? | Yes. |
+| Yes/No | Are the person's shoes white? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Is there a window in the background of the image? | Yes. |
+| What | What is the person's attire in the image? | The person is wearing white stockings and white shoes. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is sexy, elegant, and inviting. |
+| How | How are the person's feet positioned in the image? | The person's feet are resting on the chair. |
+| How | How does the background of the image complement the person's appearance? | The white wall and window in the background provide a clean and minimalistic backdrop that accentuates the person's appearance, creating an atmosphere that is both alluring and inviting. |

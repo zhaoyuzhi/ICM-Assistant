@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Is the woman leaning on a table? | Yes. |
+| Yes/No | Are there flowers in the image? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She is leaning on a table. |
+| What | What is the color of the dress the woman is wearing? | Red. |
+| How | How is the woman's back exposed in the image? | Her dress has a low back. |
+| How | How does the woman's pose suggest a sense of confidence and allure? | Her relaxed and confident demeanor creates an atmosphere of intimacy and allure. |

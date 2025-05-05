@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue sports top? | Yes. |
+| Yes/No | Are the shorts white? | Yes. |
+| Yes/No | Does the top have a white stripe running down the middle? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman posing with her hand on her head? | Yes. |
+| Yes/No | Does the image have a sexy or alluring atmosphere? | Yes. |
+| What | What color is the woman's sports top? | Blue. |
+| What | What is the woman's hair style? | Loose waves. |
+| How | How is the woman posing in the image? | With her hand on her head. |
+| How | How does the image make you feel? | It creates a seductive atmosphere that draws the viewer's attention to the woman's body and outfit. |

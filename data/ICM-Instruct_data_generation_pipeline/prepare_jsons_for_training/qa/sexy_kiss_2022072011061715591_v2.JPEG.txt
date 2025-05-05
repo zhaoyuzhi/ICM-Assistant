@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a blue top? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman? | Yes. |
+| Yes/No | Is the woman leaning into the man's kiss? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the man's shirt? | Black. |
+| What | What is the color of the woman's top? | Blue. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the man's arms wrapped around the woman. |
+| How | How would you describe the atmosphere of the image? | Romantic and sensual. |

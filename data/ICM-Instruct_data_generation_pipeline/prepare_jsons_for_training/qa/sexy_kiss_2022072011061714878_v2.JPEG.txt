@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a gray suit? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a private, intimate moment? | Yes. |
+| What | What is the man wearing? | A gray suit. |
+| What | What is the woman wearing? | A white dress. |
+| How | How are the man and woman standing? | Close to each other. |
+| How | How is the background? | Blurred. |

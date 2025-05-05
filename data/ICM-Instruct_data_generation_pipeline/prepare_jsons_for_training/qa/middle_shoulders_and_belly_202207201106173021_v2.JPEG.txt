@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple hoodie? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman holding her belly with her left hand? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Is the woman's right hand placed on her hip? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and confidence? | Yes. |
+| What | What color is the woman's hoodie? | Purple. |
+| What | What is the woman's pose in the image? | She is holding her belly with her left hand and her right hand is placed on her hip. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's casual attire, combined with her relaxed pose, creates a sense of comfort and selfassuredness. |
+| How | How does the image evoke a sense of intimacy and confidence? | The woman's exposed belly and the way she is holding it with her left hand create a sense of intimacy and confidence. Her pose, combined with the casual attire, evokes a sense of comfort and selfassuredness. |
+| Yes/No | Is the woman in the image wearing a purple hoodie? | Yes. |
+| Yes/No | Are her jeans blue? | Yes. |
+| Yes/No | Is her belly exposed in the image? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and confidence? | Yes. |
+| What | What color is the woman's hoodie? | Purple. |
+| What | What is the woman's gaze directed towards? | Downwards. |
+| How | How does the woman's pose contribute to the allure of the image? | Her hands on her hips create a confident and sexy pose. |
+| How | How does the combination of the purple hoodie and blue jeans contribute to the image's atmosphere? | It gives the image a casual and laidback feel, which is often associated with sexy images. |

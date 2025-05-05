@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image brushing their teeth? | Yes. |
+| Yes/No | Does the person have a toothbrush in their mouth? | Yes. |
+| Yes/No | Are the person's facial features visible? | Yes. |
+| Yes/No | Is the person's facial expression determined? | Yes. |
+| Yes/No | Is the image a close-up of the person's face? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and personal space? | Yes. |
+| What | What is the person in the image doing? | Brushing their teeth. |
+| What | What can be perceived as alluring and attractive in the image? | The person's facial features and expressions. |
+| How | How is the person brushing their teeth? | In a focused and determined manner. |
+| How | How does the close-up nature of the image allow the viewer to perceive the person's facial features and expressions? | It allows the viewer to focus on the person's facial features and expressions, which can be perceived as alluring and attractive. |

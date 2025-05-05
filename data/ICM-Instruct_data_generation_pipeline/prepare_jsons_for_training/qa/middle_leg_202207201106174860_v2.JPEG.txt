@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing Under Armour shorts? | Yes. |
+| Yes/No | Is the woman's shirt long-sleeved? | Yes. |
+| Yes/No | Does the image feature a white background? | Yes. |
+| Yes/No | Are the shorts designed with a white Under Armour logo on the left leg? | Yes. |
+| Yes/No | Does the image convey a sense of boldness and confidence? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| What | What color are the woman's shorts? | Black. |
+| What | What is the name of the company whose logo is featured on the woman's shorts? | Under Armour. |
+| How | How does the woman's pose suggest she is comfortable in her own skin? | The woman is standing with her legs spread apart, with one hand on her hip and the other on her thigh, exuding confidence and comfort in her own body. |
+| How | How does the contrast between the black shorts and long-sleeved shirt accentuate the woman's figure? | The contrast creates a visual focal point on the woman's legs and waist, drawing attention to her curves and overall physique. |

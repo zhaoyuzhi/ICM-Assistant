@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a yellow and white striped skirt? | Yes. |
+| Yes/No | Is the woman in the image sitting on a stone wall? | Yes. |
+| Yes/No | Does the woman in the image have a large area of her upper body exposed? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's bra? | Pink. |
+| What | What is the pattern on the woman's skirt? | Yellow and white stripes. |
+| How | How is the woman posing in the image? | Confidently and seductively. |
+| What | What emotion is the woman expressing through her smile? | Allure and sensuality. |

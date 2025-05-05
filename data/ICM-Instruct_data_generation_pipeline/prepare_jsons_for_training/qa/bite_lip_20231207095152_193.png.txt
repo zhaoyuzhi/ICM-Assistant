@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman's facial expression a smile? | Yes. |
+| Yes/No | Is the woman biting her lower lip? | Yes. |
+| Yes/No | Does the image feature any other people or objects besides the woman? | No. |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| What | What is the woman's hair color? | Brown. |
+| What | What is the woman's facial expression conveying? | Confidence and allure. |
+| How | How is the woman's gaze into the camera? | Direct. |
+| How | How does the woman's biting her lower lip contribute to the image's overall atmosphere? | Sensuality and confidence. |

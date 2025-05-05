@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a mannequin? | Yes. |
+| Yes/No | Is the mannequin dressed in a light yellow shorts with a fringe hem and a white top? | Yes. |
+| Yes/No | Is the mannequin positioned in a standing position? | Yes. |
+| Yes/No | Are the mannequin's legs slightly apart? | Yes. |
+| Yes/No | Are the mannequin's arms resting at its sides? | Yes. |
+| Yes/No | Is the mannequin facing the camera? | Yes. |
+| What | What is the color of the mannequin's shorts? | Light yellow. |
+| What | What is the color of the mannequin's top? | White. |
+| How | How are the mannequin's legs positioned? | Slightly apart. |
+| How | How are the mannequin's arms positioned? | Resting at its sides. |

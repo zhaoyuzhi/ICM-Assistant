@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige dress? | Yes. |
+| Yes/No | Is the woman lifting her dress to reveal her thighs and legs? | Yes. |
+| Yes/No | Is the dress made of a light, flowing material? | Yes. |
+| Yes/No | Is the woman standing in a room with a pink wall and a white door? | Yes. |
+| Yes/No | Are there any other people or objects in the image? | No. |
+| What | What color is the wall in the background of the image? | Pink. |
+| What | What color is the door in the background of the image? | White. |
+| How | How is the woman's pose in the image? | The woman is standing and lifting her dress. |
+| How | How does the flowing material of the dress create a sense of movement and elegance? | The flowing material of the dress creates a sense of movement and elegance by flowing around the woman's body as she lifts her dress, creating a dynamic and graceful effect. |

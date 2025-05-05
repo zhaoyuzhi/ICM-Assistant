@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the woman's shirt have the word "FATIMANINO" written on it? | Yes. |
+| Yes/No | Is the woman wearing a black purse? | Yes. |
+| Yes/No | Are the woman's shorts blue? | Yes. |
+| Yes/No | Does the woman's left hand hold her shorts up? | Yes. |
+| Yes/No | Is the field in the background of the image? | Yes. |
+| What | What color is the woman's shirt? | Black. |
+| What | What is the logo on the back of the woman's shorts? | White. |
+| How | How is the woman holding her shorts up? | With her left hand. |
+| What | What is the atmosphere of the image? | Sexy. |

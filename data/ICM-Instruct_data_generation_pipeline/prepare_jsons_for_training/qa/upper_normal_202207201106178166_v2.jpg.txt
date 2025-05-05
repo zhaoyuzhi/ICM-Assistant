@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman standing in the image wearing a brown jacket with white buttons? | Yes. |
+| Yes/No | Is the woman sitting in the image wearing a purple sweater and glasses? | Yes. |
+| Yes/No | Is the book being held by the woman standing green? | Yes. |
+| Yes/No | Are the details of the image not clear due to a low exposure level? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the interaction between the two women? | Yes. |
+| What | What is the woman standing holding in her hands? | A green book. |
+| What | What is the color of the woman sitting's sweater? | Purple. |
+| How | How is the woman standing engaged with the woman sitting? | Through conversation or reading. |
+| How | How does the low exposure level affect the image? | It emphasizes the focus on the interaction between the two women and the content of the image. |

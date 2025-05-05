@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a midriff-baring skirt? | Yes. |
+| Yes/No | Is the woman in the image holding her hand on her hip? | Yes. |
+| Yes/No | Is the woman in the image wearing a gold necklace? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the mirror in the background reflecting the woman's image? | Yes. |
+| What | What is the woman in the image holding in her hand? | Her hand is on her hip. |
+| What | What is the woman in the image standing in front of? | A mirror. |
+| How | How is the woman's outfit in the image? | The woman's outfit is elegant and revealing. |
+| How | How does the mirror in the background add depth to the scene? | The mirror reflects the woman's image, making her the focal point of the scene and adding depth to the image. |

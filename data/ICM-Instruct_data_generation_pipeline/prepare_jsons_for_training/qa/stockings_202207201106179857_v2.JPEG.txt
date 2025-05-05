@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Are the stockings sheer? | Yes. |
+| Yes/No | Are high heels visible in the image? | Yes. |
+| Yes/No | Is the person's hand placed on their thigh? | Yes. |
+| Yes/No | Is the background of the image plain? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What type of garment is the person wearing on their legs and feet? | Stockings. |
+| What | What type of footwear is the person wearing? | High heels. |
+| How | How does the sheer material of the stockings contribute to the allure of the image? | The sheer material reveals the person's skin, adding to the allure. |
+| How | How do the high heels contribute to the overall allure of the image? | The high heels are often associated with femininity and confidence, adding to the overall allure of the image. |

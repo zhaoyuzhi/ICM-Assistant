@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman in the image confident in her appearance? | Yes. |
+| What | What is the woman in the image wearing on her top? | A checkered strapless top. |
+| What | What is the woman in the image wearing on her bottom? | A denim skirt. |
+| How | How is the woman in the image standing? | With her hands on her hips. |
+| How | How does the combination of the woman's outfit and pose create an atmosphere? | It creates an atmosphere of allure and seduction. |

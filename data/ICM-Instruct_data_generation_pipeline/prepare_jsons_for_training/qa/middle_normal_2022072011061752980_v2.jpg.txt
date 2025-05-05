@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing gray pants? | Yes. |
+| Yes/No | Is the belt brown? | Yes. |
+| Yes/No | Is the image a professional portrait? | Yes. |
+| Yes/No | Is the atmosphere of the image neutral and professional? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the person's attire in the image? | White shirt, gray pants, brown belt. |
+| What | What is the overall atmosphere of the image? | Neutral and professional. |
+| How | How is the person standing in the image? | With their hands on their hips. |
+| How | How would you describe the exposure level of the image? | Very low. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants gray? | Yes. |
+| Yes/No | Is the person wearing a brown belt? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the person's posture in the image? | The person is standing with their hands on their hips. |
+| What | What is the focus of the image? | The focus is on the person's attire and posture rather than their physical appearance. |
+| How | How does the low exposure level contribute to the image's atmosphere? | The low exposure level suggests a casual and nonsexual setting. |
+| How | How does the person's posture contribute to the image's atmosphere? | The person's posture, with their hands on their hips, suggests confidence and a casual, nonsexual attitude. |

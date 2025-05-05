@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Is the bed covered with a white sheet? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's pose suggest intimacy or sensuality? | Yes. |
+| What | What is the woman wearing on her upper body? | A bikini top. |
+| What | What is the color of the sheet covering the bed? | White. |
+| How | How is the woman posing in the image? | She is lying on her back with her legs spread apart. |
+| How | How does the image create a sexy atmosphere? | The woman's revealing clothing, her pose, and the bed create a sense of intimacy and sensuality. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a top or shirt? | No. |
+| Yes/No | Are the person's legs apart in the image? | Yes. |
+| Yes/No | Is the person's pose in the image relaxed? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the person in the image wearing? | White shorts with a floral pattern. |
+| What | What is the person's pose in the image? | Standing with legs slightly apart and feet slightly turned to the side. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How does the minimalistic background affect the image? | It emphasizes the person and their attire, making the image more focused on the subject and contributing to the overall sexy atmosphere. |

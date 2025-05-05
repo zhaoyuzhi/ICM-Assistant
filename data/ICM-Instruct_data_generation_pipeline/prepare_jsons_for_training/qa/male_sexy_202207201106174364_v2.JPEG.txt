@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing pants? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Are there any objects in the image other than the man? | No. |
+| Yes/No | Is the man's underwear black and white striped? | No. |
+| Yes/No | Is the man's pose suggestive or provocative? | Yes. |
+| What | What color are the man's underwear? | Blue and white striped. |
+| What | What is the man's pose in the image? | Standing with hands placed behind his back. |
+| How | How does the image create an atmosphere of sensuality and allure? | Through the man's attire and pose. |
+| How | How does the image emphasize the focus on the man and his appearance? | By not including any other objects or people in the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the swimsuit blue and orange? | Yes. |
+| Yes/No | Does the swimsuit have a black waistband? | Yes. |
+| Yes/No | Does the swimsuit have a black stripe on the side? | Yes. |
+| Yes/No | Is the man standing with his hands on his hips? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| What | What color is the man's swimsuit? | Blue and orange. |
+| What | What is the man's pose in the image? | Hands on hips. |
+| How | How does the image highlight the man's skin? | The image is set against a white background, which creates a stark contrast between the man's skin and the background, making his skin appear more prominent. |
+| How | How does the man's pose accentuate his physique? | The man's pose with his hands on his hips draws attention to his muscular physique, making him appear more attractive and desirable. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black hat? | Yes. |
+| Yes/No | Is the woman in the image bending over? | Yes. |
+| Yes/No | Are the stockings being put on by the woman beige in color? | Yes. |
+| Yes/No | Is the door behind the woman brown? | Yes. |
+| Yes/No | Is the couch behind the woman beige? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman in the image wearing? | A black hat, black shirt, and black tights. |
+| What | What is the woman in the image doing? | Putting on her stockings. |
+| How | How is the woman bending over to put on her stockings? | She is bending over with her back straight and her legs slightly apart, with one hand on her knee and the other hand holding the stockings. |
+| How | How does the image create a sexy and intriguing atmosphere? | The image creates a sexy and intriguing atmosphere through the woman's attire, the act of putting on stockings, and the vulnerable and intimate moment depicted. |
+| Yes/No | Is the woman in the image wearing a black hat? | Yes. |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing black tights? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a brown door? | Yes. |
+| Yes/No | Is the woman in the image standing near a beige couch? | Yes. |
+| Yes/No | Does the image depict the woman putting on her stockings? | Yes. |
+| What | What color are the woman's stockings? | Beige. |
+| What | What color is the woman's outfit? | Black. |
+| How | How is the woman's act of putting on stockings depicted in the image? | The woman is bending over to put on her stockings. |
+| What | What does the act of putting on stockings imply in the context of the image? | The act of putting on stockings implies a sense of vulnerability and intimacy. |

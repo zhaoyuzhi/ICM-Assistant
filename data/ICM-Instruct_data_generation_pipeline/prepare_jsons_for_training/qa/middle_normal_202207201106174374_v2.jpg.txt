@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the purse chain-strapped? | Yes. |
+| Yes/No | Is the image focused on the woman's body? | No. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the woman's outfit reveal a lot of skin? | No. |
+| What | What is the color of the woman's dress? | Light green. |
+| What | What is the woman holding in her hand? | A small, beige purse. |
+| How | How is the woman positioned in the image? | She is positioned in the center of the image. |
+| How | How would you describe the overall atmosphere of the image? | Calm and neutral. |
+| Yes/No | Is the woman in the image dressed in a light green dress? | Yes. |
+| Yes/No | Is the woman holding a small, tan purse with a chain strap? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's posture and attire suggestive of a casual, everyday setting? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the image meant to be provocative or revealing? | No. |
+| What | What is the color of the woman's dress? | Light green. |
+| What | What is the woman holding in her hand? | A small, tan purse with a chain strap. |
+| How | How is the woman's posture and attire suggestive of a casual, everyday setting? | The woman is standing with a relaxed posture and is dressed in a light green dress that is not overly revealing, suggesting a casual, everyday setting. |
+| How | How does the low exposure level contribute to the image's non-sexy atmosphere? | The low exposure level helps to minimize any potentially risqué elements in the image, contributing to its nonsexy atmosphere. |

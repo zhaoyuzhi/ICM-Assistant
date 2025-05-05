@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's pants brown? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Is the person holding a ruler? | Yes. |
+| Yes/No | Is the ruler being used to measure the person's waist? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and informal? | Yes. |
+| What | What is the person holding in their hand? | A ruler. |
+| What | What is the person being measured? | Their waist. |
+| How | How is the person being measured? | With a ruler. |
+| What | What is the overall atmosphere of the image? | Casual and informal. |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's pants brown? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person holding a ruler in their right hand? | Yes. |
+| Yes/No | Is the ruler being used to measure the person's waist? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person measuring with the ruler? | Their waist. |
+| What | What color are the person's pants? | Brown. |
+| How | How is the person holding the ruler? | With their right hand. |
+| How | How does the image make you feel? | Intrigued and curious. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing green sweatpants? | Yes. |
+| Yes/No | Is the sweatshirt purple? | Yes. |
+| Yes/No | Is the background white? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain suggestive or provocative elements? | No. |
+| Yes/No | Is the person's pose and expression neutral? | Yes. |
+| What | What color are the sweatpants? | Green. |
+| What | What color is the sweatshirt? | Purple. |
+| How | How is the focus of the image? | The focus is on the person's clothing and the overall atmosphere of the image. |
+| What | What is the overall atmosphere of the image? | Calm and relaxed. |
+| Yes/No | Is the person in the image wearing green sweatpants? | Yes. |
+| Yes/No | Does the sweatpants have the word "Lacoste" written on it? | Yes. |
+| Yes/No | Is the person wearing a purple sweatshirt? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| Yes/No | Is the person dressed in sporty attire? | Yes. |
+| What | What is the name of the brand written on the sweatpants? | Lacoste. |
+| What | What is the overall atmosphere of the image? | Casual and comfortable. |
+| How | How is the person dressed in the image? | The person is dressed in sporty attire, wearing a pair of green sweatpants and a purple sweatshirt. |
+| How | How does the low angle of the shot contribute to the atmosphere of the image? | The low angle of the shot adds to the casual and comfortable atmosphere of the image, making it feel more relaxed and intimate. |

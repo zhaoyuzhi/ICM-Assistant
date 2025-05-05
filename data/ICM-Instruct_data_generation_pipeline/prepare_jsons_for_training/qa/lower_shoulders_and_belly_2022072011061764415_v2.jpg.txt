@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person in the image standing on a concrete floor? | Yes. |
+| Yes/No | Is the person in the image posing with their left leg extended behind them? | Yes. |
+| Yes/No | Is the person in the image wearing black sneakers? | Yes. |
+| Yes/No | Is the person in the image striking a dynamic pose? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| What | What is the color of the leggings the person is wearing? | Blue. |
+| What | What is the color of the sneakers the person is wearing? | Black. |
+| How | How is the person's left hand positioned in the image? | Placed on their hip. |
+| How | How is the person's right hand positioned in the image? | Resting on their thigh. |

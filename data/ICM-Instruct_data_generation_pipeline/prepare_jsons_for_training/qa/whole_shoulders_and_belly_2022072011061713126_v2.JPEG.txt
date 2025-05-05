@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a matching white skirt? | Yes. |
+| Yes/No | Does the woman have her left hand on her hip? | Yes. |
+| Yes/No | Does the woman have her right hand on her head? | Yes. |
+| Yes/No | Is the blouse strapless? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What is the woman's pose in the image? | She is striking a pose with her left hand on her hip and her right hand on her head. |
+| How | How is the woman's midriff exposed in the image? | The woman's midriff is exposed because she is wearing a strapless blouse and a highwaisted skirt. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, with her left hand on her hip and her right hand on her head, adds to the overall seductive atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Does the bikini top have a floral pattern? | Yes. |
+| Yes/No | Is the woman sitting on a wooden cabinet? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Is the woman's pose confident and alluring? | Yes. |
+| What | What color is the bikini top? | Pink. |
+| What | What is the texture of the wooden cabinet? | Wooden. |
+| How | How does the woman's pose suggest confidence and allure? | The woman's hand on her chin and her sitting position suggest a sense of confidence and allure. |
+| How | How does the floral bikini top add elegance and femininity to the scene? | The floral pattern on the bikini top adds a touch of elegance and femininity to the scene, contrasting with the wooden cabinet and emphasizing the woman's beauty. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the person have a neutral pose? | Yes. |
+| Yes/No | Is the skirt black? | Yes. |
+| Yes/No | Are the person's arms resting at their sides? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image feature a window? | Yes. |
+| What | What color is the blouse? | White. |
+| What | What is the length of the skirt? | Short. |
+| How | How does the person's pose suggest a sense of confidence and allure? | The person's pose, with their arms resting at their sides, adds to the allure by suggesting a sense of selfassuredness and poise. |
+| How | How does the combination of the white blouse and black skirt draw attention to the person's figure? | The contrast between the white blouse and black skirt creates a visual focus on the person's figure, drawing attention to their shape and form. |

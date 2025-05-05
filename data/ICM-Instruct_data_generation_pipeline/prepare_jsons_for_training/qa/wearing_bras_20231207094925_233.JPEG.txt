@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Is the bra thin-strapped? | Yes. |
+| Yes/No | Does the bra have a white lace trim? | Yes. |
+| Yes/No | Is the woman adjusting her bra? | Yes. |
+| Yes/No | Is the image captured from the back? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy and sensuality? | Yes. |
+| What | What is the woman doing in the image? | Adjusting her bra. |
+| What | What color is the bra? | White. |
+| How | How does the woman's attire contribute to the overall allure of the image? | The woman's attire, specifically the white bra and lace trim, contribute to the overall allure of the image by emphasizing her form and evoking a sense of intimacy and sensuality. |
+| How | How does the image capture the moment? | The image captures the moment from the back, focusing on the woman's hands and the bra, emphasizing the act of adjusting the bra and creating a sense of intimacy and sensuality. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Does the bra have thin straps? | Yes. |
+| Yes/No | Is the woman adjusting the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy? | Yes. |
+| What | What is the woman doing in the image? | Adjusting her bra. |
+| What | What color is the bra? | White. |
+| How | How is the woman adjusting the bra? | With her hands on the back of the bra. |
+| How | How does the image make you feel? | It evokes a sense of intimacy and sensuality. |

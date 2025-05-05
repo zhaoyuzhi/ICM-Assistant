@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the man's pants gray? | Yes. |
+| Yes/No | Is the man moving towards the right side of the image? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire and movement provocative or alluring? | No. |
+| What | What is the man wearing? | A black shirt and gray sweatpants. |
+| What | What is the overall atmosphere of the image? | A simple, everyday scene with no sexy content. |
+| How | How is the man moving in the image? | He is moving towards the right side. |
+| How | How does the low exposure level contribute to the image's lack of allure? | It reduces the visual impact of the image and makes it less appealing. |

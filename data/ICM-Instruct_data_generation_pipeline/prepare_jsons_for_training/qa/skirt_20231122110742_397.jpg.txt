@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Are the woman's thighs and knees exposed in the image? | Yes. |
+| Yes/No | Is the dress made of a soft, flowing fabric? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are there cars visible in the background of the image? | Yes. |
+| Yes/No | Does the woman's attire add an element of elegance and sophistication to the image? | Yes. |
+| What | What is the woman lifting in the image? | Her dress. |
+| What | What is the color of the woman's dress? | White. |
+| How | How is the fabric of the dress described? | Soft, flowing. |
+| How | How does the parking garage setting contrast with the woman's attire? | It provides a contrasting backdrop that emphasizes the woman's presence in the image. |

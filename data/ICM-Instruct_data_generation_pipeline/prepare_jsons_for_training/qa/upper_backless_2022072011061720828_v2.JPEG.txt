@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black strapless nightgown? | Yes. |
+| Yes/No | Does the nightgown have thin straps? | Yes. |
+| Yes/No | Does the nightgown have a sheer panel on the back? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Does the image have an intimate and seductive atmosphere? | Yes. |
+| Yes/No | Is the person's attire and pose suggestive of allure and sensuality? | Yes. |
+| What | What is the color of the nightgown? | Black. |
+| What | What is the material of the sheer panel on the back of the nightgown? | Sheer. |
+| How | How are the straps of the nightgown attached to the garment? | Thin straps. |
+| How | How does the person's pose accentuate the revealing nature of the outfit? | The person's back is facing the camera, showcasing the sheer panel and their skin. |

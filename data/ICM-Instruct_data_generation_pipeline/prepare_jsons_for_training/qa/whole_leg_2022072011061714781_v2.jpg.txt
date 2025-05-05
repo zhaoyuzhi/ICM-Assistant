@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the woman's shorts cropped at the knee? | Yes. |
+| Yes/No | Is the woman holding a black purse in her left hand? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman standing close to the stone wall? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| What | What is the woman's hair style in the image? | Loose waves. |
+| What | What is the classic color combination of the woman's attire in the image? | White blouse and black shorts. |
+| How | How does the woman's pose accentuate her body? | With her hand on her hip. |
+| How | How does the stone wall in the background affect the focus of the image? | It provides a neutral backdrop that allows the focus to remain on the woman. |

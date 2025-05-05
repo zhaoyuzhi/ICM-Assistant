@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man and woman in the image sharing a romantic kiss? | Yes. |
+| Yes/No | Are they standing in a field of tall grass? | Yes. |
+| Yes/No | Is the woman dressed in a pink dress? | Yes. |
+| Yes/No | Is the man wearing a plaid shirt? | Yes. |
+| Yes/No | Is the atmosphere in the image romantic? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman holding onto? | The man. |
+| What | What is the man wearing? | A plaid shirt. |
+| How | How is the rain falling around them? | The rain is falling around them, creating a romantic atmosphere. |
+| How | How does the field of tall grass enhance the overall sexy vibe of the image? | The field of tall grass provides a natural and open setting for their embrace, further enhancing the overall sexy vibe of the image. |

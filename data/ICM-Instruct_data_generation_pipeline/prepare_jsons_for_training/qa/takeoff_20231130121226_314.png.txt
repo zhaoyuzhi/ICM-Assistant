@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Are white shorts worn by the woman in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the woman in the process of taking off her clothes? | Yes. |
+| Yes/No | Does the image include a window? | Yes. |
+| Yes/No | Does the image include white curtains? | Yes. |
+| What | What is the woman in the image wearing? | A black bra and white shorts. |
+| What | What is the atmosphere of the image? | Intimate and sensual. |
+| How | How is the woman undressing? | She is in the process of taking off her clothes. |
+| How | How does the image make you feel? | It makes me feel sexy and allured. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are the man's trunks loose-fitting? | No. |
+| Yes/No | Is the background of the image light-colored? | No. |
+| Yes/No | Does the image feature a woman? | No. |
+| Yes/No | Is the man's pose relaxed? | No. |
+| Yes/No | Does the image suggest that the man is weak or fragile? | No. |
+| What | What is the man's facial expression? | The man's facial expression is not visible in the image. |
+| What | What is the color of the man's trunks? | The man's trunks are black. |
+| How | How does the image portray the man's physique? | The image portrays the man's physique as muscular and welldefined. |
+| How | How does the background of the image contribute to its overall atmosphere? | The dark background of the image creates an atmosphere of intensity and allure. |

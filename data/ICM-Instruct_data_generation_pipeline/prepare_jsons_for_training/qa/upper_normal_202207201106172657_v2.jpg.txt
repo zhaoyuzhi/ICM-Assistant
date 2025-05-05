@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man standing in front of a white wall? | Yes. |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Does the man's attire suggest a casual, everyday setting? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the man's jacket? | Black. |
+| What | What is the color of the man's shirt? | White. |
+| How | How is the man positioned in the image? | He is positioned on the left side of the image. |
+| How | How would you describe the background of the image? | Plain and white, providing a stark contrast to the man's dark jacket. |

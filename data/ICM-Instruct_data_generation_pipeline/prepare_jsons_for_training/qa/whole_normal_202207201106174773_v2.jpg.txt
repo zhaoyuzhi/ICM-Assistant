@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink jacket? | Yes. |
+| Yes/No | Are there any explicit or suggestive content in the image? | No. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the woman appear to be in motion? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and peaceful? | Yes. |
+| What | What is the woman wearing on her legs? | Black leggings. |
+| What | What is the color of the woman's jacket? | Pink. |
+| How | How is the woman's hair styled? | Pulled back into a ponytail. |
+| What | What is the woman's movement suggestive of? | Walking or jogging. |

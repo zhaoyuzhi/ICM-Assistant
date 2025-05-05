@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person biting their lower lip? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and allure? | Yes. |
+| Yes/No | Is the image often considered sexy? | Yes. |
+| What | What is the person in the image biting? | Their lower lip. |
+| What | What color is the person's lipstick? | Red. |
+| How | How does the person's facial expression contribute to the image's overall atmosphere? | It adds a sense of mystery and intrigue. |
+| How | How does the red lipstick enhance the image's allure? | It adds a vibrant and bold touch to the image. |

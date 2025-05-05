@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress purple and white? | Yes. |
+| Yes/No | Is the person putting on black stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person have a heart-shaped sticker in the image? | Yes. |
+| Yes/No | Are the person's actions in the image associated with intimacy? | Yes. |
+| What | What is the person in the image wearing? | A purple and white dress and black stockings. |
+| What | What is the significance of the heart-shaped sticker in the image? | It adds to the seductive atmosphere and may symbolize love or passion. |
+| How | How is the person's attire in the image associated with sensuality and allure? | The dress is a traditionally feminine garment that can be seen as a symbol of sexuality, and the black stockings add a touch of mystery and sophistication. |
+| How | How does the act of putting on stockings contribute to the intimate atmosphere in the image? | The act of putting on stockings can be seen as an intimate act, as it involves touching and caressing one's own body, and it can also be seen as a form of selfexpression and confidence. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person wearing a purple and white dress? | Yes. |
+| Yes/No | Are they putting on black stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the heart-shaped sticker visible in the image? | Yes. |
+| What | What is the person wearing? | A purple and white dress and black stockings. |
+| What | What is the person doing in the image? | Putting on black stockings. |
+| How | How is the person's attire associated with sensuality and allure? | The dress is often associated with sensuality and allure. |
+| How | How does the act of putting on stockings contribute to the seductive atmosphere in the image? | It is considered intimate and can be perceived as a form of selfexpression and confidence. |

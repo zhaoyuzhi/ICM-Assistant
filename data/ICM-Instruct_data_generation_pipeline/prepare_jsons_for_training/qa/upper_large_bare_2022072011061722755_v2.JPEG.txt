@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a scarf? | Yes. |
+| Yes/No | Is the woman in the image sitting on a boat? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| Yes/No | Does the image have a playful and inviting atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A bikini top and a scarf. |
+| What | What is the woman's facial expression in the image? | Smiling. |
+| How | How is the woman posing in the image? | She is sitting on a boat and posing for the camera. |
+| How | How does the image make the woman appear? | Confident and enjoying herself. |

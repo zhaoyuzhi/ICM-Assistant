@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman wearing pink lipstick? | Yes. |
+| Yes/No | Does the image feature a close-up shot of the woman's face? | Yes. |
+| Yes/No | Is the woman's hair blonde? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's expression appear playful? | Yes. |
+| What | What color is the woman's lipstick? | Pink. |
+| What | What is the woman doing with her tongue? | Sticking it out. |
+| How | How does the close-up shot of the woman's face emphasize her facial features? | It draws attention to her eyes, eyebrows, nose, and mouth. |
+| How | How does the pink lipstick on her lips emphasize her playful expression? | It highlights her lips and makes her appearance more striking. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person in the image wearing a towel? | Yes. |
+| Yes/No | Does the image include plants? | Yes. |
+| Yes/No | Is the person's hair visible? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| Yes/No | Is the person standing? | Yes. |
+| What | What is the person wearing? | A white towel. |
+| What | What is the background of the image? | A window adorned with green plants. |
+| How | How does the person's hair add to the overall aesthetic of the image? | It adds a sense of intimacy and vulnerability. |
+| How | How does the image evoke feelings? | It evokes feelings of relaxation and sensuality. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man seated on a couch? | Yes. |
+| Yes/No | Is the woman standing over the man? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the woman wearing a white lab coat? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| What | What is the man wearing? | A gray suit. |
+| What | What is the woman wearing? | A white lab coat. |
+| How | How are the man and woman positioned in the image? | The man is seated on a couch, while the woman is standing over him. |
+| How | How does the woman's attire contrast with the man's? | The woman's white lab coat contrasts with the man's gray suit, adding visual interest to the scene. |

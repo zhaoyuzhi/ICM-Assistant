@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt beige in color? | Yes. |
+| Yes/No | Does the skirt have a ruffle at the bottom? | Yes. |
+| Yes/No | Is the person wearing a white blouse? | Yes. |
+| Yes/No | Are the sleeves of the blouse ruffled? | Yes. |
+| Yes/No | Is the person's pose in the image confident and poised? | Yes. |
+| What | What is the color of the person's blouse? | White. |
+| What | What is the person's left hand resting on? | Their hip. |
+| How | How is the skirt cinched at the waist? | With a gold buckle. |
+| How | How does the person's pose add to the overall atmosphere of the image? | It adds a sense of allure and sensuality to the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing a baseball cap? | Yes. |
+| Yes/No | Is the man in the image flexing his muscles? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image feature a muscular man? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the man in the image wearing on his head? | A baseball cap. |
+| What | What is the man in the image wearing on his body? | A baseball jersey. |
+| How | How is the man in the image showcasing his physique? | By flexing his muscles. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the man and his physique, creating a strong visual impact and emphasizing the man's strength and physique. |

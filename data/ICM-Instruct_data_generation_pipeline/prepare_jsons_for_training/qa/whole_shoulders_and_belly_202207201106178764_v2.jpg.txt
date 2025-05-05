@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman holding a purse in her left hand? | Yes. |
+| Yes/No | Is the woman walking on a sidewalk? | Yes. |
+| Yes/No | Is the woman's skirt green in color? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy because of the woman's outfit? | Yes. |
+| What | What is the woman wearing on her upper body? | A midriffbaring top. |
+| What | What is the color of the woman's skirt? | Green. |
+| How | How is the woman carrying her purse? | She is holding it in her left hand. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

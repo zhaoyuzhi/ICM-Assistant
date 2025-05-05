@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black sweatshirt? | Yes. |
+| Yes/No | Are the man's pants camouflage patterned? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| Yes/No | Is the man's body the main focus of the photo? | No. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the man's pose in the image? | He is standing with his hands in his pockets, feet shoulderwidth apart. |
+| What | What is the overall atmosphere of the image? | Not sexy, emphasizing the man's actions and the overall scene rather than his body. |
+| How | How are the man's feet positioned in the image? | His feet are positioned shoulderwidth apart. |
+| How | How does the low exposure level of the image emphasize the focus on the man's actions and scene? | It downplays the man's body and highlights the actions and scene. |

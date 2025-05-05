@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing sneakers? | Yes. |
+| Yes/No | Is the person in the image dressed in blue and black? | Yes. |
+| Yes/No | Does the image feature any skin or body parts? | No. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image suggest a sporty or athletic theme? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color are the sneakers? | Blue and orange. |
+| What | What is the person's posture in the image? | Sitting comfortably on the floor. |
+| How | How is the person dressed in the image? | In a blue shirt and black pants. |
+| How | How does the image showcase the person's style? | Through their casual and sporty attire and posture. |

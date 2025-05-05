@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a striped shirt? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Are the man's hands on the woman's face? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Does the image depict a romantic and sensual atmosphere? | Yes. |
+| What | What is the man wearing? | A white shirt. |
+| What | What is the woman wearing? | A striped shirt. |
+| How | How are the man and woman holding each other? | They are in a passionate embrace, with the woman's arms wrapped around the man's neck and the man's hands on the woman's face, pulling her closer to him. |
+| How | How does the blurred background affect the image? | It puts the focus on the couple, emphasizing their actions and making the image more alluring. |

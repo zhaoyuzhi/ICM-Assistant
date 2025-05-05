@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a white skirt? | Yes. |
+| Yes/No | Is the image focused on the woman's upper body? | Yes. |
+| Yes/No | Does the image capture the woman from the waist up? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the blue color of the bra contrast with the white skirt? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a blue bra. |
+| What | What is the color of the bra the woman is wearing? | Blue. |
+| How | How does the woman's pose suggest intimacy and confidence? | The woman's hands are on her chest, and her body language conveys a sense of confidence and intimacy. |
+| How | How does the image create a seductive and alluring atmosphere? | The image captures the woman in a closeup, focusing on her chest and the bra she is putting on, creating a sense of intimacy. The contrast between the blue bra and white skirt adds to the seductive atmosphere. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the bra blue? | Yes. |
+| Yes/No | Is the skirt white? | Yes. |
+| Yes/No | Are the woman's hands on her chest? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What color is the bra? | Blue. |
+| How | How does the blue color of the bra contrast with the white skirt? | It creates a visual contrast that draws attention to the woman's upper body. |
+| How | How does the woman's pose and act of putting on the bra suggest intimacy and confidence? | Her pose and actions convey a sense of selfassurance and sensuality. |

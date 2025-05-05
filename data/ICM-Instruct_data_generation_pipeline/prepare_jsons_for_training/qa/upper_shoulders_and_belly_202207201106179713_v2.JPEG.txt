@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's jeans white? | Yes. |
+| Yes/No | Do the jeans have gold buttons? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman wearing gold earrings? | Yes. |
+| Yes/No | Is the woman posing with her hand on her hip? | Yes. |
+| What | What color is the woman's top? | Pink. |
+| What | What is the woman's hairstyle? | Loose waves. |
+| How | How are the woman's jeans styled? | With gold buttons. |
+| How | How is the woman posing in the image? | With her hand on her hip and looking directly at the camera. |

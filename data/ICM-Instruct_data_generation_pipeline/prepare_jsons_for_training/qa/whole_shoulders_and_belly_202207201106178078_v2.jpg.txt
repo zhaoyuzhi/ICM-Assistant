@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the women in the image smiling? | No. |
+| Yes/No | Is the image taken during the daytime? | Yes. |
+| Yes/No | Are the women walking in the same direction? | Yes. |
+| Yes/No | Is the building in the background a residential building? | No. |
+| Yes/No | Is the tree in the background a palm tree? | No. |
+| What | What is the woman on the left holding in her hand? | A shopping bag. |
+| What | What is the woman on the right wearing on her top? | A midriffbaring top. |
+| How | How are the women dressed? | They are both wearing face masks and casual clothing (jeans and a strapless top, and a midriffbaring top). |
+| How | How does the image make you feel? | The image creates a sexy and intriguing atmosphere, possibly suggesting a fun day of shopping for the two women. The face masks add an element of mystery and caution during a pandemic. |

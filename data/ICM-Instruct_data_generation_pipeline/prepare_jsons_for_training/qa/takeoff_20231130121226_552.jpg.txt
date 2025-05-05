@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Is the woman holding a white towel? | Yes. |
+| Yes/No | Is the woman removing her clothing? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| What | What is the woman holding over her head? | A white towel. |
+| What | What is the color of the dress the woman is wearing? | Black. |
+| How | How is the woman removing her clothing? | She is throwing off her towel. |
+| What | What is the overall atmosphere of the image? | Sensual and alluring. |

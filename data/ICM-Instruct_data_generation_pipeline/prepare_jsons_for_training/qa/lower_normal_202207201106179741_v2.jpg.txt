@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image dressed in a white shirt? | Yes. |
+| Yes/No | Are the person's legs and feet visible in the image? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Does the image contain any suggestive clothing or elements? | No. |
+| Yes/No | Is the person's exposure level low in the image? | Yes. |
+| Yes/No | Does the image have a romantic or intimate context? | No. |
+| What | What is the person in the image wearing on their feet? | White sneakers. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How is the person's movement depicted in the image? | Not specified. |
+| How | How does the blue background contribute to the overall atmosphere of the image? | It contributes to a calm and nonsexual atmosphere. |

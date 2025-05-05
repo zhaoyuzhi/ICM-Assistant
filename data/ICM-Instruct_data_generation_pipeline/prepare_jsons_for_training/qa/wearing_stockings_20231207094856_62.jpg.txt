@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Does the person in the image have other objects or people in the image? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the blanket the person is sitting on? | White. |
+| What | What color are the person's jeans? | Blue. |
+| How | How is the person's appearance in the image? | The person is wearing black stockings, a white shirt, and blue jeans. |
+| What | What atmosphere does the image create? | The image creates a cozy and intimate atmosphere. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person wearing black stockings? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the person in the image wearing on their legs? | Black stockings. |
+| What | What is the color of the person's shirt? | White. |
+| How | How is the person positioned on the bed? | Sitting. |
+| What | What is the atmosphere created by the image? | Cozy and intimate. |

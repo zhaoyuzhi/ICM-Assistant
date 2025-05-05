@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the woman in the image wearing a white jacket? | Yes. |
+| Yes/No | Are the couple kissing in the image? | Yes. |
+| Yes/No | Is the image set in front of a Christmas tree? | Yes. |
+| Yes/No | Are the ornaments on the Christmas tree red and gold? | Yes. |
+| Yes/No | Does the image have a romantic and intimate atmosphere? | Yes. |
+| What | What is the man wearing in the image? | A black jacket. |
+| What | What is the woman wearing in the image? | A white jacket. |
+| How | How are the couple positioned in the image? | They are standing close together, with the man's left hand on the woman's waist and their faces leaning in for a kiss. |
+| How | How would you describe the overall mood of the image? | The overall mood of the image is romantic, intimate, and festive, with a strong emphasis on the emotional connection between the couple. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a blazer? | Yes. |
+| Yes/No | Does the bra have a lace pattern? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman posing with her hand on her chest? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the bra? | Green. |
+| What | What is the woman's pose in the image? | She is posing with her hand on her chest. |
+| How | How does the lace pattern on the bra add to the overall look? | It adds a touch of elegance to the overall look. |
+| How | How does the white blazer contrast with the rest of the image? | It provides a contrasting element to the overall look, emphasizing the subject and the details of her outfit. |

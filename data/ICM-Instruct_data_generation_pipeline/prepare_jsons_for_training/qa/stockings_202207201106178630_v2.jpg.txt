@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image posing in a suggestive manner? | Yes. |
+| Yes/No | Are the person's legs spread apart in the image? | Yes. |
+| Yes/No | Is the person wearing black stockings and heels? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the person posing with in the image? | Their legs spread apart. |
+| What | What type of atmosphere does the image convey? | Confident and alluring. |
+| How | How are the person's legs positioned in the image? | Spread apart. |
+| How | How does the person's attire contribute to the image's overall atmosphere? | The black stockings and heels add to the allure and suggest a seductive or provocative appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue top? | Yes. |
+| Yes/No | Is the woman in the image wearing black shorts? | Yes. |
+| Yes/No | Does the woman in the image have her left arm raised? | Yes. |
+| Yes/No | Is the woman in the image looking down at her right arm? | Yes. |
+| Yes/No | Does the image have a sexy feel to it? | Yes. |
+| Yes/No | Are the woman's thighs almost exposed in the image? | Yes. |
+| What | What color is the woman's top in the image? | Blue. |
+| What | What is the woman looking at in the image? | Her right arm. |
+| How | How is the woman standing in the image? | With her left arm raised and looking down at her right arm. |
+| How | How does the woman's outfit and pose create a sense of allure and confidence in the image? | The woman's almost revealing outfit and confident pose create a sense of allure and confidence in the image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin wearing a pair of gray pants? | Yes. |
+| Yes/No | Does the mannequin have a drawstring waist? | Yes. |
+| Yes/No | Is the mannequin wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Does the image have a sexual or provocative atmosphere? | No. |
+| What | What is the color of the mannequin's pants? | Gray. |
+| What | What is the color of the mannequin's shirt? | White. |
+| How | How does the mannequin's outfit look? | Casual and comfortable. |
+| How | How does the white background affect the image? | It puts the focus on the mannequin and the pants, emphasizing their simplicity. |
+| Yes/No | Is the mannequin wearing a pair of gray pants? | Yes. |
+| Yes/No | Is the mannequin wearing a white shirt? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the background of the image a solid color? | Yes. |
+| Yes/No | Is the mannequin positioned in the center of the image? | Yes. |
+| Yes/No | Do the pants have a drawstring waist? | Yes. |
+| What | What is the color of the pants? | Gray. |
+| What | What is the color of the background? | Pink. |
+| How | How are the pants designed? | They are designed with a drawstring waist. |
+| What | What atmosphere does the background color provide? | A soft and warm atmosphere. |

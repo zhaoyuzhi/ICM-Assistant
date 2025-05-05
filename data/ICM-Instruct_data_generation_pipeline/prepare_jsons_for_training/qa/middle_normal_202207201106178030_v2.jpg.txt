@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pair of olive green cargo shorts? | Yes. |
+| Yes/No | Does the woman have a black belt around her waist? | Yes. |
+| Yes/No | Does the woman have a drawstring at the waist? | Yes. |
+| Yes/No | Is the woman wearing a white crop top? | Yes. |
+| Yes/No | Is the background of the image a white wall with a black frame? | Yes. |
+| What | What color are the woman's shorts? | Olive green. |
+| What | What is the woman's pose in the image? | She is striking a pose with her left hand on her hip and her right hand resting on her thigh. |
+| How | How is the woman's waist secured in the shorts? | The woman's waist is secured with a drawstring that is tied in a bow. |
+| How | How does the image focus on the woman's outfit and pose? | The image focuses on the woman's outfit and pose by highlighting her casual and relaxed attire and pose, rather than her physical appearance. |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pair of olive green cargo shorts? | Yes. |
+| Yes/No | Does the woman have a black belt around her waist? | Yes. |
+| Yes/No | Is the woman wearing a white crop top? | Yes. |
+| Yes/No | Is the woman striking a pose with her left hand on her hip and her right hand resting on her thigh? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What color are the woman's shorts? | Olive green. |
+| What | What is the woman wearing on her top? | A white crop top. |
+| How | How is the woman's hair styled? | Not specified in the description. |
+| How | How does the woman's pose suggest her mood or attitude? | The woman's pose suggests a casual and relaxed mood or attitude. |

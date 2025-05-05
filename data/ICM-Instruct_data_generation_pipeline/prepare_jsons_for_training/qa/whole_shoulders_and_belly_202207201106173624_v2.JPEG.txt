@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the woman's hands resting on her knees? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She is sitting on a chair with her hands resting on her knees. |
+| What | What is the color of the dress? | The dress is black and white. |
+| How | How does the dress accentuate the woman's figure? | The dress is formfitting, which accentuates the woman's figure. |
+| How | How does the woman's hair contribute to her elegant appearance? | The woman's hair is styled in loose waves, adding to her elegant appearance. |

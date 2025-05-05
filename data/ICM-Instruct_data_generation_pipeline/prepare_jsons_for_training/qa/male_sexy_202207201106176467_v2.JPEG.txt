@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image indoors? | No. |
+| Yes/No | Is the man in the image posing? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the man in the image smiling? | No. |
+| Yes/No | Is the image blurry? | No. |
+| What | What is the man in the image leaning on? | A railing. |
+| What | What is the background of the image? | A lush green field and a clear blue sky. |
+| How | How is the man's posture in the image? | Relaxed. |
+| How | How does the image create a sense of allure and intrigue? | Through the combination of the man's physique and the picturesque setting. |

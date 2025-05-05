@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image posing for the camera? | Yes. |
+| Yes/No | Does the woman's outfit reveal her midriff? | Yes. |
+| Yes/No | Are the jeans high-waisted? | Yes. |
+| Yes/No | Are the jeans cropped at the ankle? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's top? | Pink. |
+| What | What color are the jeans? | Blue. |
+| How | How is the woman's top cropped? | Offtheshoulder. |
+| How | How does the woman's pose and attire suggest a sexy vibe? | The woman's pose and attire suggest a casual, confident, and sexy vibe because she is wearing a strapless top that reveals her midriff, and her smile and pose give off an alluring vibe. |

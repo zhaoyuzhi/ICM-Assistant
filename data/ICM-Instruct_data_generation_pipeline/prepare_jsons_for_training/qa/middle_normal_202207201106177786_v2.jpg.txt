@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding a smartphone? | Yes. |
+| Yes/No | Is the person in the image wearing a gray t-shirt? | Yes. |
+| Yes/No | Are the person's jean shorts blue? | Yes. |
+| Yes/No | Is the person taking a picture with their smartphone? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the person in the image wearing? | A gray tshirt and blue jean shorts. |
+| What | What is the person in the image holding in their right hand? | A black smartphone. |
+| How | How is the person in the image posing? | They are standing with their right hand extended, holding a smartphone and taking a picture. |
+| What | What is the overall atmosphere of the image? | Casual and everyday, rather than sexy or provocative. |
+| Yes/No | Is the person in the image wearing a gray t-shirt? | Yes. |
+| Yes/No | Are they holding a black smartphone? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the person have blue jean shorts on? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the person holding in their left hand? | A black smartphone. |
+| What | What is the person wearing on their lower body? | Blue jean shorts. |
+| How | How is the person standing? | Not specified in the description. |
+| How | How much of the image is visible? | A small portion. |

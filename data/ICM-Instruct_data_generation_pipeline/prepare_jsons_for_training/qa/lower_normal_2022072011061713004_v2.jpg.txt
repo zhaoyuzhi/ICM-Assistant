@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress long? | Yes. |
+| Yes/No | Does the dress have a slit on the left side? | Yes. |
+| Yes/No | Is the dress cinched at the waist? | Yes. |
+| Yes/No | Are the woman's shoes white sneakers? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What is the primary color of the dress? | Olive green. |
+| What | What type of shoes is the woman wearing? | White sneakers. |
+| How | How is the dress cinched at the waist? | With a tie. |
+| How | How does the image emphasize the subject? | The white background and simple pose put the focus on the woman and her attire, creating a calm and composed atmosphere. |

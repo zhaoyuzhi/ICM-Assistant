@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing socks? | Yes. |
+| Yes/No | Are the person's sneakers visible in the image? | Yes. |
+| Yes/No | Is the room dimly lit? | Yes. |
+| What | What color are the person's shorts? | Green and black. |
+| What | What color is the person's shirt? | White. |
+| How | How is the person posing in the image? | The person's legs are crossed, adding a sense of confidence and allure to the image. |
+| How | How does the lighting in the room contribute to the overall mood of the image? | The dimly lit room creates a somewhat moody atmosphere, contributing to the image's sexiness. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a green blouse and black pants? | Yes. |
+| Yes/No | Is the background of the image a painting of autumn leaves? | Yes. |
+| Yes/No | Is the woman's face clearly visible in the image? | No. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| Yes/No | Is the woman posing in a suggestive way? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What is the woman wearing in the image? | A green blouse and black pants. |
+| What | What is the background of the image? | A painting of autumn leaves. |
+| How | How does the low exposure level of the image contribute to its atmosphere? | It suggests a more modest and conservative setting. |
+| How | How does the painting of autumn leaves in the background contribute to the image's atmosphere? | It adds a sense of tranquility and natural beauty, contrasting with the idea of a sexy or provocative atmosphere. |

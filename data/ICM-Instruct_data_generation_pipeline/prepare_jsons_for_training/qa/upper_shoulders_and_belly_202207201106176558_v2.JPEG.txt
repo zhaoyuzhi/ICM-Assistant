@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have straps? | No. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Does the necklace have multiple pendants? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the woman's hair style? | Ponytail. |
+| How | How many pendants are on the woman's necklace? | Multiple. |
+| How | How is the woman looking over her shoulder? | Seductively. |

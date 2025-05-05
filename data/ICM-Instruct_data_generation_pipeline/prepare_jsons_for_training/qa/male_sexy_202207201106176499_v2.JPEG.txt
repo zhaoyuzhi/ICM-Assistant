@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the man have any tattoos or visible scars on his chest or abdomen? | No. |
+| Yes/No | Is the man's underwear black or white? | No. |
+| Yes/No | Is the man posing in a relaxed, casual way? | No. |
+| Yes/No | Are there any other people or objects visible in the image? | No. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| What | What is the brand name of the man's underwear? | Jack Claude. |
+| What | What is the dominant color of the underwear? | Blue. |
+| How | How is the man posing in the image? | He is standing in a pose that exposes his chest and abdomen. |
+| How | How does the image make you feel? | It creates a captivating and alluring visual experience, evoking feelings of confidence and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue and white checkered top? | Yes. |
+| Yes/No | Are blue jeans being worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman in the image holding a black purse? | Yes. |
+| Yes/No | Is the woman in the image walking through an airport? | Yes. |
+| Yes/No | Does the woman in the image have her hand on her hip? | Yes. |
+| Yes/No | Does the image depict a crowd of people in the background? | Yes. |
+| What | What color is the woman's top? | Blue and white checkered. |
+| What | What is the woman in the image holding with her left hand? | Her black purse. |
+| How | How is the woman in the image holding her purse? | With her left hand. |
+| How | How is the woman in the image standing? | With her right hand on her hip. |

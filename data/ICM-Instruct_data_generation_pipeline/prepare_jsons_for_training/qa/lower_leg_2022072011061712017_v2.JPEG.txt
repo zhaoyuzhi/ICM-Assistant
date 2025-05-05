@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image walking? | Yes. |
+| Yes/No | Is the person carrying a bag? | Yes. |
+| Yes/No | Is the bag a red Coca Cola bag? | Yes. |
+| Yes/No | Are the person's shorts black? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the person moving towards the right side of the image? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What color are the person's shorts? | Black. |
+| How | How does the person's posture give off a confident and sexy vibe? | The person's long legs and relaxed posture give off a confident and sexy vibe. |
+| How | How does the image create an atmosphere that is both stylish and alluring? | The combination of the person's simple yet stylish attire, the red Coca Cola bag, and the laidback and carefree attitude suggested by the street setting and casual attire creates an atmosphere that is both stylish and alluring. |

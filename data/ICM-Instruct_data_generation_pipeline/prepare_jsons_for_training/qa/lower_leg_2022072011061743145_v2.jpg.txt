@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Is the person's pose suggestive? | Yes. |
+| Yes/No | Does the image feature a gray floor? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing on their bottom half? | Black shorts. |
+| What | What is the color of the person's top? | White. |
+| How | How is the person standing? | With their legs apart and hands on their hips. |
+| How | How does the contrast between the white top and black shorts affect the image? | It highlights the person's body, making the image sexier. |

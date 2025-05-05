@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a thong? | Yes. |
+| Yes/No | Is the woman in the image lying on her stomach? | Yes. |
+| Yes/No | Is the woman's head resting on her hand? | Yes. |
+| Yes/No | Is the bikini top colorful? | Yes. |
+| Yes/No | Is the thong made of a shiny material? | Yes. |
+| What | What is the woman's attire in the image? | Bikini top and thong. |
+| What | What is the atmosphere of the image? | Sexy. |
+| How | How is the woman's body positioned in the image? | She is lying on her stomach with her head resting on her hand. |
+| How | How does the image capture a moment of leisure and enjoyment? | The woman's pose and the beach setting suggest a relaxed and sensual atmosphere, inviting the viewer to appreciate her beauty and the surroundings. |

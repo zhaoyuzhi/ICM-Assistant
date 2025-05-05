@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Is the woman wearing a belt? | Yes. |
+| Yes/No | Is the belt blue? | Yes. |
+| Yes/No | Are the sleeves of the dress long? | Yes. |
+| Yes/No | Is the neckline of the dress high? | Yes. |
+| What | What color is the couch? | White. |
+| What | What type of earrings is the woman wearing? | Earrings (the description does not provide enough information to specify the type). |
+| How | How is the background of the image? | Blurred. |
+| How | How does the woman's attire appear? | Modest. |

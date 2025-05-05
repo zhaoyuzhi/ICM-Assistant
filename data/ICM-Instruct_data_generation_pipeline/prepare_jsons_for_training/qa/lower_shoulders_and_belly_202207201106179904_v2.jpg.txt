@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue leggings? | Yes. |
+| Yes/No | Is the woman in the image wearing a white sports bra? | Yes. |
+| Yes/No | Is the woman in the image standing on a concrete floor? | Yes. |
+| Yes/No | Is the woman in the image looking off to the side? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What is the woman in the image wearing on her feet? | White sneakers. |
+| What | What is the color of the woman's leggings? | Blue. |
+| How | How is the woman standing in the image? | She is standing with her feet shoulderwidth apart, with her weight evenly distributed on both legs. |
+| How | How is the woman's belly exposed in the image? | Her belly is exposed because her sports bra does not cover her midriff, and her leggings are worn low on her hips. |

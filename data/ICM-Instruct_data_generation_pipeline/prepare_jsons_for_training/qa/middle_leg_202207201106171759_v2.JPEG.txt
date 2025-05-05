@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a denim skirt? | Yes. |
+| Yes/No | Does the skirt have gold buttons on the front? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the person wearing a blue bracelet on their left wrist? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the color of the bracelet the person is wearing? | Blue. |
+| What | What is the reason for the sexy atmosphere in the image? | The person's attire, exposure of their thighs, and the combination of elegance and personal style. |
+| How | How many gold buttons are on the front of the skirt? | Three. |
+| How | How does the blue bracelet add to the person's outfit? | It adds a pop of color and a hint of personal style. |

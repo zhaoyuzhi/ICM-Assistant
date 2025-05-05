@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress soaked? | Yes. |
+| Yes/No | Is the woman holding her dress up with one hand? | Yes. |
+| Yes/No | Is her hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image a concrete wall with a bamboo fence? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's attire in the image? | A white dress. |
+| What | What is the woman's hair style in the image? | Loose waves. |
+| How | How is the woman holding her dress up? | With one hand. |
+| How | How does the background of the image contrast with the woman's dress? | The concrete wall and bamboo fence provide a stark contrast to the woman's white dress. |

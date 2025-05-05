@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the neckline of the shirt plunging? | Yes. |
+| Yes/No | Is the shirt sheer? | Yes. |
+| Yes/No | Does the man have spiky hair? | Yes. |
+| Yes/No | Is the background of the image a gray wall and a plant? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man's attire in the image? | A white shirt with a plunging neckline and sheer fabric. |
+| What | What is the overall atmosphere of the image? | Sexy, alluring, and intriguing. |
+| How | How does the man's hair add to the overall feel of the image? | The spiky hair adds a touch of edginess and confidence to the man's appearance, complementing the sexy atmosphere. |
+| How | How does the background contribute to the image's atmosphere? | The neutral background of a gray wall and a plant provides a subtle and unobtrusive backdrop that allows the man's appearance to take center stage, further accentuating the sexy atmosphere. |

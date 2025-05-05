@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow sweater? | Yes. |
+| Yes/No | Is the woman standing in front of a tree? | Yes. |
+| Yes/No | Are the flowers on the tree pink? | Yes. |
+| Yes/No | Is the woman's attire casual? | Yes. |
+| Yes/No | Is the image revealing any explicit or inappropriate content? | No. |
+| Yes/No | Does the image focus on the woman's physical appearance or suggestive poses? | No. |
+| What | What color are the flowers on the tree? | Pink. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| How | How is the woman standing in front of the tree? | She is standing in a relaxed, casual pose. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It creates a sense of modesty and understatement, emphasizing the peaceful and natural setting rather than drawing attention to the woman's physical appearance. |

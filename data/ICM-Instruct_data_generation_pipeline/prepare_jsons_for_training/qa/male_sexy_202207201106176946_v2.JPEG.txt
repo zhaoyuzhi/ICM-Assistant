@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing against a plain white background? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man's demeanor confident and relaxed? | Yes. |
+| Yes/No | Are the man's arms relaxed at his sides? | Yes. |
+| Yes/No | Is the image sexy because of the man's confident pose and the stark contrast between his black underwear and the white background? | Yes. |
+| What | What is written on the man's underwear? | "Innershirt". |
+| What | What is the color of the man's underwear? | Black. |
+| How | How is the man standing in the image? | With his arms relaxed at his sides and his head turned to the side. |
+| How | How does the simplicity of the background emphasize the man? | It draws attention to his physique and the details of his attire, making him the sole focus of the picture. |

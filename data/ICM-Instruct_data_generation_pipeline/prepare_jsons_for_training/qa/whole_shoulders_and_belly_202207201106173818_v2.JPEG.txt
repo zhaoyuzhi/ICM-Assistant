@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the skirt midriff-baring? | Yes. |
+| Yes/No | Is the woman's outfit revealing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| What | What color is the woman's top? | Yellow. |
+| What | What color is the woman's skirt? | White. |
+| How | How is the woman posing in the image? | With her hand on her hip and her head slightly tilted to the side. |
+| What | What is the overall atmosphere of the image? | Sexy. |

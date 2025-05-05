@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the two men in the image kissing? | Yes. |
+| Yes/No | Is the man on the left wearing a green shirt? | Yes. |
+| Yes/No | Is the man on the right wearing a yellow shirt? | Yes. |
+| Yes/No | Are the men standing in a wooded area? | Yes. |
+| Yes/No | Do the men have their eyes closed? | Yes. |
+| What | What color shirt is the man on the left wearing? | Green. |
+| What | What color shirt is the man on the right wearing? | Yellow. |
+| How | How are the men positioned in the image? | They are leaning in to kiss each other, with their bodies close together. |

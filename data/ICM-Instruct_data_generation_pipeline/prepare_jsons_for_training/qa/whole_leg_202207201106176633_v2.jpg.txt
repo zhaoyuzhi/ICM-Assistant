@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a black coat? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a brown skirt? | Yes. |
+| Yes/No | Is the woman holding a purse in her left hand? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What is the woman's pose in the image? | The woman is standing with her left hand on her hip. |
+| What | What is the color of the woman's skirt? | Brown. |
+| How | How does the woman's outfit create a sense of confidence and style? | The woman's outfit creates a sense of confidence and style through the combination of a black coat, a white shirt, and a brown skirt, which contrast visually and create a striking image. The woman's pose and attire also suggest a sense of confidence and allure. |
+| How | How does the white background emphasize the subject in the image? | The white background emphasizes the subject by creating a clean and minimalistic environment that draws the viewer's attention to the woman. The lack of distractions in the background allows the viewer to focus on the woman's attire and pose, making her the focal point of the image. |

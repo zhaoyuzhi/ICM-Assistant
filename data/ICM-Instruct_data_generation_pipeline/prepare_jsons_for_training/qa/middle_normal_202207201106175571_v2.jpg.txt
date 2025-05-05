@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white pair of pants? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image focus on the person's physical appearance? | No. |
+| What | What is the color of the person's pants? | White. |
+| What | What is the color of the person's top? | Black. |
+| How | How is the person standing in the image? | With their hands on their hips. |
+| How | How would you describe the overall atmosphere of the image? | Neutral. |
+| Yes/No | Is the person in the image wearing a pair of white pants? | Yes. |
+| Yes/No | Are the white pants made of a lightweight fabric? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Does the image suggest a sexual context? | No. |
+| Yes/No | Are there any suggestive poses or elements in the image? | No. |
+| Yes/No | Does the person's pose with their hands on their hips suggest a neutral or non-sexual atmosphere? | Yes. |
+| What | What is the person wearing on their bottom half? | White pants. |
+| What | What is the person wearing on their top half? | Black top. |
+| How | How are the white pants different from other pants? | They have a distinctive crease down the front. |
+| How | How does the image's atmosphere differ from a sexy image? | The image's atmosphere is neutral and nonsexual, whereas a sexy image would suggest a sexual context or suggestive poses. |

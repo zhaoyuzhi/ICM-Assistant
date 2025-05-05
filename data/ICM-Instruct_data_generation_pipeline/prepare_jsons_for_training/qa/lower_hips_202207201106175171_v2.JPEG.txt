@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the stool in the image white? | Yes. |
+| What | What is the color of the person's leggings in the image? | Purple. |
+| What | What is the person's pose on the stool? | Leaning back with legs crossed. |
+| How | How is the person's buttocks displayed in the image? | Prominently. |
+| What | What atmosphere does the image create according to the description? | Sensuality and allure. |

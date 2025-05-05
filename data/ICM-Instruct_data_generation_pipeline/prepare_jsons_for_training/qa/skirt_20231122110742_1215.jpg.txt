@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Does the dress have a lace trim? | Yes. |
+| Yes/No | Is the woman lifting her dress? | Yes. |
+| Yes/No | Is the dress sheer? | Yes. |
+| Yes/No | Is the woman wearing a pink cape? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman lifting her dress revealing? | Her legs and cleavage. |
+| What | What is the color of the dress and cape? | Pink. |
+| How | How is the woman's hair styled? | Long and black. |
+| How | How does the gray curtain in the background contribute to the overall atmosphere of the image? | It provides a neutral backdrop that allows the woman and her attire to stand out. |

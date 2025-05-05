@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pink leggings? | Yes. |
+| Yes/No | Does the person have their hands resting on their hips? | Yes. |
+| Yes/No | Are the white sneakers tightly laced? | No. |
+| Yes/No | Is the person's pose confident and assertive? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person's attire revealing? | Yes. |
+| What | What color are the leggings? | Pink. |
+| What | What is written on the leggings? | "BABES". |
+| How | How are the leggings fitting on the person? | Tightfitting and formfitting. |
+| How | How are the white sneakers contrasting with the pink leggings? | They provide a stark contrast, making the leggings stand out. |

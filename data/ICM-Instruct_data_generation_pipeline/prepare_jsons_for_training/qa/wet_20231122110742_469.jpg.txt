@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Is the woman's hair wet in the image? | Yes. |
+| Yes/No | Is the bathtub filled with water in the image? | Yes. |
+| Yes/No | Is the woman looking over her shoulder in the image? | Yes. |
+| Yes/No | Are there pink flowers surrounding the bathtub in the image? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the color of the woman's dress in the image? | Pink. |
+| What | What is the woman's posture in the image? | She is sitting in the bathtub with her back leaning against the side and looking over her shoulder. |
+| How | How does the woman's gaze over her shoulder contribute to the atmosphere of the image? | It creates a sense of connection and intimacy with the viewer. |
+| How | How do the pink flowers surrounding the bathtub enhance the overall atmosphere of the image? | They add a touch of softness, elegance, and seduction to the scene. |

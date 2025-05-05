@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Are the stockings black? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the white dress contribute to the sexiness of the image? | Yes. |
+| What | What color is the dress? | White. |
+| What | What is the person in the image doing? | Putting on black stockings. |
+| How | How does the black contrast with the white dress? | The black stockings create a striking visual contrast against the white dress. |
+| How | How does the act of putting on stockings contribute to the sexiness of the image? | The act of putting on stockings can be seen as a sensual and intimate moment, adding to the overall allure of the image. |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Are the stockings being put on black? | Yes. |
+| Yes/No | Is the image in a sexual context? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the white dress associated with elegance and sophistication? | Yes. |
+| Yes/No | Does the act of putting on stockings add a sensual and intimate moment to the image? | Yes. |
+| What | What is the person in the image wearing? | A white dress and black stockings. |
+| What | What is the person in the image doing? | Putting on black stockings. |
+| How | How does the image create a visually striking image? | The contrast between the white dress and black stockings creates a visually striking image. |
+| How | How does the act of putting on stockings add to the overall allure of the image? | The act of putting on stockings can be seen as a sensual and intimate moment, adding to the overall allure of the image. |

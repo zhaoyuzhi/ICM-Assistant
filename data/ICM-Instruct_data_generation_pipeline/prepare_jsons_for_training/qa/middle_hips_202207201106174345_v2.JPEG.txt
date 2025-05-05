@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Does the image have a close-up perspective? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image focus on the person's lower body? | Yes. |
+| Yes/No | Is the design on the back pocket of the jeans distinctive? | Yes. |
+| What | What is the color of the jeans? | Blue. |
+| What | What is the person in the image wearing on their upper body? | A white top. |
+| How | How does the close-up perspective contribute to the atmosphere of the image? | It draws the viewer's attention to the person's body and creates a sense of intimacy. |
+| How | How does the contrast between the blue jeans and the white top affect the image? | It highlights the person's body and adds visual interest to the image. |

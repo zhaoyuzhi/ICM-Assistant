@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a white jacket? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman's hair styled in a ponytail? | Yes. |
+| Yes/No | Is the woman posing with her hand on her head? | Yes. |
+| Yes/No | Is the woman's body facing the camera? | Yes. |
+| What | What color is the woman's bra? | Pink. |
+| What | What is the woman wearing on her lower body? | Matching pink underwear. |
+| How | How is the woman's hair styled? | In a ponytail. |
+| How | How is the woman posing in the image? | With her hand on her head and her body facing the camera. |

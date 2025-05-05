@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue pants? | Yes. |
+| Yes/No | Is the person's top white? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the atmosphere of the image calm and neutral? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What color are the person's pants? | Blue. |
+| What | What color is the person's top? | White. |
+| How | How is the person posing in the image? | Neutral. |
+| How | How does the white background contribute to the atmosphere of the image? | It helps to keep the focus on the person and their clothing, rather than any potential distractions. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white lace dress? | Yes. |
+| Yes/No | Is the dress soaked? | Yes. |
+| Yes/No | Does the woman have a white rose in her hand? | Yes. |
+| Yes/No | Are her hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman's gaze directed off to the side? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What is the woman holding in her hand? | A white rose. |
+| What | What color is the woman's hair? | Loose waves. |
+| How | How is the woman's expression? | Thoughtful and contemplative. |
+| How | How does the woman's attire, the rose she holds, and her overall demeanor make the viewer feel? | It creates a sense of mystery and intrigue, making the viewer want to know more about her. |

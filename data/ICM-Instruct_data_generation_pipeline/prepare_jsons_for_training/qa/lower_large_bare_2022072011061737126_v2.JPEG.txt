@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bathing suit? | No. |
+| Yes/No | Is the person in the image indoors? | Yes. |
+| Yes/No | Is the person in the image sitting in a bathtub? | Yes. |
+| Yes/No | Are the person's feet resting on the edge of the bathtub? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's hands placed on their knees? | Yes. |
+| What | What color are the person's sandals? | Brown. |
+| What | What is the person's posture in the image? | The person is sitting with their legs crossed and their hands placed on their knees. |
+| How | How is the person's lower body exposed in the image? | The person's lower body is exposed because they are not wearing any clothing on their lower half. |
+| How | How does the image evoke feelings of sensuality and intimacy? | The image evokes feelings of sensuality and intimacy because it captures a moment of vulnerability and relaxation, with the person in a bathtub, wearing minimal clothing, and with their lower body exposed. The closeup perspective also allows the viewer to focus on the person's body and the details of their attire and posture, creating a sense of intimacy. |

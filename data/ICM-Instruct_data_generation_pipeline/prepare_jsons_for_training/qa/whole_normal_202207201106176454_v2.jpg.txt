@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the man's hands in his pockets? | Yes. |
+| Yes/No | Is the room's wall white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's posture relaxed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and ordinary? | Yes. |
+| What | What is the man wearing? | A black shirt and pants. |
+| What | What is the color of the room's wall? | White. |
+| How | How are the man's hands positioned? | In his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Calm and ordinary. |

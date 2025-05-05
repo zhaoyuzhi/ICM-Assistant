@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top white with black stripes? | Yes. |
+| Yes/No | Is the bikini bottom white with a black and white striped pattern? | Yes. |
+| Yes/No | Is the woman striking a pose with her left hand on her hip and her right hand on her thigh? | Yes. |
+| Yes/No | Is the woman wearing sunglasses? | Yes. |
+| Yes/No | Does the image feature a clear blue sky with a few clouds in the background? | Yes. |
+| What | What color is the woman's bikini top? | White with black stripes. |
+| What | What is the woman's pose in the image? | She is striking a pose with her left hand on her hip and her right hand on her thigh. |
+| How | How is the woman looking at the camera? | She is looking directly at the camera with a confident expression. |
+| How | How does the combination of the clear blue sky and the woman's attire create a sense of relaxation and enjoyment? | The combination creates a sense of relaxation and enjoyment because it suggests a carefree and indulgent atmosphere, often associated with sexy images. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a tight-fitting garment? | Yes. |
+| Yes/No | Does the woman have her left hand on her hip? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the woman holding a phone in her right hand? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman confident and assertive in the image? | Yes. |
+| What | What is the woman wearing in the image? | A gray turtleneck sweater. |
+| What | What is the woman holding in her right hand? | A pink phone. |
+| How | How is the woman holding her left hand in the image? | She has her left hand on her hip. |
+| How | How would you describe the woman's pose in the image? | Confident and assertive. |

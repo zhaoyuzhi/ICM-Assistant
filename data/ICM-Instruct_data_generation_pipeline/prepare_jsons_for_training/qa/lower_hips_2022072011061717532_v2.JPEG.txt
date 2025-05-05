@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sports bra? | Yes. |
+| Yes/No | Are the person's buttocks prominently displayed? | Yes. |
+| Yes/No | Is the person wearing maroon leggings? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the background of the image neutral? | Yes. |
+| What | What is the color of the person's leggings? | Maroon. |
+| What | What is the color of the person's sneakers? | White. |
+| How | How is the person's body positioned in the image? | The person is walking with a confident stride. |
+| How | How does the image's composition contribute to its overall atmosphere? | The composition emphasizes the person's body and clothing, adding to the sexy feel of the image. |

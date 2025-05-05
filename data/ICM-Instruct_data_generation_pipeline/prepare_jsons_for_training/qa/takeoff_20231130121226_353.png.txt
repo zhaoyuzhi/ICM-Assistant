@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a face mask? | Yes. |
+| Yes/No | Is the person in the image taking off their clothes? | Yes. |
+| Yes/No | Does the person in the image have long brown hair? | Yes. |
+| Yes/No | Is the person in the image standing in front of a white wall? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Is the pink bra visible in the image? | Yes. |
+| What | What color is the face mask? | Blue. |
+| What | What color is the light blue top? | Light blue. |
+| How | How is the person taking off their clothes? | The person is taking off their clothes, which include a light blue top and a pink bra. |
+| What | What element does the pink bra add to the scene? | The pink bra adds an element of intimacy to the scene. |

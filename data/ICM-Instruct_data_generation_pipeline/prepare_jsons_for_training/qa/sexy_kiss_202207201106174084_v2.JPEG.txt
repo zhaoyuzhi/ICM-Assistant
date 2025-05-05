@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are they standing on a sidewalk? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the man wearing a blue shirt? | Yes. |
+| Yes/No | Are there trees in the background? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing? | A white shirt and blue shorts. |
+| What | What is the man wearing? | A blue shirt and jeans. |
+| How | How are the couple standing in relation to each other? | The man is holding the woman in his arms. |
+| How | How does the image convey a sense of intimacy and connection between the couple? | Through their close proximity and the act of kissing. |

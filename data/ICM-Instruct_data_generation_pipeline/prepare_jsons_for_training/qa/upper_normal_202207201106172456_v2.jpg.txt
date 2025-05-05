@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white suit? | Yes. |
+| Yes/No | Is the man holding a bowl of cereal? | Yes. |
+| Yes/No | Are the cereal pieces shaped like a cat and a fish? | Yes. |
+| Yes/No | Is the man smiling? | Yes. |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the man promoting in the image? | A children's cereal product. |
+| What | What is the atmosphere of the image? | Lighthearted and fun. |
+| How | How is the man holding the bowl of cereal? | He is holding it with one hand and smiling. |
+| How | How would you describe the exposure level of the image? | Low. |

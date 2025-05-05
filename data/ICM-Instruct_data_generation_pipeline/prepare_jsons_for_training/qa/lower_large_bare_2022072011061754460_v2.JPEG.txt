@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Is the person wearing a sweater? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person holding a blanket? | Yes. |
+| Yes/No | Is the image in color? | No. |
+| Yes/No | Does the image portray a sense of intimacy? | Yes. |
+| What | What is the person wearing on their feet? | Nothing (they are barefoot). |
+| What | What is the color of the sweater? | White. |
+| How | How is the person holding the blanket? | With their left hand. |
+| How | How are the person's legs crossed? | With one leg resting on the other. |

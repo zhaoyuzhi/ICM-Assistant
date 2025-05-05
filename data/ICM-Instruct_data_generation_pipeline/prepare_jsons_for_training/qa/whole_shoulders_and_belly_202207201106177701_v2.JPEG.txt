@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's shorts rolled up at the bottom? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman's top white? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| What | What is the color of the woman's top? | White. |
+| What | What is the style of the woman's shorts? | Denim shorts. |
+| How | How is the woman's top styled? | High neckline. |
+| How | How are the woman's shorts styled? | Rolled up at the bottom. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman kissing the man in the image? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Is the woman's hand on the man's face? | Yes. |
+| Yes/No | Is the man wearing a plaid shirt? | Yes. |
+| Yes/No | Is the woman wearing a black jacket? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and passion between the man and woman? | Yes. |
+| What | What is the woman wearing in the image? | A black jacket. |
+| What | What is the man wearing in the image? | A plaid shirt. |
+| How | How is the woman's head tilted in the image? | To the side. |
+| How | How does the image convey a sense of intimacy and passion between the man and woman? | Through their close proximity, the woman's hand on the man's face, and the intimate and passionate nature of the kiss. |

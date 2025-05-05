@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Are there any explicit nudity or suggestive clothing in the image? | No. |
+| Yes/No | Is the woman posing in a sexual or provocative manner? | No. |
+| Yes/No | Is the room decorated with a gray couch? | Yes. |
+| Yes/No | Does the image have a calm and casual atmosphere? | Yes. |
+| Yes/No | Is the woman's blouse pink and blue? | Yes. |
+| What | What color is the woman's blouse? | Pink and blue. |
+| What | What is the color of the couch in the room? | Gray. |
+| How | How is the woman posing in the image? | Neutrally. |
+| How | How would you describe the overall atmosphere of the image? | Calm and casual. |

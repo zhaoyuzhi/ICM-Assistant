@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Is the person wearing a pair of blue shorts? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person's lower half of their body exposed? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Is the contrast between the person's clothing and the white sheets appealing? | Yes. |
+| What | What color are the person's shorts? | Blue. |
+| What | What is the person's position on the bed? | Lying down with legs crossed. |
+| How | How is the person's lower half of their body exposed? | Their legs and feet are visible. |
+| How | How does the image create an atmosphere of relaxation? | The person appears comfortable and relaxed, and the white sheets and intimate setting contribute to the feeling of relaxation. |

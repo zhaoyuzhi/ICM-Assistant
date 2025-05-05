@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Is the person wearing blue jeans? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the image focus on the person's body or suggestive poses? | No. |
+| What | What is the person wearing around their waist? | A colorful belt. |
+| What | What is the dominant color of the person's blouse? | White. |
+| How | How is the person's clothing depicted in the image? | The person's clothing is depicted as casual and relaxed, with a focus on the person's white blouse and colorful belt. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level of the image creates a sense of mystery and emphasizes the focus on the person's clothing rather than their body or any suggestive poses, contributing to a casual and relaxed atmosphere. |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Is the image sexy or provocative? | No. |
+| Yes/No | Does the image feature a colorful belt? | Yes. |
+| Yes/No | Are the person's clothes tight or revealing? | No. |
+| Yes/No | Is the overall atmosphere of the image formal or professional? | No. |
+| What | What is the primary color of the person's blouse? | White. |
+| What | What is the color of the person's belt? | Colorful. |
+| How | How is the person's clothing styled in the image? | The person is wearing a white blouse with a floral pattern and a colorful belt. |
+| How | How would you describe the overall mood or atmosphere of the image? | Casual and relaxed. |

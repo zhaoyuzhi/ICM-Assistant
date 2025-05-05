@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red top? | Yes. |
+| Yes/No | Does the woman have a gold necklace? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the gold necklace add elegance and sophistication to the woman's appearance? | Yes. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What is the atmosphere of the image? | Seductive and intriguing. |
+| How | How does the woman's lip biting gesture contribute to the image's sexiness? | It creates an atmosphere of intensity and allure. |
+| How | How does the gold necklace add to the woman's appearance? | It adds a touch of elegance and sophistication. |

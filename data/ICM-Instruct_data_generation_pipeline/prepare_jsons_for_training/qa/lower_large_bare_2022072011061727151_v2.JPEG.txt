@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Is the person's lower body exposed? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the chair pink? | Yes. |
+| Yes/No | Is the person wearing white socks? | Yes. |
+| Yes/No | Is the person wearing white tights? | Yes. |
+| What | What color are the socks? | White. |
+| What | What color is the chair? | Pink. |
+| How | How are the person's legs positioned? | Crossed. |
+| What | What atmosphere does the image convey? | Intimate and sensual. |

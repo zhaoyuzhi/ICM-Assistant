@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue and white sneakers? | Yes. |
+| Yes/No | Is the person in the image leaning against a tree? | Yes. |
+| Yes/No | Does the person in the image have their left hand on their hip? | Yes. |
+| Yes/No | Is the person in the image wearing blue pants? | Yes. |
+| Yes/No | Does the person in the image have their right hand on the tree? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | A blue and white shirt and blue pants. |
+| What | What is the color scheme of the image? | Blue and white. |
+| How | How is the person in the image standing? | With their left hand on their hip and their right hand on the tree, leaning against the tree. |
+| How | How does the person's attire contribute to the overall aesthetic of the image? | The blue and white color scheme creates a visually appealing contrast, while the person's pose against the tree adds a natural and relaxed element to the image. |

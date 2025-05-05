@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the plant behind the woman green? | Yes. |
+| Yes/No | Is the woman posing for the photo? | Yes. |
+| Yes/No | Are the woman's attire and the overall atmosphere of the image modest and non-sexual? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color is the woman's jacket? | Black. |
+| What | What is the color of the plant's leaves? | Green. |
+| How | How is the woman standing in relation to the plant? | In front of it. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

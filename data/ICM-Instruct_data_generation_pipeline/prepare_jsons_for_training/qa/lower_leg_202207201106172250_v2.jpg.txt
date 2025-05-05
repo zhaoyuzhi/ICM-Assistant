@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman sitting on a stool? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is the background plain beige? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What color are the woman's heels? | Gray. |
+| How | How is the woman sitting on the stool? | With her legs crossed. |
+| What | What does the contrast between the woman's outfit and the background do? | It accentuates her presence in the image. |

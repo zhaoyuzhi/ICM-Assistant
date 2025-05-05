@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and suggestive? | Yes. |
+| Yes/No | Does the image feature a desk? | Yes. |
+| Yes/No | Are the black shoes worn by the person a contrast to the white stockings? | Yes. |
+| Yes/No | Does the image create a seductive and alluring scene? | Yes. |
+| What | What is the person in the image wearing on their feet? | Black shoes. |
+| What | What is the color of the stockings worn by the person in the image? | White. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image create a seductive and alluring scene? | Through the combination of the person's attire, the intimate setting, and the overall composition of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the woman standing on a beach in the image? | Yes. |
+| Yes/No | Is there a city skyline visible in the background of the image? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman posing for the camera in the image? | Yes. |
+| What | What is the woman wearing in the image? | A bikini top and bottom. |
+| What | What is the background of the image? | A city skyline. |
+| How | How is the woman standing in the image? | She is standing confidently and posing for the camera. |
+| How | How does the image make the viewer feel? | The image creates a sense of confidence and allure, and captures the viewer's attention. |

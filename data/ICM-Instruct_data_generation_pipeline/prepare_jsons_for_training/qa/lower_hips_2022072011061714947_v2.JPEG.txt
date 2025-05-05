@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the person's high heels a prominent feature in the image? | Yes. |
+| Yes/No | Does the person's buttocks are prominently displayed in the image? | Yes. |
+| Yes/No | Is the person carrying a purse in the image? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What is the color of the person's pants? | White. |
+| What | What is the person carrying in the image? | A purse. |
+| How | How are the person's high heels adding an element of sophistication and confidence to their walk? | They create a sense of height and power, and the way the person is walking in them suggests confidence and poise. |
+| How | How does the person's posture and way of walking contribute to the sexy vibe of the image? | The person's posture and the way they are walking down the street, with a sense of confidence and sass, contribute to the sexy vibe of the image. |

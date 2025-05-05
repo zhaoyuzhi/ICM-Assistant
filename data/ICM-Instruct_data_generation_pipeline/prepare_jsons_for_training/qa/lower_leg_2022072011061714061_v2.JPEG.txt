@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Is the room dimly lit? | Yes. |
+| Yes/No | Does the image create a moody atmosphere? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color are the shorts? | Green. |
+| What | What color is the shirt? | White. |
+| How | How are the person's legs positioned? | Slightly apart. |
+| How | How does the dim lighting enhance the image? | It creates a more intimate and private setting, adding to the sensuality of the image. |

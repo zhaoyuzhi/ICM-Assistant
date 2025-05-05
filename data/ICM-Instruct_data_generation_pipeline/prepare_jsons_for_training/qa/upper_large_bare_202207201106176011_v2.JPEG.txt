@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | No. |
+| Yes/No | Is the woman in the image standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| Yes/No | Is the woman in the image posing in a confident manner? | Yes. |
+| Yes/No | Does the image feature the woman's head tilted to the side? | Yes. |
+| Yes/No | Is the exposure level of the woman's upper body significant in the image? | Yes. |
+| What | What is the color of the woman's top in the image? | Blue and yellow. |
+| What | What does the text on the woman's top read? | "NJ Strong". |
+| How | How is the woman posing in the image? | With her hand on her hip and her head tilted to the side. |
+| How | How does the beach setting and ocean in the background enhance the overall appeal of the image? | It creates a relaxed and inviting atmosphere that enhances the image's overall appeal. |

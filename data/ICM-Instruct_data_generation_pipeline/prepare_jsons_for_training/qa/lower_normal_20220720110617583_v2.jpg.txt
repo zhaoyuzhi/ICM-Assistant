@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the woman's posture relaxed? | Yes. |
+| Yes/No | Does the woman's outfit suggest a casual, everyday setting? | Yes. |
+| Yes/No | Is the woman's exposure level low? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual context? | No. |
+| Yes/No | Does the woman's attire and posture suggest a non-sexual nature? | Yes. |
+| What | What is the material of the chair the woman is sitting on? | Wooden. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How are the woman's arms positioned? | Resting on her knees. |
+| How | How would you describe the woman's overall posture? | Relaxed. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a black off-the-shoulder top? | Yes. |
+| Yes/No | Does the woman have sunglasses on? | Yes. |
+| Yes/No | Are the jeans she is wearing blue? | Yes. |
+| Yes/No | Is her hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the style of the woman's hair? | Loose waves. |
+| How | How does the woman's outfit contribute to the sexy atmosphere of the image? | The offtheshoulder top and ruffled collar give a sense of allure, while the blue jeans add a casual yet chic vibe. |
+| How | How does the background contribute to the focus of the image? | The gray wall contrasts with the woman's outfit and makes her the focal point of the image. |

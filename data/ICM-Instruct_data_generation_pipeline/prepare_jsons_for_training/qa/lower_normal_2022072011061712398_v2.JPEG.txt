@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image facing the camera? | No. |
+| Yes/No | Is the man wearing a white t-shirt? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the image focused on the man's body? | No. |
+| Yes/No | Is the atmosphere of the image formal? | No. |
+| Yes/No | Are there any sexy elements in the image? | No. |
+| What | What color are the man's cargo shorts? | Khaki. |
+| How | How many pockets can be seen on the man's shorts? | Multiple. |
+| How | How would you describe the man's stance in the image? | Relaxed. |
+| What | What does the low exposure level of the image indicate about the focus of the image? | The focus is on the man's attire rather than his body. |

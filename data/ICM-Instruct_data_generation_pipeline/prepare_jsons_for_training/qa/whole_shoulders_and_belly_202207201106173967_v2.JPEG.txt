@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Does the top have a ruffled collar? | Yes. |
+| Yes/No | Are the sleeves of the top short? | Yes. |
+| Yes/No | Is the skirt black and white in color? | Yes. |
+| Yes/No | Does the skirt have a floral pattern? | Yes. |
+| What | What is the color of the woman's purse? | Brown. |
+| What | What is the material of the purse? | Leather. |
+| How | How is the woman holding her purse? | In her hand. |
+| What | What atmosphere does the image create? | Seductive. |

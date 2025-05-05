@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are they wearing camouflage shorts? | Yes. |
+| Yes/No | Is the background gray? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Are they in motion? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the person's facial expression? | Not visible due to low exposure level. |
+| What | What is the person's body language? | Possibly walking or running. |
+| How | How is the person's movement captured in the image? | Blurred or in motion. |
+| How | How does the low exposure level affect the image's overall atmosphere? | Emphasizes the focus on the person's actions rather than their appearance, creating a casual and candid atmosphere. |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are they wearing camouflage shorts? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Does the image feature any intimate areas of the person's body? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the person appear to be in motion? | Yes. |
+| What | What is the color of the person's t-shirt? | White. |
+| What | What is the color of the person's shorts? | Camouflage. |
+| How | How is the person's movement captured in the image? | The person appears to be walking. |
+| How | How does the low exposure level of the image affect the focus of the image? | The low exposure level emphasizes the focus on the person's movement and attire rather than their physical appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man smiling? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Are the man and woman looking directly at the camera? | Yes. |
+| Yes/No | Is the man wearing a gray jacket? | Yes. |
+| Yes/No | Is the woman dressed in a white blouse? | Yes. |
+| Yes/No | Does the image convey a sense of connection and intimacy between the man and woman? | Yes. |
+| What | What is the man wearing? | A gray jacket and a black shirt. |
+| What | What is the woman wearing? | A white blouse. |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It emphasizes the subjects and their expressions, creating a friendly and warm atmosphere and making the image feel more personal and genuine. |

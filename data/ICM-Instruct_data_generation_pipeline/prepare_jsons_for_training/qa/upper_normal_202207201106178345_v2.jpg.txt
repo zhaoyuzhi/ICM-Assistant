@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a screenshot of a conversation? | Yes. |
+| Yes/No | Is the conversation in Chinese? | Yes. |
+| Yes/No | Does the conversation appear to be casual and friendly? | Yes. |
+| Yes/No | Is the person asking the question using a question mark? | Yes. |
+| Yes/No | Is the other person's response visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the focus of the image? | The conversation and the interaction between the two individuals. |
+| What | What is the overall atmosphere of the image? | Calm and informal. |
+| How | How does the person asking the question indicate they are seeking an answer? | They use a question mark at the end of their sentence. |
+| How | How does the image convey the atmosphere of the conversation? | The white background makes the black text of the conversation stand out clearly, creating a clean and clear visual representation of the conversation. |

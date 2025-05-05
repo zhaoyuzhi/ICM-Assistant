@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have short sleeves? | Yes. |
+| Yes/No | Is the dress a wrap-style design? | Yes. |
+| Yes/No | Are the woman's heels white? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her weight on one leg and looking off to the side. |
+| What | What is the style of the woman's heels? | They are white and have a sleek, elegant design. |
+| How | How does the white background affect the image? | It contrasts with the woman's white dress and heels, making her the focal point of the image and drawing attention to her. |
+| How | How does the woman's attire and pose suggest a sense of confidence and allure? | The simple yet elegant dress and heels combined with the woman's confident pose and the way she is looking off to the side suggest a sense of allure and confidence. |

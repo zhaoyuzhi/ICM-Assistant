@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a brown jacket? | Yes. |
+| Yes/No | Is the woman wearing a black jacket? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the woman's hand on the man's chest? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man wearing? | A brown jacket. |
+| What | What is the woman wearing? | A black jacket. |
+| How | How are the man and woman positioned in relation to each other? | They are in close proximity, with their lips touching. |
+| How | How does the woman's hand appear to be positioned on the man's chest? | It appears to be resting gently on his chest, suggesting intimacy. |

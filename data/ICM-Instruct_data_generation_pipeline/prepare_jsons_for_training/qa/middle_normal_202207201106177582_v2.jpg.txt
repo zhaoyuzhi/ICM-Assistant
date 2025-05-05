@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing black shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a black tank top? | Yes. |
+| Yes/No | Is the man's pose in the image neutral? | Yes. |
+| Yes/No | Is the image's exposure level low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the man's pose in the image? | Neutral. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How is the man's clothing in the image? | Black shorts and black tank top. |
+| How | How would you describe the lighting conditions in the image? | Low exposure level. |
+| Yes/No | Is the man in the image wearing black shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Is the man in a suggestive pose? | No. |
+| Yes/No | Is the image sexually explicit? | No. |
+| Yes/No | Does the image feature any intimate or provocative actions? | No. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| What | What is the man's pose in the image? | Neutral. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How is the focus of the image? | The focus of the image is on the man's clothing rather than his body or any suggestive poses. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | The low exposure level of the image contributes to its overall neutral atmosphere by emphasizing the focus on the man's clothing and the overall composition of the image. |

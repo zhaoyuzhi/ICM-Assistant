@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow lace thong? | Yes. |
+| Yes/No | Is the thong the only piece of clothing visible on the person? | Yes. |
+| Yes/No | Are the person's hands placed on their belly? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| How | Does the image show a close-up of the person wearing the yellow lace thong? | Yes. |
+| What | What is the color of the blanket on the bed? | White. |
+| What | What is the type of clothing that the person is wearing? | A yellow lace thong. |
+| How | How are the person's hands positioned in the image? | They are placed on their belly. |
+| How | How are the person's legs positioned in the image? | They are crossed. |

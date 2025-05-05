@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's shorts black? | Yes. |
+| Yes/No | Are the stockings beige? | Yes. |
+| Yes/No | Is the person sitting on a white carpeted floor? | Yes. |
+| Yes/No | Does the image have a sexy tone? | Yes. |
+| Yes/No | Is the person's pose suggestive of vulnerability? | Yes. |
+| What | What is the person in the image wearing on their legs? | Stockings. |
+| What | What is the color of the person's shirt? | White. |
+| How | How does the white carpeted floor contribute to the overall mood of the image? | It provides a clean and minimalist background that further emphasizes the subject, adding to the overall allure of the image. |
+| How | How does the person's pose and act of putting on stockings contribute to the overall mood of the image? | It suggests a sense of vulnerability and sensuality, which adds to the overall allure of the image. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's shorts black? | Yes. |
+| Yes/No | Are the stockings beige? | Yes. |
+| Yes/No | Is the background of the image a white carpeted floor? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the person's shirt? | White. |
+| How | How does the contrast between the white shirt and black shorts contribute to the overall allure of the image? | It creates a visual contrast that draws attention to the stockings, making the image seem more sensual. |
+| How | How does the white carpeted floor contribute to the overall allure of the image? | It provides a clean and minimalist background that highlights the subject and adds to the sensuality of the image. |

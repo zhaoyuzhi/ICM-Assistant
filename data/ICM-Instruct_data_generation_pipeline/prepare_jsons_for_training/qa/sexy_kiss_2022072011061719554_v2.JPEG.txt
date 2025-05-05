@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black tuxedo? | Yes. |
+| Yes/No | Is the woman wearing a strapless dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man wearing? | A black tuxedo. |
+| What | What is the woman wearing? | A strapless dress. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the woman's head tilted back as she is kissed on the cheek. |
+| How | How does the blurred background contribute to the overall feeling of the image? | It draws attention to the couple and emphasizes their intimate connection, making the image more seductive. |

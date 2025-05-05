@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pants? | No. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing a gray shirt in the image? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of vulnerability and confidence? | Yes. |
+| What | What is the woman wearing in the image? | A gray shirt. |
+| What | What is the overall atmosphere of the image? | Sensual and alluring. |
+| How | How does the gray shirt contribute to the image's atmosphere? | It adds a neutral tone, allowing the focus to remain on her body. |
+| How | How does the image capture a moment of vulnerability and confidence? | It shows a woman with her belly exposed, which is a provocative and intimate pose. |
+| Yes/No | Is the woman in the image wearing pants? | No. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing a white shirt in the image? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A white shirt. |
+| What | What is the color of the woman's shirt in the image? | White. |
+| How | How does the woman's body look in the image? | The woman's body looks vulnerable and intimate, with her belly exposed and no pants on. |
+| How | How does the white shirt contrast with the woman's skin in the image? | The white shirt contrasts with the woman's skin, further emphasizing her form and adding to the sensuality of the image. |

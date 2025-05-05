@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing high heels? | Yes. |
+| Yes/No | Is the person in the image sitting on a white fur rug? | Yes. |
+| Yes/No | Are the person's legs crossed at the knees? | Yes. |
+| Yes/No | Is the image atmospheric? | Yes. |
+| Yes/No | Does the image suggest a sense of luxury and indulgence? | Yes. |
+| Yes/No | Is the exposure level of the person in the image high? | Yes. |
+| What | What is the person in the image wearing on their feet? | Beige high heels. |
+| What | What is the person in the image sitting on? | A white fur rug. |
+| How | How are the person's legs positioned in the image? | Crossed at the knees. |
+| How | How does the image create a sense of intimacy and connection? | Through the use of a white fur rug, high heels, and a crossed leg pose, creating a visually striking and alluring scene that evokes feelings of desire and allure. |

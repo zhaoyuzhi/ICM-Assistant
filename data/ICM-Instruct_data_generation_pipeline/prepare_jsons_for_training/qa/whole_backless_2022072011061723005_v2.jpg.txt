@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress sleeveless? | Yes. |
+| Yes/No | Does the woman have her hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the woman standing with her back to the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the dress? | Navy blue. |
+| What | What is the woman's hairstyle? | Ponytail. |
+| How | How is the woman standing? | With her back to the camera. |
+| How | How much skin is revealed by the woman's attire? | A significant amount. |

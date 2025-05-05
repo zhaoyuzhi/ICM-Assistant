@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing leggings? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's pose suggestive of a casual, sporty style? | Yes. |
+| Yes/No | Does the woman's attire reveal her midriff? | Yes. |
+| What | What color are the leggings? | Blue. |
+| What | What type of shoes is the woman wearing? | White sneakers. |
+| How | How are the leggings form-fitting? | They have a stretchy material. |
+| How | How does the woman's pose contribute to the overall allure of the image? | Her pose with her hands on her hips adds to the overall allure of the image. |

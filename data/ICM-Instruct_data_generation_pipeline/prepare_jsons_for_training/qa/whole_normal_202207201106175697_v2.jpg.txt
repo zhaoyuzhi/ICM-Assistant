@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the man holding a pair of shoes in his hand? | Yes. |
+| Yes/No | Does the image suggest a romantic or intimate context? | No. |
+| Yes/No | Is the man's attire typically associated with professional settings? | Yes. |
+| Yes/No | Does the image feature any elements that suggest a focus on the shoes? | Yes. |
+| What | What is the man in the image holding in his hand? | A pair of black shoes. |
+| What | What is the color of the man's suit? | Black. |
+| How | How is the man posing in the image? | He is standing with a confident posture. |
+| How | How would you describe the overall atmosphere of the image? | Professional and formal. |

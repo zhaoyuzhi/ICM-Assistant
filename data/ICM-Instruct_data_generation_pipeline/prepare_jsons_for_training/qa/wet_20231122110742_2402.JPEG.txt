@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's clothes dripping water? | Yes. |
+| Yes/No | Is the person holding a white towel? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image have a sexy feel? | Yes. |
+| Yes/No | Are the person's wet clothes clinging to their body? | Yes. |
+| What | What is the person doing in the image? | Wiping themselves off with a towel. |
+| What | What is the person using to wipe themselves off? | A white towel. |
+| How | How is the person's t-shirt soaked? | It is not explicitly stated in the description, but it can be inferred that the person's tshirt is soaked because they are standing in a pool of water and their clothes are dripping wet. |
+| How | How does the person's wet clothes cling to their body? | The person's wet clothes likely cling to their body because of the natural clinginess of wet fabric, and also because the person is standing in a pool of water, which would cause their clothes to become saturated and clingy. |

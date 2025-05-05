@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A gray bra. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How is the woman holding the straps of the bra? | With her hands. |
+| How | How does the plain white wall in the background affect the image? | It emphasizes the subject and focus on the woman's actions, making the image more intimate and alluring. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra gray? | Yes. |
+| Yes/No | Is the woman holding the straps of the bra with her hands? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a gray bra. |
+| What | What is the color of the bra the woman is wearing? | Gray. |
+| How | How is the woman holding the bra? | She is holding the straps with her hands. |
+| How | How does the plain white wall in the background affect the image? | It emphasizes the subject and focus on the woman's actions, making the image more intimate and alluring. |

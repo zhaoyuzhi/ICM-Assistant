@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have thin straps? | Yes. |
+| Yes/No | Is the dress form-fitting? | Yes. |
+| Yes/No | Is the woman standing in front of a white wall? | Yes. |
+| Yes/No | Is the woman's pose confident and alluring? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her hand resting on her hip. |
+| What | What is the woman's attire in the image? | She is wearing a black dress with thin straps and a high slit. |
+| How | How does the woman's pose contribute to the seductive atmosphere of the image? | The woman's pose, with her hand resting on her hip, adds to the seductive atmosphere of the image by emphasizing her curves and confidence. |
+| How | How does the contrast between the black dress and the white wall affect the image? | The contrast between the black dress and the white wall further emphasizes the woman's figure, making the image even more captivating. |

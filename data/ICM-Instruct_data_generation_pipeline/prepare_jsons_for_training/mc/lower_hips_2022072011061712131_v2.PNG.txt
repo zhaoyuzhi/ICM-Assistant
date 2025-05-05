@@ -1,0 +1,7 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What is the person's pose in the image? |A. Standing |B. Sitting |C. Lying down |D. Dancing |C. |
+| What color are the person's jeans? |A. Black |B. Blue |C. Red |D. White |B. |
+| What is the color of the tag on the person's back pocket? |A. Black |B. Blue |C. Red |D. Green |C. |
+| What is the mood of the image? |A. Happy |B. Sad |C. Provocative |D. Serious |C. |
+| What is the backdrop of the image? |A. A city skyline |B. A beach |C. A forest |D. A wooden surface |D. |

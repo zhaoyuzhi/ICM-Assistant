@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the person have a suitcase in the image? | Yes. |
+| Yes/No | Is the suitcase black? | Yes. |
+| Yes/No | Are the person's socks white? | Yes. |
+| Yes/No | Does the person have a confident and relaxed pose? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's heart on their t-shirt? | Pink. |
+| What | What is the material of the suitcase? | Hard material. |
+| How | How are the person's arms positioned in the image? | Resting at their sides. |
+| How | How does the contrast of the person's outfit draw attention to their body? | It highlights the person's legs and torso. |

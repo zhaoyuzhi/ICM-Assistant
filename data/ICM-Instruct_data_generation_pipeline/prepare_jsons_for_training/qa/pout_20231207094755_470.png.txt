@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing lipstick? | Yes. |
+| Yes/No | Is the person's facial expression serious? | Yes. |
+| Yes/No | Are the lips parted? | Yes. |
+| Yes/No | Is the chin tucked in? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's face? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the dominant color in the image? | Red (lipstick). |
+| What | What is the person's facial expression? | Serious. |
+| How | How are the lips positioned? | Slightly parted, pouting. |
+| How | How does the person's chin relate to their overall pose? | Slightly tucked in, adding to the allure of the image. |

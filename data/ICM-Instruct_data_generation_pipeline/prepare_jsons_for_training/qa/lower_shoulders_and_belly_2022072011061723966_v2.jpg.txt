@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing gray shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a white sports bra? | Yes. |
+| Yes/No | Are the gray shorts tight-fitting? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the woman's pose in the image confident and assertive? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the shorts in the image? | Gray. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How are the gray shorts fitting on the woman's body? | Tightfitting. |
+| How | How does the woman's pose in the image contribute to the overall atmosphere? | Conveys selfassuredness and confidence. |

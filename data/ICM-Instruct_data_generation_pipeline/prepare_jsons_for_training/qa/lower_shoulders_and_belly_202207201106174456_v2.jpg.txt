@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the leggings in the image? | Blue. |
+| What | What is the person's skin tone in the image? | Not specified (assumed to be lightskinned). |
+| How | How do the leggings accentuate the person's body? | They accentuate the person's legs and torso. |
+| How | How does the neutral pose of the person contribute to the image's atmosphere? | It suggests confidence and selfassuredness, adding to the allure and sensuality of the image. |

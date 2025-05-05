@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress black and white? | Yes. |
+| Yes/No | Is the dress short? | Yes. |
+| Yes/No | Are the woman's legs exposed? | Yes. |
+| Yes/No | Is the woman wearing a coat? | Yes. |
+| Yes/No | Are the woman's heels black? | Yes. |
+| What | What is the woman lifting in the image? | Her dress. |
+| What | What is the color of the woman's coat? | Black. |
+| How | How is the woman standing in the image? | She is standing with one leg straight and the other bent, with her dress lifted. |
+| How | How does the setting in the background contrast with the woman's presence? | The setting is a room with a desk and chair, which contrasts with the woman's confident and alluring presence. |

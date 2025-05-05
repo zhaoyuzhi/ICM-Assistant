@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a floral dress? | Yes. |
+| Yes/No | Does the woman have curly hair? | Yes. |
+| Yes/No | Is the woman pouting in the image? | Yes. |
+| Yes/No | Are the woman's eyes closed in the image? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image seductive and inviting? | Yes. |
+| What | What is the woman wearing in the image? | A floral dress. |
+| What | What is the texture of the woman's hair in the image? | Curly. |
+| How | How is the woman posing in the image? | She is pouting with her eyes closed, giving the impression of kissing. |
+| What | What atmosphere does the image convey? | A seductive and inviting atmosphere. |

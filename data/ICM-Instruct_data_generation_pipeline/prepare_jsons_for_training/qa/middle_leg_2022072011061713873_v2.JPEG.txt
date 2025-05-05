@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Does the skirt have a slit on the side? | Yes. |
+| Yes/No | Is the woman wearing a green tie? | Yes. |
+| Yes/No | Is the woman's shirt white? | Yes. |
+| Yes/No | Is there a chair in the background of the image? | Yes. |
+| Yes/No | Is there a table in the background of the image? | Yes. |
+| What | What color is the woman's tie? | Green. |
+| What | What is the woman's shirt color? | White. |
+| How | How is the woman's skirt slit? | On the side. |
+| How | How is the woman looking at the camera? | Seductively. |

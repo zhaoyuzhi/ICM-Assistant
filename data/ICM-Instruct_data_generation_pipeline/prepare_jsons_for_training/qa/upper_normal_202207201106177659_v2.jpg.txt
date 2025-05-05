@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image holding a sword? | Yes. |
+| Yes/No | Is the man in the image wearing a ponytail? | Yes. |
+| Yes/No | Is the background of the image a dark blue sky with white stars? | Yes. |
+| Yes/No | Is the man in the image dressed in a red and black outfit? | Yes. |
+| Yes/No | Is the man in the image holding a shield? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the man in the image holding in his right hand? | A sword. |
+| What | What is the man in the image holding in his left hand? | A shield. |
+| How | How is the man in the image standing? | He is standing on a wooden platform. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is dramatic and suggestive of action or conflict, but not sexy or provocative. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image holding a camera? | Yes. |
+| Yes/No | Is the man in the image smiling? | Yes. |
+| Yes/No | Is the man in the image looking at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image holding in his right hand? | A camera. |
+| What | What is the man in the image looking at? | The camera. |
+| How | How is the man in the image standing? | He is standing in front of a mirror. |
+| How | How does the mirror in the image add to the overall atmosphere? | It reflects the man's image and creates a sense of depth and perspective, adding to the sexy and confident vibe. |

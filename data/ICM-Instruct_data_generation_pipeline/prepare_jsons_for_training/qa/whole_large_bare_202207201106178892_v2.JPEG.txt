@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the image taken indoors? | No. |
+| Yes/No | Is the woman wearing any other clothing items besides a bikini? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image contain any other people or objects? | No. |
+| What | What is the woman in the image looking at? | The sand. |
+| What | What type of clothing is the woman wearing? | A bikini. |
+| How | How is the woman standing in the image? | She is standing with her feet shoulderwidth apart, looking down at the sand. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | Her pose adds an element of intrigue and curiosity, which can be perceived as sexy. |

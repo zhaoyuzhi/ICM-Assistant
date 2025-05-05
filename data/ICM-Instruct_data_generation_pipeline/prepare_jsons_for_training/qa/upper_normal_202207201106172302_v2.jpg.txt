@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman's pose or attire modest? | Yes. |
+| Yes/No | Is the image's overall atmosphere calm and pleasant? | Yes. |
+| Yes/No | Does the image convey a sense of innocence and simplicity? | Yes. |
+| What | What is the woman's hair color in the image? | Dark. |
+| What | What is the dominant color of the woman's shirt? | Blue. |
+| How | How is the woman's pose in the image? | Modest. |
+| How | How would you describe the image's exposure level? | Low. |

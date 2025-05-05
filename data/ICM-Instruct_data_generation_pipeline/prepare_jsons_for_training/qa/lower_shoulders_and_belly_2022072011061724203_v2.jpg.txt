@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue leggings? | Yes. |
+| Yes/No | Does the woman have her hands on her hips in the image? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's pose in the image suggestive of confidence and self-assuredness? | Yes. |
+| Yes/No | Is the image sexy because it features a woman who is confidently displaying her body in a revealing outfit? | Yes. |
+| What | What color are the leggings in the image? | Blue. |
+| What | What type of shoes is the woman wearing in the image? | White sneakers. |
+| How | How does the woman's pose in the image contribute to its overall allure? | The woman's pose, with her hands on her hips, confidently displaying her body in a revealing outfit, adds to the overall allure of the image. |
+| How | How does the contrast between the blue leggings and white sneakers contribute to the image's allure? | The contrast between the blue leggings and white sneakers creates a striking visual effect that highlights the woman's form, contributing to the image's allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman lifting her dress up to reveal her legs? | Yes. |
+| Yes/No | Are her legs and thighs exposed in the image? | Yes. |
+| Yes/No | Is she wearing high heels? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Does the image create an alluring and seductive atmosphere? | Yes. |
+| What | What is the woman lifting her dress up with? | Her hands. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How is the woman's dress flowing? | It is flowing down her legs and around her ankles. |
+| How | How does the white wall in the background accentuate the image? | It creates a striking contrast between the woman's attire and the simplicity of the setting, making the image more captivating. |

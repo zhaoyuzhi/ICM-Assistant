@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Are the couple kissing passionately? | Yes. |
+| Yes/No | Do they have dark hair? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the couple making out in public? | Yes. |
+| What | What is the woman wearing? | A black top. |
+| What | What is the man wearing? | A white shirt. |
+| How | How are the couple kissing? | In a passionate manner. |
+| How | How does the image convey intimacy? | Through their close proximity and the way they are making out. |

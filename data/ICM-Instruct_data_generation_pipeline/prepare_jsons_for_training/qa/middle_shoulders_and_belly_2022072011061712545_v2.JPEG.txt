@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman's right hand placed on her hip? | Yes. |
+| Yes/No | Does the image convey a sense of joy and confidence? | Yes. |
+| How | Does the image showcase the woman's body in a confident and empowering manner? | Yes. |
+| What | What is the woman holding her stomach with? | Her left hand. |
+| What | What is the symbolism of the blue jeans in the image? | Classic and universally recognized symbol of casual and comfortable clothing. |
+| How | How does the woman's smile and confident pose enhance the image? | They convey a sense of selfassuredness and selfacceptance, adding to the overall allure of the image. |
+| How | How does the image capture a moment of vulnerability and confidence? | It captures a moment of vulnerability and confidence through the woman's exposed belly and confident pose, conveying a sense of selfacceptance and attractiveness. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing jeans? | Yes. |
+| Yes/No | Is the woman's stomach exposed in the image? | Yes. |
+| Yes/No | Is the woman holding her stomach with her left hand? | Yes. |
+| Yes/No | Is the woman's right hand placed on her hip? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| What | What color is the woman's sports bra? | White. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How is the woman's posture in the image? | Confident and assertive. |
+| How | How does the woman's pose with her hand on her hip and her stomach exposed add to the image's overall atmosphere? | It adds a sense of allure and sensuality to the image. |

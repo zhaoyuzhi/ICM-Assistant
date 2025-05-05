@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the dress white? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Is the woman holding a small purse in her hand? | Yes. |
+| Yes/No | Is the woman standing in a room with a counter and a wine glass in the background? | Yes. |
+| Yes/No | Does the image have a sense of elegance and allure? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her hand on her hip. |
+| What | What is the color of the woman's dress? | White. |
+| How | How does the floral pattern of the dress contribute to the overall atmosphere of the image? | It adds a sense of sophistication and allure. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | It adds a sense of sensuality and intimacy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the dress pink in color? | Yes. |
+| Yes/No | Does the dress have a sweetheart neckline? | Yes. |
+| Yes/No | Is the woman holding a bouquet of flowers? | Yes. |
+| Yes/No | Is the living room furnished with a couch? | Yes. |
+| Yes/No | Is the woman positioned in front of a mirror? | Yes. |
+| What | What is the color of the woman's dress? | Pink. |
+| What | What is the woman holding in her left hand? | A bouquet of flowers. |
+| How | How is the woman's dress styled? | It has a sweetheart neckline and a slit up the front. |
+| How | How does the woman's pose and attire create a sense of atmosphere? | It creates an intimate and alluring atmosphere. |

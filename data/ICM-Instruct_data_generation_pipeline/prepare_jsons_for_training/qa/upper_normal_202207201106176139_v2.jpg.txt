@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in traditional Chinese clothing? | Yes. |
+| Yes/No | Is the woman holding a fan-like object in her hands? | Yes. |
+| Yes/No | Is the waterfall in the background surrounded by rocks and foliage? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image focus on the woman's physical appearance? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and serene? | Yes. |
+| What | What is the woman holding in her hands? | A large, white, fanlike object. |
+| What | What is the woman wearing on her head? | A hairpiece adorned with flowers. |
+| How | How is the woman dressed in the image? | She is wearing a long, flowing robe. |
+| How | How is the waterfall depicted in the background? | It is surrounded by rocks and foliage, creating a serene and tranquil atmosphere. |

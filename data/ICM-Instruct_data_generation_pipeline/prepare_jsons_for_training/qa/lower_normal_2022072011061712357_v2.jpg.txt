@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of black sweatpants with white stripes on the sides? | Yes. |
+| Yes/No | Is the person wearing a white Nike shirt? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the person wearing a watch on their left wrist? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and comfortable? | Yes. |
+| What | What color are the sweatpants? | Black. |
+| What | What brand is the person's shirt? | Nike. |
+| How | How many stripes are on the sides of the sweatpants? | Two. |
+| What | What is the color of the watch? | White. |

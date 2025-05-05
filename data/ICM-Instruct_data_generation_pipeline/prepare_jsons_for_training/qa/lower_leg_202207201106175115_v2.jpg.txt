@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white skirt? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the background of the image a sandy beach? | Yes. |
+| Yes/No | Are there rocks scattered around the beach? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the person in the image wearing? | A white skirt and white shoes. |
+| What | What is the setting of the image? | A beach. |
+| How | How is the person posed in the image? | With their legs slightly apart. |
+| How | How does the image create a sense of allure and intrigue? | Through the use of a sexy outfit, a relaxed beach setting, and a pose that suggests confidence and sensuality. |

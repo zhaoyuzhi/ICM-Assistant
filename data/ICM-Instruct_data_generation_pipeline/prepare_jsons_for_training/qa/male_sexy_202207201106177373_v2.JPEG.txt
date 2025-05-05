@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the man's skin tone light? | Yes. |
+| Yes/No | Is the man's hair dark? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the man's physique like? | Muscular. |
+| What | What is the color of the man's hair? | Dark. |
+| How | How does the man's position in the image contribute to the sexy atmosphere? | The man's shirtlessness and muscular physique create a sense of allure and confidence. |
+| How | How does the absence of clothing contribute to the sexy atmosphere? | The lack of clothing emphasizes the man's physical attributes, making the image sexy. |

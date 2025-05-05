@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow top? | Yes. |
+| Yes/No | Are the woman's sleeves ruffled? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Does the woman's outfit suggest a casual yet stylish look? | Yes. |
+| What | What color is the woman's top? | Yellow. |
+| What | What is the woman's pose in the image? | Confident. |
+| How | How are the woman's sleeves styled? | Ruffled. |
+| How | How does the woman's gaze at the camera contribute to the overall atmosphere of the image? | It adds to the sense of allure and attractiveness. |

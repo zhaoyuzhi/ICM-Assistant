@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Is the woman wearing a bra? | Yes. |
+| Yes/No | Is the woman wearing a face mask? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Does the image depict a provocative action? | Yes. |
+| Yes/No | Are there any objects in the background of the image? | Yes. |
+| What | What is the color of the woman's bra? | White. |
+| What | What is the color of the woman's face mask? | Black. |
+| How | How is the woman taking off her overalls? | Unbuttoned. |
+| How | How would you describe the overall atmosphere of the image? | Seductive. |

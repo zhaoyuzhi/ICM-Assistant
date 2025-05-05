@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Does the woman have long, dark hair? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Are the woman's lips parted? | Yes. |
+| Yes/No | Is the woman biting her lower lip? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman's facial expression? | Slight smile. |
+| How | How is the woman's confidence conveyed in the image? | Through her direct gaze and slight smile. |
+| How | How does the woman's biting her lower lip add to the image's atmosphere? | It adds a touch of mystery and intrigue. |

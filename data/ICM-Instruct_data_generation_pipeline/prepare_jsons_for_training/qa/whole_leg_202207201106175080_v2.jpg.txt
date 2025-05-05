@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the background gray? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Does the white sweater have a black and yellow pattern? | Yes. |
+| Yes/No | Is the sweater cropped at the waist? | Yes. |
+| Yes/No | Does the woman have loose waves in her hair? | Yes. |
+| What | What is the woman holding in her hand? | A black purse. |
+| What | What is the color of the woman's skirt? | Black. |
+| How | How is the woman's sweater adorned? | With a black and yellow pattern. |
+| How | How is the woman's hair styled? | In loose waves. |

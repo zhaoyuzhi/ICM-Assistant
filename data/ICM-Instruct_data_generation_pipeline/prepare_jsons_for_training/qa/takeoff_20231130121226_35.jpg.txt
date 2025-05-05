@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Is the person facing the camera? | No. |
+| Yes/No | Are they wearing a bathing suit? | No. |
+| Yes/No | Is the image taken indoors? | No. |
+| Yes/No | Is the person's attire formal? | No. |
+| Yes/No | Does the image suggest a sense of intimacy or vulnerability? | No. |
+| What | What is the person holding above their head? | Their shirt. |
+| What | What is the dominant color of the person's attire? | Blue. |
+| How | How is the person standing? | Standing with their feet shoulderwidth apart. |
+| How | How does the beach setting enhance the image? | The beach setting adds a sense of relaxation and leisure to the image, enhancing its sexy and alluring quality. |

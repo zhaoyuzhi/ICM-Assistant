@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Does the woman have a slit on her skirt? | Yes. |
+| Yes/No | Is the woman wearing a sweater? | Yes. |
+| Yes/No | Does the sweater have a floral pattern? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| What | What color is the woman's skirt? | Dark green. |
+| What | What is the woman's sweater made of? | Yellow. |
+| How | How is the woman's pose in the image? | Neutral. |
+| How | How does the image overall atmosphere feel? | Calm and composed. |

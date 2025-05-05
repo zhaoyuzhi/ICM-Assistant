@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a hat? | Yes. |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a mirror? | Yes. |
+| Yes/No | Is the woman in the image wearing black pants? | Yes. |
+| Yes/No | Is the woman in the image wearing a black and white patterned shirt? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| What | What is the woman doing with her left hand? | Her left hand is placed on her hip. |
+| What | What is the woman holding in her right hand? | She is holding a phone in her right hand. |
+| How | How is the woman's face visible in the image? | The woman's face is not visible in the image due to the low exposure level. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is not sexy, it's a simple, everyday scene with no explicit or suggestive content. |

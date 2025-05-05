@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Are the sweatpants maroon and white in color? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the word "SPORTS" written on the sweatpants? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the woman's pose confident? | Yes. |
+| What | What color are the sweatpants? | Maroon and white. |
+| What | What is written on the sweatpants? | "SPORTS". |
+| How | How is the woman's top cropped? | The top is cropped at the waist, revealing her midriff. |
+| How | How does the woman's hand placement contribute to the image's atmosphere? | The woman's hands on her hips suggest selfassuredness and confidence, adding to the sexy vibe of the image. |

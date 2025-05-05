@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Do the man and woman have different hair colors? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman? | Yes. |
+| Yes/No | Is the woman looking up at the man? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | A black jacket. |
+| What | What is the woman wearing? | A black dress. |
+| How | How is the woman's head tilted? | Back. |
+| How | How is the man leaning in to kiss the woman? | He is leaning in close to her, with his face near hers. |

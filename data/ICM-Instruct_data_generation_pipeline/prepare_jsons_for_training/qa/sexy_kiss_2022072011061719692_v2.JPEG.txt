@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a plaid shirt? | Yes. |
+| Yes/No | Is the woman wearing a black and white striped dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the woman's hand on the man's chest? | Yes. |
+| Yes/No | Is the man's arm wrapped around the woman? | Yes. |
+| Yes/No | Is the woman looking up at the man with a smile on her face? | Yes. |
+| What | What is the woman's facial expression? | She is smiling. |
+| What | What is the overall atmosphere of the image? | Warm, romantic, and seductive. |
+| How | How is the woman's head tilted? | Back. |
+| How | How is the man's arm wrapped around the woman? | Pulling her close. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a black sweatshirt? | Yes. |
+| Yes/No | Are the pants the person is wearing black? | Yes. |
+| Yes/No | Does the person have a green stripe running down the side of their pants? | Yes. |
+| Yes/No | Is the person wearing white sneakers? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| What | What color are the person's pants? | Black with a green stripe. |
+| What | What type of shoes is the person wearing? | White sneakers. |
+| How | How is the person standing in the image? | With their back to the camera. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

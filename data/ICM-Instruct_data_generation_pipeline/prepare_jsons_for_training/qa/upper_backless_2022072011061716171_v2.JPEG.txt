@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black tank top? | Yes. |
+| Yes/No | Are they lifting weights in a gym? | Yes. |
+| Yes/No | Are their arms flexed and muscles prominently displayed? | Yes. |
+| Yes/No | Is the gym filled with various exercise equipment? | Yes. |
+| Yes/No | Does the person's posture and lifting style suggest they are in the middle of a workout? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing in the image? | A black tank top. |
+| What | What is the person doing in the image? | Lifting weights. |
+| How | How is the person's posture in the image? | Confident and strong. |
+| How | How does the gym setting and active lifestyle convey a sense of health and vitality? | It suggests a sense of health and vitality that can be perceived as sexy. |

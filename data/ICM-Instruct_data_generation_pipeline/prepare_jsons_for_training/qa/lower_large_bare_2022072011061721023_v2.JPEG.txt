@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the swimsuit black and white? | Yes. |
+| Yes/No | Is the person swimming in a pool? | Yes. |
+| Yes/No | Is the person's lower body exposed? | Yes. |
+| Yes/No | Is the swimsuit wet? | Yes. |
+| Yes/No | Is the overall atmosphere of the image energetic and dynamic? | Yes. |
+| What | What is the person in the image doing? | Swimming. |
+| What | What is the color of the swimsuit? | Black and white. |
+| How | How is the person swimming? | With their body turned to the side and moving quickly through the water. |
+| How | How does the wet appearance of the swimsuit suggest a sense of freshness and cleanliness? | The wetness of the swimsuit suggests that the person has been swimming recently, implying a sense of freshness and cleanliness. |

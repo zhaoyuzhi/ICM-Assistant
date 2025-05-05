@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image depicting a group of people in a war-torn city? | Yes. |
+| Yes/No | Are the people in the image standing amidst rubble and debris? | Yes. |
+| Yes/No | Is the person in the center holding a child? | Yes. |
+| Yes/No | Is another person in the image holding a weapon? | Yes. |
+| Yes/No | Does the image reveal any explicit or inappropriate content? | No. |
+| Yes/No | Is the overall atmosphere of the image somber and bleak? | Yes. |
+| What | What are the people in the image wearing? | Simple clothing. |
+| What | What does the low exposure level of the image suggest about the situation? | A struggle for survival in a dangerous environment. |
+| How | How are the people in the image dressed? | In simple clothing. |
+| How | How does the low exposure level of the image emphasize the harshness of the situation? | It makes it clear that this is not a sexy image and focuses attention on the struggle for survival and the harsh realities of war. |

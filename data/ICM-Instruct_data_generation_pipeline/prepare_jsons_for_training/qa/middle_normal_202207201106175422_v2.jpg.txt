@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Is the person in the image wearing a beige skirt? | Yes. |
+| Yes/No | Is the person in the image holding a black purse? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| Yes/No | Is the person in the image dressed in a revealing manner? | No. |
+| What | What is the color of the person's top? | Black. |
+| What | What is the color of the person's skirt? | Beige. |
+| How | How is the person holding their purse? | In their left hand. |
+| How | How would you describe the person's posture and expression? | Neutral. |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Is the person in the image wearing a beige skirt? | Yes. |
+| Yes/No | Is the person in the image holding a black purse? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image focus on the person's body or suggestive clothing? | No. |
+| Yes/No | Is the person dressed in a modest outfit? | Yes. |
+| What | What is the color of the concrete wall in the background? | Beige. |
+| What | What is the person holding in their left hand? | A black purse. |
+| How | How is the person dressed in the image? | Modestly, in a black top and beige skirt. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the person's outfit and the room's interior rather than their body or appearance. |

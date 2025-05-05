@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top wet? | Yes. |
+| Yes/No | Is the bikini bottom wet? | Yes. |
+| Yes/No | Is the woman's hair wet? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the beach setting a common association with relaxation, leisure, and enjoyment? | Yes. |
+| What | What is the color of the bikini top? | Green. |
+| What | What is the color of the bikini bottom? | Green. |
+| How | How is the woman's upper body exposed? | Her stomach and chest are visible. |
+| How | How does the beach setting enhance the sexy atmosphere? | It is often associated with relaxation, leisure, and enjoyment, which adds to the allure of the image. |

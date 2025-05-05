@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini green in color? | Yes. |
+| Yes/No | Does the top of the bikini have a triangle shape? | Yes. |
+| Yes/No | Does the bottom of the bikini have a halter neckline? | Yes. |
+| Yes/No | Is the woman standing in a pool? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the color of the bikini? | Green. |
+| What | What is the design of the top of the bikini? | Triangle shape. |
+| How | How is the woman's left hand positioned in the image? | Resting on her hip. |
+| How | How is the woman's right hand positioned in the image? | Lightly touching her thigh. |

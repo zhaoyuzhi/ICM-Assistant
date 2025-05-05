@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a top? | No. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image evoke a sense of freedom and sensuality? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What color are the woman's bikini bottoms? | Red. |
+| How | How is the woman posing in the image? | Confidently, with her arms raised above her head. |
+| How | How does the image make you feel? | Relaxed and enjoyable, with a sense of joy and confidence. |

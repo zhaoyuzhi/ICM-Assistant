@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man facing the camera? | No. |
+| Yes/No | Is the man wearing a pair of khaki shorts? | Yes. |
+| Yes/No | Is the man wearing a black t-shirt? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Are the shorts the man is wearing logoed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color are the shorts the man is wearing? | Khaki. |
+| What | What type of shoes is the man wearing? | Sneakers. |
+| How | How would you describe the man's posture in the image? | Relaxed. |

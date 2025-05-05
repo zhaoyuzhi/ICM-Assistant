@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the man's arms relaxed at his sides? | Yes. |
+| Yes/No | Is the man's face visible in the image? | No. |
+| Yes/No | Are the man's legs slightly apart? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the man's attire simple and modest? | Yes. |
+| What | What is the man wearing in the image? | A black shirt and black shorts. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| How | How are the man's arms positioned in the image? | Relaxed at his sides. |
+| How | How does the white background affect the image? | It emphasizes the simplicity of the scene, making it less likely to evoke a sexy or provocative response. |

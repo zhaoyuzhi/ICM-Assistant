@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing in a gym? | Yes. |
+| Yes/No | Is the man in the image flexing his muscles? | Yes. |
+| Yes/No | Is the man in the image looking directly at the camera? | Yes. |
+| Yes/No | Are the gym equipment in the background suggestive of a fitness environment? | Yes. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| What | What is the man in the image wearing? | Black shorts. |
+| What | What is the man in the image doing with his arms? | Flexing his muscles. |
+| How | How is the man in the image looking at the camera? | Directly. |
+| How | How does the gym setting in the image emphasize the man's dedication to fitness and strength? | It highlights his dedication to fitness and strength by showing him in a gym environment surrounded by workout equipment. |

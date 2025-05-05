@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are the man's arms flexed in the image? | Yes. |
+| Yes/No | Is the image set in a gym? | Yes. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Is the man's chest exposed in the image? | Yes. |
+| Yes/No | Does the image depict the man engaging in any physical activity? | No. |
+| What | What is the man's facial expression in the image? | The man's facial expression is not provided in the description. |
+| What | What is the man's hair color? | The man's hair color is not provided in the description. |
+| How | How is the man standing in the image? | The man is standing in a relaxed stance, with his feet shoulderwidth apart. |
+| How | How does the image portray the man's physique? | The image portrays the man's physique as muscular and welldefined. |

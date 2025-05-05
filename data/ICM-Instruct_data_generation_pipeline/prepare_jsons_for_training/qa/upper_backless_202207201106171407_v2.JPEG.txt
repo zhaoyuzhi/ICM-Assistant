@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Are the person's leggings gray? | Yes. |
+| Yes/No | Does the image suggest a workout or exercise routine? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the color of the sports bra? | Pink. |
+| What | What is the person's attire suggesting? | A workout or exercise routine. |
+| How | How is the person's back exposed in the image? | The person's back is exposed due to the straps of the sports bra. |
+| How | How does the image create a sense of intimacy and confidence? | The image creates a sense of intimacy and confidence through the revealing clothing choice, casual and relaxed atmosphere, and the person's hands on the straps, which add an element of vulnerability. |

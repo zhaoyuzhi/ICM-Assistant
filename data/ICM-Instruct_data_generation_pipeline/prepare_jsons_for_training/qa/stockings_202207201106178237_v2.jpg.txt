@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Is the person wearing a brown jacket? | Yes. |
+| Yes/No | Are they wearing black stockings? | Yes. |
+| Yes/No | Is the person's skirt black? | Yes. |
+| Yes/No | Are their legs crossed? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and suggestive? | Yes. |
+| What | What color is the person's jacket? | Brown. |
+| What | What is the person's pose? | Crossed legs. |
+| How | How are the person's legs crossed? | Not specified in the description. |
+| How | How does the image appear? | Sexy. |

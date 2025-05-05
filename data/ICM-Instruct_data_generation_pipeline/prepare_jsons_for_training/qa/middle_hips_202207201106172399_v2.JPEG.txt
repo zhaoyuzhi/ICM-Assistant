@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's shirt visible in the image? | No. |
+| Yes/No | Are the jeans the main focus of the image? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and sensuality? | Yes. |
+| Yes/No | Is the person's lower body the main subject of the image? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color are the jeans? | Blue. |
+| What | What is the overall atmosphere of the image? | Intimate and sensual. |
+| How | How are the jeans fitting the person? | Wellfitted, accentuating the person's curves. |
+| How | How does the close-up view of the jeans and lower body create a sense of intimacy and sensuality? | It emphasizes the focus on the person's lower body and the closeup view of the jeans, creating a sense of intimacy and sensuality. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white wedding dress? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Does the image feature a stone wall in the background? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the combination of the elegant dress and the exposed back create a visually striking image? | Yes. |
+| Yes/No | Is the image sexy based on the person's exposed back? | Yes. |
+| What | What is the person in the image wearing? | A white wedding dress. |
+| What | What is the texture of the stone wall in the background? | Stone. |
+| How | How does the person's pose contribute to the image's allure? | The person's back is exposed, revealing a large area of skin, which adds a sense of intimacy and allure to the image. |
+| How | How does the contrast between the elegant dress and the exposed back contribute to the image's atmosphere? | The contrast between the elegant dress and the exposed back creates a sense of intrigue and allure, adding to the image's seductive and captivating atmosphere. |

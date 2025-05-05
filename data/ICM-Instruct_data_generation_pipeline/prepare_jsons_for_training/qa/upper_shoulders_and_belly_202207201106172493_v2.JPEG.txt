@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are the woman's pants black? | Yes. |
+| Yes/No | Is the woman wearing gold jewelry? | Yes. |
+| Yes/No | Does the woman have a gold headpiece? | Yes. |
+| Yes/No | Are the woman's earrings gold? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color is the woman's shirt? | Pink. |
+| What | What is the woman's pose in the image? | A dance pose with her left hand on her hip and her right hand on her thigh. |
+| How | How does the gold jewelry contribute to the image's overall atmosphere? | It adds an element of glamour and luxury to the image. |
+| How | How does the dance pose accentuate the woman's body? | It accentuates her body by emphasizing her curves and adding a sense of movement and dynamism to the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the man's arm wrapped around the woman's waist? | Yes. |
+| Yes/No | Is the woman looking up at the man? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A pink dress. |
+| What | What is the man wearing in the image? | A white shirt. |
+| How | How is the woman's head tilted in the image? | The woman's head is tilted back. |
+| How | How does the blurred background of the image contribute to the overall effect of the image? | It emphasizes the couple and draws the viewer's attention to their kiss and the emotions it conveys. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a black garter belt? | Yes. |
+| Yes/No | Is the woman in the image wearing a necklace? | Yes. |
+| Yes/No | Is the woman's hand on her chin? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the woman's attire in the image? | A black bra and a black garter belt. |
+| What | What is the atmosphere of the image? | Seductive and provocative. |
+| How | How is the woman's hand positioned in the image? | Resting on her chin. |
+| How | How is the woman looking in the image? | Directly at the camera with a confident and alluring gaze. |

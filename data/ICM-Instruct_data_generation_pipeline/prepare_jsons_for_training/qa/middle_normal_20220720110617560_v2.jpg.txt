@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a blue shirt? | Yes. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image suggest any intimate or provocative actions? | No. |
+| What | What is the person's pose in the image? | The person is standing with their hands in their pockets. |
+| What | What is the exposure level of the image? | The exposure level is very low, with only a small portion of the person visible. |
+| How | How are the person's hands positioned in the image? | The person's hands are in their pockets. |
+| How | How does the low exposure level contribute to the overall atmosphere of the image? | The low exposure level contributes to a relaxed and nonthreatening atmosphere. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's hands visible in the image? | No. |
+| Yes/No | Is the person wearing a blue shirt? | Yes. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Does the image depict explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire provocative or seductive? | No. |
+| What | What is the person's attire in the image? | Blue shirt and plaid skirt. |
+| What | What is the exposure level of the image? | Very low. |
+| How | How is the person standing in the image? | With their hands in their pockets. |
+| How | How much of the person's body is visible in the image? | A small portion. |

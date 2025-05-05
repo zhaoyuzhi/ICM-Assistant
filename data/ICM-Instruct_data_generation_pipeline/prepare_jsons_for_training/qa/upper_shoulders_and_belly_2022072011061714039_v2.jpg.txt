@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Does the woman have a tattoo visible on her left arm? | Yes. |
+| Yes/No | Is the woman standing in front of a bookshelf? | Yes. |
+| Yes/No | Are the books on the bookshelf visible in the image? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive or sexual? | Yes. |
+| Yes/No | Does the image have a sexy or alluring atmosphere? | Yes. |
+| What | What is the woman wearing on her upper body? | A strapless top. |
+| What | What is the woman's pose in the image? | She has her hands on her chest. |
+| How | How does the bookshelf contribute to the atmosphere of the image? | The bookshelf adds an element of intrigue and mystery to the scene, which can be perceived as sexy by some viewers. |
+| How | How does the woman's pose accentuate her figure? | Her pose emphasizes her curves and draws attention to her chest, creating a more alluring and sensual image. |

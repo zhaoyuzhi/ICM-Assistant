@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the person's legs spread apart? | Yes. |
+| Yes/No | Is the person looking down at the floor? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the image intimate? | Yes. |
+| Yes/No | Does the person's pose add to the overall intimate atmosphere of the image? | Yes. |
+| What | What is the person in the image wearing on their feet? | Black heels. |
+| What | What is the person in the image looking at? | The floor. |
+| How | How are the person's legs positioned in the image? | Spread apart. |
+| What | What creates a visually appealing and seductive scene in the image? | The combination of the person's attire and their pose. |

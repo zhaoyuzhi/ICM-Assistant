@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a sheer panel on the front? | Yes. |
+| Yes/No | Is the woman striking a pose with her hand on her hip? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Are the black purse and heels included in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She is striking a pose with her hand on her hip and her head tilted to the side. |
+| What | What is the color of the dress, purse, and heels in the image? | Black. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, with her hand on her hip and her head tilted to the side, adds a sense of allure and confidence to the image, contributing to its sultry and alluring atmosphere. |
+| How | How does the black dress with a sheer panel on the front, combined with the black purse and heels, contribute to the overall atmosphere of the image? | The black dress with a sheer panel on the front, combined with the black purse and heels, creates an alluring and seductive look, contributing to the overall sultry and alluring atmosphere of the image. |

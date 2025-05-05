@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Is the dress form-fitting? | Yes. |
+| Yes/No | Does the person have their hair styled in loose curls? | Yes. |
+| Yes/No | Is the person striking a pose with one hand on their hip and the other on their thigh? | Yes. |
+| Yes/No | Does the image create a sexy and alluring atmosphere? | Yes. |
+| What | What is the color of the dress? | Black. |
+| What | What is the person's hairstyle? | Loose curls. |
+| How | How does the dress accentuate the person's curves? | It is formfitting, revealing the person's figure. |
+| How | How does the person's pose accentuate the low back of the dress? | The person has one hand on their hip and the other on their thigh, drawing attention to the exposed area. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man holding a barbell with both hands? | Yes. |
+| Yes/No | Is the man's skin tone dark? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image highlight the man's muscular physique? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man holding in the image? | A barbell. |
+| What | What is the background of the image? | Blurred. |
+| How | How is the man holding the barbell? | With both hands. |
+| How | How does the blurred background affect the image? | It draws focus to the man and the barbell, making them the central focus of the image. |

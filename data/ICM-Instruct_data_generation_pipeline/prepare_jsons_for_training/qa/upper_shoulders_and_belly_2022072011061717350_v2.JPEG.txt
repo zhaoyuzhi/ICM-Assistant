@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman's head turned to the side? | Yes. |
+| Yes/No | Are her arms crossed in front of her? | Yes. |
+| Yes/No | Is the background a plain white wall? | Yes. |
+| Yes/No | Does the image exude a sense of confidence and allure? | Yes. |
+| Yes/No | Can the woman's midriff be seen in the image? | Yes. |
+| What | What is the woman wearing in the image? | A white strapless top. |
+| What | What is the woman's pose in the image? | She has her arms crossed in front of her and her head turned to the side. |
+| How | How does the plain white wall in the background affect the image? | It puts the focus entirely on the woman and emphasizes her and the outfit, making the image more alluring. |
+| How | How can the woman's arms being crossed be interpreted? | It can be seen as a seductive pose. |

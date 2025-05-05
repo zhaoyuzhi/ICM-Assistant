@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black leather jacket? | Yes. |
+| Yes/No | Is the dress burgundy? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the back of the dress open? | Yes. |
+| Yes/No | Are the person's curls loose? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the dress? | Burgundy. |
+| What | What is the style of the person's hair? | Loose curls. |
+| How | How is the person's hair styled? | The person's hair is styled in loose curls. |
+| How | How does the black leather jacket contribute to the atmosphere of the image? | The black leather jacket draped over the back of the chair adds an element of mystery and intrigue, further enhancing the sexy atmosphere of the image. |

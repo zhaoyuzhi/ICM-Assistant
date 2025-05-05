@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini orange in color? | Yes. |
+| Yes/No | Does the top of the bikini have a halter style? | Yes. |
+| Yes/No | Is the bottom of the bikini a string bikini bottom? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| What | What is the color of the bikini? | Orange. |
+| What | What type of swimwear does the woman have on her bottom? | A string bikini bottom. |
+| How | How is the top of the bikini tied? | It is tied around the neck in a halter style. |
+| How | How does the woman pose for the camera? | She is smiling and posing for the camera. |

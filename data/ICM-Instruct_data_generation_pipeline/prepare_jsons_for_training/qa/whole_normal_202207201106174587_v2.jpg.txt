@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a coat? | Yes. |
+| Yes/No | Is the coat long? | Yes. |
+| Yes/No | Does the coat have a plaid pattern? | Yes. |
+| Yes/No | Is the coat double-breasted? | Yes. |
+| Yes/No | Is the woman standing against a white background? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| What | What is the color of the woman's coat? | Dark blue. |
+| What | What is the pattern on the coat? | Plaid. |
+| How | How is the coat cinched at the waist? | With a belt. |
+| What | What is the overall atmosphere of the image? | Neutral and professional. |

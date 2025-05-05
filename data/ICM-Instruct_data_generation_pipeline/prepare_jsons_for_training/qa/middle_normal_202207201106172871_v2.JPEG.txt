@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's jeans ripped or distressed? | No. |
+| Yes/No | Does the person have any visible tattoos or piercings? | No. |
+| Yes/No | Is the person wearing any jewelry? | No. |
+| Yes/No | Is the person's shirt sleeveless or low-cut? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the person's shirt? | White. |
+| What | What is the style of the person's jeans? | Classic. |
+| How | How are the person's hands positioned in the image? | Resting on their hips. |
+| How | How would you describe the overall atmosphere of the image? | Neutral. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the image suggest a sexual context? | No. |
+| Yes/No | Is the person in the image standing with their back to the camera? | Yes. |
+| Yes/No | Does the image focus on the person's body or suggest any intimate or provocative actions? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the style of the blue jeans? | Classic with a high waist and a back pocket. |
+| What | What is the overall atmosphere of the image? | Casual and everyday. |
+| How | How does the image focus on the person's clothing? | It highlights the blue jeans specifically. |
+| How | How does the image convey a casual and everyday atmosphere? | Through the lack of suggestive or provocative elements and the low exposure level. |

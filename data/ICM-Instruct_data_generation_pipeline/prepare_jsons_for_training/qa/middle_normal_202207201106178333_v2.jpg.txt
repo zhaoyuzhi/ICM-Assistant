@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Does the image depict the person engaging in any explicit or suggestive actions or poses? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image suggest any particular activity or context? | No. |
+| What | What is the person wearing in the image? | Blue shorts and a white shirt. |
+| What | What is the focus of the image? | The person's clothing. |
+| How | How is the person standing in the image? | The person's movements are not discernible due to the low exposure level. |
+| What | What is the overall atmosphere of the image? | Casual and nonsexual. |
+| Yes/No | Is the person in the image wearing blue shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image standing in front of a car? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Is the image sexy or provocative? | No. |
+| What | What is the person in the image wearing? | Blue shorts and a white shirt. |
+| What | What is the focus of the image? | The person's casual attire and the car in the background. |
+| How | How is the person standing in front of the car? | The person is standing in a relaxed pose, with their feet shoulderwidth apart and their arms at their sides. |
+| How | How does the low exposure level of the image affect the person's appearance? | The low exposure level means that only a small portion of the person's body is visible, making it difficult to discern any details of their appearance beyond their clothing. |

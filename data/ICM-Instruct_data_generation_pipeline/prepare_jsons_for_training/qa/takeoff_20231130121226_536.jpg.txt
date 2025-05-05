@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is she wearing a black shirt? | Yes. |
+| Yes/No | Are her shorts blue? | Yes. |
+| Yes/No | Is she holding her shirt above her head? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing? | A black shirt and blue shorts. |
+| What | What is the woman doing with her shirt? | She is holding it above her head. |
+| How | How is the woman standing? | She is standing with her feet shoulderwidth apart, facing away from the camera. |
+| How | How does the beach setting contribute to the overall atmosphere of the image? | The beach setting adds to the atmosphere of relaxation, leisure, and enjoyment, which complements the woman's carefree attitude and suggestive attire. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple dress? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the woman's attire modest and appropriate? | Yes. |
+| Yes/No | Does the image feature any provocative content? | No. |
+| Yes/No | Is the woman standing in a casual setting? | Yes. |
+| Yes/No | Is the focus of the image on the woman's outfit and actions? | Yes. |
+| What | What is the woman doing in the image? | She is standing in front of a mirror. |
+| What | What is the purpose of the box of tissues nearby? | It is not clear from the description. |
+| How | How is the woman's attire described? | It is described as modest and appropriate. |
+| How | How does the low exposure level of the image contribute to its appropriateness? | It does not reveal any intimate details or suggest any inappropriate content. |

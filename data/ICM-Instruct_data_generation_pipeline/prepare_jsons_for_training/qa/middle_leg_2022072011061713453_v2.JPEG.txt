@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress have a cat design on the front? | Yes. |
+| Yes/No | Is the dress short? | Yes. |
+| Yes/No | Does the person have a hooded jacket? | Yes. |
+| Yes/No | Is the jacket pink? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the dress? | Pink. |
+| What | What is the design on the dress? | A cat. |
+| How | How does the person's outfit create a sense of intimacy and allure? | The short dress and hooded jacket expose the person's thighs, creating a sense of intimacy and allure. |
+| How | How does the pink and white striped awning in the background enhance the atmosphere of the image? | The pink and white striped awning adds a touch of charm and whimsy to the overall atmosphere, enhancing the sexy vibe of the image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the person's sweater blue and white striped? | Yes. |
+| Yes/No | Are the person's legs bent at the knees? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image capture a sense of intimacy and sensuality? | Yes. |
+| Yes/No | Is the person holding the stockings up with their hands? | Yes. |
+| What | What color are the person's stockings? | Beige. |
+| What | What is the person wearing under their sweater? | Stockings. |
+| How | How is the person holding the stockings up? | With their hands. |
+| How | How does the image capture the atmosphere of intimacy and allure? | The person's bent knees and the closeup nature of the image create an intimate atmosphere, and the contrast between the beige stockings and the blue and white striped sweater adds to the visual appeal and allure of the image. |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the person's attire considered sexy? | Yes. |
+| Yes/No | Are the person's legs bent at the knees? | Yes. |
+| Yes/No | Is the image considered intimate or sensual? | Yes. |
+| Yes/No | Does the image include a close-up view of the person? | Yes. |
+| Yes/No | Does the image depict the person putting on stockings? | Yes. |
+| What | What is the color of the sweater the person is wearing? | Blue and white striped. |
+| What | What is the person holding in their hands in the image? | Stockings. |
+| How | How are the person's knees positioned in the image? | Bent. |
+| How | How is the image capturing the atmosphere of intimacy and allure? | Through the combination of the person's attire, the act of putting on stockings, and the closeup nature of the image. |

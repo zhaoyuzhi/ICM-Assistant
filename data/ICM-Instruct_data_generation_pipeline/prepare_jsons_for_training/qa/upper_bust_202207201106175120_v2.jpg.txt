@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink bra? | Yes. |
+| Yes/No | Is the woman holding her bra with her left hand? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the woman have her right hand placed on her hip? | Yes. |
+| What | What is the woman's facial expression in the image? | Smiling. |
+| What | What is the color of the woman's bra? | Pink. |
+| How | How is the woman holding her bra? | With her left hand. |
+| How | How is the woman looking at the camera? | Directly. |

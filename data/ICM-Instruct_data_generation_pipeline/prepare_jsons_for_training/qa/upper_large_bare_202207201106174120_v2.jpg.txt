@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman sitting on a chair? | Yes. |
+| Yes/No | Is the woman's upper body exposed? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a beach setting? | Yes. |
+| What | What is the woman wearing on her lower body? | A black thong. |
+| What | What is the woman's facial expression? | Smiling. |
+| How | How is the woman sitting on the chair? | With her legs crossed. |
+| How | How does the woman's smile and body language contribute to the overall atmosphere of the image? | They add a sense of confidence and allure to the image, making it sexy and enticing. |

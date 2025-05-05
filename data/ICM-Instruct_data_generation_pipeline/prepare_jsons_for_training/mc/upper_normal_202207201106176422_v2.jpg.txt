@@ -1,0 +1,7 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What is the color of the person's shirt in the image? |A. Red |B. Blue |C. White |D. Black |B. |
+| What is the color of the building's roof in the image? |A. Red |B. Blue |C. White |D. Black |A. |
+| What is the exposure level of the image? |A. High |B. Medium |C. Low |D. Very Low |D. |
+| What is the overall atmosphere of the image? |A. Sexy |B. Casual |C. Artistic |D. Not Sexy |D. |
+| What is the focus of the image? |A. The person's outfit |B. The building's architecture |C. The surrounding environment |D. The person's facial expression |A. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a fur coat? | Yes. |
+| Yes/No | Is the man waving with his right hand? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire provocative? | No. |
+| Yes/No | Does the image focus on the man's physical appearance? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man wearing on his upper body? | A black tshirt with white text. |
+| What | What is the man waving with? | His right hand. |
+| How | How is the fur coat made? | It appears to be made of real fur. |
+| How | How does the man's attire and actions contribute to the overall atmosphere of the image? | They do not contribute to a sexy or provocative atmosphere, instead focusing on the man's clothing and actions rather than his physical appearance. |

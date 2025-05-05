@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a white blouse? | Yes. |
+| Yes/No | Is the skirt the woman is wearing short? | Yes. |
+| Yes/No | Is the woman's left hand resting on her hip? | Yes. |
+| Yes/No | Is the woman's right hand touching her thigh? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the background elements (gray wall and white desk) neutral? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What color is the woman's skirt? | Black. |
+| How | How is the woman's left hand positioned in the image? | Resting on her hip. |
+| How | How is the woman's right hand positioned in the image? | Lightly touching her thigh. |

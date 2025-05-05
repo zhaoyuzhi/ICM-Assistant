@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image kissing the woman? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the man in the image have short, dark hair? | Yes. |
+| Yes/No | Are the couple standing in front of a window? | Yes. |
+| Yes/No | Are the curtains in the background yellow? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and passion? | Yes. |
+| What | What is the woman in the image wearing? | A white shirt. |
+| What | What is the color of the man's shirt in the image? | Blue. |
+| How | How are the couple positioned in the image? | The man and woman are standing close to each other, with the man's hands on the woman's face and their lips meeting in a kiss. |
+| How | How do the curtains in the background contribute to the overall atmosphere of the image? | The yellow curtains in the background provide a soft, warm backdrop that complements the couple's attire and adds to the overall atmosphere of the image, creating a sense of warmth and connection. |

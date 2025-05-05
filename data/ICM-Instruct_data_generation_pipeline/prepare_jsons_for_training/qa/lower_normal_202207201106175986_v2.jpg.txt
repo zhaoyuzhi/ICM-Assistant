@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Is the person in the image holding a bottle? | Yes. |
+| Yes/No | Is the exposure level of the person in the image high? | No. |
+| Yes/No | Does the image suggest a sexual context? | No. |
+| Yes/No | Is the person in the image sitting on a chair? | No. |
+| What | What is the person in the image holding? | A bottle. |
+| What | What is the color of the person's shirt? | Yellow. |
+| How | How is the person sitting on the stool? | The person is sitting in a casual and relaxed manner. |
+| How | How does the image focus on the person's upper body and arms? | The exposure level of the person is low, focusing on their upper body and arms, rather than their lower body. |

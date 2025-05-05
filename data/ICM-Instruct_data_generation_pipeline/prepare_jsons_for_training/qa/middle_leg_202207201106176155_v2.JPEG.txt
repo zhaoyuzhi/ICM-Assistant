@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing heels? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the woman in the image have her hand on her hip? | Yes. |
+| Yes/No | Is the woman in the image posing in a sexy manner? | Yes. |
+| Yes/No | Does the image have a confident atmosphere? | Yes. |
+| What | What color are the woman's shorts? | Pink. |
+| What | What color are the woman's heels? | White. |
+| How | How does the woman's pose accentuate her body? | The woman's pose, with her left hand on her hip and her right hand resting on her thigh, draws attention to her waist and thighs, accentuating her body in a confident and sexy manner. |
+| How | How does the image create a sexy atmosphere? | The image creates a sexy atmosphere through the combination of the woman's outfit, pose, and confident demeanor. The cropped shorts, white heels, and white top all contribute to a sexy and sophisticated look, while the woman's pose adds a sense of confidence and sensuality. |

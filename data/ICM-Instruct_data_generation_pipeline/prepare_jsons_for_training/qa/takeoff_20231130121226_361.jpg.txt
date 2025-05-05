@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman wearing a bikini bottom? | No. |
+| Yes/No | Is the shirt opened intentionally? | Yes. |
+| Yes/No | Is the ocean visible in the image? | Yes. |
+| Yes/No | Is the woman standing on a rock? | Yes. |
+| Yes/No | Does the image convey a sense of relaxation? | Yes. |
+| What | What is the woman doing in the image? | Enjoying her time at the beach, perhaps taking a break from swimming or sunbathing. |
+| What | What is the color of the ocean in the image? | Blue. |
+| How | How is the woman's attire in the image? | She is wearing a white shirt and a red bikini top. |
+| How | How does the woman's pose create an atmosphere? | The woman's pose, with her back to the camera, adds a sense of mystery and intrigue, making the viewer want to know more about her. |

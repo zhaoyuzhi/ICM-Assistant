@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image holding a purse? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person looking off to the side? | Yes. |
+| Yes/No | Are the person's shoes black? | Yes. |
+| Yes/No | Is the wall in the background gray? | Yes. |
+| What | What is the person in the image holding in their left hand? | A green purse. |
+| What | What color are the person's shoes? | Black. |
+| How | How is the person standing in the image? | With their legs crossed. |
+| How | How is the person looking in the image? | Looking off to the side. |

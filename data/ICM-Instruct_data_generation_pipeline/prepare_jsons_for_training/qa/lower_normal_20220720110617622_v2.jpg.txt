@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red shirt? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Are they wearing sandals? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the person's pose in the image? | Standing with hands on hips. |
+| What | What is the focus of the image? | The person's outfit. |
+| How | How is the person dressed in the image? | They are wearing a red shirt and blue jeans. |
+| How | How does the low exposure level of the person affect the image? | It emphasizes the focus on the person's clothing and posture rather than their physical appearance. |

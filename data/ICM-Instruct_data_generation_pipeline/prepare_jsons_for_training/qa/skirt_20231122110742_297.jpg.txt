@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Is the woman's dress white? | Yes. |
+| Yes/No | Does the woman have a cape-like train on her dress? | Yes. |
+| Yes/No | Is the woman lifting her dress? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Are the woman's actions and attire suggestive of allure and confidence? | Yes. |
+| What | What is the main color of the woman's dress? | White. |
+| What | What is the woman holding with her left hand in the image? | The capelike train of her dress. |
+| How | How is the woman's dress different from a traditional dress? | The dress has a high slit up the front and a capelike train. |
+| How | How does the woman's posture and actions contribute to the atmosphere of the image? | The woman's posture and actions create a sense of vulnerability and allure, suggesting a sense of intimacy and sensuality. |

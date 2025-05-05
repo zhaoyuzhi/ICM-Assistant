@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the background of the image fiery red? | Yes. |
+| Yes/No | Does the image capture a moment of vulnerability? | Yes. |
+| Yes/No | Does the image evoke a strong emotional response? | Yes. |
+| Yes/No | Is the woman's exposed belly a symbol of confidence and self-assuredness? | Yes. |
+| What | What is the woman wearing in the image? | A black sports bra and black shorts. |
+| What | What does the fiery red background represent? | Intensity and passion. |
+| How | How does the image capture a moment of vulnerability? | The woman's exposed belly symbolizes vulnerability and strength. |
+| How | How does the image evoke a strong emotional response? | The combination of the woman's exposed belly and the fiery red background creates a sense of intensity and passion that evokes a strong emotional response. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman's midriff exposed in the image? | Yes. |
+| Yes/No | Is the background of the image bright red? | Yes. |
+| Yes/No | Does the image convey a sense of intensity? | Yes. |
+| Yes/No | Is the woman's pose in the image confident? | Yes. |
+| How | Does the image showcase the woman's athletic physique? | Yes. |
+| What | What is the woman holding in the image? | Her shirt. |
+| What | What is the color of the background in the image? | Bright red. |
+| How | How is the woman's midriff exposed in the image? | She is holding her shirt open. |
+| How | How does the image create a sense of intensity? | Through the use of a bold background and the woman's confident pose. |

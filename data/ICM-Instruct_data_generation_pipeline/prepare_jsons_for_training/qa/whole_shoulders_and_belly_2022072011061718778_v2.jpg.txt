@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sports bra? | Yes. |
+| Yes/No | Are her leggings white? | Yes. |
+| Yes/No | Is she holding a black pillow? | Yes. |
+| Yes/No | Is the background a gradient of blue and white? | Yes. |
+| Yes/No | Does the woman have her legs crossed? | Yes. |
+| Yes/No | Is her left hand resting on her right knee? | Yes. |
+| What | What is the woman sitting on? | A futonlike chair. |
+| What | What color is the archway in the background? | Blue. |
+| How | How is the woman's pose in the image? | She has her legs crossed and her hand resting on her knee. |
+| What | What creates a relaxed and comfortable atmosphere in the image? | The futonlike chair and the gradient background. |

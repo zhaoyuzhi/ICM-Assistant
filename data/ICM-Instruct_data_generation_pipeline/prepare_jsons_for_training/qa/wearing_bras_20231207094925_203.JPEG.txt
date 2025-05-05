@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Does the woman have a tattoo on her back? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Are the woman's hands on the straps of the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What color is the bra? | Pink. |
+| What | What is the woman doing in the image? | Putting on her bra. |
+| How | How does the pink bra add to the scene? | It adds a touch of color and softness. |
+| How | How does the tattoo on her back add to the image? | It adds an element of intrigue and personal expression. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Does the woman have a tattoo on her back? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Are the woman's hands on the straps of the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the color of the bra? | Pink. |
+| What | What is the location of the tattoo on the woman's body? | Back. |
+| How | How does the pink bra add to the scene? | It adds a touch of color and softness. |
+| How | How does the tattoo on her back add to the image? | It adds an element of intrigue and personal expression. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the sleeves of the dress long? | Yes. |
+| Yes/No | Is the woman's pose in the image neutral? | Yes. |
+| Yes/No | Does the image contain any explicit content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and composed? | Yes. |
+| What | What is the main focus of the image? | The woman's attire and pose. |
+| What | What is the contrast between this image and a sexy image? | The image is lowkey and modest, while a sexy image would be explicit and sensual. |
+| How | How does the woman's pose contribute to the modest nature of the image? | The woman's neutral pose, with her hands resting on her hips, does not suggest any sexual or provocative intent. |
+| How | How does the image's low-key nature contrast with the sensual nature of a sexy image? | The image's lack of explicit content, combined with the modest dress and neutral pose, creates a calm and composed atmosphere that is in contrast with the sensual and provocative nature of a sexy image. |

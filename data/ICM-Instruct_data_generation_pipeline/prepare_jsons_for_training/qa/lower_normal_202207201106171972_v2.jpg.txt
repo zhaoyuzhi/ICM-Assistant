@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Do they have white sneakers? | Yes. |
+| Yes/No | Is the person carrying a black bag? | Yes. |
+| Yes/No | Is the person's exposure level low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the person in the image carrying? | A black bag. |
+| What | What is the person wearing on their feet? | White sneakers. |
+| How | How is the person's attire described? | Casual. |
+| What | What is the overall atmosphere of the image? | Everyday, casual. |

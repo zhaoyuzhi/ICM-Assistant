@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking a selfie? | Yes. |
+| Yes/No | Is the woman wearing a white sports bra? | Yes. |
+| Yes/No | Are black leggings worn by the woman? | Yes. |
+| Yes/No | Is the woman standing in front of a window? | Yes. |
+| Yes/No | Are white curtains visible in the image? | Yes. |
+| Yes/No | Does the image exude a casual and relaxed atmosphere? | Yes. |
+| What | What color are the woman's leggings? | Black. |
+| What | What type of clothing is the woman wearing that exposes her midriff? | A white sports bra. |
+| How | How is the woman's pose in the image? | The woman is standing with her arm extended, taking a selfie. |
+| How | How would you describe the atmosphere of the image? | The atmosphere is casual, relaxed, and sexy. |

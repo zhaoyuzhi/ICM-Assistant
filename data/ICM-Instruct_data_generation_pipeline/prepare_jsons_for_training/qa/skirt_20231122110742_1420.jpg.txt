@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a light green dress? | Yes. |
+| Yes/No | Is the woman wearing a white tie? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Is the woman's dress lifted up? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Do the woman's actions and attire suggest confidence and allure? | Yes. |
+| What | What color is the woman's dress? | Light green. |
+| What | What is the woman lifting up in the image? | Her dress. |
+| How | How is the woman's top different from her bottom? | The top is modest, while the bottom is more revealing. |
+| How | How does the woman's pose contribute to the image's overall atmosphere? | The woman's confident pose enhances the seductive and alluring quality of the image. |

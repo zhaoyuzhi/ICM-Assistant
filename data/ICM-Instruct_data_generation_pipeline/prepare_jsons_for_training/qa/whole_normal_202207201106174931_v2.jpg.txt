@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the woman holding a phone to her ear? | Yes. |
+| Yes/No | Is the image explicit or suggestive? | No. |
+| How | Does the woman's attire show excessive skin? | No. |
+| Yes/No | Is the woman's interaction with the phone provocative? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman wearing in the image? | A beige dress. |
+| What | What is the woman doing with the phone? | Holding it to her ear. |
+| How | How is the woman's attire depicted in the image? | Modestly, with a focus on her actions rather than her physical appearance. |
+| How | How does the low exposure level contribute to the image's atmosphere? | It emphasizes the woman's attire and actions rather than her physical appearance, creating a nonsexy atmosphere. |

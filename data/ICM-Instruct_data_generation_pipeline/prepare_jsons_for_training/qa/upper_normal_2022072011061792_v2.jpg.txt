@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue hoodie? | Yes. |
+| Yes/No | Is the person using a green apple cutter? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a dim appearance? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| Yes/No | Does the image contain any elements that suggest a romantic or intimate context? | No. |
+| What | What is the person in the image holding? | A green apple. |
+| What | What is the person using to slice the apple? | A green apple cutter. |
+| How | How is the exposure level of the image? | Low. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It makes the image appear dim and focuses attention on the person's actions and the apple cutter rather than their appearance or body language. |

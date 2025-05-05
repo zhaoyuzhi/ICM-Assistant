@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a pair of navy blue sweatpants? | Yes. |
+| Yes/No | Does the woman have a drawstring waist? | Yes. |
+| Yes/No | Is the woman wearing a white tank top? | Yes. |
+| Yes/No | Is the image taken from a side angle? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any sexy elements? | No. |
+| What | What is the woman wearing on her bottom half? | Navy blue sweatpants. |
+| What | What is the woman wearing on her top half? | White tank top. |
+| How | How is the woman's waist adjusted in the sweatpants? | Drawstring. |
+| How | How would you describe the overall atmosphere of the image? | Casual and sporty. |
+| Yes/No | Is the woman wearing a pair of navy blue sweatpants? | Yes. |
+| Yes/No | Does the woman have a drawstring waist? | Yes. |
+| Yes/No | Is the woman wearing a white tank top? | Yes. |
+| Yes/No | Is the image taken from a side angle? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image suggest a relaxed and comfortable setting? | Yes. |
+| What | What is the woman wearing on her bottom half? | Navy blue sweatpants. |
+| What | What is the woman wearing on her top half? | White tank top. |
+| How | How is the woman's waist adjusted in the sweatpants? | Drawstring. |
+| How | How would you describe the overall atmosphere of the image? | Casual and sporty. |

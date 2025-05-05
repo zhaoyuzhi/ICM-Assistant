@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image holding their pants up with one hand? | Yes. |
+| Yes/No | Is the person in the image placing their other hand on their hip? | Yes. |
+| How | Does the image show a large portion of the person's body? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the main focus of the image? | The person's clothing and movements. |
+| What | What is the atmosphere of the image? | Neutral and nonsexual. |
+| How | How is the person holding their pants up? | With one hand. |
+| How | How much of the person's body is visible in the image? | A small portion. |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image holding their pants up with their left hand? | Yes. |
+| How | Does the image show the person's underwear? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the image appropriate? | Yes. |
+| What | What is the person in the image holding their pants up with? | Their left hand. |
+| What | What is the overall atmosphere of the image? | Casual and not sexy. |
+| How | How is the person in the image holding their pants up? | With their left hand. |
+| What | What is the focus of the image? | The person's clothing and their action of holding up their pants. |

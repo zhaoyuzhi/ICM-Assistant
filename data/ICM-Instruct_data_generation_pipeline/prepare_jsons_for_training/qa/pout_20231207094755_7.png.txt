@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white striped shirt? | Yes. |
+| Yes/No | Does the woman in the image have long blonde hair? | Yes. |
+| Yes/No | Is the woman in the image pouting? | Yes. |
+| Yes/No | Are the woman's eyes closed in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and allure? | Yes. |
+| What | What is the woman in the image wearing? | A black and white striped shirt. |
+| What | What color is the woman's hair in the image? | Blonde. |
+| How | How is the woman in the image posing? | She is pouting as if kissing. |
+| How | How does the close-up shot of the woman's face contribute to the overall atmosphere of the image? | It creates a sense of intimacy and allure. |

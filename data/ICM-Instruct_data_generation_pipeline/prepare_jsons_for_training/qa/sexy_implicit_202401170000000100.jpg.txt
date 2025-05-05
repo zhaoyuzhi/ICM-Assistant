@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink swimsuit? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Are the woman's facial expressions coquettish? | Yes. |
+| Yes/No | Does the swimsuit reveal a lot of skin? | Yes. |
+| Yes/No | Is the background of the image a gray wall? | Yes. |
+| What | What is the color of the swimsuit? | Pink. |
+| What | What is the woman's facial expression? | Coquettish. |
+| How | How is the woman posing? | Seductively. |
+| How | How does the image make you feel? | Desirous. |

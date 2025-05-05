@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of khaki colored trousers? | Yes. |
+| Yes/No | Does the person have a striped shirt on? | Yes. |
+| Yes/No | Is the zipper fly open? | No. |
+| Yes/No | Are there two pockets on the front of the trousers? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What is the color of the trousers? | Khaki. |
+| What | What is the design of the shirt? | Striped. |
+| How | How is the zipper fly designed? | It is not open. |
+| Yes/No | Is the person in the image wearing a pair of khaki colored trousers? | Yes. |
+| Yes/No | Does the person have a visible face in the image? | No. |
+| Yes/No | Are there two pockets on the front of the trousers? | Yes. |
+| Yes/No | Is the shirt striped? | Yes. |
+| Yes/No | Does the image have a sexual context? | No. |
+| Yes/No | Is the atmosphere of the image neutral? | Yes. |
+| What | What is the color of the trousers? | Khaki. |
+| What | What is the type of shirt the person is wearing? | Striped. |
+| What | What is the exposure level of the image? | Very low. |

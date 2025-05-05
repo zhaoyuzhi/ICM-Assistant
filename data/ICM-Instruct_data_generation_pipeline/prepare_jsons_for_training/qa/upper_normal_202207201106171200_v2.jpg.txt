@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image wearing a hat? | Yes. |
+| Yes/No | Is the bed in the image covered with white sheets? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman in the image sitting on? | A bed. |
+| What | What color is the woman's hat in the image? | Brown. |
+| How | How is the woman's face not visible in the image? | The exposure level of the image is very low, making the woman's face not visible. |
+| How | How does the low exposure level and the fact that the woman is not the main subject of the image contribute to the non-sexy atmosphere? | The low exposure level and the fact that the woman is not the main subject of the image shift the focus away from the woman's face and body, making the image less sexy. |
+| Yes/No | Is the image sexually explicit? | No. |
+| Yes/No | Does the image feature nudity? | No. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman wearing a hat? | Yes. |
+| Yes/No | Does the image take place in a bedroom setting? | Yes. |
+| Yes/No | Does the woman's attire suggest confidence and allure? | Yes. |
+| What | What is the color of the woman's dress? | Black. |
+| What | What is the color of the woman's hat? | Brown. |
+| How | How would you describe the woman's pose in the image? | Confident and alluring. |
+| How | How would you describe the overall atmosphere of the image? | Intimate and sensual. |

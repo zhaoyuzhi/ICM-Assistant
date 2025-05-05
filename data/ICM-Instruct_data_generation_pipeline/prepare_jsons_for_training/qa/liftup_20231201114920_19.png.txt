@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lifting their shirt? | Yes. |
+| Yes/No | Is the person in the image wearing black pants? | Yes. |
+| Yes/No | Is the person in the image holding a microphone? | Yes. |
+| Yes/No | Is the image seductive and alluring? | Yes. |
+| Yes/No | Does the person in the image have a provocative expression? | No. |
+| Yes/No | Is the person in the image standing on a stage? | Yes. |
+| What | What is the person in the image wearing? | A white shirt and black pants. |
+| What | What is the person in the image holding? | A microphone. |
+| How | How is the person in the image standing? | Standing on a stage. |
+| How | How does the image evoke desire? | Through the person's provocative actions and attire, combined with the stage setting and overall atmosphere. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of light blue jeans? | Yes. |
+| Yes/No | Is the woman in the image wearing a gray sweater? | Yes. |
+| Yes/No | Does the image feature any provocative or revealing clothing? | No. |
+| Yes/No | Are the woman's hands placed in a neutral position on her hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the color of the woman's jeans? | Light blue. |
+| What | What is the color of the woman's sweater? | Gray. |
+| How | How are the woman's hands positioned on her hips? | In a neutral position. |
+| How | How would you describe the overall atmosphere of the image? | Casual and nonsexual. |
+| Yes/No | Is the person in the image wearing a pair of gray pants? | Yes. |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Is the person's body facing the camera? | Yes. |
+| Yes/No | Are the person's hands positioned on their hips? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and non-sexy? | Yes. |
+| What | What is the style of the pants the person is wearing? | Classic. |
+| What | What is the color of the sweater the person is wearing? | Neutral. |
+| How | How are the person's hands positioned in the image? | On their hips. |
+| How | How would you describe the person's pose in the image? | Confident. |

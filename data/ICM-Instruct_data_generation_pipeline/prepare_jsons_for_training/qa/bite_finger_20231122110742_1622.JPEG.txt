@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman looking up at the camera? | Yes. |
+| Yes/No | Is the woman's finger in her mouth? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What is the woman's gesture associated with? | Sensuality and allure. |
+| How | How is the woman's hair styled? | Long and black. |
+| How | How does the woman's gaze add to the intensity of the image? | It adds a sense of mystery and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the person's feet on the ground? | Yes. |
+| Yes/No | Is the weight machine equipped with multiple weights? | Yes. |
+| Yes/No | Is the setting a commercial gym? | Yes. |
+| Yes/No | Is the person's attire suggestive of a fitness setting? | Yes. |
+| How | Does the image showcase the person's buttocks? | Yes. |
+| What | What is the person in the image doing? | Performing a pushup on a weight machine. |
+| What | What is the color of the person's leggings? | Gray. |
+| How | How many weights are on the weight machine? | Multiple. |
+| How | How is the person's posture in the image? | In a plank position, with her hands on the weight machine and her feet on the ground. |

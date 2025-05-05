@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing red high heels? | Yes. |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the chair in the image made of metal? | Yes. |
+| Yes/No | Does the woman in the image have her legs crossed? | Yes. |
+| Yes/No | Is the background in the image white? | Yes. |
+| Yes/No | Does the woman in the image have her gaze directed downward? | Yes. |
+| What | What color are the woman's high heels? | Red. |
+| What | What is the woman's gaze directed at? | The floor or her lap. |
+| How | How is the woman sitting on the chair? | With her legs crossed. |
+| How | How does the white background affect the image? | It highlights the woman and her attire, making her the focal point of the image. |

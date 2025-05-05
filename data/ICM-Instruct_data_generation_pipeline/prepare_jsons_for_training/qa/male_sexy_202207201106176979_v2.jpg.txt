@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing? | No. |
+| Yes/No | Is the background of the image bright and colorful? | No. |
+| How | Does the image showcase the man's full body? | No. |
+| Yes/No | Is the man in the image smiling? | No. |
+| Yes/No | Does the image suggest a sense of movement or action? | No. |
+| What | What is the man in the image holding onto? | His hands are clasped together in front of him. |
+| What | What is the man in the image sitting on? | A stationary bike. |
+| How | How is the man's physique described in the image? | Muscular torso and chest. |
+| How | How does the image convey a sense of desire or admiration? | The dark background and focus on the man's torso and chest accentuate his physique, making the image visually appealing. |

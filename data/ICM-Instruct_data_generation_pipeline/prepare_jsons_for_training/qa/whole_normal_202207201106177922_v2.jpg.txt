@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image singing? | Yes. |
+| Yes/No | Is the woman dressed in a pink dress? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the woman performing a song in a professional or artistic context? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the woman singing into? | A microphone. |
+| What | What is the overall atmosphere of the image? | Not sexy, focused on her performance rather than her appearance. |
+| How | How is the woman dressed? | In a pink dress. |
+| How | How does the image convey a professional or artistic context? | Through the woman's attire and the setting of the image. |

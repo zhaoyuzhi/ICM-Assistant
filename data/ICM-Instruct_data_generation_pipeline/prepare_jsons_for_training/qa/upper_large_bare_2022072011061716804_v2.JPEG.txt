@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman lying on the sand at the beach? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the bikini top have a floral pattern on it? | Yes. |
+| Yes/No | Is the sand beneath the woman light brown in color? | Yes. |
+| Yes/No | Is the woman lying on her stomach? | Yes. |
+| What | What is the primary color of the bikini top? | Gray. |
+| What | What is the pattern on the bikini top? | Floral. |
+| How | How is the woman positioned on the sand? | She is lying on her stomach. |
+| How | How does the image make you feel? | It makes me feel intimate and allured. |

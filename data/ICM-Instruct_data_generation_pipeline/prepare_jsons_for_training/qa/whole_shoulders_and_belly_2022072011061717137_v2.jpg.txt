@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the dress yellow and white? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Is the woman holding a bouquet of flowers? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A strapless yellow and white dress with a high neckline and a floral pattern. |
+| What | What is the woman holding in her hands? | A bouquet of flowers. |
+| How | How does the dress contribute to the sexy atmosphere of the image? | The strapless dress and high neckline accentuate the woman's neck and chest area, creating a sexy look. |
+| How | How does the bouquet of flowers add to the image's atmosphere? | The bouquet of flowers adds a romantic and playful element to the image, contributing to the overall sexy and alluring atmosphere. |

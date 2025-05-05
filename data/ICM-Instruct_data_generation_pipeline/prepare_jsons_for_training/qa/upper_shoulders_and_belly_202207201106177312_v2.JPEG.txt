@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are her hands on her hips? | Yes. |
+| Yes/No | Is her hair styled in a high ponytail? | Yes. |
+| Yes/No | Are her shorts midriff-baring? | Yes. |
+| Yes/No | Is the background of the image vibrant and colorful? | Yes. |
+| Yes/No | Does the image have a sexy and alluring atmosphere? | Yes. |
+| What | What is the woman's hair style in the image? | High ponytail. |
+| What | What is the color of the woman's top in the image? | Blue. |
+| How | How is the woman standing in the image? | Confidently. |
+| How | How does the background of the image enhance the overall atmosphere? | It creates a vibrant and dynamic feel. |

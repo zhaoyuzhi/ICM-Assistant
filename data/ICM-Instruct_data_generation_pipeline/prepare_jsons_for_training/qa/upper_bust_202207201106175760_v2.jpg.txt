@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra black? | Yes. |
+| Yes/No | Are there white arrows on the bra? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color is the bra? | Black. |
+| What | What is the woman's facial expression? | Smiling. |
+| How | How are the straps of the bra designed? | Thin. |
+| How | How is the woman's gaze directed? | Off to the side. |

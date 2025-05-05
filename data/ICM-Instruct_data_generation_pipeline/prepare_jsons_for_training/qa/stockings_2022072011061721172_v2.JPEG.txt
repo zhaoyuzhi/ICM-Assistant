@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person sitting on a bed? | Yes. |
+| Yes/No | Is the person's dress black with a bow on the front? | Yes. |
+| What | What is the person's footwear? | Black stockings. |
+| What | What is the color of the person's dress? | Black. |
+| How | How are the person's legs positioned? | Crossed. |
+| How | How are the person's feet resting? | On the headboard. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of navy blue sweatpants? | Yes. |
+| Yes/No | Does the person's midriff appear exposed in the image? | Yes. |
+| Yes/No | Is there a drawstring at the waist of the sweatpants? | Yes. |
+| Yes/No | Is the drawstring tied in a bow? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Does the image have a sexy tone? | Yes. |
+| What | What is the color of the sweatpants? | Navy blue. |
+| What | What creates a sense of intimacy and vulnerability in the image? | The exposed midriff and the drawstring at the waist of the sweatpants. |
+| How | How is the drawstring tied at the waist of the sweatpants? | In a bow. |
+| How | How does the navy blue color of the sweatpants contribute to the overall appearance of the image? | It adds a touch of sophistication and elegance. |
+| Yes/No | Is the person in the image wearing blue pajama pants? | Yes. |
+| Yes/No | Does the person's belly appear exposed in the image? | Yes. |
+| Yes/No | Is the fabric of the pajama pants soft and comfortable? | Yes. |
+| Yes/No | Is the person standing against a plain background? | Yes. |
+| How | Does the image showcase the person's midriff? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and provocative? | Yes. |
+| What | What is the color of the pajama pants? | Blue. |
+| What | What is the material of the pajama pants? | Soft, comfortable fabric. |
+| How | How are the pajama pants fitted at the waist? | With a drawstring. |
+| How | How does the plain background affect the focus of the image? | It puts the focus entirely on the person and their attire, emphasizing the exposed midriff and creating a sense of intimacy and allure. |

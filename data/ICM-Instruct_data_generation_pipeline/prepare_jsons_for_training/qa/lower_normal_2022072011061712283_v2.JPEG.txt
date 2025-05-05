@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black pants? | Yes. |
+| Yes/No | Is the person's shirt white? | Yes. |
+| Yes/No | Does the person have a tattoo visible on their left arm? | Yes. |
+| Yes/No | Are the person's shoes black? | Yes. |
+| Yes/No | Is the person's exposure level low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the person's attire in the image? | Black pants, black jacket, white shirt, black shoes. |
+| What | What is the focal point of the image? | The person's clothing and the overall atmosphere of the scene. |
+| How | How is the person's low exposure level emphasized in the image? | The person's torso and arm are only visible in the image, with the rest of their body obscured. |
+| How | How does the image convey a sense of atmosphere? | The image uses shading and lighting to create a moody, industrial feel, with the metal grate and dark colors contributing to the overall atmosphere. |

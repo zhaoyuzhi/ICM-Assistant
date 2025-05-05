@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman standing on a street? | Yes. |
+| Yes/No | Does the image convey a sexual atmosphere? | No. |
+| Yes/No | Are the jeans tight and accentuating the woman's waist and hips? | Yes. |
+| Yes/No | Is the woman's attire inappropriate or offensive? | No. |
+| What | What is the distinctive design feature of the jeans? | A large back pocket and a small front pocket. |
+| What | What is the overall atmosphere of the image? | Casual and everyday. |
+| How | How are the jeans tight and accentuating the woman's waist and hips? | The jeans have a lowrise design and are fitted to the woman's body. |
+| How | How does the image convey a non-sexual atmosphere? | The woman's attire, the blue jeans, and the street setting all contribute to a nonsexual image, and the lowrise design of the jeans and the woman's stance suggest a relaxed, informal setting rather than a provocative or seductive one. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman standing in a street? | Yes. |
+| Yes/No | Does the image contain explicit nudity or explicit content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Is the woman dressed in casual clothing? | Yes. |
+| Yes/No | Is the focus of the image on the woman's body rather than her outfit? | No. |
+| What | What is the distinctive feature of the woman's jeans? | The back pocket design. |
+| What | What is the exposure level of the image? | Low. |
+| How | How is the woman standing in the street? | Not specified in the description. |
+| How | How does the image convey a casual and everyday atmosphere? | Through the woman's casual clothing and the lack of explicit content. |

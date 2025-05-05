@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a Nike shirt? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the person standing in a suggestive pose? | No. |
+| Yes/No | Are there any explicit or provocative elements in the image? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the person have a drawstring at the waist? | Yes. |
+| What | What brand of shoes is the person wearing? | Nike. |
+| What | What color are the person's sweatpants? | Gray. |
+| How | How are the person's hands positioned in the image? | Casually tucked into their pockets. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

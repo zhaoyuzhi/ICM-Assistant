@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Does the skirt have pockets? | Yes. |
+| Yes/No | Is the woman wearing tights? | Yes. |
+| Yes/No | Are the tights black? | Yes. |
+| Yes/No | Is the woman wearing heels? | Yes. |
+| What | What color is the woman's sweater? | Black. |
+| What | What color are the woman's tights? | Black. |
+| How | How does the woman carry herself in the image? | Confidently/Sensually. |

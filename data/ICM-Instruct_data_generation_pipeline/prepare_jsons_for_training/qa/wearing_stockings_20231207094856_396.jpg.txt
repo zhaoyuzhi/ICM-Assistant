@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing black velvet knee-high socks? | Yes. |
+| Yes/No | Is the person in the image wearing black pants? | Yes. |
+| Yes/No | Is the person in the image putting on their stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the person in the image wearing on their legs? | Black stockings and black velvet kneehigh socks. |
+| What | What is the person in the image doing? | Putting on their stockings. |
+| How | How is the person in the image wearing their stockings? | They are pulling them up. |
+| How | How does the image create a sexy atmosphere? | The person is wearing black stockings and black velvet kneehigh socks, which are often associated with a seductive and alluring appearance, and the act of putting on stockings can be seen as a sensual and intimate moment. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the stockings being put on in the image? | Yes. |
+| Yes/No | Is the person wearing black pants in the image? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black stockings and black velvet kneehigh socks. |
+| What | What is the person in the image doing? | Putting on their stockings. |
+| How | How is the person in the image putting on their stockings? | By bending their knee and pulling the stocking up. |
+| What | What atmosphere does the image create? | A sexy and intimate atmosphere. |

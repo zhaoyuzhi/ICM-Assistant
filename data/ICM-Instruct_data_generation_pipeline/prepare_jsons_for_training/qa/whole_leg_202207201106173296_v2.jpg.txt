@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red sweater? | Yes. |
+| Yes/No | Is the woman in the image wearing blue shorts? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they walking on a street? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image holding in her left hand? | A purse. |
+| What | What is the man in the image wearing on his lower body? | Black pants. |
+| How | How is the woman's outfit revealing? | The red sweater and blue shorts expose her thighs. |
+| How | How does the presence of other people in the background affect the atmosphere of the image? | It adds to the sense of a public setting, but the focus remains on the couple and their interaction. |

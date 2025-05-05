@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing any jewelry? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man in the image smiling? | No. |
+| Yes/No | Are the man's legs visible in the image? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the man wearing on his lower half? | Blue and white striped boxer briefs. |
+| What | What is the man's facial expression in the image? | Confident/serious. |
+| How | How is the man standing in the image? | With his hands on his hips. |
+| How | How would you describe the overall mood of the image? | Sexy/intimate. |

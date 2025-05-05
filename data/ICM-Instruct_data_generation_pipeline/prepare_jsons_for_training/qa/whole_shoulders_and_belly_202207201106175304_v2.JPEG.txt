@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Does the woman have a black belt? | Yes. |
+| Yes/No | Is the woman's blouse off-the-shoulder? | Yes. |
+| Yes/No | Is the chair the woman is sitting on white? | Yes. |
+| Yes/No | Does the image convey a sense of allure and confidence? | Yes. |
+| What | What is the woman wearing around her waist? | A black belt. |
+| What | What is the color of the chair the woman is sitting on? | White. |
+| How | How is the woman's blouse off-the-shoulder? | It is offtheshoulder, revealing her shoulders and upper chest. |
+| How | How is the woman's figure accentuated in the image? | Her figure is accentuated by the black belt cinched at her waist. |

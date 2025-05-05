@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Does the woman have a plunging neckline? | Yes. |
+| Yes/No | Is the woman wearing a gold necklace? | Yes. |
+| Yes/No | Does the necklace have a heart-shaped pendant? | Yes. |
+| Yes/No | Is the woman standing in front of a store window display? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the woman wearing around her neck? | A gold necklace with a heartshaped pendant. |
+| What | What is the overall atmosphere of the image? | Seductive and alluring. |
+| How | How does the woman's attire contribute to the seductive atmosphere of the image? | Her black top with a plunging neckline and gold necklace with a heartshaped pendant are both associated with sensuality and allure. |
+| How | How does the store window display in the background contribute to the overall ambiance of the image? | It suggests a setting that is both glamorous and enticing. |

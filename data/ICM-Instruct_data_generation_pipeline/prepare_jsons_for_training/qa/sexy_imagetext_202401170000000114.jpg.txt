@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lying on the floor? | Yes. |
+| Yes/No | Is the man in the image drunk? | Yes. |
+| Yes/No | Is the advertising slogan in Chinese? | Yes. |
+| Yes/No | Does the image suggest a sexual encounter between the woman and the man? | Yes. |
+| Yes/No | Is the woman wearing a red shirt? | Yes. |
+| Yes/No | Is there a potted plant in the background? | Yes. |
+| What | What is the woman's pose in the image? | She is lying on the floor. |
+| What | What is the man's state in the background? | He is drunk. |
+| How | How does the red shirt worn by the woman enhance the atmosphere of the image? | It adds to the seductive and provocative atmosphere, as red is often associated with passion and desire. |
+| How | How does the potted plant in the background contrast with the intimacy of the moment? | It adds a touch of domesticity to the scene, which contrasts with the intimacy of the moment. |

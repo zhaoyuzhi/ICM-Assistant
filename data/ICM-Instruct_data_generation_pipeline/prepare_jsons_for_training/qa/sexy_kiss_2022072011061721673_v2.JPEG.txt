@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are they in a natural setting? | Yes. |
+| Yes/No | Is the woman wearing a black and white dress? | Yes. |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Are they lying on the grass? | Yes. |
+| Yes/No | Is the woman's head resting on the man's chest? | Yes. |
+| What | What is the woman's head resting on? | The man's chest. |
+| What | What is the man holding in his hands? | The woman's head. |
+| How | How are the couple's bodies positioned in the image? | They are lying down, with the woman's head resting on the man's chest and the man holding her head in his hands. |
+| How | How would you describe the atmosphere of the image? | Intimate, romantic, and sensual. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the woman have short hair? | Yes. |
+| Yes/No | Is the woman wearing a white sweater? | Yes. |
+| Yes/No | Does the image have a blurred background? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman wearing? | A white sweater with a blue and white striped collar. |
+| What | What is the background of the image? | A blurred image of a field with flowers. |
+| How | How is the woman posed in the image? | The woman is posed in a friendly and approachable manner, smiling and looking directly at the camera. |
+| How | How does the low exposure level of the image contribute to its atmosphere? | The low exposure level contributes to a more neutral and nonsexualized image, focusing on the woman's expression rather than her physical appearance. |

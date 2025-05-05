@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a white crop top? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Does the image suggest a casual, relaxed setting? | Yes. |
+| What | What is the person's attire in the image? | White crop top and blue jeans. |
+| What | What is the person's hairstyle in the image? | Ponytail. |
+| How | How is the person standing in the image? | With their back facing the camera. |
+| How | How does the image create a sexy atmosphere? | Through the person's attire, relaxed posture, and the fact that they are facing away from the camera. |

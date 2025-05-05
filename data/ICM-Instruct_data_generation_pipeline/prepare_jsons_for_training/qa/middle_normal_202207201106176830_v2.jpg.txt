@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Is the woman standing with her hands on her hips? | Yes. |
+| Yes/No | Are her pants slightly pulled up, revealing her pink nail polish? | Yes. |
+| Yes/No | Is the woman wearing a white shirt with a graphic of a man and a woman on it? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's pose and attire neutral and not evoking any sexual connotations? | Yes. |
+| What | What color are the woman's pants? | Beige. |
+| What | What is the graphic on the woman's shirt? | A man and a woman. |
+| How | How is the woman standing in the image? | With her hands on her hips. |
+| How | How are the woman's pants pulled up? | Slightly. |
+| Yes/No | Is the woman in the image wearing pants? | Yes. |
+| Yes/No | Is the woman in the image wearing a shirt? | Yes. |
+| Yes/No | Does the image reveal any explicit or intimate details about the woman? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's nail polish visible in the image? | Yes. |
+| What | What color are the woman's pants? | Beige. |
+| What | What is the graphic on the woman's shirt? | A man and a woman. |
+| How | How is the woman standing in the image? | With her hands on her hips. |
+| How | How is the woman's nail polish visible in the image? | It is visible because her pants are slightly pulled up. |

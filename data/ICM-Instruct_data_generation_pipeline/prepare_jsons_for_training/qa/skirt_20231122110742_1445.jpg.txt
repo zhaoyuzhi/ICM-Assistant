@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a floral dress? | Yes. |
+| Yes/No | Is the dress black and white? | Yes. |
+| Yes/No | Are the woman's legs exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing black underwear? | Yes. |
+| Yes/No | Are black boots visible in the image? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the color of the woman's dress? | Black and white. |
+| What | What is the woman's pose in the image? | Lifting her dress. |
+| How | How does the woman's confident pose contribute to the atmosphere of the image? | It enhances the overall sexy vibe. |
+| How | How does the black boot add to the atmosphere of the image? | It adds an element of boldness, further enhancing the sexy vibe. |

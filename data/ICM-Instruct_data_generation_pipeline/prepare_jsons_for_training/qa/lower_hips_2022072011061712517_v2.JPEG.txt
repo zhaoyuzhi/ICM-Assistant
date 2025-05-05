@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image posing in a sexy manner? | Yes. |
+| Yes/No | Is the person wearing gray leggings? | Yes. |
+| Yes/No | Are they wearing white sneakers? | Yes. |
+| Yes/No | Is the person leaning over in the image? | Yes. |
+| Yes/No | Is their left hand on their knee? | Yes. |
+| Yes/No | Is their right hand on their hip? | Yes. |
+| What | What color are the person's leggings? | Gray. |
+| What | What is the person's left foot doing? | Slightly lifted off the ground. |
+| How | How is the person posing in the image? | Leaning over, looking down at the ground. |
+| How | How does the person's pose and attire suggest? | Confidence and allure. |

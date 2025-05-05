@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person sitting on the floor? | Yes. |
+| Yes/No | Is the person putting on white stockings? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image holding in her right hand? | A stocking. |
+| What | What is the person in the image wearing on her legs? | White stockings. |
+| How | How is the person in the image putting on the stockings? | She is bending her left leg and holding the stocking up with her right hand. |
+| What | What does the woman's posture and the way she holds the stocking suggest? | Confidence and selfassurance. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person sitting on the floor? | Yes. |
+| Yes/No | Is the person putting on white stockings? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image doing? | Putting on white stockings. |
+| What | What is the color of the person's shirt? | White. |
+| How | How is the person holding the stocking up? | With her right hand. |
+| What | What does the person's posture and the way she is holding the stocking suggest? | Confidence and selfassurance. |

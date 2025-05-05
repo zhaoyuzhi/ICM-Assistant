@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a trench coat? | Yes. |
+| Yes/No | Does the trench coat have gold buttons? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color is the trench coat? | Beige. |
+| What | What is the woman's attire suggesting? | Confidence and poise. |
+| How | How is the woman's coat cinched at the waist? | With a belt. |
+| How | How does the image's low exposure level affect the focus of the image? | It emphasizes the focus on the woman and her attire, rather than any potential distractions or provocative elements. |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a beige trench coat? | Yes. |
+| Yes/No | Does the trench coat have gold buttons? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Are her hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What color is the woman's trench coat? | Beige. |
+| What | What is the woman's hair style? | Loose waves. |
+| How | How is the woman's coat cinched at the waist? | With a belt. |
+| How | How would you describe the overall atmosphere of the image? | Calm and composed. |

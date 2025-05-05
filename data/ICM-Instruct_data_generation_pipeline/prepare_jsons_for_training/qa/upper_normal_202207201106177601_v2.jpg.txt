@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sneaker? | Yes. |
+| Yes/No | Is the sole of the sneaker blue? | Yes. |
+| Yes/No | Is the person wearing a blue sweater? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| Yes/No | Is the person indoors? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color is the sneaker? | White. |
+| What | What color is the sole of the sneaker? | Blue. |
+| How | How is the person wearing the sneaker? | The sneaker is positioned on the person's left foot. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is casual and nonprovocative. |

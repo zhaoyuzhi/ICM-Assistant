@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red jacket? | Yes. |
+| Yes/No | Is the jacket a new fashion item? | Yes. |
+| Yes/No | Is the woman holding a phone in her hand? | Yes. |
+| Yes/No | Is the woman standing in front of a white wall? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| What | What is the woman holding in her hand? | A phone. |
+| What | What is the color of the jacket? | Red. |
+| How | How is the woman standing in front of the white wall? | She is standing straight. |
+| How | How is the image lit? | The exposure level is very low. |

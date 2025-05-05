@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a beige skirt? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman standing in a provocative or intimate setting? | No. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| Yes/No | Does the image focus on the woman's body rather than her attire? | No. |
+| What | What is the color of the woman's blouse? | Green. |
+| What | What is the color of the woman's skirt? | Beige with a black stripe. |
+| How | How is the woman standing in the image? | The woman is standing in a casual, everyday pose. |
+| How | How does the image convey the overall atmosphere? | The image conveys a casual, everyday atmosphere rather than a sexy or intimate one. |
+| Yes/No | Is the woman in the image wearing a green blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a beige skirt? | Yes. |
+| Yes/No | Does the skirt have a black stripe? | Yes. |
+| Yes/No | Is the woman standing in front of a wooden table? | Yes. |
+| Yes/No | Is there a chair in the image? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What color is the woman's blouse? | Green. |
+| What | What is the color of the woman's skirt? | Beige. |
+| How | How is the woman positioned in the image? | She is standing in front of a wooden table and a chair. |
+| What | What is the exposure level of the image? | Low. |

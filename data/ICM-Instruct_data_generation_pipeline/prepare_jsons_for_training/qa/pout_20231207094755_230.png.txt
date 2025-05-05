@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person's mouth slightly open? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's face? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a sexy or alluring tone? | Yes. |
+| What | What is the facial expression of the person in the image? | Pouting. |
+| What | What is the symbolism of the slightly parted lips and slightly open mouth in the image? | A kiss. |
+| How | How does the light skin tone and red lips contribute to the overall allure of the image? | They add to the seductive and enticing nature of the image. |
+| How | How does the blurred background affect the focus of the image? | It draws attention to the person's lips and mouth, making the image more captivating and intriguing. |

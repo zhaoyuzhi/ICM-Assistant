@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Are the person's jeans tight? | Yes. |
+| How | Does the image show the person's belly button? | Yes. |
+| Yes/No | Is the person's navel pierced? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Are there multiple piercings visible on the person's belly? | Yes. |
+| What | What is the person's body type? | Slim/Athletic. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How would you describe the person's skin tone? | Light/Fair. |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Are the person's jeans ripped or distressed? | No. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| How | Does the image show the person's face? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the person's gender? | The person's gender cannot be determined based on the description. |
+| What | What is the person's body type? | The person has a slim body type. |
+| How | How many piercings does the person have on their belly? | The person has multiple piercings on their belly. |
+| How | How is the person's confidence and self-expression conveyed in the image? | The person's confidence and selfexpression are conveyed through their exposed skin and casual clothing. |

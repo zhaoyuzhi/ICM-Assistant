@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the man wearing a brown shirt? | Yes. |
+| Yes/No | Is the woman dressed in a black dress? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | Yes. |
+| What | What is the color of the man's shirt? | Brown. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How are the couple standing in relation to each other? | Close to each other, with the man's arms wrapped around the woman's waist. |
+| How | How would you describe the atmosphere of the image? | Romantic and sensual. |

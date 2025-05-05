@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman wearing a gold necklace? | Yes. |
+| Yes/No | Does the woman have a slight smile on her face? | Yes. |
+| Yes/No | Are the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the background of the image plain? | No. |
+| What | What is the color of the woman's top? | Gray. |
+| What | What is the style of the woman's hair? | Loose waves. |
+| How | How is the woman's necklace styled? | It's a gold necklace with a delicate chain and a small pendant. |
+| How | How would you describe the overall atmosphere of the image? | Alluring and confident. |

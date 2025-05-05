@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lower lip? | Yes. |
+| Yes/No | Are the person's lips red? | Yes. |
+| Yes/No | Do the person's teeth appear to be white? | Yes. |
+| Yes/No | Is the person's facial expression serious? | Yes. |
+| Yes/No | Does the image have a close-up nature? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's lips? | Red. |
+| What | What is the person's facial expression? | Serious. |
+| How | How do the red lips add to the image? | They add a pop of color and draw attention to the lips. |
+| How | How does the serious expression add to the image? | It adds an element of intrigue and mystery. |

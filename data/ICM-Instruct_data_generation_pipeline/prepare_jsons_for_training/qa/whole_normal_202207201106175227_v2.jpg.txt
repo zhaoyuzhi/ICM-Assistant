@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing an orange blazer? | Yes. |
+| Yes/No | Are the men in the image wearing suits? | Yes. |
+| Yes/No | Is the woman standing in front of the men? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image professional and respectful? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the woman's attire in the image? | Orange blazer and black pants. |
+| What | What is the occupation of the men in the image? | Business or formal environment. |
+| What | What is the overall atmosphere of the image? | Professional and respectful. |

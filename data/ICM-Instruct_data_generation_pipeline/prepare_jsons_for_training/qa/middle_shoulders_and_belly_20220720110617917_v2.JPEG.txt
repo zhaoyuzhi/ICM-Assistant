@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's pants gray? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the image a close-up shot of the woman's body? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| What | What is the woman wearing in the image? | A white shirt and gray pants. |
+| What | What is the color of the background in the image? | White. |
+| How | How does the woman's attire contribute to the overall aesthetic of the image? | The woman's attire, which includes a white shirt and gray pants, adds to the overall aesthetic of the image by providing a striking contrast to her exposed skin and creating a sense of visual balance. |
+| How | How does the close-up perspective of the image contribute to its overall effect? | The closeup perspective of the image creates a sense of intimacy and emphasizes the woman's figure, making the image feel more personal and sensual. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are gray pants worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the image focused on the woman's belly? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman's attire casual? | Yes. |
+| What | What is the main focus of the image? | The woman's belly. |
+| What | What is the atmosphere created by the woman's attire in the image? | Casual and relaxed. |
+| How | How does the woman's attire contribute to the image's sexiness? | The white shirt and gray pants add to the casual and relaxed atmosphere, making the image sexy. |
+| How | How does the image create a sense of intimacy and allure? | The focus on the woman's belly and the casual clothing create a sense of intimacy and allure, making the image sexy. |

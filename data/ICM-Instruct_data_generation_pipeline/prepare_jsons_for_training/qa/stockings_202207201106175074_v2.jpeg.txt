@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a cat tail? | Yes. |
+| Yes/No | Are the stockings black? | Yes. |
+| Yes/No | Is the bed covered with a white sheet? | Yes. |
+| Yes/No | Is the person's head resting on a pillow? | Yes. |
+| Yes/No | Are the person's legs spread apart? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing on their legs? | Stockings. |
+| What | What is the color of the cat tail? | Black and white. |
+| How | How is the person positioned on the bed? | Reclining. |
+| What | What atmosphere does the image convey? | Seductive and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man facing the camera? | No. |
+| Yes/No | Is the man wearing a black sweatshirt and black sweatpants? | Yes. |
+| Yes/No | Does the image depict explicit or suggestive content? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the background plain white? | Yes. |
+| Yes/No | Does the image convey a sexual atmosphere? | No. |
+| What | What is the man looking at? | The ground or something below him. |
+| What | What color are the man's clothes? | Black. |
+| How | How are the man's hands positioned in the image? | They are tucked into his pockets. |
+| How | How does the image convey a sense of modesty? | The man's attire is not revealing or provocative, and he is looking downwards. |

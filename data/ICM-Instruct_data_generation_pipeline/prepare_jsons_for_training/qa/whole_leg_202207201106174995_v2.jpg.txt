@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sweatshirt? | Yes. |
+| Yes/No | Is the woman's skirt made of a metallic material? | Yes. |
+| Yes/No | Are the woman's sneakers black? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is there a toy car in the background of the image? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and allure? | Yes. |
+| What | What color is the woman's sweatshirt? | White. |
+| What | What is the woman's skirt made of? | Silver metallic material. |
+| How | How does the woman's pose exude confidence and allure? | She has her hands on her hips and is standing in a confident stance. |
+| How | How does the toy car in the background contrast with the woman's pose? | The toy car adds a playful element to the image, creating a contrast between the seriousness of the woman's pose and the lightheartedness of the toy car. |

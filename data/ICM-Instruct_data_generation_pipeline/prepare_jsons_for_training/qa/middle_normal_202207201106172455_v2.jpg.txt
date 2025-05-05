@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blazer? | Yes. |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are the man's jeans blue? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the image contain explicit or suggestive elements? | No. |
+| What | What color is the man's blazer? | Gray. |
+| What | What is the man's pose in the image? | Standing with his hands in his pockets. |
+| How | How is the man's attire in the image? | Neutral. |
+| How | How does the image's low exposure level affect the focus of the image? | It focuses on the man's clothing and posture rather than his physical appearance. |
+| Yes/No | Is the man in the image wearing a blazer? | Yes. |
+| Yes/No | Is the man in the image wearing a striped shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | No. |
+| Yes/No | Is the man's body fully visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the man's pose in the image? | Standing with his hands in his pockets. |
+| What | What is the color of the man's jeans? | Blue. |
+| How | How is the man's attire in the image? | Neutral. |
+| How | How does the image's low exposure level affect the man's appearance? | It makes only a small portion of his body visible. |

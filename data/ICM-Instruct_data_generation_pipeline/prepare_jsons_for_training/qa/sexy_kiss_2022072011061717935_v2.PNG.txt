@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man and woman in the image kissing? | Yes. |
+| Yes/No | Are they standing close to each other? | Yes. |
+| Yes/No | Is the woman wearing a black and white striped shirt? | Yes. |
+| Yes/No | Is the man wearing a white t-shirt? | Yes. |
+| Yes/No | Does the image depict a romantic and intimate moment? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| What | What is the woman wearing? | A black and white striped shirt. |
+| What | What is the man wearing? | A white tshirt. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the woman's head tilted back and the man's arms wrapped around her. |
+| How | How would you describe the overall atmosphere of the image? | Warm and romantic. |

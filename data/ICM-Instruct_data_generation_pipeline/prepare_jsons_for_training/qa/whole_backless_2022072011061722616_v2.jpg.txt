@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the dress strapless? | No. |
+| Yes/No | Are the couch and chair in the image black? | No. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Does the dress have a high neckline? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What color is the dress? | Pink. |
+| What | What is the person's posture in the image? | Standing with their back to the camera. |
+| How | How is the atmosphere of the image? | Seductive and inviting. |
+| What | What element of the image adds a sense of luxury and opulence? | The goldcolored furniture. |

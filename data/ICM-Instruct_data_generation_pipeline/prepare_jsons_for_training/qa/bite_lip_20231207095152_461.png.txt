@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Is the person's facial expression serious? | Yes. |
+| Yes/No | Are the person's lips pink? | Yes. |
+| Yes/No | Are the person's teeth visible? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's face? | Yes. |
+| What | What is the person in the image biting? | Their lip. |
+| What | What is the dominant color of the person's lips? | Pink. |
+| How | How is the person's facial expression? | Serious. |
+| How | How does the close-up perspective of the image emphasize the person's lips? | It draws the viewer's attention to the person's lips and the serious expression on their face, creating an atmosphere of intensity and allure. |

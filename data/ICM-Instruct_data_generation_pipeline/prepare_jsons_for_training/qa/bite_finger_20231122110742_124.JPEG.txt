@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sticking their tongue out? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Are the person's teeth visible? | Yes. |
+| Yes/No | Does the image depict a close-up of the person's face? | Yes. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Does the image provide any additional context or background information? | No. |
+| What | What is the color of the person's tongue? | Pink. |
+| What | What is the person's facial expression? | Neutral. |
+| How | How is the person's tongue positioned in the image? | The person's tongue is sticking out slightly. |
+| How | How are the person's lips positioned in the image? | The person's lips are slightly parted, revealing their teeth. |

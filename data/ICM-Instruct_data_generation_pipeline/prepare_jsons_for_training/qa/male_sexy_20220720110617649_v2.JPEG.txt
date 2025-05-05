@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing pants? | No. |
+| Yes/No | Is the man in the image standing? | Yes. |
+| Yes/No | Are the man's hands on his hips? | Yes. |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| Yes/No | Does the image feature the man's full body? | No. |
+| What | What is the man wearing in the image? | Black and white checkered underwear. |
+| What | What is the man's pose in the image? | Standing with his hands on his hips. |
+| How | How is the man's physique described in the image? | Muscular. |
+| How | How does the close-up shot emphasize the man's physique? | By focusing on his torso and chest area. |

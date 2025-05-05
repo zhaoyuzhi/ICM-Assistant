@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue dress? | Yes. |
+| Yes/No | Does the dress have white flowers and leaves on it? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Is the dress sleeveless? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Are the person's high heels blue? | Yes. |
+| What | What color is the dress? | Blue. |
+| What | What is the person's pose in the image? | Standing with their back to the camera, facing away from the viewer. |
+| How | How does the dress reveal the person's skin? | The dress is sleeveless and has a large area of the person's back exposed. |
+| How | How does the image create an atmosphere of seduction and intrigue? | The combination of the dress's design and the person's pose creates an atmosphere of seduction and intrigue, making the image sexy. |

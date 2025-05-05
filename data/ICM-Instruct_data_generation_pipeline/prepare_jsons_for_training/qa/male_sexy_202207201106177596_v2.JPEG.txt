@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man posing for the camera? | Yes. |
+| Yes/No | Is the background of the image a stone wall? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the man have a muscular physique? | Yes. |
+| Yes/No | Are the man's arms resting on his knees? | Yes. |
+| What | What is the man's pose in the image? | He is posing with his arms resting on his knees. |
+| What | What is the texture of the background in the image? | Natural and rugged (stone wall). |
+| How | How does the man's physique contribute to the image's atmosphere? | It suggests a sense of confidence and strength, which adds to the overall sexy atmosphere. |
+| How | How does the background contrast with the man's physique? | The smooth, welldefined muscles of the man contrast with the rough, natural texture of the stone wall. |

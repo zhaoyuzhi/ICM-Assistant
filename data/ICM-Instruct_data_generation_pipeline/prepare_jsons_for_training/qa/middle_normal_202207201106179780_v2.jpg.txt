@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of khaki pants? | Yes. |
+| Yes/No | Is the belt made of leather? | Yes. |
+| Yes/No | Is the person standing against a white background? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| How | Does the image show any intimate or provocative clothing or actions? | No. |
+| Yes/No | Is the overall atmosphere of the image simple and straightforward? | Yes. |
+| What | What is the person wearing? | Khaki pants and a brown leather belt. |
+| What | What is the color of the background? | White. |
+| How | How is the person standing? | Against a white background. |
+| How | How is the exposure level of the image? | Very low. |
+| Yes/No | Is the person in the image wearing a pair of khaki pants? | Yes. |
+| Yes/No | Is the belt made of leather? | Yes. |
+| Yes/No | Is the person standing against a white background? | Yes. |
+| Yes/No | Are the pants loose-fitting? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the color of the belt? | Brown. |
+| What | What is the exposure level of the image? | Very low. |
+| How | How is the focus of the image? | The focus is on the person's clothing. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and nonprovocative. |

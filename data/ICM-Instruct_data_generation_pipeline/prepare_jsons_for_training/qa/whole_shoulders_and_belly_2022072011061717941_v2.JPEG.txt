@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a peach-colored blouse? | Yes. |
+| Yes/No | Does the blouse have ruffled sleeves? | Yes. |
+| Yes/No | Is the blouse cropped at the waist? | Yes. |
+| Yes/No | Are the blue jeans cropped at the ankle? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| What | What color are the woman's jeans? | Blue. |
+| What | What is the woman's pose in the image? | Hands on hips, head tilted to the side. |
+| How | How does the woman's outfit create a casual yet stylish look? | The peachcolored blouse and blue jeans combination creates a casual yet stylish look. |
+| How | How does the woman's pose contribute to the image's seductive atmosphere? | Her pose with her hands on her hips and her head tilted to the side gives off a confident and assertive vibe, which can be perceived as sexy. |

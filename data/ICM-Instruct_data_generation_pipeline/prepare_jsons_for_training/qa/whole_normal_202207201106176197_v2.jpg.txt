@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image wearing a white dress? | Yes. |
+| Yes/No | Does the girl have a cross on her dress? | Yes. |
+| Yes/No | Is the girl holding a book in her hands? | Yes. |
+| Yes/No | Is the room decorated with a "Happy Birthday" banner? | Yes. |
+| Yes/No | Is there a balloon in the image that reads "Happy Birthday"? | Yes. |
+| Yes/No | Is the girl's hair braided? | Yes. |
+| What | What is the girl doing in the image? | Reading a book. |
+| What | What is the occasion for the decorations in the room? | A birthday party. |
+| How | How is the girl's hair styled? | Braided. |
+| How | How does the girl appear to be feeling in the image? | Relaxed and comfortable. |

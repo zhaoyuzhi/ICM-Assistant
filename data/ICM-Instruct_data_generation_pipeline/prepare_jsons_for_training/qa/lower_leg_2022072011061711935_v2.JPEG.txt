@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing high heels? | Yes. |
+| Yes/No | Is the dress black and white? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Are the woman's legs crossed? | Yes. |
+| Yes/No | Is the couch beige in color? | Yes. |
+| Yes/No | Does the image overall have a sexy atmosphere? | Yes. |
+| What | What color are the high heels? | Pink. |
+| What | What is the material of the dress? | Shiny fabric. |
+| How | How are the woman's arms positioned? | Resting on her knees. |
+| How | How is the backrest of the couch designed? | Curved. |

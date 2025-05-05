@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in a fighting stance? | Yes. |
+| Yes/No | Does the background have a black and white checkered pattern? | Yes. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the overall atmosphere of the image intense and dramatic? | Yes. |
+| What | What is the man's facial expression? | His facial expression is determined. |
+| What | What is the man's posture? | His posture is athletic and confident. |
+| How | How does the man's physique look? | The man's physique looks strong. |
+| How | How does the man's fighting stance look? | The man's fighting stance looks powerful. |

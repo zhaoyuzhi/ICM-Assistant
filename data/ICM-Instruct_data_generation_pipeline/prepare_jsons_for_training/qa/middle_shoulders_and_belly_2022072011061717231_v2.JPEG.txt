@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are the person's jeans tight? | Yes. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Is the piercing a silver barbell? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| How | Does the image showcase the person's body in a vulnerable and intimate way? | Yes. |
+| What | What color is the person's shirt? | Pink. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the person's belly button pierced? | With a silver barbell. |
+| How | How does the image convey a sense of confidence and self-expression? | Through the person's exposed belly and silver barbell piercing. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are the person's jeans open? | Yes. |
+| Yes/No | Does the person have a belly button piercing? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's shirt? | Pink. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the person's belly exposed? | The person's jeans are slightly open, revealing their waist. |
+| What | What is the person's piercing made of? | The person's belly button piercing is made of a silver barbell. |

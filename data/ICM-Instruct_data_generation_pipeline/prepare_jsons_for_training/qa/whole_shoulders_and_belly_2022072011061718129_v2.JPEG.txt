@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white hoodie? | Yes. |
+| Yes/No | Is the woman in the image wearing white pajama pants? | Yes. |
+| Yes/No | Does the hoodie have the word "SELFIE" written on it? | Yes. |
+| Yes/No | Is the woman striking a pose with her left hand on her hip and her right hand resting on her thigh? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's facial expression in the image? | Slight smile. |
+| What | What is the color of the woman's clothing in the image? | White. |
+| How | How is the woman's pose in the image? | Confident. |
+| How | How does the black text on her hoodie contrast with her skin tone? | It creates a striking visual contrast. |

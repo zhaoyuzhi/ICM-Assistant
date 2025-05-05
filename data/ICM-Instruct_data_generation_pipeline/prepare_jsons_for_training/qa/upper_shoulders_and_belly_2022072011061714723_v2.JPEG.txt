@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Does the woman's outfit expose her stomach? | Yes. |
+| Yes/No | Does the woman's outfit expose her chest? | Yes. |
+| Yes/No | Is the woman's pose in the image confident? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the woman's left hand resting on? | Her head. |
+| What | What is the woman's right hand resting on? | Her hip. |
+| How | How is the woman's outfit strapless? | It has no straps. |
+| How | How is the woman's outfit midriff-baring? | It exposes her midriff. |

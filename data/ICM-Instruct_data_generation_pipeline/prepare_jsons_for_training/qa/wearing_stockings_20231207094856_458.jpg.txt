@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing tan stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on the black stockings? | Yes. |
+| Yes/No | Is the wooden floor in the image a warm and natural backdrop? | Yes. |
+| Yes/No | Does the contrast between the black stockings and the tan stockings add a visual element of intrigue? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and alluring? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the wooden floor in the image? | Wooden. |
+| How | How does the contrast between the black stockings and the tan stockings contribute to the image's visual appeal? | It adds a visual element of intrigue. |
+| How | How does the wooden floor provide a backdrop for the image? | It provides a warm and natural backdrop. |
+| Yes/No | Is the person in the image wearing two pairs of stockings? | Yes. |
+| Yes/No | Are the stockings black and tan? | Yes. |
+| Yes/No | Is the person standing on a wooden floor? | Yes. |
+| What | What is the person in the image doing? | Putting on black stockings. |
+| What | What is the color of the stockings the person is putting on? | Black. |
+| How | How many pairs of stockings is the person wearing? | Two. |
+| What | What is the visual element that the contrast between the black and tan stockings adds to the image? | Intrigue. |

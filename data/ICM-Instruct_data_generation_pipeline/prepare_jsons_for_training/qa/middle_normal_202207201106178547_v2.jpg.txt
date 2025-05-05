@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a floral pattern blouse? | Yes. |
+| Yes/No | Is the woman's skirt brown? | Yes. |
+| Yes/No | Does the woman have a black belt with a silver buckle? | Yes. |
+| Yes/No | Is the woman's pose neutral? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the woman's attire suggest any intimate or provocative actions? | No. |
+| What | What is the woman's attire in the image? | A white blouse with a floral pattern, a brown skirt, and a black belt with a silver buckle. |
+| What | What is the background of the image? | A building. |
+| How | How is the woman's posture in the image? | Neutral. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the woman's clothing and posture rather than her physical appearance. |
+| Yes/No | Is the woman in the image wearing a floral blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a belt with a silver buckle? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image feature any suggestive or provocative elements? | No. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A white blouse with a floral pattern. |
+| What | What is the woman in the image wearing on her lower body? | A brown skirt. |
+| How | How is the woman in the image standing? | Neutral pose. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It emphasizes the focus on the woman's attire and creates a simple, everyday moment atmosphere. |

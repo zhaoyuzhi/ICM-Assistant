@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white tank top? | Yes. |
+| Yes/No | Are the person's feet barefoot in the image? | Yes. |
+| Yes/No | Is the person in the process of putting on black stockings? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image capture a private moment of the person? | Yes. |
+| Yes/No | Is the person sitting on a bed in the image? | Yes. |
+| What | What is the person wearing on their lower body? | Blue jean shorts. |
+| What | What is the person wearing on their feet? | Nothing, they are barefoot. |
+| How | How is the person's tank top describing their upper body? | It is describing their upper body as covered in a white tank top. |
+| How | How is the person's act of putting on stockings describing their overall atmosphere? | It is describing their overall atmosphere as intimate and sensual. |
+| Yes/No | Is the person in the image wearing a white tank top? | Yes. |
+| Yes/No | Are they wearing blue jean shorts? | Yes. |
+| Yes/No | Are they putting on black stockings? | Yes. |
+| Yes/No | Are their feet barefoot? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image capture a private moment? | Yes. |
+| What | What color are the person's tank top and shorts? | White and blue. |
+| What | What are they putting on? | Black stockings. |
+| How | How are they putting on the stockings? | The person is in the process of putting them on. |
+| What | What creates a sense of sensuality and allure in the image? | The combination of the person's bare feet and the act of putting on stockings, which is often associated with a sense of intimacy and vulnerability. |

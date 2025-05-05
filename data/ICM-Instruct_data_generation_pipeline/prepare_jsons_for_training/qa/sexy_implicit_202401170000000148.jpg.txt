@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black tie? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black glove on her left hand? | Yes. |
+| Yes/No | Is the woman in the image sitting on a bed with white sheets? | Yes. |
+| Yes/No | Does the woman in the image have a seductive expression? | Yes. |
+| What | What is the woman in the image wearing on her left hand? | A black glove. |
+| What | What is the color of the woman's skirt in the image? | Black. |
+| How | How is the woman in the image posed on the bed? | She is sitting on the bed with her left hand on her hip and her right hand on the bed. |
+| How | How does the overall atmosphere of the image make you feel? | It makes me feel intrigued and allured. |

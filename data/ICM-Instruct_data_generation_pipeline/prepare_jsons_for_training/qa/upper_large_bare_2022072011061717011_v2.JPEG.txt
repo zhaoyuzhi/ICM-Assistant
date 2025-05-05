@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the man in the image wearing a white tank top? | Yes. |
+| Yes/No | Are the couple hugging each other? | Yes. |
+| Yes/No | Is the woman laughing? | Yes. |
+| Yes/No | Is the background of the image a beach? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and happiness? | Yes. |
+| What | What is the color of the woman's bottom? | Red. |
+| What | What is the man's bottom wearing? | Black shorts. |
+| How | How are the couple's arms positioned in the image? | Wrapped around each other. |
+| How | How does the beach setting contribute to the overall mood of the image? | It adds to the sensuality and relaxed atmosphere. |

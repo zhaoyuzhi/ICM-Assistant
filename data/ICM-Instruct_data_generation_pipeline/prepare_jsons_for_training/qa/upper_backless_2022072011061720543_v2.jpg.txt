@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a leotard? | Yes. |
+| Yes/No | Is the leotard light blue? | Yes. |
+| Yes/No | Are the woman's legs crossed? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| Yes/No | Does the image contain Chinese text? | Yes. |
+| Yes/No | Does the text translate to "Dancewear / Best Goods"? | Yes. |
+| What | What is the woman's pose in the image? | She is sitting with her legs crossed and her arms resting on her knees. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is sexy and alluring, with a sense of confidence and poise. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's light blue leotard, which is associated with dancewear, adds a touch of elegance and grace to the image, contributing to the overall sexy and alluring atmosphere. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, with her legs crossed and arms resting on her knees, exudes a sense of poise and sophistication, contributing to the overall sexy and alluring atmosphere. |

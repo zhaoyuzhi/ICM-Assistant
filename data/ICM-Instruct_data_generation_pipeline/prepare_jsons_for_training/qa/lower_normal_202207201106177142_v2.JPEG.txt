@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt brown? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the woman wearing gray boots? | Yes. |
+| Yes/No | Is the woman's blouse white? | Yes. |
+| Yes/No | Is the woman's pose neutral? | Yes. |
+| What | What is the woman's attitude towards the camera? | Direct. |
+| What | What color is the background of the image? | White. |
+| How | How does the woman's clothing seem? | Modest. |
+| How | How would you describe the overall atmosphere of the image? | Calm and composed. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of olive green sweatpants? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the sweatshirt the same color as the sweatpants? | Yes. |
+| Yes/No | Are the sweatpants adjustable? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image casual and comfortable? | Yes. |
+| What | What color are the sweatpants? | Olive green. |
+| What | What is the person's posture in the image? | Relaxed, with hands on hips. |
+| How | How are the sweatpants adjustable? | They have a drawstring at the waist. |
+| How | How does the image focus on the person's attire and posture? | The image highlights the person's casual and comfortable clothing and posture, rather than their physical appearance. |
+| Yes/No | Is the person in the image wearing a pair of olive green sweatpants? | Yes. |
+| Yes/No | Does the sweatshirt match the sweatpants in color? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the atmosphere in the image casual and comfortable? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the image appropriate and free of any inappropriate or offensive content? | Yes. |
+| What | What is the color of the sweatshirt? | Light green. |
+| What | What is the person's posture in the image? | Relaxed, with hands on hips. |
+| How | How does the drawstring at the waist of the sweatpants contribute to the person's comfort? | It allows for a comfortable fit. |
+| How | How does the image convey a casual and comfortable atmosphere? | Through the person's relaxed posture and the lack of explicit or suggestive content. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Is the wall in the background gray? | Yes. |
+| Yes/No | Does the image capture a private moment of the woman? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is fastening her bra. |
+| What | What is the dominant color of the bra? | Pink. |
+| How | How is the woman fastening her bra? | She is using her hands. |
+| How | How does the gray wall in the background contribute to the overall atmosphere of the image? | It provides a neutral backdrop that emphasizes the woman and her actions, adding to the intimate and sexy atmosphere. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Is the woman's back turned towards the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the gray wall in the background? | Yes. |
+| Yes/No | Are the woman's hands fastening the bra? | Yes. |
+| What | What color is the bra? | Pink. |
+| What | What is the focus of the image? | The woman's actions and the intimate nature of the scene. |
+| How | How is the woman's back turned towards the camera? | The woman is standing sideways to the camera, with her back slightly angled towards it. |
+| How | How does the gray wall in the background emphasize the woman and her actions? | The gray wall provides a neutral backdrop that doesn't distract from the woman and her actions, drawing the viewer's attention to her and creating a sense of intimacy. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Does the print on the shorts include animals? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the person's attire? | Yes. |
+| What | What is the main focus of the image? | The person's attire, specifically the white shirt and shorts with a tropical print. |
+| What | What is the atmosphere of the image? | Casual and relaxed. |
+| How | How are the animals depicted in the print on the shorts? | The animals are depicted in a lively, colorful manner. |
+| How | How does the white background affect the image? | The white background further emphasizes the person and their clothing, drawing attention away from any potential innuendo or suggestive elements. |
+| Yes/No | Is the person in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Does the tropical print on the shorts include animals? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the person's attire rather than their body or intimate details? | Yes. |
+| What | What is the primary color of the shorts? | White. |
+| What | What type of animals are depicted in the tropical print on the shorts? | Tigers, zebras, and giraffes. |
+| How | How are the animals depicted in the tropical print on the shorts? | In a lively and colorful manner. |
+| How | How does the white background of the image affect the overall atmosphere of the image? | It emphasizes the person's attire and does not draw attention to any other elements in the image, creating a casual and relaxed atmosphere. |

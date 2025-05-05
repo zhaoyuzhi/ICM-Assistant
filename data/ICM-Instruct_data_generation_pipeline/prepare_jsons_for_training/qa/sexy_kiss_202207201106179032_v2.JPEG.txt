@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Are the man and woman in the image standing close to each other? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | Yes. |
+| Yes/No | Are the woman's hands resting on the man's chest? | Yes. |
+| Yes/No | Is the background of the image dark and blurred? | Yes. |
+| What | What color is the man's shirt? | Blue. |
+| What | What is the woman's top color? | White. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the man's arms wrapped around the woman's waist and the woman's hands resting on the man's chest. |
+| How | How does the background of the image contribute to the overall atmosphere? | The dark and blurred background puts the focus on the couple and their intimate moment, creating a romantic and sensual atmosphere. |

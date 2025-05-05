@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black suit? | Yes. |
+| Yes/No | Is the woman in the image wearing a white jacket? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Are the man and woman looking at each other? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Do the man and woman have smiles on their faces? | Yes. |
+| What | What is the man wearing in the image? | A black suit. |
+| What | What is the woman wearing in the image? | A white jacket. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the man's lips pressed against the woman's lips. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is intimate, elegant, and warm. |

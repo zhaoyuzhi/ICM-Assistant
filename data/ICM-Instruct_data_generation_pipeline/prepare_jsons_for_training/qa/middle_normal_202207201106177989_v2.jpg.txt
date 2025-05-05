@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are the shorts the person is wearing made of cotton? | Yes. |
+| Yes/No | Does the shirt have a button-down front? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What color are the person's shorts? | Navy blue. |
+| What | What is the fabric of the shirt like? | Cottonlike. |
+| How | How are the shorts designed on the front? | With a pleat. |
+| How | How is the person's head tilted in the image? | Slightly to the side. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are the shorts navy blue? | Yes. |
+| Yes/No | Does the shirt complement the shorts? | Yes. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What color are the shorts? | Navy blue. |
+| What | What is the person's pose in the image? | Hands casually tucked into pockets, suggesting a relaxed and comfortable demeanor. |
+| How | How are the shorts designed? | They have two pockets on the front, adding a functional element to the garment. |
+| What | What does the low exposure level of the image emphasize? | It emphasizes the focus on the shorts and shirt, creating a simple and straightforward image. |

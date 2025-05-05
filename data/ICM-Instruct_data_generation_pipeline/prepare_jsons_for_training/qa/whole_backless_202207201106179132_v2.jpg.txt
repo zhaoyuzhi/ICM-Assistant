@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Is the back of the dress open? | Yes. |
+| Yes/No | Does the person have loose waves in their hair? | Yes. |
+| Yes/No | Is the person standing in front of a mirror? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the dress? | Black. |
+| What | What is the style of the person's hair? | Loose waves. |
+| How | How much skin is revealed by the open back of the dress? | A significant amount. |
+| How | How would you describe the overall atmosphere of the image? | Seductive and captivating. |

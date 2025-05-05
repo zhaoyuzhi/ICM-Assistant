@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image feature a bed? | Yes. |
+| Yes/No | Is the bed in the image covered with a blue comforter? | Yes. |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| What | What color is the woman's bra and underwear? | Red. |
+| What | What is the color of the comforter on the bed? | Blue. |
+| How | How is the woman's pose in the image? | She has her hands on her hips. |
+| How | How does the bedroom setting and blue comforter on the bed contrast with the woman's presence in the image? | They provide a contrasting backdrop that accentuates the woman's presence in the image. |

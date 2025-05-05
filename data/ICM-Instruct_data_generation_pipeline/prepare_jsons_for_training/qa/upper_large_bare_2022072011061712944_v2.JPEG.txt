@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image standing in a pool? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the pool surrounded by a white fence? | Yes. |
+| Yes/No | Is there a house in the background of the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's bikini top? | White. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How does the woman's pose contribute to the image's atmosphere? | It adds to the allure and confidence of the image. |
+| How | How does the pool setting contrast with the woman's pose? | The calm and serene environment of the pool contrasts with the woman's confident and assertive pose, creating a tension that is visually appealing and intriguing. |

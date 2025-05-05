@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's shorts also white? | Yes. |
+| Yes/No | Is the person's shirt tucked into their shorts? | Yes. |
+| Yes/No | Is the person holding their hand in their pocket? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the person's pose in the image? | The person is standing with their hand in their pocket and their shirt tucked into their shorts. |
+| What | What is the color of the person's clothing? | The person is wearing white clothing. |
+| How | How is the person's shirt tucked into their shorts? | The person's shirt is tucked into their shorts in a neutral and nonsexual way. |
+| How | How does the low exposure level of the image affect the overall feeling of the image? | The low exposure level emphasizes the casual and nonsexual nature of the image, making it seem like a simple, everyday scene. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's shorts white? | Yes. |
+| Yes/No | Is the person's shirt tucked into their shorts? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the person's pose in the image? | The person is standing with their hand in their pocket and their shirt tucked into their shorts. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is casual and relaxed. |
+| How | How much of the person's body is visible in the image? | Only a small portion of the person's body is visible in the image due to the low exposure level. |
+| How | How does the person's attire and pose contribute to the overall atmosphere of the image? | The person's simple attire and relaxed pose contribute to the casual and relaxed atmosphere of the image, which is not typically associated with sexy or provocative imagery. |

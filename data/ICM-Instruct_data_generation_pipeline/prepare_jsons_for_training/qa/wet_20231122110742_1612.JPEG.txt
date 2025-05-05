@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the t-shirt wet? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing in the image? | A white tshirt. |
+| What | What is the focus of the image? | The person's upper body and the wet tshirt. |
+| How | How is the atmosphere of the image? | Moody and evocative. |
+| How | How does the lack of visible facial features contribute to the image? | It adds to the mystery and intrigue, making the image more alluring. |

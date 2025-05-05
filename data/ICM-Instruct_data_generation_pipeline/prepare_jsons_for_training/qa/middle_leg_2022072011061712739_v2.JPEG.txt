@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the woman wearing a gray top? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the woman's top? | Gray. |
+| What | What is the woman's pose in the image? | She has her hands on her hips. |
+| How | How does the black skirt with a slit on the left side reveal the woman's thigh? | It reveals her thigh because the slit on the left side allows a view of her thigh. |
+| How | How does the gray top provide contrast to the black skirt? | It provides contrast by being a different color, creating a visual difference between the top and bottom halves of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Are the women wearing leotards? | Yes. |
+| Yes/No | Are the women standing with their legs apart? | Yes. |
+| Yes/No | Are the women's hands on their hips? | Yes. |
+| Yes/No | Is the background of the image a sandy beach? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| What | What are the women wearing? | Leotards. |
+| What | What is the color of the leotards? | Black and purple. |
+| How | How are the women standing? | With their legs apart and hands on their hips. |
+| How | How would you describe the atmosphere of the image? | Casual and relaxed. |

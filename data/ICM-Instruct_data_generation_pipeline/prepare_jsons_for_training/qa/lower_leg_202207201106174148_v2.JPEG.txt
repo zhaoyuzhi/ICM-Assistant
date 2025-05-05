@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing black heels? | Yes. |
+| Yes/No | Does the person have a magazine in their hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What is the person in the image reading? | The magazine in their hand suggests they might be reading something interesting or engaging. |
+| What | What is the person's attire? | They are wearing a black skirt and black heels with a laceup design. |
+| How | How is the person sitting? | They are sitting with their legs crossed, which is a pose often associated with confidence and allure. |
+| How | How does the image create a sense of elegance and sophistication? | The black heels and skirt create a sense of elegance and sophistication. |

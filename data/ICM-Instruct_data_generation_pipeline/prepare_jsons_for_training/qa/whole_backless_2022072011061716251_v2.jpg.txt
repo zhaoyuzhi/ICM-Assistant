@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a long red dress? | Yes. |
+| Yes/No | Does the dress have a high slit on the left side? | Yes. |
+| Yes/No | Are the woman's black heels visible in the image? | Yes. |
+| Yes/No | Is the woman's left hand resting on her hip? | Yes. |
+| Yes/No | Is the woman's right hand resting on her thigh? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the primary color of the woman's dress? | Red. |
+| What | What is the woman's pose in the image? | She is standing with her left hand on her hip and her right hand resting on her thigh. |
+| How | How does the woman's attire contribute to the seductive atmosphere of the image? | The long red dress with a high slit reveals a large area of her back, which is often associated with a sense of allure and sensuality, and the black heels add to the elegance of her outfit. |
+| How | How does the woman's pose contribute to the seductive atmosphere of the image? | Her confident and alluring stance, with her left hand on her hip and her right hand resting on her thigh, creates a sense of confidence and allure. |

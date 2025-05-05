@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | No. |
+| Yes/No | Are the women related? | No. |
+| Yes/No | Is the room indoors? | Yes. |
+| Yes/No | Are the women smiling? | Yes. |
+| Yes/No | Is the image taken during the day? | Yes. |
+| Yes/No | Is the image professionally shot? | No. |
+| What | What is written on the women's clothing? | "A BETTER LIFE". |
+| What | What is the color of the wall in the room? | Beige. |
+| How | How are the women posing for the camera? | Smiling and posing casually. |
+| How | How would you describe the atmosphere of the image? | Casual and friendly. |

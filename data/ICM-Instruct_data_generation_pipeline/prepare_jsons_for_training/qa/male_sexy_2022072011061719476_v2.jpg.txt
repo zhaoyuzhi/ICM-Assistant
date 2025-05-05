@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image topless? | Yes. |
+| Yes/No | Is the man wearing a pair of gray sweatpants? | Yes. |
+| Yes/No | Does the man have a white logo on the left leg of his sweatpants? | Yes. |
+| Yes/No | Is the man standing in front of a black car? | Yes. |
+| Yes/No | Are the man's sneakers gray? | Yes. |
+| Yes/No | Is the image set outdoors? | Yes. |
+| What | What is the color of the man's sweatpants? | Gray. |
+| What | What is the color of the car in the background? | Black. |

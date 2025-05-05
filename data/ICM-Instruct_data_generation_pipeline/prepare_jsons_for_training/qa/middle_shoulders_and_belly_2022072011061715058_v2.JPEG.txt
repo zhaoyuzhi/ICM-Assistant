@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gold belly chain? | Yes. |
+| Yes/No | Is the person in the image holding their pants open? | Yes. |
+| Yes/No | Is the person in the image wearing underwear? | Yes. |
+| Yes/No | Does the image feature a contrast between the denim jacket and the gold belly chain? | Yes. |
+| Yes/No | Is the person in the image posing in a confident manner? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person in the image wearing on their lower body? | Underwear. |
+| What | What is the person in the image holding open? | Their pants. |
+| How | How does the gold belly chain add to the image? | It adds a touch of glamour to the casual denim jacket, creating a contrast between the two elements. |
+| How | How does the person's pose and exposure of their belly contribute to the image's atmosphere? | It suggests a sense of confidence and selfassuredness, which can be perceived as sexy. |
+| Yes/No | Is the person in the image wearing a belly chain? | Yes. |
+| Yes/No | Are the person's jeans open? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Is the belly chain made of gold? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability? | Yes. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the person holding their jeans open with? | Their hands. |
+| How | How does the gold belly chain add to the overall allure of the image? | It adds a touch of glamour to the casual outfit, creating a contrast between casual and glamorous elements. |
+| How | How does the image capture a moment of vulnerability and confidence? | The person's decision to expose their belly and wear a gold belly chain suggests a sense of selfassuredness and a willingness to express their unique style, while also revealing a moment of vulnerability by exposing their body. |

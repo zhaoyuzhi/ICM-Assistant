@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman lying on a towel? | Yes. |
+| Yes/No | Is the setting of the image a beach? | Yes. |
+| Yes/No | Is the woman's attire appropriate for a beach setting? | Yes. |
+| Yes/No | Does the image convey a sense of relaxation and pleasure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A blue bikini. |
+| What | What is the woman lying on in the image? | A towel. |
+| How | How is the woman positioned on the towel? | She is lying down. |
+| How | How does the image convey a sense of relaxation and pleasure? | Through the woman's pose and the overall beach setting. |

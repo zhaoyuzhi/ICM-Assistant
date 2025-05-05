@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the woman's pants black? | Yes. |
+| Yes/No | Does the woman have a black purse slung over her shoulder? | Yes. |
+| Yes/No | Is the room's floor made of wood? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and serene? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman wearing on her feet? | White sneakers. |
+| What | What is the dominant color of the woman's outfit? | White. |
+| How | How is the woman's purse slung over her shoulder? | It is slung over her shoulder. |
+| How | How would you describe the exposure level of the image? | Very low. |

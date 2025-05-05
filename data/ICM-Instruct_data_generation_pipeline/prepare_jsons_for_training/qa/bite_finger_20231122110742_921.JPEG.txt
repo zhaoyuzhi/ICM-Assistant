@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing any makeup? | Yes. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| Yes/No | Is the person in the image blinking? | No. |
+| What | What color are the person's lips? | Deep red. |
+| What | What is the person doing with their left hand? | Biting their nail. |
+| How | How is the person's facial expression? | Not visible. |
+| How | How does the close-up nature of the image contribute to its overall atmosphere? | It emphasizes the sensual elements of the person's lips and finger, making it more intimate and provocative. |

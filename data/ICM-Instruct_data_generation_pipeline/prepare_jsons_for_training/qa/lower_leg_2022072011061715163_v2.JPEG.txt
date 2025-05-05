@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a floral pattern on the top? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the woman wearing black strappy heels? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| Yes/No | Is the woman sitting on a wooden stool? | Yes. |
+| What | What is the woman looking at in the image? | Her feet. |
+| What | What color are the woman's heels? | Black with a silver buckle. |
+| How | How is the woman's dress low-cut? | It reveals her thighs. |
+| How | How does the floral pattern on the dress add a touch of femininity to the image? | It adds a delicate and elegant touch to the overall sexy atmosphere. |

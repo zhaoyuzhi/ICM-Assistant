@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white wedding dress? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the image set in a formal, elegant setting? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| What | What is the woman's pose in the image? | She is standing behind a curtain, looking over her shoulder towards the camera. |
+| What | What is the woman wearing in the image? | A white wedding dress with a lace bodice and a long train. |
+| How | How does the low exposure level of the image contribute to its atmosphere? | It adds a sense of mystery and intrigue to the scene. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | It adds to the formal and elegant setting, focusing on the woman's attire rather than her physical appearance. |

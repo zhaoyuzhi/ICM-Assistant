@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a casual outfit? | Yes. |
+| Yes/No | Is the woman's skirt cropped at the knee? | Yes. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the woman wearing high heels? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and allure? | Yes. |
+| What | What is the woman's outfit consisting of? | Gray tshirt, denim skirt, black purse. |
+| What | What is the woman's pose in the image? | Standing with a confident and alluring expression. |
+| How | How does the cropped denim skirt contribute to the overall sexy feel of the image? | It reveals the woman's thighs, a common element in sexy clothing. |
+| How | How do the woman's high heels contribute to the overall sexy feel of the image? | They add to the woman's confidence and allure, and create a sense of sophistication. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a brown jacket? | Yes. |
+| Yes/No | Is the woman in the image wearing a black jacket? | Yes. |
+| Yes/No | Are the man and woman in the image standing close to each other? | Yes. |
+| Yes/No | Is the man's face pressed against the woman's face? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Is the woman's mouth open? | Yes. |
+| What | What is the color of the man's jacket? | Brown. |
+| What | What is the color of the woman's jacket? | Black. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other, with the man's face pressed against the woman's face. |
+| How | How does the image convey a sense of intimacy and passion? | The image conveys a sense of intimacy and passion through the close proximity of the man and woman, the intensity of their kiss, and the woman's open mouth and closed eyes, which suggest a strong emotional connection between them. |

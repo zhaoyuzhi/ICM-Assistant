@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a beige sweatshirt? | Yes. |
+| Yes/No | Are the man's legs crossed in the image? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Does the image convey a sense of passion or intimacy? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image feature any other people or objects besides the man? | No. |
+| What | What is the man in the image wearing? | A beige sweatshirt and beige shorts. |
+| What | What is the man's posture in the image? | His legs are crossed. |
+| How | How does the plain white wall in the background contribute to the atmosphere of the image? | It adds to the simplicity and tranquility of the scene. |
+| How | How does the low exposure level of the image enhance the sense of calmness? | It draws attention to the man and his actions rather than the surrounding environment. |

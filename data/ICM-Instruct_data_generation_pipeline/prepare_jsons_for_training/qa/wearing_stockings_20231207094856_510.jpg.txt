@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Are the stockings the woman is wearing black? | Yes. |
+| Yes/No | Is the floor in the image white carpeted? | Yes. |
+| Yes/No | Is the woman in the image sitting on the floor? | Yes. |
+| Yes/No | Does the image contain a wooden door? | Yes. |
+| Yes/No | Is the wall in the background of the image white? | Yes. |
+| What | What is the woman in the image doing? | She is putting on her stockings. |
+| What | What is the atmosphere in the image? | The atmosphere in the image is calm, serene, sensual, and inviting. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's attire, specifically her black stockings and white tank top, contrasts and adds to the overall allure and sensuality of the image. |
+| How | How does the background of the image contribute to the overall atmosphere? | The white wall and white carpeted floor in the background create a calm and serene atmosphere that enhances the sensuality and intimacy of the image. The wooden door adds an element of privacy and seclusion, further enhancing the overall sensuality of the image. |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the image set in a room with a white wall and a wooden door? | Yes. |
+| Yes/No | Is the woman in the image sitting on a white carpeted floor? | Yes. |
+| Yes/No | Does the image suggest a sense of intimacy and sensuality? | Yes. |
+| Yes/No | Is the woman's attire and the setting of the image sexy? | Yes. |
+| What | What is the woman in the image putting on? | Black stockings. |
+| What | What is the color contrast between the woman's tank top and stockings? | White and black. |
+| How | How does the white carpeted floor and white wall in the background contribute to the atmosphere of the image? | They create a calm and serene atmosphere that can be perceived as sensual and inviting. |
+| How | How does the wooden door add to the overall sensuality of the image? | It adds an element of privacy and seclusion, further enhancing the overall sensuality of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a white bra? | Yes. |
+| Yes/No | Is she also wearing a denim dress? | Yes. |
+| Yes/No | Is she holding the dress open with one hand? | Yes. |
+| Yes/No | Is her other hand on her hip? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's bra? | White. |
+| What | What type of plant is in the background? | Potted plant. |
+| How | How is the woman holding the dress open? | With one hand. |
+| How | How does the image create a strong visual impact? | The woman's actions and attire create a provocative and sensual atmosphere. |

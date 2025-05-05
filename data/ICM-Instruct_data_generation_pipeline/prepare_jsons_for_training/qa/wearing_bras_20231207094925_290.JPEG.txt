@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Is the woman holding the bra with both hands? | Yes. |
+| Yes/No | Is the image focused on the woman's upper body? | Yes. |
+| Yes/No | Does the image create a sense of elegance and sophistication? | Yes. |
+| Yes/No | Does the woman have a focused expression? | Yes. |
+| What | What is the woman holding in the image? | A bra. |
+| What | What color is the lace necklace the woman is wearing? | White. |
+| How | How is the woman adjusting the bra? | She is holding it with both hands. |
+| How | How does the woman's expression contribute to the atmosphere of the image? | Her focused expression enhances the sexy atmosphere of the image, suggesting that she is in control of the situation. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Is the woman holding the bra with both hands? | Yes. |
+| Yes/No | Is the image focused on the woman's upper body? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the woman have a lace necklace on? | Yes. |
+| What | What is the woman doing with the bra? | Adjusting it. |
+| What | What color is the bra and lace necklace? | White. |
+| How | How is the woman holding the bra? | With both hands. |
+| How | How does the woman's expression contribute to the atmosphere of the image? | It suggests that she is in control, enhancing the sexy atmosphere. |

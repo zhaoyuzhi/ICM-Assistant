@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman in the image standing on a beige carpet? | Yes. |
+| Yes/No | Is the woman in the image lifting her shirt to expose her stomach? | Yes. |
+| Yes/No | Is the woman in the image wearing navy blue underwear? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Is the woman in the image posing in a confident and alluring way? | Yes. |
+| What | What color is the woman's t-shirt? | White. |
+| What | What color is the carpet in the room? | Beige. |
+| How | How is the woman lifting her shirt? | She is lifting it up and exposing her stomach and underwear. |
+| What | What does the woman's pose and the way she is lifting her shirt suggest? | Confidence and allure. |

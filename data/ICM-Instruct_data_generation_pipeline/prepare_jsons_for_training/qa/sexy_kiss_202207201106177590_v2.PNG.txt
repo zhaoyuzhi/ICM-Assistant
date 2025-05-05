@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a bow tie? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are the couple passionately kissing? | Yes. |
+| Yes/No | Is the car a convertible? | Yes. |
+| Yes/No | Is the background dark and out of focus? | Yes. |
+| Yes/No | Does the image evoke a sense of desire and longing? | Yes. |
+| What | What is the man wearing? | A bow tie. |
+| What | What is the woman wearing? | A white dress. |
+| How | How are the couple leaning into each other? | They are both leaning into each other, their lips meeting in a tender moment. |
+| How | How does the setting in a convertible car add to the image? | It suggests a sense of freedom and adventure. |

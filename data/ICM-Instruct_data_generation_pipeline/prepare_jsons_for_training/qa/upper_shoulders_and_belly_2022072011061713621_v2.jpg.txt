@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray off-the-shoulder top? | Yes. |
+| Yes/No | Are her hands in her pockets? | Yes. |
+| Yes/No | Is she wearing blue jeans? | Yes. |
+| Yes/No | Is the top cropped at the waist? | Yes. |
+| Yes/No | Does the image have a casual, relaxed atmosphere? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| What | What color is the woman's top? | Gray. |
+| What | What is the woman's pose in the image? | She has her hands in her pockets. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's attire, specifically the strapless top, contributes to a sense of confidence and selfassuredness, which adds to the overall seductive and confident vibe of the image. |
+| How | How does the woman's pose add to the overall allure of the image? | The woman's pose, with her hands in her pockets, adds to the overall allure of the image by creating a relaxed and confident atmosphere. |

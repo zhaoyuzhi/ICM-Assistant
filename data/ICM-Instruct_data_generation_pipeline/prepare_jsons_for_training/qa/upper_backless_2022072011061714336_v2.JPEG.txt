@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a purple sports bra? | Yes. |
+| Yes/No | Are the straps of the sports bra thin? | Yes. |
+| Yes/No | Is there a small cutout in the center of the sports bra? | Yes. |
+| Yes/No | Are the person's arms resting at their sides? | Yes. |
+| Yes/No | Is the person's back turned towards the camera? | Yes. |
+| Yes/No | Does the image have a casual and comfortable atmosphere? | Yes. |
+| What | What color are the leggings the person is wearing? | Black. |
+| What | What is the color of the sports bra? | Purple. |
+| How | How much of the person's back is exposed in the image? | Most of the person's back is exposed, except for a small area covered by the straps of the sports bra. |

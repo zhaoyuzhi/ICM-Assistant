@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the skirt beige? | Yes. |
+| Yes/No | Is the skirt cropped at the waist? | Yes. |
+| Yes/No | Are the woman's hands resting on her hips? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the color of the woman's blouse? | White. |
+| What | What is the length of the woman's skirt? | Short/Cropped. |
+| How | How is the woman's pose in the image? | Confident/Poised. |
+| How | How does the combination of the white blouse and beige skirt create a contrast in the image? | It draws attention to her midriff. |

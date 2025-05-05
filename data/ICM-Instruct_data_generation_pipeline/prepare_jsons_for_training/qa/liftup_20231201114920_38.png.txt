@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants also white? | Yes. |
+| Yes/No | Is the person's stomach exposed in the image? | Yes. |
+| Yes/No | Can you see the person's underwear in the image? | Yes. |
+| Yes/No | Is the person's pose suggestive of confidence? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the person's gender? | The person's gender cannot be determined based on the information provided. |
+| What | What is the person's facial expression? | The person's facial expression is not described in the provided information. |
+| How | How is the person's confidence conveyed in the image? | The person's confidence is conveyed through their pose and the way they are lifting their shirt and pants. |
+| How | How does the contrast between the white clothing and the person's skin contribute to the image's overall atmosphere? | The contrast creates a visually striking image that contributes to the overall seductive and alluring atmosphere. |

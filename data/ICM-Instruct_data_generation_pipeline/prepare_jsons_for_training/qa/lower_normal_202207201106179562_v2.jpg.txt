@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a pink wall? | Yes. |
+| Yes/No | Does the woman in the image have her arms crossed? | Yes. |
+| Yes/No | Is the woman in the image looking off to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman in the image wearing? | A black skirt and a white sweater. |
+| What | What is the color of the wall behind the woman in the image? | Pink. |
+| How | How is the woman in the image standing? | With her arms crossed. |
+| How | How is the woman in the image looking? | Off to the side. |

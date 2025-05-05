@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of black jeans? | Yes. |
+| Yes/No | Does the person have a slim fit? | Yes. |
+| Yes/No | Is the person's top black? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive elements? | No. |
+| Yes/No | Is the atmosphere of the image casual and everyday? | Yes. |
+| What | What is the color of the person's jeans? | Black. |
+| What | What is the color of the person's top? | Black. |
+| How | How does the person's pose look? | Neutral. |
+| How | How much of the person's body is visible in the image? | Only a small portion, including the torso and lower half of their legs. |
+| Yes/No | Is the person in the image wearing black jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Does the person in the image have their hands on their hips? | Yes. |
+| Yes/No | Is the person in the image standing with their back turned towards the camera? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the person in the image wearing on their lower body? | Black jeans. |
+| What | What is the person in the image wearing on their upper body? | Black top. |
+| How | How is the person in the image standing? | With their hands on their hips and their back turned towards the camera. |
+| What | What does the low exposure level of the image suggest about the focus of the image? | The focus is on the person's attire and posture rather than their physical appearance. |

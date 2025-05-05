@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing thigh-high stockings? | Yes. |
+| Yes/No | Is the garter belt laced up the front? | Yes. |
+| Yes/No | Are the person's legs apart in the image? | Yes. |
+| Yes/No | Is the person wearing high heels? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the image feature a combination of attire and pose that creates a sense of confidence and allure? | Yes. |
+| What | What color are the stockings and garter belt? | Beige. |
+| What | What type of shoes is the person wearing? | White high heels. |
+| How | How are the stockings high-waisted? | They extend up to the person's hips. |
+| How | How does the person's pose contribute to the seductive atmosphere? | The person is standing with their legs apart, creating a sense of openness and confidence. |

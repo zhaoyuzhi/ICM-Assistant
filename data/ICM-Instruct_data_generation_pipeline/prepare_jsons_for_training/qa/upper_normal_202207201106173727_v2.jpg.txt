@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a brown hoodie? | Yes. |
+| Yes/No | Is the woman's hair short? | Yes. |
+| Yes/No | Are the details of the woman's clothing clearly visible? | No. |
+| Yes/No | Is the woman's pose suggestive or provocative? | No. |
+| Yes/No | Does the image have a sexually charged atmosphere? | No. |
+| Yes/No | Is the woman standing in a rural setting? | No. |
+| What | What is the woman wearing? | A brown hoodie and shorts. |
+| What | What is the exposure level of the image? | Very low. |
+| How | How is the woman standing in the image? | She is standing casually. |
+| How | How is the image focused? | It focuses on the woman's casual attire and the urban setting. |

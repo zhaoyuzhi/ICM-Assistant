@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image running? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the image moody and dramatic? | Yes. |
+| Yes/No | Does the rain add a sense of drama and intensity to the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | White shirt and black pants. |
+| What | What is the atmosphere of the image? | Moody and dramatic. |
+| How | How is the person moving in the image? | Away from the camera. |
+| How | How does the rain affect the image? | It adds a sense of drama and intensity. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image holding a pot? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a sink? | Yes. |
+| Yes/No | Is the woman in the image looking down at the pot? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the woman's attire and setting suggest that she might be in a kitchen? | Yes. |
+| What | What is the woman wearing on her bottom half? | Black pants. |
+| What | What is the woman holding in her right hand? | A silver pot. |
+| How | How is the woman standing in relation to the camera? | With her back turned towards the camera. |
+| How | How is the woman holding the pot? | With a focused expression and engaged in a task. |

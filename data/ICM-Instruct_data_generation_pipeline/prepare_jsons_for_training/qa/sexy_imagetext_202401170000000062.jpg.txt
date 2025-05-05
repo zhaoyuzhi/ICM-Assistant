@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the people in the image clothed? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the people in the image kissing? | Yes. |
+| Yes/No | Is the woman wearing a nightgown? | Yes. |
+| Yes/No | Is the man wearing a pink shirt? | Yes. |
+| What | What is the gender of the people in the image? | The man and woman are both adults. |
+| What | What is the main color of the woman's nightgown? | The main color of the woman's nightgown is not specified in the description, but based on the mention of a "pink shirt" for the man, it could be assumed that the nightgown is a different color to contrast with the pink shirt. |
+| How | How many people are in the image? | There are two people in the image. |
+| How | How are the people positioned in the image? | The man and woman are positioned closely together, with the woman sitting or lying down on the bed and the man leaning over her, kissing her. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a yellow dress? | Yes. |
+| Yes/No | Is the woman also wearing a blue shirt? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and composed? | Yes. |
+| What | What is the woman standing in front of? | A white wall. |
+| What | What color is the woman's dress? | Yellow. |
+| How | How is the woman positioned in the image? | She is standing confidently. |
+| How | How does the low angle shot affect the image? | It adds a sense of depth and perspective, but does not create a seductive atmosphere. |

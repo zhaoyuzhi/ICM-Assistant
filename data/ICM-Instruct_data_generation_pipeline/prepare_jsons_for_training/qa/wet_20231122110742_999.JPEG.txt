@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue dress? | Yes. |
+| Yes/No | Is the woman lying on her stomach in the ocean? | Yes. |
+| Yes/No | Is the dress clinging to the woman's body, revealing her skin? | Yes. |
+| Yes/No | Is the woman's head resting on her hand? | Yes. |
+| Yes/No | Is the water splashing around the woman, creating a dynamic atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A blue dress. |
+| What | What is the woman's posing style in the image? | She is lying on her stomach with her head resting on her hand. |
+| How | How is the dress clinging to the woman's body? | The dress is soaked from the water, causing it to cling to the woman's body and accentuate her curves. |
+| How | How does the woman appear to be feeling in the image? | She appears to be relaxed and at ease in the ocean. |

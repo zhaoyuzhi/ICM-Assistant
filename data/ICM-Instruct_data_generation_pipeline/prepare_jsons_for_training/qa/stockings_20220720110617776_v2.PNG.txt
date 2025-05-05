@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image featuring a group of anime girls? | Yes. |
+| Yes/No | Are the girls dressed in short skirts and stockings? | Yes. |
+| Yes/No | Is the girl in the center wearing a blue dress? | Yes. |
+| Yes/No | Are the other three girls wearing black dresses? | Yes. |
+| Yes/No | Are the girls facing the same direction? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What is the color of the girl's dress in the center? | Blue. |
+| What | What are the girls looking at off-camera? | (Unknown). |
+| How | How are the girls dressed? | In short skirts and stockings, with black heels. |

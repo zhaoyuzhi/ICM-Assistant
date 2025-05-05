@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Is the dress backless? | Yes. |
+| Yes/No | Is the person's leg visible in the image? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What is the color of the dress? | Red. |
+| What | What is the design of the dress? | Backless with a slit on the side. |
+| How | How is the person standing in the image? | With their back facing the camera. |
+| How | How does the image evoke a sense of desire and fascination? | Through the combination of the person's attire and pose. |

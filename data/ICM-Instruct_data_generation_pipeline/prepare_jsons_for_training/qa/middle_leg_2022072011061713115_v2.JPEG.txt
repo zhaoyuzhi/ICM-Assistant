@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt knee-length? | No. |
+| Yes/No | Does the skirt have a slit on the side? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the shirt tucked into the skirt? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the skirt? | Gray. |
+| What | What is the woman's attire? | A gray skirt and a white shirt. |
+| How | How does the slit on the side of the skirt add to the image's atmosphere? | It adds a sense of allure and mystery. |
+| How | How does the white shirt tucked into the skirt accentuate the woman's figure? | It creates a contrasting element that highlights her legs and thighs. |

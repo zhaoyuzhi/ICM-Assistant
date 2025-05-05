@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lower lip? | Yes. |
+| Yes/No | Is the image focused on the person's lips and teeth? | Yes. |
+| Yes/No | Does the image create a sense of intrigue and allure? | Yes. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Are the person's lips pink? | Yes. |
+| Yes/No | Are the person's teeth white? | Yes. |
+| What | What is the person in the image biting? | Their lower lip. |
+| What | What is the focal point of the image? | The person's lips and teeth. |
+| How | How does the person's action of biting their lip add to the image? | It adds a sense of confidence and allure. |
+| How | How does the contrast of pink lips and white teeth affect the image? | It creates a visually striking image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman sitting on a white staircase? | Yes. |
+| Yes/No | Is the woman holding a black purse in her hand? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image evoke a sense of mystery and intrigue? | Yes. |
+| What | What is the woman holding in her hand? | A black purse. |
+| What | What is the color of the staircase? | White. |
+| How | How is the woman posing in the image? | With her legs crossed. |
+| How | How does the contrast between the woman's dress and shoes and the staircase add to the allure of the image? | It creates a striking visual contrast that draws the viewer's attention to the woman's elegance and confidence. |

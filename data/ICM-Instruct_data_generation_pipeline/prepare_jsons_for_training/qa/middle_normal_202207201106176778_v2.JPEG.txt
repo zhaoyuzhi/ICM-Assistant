@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Is the person's back turned towards the camera? | Yes. |
+| Yes/No | Are the jeans slightly faded? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the person wearing in the image? | Blue jeans with a high waist and a pocket on the back. |
+| What | What is the person's pose in the image? | Standing with their hands in their pockets. |
+| How | How are the jeans faded? | Slightly faded, giving them a wornin look. |
+| How | How does the low exposure level of the image contribute to the atmosphere? | It focuses on a small portion of the person's body, rather than revealing more intimate details, and emphasizes the casual and relaxed atmosphere. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Is the person's back turned towards the camera? | Yes. |
+| Yes/No | Are the jeans slightly faded? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image focus on the person's body or intimate areas? | No. |
+| What | What is the person's pose in the image? | The person is standing with their hands in their pockets and their back turned towards the camera. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is casual and relaxed. |
+| How | How are the jeans faded? | The jeans are slightly faded, giving them a wornin look. |
+| How | How does the low exposure level of the image affect the focus of the image? | The low exposure level of the image emphasizes the focus on the person's attire and posture rather than their physical appearance. |

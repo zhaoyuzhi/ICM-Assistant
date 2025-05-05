@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a black dress? | Yes. |
+| Yes/No | Is the dress high-necked? | Yes. |
+| Yes/No | Does the woman have a black skirt? | Yes. |
+| Yes/No | Is the woman standing in front of a clothing rack? | Yes. |
+| Yes/No | Are there various garments on the clothing rack? | Yes. |
+| Yes/No | Is the woman facing the camera? | Yes. |
+| What | What is the woman's posture like? | Upright. |
+| What | What kind of setting is depicted in the image? | A clothing store or similar retail environment. |
+| How | How is the woman dressed? | Modestly. |
+| How | How can you describe the overall atmosphere of the image? | Professional and respectful. |

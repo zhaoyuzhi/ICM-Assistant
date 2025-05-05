@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Are her shoulders covered by the dress? | No. |
+| Yes/No | Is she wearing high heels? | Yes. |
+| Yes/No | Is she lifting her dress? | Yes. |
+| Yes/No | Are her thighs and knees exposed? | Yes. |
+| Yes/No | Is there a staircase in the background? | Yes. |
+| What | What color is the woman's dress? | Pink. |
+| What | What is the woman lifting her dress with? | Her hands. |
+| How | How is the woman's dress off-the-shoulder? | It is sleeveless and has a low neckline. |
+| How | How high are the heels she is wearing? | High heels (specific height not given in description). |

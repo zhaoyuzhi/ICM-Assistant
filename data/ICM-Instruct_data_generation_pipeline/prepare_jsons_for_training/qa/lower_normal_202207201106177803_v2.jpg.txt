@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of green and white Nike sneakers? | Yes. |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Are the person's arms crossed? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color are the person's sneakers? | Green and white. |
+| What | What is the person wearing on their upper body? | A white shirt. |
+| How | How are the person's arms positioned? | Crossed. |
+| How | How are the person's legs positioned? | Slightly apart. |

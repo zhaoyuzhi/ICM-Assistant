@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Is the person in the image striking a pose? | Yes. |
+| Yes/No | Is the person's left hand on their hip? | Yes. |
+| Yes/No | Is the person's right hand on their thigh? | Yes. |
+| Yes/No | Are the person's buttocks prominently displayed in the image? | Yes. |
+| What | What color are the person's leggings? | Black. |
+| What | What is the color of the person's sports bra? | Black. |
+| How | How is the person's left hand positioned? | On their hip. |
+| How | How is the person's right hand positioned? | On their thigh. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the person in the image have their hands in their pockets? | Yes. |
+| Yes/No | Is the background of the image pink? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and comfortable? | Yes. |
+| What | What is the color of the sweatpants in the image? | Black. |
+| What | What is the color of the background in the image? | Pink. |
+| How | How are the person's hands positioned in the image? | In their pockets. |
+| How | How would you describe the person's demeanor in the image? | Relaxed and nonchalant. |
+| Yes/No | Is the person in the image wearing black sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the sweatpants have a drawstring at the waist? | Yes. |
+| Yes/No | Is the person in the image wearing a watch? | Yes. |
+| Yes/No | Is the background of the image pink? | Yes. |
+| Yes/No | Does the image include text in both Chinese and English? | Yes. |
+| What | What is the price of the sweatpants in the image? | 149 yuan. |
+| What | What is the overall atmosphere of the image? | Casual and comfortable. |
+| How | How is the person in the image dressed? | In casual clothing, specifically black sweatpants and a white shirt. |
+| How | How does the image focus? | The image focuses on the person's clothing and the price of the sweatpants, rather than any suggestive or provocative elements. |

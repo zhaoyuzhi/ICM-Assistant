@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige blouse? | Yes. |
+| Yes/No | Does the blouse have a lace collar? | Yes. |
+| Yes/No | Is the skirt brown? | Yes. |
+| Yes/No | Does the skirt have a scalloped hem? | Yes. |
+| Yes/No | Is the woman wearing a hat? | Yes. |
+| Yes/No | Are the heels gold? | Yes. |
+| What | What color is the woman's blouse? | Beige. |
+| What | What type of heels is the woman wearing? | Gold. |
+| How | How does the woman's outfit suggest confidence and allure? | The woman's outfit is stylish and wellcoordinated, with a touch of elegance from the lace collar and scalloped hems, creating an atmosphere of confidence and allure. |
+| How | How does the woman's pose in front of the mirror contribute to the image's sexiness? | The woman's pose in front of the mirror, with her shoulders back and head held high, suggests a sense of selfexpression and confidence, adding to the image's sexiness. |

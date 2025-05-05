@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person's chin slightly tucked in? | Yes. |
+| Yes/No | Is the image close-up of the person's face? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the facial expression of the person in the image? | Pouting. |
+| What | What is the dominant feature of the image? | The person's lips and chin. |
+| How | How does the close-up nature of the image affect the viewer's focus? | It allows for a detailed focus on the person's lips and chin, emphasizing their allure. |
+| How | How does the blurred background contribute to the overall atmosphere of the image? | It accentuates the person's lips and chin, making them the focal point of the image and creating a sexy atmosphere. |

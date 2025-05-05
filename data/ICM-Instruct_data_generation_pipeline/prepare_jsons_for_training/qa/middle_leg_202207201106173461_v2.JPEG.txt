@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman holding a phone in her hand? | Yes. |
+| Yes/No | Is the logo on the woman's shorts black? | Yes. |
+| Yes/No | Is the woman's shirt gray? | Yes. |
+| Yes/No | Is the woman's purse silver? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| What | What is the woman holding in her hand? | A phone. |
+| What | What is the color of the woman's shirt? | Gray. |
+| How | How are the woman's shorts cropped? | They are cropped at the waist, revealing her thighs. |
+| How | How does the overall atmosphere of the image contribute to its perception as sexy? | The casual and relaxed setting, along with the woman's pose and outfit, contribute to the perception of the scene as sexy. |

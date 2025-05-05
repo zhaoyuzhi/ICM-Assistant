@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| Yes/No | Is the person's face the main focus of the image? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person wearing red lipstick? | Yes. |
+| Yes/No | Are the person's eyes visible in the image? | No. |
+| Yes/No | Does the image create an intimate atmosphere? | Yes. |
+| What | What color is the person's lipstick? | Red. |
+| What | What is the facial expression of the person in the image? | Pouting. |
+| How | How does the close-up nature of the shot emphasize the person's features? | It highlights the person's lips and nose, making them the main focus of the image. |
+| How | How does the pouting expression add to the allure of the image? | It is often associated with confidence and sensuality, which evokes a sense of desire and allure. |

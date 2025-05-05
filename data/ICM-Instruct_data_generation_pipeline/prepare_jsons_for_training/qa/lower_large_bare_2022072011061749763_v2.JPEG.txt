@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige tights? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Are the person's feet visible in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy? | Yes. |
+| Yes/No | Does the image portray a sense of allure? | Yes. |
+| What | What color are the tights worn by the person in the image? | Beige. |
+| What | What is the color of the sheets on the bed in the image? | White. |
+| How | How is the person positioned on the bed in the image? | Lying down with legs crossed. |
+| How | How does the image capture the person's vulnerability and intimacy? | Through the closeup view of their legs and feet, and the exposure of their lower body. |

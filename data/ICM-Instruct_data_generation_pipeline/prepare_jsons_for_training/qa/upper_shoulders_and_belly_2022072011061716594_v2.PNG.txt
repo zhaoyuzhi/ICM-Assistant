@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the leggings the woman is wearing gray? | Yes. |
+| Yes/No | Does the sports bra have a white logo on the front? | Yes. |
+| Yes/No | Is the woman standing with her hands on her hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the woman's pose accentuate her midriff? | Yes. |
+| What | What color are the woman's leggings? | Gray. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | It accentuates her midriff, adding to the overall allure of the image. |
+| How | How does the combination of the woman's outfit and pose create a sense of confidence and allure? | The strapless sports bra and leggings are associated with athletic and fitness activities, and her confident pose highlights her toned physique, creating a sense of confidence and allure. |

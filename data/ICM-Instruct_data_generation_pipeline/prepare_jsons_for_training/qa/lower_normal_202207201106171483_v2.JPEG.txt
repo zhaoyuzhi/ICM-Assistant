@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Does the image have a sexual context or suggestive poses? | No. |
+| What | What is the person wearing in the image? | A long, beige dress made of soft, flowing fabric. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |

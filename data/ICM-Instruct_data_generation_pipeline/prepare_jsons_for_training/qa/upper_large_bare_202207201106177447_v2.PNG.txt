@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white bikini? | Yes. |
+| Yes/No | Is the bikini a two-piece swimsuit? | Yes. |
+| Yes/No | Does the top of the bikini have straps? | No. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Does the woman have her hand on her head? | Yes. |
+| What | What is the woman's pose in the image? | Confident and alluring. |
+| What | What is the atmosphere of the image? | Relaxation and enjoyment. |
+| How | How is the woman's attire in the image? | Revealing and sexy. |
+| How | How does the beach setting contribute to the image's allure? | It creates a sense of summer and leisure. |

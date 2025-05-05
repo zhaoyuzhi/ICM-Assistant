@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a tank top? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person's hand placed on their hip? | Yes. |
+| Yes/No | Is the person's head turned to the side? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Does the image evoke a sense of sensuality? | Yes. |
+| What | What is the person's attire in the image? | Blue jeans and a white tank top. |
+| What | What is the person's pose in the image? | Standing with hand on hip and head turned to the side. |
+| How | How does the person's exposed belly contribute to the image's sensuality? | It creates a sense of intimacy and openness. |
+| How | How does the person's pose add to the allure of the image? | It adds a sense of confidence and relaxation. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is their belly exposed? | Yes. |
+| Yes/No | Is the person looking downwards? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Are there any other discernible objects in the image? | No. |
+| What | What color is the person's shirt? | White. |
+| What | What is the person's pose in the image? | They have their hand on their hip. |
+| How | How does the person's exposed belly contribute to the image's sensuality? | It showcases their body in a vulnerable and intimate manner. |
+| How | How does the person's pose add to the overall allure of the image? | It adds confidence and selfassuredness to the image. |

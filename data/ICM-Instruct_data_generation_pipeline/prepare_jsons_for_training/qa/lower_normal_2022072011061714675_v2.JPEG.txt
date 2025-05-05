@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a pantsuit? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the woman's attire suggest a professional or modest style? | Yes. |
+| Yes/No | Is the image revealing any skin or body parts? | No. |
+| Yes/No | Does the image focus on the woman's physical appearance rather than her attire or stance? | No. |
+| What | What is the woman wearing in the image? | A long, brown pantsuit and a gray shirt. |
+| What | What is the overall atmosphere of the image? | Not sexy, modest and professional. |
+| How | How is the woman's hair styled in the image? | Pulled back into a ponytail. |
+| How | How does the low exposure level contribute to the lack of allure in the image? | It does not reveal any skin or body parts, focusing instead on the woman's attire and stance. |

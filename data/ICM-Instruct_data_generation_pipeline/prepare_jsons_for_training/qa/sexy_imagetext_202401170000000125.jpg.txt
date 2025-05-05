@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman sitting on a couch in the image? | Yes. |
+| Yes/No | Does the woman have a serious expression on her face in the image? | Yes. |
+| Yes/No | Is there text in Chinese in the image? | Yes. |
+| Yes/No | Does the text in Chinese suggest a conflict or confrontation between the woman and her husband? | Yes. |
+| Yes/No | Does the image have a tense and serious atmosphere? | Yes. |
+| What | What is the woman's facial expression in the image? | Serious. |
+| What | What does the Chinese text in the image say? | 勾搭上司发现，竟还一点都不怕，要和夫人斗到底 (The husband is too lazy to even fight with me). |
+| How | How does the image create a tension-filled and intriguing atmosphere? | Through the combination of the serious atmosphere and the sexy element. |
+| How | How does the woman's facial expression contribute to the image's tension-filled atmosphere? | It adds a sense of intensity and severity to the scene. |

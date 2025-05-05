@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a pilot hat? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the bikini top? | Blue and white. |
+| What | What color is the pilot hat? | Black. |
+| How | How does the woman appear to be feeling in the image? | She appears to be enjoying herself and confident. |
+| How | How does the image evoke feelings in the viewer? | The image evokes feelings of relaxation, adventure, and enjoyment. |

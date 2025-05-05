@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young man? | Yes. |
+| Yes/No | Is the man dressed in a black jacket and a scarf? | Yes. |
+| Yes/No | Is the man wearing sunglasses? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Are the details of the man's appearance clearly visible due to the exposure level? | No. |
+| What | What is the main subject of the image? | A young man. |
+| What | What is the man wearing? | A black jacket and a scarf. |
+| How | How is the man's appearance styled? | The man's appearance is styled with sunglasses. |
+| How | How does the exposure level of the image contribute to the atmosphere? | The low exposure level contributes to a lack of sensuality. |

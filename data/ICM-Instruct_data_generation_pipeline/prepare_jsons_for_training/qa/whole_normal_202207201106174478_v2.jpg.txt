@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress pink? | Yes. |
+| Yes/No | Does the dress have a white collar? | Yes. |
+| Yes/No | Is the woman wearing gray heels? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the woman's attire appear to be revealing or provocative? | No. |
+| What | What is the woman's pose in the image? | The woman is standing in front of a white background. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is professional and formal. |
+| How | How is the woman's dress made? | The dress appears to be made of a soft fabric. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level of the image further emphasizes the modesty of the scene and reinforces the professional and formal atmosphere. |

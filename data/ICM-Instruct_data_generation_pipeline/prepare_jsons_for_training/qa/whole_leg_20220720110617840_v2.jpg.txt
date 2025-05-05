@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the woman have fringe on her sleeves? | Yes. |
+| Yes/No | Is the woman wearing a white skirt? | Yes. |
+| Yes/No | Is the woman's outfit revealing? | Yes. |
+| Yes/No | Are the woman's high heels visible in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's purse? | Pink. |
+| What | What is the length of the woman's skirt? | Short. |
+| How | How does the fringe on the woman's shirt contribute to the image's overall atmosphere? | It adds a touch of edginess. |
+| How | How do the woman's high heels contribute to the image's overall atmosphere? | They add to the overall sexy feel of the image by revealing her legs and enhancing her confidence and allure. |

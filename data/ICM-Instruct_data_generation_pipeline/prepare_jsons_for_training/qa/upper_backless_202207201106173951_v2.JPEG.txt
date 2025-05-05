@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the dress black? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the background white? | Yes. |
+| Yes/No | Are the person's arms on their hips? | Yes. |
+| Yes/No | Does the dress have a backless design? | Yes. |
+| What | What is the material of the dress? | Shiny. |
+| What | What is the pose of the person in the image? | Arms on hips. |
+| How | How does the background contrast with the dress? | It contrasts by being plain and white, making the person and their attire the focal point. |
+| How | How does the person's pose accentuate their attire? | It accentuates the curve of the dress and the exposed skin, enhancing the sexy atmosphere of the image. |

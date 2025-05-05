@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a black bra? | Yes. |
+| Yes/No | Are the jeans ripped at the knees? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the image a close-up of the person's buttocks? | Yes. |
+| Yes/No | Does the image have a casual and sexy vibe? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What is the color of the bra? | Black. |
+| How | How are the jeans ripped? | At the knees. |
+| How | How does the image make the viewer feel? | Like they are part of the scene. |

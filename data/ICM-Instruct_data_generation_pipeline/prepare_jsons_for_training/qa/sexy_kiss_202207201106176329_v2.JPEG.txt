@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are there trees in the background? | Yes. |
+| Yes/No | Is the park setting a natural and serene backdrop? | Yes. |
+| What | What is the man wearing? | A white shirt. |
+| What | What is the woman wearing? | A black dress. |
+| How | How does the contrast between the man's white shirt and the woman's black dress add to the visual appeal of the scene? | It creates a striking visual contrast that draws the viewer's attention to the couple and adds to the romantic atmosphere. |
+| How | How does the park setting enhance the romantic atmosphere? | The natural and serene surroundings create a sense of privacy and intimacy, emphasizing the couple's connection and passion for each other. |

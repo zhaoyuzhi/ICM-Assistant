@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige polo shirt? | Yes. |
+| Yes/No | Are her hands placed confidently on her hips? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Does the woman's outfit expose her thighs? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's gaze appear to be directed towards the camera? | Yes. |
+| What | What color is the woman's polo shirt? | Beige. |
+| What | What is the emblem on the woman's polo shirt made of? | Gold. |
+| How | How are the woman's hands positioned in the image? | Confidently placed on her hips. |
+| How | How does the woman's outfit and pose contribute to the overall allure of the image? | The woman's outfit and pose create a sense of confidence and allure, making the image sexy. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the image feature any suggestive or provocative clothing? | No. |
+| Yes/No | Is the atmosphere of the image simple and uncluttered? | Yes. |
+| Yes/No | Does the image contain any inappropriate or suggestive elements? | No. |
+| Yes/No | Is the person in the image standing against a white background? | Yes. |
+| What | What is the color of the person's trousers? | Beige. |
+| What | What is the color of the person's blouse? | White. |
+| How | How would you describe the style of the person's trousers? | Wide leg, high waist, relaxed and casual. |
+| How | How would you describe the overall atmosphere of the image? | Simple, uncluttered, calm and unassuming. |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman wearing a pair of beige trousers? | Yes. |
+| Yes/No | Does the woman have a drawstring waist? | Yes. |
+| Yes/No | Is the blouse simple and unadorned? | Yes. |
+| Yes/No | Does the image suggest a sense of comfort and ease? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the woman wearing? | Beige trousers and a white blouse. |
+| What | What is the woman's pose? | Standing with her back to the camera. |
+| How | How are the trousers fitting? | Loosefitting. |
+| How | How does the image atmosphere feel? | Calm and unassuming. |

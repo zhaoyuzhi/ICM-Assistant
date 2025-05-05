@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink lipstick? | Yes. |
+| Yes/No | Does the woman have bangs? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the image revealing any explicit or suggestive content? | No. |
+| Yes/No | Is the woman dressed in a pink blouse? | Yes. |
+| Yes/No | Are the earrings visible in the image? | Yes. |
+| What | What color is the woman's lipstick? | Pink. |
+| What | What is the woman's attire in the image? | Pink blouse. |
+| How | How is the woman's smile described in the image? | Slight. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, focus on appearance and attire. |

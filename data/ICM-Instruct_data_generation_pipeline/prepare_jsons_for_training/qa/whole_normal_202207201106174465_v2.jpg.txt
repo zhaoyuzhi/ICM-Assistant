@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a polka dot dress? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Is the room furnished with a couch and a lamp? | Yes. |
+| Yes/No | Is the woman positioned in front of a mirror? | Yes. |
+| Yes/No | Is the woman looking down at her shoes? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's pose in the image? | She is standing with her feet shoulderwidth apart, looking down at her shoes. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is not sexy, it's more focused on the woman's attire and actions rather than her physical appearance. |
+| How | How is the woman's attire depicted in the image? | The woman is wearing a polka dot dress that covers her body appropriately, without revealing any explicit or suggestive content. |
+| How | How is the room furnished in the image? | The room is furnished with a couch and a lamp, creating a comfortable and ordinary living room setting. |

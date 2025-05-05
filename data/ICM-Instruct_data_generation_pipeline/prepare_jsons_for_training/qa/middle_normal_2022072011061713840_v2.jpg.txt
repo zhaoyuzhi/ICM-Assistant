@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red top? | Yes. |
+| Yes/No | Are the person's pants cropped at the ankle? | Yes. |
+| Yes/No | Is the person's stance confident? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the image simple and uncluttered? | Yes. |
+| Yes/No | Does the image focus on the person's outfit and stance? | Yes. |
+| What | What is the person wearing on their bottom half? | White pants. |
+| What | What is the color of the person's top? | Red. |
+| How | How are the person's hands positioned? | On their hips. |
+| How | How would you describe the overall atmosphere of the image? | Simple and uncluttered. |
+| Yes/No | Is the person in the image wearing a white outfit? | Yes. |
+| Yes/No | Is the person's pose in the image neutral? | Yes. |
+| Yes/No | Does the image feature any intimate or provocative actions or details? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image suggest a relaxed and confident demeanor? | Yes. |
+| Yes/No | Are the pants in the image loose-fitting? | Yes. |
+| What | What is the color of the person's shirt in the image? | White. |
+| What | What is the style of the person's outfit in the image? | Casual and relaxed. |
+| How | How are the person's hands positioned in the image? | Resting on their hips. |
+| How | How would you describe the overall atmosphere of the image? | Comfortable and laidback. |

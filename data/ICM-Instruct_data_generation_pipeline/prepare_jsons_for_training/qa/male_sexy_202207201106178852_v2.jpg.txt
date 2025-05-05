@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the man holding a weapon? | Yes. |
+| Yes/No | Is the workbench in the image cluttered with tools and equipment? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the man in a workshop or similar setting? | Yes. |
+| What | What is the man holding in his right hand? | A knife. |
+| What | What is the man standing in front of? | A workbench. |
+| How | How is the man standing? | He is standing in a relaxed or natural stance, with his feet shoulderwidth apart and his weight evenly distributed on both feet. |
+| How | How does the man's body language convey his emotions? | The man's body language is neutral, neither expressing fear nor aggression. He appears confident and in control of his surroundings. |

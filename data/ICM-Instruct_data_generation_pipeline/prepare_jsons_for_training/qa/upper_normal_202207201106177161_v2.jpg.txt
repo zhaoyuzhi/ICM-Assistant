@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the man in the image wearing a brown tie? | Yes. |
+| Yes/No | Does the man in the image have a professional and formal appearance? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and composed? | Yes. |
+| What | What is the man in the image wearing? | A blue shirt and a brown tie. |
+| What | What is the man in the image posing? | A neutral pose with his hands casually tucked into his pockets. |
+| How | How is the man's attire and pose in the image? | Professional and formal. |
+| How | How does the low exposure level of the image affect the focus of the image? | It focuses on the man's torso and upper body, emphasizing his professional appearance rather than his physical attributes. |

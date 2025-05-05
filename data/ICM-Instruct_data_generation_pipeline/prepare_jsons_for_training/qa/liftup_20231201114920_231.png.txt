@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person wearing a white and blue shirt? | Yes. |
+| Yes/No | Is the person wearing white pants? | Yes. |
+| Yes/No | Is the person wearing a black belt? | Yes. |
+| Yes/No | Is the person standing on a stage? | Yes. |
+| Yes/No | Is the person holding a microphone? | Yes. |
+| What | What is the color of the person's shirt? | White and blue. |
+| What | What is the person's lower body exposed? | His stomach and lower body. |
+| How | How is the person standing on the stage? | Confidently. |
+| How | How does the stage setting contribute to the atmosphere of the image? | It creates an atmosphere of allure and intrigue. |

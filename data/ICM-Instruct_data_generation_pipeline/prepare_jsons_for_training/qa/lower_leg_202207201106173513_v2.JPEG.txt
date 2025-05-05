@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow dress? | Yes. |
+| Yes/No | Are the person's heels pointed? | Yes. |
+| Yes/No | Is the dress flowing? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person looking down? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What color is the person's dress? | Yellow. |
+| What | What type of heels is the person wearing? | Gold. |
+| How | How are the person's legs positioned? | Crossed, with their feet resting on the chair. |
+| How | How does the person's hair look? | Styled in loose waves. |

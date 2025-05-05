@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image playing a musical instrument? | Yes. |
+| Yes/No | Is the girl wearing a white dress? | Yes. |
+| Yes/No | Is the piano black? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image suggest a sexual context? | No. |
+| Yes/No | Is the girl sitting on a white chair? | Yes. |
+| What | What is the girl playing on the piano? | A musical instrument. |
+| What | What is the color of the piano? | Black. |
+| How | How is the girl engaged in playing the piano? | With her hands on the keys. |
+| How | How would you describe the atmosphere of the image? | Calm and focused. |

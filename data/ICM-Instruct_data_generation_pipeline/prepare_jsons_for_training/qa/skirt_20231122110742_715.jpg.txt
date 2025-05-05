@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman wearing a face mask? | Yes. |
+| Yes/No | Are her legs and thighs exposed? | Yes. |
+| Yes/No | Is the dress made of a flowing fabric? | Yes. |
+| Yes/No | Are high heels worn by the woman? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the color of the dress? | White. |
+| What | What is the woman lifting in the image? | Her dress. |
+| How | How are the woman's legs and thighs exposed? | By lifting her dress. |
+| How | How does the dress add to the overall atmosphere of the image? | It adds a sense of movement and flows elegantly, enhancing the seductive and alluring feel. |

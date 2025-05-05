@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the skirt above the knees? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the person wearing a black belt? | Yes. |
+| Yes/No | Are the person's hands resting on their hips? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the skirt? | Black. |
+| What | What is the person's pose in the image? | Confident, with hands resting on hips. |
+| How | How does the skirt fall on the person's body? | Just above the knees. |
+| How | How does the person's pose contribute to the image's atmosphere? | It adds to the sexy vibe, exuding confidence. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Is the person in the image holding their hand in front of them? | Yes. |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Does the image convey a sense of modesty? | Yes. |
+| What | What is the person in the image holding their hand in front of? | Possibly the sun or simply as a gesture. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| How | How does the person's attire contribute to the image's atmosphere? | The white pants and green shirt create a sense of simplicity and modesty. |
+| How | How does the low exposure level of the image contribute to its atmosphere? | It adds to the sense of modesty by only showing a small portion of the person's body. |
+| Yes/No | Is the person in the image wearing a light green blouse? | Yes. |
+| Yes/No | Are the pants high-waisted? | Yes. |
+| Yes/No | Is the person's hand resting on their hip? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image suggest any intimate or provocative actions? | No. |
+| Yes/No | Is the image modest and appropriate for a public setting? | Yes. |
+| What | What color is the person's blouse? | Light green. |
+| What | What is the style of the pants? | Highwaisted. |
+| How | How is the person's hand positioned in the image? | Casually resting on their hip. |
+| How | How would you describe the overall style of the person in the image? | Elegant and modest. |

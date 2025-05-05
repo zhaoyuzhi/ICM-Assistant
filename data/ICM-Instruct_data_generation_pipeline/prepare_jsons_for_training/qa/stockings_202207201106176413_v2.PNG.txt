@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image shaving their leg? | Yes. |
+| Yes/No | Is the person wearing a bra? | Yes. |
+| Yes/No | Are they wearing stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the person engaging in a private grooming activity? | Yes. |
+| What | What is the person shaving their leg with? | A razor. |
+| What | What is the person wearing on their legs? | Stockings. |
+| How | How are the stockings made? | Sheer material. |
+| How | How does the image evoke feelings? | Intimacy and sensuality. |

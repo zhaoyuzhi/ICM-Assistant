@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue top? | Yes. |
+| Yes/No | Does the woman in the image have long brown hair? | Yes. |
+| Yes/No | Is the woman in the image making a duck lips pout? | Yes. |
+| Yes/No | Are the woman's eyes closed in the image? | Yes. |
+| Yes/No | Does the image capture a moment of fun and flirtiness? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the woman's top in the image? | Blue. |
+| What | What is the woman's facial expression in the image? | Duck lips pout. |
+| How | How does the woman's hair appear in the image? | Long. |
+| How | How does the woman's facial expression contribute to the overall allure of the image? | Playful and seductive. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white checkered coat? | Yes. |
+| Yes/No | Is the woman sitting on a gray couch? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is the living room carpeted? | Yes. |
+| Yes/No | Is the woman's outfit exposing her thighs? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What color are the woman's boots? | Black. |
+| How | How is the woman sitting on the couch? | With her legs crossed. |
+| How | How does the image create a sense of allure and seduction? | Through the woman's confident posture, the exposure of her thighs, and the overall atmosphere of the living room. |

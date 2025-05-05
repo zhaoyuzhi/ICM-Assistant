@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a green dress shirt? | Yes. |
+| Yes/No | Is the woman dressed in a black dress? | Yes. |
+| Yes/No | Are the couple kissing passionately? | Yes. |
+| Yes/No | Are the couple seated on a couch? | Yes. |
+| Yes/No | Does the woman have her legs crossed? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman? | Yes. |
+| What | What is the color of the man's dress shirt? | Green. |
+| What | What is the woman's pose suggesting? | A deep connection between the couple. |
+| How | How are the couple's arms positioned in the image? | The man's arms are wrapped around the woman, while the woman's arms are crossed. |
+| How | How would you describe the overall atmosphere of the image? | Intimate, romantic, and sexy. |

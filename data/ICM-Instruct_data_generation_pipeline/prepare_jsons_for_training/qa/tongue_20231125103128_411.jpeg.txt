@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red turtleneck sweater? | Yes. |
+| Yes/No | Does the woman have long black hair? | Yes. |
+| Yes/No | Is the woman sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have a flirtatious facial expression? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the image capture a moment of vulnerability and confidence? | Yes. |
+| What | What is the color of the woman's turtleneck sweater? | Red. |
+| What | What is the woman's facial expression? | Flirtatious. |
+| How | How is the woman posing in the image? | She is sticking out her tongue and has a playful and confident demeanor. |
+| How | How does the image make the viewer feel? | The image creates a sense of allure and intrigue, and may make the viewer feel attracted to the woman or inspired by her confidence and selfassurance. |

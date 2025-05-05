@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the women wearing shorts? | Yes. |
+| Yes/No | Is the background a red and white striped pattern? | Yes. |
+| Yes/No | Are the women holding handbags? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the women's shorts? | Black. |
+| What | What is the woman on the right wearing around her neck? | A necklace. |
+| How | How are the women standing in relation to each other? | Side by side. |

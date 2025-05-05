@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink shirt? | Yes. |
+| Yes/No | Does the shirt have a phrase written on it? | Yes. |
+| Yes/No | Is the phrase "NO MORE EXCUSES"? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| Yes/No | Is the woman wearing black leggings? | Yes. |
+| What | What color is the woman's shirt? | Pink. |
+| What | What is the woman's pose in the image? | She has her hands on her hips, accentuating her waist and hips. |
+| How | How does the pink shirt with the motivational message add to the image's overall atmosphere? | It adds a sense of confidence and determination, contributing to the sexy feel. |
+| How | How does the woman's pose contribute to the image's overall atmosphere? | The pose accentuates the woman's waist and hips, contributing to a sexy feel. |

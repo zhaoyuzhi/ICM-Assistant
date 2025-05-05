@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image biting her lip? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have an intense atmosphere? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the woman have brown hair? | Yes. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What is the woman's hair color? | Brown. |
+| How | How is the woman looking at the camera? | Directly. |
+| How | How does the image make you feel? | Intrigued, captivated. |

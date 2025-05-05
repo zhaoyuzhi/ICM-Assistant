@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Are the shorts button-closure? | Yes. |
+| Yes/No | Is the person wearing white shoes? | Yes. |
+| Yes/No | Is the background of the image a street with a sidewalk? | Yes. |
+| Yes/No | Does the person have their hands resting at their sides? | Yes. |
+| Yes/No | Does the image have an overall atmosphere of casualness and relaxation? | Yes. |
+| What | What is the primary color of the person's shorts? | Blue. |
+| What | What is the contrasting color of the person's shoes? | White. |
+| How | How does the person's pose suggest a sense of self-assurance? | The person's hands are resting at their sides, indicating a relaxed and confident stance. |
+| How | How does the image capture a moment of vulnerability and confidence? | The person's neutral pose and the contrast between their blue shorts and white shoes create a sense of vulnerability, while the buttonclosure detail and their selfassured stance convey confidence. |

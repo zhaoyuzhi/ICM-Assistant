@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black leather jacket? | Yes. |
+| Yes/No | Is the person in the image holding a microphone? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the person's pose with the microphone suggest confidence and seductiveness? | Yes. |
+| What | What is the color of the person's shirt? | Black. |
+| What | What is the color of the background? | Dark blue. |
+| How | How does the person's pose with the microphone contribute to the image's atmosphere? | It suggests a confident and seductive presence. |
+| How | How does the combination of the dark background and light blue hue enhance the image's atmosphere? | It creates a moody and mysterious ambiance that enhances the sexy feel of the image. |

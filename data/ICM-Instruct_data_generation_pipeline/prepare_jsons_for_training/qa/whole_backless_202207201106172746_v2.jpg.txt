@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink satin dress? | Yes. |
+| Yes/No | Does the dress have a sheer back? | Yes. |
+| Yes/No | Is the dress lace-up? | Yes. |
+| Yes/No | Is the person's hair styled in a ponytail? | Yes. |
+| Yes/No | Is the person standing against a beige wall? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the dress? | Pink. |
+| What | What is the background color of the image? | Beige. |
+| How | How is the person's back exposed in the dress? | The dress has a sheer back and laceup design. |
+| How | How does the person's posture and the revealing nature of the dress contribute to the image's atmosphere? | The person's posture and the revealing nature of the dress contribute to the overall sexy atmosphere of the image. The person's back turned towards the camera and their hair in a ponytail enhance the sense of allure and sensuality. |

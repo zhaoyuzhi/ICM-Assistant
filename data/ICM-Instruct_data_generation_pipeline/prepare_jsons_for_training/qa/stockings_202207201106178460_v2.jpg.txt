@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Does the person have a black bow on their thighs? | Yes. |
+| Yes/No | Is the person wearing a white dress? | Yes. |
+| Yes/No | Does the dress have gold stars on it? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image depict a sense of allure and mystery? | Yes. |
+| What | What color are the stockings the person is wearing? | Black. |
+| What | What is the color of the bow on the person's thighs? | Black. |
+| How | How is the person posing in the image? | With their legs crossed. |
+| What | What does the combination of the person's attire and pose suggest? | Sensuality and intrigue. |

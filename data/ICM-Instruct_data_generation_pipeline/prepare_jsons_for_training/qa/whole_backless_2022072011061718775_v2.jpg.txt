@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress purple? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Are the woman's hands placed on her hips? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Does the image give a sense of confidence and allure? | Yes. |
+| What | What color is the dress? | Purple. |
+| What | What is the woman's posture in the image? | Hands on hips, head turned to the side. |
+| How | How is the fabric of the dress described? | Soft, flowing. |
+| How | How does the woman's posture and gaze contribute to the image's atmosphere? | Confidence, allure. |

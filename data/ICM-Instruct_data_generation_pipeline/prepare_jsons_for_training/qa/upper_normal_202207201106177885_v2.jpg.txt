@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a gray blouse and black skirt? | Yes. |
+| Yes/No | Is the woman's hand on her hip? | Yes. |
+| Yes/No | Is the background of the image stark white? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image focus on the woman's physical attributes? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the woman's pose in the image? | She is striking a pose with her hand on her hip. |
+| What | What is the overall atmosphere of the image? | Professional and elegant. |
+| How | How does the low exposure level of the image affect the woman's presence in the frame? | It emphasizes her presence in the frame and brings her into focus. |
+| How | How does the woman's confident pose suggest a sense of professionalism and poise? | It suggests that she is confident and selfassured, which is in line with the professional and elegant atmosphere of the image. |

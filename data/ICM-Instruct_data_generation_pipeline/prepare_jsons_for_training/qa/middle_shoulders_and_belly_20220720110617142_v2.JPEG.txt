@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow sweater? | Yes. |
+| Yes/No | Are the jeans dark blue in color? | Yes. |
+| Yes/No | Does the person have their belly exposed? | Yes. |
+| Yes/No | Is there a drawstring at the waist of the jeans? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image create an atmosphere of self-assuredness and allure? | Yes. |
+| What | What color is the sweater the person is wearing? | Yellow. |
+| What | What is the color of the background in the image? | White. |
+| How | How does the contrast between the dark blue jeans and the yellow sweater enhance the image's visual appeal? | It adds a pop of color and creates a striking contrast that draws the viewer's attention to the person and their attire. |
+| How | How does the white background serve to highlight the person and their attire? | It creates a clean and minimalistic backdrop that puts the focus entirely on the person and their outfit, making them stand out and creating a more captivating image. |
+| Yes/No | Is the person in the image wearing a yellow sweater? | Yes. |
+| Yes/No | Are the jeans tight? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and style? | Yes. |
+| Yes/No | Does the yellow sweater add a pop of color to the outfit? | Yes. |
+| Yes/No | Are the person's hips and waist highlighted by the tight jeans and yellow sweater? | Yes. |
+| What | What color is the sweater? | Yellow. |
+| What | What is the person's pose in the image? | Not specified. |
+| How | How does the image showcase the person's body? | In a confident and stylish manner. |
+| How | How does the tight jeans and yellow sweater create a contrast? | They highlight the person's waist and hips, drawing attention to their figure. |

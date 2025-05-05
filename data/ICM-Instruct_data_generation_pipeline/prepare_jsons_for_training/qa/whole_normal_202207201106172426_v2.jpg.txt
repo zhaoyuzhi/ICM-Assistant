@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue blouse? | Yes. |
+| Yes/No | Is the woman standing in front of a large globe? | Yes. |
+| Yes/No | Does the globe have lights scattered across it? | Yes. |
+| Yes/No | Is the woman's attire formal or professional? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the woman's role in the image likely that of a news anchor or presenter? | Yes. |
+| What | What is the woman's attire in the image? | Blue blouse and white skirt. |
+| What | What does the globe behind the woman represent? | The world. |
+| How | How is the woman standing in front of the globe? | With her hands clasped in front of her, suggesting a formal or professional demeanor. |
+| How | How does the low exposure level of the image affect the focus of the image? | It shifts the focus from the woman's physical appearance to her professional role and the content being presented. |

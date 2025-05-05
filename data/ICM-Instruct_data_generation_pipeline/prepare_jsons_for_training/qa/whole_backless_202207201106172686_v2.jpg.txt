@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red satin nightgown? | Yes. |
+| Yes/No | Does the nightgown have a lace neckline? | Yes. |
+| Yes/No | Are the straps of the nightgown thin? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and seductive? | Yes. |
+| Yes/No | Is the image sexy because of the woman's attire and posing? | Yes. |
+| What | What color is the nightgown? | Red. |
+| What | What is the material of the nightgown? | Satin. |
+| How | How is the woman's hair styled? | Pulled back into a ponytail. |
+| How | How is the woman posing in the image? | With her back to the camera, looking over her shoulder. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Does the image contain any explicit content? | No. |
+| Yes/No | Is the person in the image wearing clothes? | Yes. |
+| Yes/No | Is the image shot in a studio or outdoor location? | Studio. |
+| Yes/No | Does the image contain any objects or props other than the person? | No. |
+| What | What is the person in the image doing? | Putting her finger in her mouth. |
+| What | What is the likely atmosphere of the image? | Sensual and alluring. |
+| How | How does the person's action in the image contribute to the overall atmosphere? | The action is often associated with sensuality and intimacy, creating a sense of allure and intrigue in the viewer. |
+| How | How might the image be perceived by viewers? | The image might be perceived as sexy and enticing, based on the person's action and the overall atmosphere. |

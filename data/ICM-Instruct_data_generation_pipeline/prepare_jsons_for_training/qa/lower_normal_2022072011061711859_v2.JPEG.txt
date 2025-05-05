@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | No. |
+| Yes/No | Is the background of the image blue? | No. |
+| Yes/No | Is the person smiling? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the person wearing jewelry? | No. |
+| What | What color is the person's blouse? | Olive green. |
+| What | What is the person's pose in the image? | Neutral, with their hands resting at their sides. |
+| How | How many buttons are on the front of the person's blouse? | The description does not specify. |
+| How | How long is the person's skirt? | The description does not specify. |

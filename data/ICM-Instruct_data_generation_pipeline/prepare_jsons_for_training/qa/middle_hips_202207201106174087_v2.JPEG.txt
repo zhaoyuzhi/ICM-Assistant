@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jean shorts? | Yes. |
+| Yes/No | Are the blue jean shorts slightly torn at the bottom? | Yes. |
+| Yes/No | Is the person sitting on a bed? | Yes. |
+| Yes/No | Are the person's legs spread apart? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | Blue jean shorts. |
+| What | What is the color of the person's buttocks? | Not explicitly stated in the description, but it can be inferred that the person's buttocks are a natural skin tone color. |
+| How | How are the person's legs positioned in the image? | The person's legs are spread apart. |
+| How | How does the close-up nature of the image emphasize the person's buttocks? | The closeup nature of the image allows for a detailed view of the person's body, emphasizing the shape and form of their buttocks. |

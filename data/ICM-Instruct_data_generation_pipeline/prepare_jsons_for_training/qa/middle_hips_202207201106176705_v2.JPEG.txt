@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's buttocks the focal point of the image? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the jeans a classic style? | Yes. |
+| Yes/No | Are the jeans slightly torn at the knees? | Yes. |
+| What | What is the color of the jeans? | Blue. |
+| What | What is the style of the jeans? | Classic. |
+| How | How does the close-up view of the jeans and the person's skin emphasize the curvature and shape of the buttocks? | It highlights the contours and shape of the buttocks, making them the focal point of the image. |
+| How | How does the white curtain in the background accentuate the person's figure? | It creates a sense of intimacy and allure, drawing the viewer's attention to the person's body. |

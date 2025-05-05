@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are her clothes soaked? | Yes. |
+| Yes/No | Is she standing in front of a gray background? | Yes. |
+| Yes/No | Is she smiling? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's confident stance evident in the image? | Yes. |
+| What | What color are the woman's jeans? | Blue. |
+| What | What is the color of the background? | Gray. |
+| How | How is the woman's expression? | Playful and happy. |
+| How | How does the gray background contribute to the image? | It enhances the focus on the woman, making her the central point of interest. |

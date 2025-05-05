@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Does the image feature a couch in the background? | Yes. |
+| Yes/No | Is the woman's skirt patterned? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the lamp in the background turned on? | Yes. |
+| What | What is the woman wearing on her upper body? | A black strapless top. |
+| What | What is the pattern on the woman's skirt? | A floral pattern. |
+| How | How is the woman posing in the image? | She is standing with her back to the camera. |
+| How | How does the living room setting contribute to the overall atmosphere of the image? | The couch and lamp create an intimate and cozy ambiance that enhances the sexy feel of the image. |

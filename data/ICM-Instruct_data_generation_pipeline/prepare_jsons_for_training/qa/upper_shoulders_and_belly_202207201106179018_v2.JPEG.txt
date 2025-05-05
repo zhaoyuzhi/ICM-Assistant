@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink sweatshirt? | Yes. |
+| Yes/No | Are the woman's arms crossed over her chest? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman wearing black leggings? | Yes. |
+| What | What color is the woman's sports bra? | Pink. |
+| What | What is the woman's pose in the image? | Arms crossed over her chest. |
+| How | How does the woman's pose contribute to the overall allure of the image? | The pose adds a sense of confidence and selfassuredness to the image. |
+| How | How does the combination of the pink sports bra and sweatshirt, along with the black leggings, enhance the sexy atmosphere of the image? | The contrast between the pink and black creates a visually appealing and sexy atmosphere. |

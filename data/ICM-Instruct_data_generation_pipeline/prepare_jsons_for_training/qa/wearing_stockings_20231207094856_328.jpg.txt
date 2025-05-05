@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the stockings being put on? | Yes. |
+| Yes/No | Are the person's feet bare? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| What | What color are the person's stockings? | Beige and black. |
+| What | What is the person doing in the image? | Putting on stockings. |
+| How | How are the stockings being pulled? | The beige stockings are being pulled up, and the black stockings are being pulled down. |
+| What | What does the contrast between the beige and black stockings add to the image? | It creates a sense of depth and dimension. |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the person's feet bare in the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| What | What is the person in the image doing? | The person is putting on stockings. |
+| What | What is the contrast between the beige stockings and the black stockings? | The contrast is visual interest, creating a sense of depth and dimension. |
+| How | How are the stockings being put on? | The beige stockings are being pulled up, and the black stockings are being pulled down. |
+| How | How does the white background affect the image? | It emphasizes the subject, drawing the viewer's attention to the person and their actions. |

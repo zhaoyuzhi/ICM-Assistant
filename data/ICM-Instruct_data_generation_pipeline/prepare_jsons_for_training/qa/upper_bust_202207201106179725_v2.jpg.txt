@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing jeans? | Yes. |
+| Yes/No | Is the bra black? | Yes. |
+| Yes/No | Are the jeans blue? | Yes. |
+| Yes/No | Is the woman's hand resting on her head? | Yes. |
+| Yes/No | Is the focus of the image on the woman's breast? | Yes. |
+| What | What is the color of the bra? | Black. |
+| What | What is the color of the jeans? | Blue. |
+| How | How is the woman's breast displayed in the image? | Prominently. |
+| How | How does the contrast between the blue jeans and black bra accentuate the focus on the woman's chest? | It creates a visual contrast that draws the viewer's attention to the woman's breast. |

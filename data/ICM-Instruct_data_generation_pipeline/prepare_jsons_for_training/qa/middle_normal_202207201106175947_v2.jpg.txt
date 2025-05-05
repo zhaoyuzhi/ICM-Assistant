@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts the man is wearing predominantly white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other discernible objects or text? | No. |
+| Yes/No | Is the atmosphere of the image calm and unassuming? | Yes. |
+| What | What is the man wearing on his lower body? | Shorts with a floral pattern. |
+| What | What is the color of the flowers on the shorts? | Yellow and green. |
+| How | How is the man standing in the image? | Neutral pose. |
+| How | How does the image emphasize the simplicity of the scene? | The image features a white background and low exposure level. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts the man is wearing predominantly white? | Yes. |
+| Yes/No | Does the pattern on the shorts include yellow and green flowers? | Yes. |
+| Yes/No | Is the man's pose in the image neutral? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the main color of the man's shorts? | White. |
+| What | What is the pattern on the man's shorts? | A floral pattern with yellow and green flowers. |
+| How | How is the man posing in the image? | Neutrally. |
+| How | How would you describe the overall atmosphere of the image? | Calm and straightforward. |

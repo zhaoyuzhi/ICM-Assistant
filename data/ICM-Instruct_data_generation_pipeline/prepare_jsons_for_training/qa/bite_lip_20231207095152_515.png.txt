@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Are the person's lips pink? | Yes. |
+| Yes/No | Are the person's teeth white? | Yes. |
+| Yes/No | Is the person's facial expression serious? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's face? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's lipstick? | Pink. |
+| What | What is the person's facial expression? | Serious. |
+| How | How does the person's facial expression contribute to the image's overall atmosphere? | It adds a sense of intensity and confidence, which can be perceived as sexy. |
+| How | How does the contrast between the person's lips and teeth contribute to the image's visual appeal? | It creates a visually striking contrast that is often associated with beauty and allure. |

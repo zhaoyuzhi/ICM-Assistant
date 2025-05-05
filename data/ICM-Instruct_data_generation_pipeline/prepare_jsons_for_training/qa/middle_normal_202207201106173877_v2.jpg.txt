@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige cargo shorts? | Yes. |
+| Yes/No | Does the person have a drawstring waist? | Yes. |
+| Yes/No | Are there two pockets on the front of the shorts? | Yes. |
+| Yes/No | Is there a small pocket on the back of the shorts? | Yes. |
+| Yes/No | Is the person wearing a beige top? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the focus of the image? | The person's lower body and the back of the shorts. |
+| What | What is the overall atmosphere of the image? | Casual and neutral. |
+| What | What is the exposure level of the image? | Low. |
+| Yes/No | Is the person in the image wearing a pair of beige cargo shorts? | Yes. |
+| Yes/No | Does the person have a drawstring waist? | Yes. |
+| Yes/No | Are there two pockets on the front of the shorts? | Yes. |
+| Yes/No | Is there a small pocket on the back of the shorts? | Yes. |
+| Yes/No | Is the person wearing a beige top? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the color of the person's top? | Beige. |
+| What | What is the exposure level of the image? | Very low. |
+| How | How much of the person's body is visible in the image? | A small portion. |

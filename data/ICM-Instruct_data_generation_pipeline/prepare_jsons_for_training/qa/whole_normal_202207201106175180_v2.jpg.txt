@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige jacket? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Does the person have a baseball cap on? | Yes. |
+| Yes/No | Are the sneakers beige with a black star? | Yes. |
+| Yes/No | Is the rock gray and made of stone? | Yes. |
+| Yes/No | Is the background of the image a cloudy sky? | Yes. |
+| What | What color are the person's sneakers? | Beige with a black star. |
+| What | What is the person's attire and posture? | Neutral, casual, legs crossed, hands resting on knees. |
+| How | How does the person appear to be positioned on the rock? | Relaxed, legs crossed, hands resting on knees. |
+| How | How would you describe the overall atmosphere of the image? | Calm, casual, nonsexual. |

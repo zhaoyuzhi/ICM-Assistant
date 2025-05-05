@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman in the image standing in a room with a gray wall? | Yes. |
+| Yes/No | Is the woman in the image holding a phone to her ear? | Yes. |
+| Yes/No | Is the woman in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing white sneakers? | Yes. |
+| Yes/No | Does the woman in the image have her left hand placed on her hip? | Yes. |
+| What | What is the woman in the image wearing on her t-shirt? | A smiley face. |
+| What | What is the color of the woman's sneakers? | White. |
+| How | How is the woman in the image standing? | With her left hand on her hip and her right hand holding a phone to her ear. |
+| What | What atmosphere does the image convey? | A casual and relaxed atmosphere with a sexy and alluring vibe. |

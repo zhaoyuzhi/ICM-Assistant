@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a black shirt? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Are the man's hands on the woman's face? | Yes. |
+| Yes/No | Is the background of the image a grayish-blue color? | Yes. |
+| What | What is the color of the man's shirt? | Blue. |
+| What | What is the color of the woman's shirt? | Black. |
+| How | How are the man and woman holding each other? | The woman's arms are wrapped around the man's neck, and the man's hands are on the woman's face, pulling her closer to him. |
+| How | How would you describe the overall atmosphere of the image? | Romantic and sensual. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are there two buttons on the front of the jeans? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| How | Does the image showcase the person's body in a confident and unapologetic manner? | Yes. |
+| Yes/No | Does the image have a bold and confident atmosphere? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What is the unique detail added to the outfit by the jeans? | Highwaisted with two buttons on the front. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the person and their attire, emphasizing their figure and the details of their outfit. |
+| How | How does the image reflect the person's self-assuredness? | The image reflects the person's selfassuredness by showcasing their body in a confident and unapologetic manner, creating a sense of allure and sensuality. |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Do the jeans have two buttons on the back? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What is the style of the jeans? | Highwaisted, classic, and timeless. |
+| How | How does the person's exposed belly add to the overall look of the image? | It adds an element of vulnerability and sensuality, which can be perceived as sexy by some viewers. |
+| How | How does the black top complement the jeans? | It complements the jeans by adding a contrast to the overall look, creating a visually appealing and provocative image. |

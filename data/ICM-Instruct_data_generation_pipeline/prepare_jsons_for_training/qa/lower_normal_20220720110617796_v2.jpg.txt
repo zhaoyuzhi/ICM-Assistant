@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a jacket? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Are there any explicit or suggestive content in the image? | No. |
+| Yes/No | Is the man's attire bright or flashy? | No. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the man's pose aggressive or confrontational? | No. |
+| What | What is the man's facial expression? | Relaxed and nonthreatening. |
+| What | What is the color of the man's cap? | Black. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Calm and unassuming. |

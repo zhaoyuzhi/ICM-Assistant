@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue denim jacket? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image sitting on a white couch? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image have a calm and relaxed atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A blue denim jacket and a white shirt. |
+| What | What is the color of the couch in the image? | White. |
+| How | How is the woman sitting on the couch in the image? | She is sitting in a relaxed position. |
+| How | How does the low exposure level of the image affect the focus of the image? | It focuses on the woman's clothing rather than her appearance. |

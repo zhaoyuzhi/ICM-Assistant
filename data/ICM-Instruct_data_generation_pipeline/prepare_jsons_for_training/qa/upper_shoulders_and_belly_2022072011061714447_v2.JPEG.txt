@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the blouse have a floral pattern? | Yes. |
+| Yes/No | Is the blouse strapless? | Yes. |
+| Yes/No | Are the woman's shoulders and upper back visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's pose create an air of mystery and intrigue? | Yes. |
+| What | What is the woman wearing in the image? | A white blouse with a floral pattern and short sleeves. |
+| What | What is the woman's pose in the image? | She is standing with her back to the camera, showcasing the back of her blouse. |
+| How | How does the strapless design of the blouse add to the overall allure of the image? | It allows for a more revealing look, emphasizing the woman's shoulders and upper back. |
+| How | How does the woman's pose create an air of mystery and intrigue? | By facing away from the camera, the woman's pose creates a sense of secrecy and invites the viewer to imagine what lies beneath her blouse. |

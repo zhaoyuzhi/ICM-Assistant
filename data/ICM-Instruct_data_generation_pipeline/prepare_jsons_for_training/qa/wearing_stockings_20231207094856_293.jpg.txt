@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the stockings being put on? | Yes. |
+| Yes/No | Is the person standing on a beige carpeted floor? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy? | Yes. |
+| Yes/No | Does the image convey a sense of allure? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the carpeted floor? | Beige. |
+| How | How are the stockings being put on? | Pulled up to the knees. |
+| What | What is the atmosphere of the image? | Intimate and alluring. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the stockings being put on? | Yes. |
+| Yes/No | Is the person standing on a beige carpeted floor? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Do the black stockings and skirt contrast with the beige carpeted floor? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the stockings? | Black. |
+| How | How are the stockings being put on? | Pulled up to the knees. |
+| What | What is the atmosphere of the image? | Intimate and alluring. |

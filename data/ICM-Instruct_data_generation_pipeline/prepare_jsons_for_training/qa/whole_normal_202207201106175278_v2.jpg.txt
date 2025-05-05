@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the individuals in the image clothed? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image feature any objects or props other than the phones and book? | No. |
+| Yes/No | Are the individuals in the image looking directly at the camera? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What are the three individuals in the image doing? | The person on the left is holding a phone, the person in the middle is holding a book, and the person on the right is also holding a phone. |
+| What | What is the color of the shirt worn by the person on the right? | Green. |
+| How | How is the exposure level of the image described? | Low. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the person in the image standing on a rooftop? | Yes. |
+| Yes/No | Does the image feature a cityscape in the background? | Yes. |
+| Yes/No | Is the person in the image posing in a suggestive manner? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| Yes/No | Does the neon bikini top and plaid shirt create a vibrant contrast against the cityscape? | Yes. |
+| What | What is the person in the image wearing on their upper body? | A neon bikini top and a plaid shirt. |
+| What | What is the pose of the person in the image? | A confident and alluring pose. |
+| How | How does the image create a sexy atmosphere? | Through the combination of the person's attire, the rooftop setting, and the cityscape in the background. |
+| How | How does the neon bikini top and plaid shirt contribute to the image's overall aesthetic? | They create a vibrant and eyecatching contrast against the cityscape, enhancing the image's seductive quality. |

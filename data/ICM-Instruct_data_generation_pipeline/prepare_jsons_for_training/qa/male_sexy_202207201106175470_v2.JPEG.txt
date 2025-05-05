@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing pants? | No. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Is the man in the image smiling? | No. |
+| Yes/No | Does the image contain any props or objects? | No. |
+| Yes/No | Is the man in the image looking directly at the camera? | Yes. |
+| What | What is the man in the image wearing? | Beige underwear. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man in the image standing? | With his hands on his hips. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the man and his attire, making the image more alluring. |

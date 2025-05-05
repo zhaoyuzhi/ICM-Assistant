@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the shirt have a phrase written on it? | Yes. |
+| Yes/No | Is the shirt cropped at the waist? | Yes. |
+| Yes/No | Are the woman's sneakers white? | Yes. |
+| Yes/No | Is the purse white? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the phrase written on the woman's shirt? | "I'm cool". |
+| What | What color are the woman's sneakers? | White. |
+| How | How is the woman's outfit sexy? | The woman's outfit is sexy because it exposes her midriff, which is a common feature in sexy clothing. The white color of her shirt and sneakers adds to the simplicity and elegance of her outfit. |
+| How | How does the casual atmosphere of the image enhance the sexy feel? | The casual atmosphere of the image suggests a sense of comfort and confidence in her appearance, which enhances the sexy feel. |

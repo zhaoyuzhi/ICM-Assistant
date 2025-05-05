@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the man in the image standing in front of a potted plant? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the suit the man is wearing striped? | Yes. |
+| Yes/No | Is the potted plant behind the man green? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man in the image wearing? | A suit and tie. |
+| What | What is the color of the potted plant behind the man? | Green. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Professional and straightforward. |

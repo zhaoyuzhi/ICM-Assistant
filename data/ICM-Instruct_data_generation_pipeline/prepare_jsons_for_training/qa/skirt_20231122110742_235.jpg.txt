@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray dress? | Yes. |
+| Yes/No | Are her legs and thighs exposed in the image? | Yes. |
+| Yes/No | Is she wearing black high heels? | Yes. |
+| Yes/No | Is the image taken in a hallway? | Yes. |
+| Yes/No | Is there a mirror on the wall in the background? | Yes. |
+| Yes/No | Does the image create an alluring and seductive atmosphere? | Yes. |
+| What | What is the woman lifting her dress? | Her legs and thighs. |
+| What | What is the color of her tights? | Black. |
+| How | How is the woman's actions in the image creating an alluring atmosphere? | By exposing her legs and thighs in a provocative way. |
+| How | How does the mirror in the background affect the image? | It adds depth and emphasizes the woman's actions, making her appear more prominent. |

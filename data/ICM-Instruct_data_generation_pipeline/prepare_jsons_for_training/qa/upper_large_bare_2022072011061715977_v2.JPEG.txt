@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Are the shorts blue? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image feature a beach setting? | Yes. |
+| What | What color are the woman's bikini top and shorts? | Red and white plaid, blue and white plaid. |
+| What | What is the woman's pose in the image? | Lying on her stomach. |
+| How | How does the woman's gaze contribute to the image's atmosphere? | It adds to the sexy vibe as she is looking directly at the camera. |
+| How | How does the beach setting contribute to the image's atmosphere? | It evokes feelings of relaxation and enjoyment, adding to the sexy and alluring nature of the image. |

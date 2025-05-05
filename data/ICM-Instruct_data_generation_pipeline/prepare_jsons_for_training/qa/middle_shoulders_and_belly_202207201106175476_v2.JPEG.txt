@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Does the image create a sense of intimacy? | Yes. |
+| Yes/No | Does the image convey a sense of self-expression? | Yes. |
+| What | What color is the person's shirt? | Black. |
+| What | What is the person's belly button piercing style? | Unspecified. |
+| How | How does the person's attire contribute to the overall aesthetic of the image? | The black shirt and pants add to the overall aesthetic of the image, creating a sense of allure and mystery. |
+| How | How does the image convey a sense of vulnerability? | The person's exposed belly and pierced belly button create a sense of vulnerability, as they are sharing a private aspect of their body with the viewer. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Is the person's navel pierced? | Yes. |
+| Yes/No | Is the piercing a silver ring? | Yes. |
+| Yes/No | Is the person sitting down? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's body position in the image? | Sitting down. |
+| What | What is the main focus of the image? | The person's body. |
+| How | How does the black shirt and pants contrast with the person's skin? | They create a stark contrast that draws attention to the person's body. |
+| How | How does the navel piercing add to the image's intrigue and personal expression? | It adds a unique and intimate detail that reveals the person's personal style and expression. |

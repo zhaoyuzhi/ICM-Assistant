@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of a shiny fabric? | Yes. |
+| Yes/No | Does the woman have a watch on her left wrist? | Yes. |
+| Yes/No | Is the woman holding a purse in her right hand? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman holding in her right hand? | A small purse. |
+| What | What is the color of the dress? | Brown. |
+| How | How is the woman standing in the image? | With a sense of elegance and grace. |
+| How | How does the white wall in the background affect the overall atmosphere of the image? | It provides a neutral backdrop that further emphasizes the woman and her attire, creating a calm and composed atmosphere. |

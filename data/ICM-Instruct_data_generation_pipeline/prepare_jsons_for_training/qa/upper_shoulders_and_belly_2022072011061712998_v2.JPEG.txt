@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the background of the image pink? | Yes. |
+| Yes/No | Is the woman wearing a cropped shirt? | Yes. |
+| Yes/No | Does the shirt have a unique cutout in the center? | Yes. |
+| Yes/No | Is the woman holding a pink hula hoop? | Yes. |
+| Yes/No | Are the leggings the woman is wearing blue? | Yes. |
+| What | What is the woman holding in her right hand? | A pink hula hoop. |
+| What | What color are the leggings the woman is wearing? | Blue. |
+| How | How does the woman's pose with the hula hoop suggest she might be in the middle of a workout or exercise routine? | The woman is holding the hula hoop in a dynamic pose, suggesting she is in the middle of a workout or exercise routine. |
+| How | How does the cropped shirt and cutout in the center of the shirt reveal the woman's midriff? | The cropped shirt and cutout in the center of the shirt reveal the woman's midriff because they do not cover her midsection, allowing it to be visible in the image. |

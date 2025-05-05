@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a denim skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image appear to be taken in a shopping mall? | Yes. |
+| Yes/No | Is the person looking downwards? | Yes. |
+| What | What color is the person's skirt? | Denim. |
+| What | What color is the person's top? | Black. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |
+| How | How does the person's pose come across? | Confident and relaxed. |

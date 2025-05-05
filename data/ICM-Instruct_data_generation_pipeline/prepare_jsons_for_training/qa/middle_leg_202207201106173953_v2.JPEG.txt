@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Does the skirt have a ruffled hem? | Yes. |
+| Yes/No | Is the woman wearing a blouse with white buttons? | Yes. |
+| Yes/No | Is the purse beige in color? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Does the image convey a sense of self-assuredness and confidence? | Yes. |
+| What | What is the color of the skirt? | Brown. |
+| What | What is the color of the purse? | Beige. |
+| How | How does the woman's pose accentuate her figure? | Her hands on her hips draw attention to her waistline and curves, creating a sense of allure. |
+| How | How does the combination of her outfit and pose create a captivating visual? | The contrast between the brown skirt and black blouse, along with the ruffled hem and her confident pose, creates a visually appealing image that draws attention to the woman's figure and evokes a sense of allure. |

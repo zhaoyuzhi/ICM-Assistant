@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the dress green? | Yes. |
+| Yes/No | Are the stockings sheer? | Yes. |
+| Yes/No | Is the person sitting on the ground? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's hands resting on their knees? | Yes. |
+| What | What color is the dress? | Green. |
+| What | What type of garment are the black stockings? | Stockings. |
+| How | How are the stockings worn? | Sheer. |
+| What | What is the atmosphere of the image? | Sexy. |

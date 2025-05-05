@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt made of a light-colored fabric? | Yes. |
+| Yes/No | Does the woman have her hand in her pocket? | Yes. |
+| Yes/No | Is the woman's arm bent at the elbow? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Does the woman's pose or attire evoke any sexual connotations? | No. |
+| What | What is the woman's pose in the image? | She is standing with her hand in her pocket and her arm bent at the elbow. |
+| What | What is the focus of the image? | The focus is on the woman's clothing and pose, rather than on her body or any explicit details. |
+| How | How would you describe the woman's attire in the image? | The woman's attire is casual and everyday, with a slimfit beige skirt. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is innocent and nonsexual, with a low exposure level and a focus on the woman's clothing and pose rather than her body or any explicit details. |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of a lightweight fabric? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person dressed in a modest and appropriate manner? | Yes. |
+| What | What is the color of the dress? | Beige. |
+| What | What is the person's pose in the image? | Relaxed and casual. |
+| How | How is the person's hand positioned in the image? | In their pocket. |
+| How | How would you describe the overall atmosphere of the image? | Calm and composed. |

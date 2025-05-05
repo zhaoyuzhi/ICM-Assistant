@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini two-piece? | Yes. |
+| Yes/No | Does the bikini consist of a purple top and a green bottom? | Yes. |
+| Yes/No | Is the woman wearing a hat? | Yes. |
+| Yes/No | Is the hat a common accessory for sun protection? | Yes. |
+| Yes/No | Is the woman walking on the sand? | Yes. |
+| What | What is the woman wearing on her feet? | Nothing (she is barefoot). |
+| What | What is the color of the woman's bikini top? | Purple. |
+| How | How is the woman's attire contributing to the overall atmosphere of the image? | The woman's bikini and the beach setting create a sense of allure and sensuality. |
+| How | How does the image make you feel? | The image may evoke feelings of relaxation, leisure, and attraction. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Does the image feature any suggestive or inappropriate content? | No. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Are the shorts designed with multiple pockets? | Yes. |
+| Yes/No | Does the image have a sensual or provocative atmosphere? | No. |
+| What | What is the color of the shorts? | Gray. |
+| What | What is the color of the shirt? | Black. |
+| How | How many pockets do the shorts have? | Multiple. |
+| How | How much of the person's body is visible in the image? | A small portion of the lower half of their body. |

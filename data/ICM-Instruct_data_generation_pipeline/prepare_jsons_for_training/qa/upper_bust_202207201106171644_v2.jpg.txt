@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Does the bra have a lace pattern? | Yes. |
+| Yes/No | Are the straps of the bra thin? | Yes. |
+| Yes/No | Is the neckline of the bra deep? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the color of the woman's bra? | Beige. |
+| What | What is the design of the bra? | Lace pattern. |
+| How | How are the straps of the bra designed? | Thin. |
+| How | How is the neckline of the bra designed? | Deep. |

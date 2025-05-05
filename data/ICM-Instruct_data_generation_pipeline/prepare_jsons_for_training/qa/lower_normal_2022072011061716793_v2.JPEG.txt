@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image carrying a backpack? | Yes. |
+| Yes/No | Does the image feature a sexual context? | No. |
+| Yes/No | Is the person's exposure level high? | No. |
+| Yes/No | Does the image suggest a casual and comfortable setting? | Yes. |
+| Yes/No | Is the person's attire revealing? | No. |
+| What | What is the color of the person's sweater? | Brown. |
+| What | What is the color of the wall in the background? | White. |
+| How | How is the person's backpack attached to their body? | It is slung over their back. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonsexual. |

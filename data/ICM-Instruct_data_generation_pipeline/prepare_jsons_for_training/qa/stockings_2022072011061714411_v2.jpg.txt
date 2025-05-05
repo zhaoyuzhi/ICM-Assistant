@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing fishnet stockings? | Yes. |
+| Yes/No | Are the fishnet stockings black and white in color? | Yes. |
+| Yes/No | Does the woman have her legs crossed in the image? | Yes. |
+| Yes/No | Is the woman wearing high heels? | Yes. |
+| Yes/No | Are the high heels gray in color? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and allure? | Yes. |
+| What | What is the woman wearing on her legs? | Fishnet stockings and high heels. |
+| What | What is the color of the woman's high heels? | Gray. |
+| How | How are the fishnet stockings being held up? | By a garter belt. |
+| How | How would you describe the overall atmosphere of the image? | Seductive and enticing. |

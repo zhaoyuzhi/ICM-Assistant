@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a hijab? | Yes. |
+| Yes/No | Is the child in the image dressed in a similar outfit as the woman? | Yes. |
+| Yes/No | Are the woman and child standing in front of a mirror? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image calm and peaceful? | Yes. |
+| Yes/No | Does the image focus on the physical appearance of the woman and child? | No. |
+| What | What is the woman in the image wearing? | A long skirt and a hijab. |
+| What | What is the child in the image wearing? | A similar outfit as the woman. |
+| How | How are the woman and child positioned in the image? | The woman is on the left, the child is on the right. |
+| How | How does the image reflect the relationship between the woman and child? | The image reflects their innocence and family bond. |

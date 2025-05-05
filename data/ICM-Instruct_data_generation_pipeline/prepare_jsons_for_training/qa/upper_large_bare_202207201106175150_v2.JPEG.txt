@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Does the woman have a tattoo in the image? | Yes. |
+| Yes/No | Is the woman wearing sunglasses in the image? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and self-assuredness? | Yes. |
+| What | What is the woman wearing in the image? | A white bikini top and bottom. |
+| What | What is the background of the image? | The ocean. |
+| How | How is the woman posing in the image? | In a sexy and confident manner. |
+| How | How does the combination of the bikini, tattoo, and beach setting create an atmosphere? | It creates an atmosphere of sensuality and allure. |

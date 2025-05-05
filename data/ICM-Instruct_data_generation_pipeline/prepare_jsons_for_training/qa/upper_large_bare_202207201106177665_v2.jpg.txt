@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing black underwear? | Yes. |
+| Yes/No | Is the woman in the image posing with her hand on her hip? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image feature the woman's upper body? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman in the image wearing? | A black bra and black underwear. |
+| What | What is the woman in the image posing with? | Her hand on her hip. |
+| How | How is the woman in the image looking? | Directly at the camera. |
+| How | How does the black bra and underwear contrast with the woman's skin tone? | It makes her appear more alluring. |

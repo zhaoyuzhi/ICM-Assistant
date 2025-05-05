@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the woman in the image wearing a wetsuit top? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her head? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the beach setting in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A black wetsuit top with the word "Barbie" written on it. |
+| What | What is the woman in the image wearing on her lower body? | A black and white swimsuit with a high neckline and shorts. |
+| How | How is the woman in the image standing? | She is striking a pose with her hands on her head. |
+| How | How does the woman in the image look? | She looks directly at the camera with a seductive and enticing gaze. |

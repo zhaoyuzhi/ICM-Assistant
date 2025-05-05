@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt made of a shiny fabric? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image contain any elements that suggest a sexual context? | No. |
+| Yes/No | Is the woman's attire modest? | Yes. |
+| What | What is the color of the woman's skirt? | Brown. |
+| What | What is the woman's top made of? | White. |
+| How | How does the woman's pose suggest confidence? | The woman has her hands placed on her hips, which is a confident and powerful pose. |
+| How | How does the white background emphasize the simplicity of the image? | The white background provides a clean and minimalist backdrop that draws the viewer's attention to the woman's attire and posture, emphasizing the simplicity of the image. |

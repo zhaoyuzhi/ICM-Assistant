@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing still? | No. |
+| Yes/No | Is the man in the image surrounded by exercise equipment? | Yes. |
+| Yes/No | Is the atmosphere of the image athletic and intense? | Yes. |
+| How | Does the image showcase the man's physique and athleticism? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability and confidence? | Yes. |
+| What | What is the man in the image doing? | He is in the middle of a kick. |
+| What | What is the man in the image wearing? | He is wearing black shorts. |
+| How | How is the man in the image demonstrating his strength and agility? | Through his athletic pose and the surrounding exercise equipment. |
+| How | How does the image create an atmosphere of strength and determination? | Through the use of exercise equipment and the man's athletic pose, creating a sense of intensity and focus. |

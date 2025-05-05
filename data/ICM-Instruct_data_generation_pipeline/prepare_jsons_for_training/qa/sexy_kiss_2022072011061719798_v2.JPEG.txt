@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a plaid shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Are the man and woman in the image standing close to each other? | Yes. |
+| Yes/No | Are their lips pressed together in a passionate kiss? | Yes. |
+| Yes/No | Does the image capture a tender and intimate moment between the two individuals? | Yes. |
+| Yes/No | Does the image have a romantic and intimate atmosphere? | Yes. |
+| What | What is the man in the image wearing? | A plaid shirt. |
+| What | What is the woman in the image wearing? | A white top. |
+| How | How are the man and woman positioned in the image? | They are standing close to each other. |
+| How | How would you describe the mood of the image? | Romantic and intimate. |

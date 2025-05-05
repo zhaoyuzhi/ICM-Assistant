@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image using a cell phone? | Yes. |
+| Yes/No | Is the woman in the image dressed in a white blouse? | Yes. |
+| Yes/No | Does the woman in the image have a ruffled collar? | Yes. |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Is the woman in the image revealing her midriff? | Yes. |
+| Yes/No | Does the woman in the image have a confident demeanor? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What is the length of the woman's skirt? | Short. |
+| How | How does the woman carry herself in the image? | Confidently. |
+| How | How does the image make you feel? | Sexy. |

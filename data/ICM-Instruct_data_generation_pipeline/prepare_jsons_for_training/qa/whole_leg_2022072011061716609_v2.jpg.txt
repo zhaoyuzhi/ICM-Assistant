@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a short dress? | Yes. |
+| Yes/No | Is the woman carrying a purse in her hand? | Yes. |
+| Yes/No | Does the image have a fashionable and stylish atmosphere? | Yes. |
+| Yes/No | Is the woman's attire exposing her thighs? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have a confident and stylish walk? | Yes. |
+| What | What is the woman carrying in her hand? | A purse. |
+| What | What is the woman wearing that exposes her thighs? | A short dress. |
+| How | How does the woman's attire contribute to the overall allure of the image? | The woman's short dress and purse create a sense of allure and confidence, which are often associated with sexy images. |
+| How | How does the woman's posture contribute to the overall allure of the image? | The woman's confident and stylish walk down the street adds to the overall allure of the image. |

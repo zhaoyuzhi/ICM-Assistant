@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue and white striped dress? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| Yes/No | Does the woman in the image have a floral pattern on her chest? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and composed? | Yes. |
+| What | What is the woman in the image wearing? | A blue and white striped dress with a floral pattern on the chest. |
+| What | What is the woman in the image looking at? | The camera. |
+| How | How is the woman in the image sitting? | She is sitting on a couch. |
+| How | How is the woman in the image smiling? | She has a slight smile on her face. |

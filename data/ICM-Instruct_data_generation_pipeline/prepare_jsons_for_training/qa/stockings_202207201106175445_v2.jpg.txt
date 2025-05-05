@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing black heels? | Yes. |
+| Yes/No | Does the woman in the image have her legs crossed? | Yes. |
+| Yes/No | Is the woman in the image looking down? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Does the image have an alluring quality? | Yes. |
+| What | What color are the woman's garters? | Black. |
+| What | What is the color of the chair the woman is sitting on? | White. |
+| How | How are the woman's legs crossed? | The woman's legs are crossed at the ankle. |
+| How | How does the woman's downward gaze contribute to the image's atmosphere? | The woman's downward gaze creates a sense of intimacy and vulnerability, which contributes to the image's seductive and alluring atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Does the dress have a tie at the back? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is the woman's head turned to the side? | Yes. |
+| Yes/No | Does the image have a white background? | Yes. |
+| What | What is the color of the dress? | Red. |
+| What | What is the woman's pose in the image? | Striking a pose with her hand on her hip and her head turned to the side. |
+| How | How does the woman's pose suggest confidence and self-assuredness? | The woman's confident stance, with her hand on her hip and her head turned to the side, convey a sense of selfassurance and confidence. |
+| How | How does the image create a visually striking contrast? | The contrast between the vibrant red of the dress and the woman's skin against the white background creates a visually striking image. |

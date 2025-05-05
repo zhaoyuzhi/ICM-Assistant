@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman's body exposed in the image? | Yes. |
+| Yes/No | Is the bed covered with a blue blanket? | Yes. |
+| Yes/No | Is the woman looking at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A white bra and a white skirt. |
+| What | What is the color of the blanket covering the bed? | Blue. |
+| How | How is the woman's body positioned on the bed? | She is lying down. |
+| How | How does the woman's gaze towards the camera contribute to the overall atmosphere of the image? | It enhances the sense of intimacy and allure. |

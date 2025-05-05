@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image female? | Yes. |
+| Yes/No | Is the person's facial expression clearly visible? | No. |
+| Yes/No | Is the person's finger inside their mouth? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the pink nail polish on the person's fingernail noticeable? | Yes. |
+| What | What is the person doing with their finger in the image? | They are putting their finger inside their mouth. |
+| What | What is the color of the nail polish on the person's fingernail? | Pink. |
+| How | How is the person's facial expression? | Their facial expression is not clearly visible, but their lips are slightly parted, possibly indicating a moment of anticipation or excitement. |
+| How | How does the blurred background affect the image? | The blurred background draws attention to the person's face and the action of their finger inside their mouth, creating a sense of intimacy and allure. |

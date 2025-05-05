@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Is the person in the image holding a cup? | Yes. |
+| Yes/No | Is the living room lit by a lamp? | Yes. |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and cozy? | Yes. |
+| What | What is the person in the image holding in their hand? | A cup. |
+| What | What is the color of the person's sweater, stockings, and shoes? | White. |
+| How | How is the person in the image sitting on the couch? | Relaxed and comfortable. |
+| How | How does the image create an atmosphere that is perceived as sexy by some viewers? | Through the combination of the person's attire, the intimate setting, and the suggestion of leisure and relaxation. |

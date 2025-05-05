@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are the man's arms crossed in front of him? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the background of the image visible? | No. |
+| Yes/No | Does the image depict the man's face? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What is the man's facial expression? | N/A (not visible). |
+| What | What is the man's body language? | Confident/assertive (arms crossed). |
+| How | How is the man standing? | N/A (not visible). |
+| How | How does the image make the viewer feel? | Allured/intrigued (sexy). |

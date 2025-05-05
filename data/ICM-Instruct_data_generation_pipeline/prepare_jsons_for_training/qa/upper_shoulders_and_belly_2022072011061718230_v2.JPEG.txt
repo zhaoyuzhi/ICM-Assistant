@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the blouse have a floral pattern? | Yes. |
+| Yes/No | Are the sleeves of the blouse off-the-shoulder? | Yes. |
+| Yes/No | Is the blouse cropped at the waist? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the woman's pants? | Blue. |
+| What | What is the woman's hair color? | Brown. |
+| How | How does the woman's pose accentuate her confidence and style? | Her pose with her hands on her hips showcases her confidence and style. |
+| How | How does the white blouse with a floral pattern and off-the-shoulder sleeves add a touch of sophistication to her look? | The classic choice of the white blouse with a floral pattern and offtheshoulder sleeves adds a touch of sophistication to her look, contrasting with the sexiness of the cropped waist and her pose. |

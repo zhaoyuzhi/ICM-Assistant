@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image dressed in a White T-shirt and black pants? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the man have his hands tucked into his pockets? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the atmosphere of the image Calm? | Yes. |
+| What | What is the main focus of the image? | The man's face and upper body. |
+| What | What does the man's pose and attire suggest? | A casual, everyday setting. |
+| How | How does the low exposure level of the image emphasize the scene? | It emphasizes the simplicity and innocence of the scene. |
+| Yes/No | Does the image contain any elements that suggest a sexual context or suggestive poses? | No. |

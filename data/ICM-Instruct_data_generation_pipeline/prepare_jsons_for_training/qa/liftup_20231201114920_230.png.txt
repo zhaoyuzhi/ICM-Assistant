@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image posing suggestively? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman wearing a white sweater? | Yes. |
+| Yes/No | Is the woman wearing a maroon lace bra? | Yes. |
+| Yes/No | Is the overall atmosphere of the picture sexy? | Yes. |
+| What | What is the woman lifting in the image? | Her sweater and bra. |
+| What | What is the color of the woman's bra? | Maroon. |
+| How | How is the woman posing in the image? | Seductively. |
+| How | How does the combination of the white sweater and maroon lace bra contribute to the image's atmosphere? | It creates an alluring and seductive image. |

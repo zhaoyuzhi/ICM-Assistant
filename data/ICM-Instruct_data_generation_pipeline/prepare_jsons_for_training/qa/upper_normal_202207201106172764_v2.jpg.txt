@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman's hair dark? | Yes. |
+| Yes/No | Is the woman wearing a sweater? | Yes. |
+| Yes/No | Is the woman wearing a tie? | Yes. |
+| Yes/No | Is the image revealing any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman's attire in the image? | A brown sweater and a green and white striped tie. |
+| What | What is the woman's pose in the image? | She is looking off to the side. |
+| How | How is the woman's hair styled in the image? | She has a brown bun in her hair. |
+| How | How would you describe the woman's smile in the image? | Friendly and approachable. |

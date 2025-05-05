@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are the woman's hands on the straps of the bra? | Yes. |
+| Yes/No | Is the bra light green in color? | Yes. |
+| Yes/No | Are the woman's pants white? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and alluring? | Yes. |
+| What | What color is the bra? | Light green. |
+| What | What is the woman doing in the image? | Putting on the bra. |
+| How | How does the light green color of the bra add to the image's atmosphere? | It adds a touch of softness and allure. |
+| How | How do the white pants contrast with the bra? | They provide a contrast that highlights the bra's presence. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are the woman's hands on the straps of the bra? | Yes. |
+| Yes/No | Is the bra light green in color? | Yes. |
+| Yes/No | Are the woman's pants white? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image putting on? | A bra. |
+| What | What color are the woman's pants? | White. |
+| How | How does the light green color of the bra add to the image's overall atmosphere? | It adds a touch of softness and allure. |
+| How | How do the white pants contrast with the bra? | They provide a contrast that highlights the bra's presence. |

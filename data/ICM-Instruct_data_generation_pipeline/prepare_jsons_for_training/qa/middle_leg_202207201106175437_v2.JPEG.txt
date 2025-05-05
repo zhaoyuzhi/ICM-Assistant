@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the shorts beige? | Yes. |
+| Yes/No | Is the woman leaning against a wall? | Yes. |
+| Yes/No | Does the woman have her hand in her pocket? | Yes. |
+| Yes/No | Is the sweater loose? | Yes. |
+| Yes/No | Are the shorts high-waisted? | Yes. |
+| What | What color is the sweater? | White. |
+| What | What is the woman's pose? | Leaning against a wall with her hand in her pocket. |
+| How | How does the woman's outfit contribute to the sexy atmosphere? | The loose, comfortable clothing and the highwaisted shorts create a relaxed and confident feel. |
+| How | How does the woman's pose contribute to the sexy atmosphere? | The pose, with the hand in the pocket and leaning against the wall, suggests a relaxed and confident demeanor, adding to the overall sexy feel. |

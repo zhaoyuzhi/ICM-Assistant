@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a measuring tape? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's blue jeans and white shirt casual and relaxed? | Yes. |
+| Yes/No | Does the image suggest a focus on health and fitness? | Yes. |
+| Yes/No | Is the person's posture in the image suggestive of vulnerability and self-reflection? | Yes. |
+| Yes/No | Does the image have a sexy appeal? | Yes. |
+| What | What is the person in the image using to measure their waist? | A measuring tape. |
+| What | What is the overall atmosphere of the image? | Confident and empowering. |
+| How | How is the person's posture in the image? | The person is standing with their feet shoulderwidth apart, and their arms are extended to hold the measuring tape around their waist. |
+| How | How does the image showcase the person's body? | The image showcases the person's body in a vulnerable and intimate manner, with their belly exposed and their waist being measured. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman holding a tape measure in her right hand? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Does the image suggest a focus on the woman's body and health? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman using to measure her waist? | A tape measure. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How is the woman holding the tape measure? | She is holding it in her right hand. |
+| What | What does the act of measuring her waist imply about the woman's focus? | It implies a focus on her physical appearance and health. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin dressed in a pair of navy blue trousers? | Yes. |
+| Yes/No | Is the mannequin wearing a white sneaker? | Yes. |
+| Yes/No | Is the mannequin positioned in a way that suggests it is walking? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Do the navy blue pants and white sneaker stand out against the white background? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the color of the mannequin's trousers? | Navy blue. |
+| What | What is the color of the mannequin's sneaker? | White with three stripes on the side. |
+| How | How are the pants fitted on the mannequin? | Wellfitted. |
+| How | How would you describe the overall atmosphere of the image? | Casual and neutral. |

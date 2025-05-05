@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image visually appealing? | Yes. |
+| What | What color is the woman's bra and underwear? | White. |
+| What | What is the woman's facial expression in the image? | Slight smile. |
+| How | How are the woman's hands positioned in the image? | Resting on her knees. |
+| How | How does the woman's pose suggest a sense of confidence and allure? | Legs spread apart, hands on knees. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the graphic on the t-shirt depict a woman? | Yes. |
+| Yes/No | Is the person wearing a face mask? | Yes. |
+| Yes/No | Are they also wearing overalls? | Yes. |
+| Yes/No | Is the image indoors? | Yes. |
+| Yes/No | Is the couple on the poster kissing? | Yes. |
+| What | What is the person in the image wearing on their upper body? | A white tshirt with a graphic of a woman. |
+| What | What is the person in the image standing in front of? | A poster with a couple kissing. |
+| How | How is the person in the image dressed overall? | They are wearing a white tshirt, face mask, and overalls. |
+| How | How would you describe the mood or atmosphere of the image? | Sexy, intimate, and intriguing. |

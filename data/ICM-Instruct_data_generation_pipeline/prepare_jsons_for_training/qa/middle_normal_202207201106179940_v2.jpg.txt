@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a red shirt? | Yes. |
+| How | Does the image show a lot of skin? | No. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the image taken from a side angle? | Yes. |
+| What | What color are the shorts in the image? | Red. |
+| What | What is the person in the image wearing on their upper body? | A red shirt. |
+| How | How much of the person's body is visible in the image? | A small portion. |
+| How | How would you describe the atmosphere of the image? | Casual and simple. |
+| Yes/No | Is the person in the image wearing red shorts? | Yes. |
+| Yes/No | Is the person's shirt also red? | Yes. |
+| Yes/No | Are the shorts made of a lightweight material? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What color are the shorts? | Red. |
+| What | What is the person's posture in the image? | Relaxed and casual. |
+| How | How are the shorts made of a lightweight material? | Possibly cotton or polyester. |
+| How | How does the low exposure level of the image emphasize the focus on the person's attire and demeanor? | It focuses on the person's clothing and casual posture rather than their physical appearance. |

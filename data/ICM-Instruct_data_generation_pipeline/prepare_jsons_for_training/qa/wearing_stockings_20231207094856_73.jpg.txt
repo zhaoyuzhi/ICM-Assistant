@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman wearing a black hat? | Yes. |
+| Yes/No | Are the woman's stockings black? | Yes. |
+| Yes/No | Is the woman bending over in the image? | Yes. |
+| Yes/No | Is the woman holding her stockings up with her left hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the couch in the image? | Brown. |
+| What | What is the woman holding in her left hand? | Her stockings. |
+| How | How is the woman holding her stockings up? | With her left hand. |
+| What | What atmosphere does the image create? | An atmosphere of sensuality and intrigue. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman wearing a hat? | Yes. |
+| Yes/No | Are the stockings the woman is wearing black? | Yes. |
+| Yes/No | Is the woman standing next to a piece of furniture? | Yes. |
+| Yes/No | Is the woman holding her stockings up with her left hand? | Yes. |
+| Yes/No | Does the image create an atmosphere of sensuality and intrigue? | Yes. |
+| What | What color is the couch the woman is standing next to? | Brown. |
+| What | What is the woman holding her stockings up with? | Her left hand. |
+| How | How is the woman standing in relation to the couch? | Next to it. |
+| How | How does the woman's pose and attire suggest confidence and allure? | She is bending over and holding her stockings up in a way that accentuates her body and creates a flirtatious atmosphere. |

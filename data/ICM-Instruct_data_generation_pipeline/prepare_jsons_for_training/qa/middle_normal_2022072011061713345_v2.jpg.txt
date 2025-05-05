@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's shorts black? | Yes. |
+| Yes/No | Is the man looking down at his phone? | Yes. |
+| Yes/No | Are the man's hands placed on his hips? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the man's attire in the image? | White shirt and black shorts. |
+| What | What is the man's posture in the image? | Relaxed and casual, with hands on hips. |
+| How | How does the low exposure level of the image affect the atmosphere of the scene? | It emphasizes the simplicity and modesty of the scene, making it not sexy. |
+| How | How does the man's attire and posture contribute to the overall atmosphere of the image? | They contribute to a relaxed and casual atmosphere, which is not sexy. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the man in the image wearing black shorts? | Yes. |
+| Yes/No | Is the man in the image looking down at his phone? | Yes. |
+| Yes/No | Is the room in the image well-lit? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the man's posture in the image relaxed and casual? | Yes. |
+| What | What is the man in the image wearing on his feet? | Black shorts. |
+| What | What is the man in the image holding in his hands? | His phone. |
+| How | How is the man in the image standing? | With his hands casually tucked into his pockets. |
+| How | How would you describe the atmosphere in the room? | Relaxed and casual. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Are the stockings being put on in a suggestive way? | Yes. |
+| Yes/No | Is the image set in a bedroom? | Yes. |
+| Yes/No | Is the person's actions in the image associated with sensuality? | Yes. |
+| Yes/No | Does the image depict an intimate moment? | Yes. |
+| Yes/No | Does the blue and white plaid dress add a touch of elegance to the scene? | Yes. |
+| What | What color is the person's dress? | Blue and white. |
+| What | What is the person doing in the image? | Putting on beige kneehigh stockings. |
+| How | How is the person's actions in the image depicted? | In a way that suggests a sense of intimacy and sensuality. |
+| How | How does the overall atmosphere of the image contribute to its sexy feel? | It creates an intimate and seductive ambiance. |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Are the stockings being put on in a sensual way? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the blue and white plaid dress add elegance to the scene? | Yes. |
+| Yes/No | Is the white blanket a comfortable backdrop for the person's actions? | Yes. |
+| What | What is the person in the image putting on? | Beige kneehigh stockings. |
+| What | What color is the plaid dress? | Blue and white. |
+| How | How is the person putting on the stockings? | In a sensual way. |
+| What | What atmosphere does the image convey? | Intimate and seductive. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting? | Yes. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| Yes/No | Is the woman in the image leaning on her left hand? | Yes. |
+| How | Does the image show the woman's entire body? | No. |
+| Yes/No | Does the image have a sexual context? | No. |
+| What | What is the woman in the image wearing? | A white blouse and blue jeans. |
+| What | What is the woman's posture in the image? | She is leaning on her left hand and has her legs crossed. |
+| How | How is the woman's upper body positioned in the image? | Her upper body is slightly leaning forward and supported by her left hand. |
+| How | How does the low exposure level of the image affect its atmosphere? | It emphasizes the focus on the woman's clothing and posture rather than her physical appearance and creates a casual and simple atmosphere. |

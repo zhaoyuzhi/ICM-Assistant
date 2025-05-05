@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red leggings? | Yes. |
+| Yes/No | Is the person in the image wearing white sneakers? | Yes. |
+| Yes/No | Is the person's body facing the camera? | Yes. |
+| Yes/No | Is the person looking directly at the camera? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image feature a gray wall? | Yes. |
+| What | What is the color of the person's leggings? | Red. |
+| What | What is the color of the person's sneakers? | White. |
+| How | How is the person standing in the image? | With a confident stance and stylish pose. |
+| How | How does the image's composition enhance the person's attire? | The neutral backdrop allows the person's outfit to stand out, drawing the viewer's attention to their pose and attire. |

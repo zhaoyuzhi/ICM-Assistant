@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing high-waisted denim shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a striped top? | Yes. |
+| Yes/No | Does the woman have a confident and self-assured expression? | Yes. |
+| Yes/No | Are the shorts frayed at the hem? | Yes. |
+| Yes/No | Is the woman holding her shorts up with her left hand? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her top half? | A striped top. |
+| What | What is the woman in the image holding in her left hand? | Her shorts. |
+| How | How are the shorts styled? | They are highwaisted and frayed at the hem. |
+| How | How is the woman posing in the image? | She is holding her shorts up with her left hand, possibly to show off the design or to adjust them. |

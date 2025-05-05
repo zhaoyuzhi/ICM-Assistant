@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue vest? | Yes. |
+| Yes/No | Is the woman holding a shopping cart? | Yes. |
+| Yes/No | Are the items on the shelf behind the woman food items? | Yes. |
+| Yes/No | Is the woman looking at the shelf of food items? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Is the woman's face clearly visible in the image? | No. |
+| What | What is the woman holding in her hand? | A shopping cart. |
+| What | What is the woman looking at in the image? | The shelf of food items. |
+| How | How is the woman standing in the grocery store aisle? | She is standing with her feet shoulderwidth apart, facing the shelf of food items. |
+| How | How is the woman's body positioned in relation to the shopping cart? | She is standing slightly sideways to the cart, with her left hand on the handle and her right hand on the side of the cart. |

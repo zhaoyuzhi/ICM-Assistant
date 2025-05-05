@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing underwear? | Yes. |
+| Yes/No | Is the man in the image sitting on a chair? | Yes. |
+| Yes/No | Is the man in the image looking at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the man's pose in the image suggestive? | Yes. |
+| What | What is the man in the image wearing? | White underwear. |
+| What | What is the man in the image sitting on? | A chair. |
+| How | How is the man in the image posing? | With his legs crossed. |
+| How | How does the image make you feel? | Sensual and confident. |

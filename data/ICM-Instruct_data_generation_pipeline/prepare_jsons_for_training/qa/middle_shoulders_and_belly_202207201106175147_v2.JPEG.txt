@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Are they wearing khaki pants? | Yes. |
+| Yes/No | Is the medical device attached to their stomach? | Yes. |
+| Yes/No | Is the device a blood glucose monitor? | Yes. |
+| Yes/No | Is the person's skin visible in the image? | Yes. |
+| Yes/No | Does the image evoke feelings of vulnerability? | Yes. |
+| What | What is the person wearing on their stomach? | A blood glucose monitor. |
+| What | What is the purpose of the medical device? | To measure blood sugar levels. |
+| How | How is the medical device attached to the person's stomach? | It is connected to a small device in their pocket. |
+| How | How does the image create an intimate and personal atmosphere? | The closeup view of the person's body and the medical device creates a sense of intimacy, and the exposure of their skin and private health information adds to the personal nature of the image. |
+| Yes/No | Is the person in the image wearing a medical device? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's pants khaki? | Yes. |
+| Yes/No | Is the person's shirt green? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy? | Yes. |
+| Yes/No | Does the image suggest a sense of trust? | Yes. |
+| What | What color is the person's shirt? | Green. |
+| What | What is the person wearing on their belly? | A small device with a screen and buttons. |
+| How | How is the medical device attached to the person's belly? | With a small tube. |
+| How | How does the image convey a sense of comfort and trust? | Through the person's relaxed position, exposed belly, and casual clothing, which create a sense of vulnerability and intimacy. |

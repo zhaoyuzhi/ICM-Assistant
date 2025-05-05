@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blindfold? | Yes. |
+| Yes/No | Does the person's tongue stick out in the image? | Yes. |
+| Yes/No | Is the facial expression of the person playful? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the image overall sexy? | Yes. |
+| Yes/No | Are the person's actions and attire suggestive of mystery? | Yes. |
+| What | What color is the blindfold worn by the person in the image? | Black. |
+| What | What is the facial expression of the person in the image? | Playful and seductive. |
+| How | How is the person's tongue positioned in the image? | Sticking out. |
+| How | How would you describe the overall atmosphere of the image? | Intimate and sensual. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are the man's hands on the woman's face? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image depict a public setting? | Yes. |
+| What | What is the man wearing? | A black shirt. |
+| What | What is the woman wearing? | A white shirt. |
+| How | How are the man and woman holding each other? | The woman's arms are wrapped around the man's neck, and the man's hands are on the woman's face, pulling her closer to him. |
+| How | How does the image depict the relationship between the man and woman? | The image suggests a strong emotional connection between the man and woman, possibly a romantic relationship. |

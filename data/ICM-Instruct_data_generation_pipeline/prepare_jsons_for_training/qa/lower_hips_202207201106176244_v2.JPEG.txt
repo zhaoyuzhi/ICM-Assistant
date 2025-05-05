@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the person standing against a white wall? | Yes. |
+| Yes/No | Is the pose confident and assertive? | Yes. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Are the leggings plain, without any visible patterns or designs? | Yes. |
+| What | What is the color of the leggings? | Gray. |
+| What | What is the person's pose in the image? | Standing with a confident and assertive stance, intentionally displaying their buttocks. |
+| How | How does the white wall in the background contribute to the atmosphere of the image? | It provides a stark contrast, drawing attention to the subject and emphasizing their body. |
+| How | How does the image make you feel? | Bold and seductive. |

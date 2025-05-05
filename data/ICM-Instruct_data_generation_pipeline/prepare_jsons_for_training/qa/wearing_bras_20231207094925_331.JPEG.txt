@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a pearl necklace? | Yes. |
+| Yes/No | Is the image focused on the woman's actions and attire? | Yes. |
+| Yes/No | Does the image capture the woman from the chest up? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman appear confident in the image? | Yes. |
+| What | What is the woman adjusting in the image? | Her bra. |
+| What | What is the color of the woman's bra in the image? | White. |
+| How | How is the woman holding her bra in the image? | With both hands. |
+| What | What does the woman's pearl necklace add to her appearance in the image? | A touch of sophistication and allure. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a pearl necklace? | Yes. |
+| Yes/No | Is the image in color? | No. |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Is the image taken in a studio setting? | No. |
+| How | Does the image show the woman's entire body? | No. |
+| What | What is the woman in the image holding in her hands? | Her bra. |
+| What | What is the color of the woman's bra? | White. |
+| How | How is the woman adjusting her bra? | With both hands. |
+| What | What does the woman's pearl necklace suggest about her appearance? | It suggests a touch of sophistication and allure. |

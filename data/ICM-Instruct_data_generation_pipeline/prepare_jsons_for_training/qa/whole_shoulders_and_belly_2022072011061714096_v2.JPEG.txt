@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the woman have earrings on? | Yes. |
+| Yes/No | Are the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Does the woman have any other visible accessories apart from the hoop earrings? | No. |
+| Yes/No | Is the blue and white striped top covering the woman's shoulders? | No. |
+| What | What is the color scheme of the woman's top? | Blue and white. |
+| What | What is the style of the woman's hair in the image? | Loose waves. |
+| How | How is the woman posing in the image? | Straight and slight smile. |
+| How | How would you describe the woman's expression in the image? | Confidence and playfulness. |

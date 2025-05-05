@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image walking? | Yes. |
+| Yes/No | Is the person in the image dressed in a yellow and black plaid shirt? | Yes. |
+| Yes/No | Are the person's pants black with white stripes? | Yes. |
+| Yes/No | Are the person's shoes white Nike sneakers? | Yes. |
+| Yes/No | Is the exposure level of the person in the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the person in the image wearing on their feet? | White Nike sneakers. |
+| What | What is the color of the person's pants? | Black with white stripes. |
+| How | How is the person moving in the image? | Towards the right side. |
+| What | What is the atmosphere of the image? | Not sexy, focused on the person's movement and attire. |

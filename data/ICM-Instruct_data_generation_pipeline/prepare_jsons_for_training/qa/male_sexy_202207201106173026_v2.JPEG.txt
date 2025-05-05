@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image looking downwards? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image not wearing? | A shirt. |
+| What | What might the man in the image be doing, based on his gaze? | Contemplating or introspecting. |
+| How | How is the man's skin exposed in the image? | Because he is not wearing a shirt. |
+| How | How might the image be interpreted, based on the man's gaze and the overall atmosphere? | As a moment of vulnerability or intimacy. |

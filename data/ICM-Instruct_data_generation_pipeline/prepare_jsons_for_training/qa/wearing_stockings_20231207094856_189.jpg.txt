@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image putting on black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a private moment of the person getting dressed? | Yes. |
+| What | What is the person in the image holding in their right hand? | The stocking. |
+| What | What is the person in the image holding in their left hand? | The other end of the stocking. |
+| How | How is the person in the image putting on the stockings? | The person is holding the stocking up with their right hand and putting it on their left leg. |
+| What | What atmosphere does the image convey? | Intimate and personal. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image putting on black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the image atmosphere intimate and personal? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image holding in their left hand? | The other end of the stocking. |
+| What | What is the person in the image wearing on their left leg? | Black stockings. |
+| How | How is the person in the image holding the stocking up? | With their right hand. |
+| How | How is the image sexy? | The person is wearing a skirt and black stockings, and the image captures a private moment of them getting dressed, creating an intimate and personal atmosphere. |

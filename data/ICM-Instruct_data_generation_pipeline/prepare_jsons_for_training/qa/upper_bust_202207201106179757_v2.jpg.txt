@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Does the bra have thin straps? | Yes. |
+| Yes/No | Does the bra have a low neckline? | Yes. |
+| Yes/No | Is the woman looking downwards? | Yes. |
+| Yes/No | Is her hair styled in loose waves? | Yes. |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| What | What color is the bra? | Pink. |
+| What | What is the woman's pose in the image? | Looking downwards. |
+| How | How does the woman's hair look in the image? | Loose waves. |
+| How | How does the close-up shot emphasize the woman's chest and cleavage? | It highlights and focuses attention on these areas. |

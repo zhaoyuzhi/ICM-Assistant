@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue denim jumpsuit? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman looking off to the side in the image? | Yes. |
+| Yes/No | Does the jumpsuit have a drawstring at the waist? | Yes. |
+| Yes/No | Is the woman's pose in the image relaxed and non-sexual? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the woman wearing in the image? | A blue denim jumpsuit. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the woman's pose in the image? | Relaxed and nonsexual. |
+| How | How does the white background contribute to the atmosphere of the image? | It creates a nonsexual atmosphere. |

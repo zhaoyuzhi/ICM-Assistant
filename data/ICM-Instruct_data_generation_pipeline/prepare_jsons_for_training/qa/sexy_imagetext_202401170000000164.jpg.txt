@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the women wearing suspender skirts? | Yes. |
+| Yes/No | Are the women smiling? | Yes. |
+| Yes/No | Is the background plain white? | Yes. |
+| Yes/No | Do the women seem comfortable with each other? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive and alluring? | Yes. |
+| What | What are the women wearing? | Suspender skirts. |
+| What | What is the background of the image? | Plain white wall. |
+| How | How are the women posing? | They are posing for a picture, with one woman looking directly at the camera and the other smiling. |
+| How | How does the woman on the right look? | She looks directly at the camera with confidence and flirtation. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black strapless top? | Yes. |
+| Yes/No | Is the woman wearing a gold bracelet on her left wrist? | Yes. |
+| Yes/No | Is the woman's left hand resting on her chin? | Yes. |
+| Yes/No | Is the woman's right hand placed on her left elbow? | Yes. |
+| Yes/No | Does the woman's attire and pose suggest confidence and allure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's strapless top? | Black. |
+| What | What is the woman wearing on her left wrist? | A gold bracelet. |
+| How | How is the woman's left hand positioned in the image? | Resting on her chin. |
+| How | How is the woman's right hand positioned in the image? | Placed on her left elbow. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing navy blue leggings? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person's pose in the image sexy? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Is the image visually appealing? | Yes. |
+| What | What is the color of the leggings in the image? | Navy blue. |
+| What | What is the person's body shape accentuated by in the image? | The formfitting leggings. |
+| How | How do the leggings extend down the person's legs? | Down to their ankles. |
+| How | How does the person's pose enhance the sexy atmosphere of the image? | By exposing their belly and having their legs apart. |

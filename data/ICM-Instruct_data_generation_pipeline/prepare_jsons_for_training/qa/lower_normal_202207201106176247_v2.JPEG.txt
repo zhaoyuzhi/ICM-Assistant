@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shoes? | No. |
+| Yes/No | Is the dress made of a lightweight fabric? | Yes. |
+| Yes/No | Is the forest in the background healthy and thriving? | Yes. |
+| Yes/No | Does the image focus on the person's body or appearance in a suggestive or provocative manner? | No. |
+| Yes/No | Does the person's attire suggest a casual or natural setting? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the person doing in the forest? | Walking. |
+| What | What is the person wearing? | A long, green dress with a hole in the middle. |
+| How | How is the person's movement in the forest described? | Unhurried, suggesting a leisurely stroll. |
+| How | How does the image capture the person's interaction with their environment? | It focuses on the person's journey through the forest, rather than their physical appearance. |

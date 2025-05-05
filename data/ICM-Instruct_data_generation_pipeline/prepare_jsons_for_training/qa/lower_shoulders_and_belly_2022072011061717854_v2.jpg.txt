@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person in the image striking a pose? | Yes. |
+| Yes/No | Is the person in the image wearing any other clothing aside from the leggings? | No. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image convey a sense of self-assuredness and allure? | Yes. |
+| Yes/No | Are the leggings patterned? | Yes. |
+| What | What is the color of the leggings? | Blue. |
+| What | What is the person in the image resting their right hand on? | Their thigh. |
+| How | How is the person in the image standing? | With their left hand on their hip and their right hand resting on their thigh. |
+| How | How does the white background affect the image? | It contrasts with the blue leggings and brings attention to the person's pose and attire, making the image more visually striking. |

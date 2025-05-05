@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have writing on it? | Yes. |
+| Yes/No | Is the woman's pose in the image confident? | Yes. |
+| Yes/No | Are the woman's legs apart in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color is the woman's skirt? | White. |
+| What | What is the name of the brand written on the woman's t-shirt? | Jimmy Jeans Tommy. |
+| How | How is the woman's pose in the image? | Confident and relaxed. |
+| How | How does the white background enhance the focus on the woman's body? | It creates a contrast that draws attention to her body. |

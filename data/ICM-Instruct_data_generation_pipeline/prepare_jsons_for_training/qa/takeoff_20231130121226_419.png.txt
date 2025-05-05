@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black bra? | Yes. |
+| Yes/No | Are the leggings the person is wearing black? | Yes. |
+| Yes/No | Is the person in the image standing against a white wall? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image create a sense of intimacy? | Yes. |
+| What | What is the person in the image wearing? | A black bra and black leggings. |
+| What | What is the background of the image? | A white wall. |
+| How | How is the person in the image standing? | Against a white wall. |
+| How | How was the image taken? | From a low angle. |

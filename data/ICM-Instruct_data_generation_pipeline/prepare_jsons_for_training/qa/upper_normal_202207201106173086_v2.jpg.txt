@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the building behind the woman have a red roof? | Yes. |
+| Yes/No | Are there Chinese characters on the sign above the building's entrance? | Yes. |
+| Yes/No | Is the woman's hair long and dark? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy or explicit? | No. |
+| Yes/No | Is the woman's attire suggestive or revealing? | No. |
+| What | What is the woman standing in front of? | A building. |
+| What | What color is the roof of the building? | Red. |
+| How | How is the exposure level of the image? | Low. |
+| How | How does the low exposure level affect the image? | It emphasizes the nonsexual nature of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing black underwear? | Yes. |
+| Yes/No | Does the underwear have the brand name "Calvin Klein" written on it? | Yes. |
+| Yes/No | Is the man standing against a white wall? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy or intimate atmosphere? | Yes. |
+| What | What is the man wearing underneath his black underwear? | His chest and upper body are exposed. |
+| What | What is the color of the wall against which the man is standing? | White. |
+| How | How does the contrast between the man's attire and the wall enhance the visual impact of the image? | It creates a stark contrast that draws attention to the man's dark attire and makes the image stand out. |
+| How | How does the man's direct gaze into the camera add a sense of connection and engagement with the viewer? | It creates a feeling of eye contact and makes the viewer feel like the man is posing specifically for them, making the image feel more personal and intimate. |

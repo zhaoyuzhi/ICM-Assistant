@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman biting her lip in the image? | Yes. |
+| Yes/No | Does the woman have a serious facial expression in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intense and mysterious? | Yes. |
+| Yes/No | Would you describe the image as sexy? | Yes. |
+| What | What is the woman looking at in the image? | Off to the side. |
+| What | What color is the woman's dress in the image? | Black. |
+| How | How is the woman's lip bitten in the image? | The woman is biting her lower lip gently. |
+| How | How would you describe the woman's overall demeanor in the image? | Serious, alluring, and mysterious. |

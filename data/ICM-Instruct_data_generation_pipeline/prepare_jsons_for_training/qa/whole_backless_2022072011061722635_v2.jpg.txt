@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray tank top? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing pink leggings? | Yes. |
+| Yes/No | Does the image depict a sexy atmosphere? | Yes. |
+| Yes/No | Is the person's back exposed? | Yes. |
+| Yes/No | Are the colors gray and pink associated with sensuality and femininity? | Yes. |
+| What | What is the person's attire in the image? | A gray tank top and pink leggings. |
+| What | What is the overall atmosphere of the image? | Sexy/alluring. |
+| How | How does the person's posture contribute to the atmosphere of the image? | The person's confidence and selfassurance suggest a sexy/alluring atmosphere. |
+| How | How does the exposed area of the person's back add to the image's atmosphere? | It reveals the person's skin and muscles, which are often considered attractive and contribute to the sexy/alluring atmosphere. |

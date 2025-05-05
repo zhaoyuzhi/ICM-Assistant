@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a flowery robe? | Yes. |
+| Yes/No | Is the person in the image putting on beige stockings? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the flowery robe elegance and sophistication to the image? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with intimacy and sensuality? | Yes. |
+| Yes/No | Is the gray curtain in the background a neutral backdrop? | Yes. |
+| What | What is the person in the image wearing? | A flowery robe and beige stockings. |
+| What | What is the overall atmosphere of the image? | Intimate and seductive. |
+| How | How does the flowery robe add to the image? | It adds a sense of elegance and sophistication. |
+| How | How does the act of putting on stockings contribute to the image? | It is often associated with intimacy and sensuality, which contributes to the sexy feel of the picture. |
+| Yes/No | Is the person in the image wearing a flowery robe? | Yes. |
+| Yes/No | Is the person in the image putting on beige stockings? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the flowery robe add a sense of elegance and sophistication to the image? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with intimacy and sensuality? | Yes. |
+| Yes/No | Does the gray curtain in the background provide a neutral backdrop? | Yes. |
+| What | What is the person in the image wearing? | A flowery robe and beige stockings. |
+| What | What is the atmosphere of the image? | Intimate and seductive. |
+| How | How does the flowery robe contribute to the sexy feel of the picture? | It adds a sense of elegance and sophistication. |
+| How | How does the act of putting on stockings contribute to the sexy feel of the picture? | It is often associated with intimacy and sensuality. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a plaid shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man's pose in the image suggestive or explicit? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire in the image formal or casual? | Casual. |
+| Yes/No | Does the image have a calm and non-threatening atmosphere? | Yes. |
+| What | What is the man's hairstyle in the image? | Not specified. |
+| What | What is the color of the man's boots in the image? | Brown. |
+| How | How is the man standing in the image? | neutrally. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonthreatening. |

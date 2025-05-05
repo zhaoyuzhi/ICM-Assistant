@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress pink? | Yes. |
+| Yes/No | Does the dress have a high collar? | Yes. |
+| Yes/No | Is the woman wearing gold earrings? | Yes. |
+| Yes/No | Is the woman wearing a gold belt? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color is the dress? | Pink. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's modest and appropriate attire contributes to a professional and elegant atmosphere. |
+| How | How does the image differ from a sexy image? | The image lacks elements typically associated with a sexy image, such as suggestive or provocative clothing, closeup shots, and explicit or implied sexual activity. The woman's pose and attire are also modest and appropriate for a professional setting, rather than sensual or provocative. |

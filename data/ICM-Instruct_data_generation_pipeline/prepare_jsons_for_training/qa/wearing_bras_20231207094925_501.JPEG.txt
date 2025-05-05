@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman standing against a white background? | Yes. |
+| Yes/No | Is the woman adjusting the straps of her bra? | Yes. |
+| Yes/No | Does the image suggest that the woman is getting ready for a romantic or intimate moment? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman wearing in the image? | A black bra. |
+| What | What is the background color of the image? | White. |
+| How | How is the woman adjusting the straps of her bra? | She is adjusting the straps with her hands. |
+| What | What does the image convey? | The image conveys a sense of allure and sensuality. |
+| Yes/No | Is the woman wearing a black bra? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman's action suggest she is putting on the bra? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the bra often associated with sensuality and intimacy? | Yes. |
+| Yes/No | Is the white background drawing attention to the subject? | Yes. |
+| What | What color is the bra the woman is wearing? | Black. |
+| What | What does the woman's action implies? | It implies that she is in the process of getting ready for a romantic or intimate moment. |
+| How | How does the white background of the image emphasize the subject? | It draws attention to her actions and the bra she is wearing. |
+| How | How does the black bra contribute to the image's overall sense? | It conveys allure and sensuality. |

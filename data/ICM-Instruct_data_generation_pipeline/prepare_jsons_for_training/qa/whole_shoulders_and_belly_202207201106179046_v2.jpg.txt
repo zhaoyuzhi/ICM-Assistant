@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Is the top pink in color? | Yes. |
+| Yes/No | Is the skirt white in color? | Yes. |
+| Yes/No | Does the skirt have a floral pattern? | Yes. |
+| Yes/No | Is the woman holding a small purse? | Yes. |
+| What | What color is the purse? | Brown. |
+| What | What is the main color of the top? | Pink. |
+| How | How is the woman's pose in the image? | She is standing in a pose that shows off her outfit. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is sexy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman making a surprised face? | Yes. |
+| Yes/No | Is the background of the image blue with a cloudy pattern? | Yes. |
+| Yes/No | Does the woman's attire reveal a significant amount of skin? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What is the woman's facial expression in the image? | Surprised. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| How | How does the woman's surprised face add to the overall atmosphere of the image? | It adds an element of intrigue and curiosity, which can be perceived as enticing. |

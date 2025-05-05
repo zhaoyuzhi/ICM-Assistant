@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have an open and inviting facial expression? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of fun and confidence? | Yes. |
+| What | What is the color of the woman's hair? | Brown. |
+| What | What is the color of the woman's top? | White. |
+| How | How is the woman's facial expression? | Open and inviting. |
+| How | How does the contrast between the woman's hair and top enhance the image? | It adds visual interest and enhances the overall allure of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Does the top have cherries on it? | Yes. |
+| Yes/No | Are the cherries red? | Yes. |
+| Yes/No | Is the woman wearing blue jean shorts? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| What | What color are the cherries on the top? | Red. |
+| What | What is the woman's pose in the image? | She has her left hand on her hip and her right hand on her thigh. |
+| How | How does the woman's outfit contribute to the overall allure of the image? | The strapless top and blue jean shorts are casual yet revealing, showing off her figure and adding a sense of allure. |
+| How | How does the woman's pose contribute to the overall allure of the image? | The pose is confident and assertive, which adds to the overall allure of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on the floor? | Yes. |
+| Yes/No | Is the person wearing a blue skirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's feet positioned in front of them? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and suggestive? | Yes. |
+| Yes/No | Does the image depict a sexy and provocative atmosphere? | Yes. |
+| What | What is the color of the person's skirt? | Blue. |
+| What | What is the color of the person's stockings? | White. |
+| How | How are the person's legs positioned? | Crossed. |
+| How | How do the blue skirt and white stockings create a contrasting color scheme? | They create a contrast between the cool, dark color of the skirt and the bright, light color of the stockings. |

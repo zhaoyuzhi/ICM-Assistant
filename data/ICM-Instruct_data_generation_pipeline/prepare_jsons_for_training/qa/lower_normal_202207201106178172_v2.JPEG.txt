@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a green skirt? | Yes. |
+| Yes/No | Are the woman's arms crossed in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| Yes/No | Is the woman's attire in the image revealing or sexy? | No. |
+| What | What is the woman wearing in the image? | A black dress and a green skirt. |
+| What | What is the woman's pose in the image? | Standing with her arms crossed. |
+| How | How is the woman's attire in the image different from typical sexy clothing? | It is simple and modest, without revealing or suggestive elements. |
+| How | How does the image's focus on the woman's attire and pose differ from a typical sexy image? | The focus is on the woman's clothing and neutral pose, rather than her body or appearance. |

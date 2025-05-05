@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple dress? | Yes. |
+| Yes/No | Are black tights visible in the image? | Yes. |
+| Yes/No | Is the woman standing in front of a gray couch? | Yes. |
+| Yes/No | Is the woman's hand on her thigh? | Yes. |
+| Yes/No | Is the dress flowing in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| What | What color is the woman's dress? | Purple. |
+| What | What is the woman lifting up in the image? | Her dress. |
+| How | How is the woman standing in the image? | She is standing with her hand on her thigh. |
+| How | How is the dress being lifted up in the image? | The dress is being lifted up to reveal the woman's thigh. |

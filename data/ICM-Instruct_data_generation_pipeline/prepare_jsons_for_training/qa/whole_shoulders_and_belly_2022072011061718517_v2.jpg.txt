@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sweatshirt? | Yes. |
+| Yes/No | Are the black pants high-waisted? | Yes. |
+| Yes/No | Is the woman's left hand resting on her hip? | Yes. |
+| Yes/No | Is the woman's right hand resting on her thigh? | Yes. |
+| Yes/No | Does the image suggest a confident and stylish appearance? | Yes. |
+| Yes/No | Is the outfit sexy? | Yes. |
+| What | What is the color of the woman's sweatshirt? | White. |
+| What | What is the color of the woman's pants? | Black. |
+| How | How is the woman's sweatshirt cropped? | Cropped at the waist. |
+| How | How are the woman's pants high-waisted? | They cover her midriff. |

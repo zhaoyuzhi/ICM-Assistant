@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top green and white? | Yes. |
+| Yes/No | Are the bikini bottoms a mix of green and purple? | Yes. |
+| Yes/No | Is the woman posing in a pool? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| What | What color is the bikini top? | Green and white. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How does the woman's attire contribute to the overall allure of the image? | The bikini is a common choice for swimwear and the woman's pose accentuates her figure, creating a sense of sensuality. |
+| How | How does the white background affect the image? | It helps to highlight the woman and her attire, making the image more visually striking. |

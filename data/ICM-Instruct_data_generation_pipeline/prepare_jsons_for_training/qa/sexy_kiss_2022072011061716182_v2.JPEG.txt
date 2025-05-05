@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pink shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the image set in an outdoor setting? | Yes. |
+| Yes/No | Is the man holding a laptop on his lap? | Yes. |
+| Yes/No | Does the image have a natural and relaxed atmosphere? | Yes. |
+| What | What color is the man's shirt? | Pink. |
+| What | What is the woman leaning on the man? | The man. |
+| How | How are the man and woman positioned in the image? | The woman is leaning on the man, who is sitting with his laptop on his lap. |
+| How | How does the presence of the laptop on the man's lap contrast with the natural setting? | The laptop adds an element of modernity to the scene, contrasting with the natural setting. |

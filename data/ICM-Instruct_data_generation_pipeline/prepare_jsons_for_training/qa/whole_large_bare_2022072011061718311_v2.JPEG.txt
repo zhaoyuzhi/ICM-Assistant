@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini white? | Yes. |
+| Yes/No | Is the woman standing on a rocky cliff? | Yes. |
+| Yes/No | Is the woman facing the camera? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing? | A white bikini. |
+| What | What is the color of the bikini? | White. |
+| How | How is the woman posing? | With her hands on her hips. |
+| How | How does the woman's pose contribute to the image's atmosphere? | It suggests a sense of selfassuredness and confidence, adding to the overall allure of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black blazer? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a white purse? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman in the image holding? | A white purse. |
+| What | What is the exposure level of the image? | Very low. |
+| How | How is the woman dressed in the image? | She is dressed in a black blazer and a black skirt. |
+| How | How does the image's low exposure level affect the focus of the image? | It focuses attention on the building and surroundings rather than the woman's appearance. |

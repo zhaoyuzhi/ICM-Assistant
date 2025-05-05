@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black tracksuit? | Yes. |
+| Yes/No | Does the tracksuit have a white logo on the left leg? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the color of the person's tracksuit? | Black. |
+| What | What is the color of the person's sneakers? | White. |
+| How | How is the person's face not visible in the image? | The person's face is not visible because it is turned away from the camera or obstructed by another object in the room. |
+| How | How does the image emphasize the casual and relaxed nature of the person's attire? | The image emphasizes the casual and relaxed nature of the person's attire by highlighting the comfortable fit of the tracksuit and sneakers, as well as the lack of any formal or elaborate accessories or poses. The low exposure level of the person also contributes to the casual and relaxed atmosphere of the image. |

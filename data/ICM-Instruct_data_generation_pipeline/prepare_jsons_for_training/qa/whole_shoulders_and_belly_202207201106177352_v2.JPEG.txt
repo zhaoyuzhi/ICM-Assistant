@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the woman's shoes gold? | Yes. |
+| Yes/No | Is the woman carrying a clutch purse? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman carrying in her hand? | A small clutch purse. |
+| What | What is the color of the woman's shoes? | Gold. |
+| How | How does the woman's pose accentuate her allure? | With her hand on her hip. |
+| How | How does the flowing dress and high neckline suggest a sense of allure and mystery? | They create a sense of elegance and concealment. |

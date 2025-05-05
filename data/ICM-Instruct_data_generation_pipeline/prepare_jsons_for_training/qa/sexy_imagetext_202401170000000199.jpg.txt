@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lying on a bed? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Does the image feature an advertising slogan? | Yes. |
+| Yes/No | Is the slogan "满足" displayed above the woman? | Yes. |
+| Yes/No | Does the woman have a purse next to her? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| What | What is the woman's pose in the image? | She has her legs up. |
+| What | What is the black dress associated with? | Sensuality and elegance. |
+| How | How does the purse next to the woman add to the overall aesthetic of the image? | It adds a subtle detail that enhances the overall allure of the image. |
+| How | How does the advertising slogan "满足" contribute to the image's atmosphere? | It implies a promise of satisfaction and pleasure, further evoking feelings of desire and pleasure in the viewer. |

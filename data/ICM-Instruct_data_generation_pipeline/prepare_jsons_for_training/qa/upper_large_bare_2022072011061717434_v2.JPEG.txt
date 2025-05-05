@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the bikini top colorful? | Yes. |
+| Yes/No | Does the bikini top feature a floral pattern? | Yes. |
+| Yes/No | Is the person's upper body exposed in the image? | Yes. |
+| Yes/No | Is the water in the image clear? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image laying on their back in? | Water. |
+| What | What is the person wearing? | A bikini top. |
+| How | How is the person's upper body exposed in the image? | The person's upper body is exposed because they are laying on their back in the water, allowing for a full view of their skin and the bikini top. |
+| How | How does the clear water surrounding the person enhance the overall atmosphere of the image? | The clear water surrounding the person enhances the overall atmosphere of the image by making the image feel more intimate and alluring. It also allows for a full view of the person and their surroundings, adding to the sensuality of the image. |

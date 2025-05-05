@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Is the woman holding the bra with both hands? | Yes. |
+| Yes/No | Does the bra have a button closure? | Yes. |
+| Yes/No | Is the background of the image solid green? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What color is the background of the image? | Green. |
+| How | How is the woman adjusting the bra? | She is holding it with both hands and appears to be adjusting it. |
+| How | How does the solid green background contribute to the overall atmosphere of the image? | It provides a stark contrast to the white bra, drawing attention to the woman and her actions and emphasizing the intimate and alluring nature of the scene. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Does the bra have a button closure? | Yes. |
+| Yes/No | Is the woman holding the bra with both hands? | Yes. |
+| Yes/No | Is the background of the image solid green? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What color is the background of the image? | Green. |
+| How | How is the woman adjusting the bra? | She is holding it with both hands and appears to be adjusting it. |
+| How | How does the background contribute to the overall atmosphere of the image? | The solid green background provides a stark contrast to the white bra, drawing attention to the woman and her actions and creating an intimate and alluring atmosphere. |

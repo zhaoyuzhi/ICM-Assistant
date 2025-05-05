@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing in water? | Yes. |
+| Yes/No | Is the person's shirt soaked? | Yes. |
+| Yes/No | Is the person wearing black shorts? | Yes. |
+| Yes/No | Is the person bending over? | Yes. |
+| Yes/No | Does the image have a mysterious and intriguing atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image looking at in the water? | It is not clearly visible in the image. |
+| Yes/No | Is the person in the image trying to get a better view of something? | Yes. |
+| How | How is the person in the image standing? | The person is bending over. |
+| How | How does the image create a sense of allure and intrigue? | The combination of the person's attire, the surrounding environment, and the mysterious atmosphere creates a sense of allure and intrigue. |

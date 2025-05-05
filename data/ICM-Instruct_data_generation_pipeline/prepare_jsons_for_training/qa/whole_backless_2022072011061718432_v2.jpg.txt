@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Is the woman standing with her back to the camera? | Yes. |
+| Yes/No | Does the dress have a high slit on the back? | Yes. |
+| Yes/No | Is the woman's hand placed on her hip? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the woman's attire in the image? | A white dress with a deep neckline and a high slit on the back. |
+| What | What is the woman's pose in the image? | Standing with her back to the camera, hand on her hip. |
+| How | How does the woman's attire contribute to the seductive atmosphere of the image? | The white dress with a high slit and deep neckline exposes a large area of her back, which is visually striking and alluring. |
+| How | How does the woman's pose contribute to the seductive atmosphere of the image? | The woman's pose, with her hand on her hip, adds to the seductive atmosphere by accentuating her curves and creating a sense of confidence. |

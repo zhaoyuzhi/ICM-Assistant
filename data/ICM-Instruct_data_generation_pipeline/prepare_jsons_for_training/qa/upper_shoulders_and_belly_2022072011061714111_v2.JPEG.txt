@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Are the woman's arms outstretched in the image? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun in the image? | Yes. |
+| Yes/No | Does the dress reveal the woman's midriff? | Yes. |
+| Yes/No | Is the rooftop setting urban and sophisticated? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her arms outstretched. |
+| What | What is the style of the woman's hair in the image? | Her hair is styled in a bun. |
+| How | How does the woman's attire contribute to the overall allure of the image? | The strapless dress and lowcut neckline reveal her skin and create a sexy appearance. |
+| How | How does the rooftop setting contribute to the overall atmosphere of the image? | The urban and sophisticated setting enhances the sense of confidence and allure conveyed by the woman's pose and attire. |

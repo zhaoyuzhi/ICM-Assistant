@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black and white polka dot underwear? | Yes. |
+| Yes/No | Is the person sitting on a gray couch? | Yes. |
+| Yes/No | Are they in the process of putting on black stockings? | Yes. |
+| Yes/No | Are their legs crossed? | Yes. |
+| Yes/No | Is their foot on the couch? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| What | What color are the person's underwear? | Black and white polka dot. |
+| What | What is the person doing in the image? | Putting on black stockings. |
+| How | How is the person's foot positioned on the couch? | The person's foot is on the couch. |
+| How | How does the gray couch contribute to the overall atmosphere of the image? | It provides a neutral backdrop that allows the focus to remain on the person's actions, adding to the intimate and sensual atmosphere. |
+| Yes/No | Is the person in the image wearing black and white polka dot underwear? | Yes. |
+| Yes/No | Is the person sitting on a gray couch? | Yes. |
+| Yes/No | Are they in the process of putting on black stockings? | Yes. |
+| Yes/No | Is their foot on the couch? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the polka dot underwear add a playful and seductive element to the scene? | Yes. |
+| What | What is the person putting on? | Black stockings. |
+| What | What is the color of the couch? | Gray. |
+| How | How is the person's leg positioned? | Crossed. |
+| How | How does the image capture a private and intimate moment? | The person is in a vulnerable position while putting on their stockings. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink shirt? | Yes. |
+| Yes/No | Is the background of the image pink? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the woman's long brown hair and pink shirt visually appealing? | Yes. |
+| What | What color is the woman's hair? | Brown. |
+| What | What is the woman's facial expression? | Serious. |
+| How | How is the woman sitting? | Against a pink background. |
+| How | How does the image create a sense of intensity and passion? | Through the woman's serious expression and lip biting, which suggest a sense of seduction and allure. |

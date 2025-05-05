@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white wedding dress? | Yes. |
+| Yes/No | Is the woman holding a bouquet of flowers? | Yes. |
+| Yes/No | Is the image set in a wooded area? | Yes. |
+| Yes/No | Does the woman's posture and the way she holds the bouquet suggest grace and poise? | Yes. |
+| Yes/No | Is the overall atmosphere of the image romantic and serene? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A white wedding dress. |
+| What | What is the woman holding in the image? | A bouquet of flowers. |
+| How | How does the woman's posture and the way she holds the bouquet suggest grace and poise? | The woman is standing tall with her shoulders back and her head held high, and she holds the bouquet in a relaxed yet elegant manner. |
+| How | How does the image create a captivating and seductive atmosphere? | The combination of the elegant wedding dress, the beautiful bouquet, and the romantic setting creates a captivating and seductive atmosphere that makes the image sexy. |

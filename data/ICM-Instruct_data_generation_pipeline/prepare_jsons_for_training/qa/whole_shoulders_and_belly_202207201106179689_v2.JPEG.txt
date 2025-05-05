@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress have a lace neckline? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Is the woman standing in a room with a wooden floor? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Is the woman's pose confident and relaxed? | Yes. |
+| What | What color is the woman's dress? | Burgundy. |
+| What | What is the material of the woman's dress? | Velvet. |
+| How | How is the woman's left hand positioned in the image? | Resting on her hip. |
+| How | How is the woman's right hand positioned in the image? | Lightly touching her thigh. |

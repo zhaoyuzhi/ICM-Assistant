@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue pajama pants? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image feature a drawstring at the waist of the pajama pants? | Yes. |
+| Yes/No | Is the drawstring tied in a bow? | Yes. |
+| Yes/No | Is the fabric of the pajama pants soft and comfortable? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What color are the pajama pants? | Blue. |
+| What | What is the pose of the person in the image? | Standing with their belly exposed. |
+| How | How is the drawstring tied at the waist of the pajama pants? | In a bow. |
+| How | How does the plain white background affect the overall atmosphere of the image? | It emphasizes the subject and creates a sensual and inviting atmosphere. |
+| Yes/No | Is the person in the image wearing a pair of navy blue sweatpants? | Yes. |
+| Yes/No | Does the person have a drawstring at the waist? | Yes. |
+| Yes/No | Is the drawstring tied in a bow? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| How | Does the image show the person's actions or surrounding environment? | No. |
+| What | What color are the sweatpants? | Navy blue. |
+| What | What is the color of the person's shirt? | Black. |
+| How | How is the drawstring at the waist tied? | In a bow. |
+| How | How does the image create a sexy atmosphere? | Through the combination of the person wearing casual and comfortable clothing items, the drawstring at the waist adding a sense of relaxation and informality, and the person's exposed belly suggesting a sense of confidence and selfassuredness. |

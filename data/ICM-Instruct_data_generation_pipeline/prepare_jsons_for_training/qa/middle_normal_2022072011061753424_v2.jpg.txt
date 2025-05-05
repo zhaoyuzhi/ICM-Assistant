@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the skirt gray and plaid? | Yes. |
+| Yes/No | Is the belt black and does it have a gold buckle? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the image low-angle? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| What | What is the person wearing around their waist? | A black belt with a gold buckle. |
+| What | What is the overall atmosphere of the image? | Simple and modest. |
+| How | How is the person standing in the image? | Against a white background. |
+| How | How does the low-angle shot emphasize the person's body? | It focuses on the person's torso and waist area. |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the skirt gray and plaid? | Yes. |
+| Yes/No | Is the belt black and silver? | Yes. |
+| Yes/No | Is the background white? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive elements? | No. |
+| What | What color is the blouse? | White. |
+| What | What pattern is the skirt? | Gray plaid. |
+| How | How is the skirt cinched at the waist? | With a black belt that has a silver buckle. |
+| How | How does the low angle of the shot affect the image? | It emphasizes the person's attire rather than their physical appearance, making the image appear more modest and appropriate. |

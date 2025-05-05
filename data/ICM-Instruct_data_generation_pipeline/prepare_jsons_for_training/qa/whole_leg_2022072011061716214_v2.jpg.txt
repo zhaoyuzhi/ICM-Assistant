@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a yellow sweater and a denim skirt? | Yes. |
+| Yes/No | Is the wall behind the woman white? | Yes. |
+| Yes/No | Are the woman's sneakers white? | Yes. |
+| Yes/No | Is the woman leaning against the wall? | Yes. |
+| Yes/No | Does the woman's outfit have a sporty touch? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's sweater? | Yellow. |
+| What | What type of shoes is the woman wearing? | White sneakers. |
+| How | How is the woman's skirt styled? | Highwaisted. |
+| What | What does the woman's pose convey? | Relaxation and confidence. |

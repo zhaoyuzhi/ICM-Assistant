@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue underwear? | Yes. |
+| Yes/No | Is the person in the image sitting on a white bed? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| How | Does the image showcase the person's lower body in a close-up shot? | Yes. |
+| What | What is the color of the underwear the person is wearing? | Blue. |
+| What | What is the color of the bed and curtain in the background? | White. |
+| How | How is the person's lower body exposed in the image? | The person's legs are crossed, and their lower body is visible. |
+| How | How does the image create a sense of intimacy and allure? | The closeup shot of the person's lower body, the contrast between the blue underwear and the white bed and curtain, and the intimate pose create a sense of intimacy and allure. |

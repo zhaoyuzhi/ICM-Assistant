@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and yellow striped shirt? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a display of teddy bears? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and playful? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the woman and the teddy bears, rather than on her appearance? | Yes. |
+| What | What is the woman in the image wearing? | A black and yellow striped shirt. |
+| What | What is the woman in the image standing in front of? | A display of teddy bears. |
+| How | How would you describe the overall atmosphere of the image? | Lighthearted and fun. |
+| How | How would you describe the exposure level of the image? | Low. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Is the woman in the image wearing blue shorts? | Yes. |
+| Yes/No | Is the woman in the image holding a brown purse? | Yes. |
+| Yes/No | Is the woman in the image looking off to the side? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual? | Yes. |
+| Yes/No | Is the overall atmosphere of the image confident? | Yes. |
+| What | What is the woman in the image holding in her left hand? | A brown purse. |
+| What | What is the color of the woman's shorts? | Blue. |
+| How | How is the woman in the image standing? | With her left hand on her hip and looking off to the side. |
+| How | How would you describe the woman's pose in the image? | Confident and alluring. |

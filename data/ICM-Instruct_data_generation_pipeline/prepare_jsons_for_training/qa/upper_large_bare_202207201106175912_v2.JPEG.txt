@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini two-piece? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the Beach sunny? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's bikini top? | Pink. |
+| What | What color is the woman's bikini bottom? | Red. |
+| How | How is the woman posing in the image? | With her arms raised above her head. |
+| What | What might be the reason for the woman's pose in the image? | To show off her outfit or enjoy the sunny weather. |

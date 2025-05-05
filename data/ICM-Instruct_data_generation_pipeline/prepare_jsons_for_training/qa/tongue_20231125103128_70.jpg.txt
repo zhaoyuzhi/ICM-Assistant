@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman wearing red lipstick? | Yes. |
+| Yes/No | Is the woman sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have a relaxed facial expression? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the image a close-up of the woman's face? | Yes. |
+| What | What color is the woman's lipstick? | Red. |
+| What | What is the woman doing with her tongue? | Sticking it out. |
+| How | How does the woman's expression contribute to the image's atmosphere? | It adds to the overall sexy atmosphere by being relaxed and inviting. |
+| How | How does the close-up nature of the image enhance the image's atmosphere? | It allows the viewer to focus on the woman's facial features and expressions, further enhancing the sexy atmosphere. |

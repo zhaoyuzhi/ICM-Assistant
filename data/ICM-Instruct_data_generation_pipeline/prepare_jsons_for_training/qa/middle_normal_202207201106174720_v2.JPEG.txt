@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the person have a back pocket on their jeans? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| How | Does the image show any explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the person's clothing? | Yes. |
+| What | What is the color of the person's jeans? | Blue. |
+| What | What is the atmosphere of the image? | Casual and simple. |
+| How | How is the person's privacy respected in the image? | The low angle and low exposure level create a sense of modesty and respect for the person's privacy. |
+| How | How would you describe the overall mood of the image? | The overall mood of the image is modest and respectful. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the jeans well-fitted? | Yes. |
+| Yes/No | Is the belt matching the color of the jeans? | Yes. |
+| Yes/No | Is the shirt a casual style? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the color of the jeans? | Blue. |
+| What | What is the style of the shirt? | Casual. |
+| How | How is the person standing in the image? | With their back to the camera. |
+| How | How does the low exposure level of the image emphasize the atmosphere of the scene? | It emphasizes the casual and everyday nature of the scene. |

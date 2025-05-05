@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person's mouth slightly open? | Yes. |
+| Yes/No | Are their lips red? | Yes. |
+| Yes/No | Is their chin slightly tucked in? | Yes. |
+| Yes/No | Does the person have a neutral facial expression? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the red lipstick add a vibrant and bold color to the image? | Yes. |
+| What | What color is the person's lipstick? | Red. |
+| What | What facial feature does the image focus on? | Mouth and chin area. |
+| How | How is the person's mouth positioned? | Slightly open. |
+| How | How is the person's chin positioned? | Slightly tucked in. |

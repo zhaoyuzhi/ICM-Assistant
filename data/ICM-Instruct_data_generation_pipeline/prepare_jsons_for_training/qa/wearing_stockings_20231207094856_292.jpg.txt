@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the stockings being worn by the person black? | Yes. |
+| Yes/No | Is the surface that the person's foot is on black? | Yes. |
+| Yes/No | Are there flowers in the vase in the background? | Yes. |
+| Yes/No | Does the image create a sense of mystery? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the dress being worn by the person in the image? | Black. |
+| How | How does the image create a sense of elegance and sophistication? | The image creates a sense of elegance and sophistication through the use of black and the presence of a vase with flowers in the background. |
+| How | How does the image create a sense of intimacy and vulnerability? | The image creates a sense of intimacy and vulnerability through the person's actions of putting on stockings, which suggests a sense of exposure and vulnerability. Additionally, the overall atmosphere of the image is seductive and alluring, which can contribute to the perception of intimacy and vulnerability. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the stockings black? | Yes. |
+| Yes/No | Is the surface the person is standing on black? | Yes. |
+| Yes/No | Are there flowers in the background? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the person's attire and actions suggest intimacy and vulnerability? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the vase in the background? | Black. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The black dress and stockings create a sense of mystery and allure, contributing to the seductive and alluring atmosphere of the image. |
+| How | How does the image suggest intimacy and vulnerability? | The person's actions of putting on stockings suggest a sense of intimacy and vulnerability, which can be perceived as sexy. |

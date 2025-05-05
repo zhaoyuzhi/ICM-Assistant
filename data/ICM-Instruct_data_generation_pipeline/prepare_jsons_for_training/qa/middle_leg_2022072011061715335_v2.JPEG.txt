@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman in the image carrying a black purse? | Yes. |
+| Yes/No | Is the woman in the image wearing a watch on her left wrist? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Does the image suggest that the woman is moving or taking an action? | No. |
+| What | What is the color of the woman's top? | White. |
+| What | What is the woman carrying in her hand? | A black purse. |
+| How | How is the woman's skirt torn? | The skirt is torn at the knees. |
+| How | How does the woman carry herself in the image? | Confidently. |

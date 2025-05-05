@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting? | Yes. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| Yes/No | Is the woman looking down in the image? | Yes. |
+| Yes/No | Does the image feature any other people aside from the woman? | No. |
+| Yes/No | Is the couch in the image white? | Yes. |
+| What | What is the woman wearing on her feet in the image? | Black heels. |
+| What | What is the color of the couch in the image? | White. |
+| How | How is the woman's pose in the image? | Sensual and alluring. |
+| How | How does the contrast between the woman's dress and heels and the white couch enhance the visual impact of the image? | It creates a striking visual contrast that draws the viewer's attention to the woman, making the image sexier. |

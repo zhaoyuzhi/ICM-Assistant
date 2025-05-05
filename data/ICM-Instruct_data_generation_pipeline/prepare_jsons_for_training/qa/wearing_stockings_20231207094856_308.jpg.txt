@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray skirt? | Yes. |
+| Yes/No | Are the black stockings being pulled up? | No. |
+| Yes/No | Is the person lying on a bed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person have their legs bent at the knees? | Yes. |
+| Yes/No | Is the beige stocking being pulled up? | Yes. |
+| What | What color is the skirt the person is wearing? | Gray. |
+| What | What is the person doing with their stockings? | Putting them on. |
+| How | How are the person's legs positioned in the image? | Bent at the knees. |
+| How | How does the image capture a moment of intimacy and vulnerability? | The person is in a state of undress, and the act of putting on stockings can be seen as an intimate and vulnerable activity. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the black stockings being pulled up? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the person's hair visible in the image? | No. |
+| Yes/No | Is the person's body fully covered in the image? | No. |
+| What | What color are the black stockings? | Black. |
+| What | What is the person doing in the image? | Putting on beige stockings. |
+| How | How are the beige stockings being pulled up? | They are being pulled up over the person's legs. |
+| How | How does the person's pose on the bed contribute to the atmosphere of the image? | The person's pose on the bed suggests a sense of relaxation and comfort. |

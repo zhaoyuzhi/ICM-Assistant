@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image clothed? | Yes. |
+| Yes/No | Does the image contain explicit nudity? | No. |
+| Yes/No | Is the atmosphere of the image formal or casual? | Casual. |
+| Yes/No | Does the image take place indoors? | Yes. |
+| Yes/No | Does the person in the image have any visible tattoos or piercings? | No. |
+| Yes/No | Is the person in the image smiling or expressionless? | Expressionless. |
+| What | What is the person in the image holding in their right hand? | A glass of water. |
+| What | What is the color of the sweatshirt the person is wearing? | Black with a white and black pattern. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| How | On a scale of 1-5, how sexy is the image? | 2 (mildly sexy). |
+| Yes/No | Is the man in the image wearing a black sweatshirt? | Yes. |
+| Yes/No | Is the living room furnished with a white couch and coffee table? | Yes. |
+| Yes/No | Is the man standing in front of the couch and coffee table? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the man's clothes and the living room setting provocative or suggestive? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and casual? | Yes. |
+| What | What is the man wearing on his lower body? | Black pants. |
+| What | What is the color of the man's sweatshirt? | Black with a white and black pattern. |
+| How | How is the man positioned in relation to the couch and coffee table? | He is standing in front of them. |
+| How | How would you describe the exposure level of the image? | Low. |

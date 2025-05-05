@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra black? | Yes. |
+| Yes/No | Does the bra have a lace trim? | Yes. |
+| Yes/No | Are the straps of the bra thin? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Are the person's arms placed on their shoulders? | Yes. |
+| What | What is the color of the bra? | Black. |
+| What | What is the person's pose in the image? | Standing with arms on shoulders. |
+| How | How does the person's attire contribute to the image's allure? | The black bra with lace trim and thin straps reveals a significant amount of the person's back, which is an area that is often associated with sensuality and allure. |
+| How | How does the person's pose contribute to the image's allure? | The person's pose, with their arms on their shoulders, adds to the overall allure by accentuating their posture and creating a sense of confidence. |

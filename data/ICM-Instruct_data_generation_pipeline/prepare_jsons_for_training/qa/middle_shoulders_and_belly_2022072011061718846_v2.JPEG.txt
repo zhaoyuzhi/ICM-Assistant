@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a top? | Yes. |
+| Yes/No | Are her jeans tight? | Yes. |
+| Yes/No | Is her midriff exposed? | Yes. |
+| Yes/No | Is she looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's posture in the image? | Confident, with her hands resting on her hips. |
+| What | What is the overall atmosphere of the image? | Bold and confident. |
+| How | How does the woman's direct gaze at the camera contribute to the image's sexiness? | It suggests a sense of selfassuredness and confidence, which is often associated with sexy imagery. |
+| How | How do the tight jeans and fitted top reveal her midriff? | They accentuate her waistline and showcase her midriff in a way that is commonly associated with sexy images. |
+| Yes/No | Is the woman in the image wearing a top? | Yes. |
+| Yes/No | Are the woman's jeans tight? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Is the woman's posture confident? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the woman's jeans? | Blue. |
+| What | What is the woman's posture in the image? | Hands on hips. |
+| How | How are the woman's jeans fitting her body? | Tightly. |
+| How | How is the woman's top fitting her body? | Fitted. |

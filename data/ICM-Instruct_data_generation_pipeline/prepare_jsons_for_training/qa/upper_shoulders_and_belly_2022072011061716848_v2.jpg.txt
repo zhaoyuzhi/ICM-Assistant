@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman covering her ears with her hands? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive? | Yes. |
+| Yes/No | Does the image focus primarily on the woman's midriff? | Yes. |
+| What | What is the woman wearing in the image? | A midriffbaring strapless outfit. |
+| What | What is the woman doing with her hands in the image? | Covering her face, possibly her ears. |
+| How | How does the woman's pose in the image contribute to its overall atmosphere? | It adds to the intimate and sensual atmosphere, drawing attention to her body and outfit. |
+| How | How does the plain white background affect the image? | It puts the focus solely on the woman and her outfit, emphasizing its sensual nature. |

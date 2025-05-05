@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Is the woman in the image sitting on a bed? | Yes. |
+| Yes/No | Does the woman in the image have any revealing clothing on? | No. |
+| Yes/No | Is the atmosphere of the image calm and relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the woman in the image wearing on her legs? | Black tights. |
+| What | What is the woman in the image holding in her hand? | A phone. |
+| How | How is the woman's attire in the image? | Modest. |
+| What | What does the fact that the woman is sitting on a bed and holding a phone suggest about the setting of the image? | A casual and nonsexual setting. |

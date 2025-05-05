@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the woman's sleeves long? | Yes. |
+| Yes/No | Is the neckline of the dress high? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman's pose in the image? | Standing with hands on hips. |
+| How | How long is the woman's dress? | Long and flowing. |
+| How | How would you describe the overall atmosphere of the image? | Elegant and refined. |

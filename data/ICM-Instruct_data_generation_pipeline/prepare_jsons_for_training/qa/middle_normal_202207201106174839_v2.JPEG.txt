@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person in the image have a hole in the back pocket of their jeans? | Yes. |
+| Yes/No | Is the person in the image standing with their back to the camera? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the focus of the image? | The focus of the image is on the jeans and the person's stance. |
+| What | What is the mood of the image? | The mood of the image is casual and relaxed. |
+| How | How does the low exposure level contribute to the overall atmosphere of the image? | The low exposure level contributes to the overall atmosphere of the image by emphasizing the focus on the jeans and the person's posture rather than their physical appearance. |
+| How | How does the image highlight the casual and relaxed style of the jeans and the person's stance? | The image highlights the casual and relaxed style of the jeans and the person's stance by featuring a person wearing jeans with a hole in the back pocket, standing with their back to the camera, and having a low exposure level. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person have a hole in the back pocket of their jeans? | Yes. |
+| Yes/No | Are the jeans frayed? | Yes. |
+| Yes/No | Is the person wearing a red shirt? | Yes. |
+| Yes/No | Is the image sexually suggestive or provocative? | No. |
+| Yes/No | Does the image contain any elements that suggest a sexual context or intimate situation? | No. |
+| What | What color are the jeans? | Blue. |
+| What | What color is the person's shirt? | Red. |
+| How | How would you describe the atmosphere of the image? | Casual and relaxed. |
+| How | How does the low exposure level contribute to the image's atmosphere? | It emphasizes the casual and relaxed nature of the image, rather than a sensual or provocative one. |

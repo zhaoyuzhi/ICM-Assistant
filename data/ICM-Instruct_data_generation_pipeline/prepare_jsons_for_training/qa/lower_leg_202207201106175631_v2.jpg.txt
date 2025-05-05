@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of black boots? | Yes. |
+| Yes/No | Does the person have a distinctive cutout pattern on their boots? | Yes. |
+| Yes/No | Is the person wearing a black belt? | Yes. |
+| Yes/No | Is the person wearing a black skirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's feet resting on a stool? | Yes. |
+| What | What color are the boots the person is wearing? | Black. |
+| What | What is the color of the person's skirt? | Black. |
+| How | How many objects are in the image? | 3 (person, stool, boots). |
+| How | How does the person's attire and pose contribute to the overall atmosphere of the image? | The combination of the person's attire (black boots, black belt, black skirt) and their pose (crossed legs, feet resting on a stool) contribute to a seductive and alluring atmosphere, drawing attention to the person's style and confidence. |

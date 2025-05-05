@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the bra black? | Yes. |
+| Yes/No | Does the bra have a lace trim? | Yes. |
+| Yes/No | Is the woman posing with her hands on her hips? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| What | What color is the bra? | Black. |
+| What | What is the woman wearing on her legs? | Thighhigh stocking. |
+| How | How is the woman posing in the image? | With her hands on her hips and her head tilted back. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the woman and her attire, making the image more provocative. |

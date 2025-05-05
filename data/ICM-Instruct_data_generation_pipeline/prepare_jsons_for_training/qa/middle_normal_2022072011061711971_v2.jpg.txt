@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's arms crossed in the image? | Yes. |
+| Yes/No | Is the person's head tilted to the side in the image? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the person's attire revealing or suggestive? | No. |
+| What | What color are the person's shorts? | Olive green. |
+| What | What is the person's headwear? | Black backpack. |
+| How | How is the person standing in the image? | With arms crossed and head tilted to the side. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and nonthreatening. |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are they wearing green shorts? | Yes. |
+| Yes/No | Is the person's face visible in the photo? | No. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| Yes/No | Is the person wearing a black backpack? | Yes. |
+| Yes/No | Are they wearing sneakers? | Yes. |
+| What | What is the color of the person's shorts? | Green. |
+| What | What is the color of the background? | Gray. |
+| How | How is the person's attire in the image? | Casual and comfortable. |
+| How | How does the low exposure level of the image affect the focus of the photo? | It emphasizes the person's clothing and the overall atmosphere, rather than any potential sexual content. |

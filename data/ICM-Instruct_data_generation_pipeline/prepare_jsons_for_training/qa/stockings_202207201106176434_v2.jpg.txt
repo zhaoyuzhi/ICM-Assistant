@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a blue and white striped shirt? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Are the person's feet resting on the bed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image evoke a sense of desire and intrigue? | Yes. |
+| What | What is the person in the image wearing on their feet? | Black stockings. |
+| What | What is the color of the person's shirt in the image? | Blue and white striped. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How are the person's feet resting on the bed in the image? | Resting. |

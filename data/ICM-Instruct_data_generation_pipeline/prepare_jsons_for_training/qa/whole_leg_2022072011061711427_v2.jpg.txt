@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts she is wearing blue? | Yes. |
+| Yes/No | Does the t-shirt have the word "LEXINGTON" written on it? | Yes. |
+| Yes/No | Is the woman's pose in the image confident and relaxed? | Yes. |
+| Yes/No | Are her hands resting on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the shorts? | Blue. |
+| What | What is written on the woman's t-shirt? | LEXINGTON. |
+| How | How are the shorts fastened? | With a drawstring waist. |
+| How | How does the woman's gaze direct her attention? | It is directed straight at the camera, engaging the viewer directly. |

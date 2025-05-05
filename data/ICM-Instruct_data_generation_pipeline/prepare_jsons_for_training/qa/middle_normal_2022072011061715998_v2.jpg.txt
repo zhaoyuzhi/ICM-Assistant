@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts black? | Yes. |
+| Yes/No | Does the man have a tropical print on his shorts? | Yes. |
+| Yes/No | Is the man's pose neutral? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the man's attire in the image? | A white tshirt and black shorts with a tropical print. |
+| What | What is the overall atmosphere of the image? | Simple and straightforward. |
+| How | How is the man posing in the image? | Neutrally, looking directly at the camera. |
+| How | How would you describe the focus of the image? | On the man and his clothing. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts black and white with a floral pattern? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the image explicit or suggestive? | No. |
+| Yes/No | Does the image contain any inappropriate or offensive content? | No. |
+| What | What is the man's pose in the image? | Neutral. |
+| What | What is the focus of the image? | The man's clothing. |
+| How | How does the man's attire contribute to the overall atmosphere of the image? | The neutral attire and lack of explicit or suggestive content contribute to a simple and unassuming atmosphere. |
+| How | How does the white background affect the image? | The white background emphasizes the subject and clothing, drawing attention away from any potential innuendo and adding to the overall simplicity of the image. |

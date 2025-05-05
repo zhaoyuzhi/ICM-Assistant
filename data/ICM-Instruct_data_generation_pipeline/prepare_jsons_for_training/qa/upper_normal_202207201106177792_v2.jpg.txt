@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the woman wearing a pearl necklace? | Yes. |
+| Yes/No | Are the earrings white? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image lack any explicit or suggestive elements? | Yes. |
+| What | What is the woman's attire composed of? | A white blouse and a pearl necklace. |
+| What | What is the color of the earrings? | White. |
+| How | How many pearls are on the necklace? | Multiple. |
+| How | How is the necklace attached to the woman's neck? | With a gold chain. |

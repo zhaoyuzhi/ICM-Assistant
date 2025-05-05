@@ -1,0 +1,13 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the dress flowing? | Yes. |
+| Yes/No | Is the dress made of a light, flowing fabric? | Yes. |
+| Yes/No | Is the woman standing on a bed? | Yes. |
+| Yes/No | Does the woman have her arms outstretched? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| What | What is the woman lifting in the image? | Her dress. |
+| What | What can be inferred about the woman's confidence level in the image? | She appears confident. |
+| How | How is the woman standing on the bed? | She is standing with her arms outstretched and her head tilted back. |
+| How | How does the woman's attire and actions create a sense of allure in the image? | Her actions and attire create a sense of confidence and allure, adding to her overall allure. |

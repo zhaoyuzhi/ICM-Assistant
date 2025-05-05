@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person taking off their clothes? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Are the person's actions and attire considered sexy? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Does the blue shirt and white underwear suggest vulnerability and openness? | Yes. |
+| What | What is the person wearing? | Blue shirt and white underwear. |
+| What | What is the focus of the image? | The person's actions and attire. |
+| How | How is the person taking off their clothes? | N/A (image does not show this detail). |
+| How | How does the white wall in the background affect the image? | It provides a stark contrast to the person's attire, further emphasizing the focus on the person and their actions. |

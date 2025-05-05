@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of navy blue sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a gray t-shirt? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the person in the image standing with their hands in their pockets? | Yes. |
+| Yes/No | Is the image a close-up shot of the person's face or body? | No. |
+| Yes/No | Does the image have a high exposure level, revealing a large portion of the person's body? | No. |
+| What | What is the color of the logo on the person's sweatpants? | White. |
+| What | What is the dominant color of the person's t-shirt? | Gray. |
+| How | How would you describe the person's pose in the image? | Casual, relaxed. |
+| How | How would you describe the atmosphere of the image? | Calm, relaxed. |
+| Yes/No | Is the person in the image wearing a pair of navy blue sweatpants? | Yes. |
+| Yes/No | Does the logo on the sweatpants appear on the left leg? | Yes. |
+| Yes/No | Is the gray t-shirt worn by the person in the image? | Yes. |
+| How | Does the image show the person's face? | No. |
+| Yes/No | Is the image sexually suggestive or provocative? | No. |
+| Yes/No | Does the person in the image have a drawstring waist? | Yes. |
+| What | What color are the sweatpants? | Navy blue. |
+| What | What is the color of the t-shirt? | Gray. |
+| How | How is the person's waist adjusted in the sweatpants? | With a drawstring. |
+| What | What is the focus of the image? | The person's torso and waist area. |

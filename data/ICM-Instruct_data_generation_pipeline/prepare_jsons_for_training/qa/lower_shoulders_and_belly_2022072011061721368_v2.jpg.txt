@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the woman in the image holding a phone in her right hand? | Yes. |
+| Yes/No | Is the woman in the image standing in a room with a white floor? | Yes. |
+| Yes/No | Is the woman in the image standing in a room with a white wall in the background? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image holding in her right hand? | A phone. |
+| What | What color are the leggings the woman in the image is wearing? | Blue. |
+| How | How is the woman in the image standing? | With her left hand on her hip and her right hand holding a phone. |
+| How | How does the image create a sense of intimacy and allure? | The woman is looking down at her phone while standing in a room with a white floor and wall, creating a sense of privacy and closeness. |

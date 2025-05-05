@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman in the image holding a tube of cream? | Yes. |
+| Yes/No | Is the woman in the image applying the cream to her belly? | Yes. |
+| Yes/No | Does the image suggest a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Does the image emphasize the woman's form and skin details? | Yes. |
+| What | What is the woman using the tube of cream for? | For a beauty or skincare purpose. |
+| What | What is the overall atmosphere of the image? | Intimate and alluring. |
+| How | How is the woman applying the cream to her belly? | The woman is applying the cream to her belly in a gentle, circular motion. |
+| How | How does the close-up perspective of the image emphasize the woman's form and skin details? | The closeup perspective of the image emphasizes the woman's form and skin details by highlighting the texture and contours of her skin, and creating a sense of depth and intimacy. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman in the image holding a tube of cream? | Yes. |
+| Yes/No | Is the tube of cream white with a red cap and a purple label? | Yes. |
+| Yes/No | Is the woman in the process of applying the cream to her belly? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman applying to her belly? | Cream. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How is the woman holding the tube of cream? | In her hand. |
+| How | How does the image convey a sense of intimacy and vulnerability? | Through the closeup perspective and the woman's exposed belly. |

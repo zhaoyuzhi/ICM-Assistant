@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the woman have a drawstring at the waist of her shorts? | Yes. |
+| Yes/No | Is the woman holding the drawstring with her left hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image feature a wicker chair in the background? | Yes. |
+| What | What is the woman wearing on her lower body? | Brown cropped shorts. |
+| What | What is the woman wearing on her upper body? | A white top. |
+| How | How is the woman's pose in the image? | Casual and relaxed. |
+| How | How does the image make you feel? | Evocative of a sense of allure. |

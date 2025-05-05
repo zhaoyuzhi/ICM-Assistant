@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the woman facing the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Are the jeans loose-fitting? | Yes. |
+| Yes/No | Do the jeans have a frayed hem? | Yes. |
+| What | What is the woman wearing on her feet? | White sneakers. |
+| What | What is the color of the woman's top? | Black. |
+| How | How is the woman standing in the room? | She is standing with her feet shoulderwidth apart, facing the camera. |
+| How | How is the room lit? | The room appears to be welllit, with no apparent shadows or dark spots. |

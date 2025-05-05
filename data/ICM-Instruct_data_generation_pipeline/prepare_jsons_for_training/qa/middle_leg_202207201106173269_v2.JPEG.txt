@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the person's thighs exposed in the image? | Yes. |
+| Yes/No | Is the contrast between the black clothing and the skin visually striking? | Yes. |
+| What | What color is the skirt? | Black. |
+| What | What is the design of the skirt? | Slit on the left side. |
+| How | How does the slit on the skirt contribute to the overall atmosphere of the image? | It adds an element of intrigue and allure. |
+| How | How does the contrast between the black clothing and the skin create a visually striking image? | It draws attention to the person's body and the overall atmosphere of the picture. |

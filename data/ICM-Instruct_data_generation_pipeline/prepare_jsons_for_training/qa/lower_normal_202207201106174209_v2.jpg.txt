@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing black? | Yes. |
+| Yes/No | Is the floor in the image white? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Are there any provocative elements in the image? | No. |
+| Yes/No | Does the image focus on the man's lower body? | No. |
+| What | What is the man wearing on his feet? | White shoes. |
+| What | What is the color of the wall in the background? | Gray. |
+| How | How is the man's attire in the image? | Simple and modest. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonthreatening. |

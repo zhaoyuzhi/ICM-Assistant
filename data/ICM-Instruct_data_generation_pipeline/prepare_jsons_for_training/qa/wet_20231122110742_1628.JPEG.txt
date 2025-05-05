@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman's shirt open? | Yes. |
+| Yes/No | Is the woman wearing a black bra? | Yes. |
+| Yes/No | Is the woman's hair held back? | Yes. |
+| Yes/No | Is the woman's right hand placed on her hip? | Yes. |
+| Yes/No | Are the woman's pants white? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What is the color of the woman's bra? | Black. |
+| How | How is the woman's hair styled? | She is holding her hair back with her left hand. |
+| How | How is the woman's right hand positioned? | Placed on her hip. |

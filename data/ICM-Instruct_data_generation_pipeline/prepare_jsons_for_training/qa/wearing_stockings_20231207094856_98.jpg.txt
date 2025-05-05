@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing blue jean shorts? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are black stockings often associated with a sensual and alluring appearance? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person in the image sitting on? | A bed. |
+| How | How are black stockings associated with a sensual and alluring appearance? | They are often seen as a symbol of sexuality and can create a seductive look when worn. |
+| How | How does the image contribute to an atmosphere that is both alluring and intimate? | The combination of the person wearing black stockings, sitting on a bed, and the white blanket creates a setting that is both relaxing and sensual. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing blue jean shorts? | Yes. |
+| Yes/No | Is the image atmospheric? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person in the image wearing on their lower body? | Blue jean shorts. |
+| How | How is the person in the image sitting on the bed? | The person is sitting on the bed with their legs crossed. |
+| How | How do black stockings contribute to the image's atmosphere? | They contribute to the image's sexy and alluring atmosphere. |

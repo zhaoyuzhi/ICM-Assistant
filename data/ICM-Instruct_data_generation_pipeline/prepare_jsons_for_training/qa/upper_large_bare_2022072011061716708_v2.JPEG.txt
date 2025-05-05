@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image standing on a beach? | Yes. |
+| Yes/No | Is the woman in the image hatless? | No. |
+| Yes/No | Does the image depict a sunny day? | No. |
+| Yes/No | Is the woman in the photo looking directly at the camera? | No. |
+| Yes/No | Does the woman in the image have any piece of clothing covering her lower body? | No. |
+| What | What is the color of the woman's bikini? | White. |
+| What | What is the color of the woman's hat? | White. |
+| How | How many pieces are the woman's attire? | Two. |
+| How | How many colors can be seen in the image? | Four (white, skin tone, blue sky, and sand). |

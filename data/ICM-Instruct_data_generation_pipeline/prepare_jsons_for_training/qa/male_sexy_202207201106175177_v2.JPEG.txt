@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the man's attire in the image casual? | No. |
+| Yes/No | Does the image contain any objects other than the man? | No. |
+| Yes/No | Is the man's pose in the image suggestive? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| What | What is the man wearing in the image? | A pair of navy blue boxer briefs with a pattern on them. |
+| What | What is the man's attitude in the image? | Relaxed and confident. |
+| How | How are the man's arms positioned in the image? | Relaxed at his sides. |
+| How | How are the man's legs positioned in the image? | Slightly apart. |

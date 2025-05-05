@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the motorcycle parked in front of a brick wall? | Yes. |
+| Yes/No | Is the woman wearing revealing clothing? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the woman have a suggestive pose? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What is the woman wearing in the image? | A gray sweater. |
+| What | What is the background of the image? | A brick wall. |
+| How | How is the woman sitting on the motorcycle? | She is sitting with a casual and friendly demeanor. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It adds a nonsexual element to the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's clothes soaked? | Yes. |
+| Yes/No | Is the man standing in front of a fountain? | Yes. |
+| Yes/No | Is the fountain spraying water? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Is the image alluring? | Yes. |
+| What | What is the man looking at? | The water spraying from the fountain. |
+| What | What is the overall atmosphere of the image? | Sensual and alluring. |
+| How | How is the man's hair? | Wet. |
+| How | How is the man's appearance? | Sexy. |

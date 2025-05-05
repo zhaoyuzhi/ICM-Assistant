@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing black heels? | Yes. |
+| Yes/No | Is the person's body facing the camera? | Yes. |
+| Yes/No | Is the person's head turned away from the camera? | Yes. |
+| Yes/No | Is the bed white? | Yes. |
+| Yes/No | Is the bed made? | Yes. |
+| What | What color are the person's stockings? | Black. |
+| What | What type of shoes is the person wearing? | Black heels. |
+| How | How is the person's body positioned on the bed? | The person is lying on their back with their legs crossed. |
+| How | How would you describe the overall atmosphere of the image? | Intimate and sensual. |

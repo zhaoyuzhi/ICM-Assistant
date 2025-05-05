@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are they wearing shorts? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the person have any other clothes on besides the shirt and shorts? | No. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Does the person have footwear on? | Yes. |
+| How | How is the person standing in the image? | They are standing in a relaxed pose with their arms resting at their sides. |
+| What | What color are the sneakers that the person is wearing? | The sneakers are white. |
+| What | What color is the person's attire? | The person's attire is white. |
+| What | What is the focal point of the image? | The focal point of the image is the person's nakedness, emphasized by the contrasting colors and the plain background. |

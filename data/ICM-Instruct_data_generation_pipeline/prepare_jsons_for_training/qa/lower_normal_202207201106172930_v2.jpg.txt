@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the woman in the image wearing sandals? | Yes. |
+| Yes/No | Is the woman in the image the main focus of the image? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman's exposure level high in the image? | No. |
+| Yes/No | Does the image contain any inappropriate or offensive content? | No. |
+| What | What is the woman wearing in the image? | A white dress and brown sandals. |
+| What | What is the overall atmosphere of the image? | Calm and relaxed. |
+| How | How is the woman positioned in the image? | She is sitting on the gray floor. |
+| What | What is the focus of the image? | The woman's outfit and the overall atmosphere of the scene. |

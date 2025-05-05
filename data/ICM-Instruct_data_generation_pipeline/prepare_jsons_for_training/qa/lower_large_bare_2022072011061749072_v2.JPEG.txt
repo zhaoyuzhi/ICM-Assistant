@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Is the person wearing white underwear? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's feet resting on the bed? | Yes. |
+| Yes/No | Is the person's lower body exposed? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the color of the sheets? | White. |
+| What | What is the color of the person's underwear? | White. |
+| How | How are the person's legs positioned? | Bent at the knees and crossed. |
+| How | How does the image evoke feelings? | Sensuality and allure. |

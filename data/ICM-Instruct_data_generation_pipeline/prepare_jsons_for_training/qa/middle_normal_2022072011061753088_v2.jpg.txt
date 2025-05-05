@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a jumpsuit? | Yes. |
+| Yes/No | Is the jumpsuit tight-fitting? | No. |
+| Yes/No | Are the woman's hands resting on her hips? | No. |
+| Yes/No | Is the image high-key? | No. |
+| Yes/No | Does the image feature bright lights or dramatic shadows? | No. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the woman's pose in the image? | Neutral. |
+| What | What is the focus of the image? | The woman's outfit and overall appearance, rather than her physical attributes. |
+| How | How is the woman's jumpsuit tied at the waist? | With a tie. |
+| How | How does the low-key lighting contribute to the image's atmosphere? | It contributes to the overall calm and serene atmosphere, which is not typically associated with sexy images. |
+| Yes/No | Is the woman in the image wearing a jumpsuit? | Yes. |
+| Yes/No | Is the jumpsuit tight-fitting? | No. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the atmosphere of the image calm and composed? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman's pose modest? | Yes. |
+| What | What is the woman's attire in the image? | A beige jumpsuit with a tie at the waist. |
+| What | What is the woman's pose in the image? | Relaxed, with her hands resting on her hips. |
+| How | How does the woman's attire contribute to the image's atmosphere? | The loosefitting jumpsuit and tie at the waist add a touch of elegance and contribute to the calm and composed atmosphere. |
+| How | How does the woman's pose contribute to the image's atmosphere? | The woman's relaxed pose and hands resting on her hips suggest confidence and selfassuredness, which contributes to the overall calm and composed atmosphere of the image. |

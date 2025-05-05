@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing sneakers? | Yes. |
+| Yes/No | Is the person in the image holding a phone? | Yes. |
+| Yes/No | Is the background of the image a pink and white checkered pattern? | Yes. |
+| Yes/No | Is the person in the image dressed in casual attire? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| What | What is the color of the sneakers? | White and green. |
+| What | What is the person in the image wearing on their upper body? | Gray sweatshirt. |
+| How | How is the person in the image positioned on the bed? | Sitting. |
+| How | How would you describe the person's movements in the image? | Relaxed. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a gray shirt? | Yes. |
+| Yes/No | Does the graphic on the shirt depict a person? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Are the person's thighs exposed in the image? | Yes. |
+| Yes/No | Does the image convey a sexy feel? | Yes. |
+| What | What is the person carrying in their hand? | A black purse. |
+| What | What is the length of the skirt? | Above the knees. |
+| How | How does the person's attire contribute to the overall feel of the image? | The black skirt and gray shirt create a casual and relaxed atmosphere, while the exposed thighs add a sexy feel. |
+| How | How does the image convey confidence and allure? | The person's outfit, specifically the black skirt, and the casual and relaxed atmosphere of the image convey confidence and allure. |

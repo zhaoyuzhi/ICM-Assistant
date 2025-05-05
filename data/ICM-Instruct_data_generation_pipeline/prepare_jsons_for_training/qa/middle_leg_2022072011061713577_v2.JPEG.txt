@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the blouse white? | Yes. |
+| Yes/No | Does the blouse have a ruffled collar? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the skirt? | Black. |
+| What | What is the pattern on the blouse? | Floral. |
+| How | How is the woman standing? | With her hands on her hips and her head slightly tilted to the side. |
+| How | How does the image make you feel? | Seductive and alluring. |

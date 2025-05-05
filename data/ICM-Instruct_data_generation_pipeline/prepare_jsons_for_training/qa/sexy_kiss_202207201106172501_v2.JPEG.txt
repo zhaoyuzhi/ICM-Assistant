@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the woman wearing a black jacket? | Yes. |
+| Yes/No | Does the man have a black shirt? | Yes. |
+| Yes/No | Is the woman's hair in a ponytail? | Yes. |
+| Yes/No | Is the background of the image a body of water? | Yes. |
+| What | What is the woman wearing? | A black jacket. |
+| What | What is the man wearing? | A black shirt. |
+| How | How are the couple standing in relation to each other? | Close to each other, with the woman's arms wrapped around the man's neck. |
+| How | How does the background of the image contribute to the overall mood of the photo? | The body of water and bridge in the background create a serene and picturesque atmosphere, adding to the romantic and adventurous feel of the image. |

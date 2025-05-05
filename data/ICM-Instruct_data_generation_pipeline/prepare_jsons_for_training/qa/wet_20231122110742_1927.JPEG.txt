@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's clothes wet? | Yes. |
+| Yes/No | Is the man standing in front of a red and blue mat? | Yes. |
+| Yes/No | Is the man reaching out with his left hand? | Yes. |
+| Yes/No | Does the image evoke feelings of relaxation and comfort? | Yes. |
+| Yes/No | Does the image create a sense of energy and excitement? | Yes. |
+| What | What is the man in the image reaching out for? | cannot be determined from the description. |
+| What | What is the color of the man's pants? | Black. |
+| How | How is the man standing in front of the mat? | Standing. |
+| How | How does the image create a sense of energy and excitement? | through the use of vibrant colors and the man's pose. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a gray shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the two people in the image kissing? | Yes. |
+| Yes/No | Does the woman have her hand on the man's face? | Yes. |
+| Yes/No | Are the man's eyes closed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing in the image? | A gray shirt. |
+| What | What is the woman wearing in the image? | A black shirt. |
+| How | How is the woman's hand positioned in the image? | The woman's hand is on the man's face. |
+| How | How would you describe the overall atmosphere of the image? | Romantic and sensual. |

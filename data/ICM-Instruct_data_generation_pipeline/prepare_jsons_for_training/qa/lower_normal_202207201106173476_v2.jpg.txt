@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing sneakers? | Yes. |
+| Yes/No | Are the sneakers the main focus of the image? | Yes. |
+| Yes/No | Is the person wearing blue jeans? | Yes. |
+| Yes/No | Is the exposure level of the person low? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Are the sneakers typically associated with provocative or seductive imagery? | No. |
+| What | What is the person in the image wearing on their feet? | A pair of green and white sneakers. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How are the person's feet positioned in the image? | They are positioned in such a way that the sneakers are the main focus of the image. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |

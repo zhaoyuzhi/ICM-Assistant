@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the top worn by the person in the image cropped at the waist? | Yes. |
+| Yes/No | Does the person in the image have a silver chain draped over their belt? | Yes. |
+| Yes/No | Is the person's pose in the image confident and assertive? | Yes. |
+| Yes/No | Are the person's thighs exposed in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the color of the skirt worn by the person in the image? | Gray. |
+| What | What is the color of the top worn by the person in the image? | White. |
+| How | How is the person's belt fastened around their waist? | With a silver chain. |
+| How | How would you describe the person's pose in the image? | Confident and assertive, with their hand resting on their hip. |

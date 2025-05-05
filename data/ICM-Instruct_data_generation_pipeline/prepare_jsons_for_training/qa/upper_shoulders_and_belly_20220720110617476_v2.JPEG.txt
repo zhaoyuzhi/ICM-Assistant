@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| Yes/No | Does the image have a confident atmosphere? | Yes. |
+| What | What is the phrase written on the woman's t-shirt? | "Thank U Next". |
+| What | What is the overall mood of the image? | Casual and confident. |
+| How | How is the woman's head tilted in the image? | Slightly tilted to the side. |
+| How | How does the woman's outfit and pose suggest self-assuredness? | The cropped tshirt and blue jeans create a casual yet stylish look, while the hand on the hip and the tilt of the head add a confident and assertive vibe. |

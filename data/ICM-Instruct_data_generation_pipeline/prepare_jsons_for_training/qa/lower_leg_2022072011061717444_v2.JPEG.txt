@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the person wearing shorts? | Yes. |
+| Yes/No | Are the shorts green in color? | Yes. |
+| Yes/No | Is the person barefoot? | Yes. |
+| What | What is the person's pose in the image? | The person is standing with their legs apart and their hands on their hips. |
+| What | What is the color of the person's shorts? | The shorts are green in color. |
+| How | How does the person's pose contribute to the overall allure of the image? | The person's pose, with their hands on their hips, adds to the overall allure of the image by highlighting their body in a confident and uninhibited manner. |
+| How | How does the fact that the person is barefoot and wearing shorts contribute to the atmosphere of the image? | The fact that the person is barefoot and wearing shorts suggests a sense of freedom and comfort, which adds to the casual and relaxed atmosphere of the image. |

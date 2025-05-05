@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is there a man in the image? | Yes. |
+| Yes/No | Is there a woman in the image? | Yes. |
+| Yes/No | Is the man feeding the woman? | Yes. |
+| Yes/No | Does the woman have an ambiguous expression? | Yes. |
+| Yes/No | Is the advertisement suggestive? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man holding in his hand? | A black pen. |
+| What | What does the advertisement say? | "乖一点，想要什么都给你！" (Be good and I will give you whatever you want). |
+| How | How is the man feeding the woman? | The man is holding a piece of food in his hand and feeding it to the woman. |
+| How | How does the image create a sense of intrigue and desire? | The image creates a sense of intrigue and desire through the ambiguous expression of the woman, the suggestive nature of the advertisement, and the intimate and sensual mood created by the man feeding the woman. |

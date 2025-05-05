@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the boy wearing a striped shirt? | Yes. |
+| Yes/No | Is the girl wearing a denim jacket? | Yes. |
+| Yes/No | Are the boy and girl kissing each other? | Yes. |
+| Yes/No | Are the boy's arms wrapped around the girl? | Yes. |
+| Yes/No | Is the background of the image a sidewalk? | Yes. |
+| Yes/No | Are there plants in the background of the image? | Yes. |
+| What | What is the boy wearing? | A striped shirt. |
+| What | What is the girl wearing? | A denim jacket. |
+| How | How are the boy and girl standing in relation to each other? | They are standing close to each other, with the boy's arms wrapped around the girl. |
+| How | How does the image convey a sense of warmth, affection, and connection between the two individuals? | The image conveys a sense of warmth, affection, and connection between the two individuals through the tender and intimate moment captured between the boy and girl, their close proximity, and the emotional connection suggested by their kiss. The casual and relaxed vibe of the girl's denim jacket and the playfulness of the boy's striped shirt also contribute to the overall sense of warmth and connection in the image. |

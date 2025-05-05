@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the belt have two silver buckles on the front? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Are the jeans slightly wrinkled? | Yes. |
+| Yes/No | Is the woman looking downwards in the image? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What is the color of the belt? | Black. |
+| What | What is the woman's facial expression in the image? | Looking downwards. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the woman's belt have two silver buckles on the front? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman looking down in the image? | Yes. |
+| Yes/No | Are the jeans slightly wrinkled? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her feet shoulderwidth apart, with one hand on her hip and the other on her belt. |
+| What | What is the woman's facial expression in the image? | She is looking down and has a confident and selfassured expression. |
+| How | How does the woman's pose and exposed belly contribute to the image's sensuality? | The woman's confident pose and exposed belly create a sense of vulnerability and intimacy, which can be perceived as sexy by some viewers. |
+| How | How does the image's atmosphere contribute to its overall appeal? | The casual and relaxed atmosphere of the image, combined with the woman's confident pose, creates an inviting and seductive vibe that adds to its overall appeal. |

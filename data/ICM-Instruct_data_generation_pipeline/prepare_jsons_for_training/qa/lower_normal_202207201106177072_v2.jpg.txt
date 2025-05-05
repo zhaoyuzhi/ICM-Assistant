@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's arms resting at their sides? | Yes. |
+| Yes/No | Is the person wearing black pants? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Does the person have a neutral pose? | Yes. |
+| What | What is the person wearing on their feet? | White shoes. |
+| What | What is the color of the person's pants? | Black. |
+| How | How many parts of the person's body are visible in the image? | Torso and legs. |
+| What | What is the exposure level of the person in the image? | Low. |

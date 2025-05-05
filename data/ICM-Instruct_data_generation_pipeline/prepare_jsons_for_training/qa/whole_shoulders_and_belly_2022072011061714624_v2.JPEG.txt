@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sweatshirt? | Yes. |
+| Yes/No | Is the woman in the image wearing white sweatpants? | Yes. |
+| Yes/No | Is the woman in the image wearing a gold chain necklace? | Yes. |
+| Yes/No | Does the woman in the image have a confident pose? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman in the image have a direct gaze at the camera? | Yes. |
+| What | What color is the woman's sweatshirt? | Pink. |
+| What | What type of necklace is the woman wearing? | Gold chain. |
+| How | How is the woman's pose? | Confident. |
+| How | How does the woman's direct gaze at the camera contribute to the image's atmosphere? | It suggests that she is comfortable in her own skin and aware of her allure, adding to the sexy atmosphere. |

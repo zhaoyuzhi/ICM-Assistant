@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress transparent? | Yes. |
+| Yes/No | Are there lily pads visible in the background of the image? | Yes. |
+| Yes/No | Is the woman's hair wet? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the background of the image? | A pond with lily pads. |
+| How | How does the woman's wet hair contribute to the image's sexual suggestiveness? | It adds to the intimate and vulnerable atmosphere. |
+| How | How does the contrast between the woman's exposed appearance and the natural setting of the pond contribute to the image's visual appeal? | It creates a striking contrast that evokes sensuality and allure. |

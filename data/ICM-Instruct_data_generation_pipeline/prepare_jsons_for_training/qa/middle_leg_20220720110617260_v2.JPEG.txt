@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Are her legs slightly apart? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What color are the shorts? | Pink. |
+| What | What is the woman's body language suggesting? | Confidence and comfort in her appearance. |
+| How | How are the shorts designed on the sides? | Meshlike pattern. |
+| How | How does the woman's pose contribute to the image's overall atmosphere? | It adds to the casual and relaxed vibe. |

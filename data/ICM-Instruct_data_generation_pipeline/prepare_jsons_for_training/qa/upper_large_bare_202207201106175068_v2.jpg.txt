@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green bra? | Yes. |
+| Yes/No | Is the woman in the image holding a white scarf? | Yes. |
+| Yes/No | Is the woman in the image looking off to the side? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Does the image have a sensual and alluring atmosphere? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and allure? | Yes. |
+| What | What color is the bra the woman is wearing? | Green. |
+| What | What is the woman holding in her left hand? | A white scarf. |
+| How | How is the woman's pose in the image? | She has her hand on her hip and is looking off to the side. |
+| How | How would you describe the atmosphere of the image? | Sensual and alluring. |

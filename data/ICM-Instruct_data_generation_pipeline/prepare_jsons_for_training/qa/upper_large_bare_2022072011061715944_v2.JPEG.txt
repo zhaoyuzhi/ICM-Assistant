@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple bra? | Yes. |
+| Yes/No | Is the woman in the image wearing matching underwear? | Yes. |
+| Yes/No | Is the background of the image a simple white wall? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the woman's bra? | Purple. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How does the woman's confident pose contribute to the sexy atmosphere of the image? | It emphasizes her body and creates a sense of allure and sensuality. |
+| How | How does the white background of the image contrast with the woman's attire? | It creates a stark contrast that draws attention to the woman and her outfit. |

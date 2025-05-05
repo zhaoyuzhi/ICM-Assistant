@@ -1,0 +1,16 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink jacket? | Yes. |
+| Yes/No | Does the image take place in a dimly lit hallway? | Yes. |
+| Yes/No | Is the woman's attire in the image elegant and sophisticated? | Yes. |
+| Yes/No | Does the woman's action of lifting her dress create a sexy atmosphere in the image? | Yes. |
+| What | What is the woman in the image lifting her dress revealing? | Her legs. |
+| Yes/No | --- | ---. |
+| What | What is the color of the woman's jacket in the image? | Pink. |
+| Yes/No | --- | ---. |
+| How | How does the woman's action of lifting her dress create a sexy atmosphere in the image? | It accentuates her legs and overall allure. |
+| Yes/No | --- | ---. |
+| How | How does the dimly lit hallway contribute to the atmosphere of the image? | It adds a sense of mystery and intrigue. |
+| Yes/No | --- | ---. |

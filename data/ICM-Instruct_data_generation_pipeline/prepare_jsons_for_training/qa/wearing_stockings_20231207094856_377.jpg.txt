@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Are the stockings pulled up? | Yes. |
+| Yes/No | Are the person's legs bent? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the person in the image wearing? | Beige stockings, plaid skirt. |
+| What | What is the color of the stockings? | Beige. |
+| How | How are the stockings being worn? | Pulled up. |
+| How | How is the person's pose in the image? | Legs bent. |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the stockings? | Beige. |
+| What | What is the person's pose in the image? | The person is sitting on the floor with their legs bent and the stockings pulled up. |
+| How | How does the beige color of the stockings contribute to the overall atmosphere of the image? | The beige color of the stockings adds a soft and feminine touch to the overall aesthetic of the image. |
+| How | How does the white floor contribute to the overall aesthetic of the image? | The white floor provides a clean and minimalist backdrop that further emphasizes the subject and the overall aesthetic of the image. |

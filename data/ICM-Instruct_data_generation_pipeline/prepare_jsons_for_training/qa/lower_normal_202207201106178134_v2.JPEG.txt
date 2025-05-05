@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | No. |
+| Yes/No | Are the woman's shoes black? | No. |
+| Yes/No | Is the woman's top a bright color? | No. |
+| Yes/No | Is the woman's pose suggestive? | No. |
+| Yes/No | Does the image contain any explicit content? | No. |
+| What | What is the woman's hair style in the image? | Loose waves. |
+| What | What color is the woman's top in the image? | Brown. |
+| How | How does the woman's outfit suggest a laid-back setting? | The woman's outfit is casual and relaxed, with a beige skirt and a brown top. Her hair is also styled in a casual, relaxed way. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | The low exposure level of the image focuses attention on the woman's outfit and posture, rather than her body, which contributes to a casual and relaxed atmosphere. It also suggests that the image is not intended to be sexual or provocative. |

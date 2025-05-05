@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants pulled down in the image? | Yes. |
+| Yes/No | Is the person's bare torso visible in the image? | Yes. |
+| Yes/No | Is the image set outdoors? | Yes. |
+| Yes/No | Is the person's attire in the image monochromatic? | Yes. |
+| Yes/No | Does the image suggest a sense of freedom and confidence? | Yes. |
+| What | What is the person lifting in the image? | Their white shirt and white pants. |
+| What | What is the color of the person's belt in the image? | White. |
+| How | How is the person's attire in the image? | Simple and elegant. |
+| How | How does the image make the viewer feel? | Seductive and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Does the top have a ruffled neckline? | Yes. |
+| Yes/No | Are the jeans button-down? | Yes. |
+| Yes/No | Is the woman striking a pose with her hand on her hip? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the checkered pattern of the top add a playful touch to her overall look? | Yes. |
+| What | What is the woman wearing on her upper body? | A strapless top with a ruffled neckline. |
+| What | What type of pants is the woman wearing? | Jeans with a buttondown front. |
+| How | How does the woman's pose contribute to the image's atmosphere? | The woman's pose with her hand on her hip adds a confident and sexy vibe to the image. |
+| How | How does the checkered pattern of the top complement the woman's overall look? | The checkered pattern of the top adds a playful and stylish touch to her overall look, complementing the jeans and enhancing the sexy atmosphere of the image. |

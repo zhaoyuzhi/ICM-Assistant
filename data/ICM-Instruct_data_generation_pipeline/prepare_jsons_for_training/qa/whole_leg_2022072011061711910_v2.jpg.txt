@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's shorts black? | Yes. |
+| Yes/No | Is the woman standing on a brick sidewalk? | Yes. |
+| Yes/No | Is the woman holding a banana in her hand? | Yes. |
+| Yes/No | Is the image set against a backdrop of a brick building? | Yes. |
+| Yes/No | Does the woman's outfit expose her thighs? | Yes. |
+| What | What is the woman holding in her hand? | A banana. |
+| What | What color are the woman's shorts? | Black. |
+| How | How does the woman's body language suggest self-assurance and confidence? | Her confident pose and the way she holds the banana suggest selfassurance and confidence. |
+| How | How does the image create an atmosphere that is both stylish and alluring? | The combination of the woman's outfit, the urban setting, and her confident pose creates an atmosphere that is both stylish and alluring. |

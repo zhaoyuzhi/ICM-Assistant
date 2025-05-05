@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image sexual in nature? | Yes. |
+| Yes/No | Are the women in the image wearing bikinis? | Yes. |
+| Yes/No | Is the woman in the green and white bikini wearing sunglasses? | Yes. |
+| Yes/No | Is the woman in the orange and white bikini wearing a necklace? | Yes. |
+| Yes/No | Is the woman in the pink and white bikini wearing a bracelet? | Yes. |
+| Yes/No | Is the woman in the blue and white bikini wearing a ring? | Yes. |
+| What | What is the dominant color of the bikini worn by the woman in the green and white bikini? | Green. |
+| What | What is the color of the necklace worn by the woman in the orange and white bikini? | Orange. |
+| How | How are the women posing in the image? | They are smiling and posing for the camera. |

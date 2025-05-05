@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the woman in the image have red hair? | Yes. |
+| Yes/No | Is the woman in the image standing in a doorway? | Yes. |
+| Yes/No | Are the woman's arms crossed in the image? | Yes. |
+| Yes/No | Is the woman's shirt lifted up in the image? | Yes. |
+| What | What color is the woman's shirt in the image? | White. |
+| What | What color are the woman's jeans in the image? | Blue. |
+| How | How is the woman standing in the doorway? | With her arms crossed and her shirt lifted up. |
+| How | How does the woman's pose and the way she is lifting her shirt contribute to the image's atmosphere? | It creates a sense of allure and intrigue, contributing to the sexy feel of the image. |

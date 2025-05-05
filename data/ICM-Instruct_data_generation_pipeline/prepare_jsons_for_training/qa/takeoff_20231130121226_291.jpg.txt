@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image taking off their shirt? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the image in a formal setting? | No. |
+| Yes/No | Does the image suggest a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the person in the image wearing anything else besides the white shirt? | No. |
+| What | What is the person in the image doing? | Taking off their shirt. |
+| What | What is the color of the shirt the person is wearing? | White. |
+| How | How is the person in the image taking off their shirt? | They are unbuttoning it and hanging it open. |
+| How | How does the image make you feel? | It creates a sense of intrigue and allure, making it sexy. |

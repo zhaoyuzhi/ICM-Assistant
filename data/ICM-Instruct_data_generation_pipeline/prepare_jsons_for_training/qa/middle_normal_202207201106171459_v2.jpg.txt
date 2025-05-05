@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a navy blue skirt? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive body language or clothing? | No. |
+| Yes/No | Is the woman's pose in the image suggestive or revealing? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and composed? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her arms crossed. |
+| What | What is the focus of the image? | The focus is on the woman's attire and posture, rather than her physical appearance. |
+| How | How does the low exposure level contribute to the image's non-sexual nature? | The low exposure level emphasizes the modesty of the image and suggests a sense of formality. |
+| How | How does the woman's pose, with her arms crossed, contribute to the image's non-sexual nature? | The pose suggests a sense of modesty and formality, which contributes to the image's nonsexual nature. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are her shorts navy blue? | Yes. |
+| Yes/No | Is the woman's pose suggestive or provocative? | No. |
+| Yes/No | Does the image feature any nudity or explicit content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy or provocative? | No. |
+| Yes/No | Does the woman's attire reveal any intimate parts of her body? | No. |
+| What | What is the woman's attire in the image? | A white shirt and navy blue shorts. |
+| What | What is the exposure level of the image? | Low. |
+| How | How does the woman's pose in the image contribute to its non-sexual nature? | The woman's pose with her arms crossed is not suggestive of any intimate or provocative actions, and it contributes to the image's modest and appropriate nature. |
+| How | How does the low exposure level of the image emphasize the modesty of the image? | The low exposure level of the image ensures that the woman's attire and appearance are the focus, rather than her body or any potential nudity, further emphasizing the modesty and appropriate nature of the image. |

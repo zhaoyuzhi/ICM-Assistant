@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sweatshirt? | Yes. |
+| Yes/No | Is the skirt the person is wearing high-waisted? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the person wearing a black belt with a silver buckle? | Yes. |
+| Yes/No | Are the person's hands resting at their sides? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the person in the image wearing on their lower body? | A black skirt. |
+| What | What is the color of the text on the person's sweatshirt? | Black. |
+| How | How is the person's pose in the image? | Neutral. |
+| How | How does the image make you feel? | The image has a sexy feel. |

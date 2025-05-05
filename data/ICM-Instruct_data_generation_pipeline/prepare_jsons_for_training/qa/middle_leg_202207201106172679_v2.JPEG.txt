@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the skirt the person is wearing cropped at the knee? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| How | Does the image showcase the person's thighs? | Yes. |
+| Yes/No | Does the image have a sexy feel to it? | Yes. |
+| What | What is the color of the person's belt? | Brown. |
+| What | What is the length of the person's skirt? | Cropped at the knee. |
+| How | How are the person's hands positioned in the image? | Placed on their hips. |
+| How | How would you describe the person's pose in the image? | Confident and assertive. |

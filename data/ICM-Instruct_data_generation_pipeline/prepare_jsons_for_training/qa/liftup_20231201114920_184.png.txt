@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a ruffled neckline? | Yes. |
+| Yes/No | Is the material of the dress possibly silk or satin? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman lifting up in the image? | Her dress. |
+| What | What is the material of the dress? | Black, possibly silk or satin. |
+| How | How is the woman lifting her dress? | With confidence and allure. |
+| How | How does the woman's pose and the way she is lifting her dress create a sense of intimacy and allure? | It suggests an invitation or display of confidence, often associated with sensuality and allure. |

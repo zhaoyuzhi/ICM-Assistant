@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Does the image contain a person? | Yes. |
+| Yes/No | Does the person have any article of clothing on? | Yes. |
+| Yes/No | Is the person sitting on an exercise ball? | Yes. |
+| Yes/No | Does the person's attire suggest playfulness? | Yes. |
+| Yes/No | Is the atmosphere of the image alluring? | Yes. |
+| Yes/No | Does the image contain the color pink? | Yes. |
+| What | What is the main focus of the image? | The person's lower body. |
+| What | What is the color of the exercise ball? | Pink. |
+| How | How does the person's pose and attire create a sense of intrigue and desire? | Their confident pose and revealing attire draw attention to their lower body, creating a sense of intrigue and desire. |
+| How | How does the leopard print thong contribute to the image's atmosphere? | It adds a touch of boldness and playfulness, contributing to the overall sexy atmosphere of the image. |

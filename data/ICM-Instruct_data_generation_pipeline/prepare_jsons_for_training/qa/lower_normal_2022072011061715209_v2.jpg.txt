@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the person's body facing the camera? | Yes. |
+| Yes/No | Are the jeans loose-fitting? | Yes. |
+| Yes/No | Does the shirt have any distinctive features? | No. |
+| What | What is the style of the jeans? | Casual. |
+| What | What is the overall atmosphere of the image? | Neutral and unassuming. |
+| How | How is the person's clothing neutral and unassuming? | The clothing is simple and does not contain any explicit or suggestive elements. |
+| How | How does the image focus on the person's attire and the simplicity of the scene? | The image emphasizes the person's casual attire and the simplicity of the scene, rather than any potential for sensuality or allure. |

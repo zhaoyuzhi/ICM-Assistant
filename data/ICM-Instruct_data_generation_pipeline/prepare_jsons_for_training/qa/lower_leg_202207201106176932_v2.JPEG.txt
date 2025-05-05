@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink t-shirt? | Yes. |
+| Yes/No | Are the person's legs apart in the image? | Yes. |
+| Yes/No | Is the person looking down at the ground? | Yes. |
+| Yes/No | Are there trees visible in the background of the image? | Yes. |
+| Yes/No | Is the person wearing white sneakers? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the person's t-shirt? | Pink. |
+| What | What is the person looking at in the image? | The ground. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |
+| How | How does the person's pose contribute to the image's sexy appeal? | It adds a sense of confidence and allure. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing brown pants? | Yes. |
+| Yes/No | Is the person's back to the camera? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the person's pants? | Brown. |
+| What | What is the person's pose in the image? | Standing with their back to the camera, hands on hips. |
+| How | How are the person's pants fastened? | With a zipper on the side. |
+| How | How does the low angle of the shot contribute to the overall mood of the image? | It creates a sense of casualness and informality. |
+| Yes/No | Is the person in the image wearing brown pants? | Yes. |
+| Yes/No | Is the zipper fly on the pants open? | Yes. |
+| Yes/No | Is the person's underwear visible in the image? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the white background plain and simple? | Yes. |
+| What | What color are the pants in the image? | Brown. |
+| What | What is the focus of the image? | The person's lower body and the brown pants. |
+| How | How is the person standing in the image? | Against a white background. |
+| How | How is the image shot? | From a low angle. |

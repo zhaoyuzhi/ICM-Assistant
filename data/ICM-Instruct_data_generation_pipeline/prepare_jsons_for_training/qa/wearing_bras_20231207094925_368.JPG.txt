@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra green? | Yes. |
+| Yes/No | Is the woman holding the straps of the bra with her hands? | Yes. |
+| Yes/No | Is the image focused on the woman's torso and the bra? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and sensuality? | Yes. |
+| Yes/No | Is the woman's expression confident and self-assured? | Yes. |
+| What | What color is the bra? | Green. |
+| What | What is the woman doing in the image? | Putting on the bra. |
+| How | How does the woman hold the straps of the bra? | With her hands. |
+| How | How does the image convey a sense of intimacy and sensuality? | Through the act of putting on a bra, the woman's expression, and the green color of the bra. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra green? | Yes. |
+| Yes/No | Is the woman holding the straps of the bra with her hands? | Yes. |
+| Yes/No | Is the image focused on the woman's torso and the bra? | Yes. |
+| Yes/No | Does the image capture the woman from the waist up? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra? | Green. |
+| What | What is the woman doing in the image? | Putting on the bra. |
+| How | How is the woman holding the straps of the bra? | With her hands. |
+| What | What atmosphere does the image convey? | Intimate and alluring. |

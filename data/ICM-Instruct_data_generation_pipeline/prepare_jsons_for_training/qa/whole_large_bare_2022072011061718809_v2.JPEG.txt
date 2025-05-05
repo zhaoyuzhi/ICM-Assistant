@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the atmosphere of the image playful? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the woman in the image sitting on a metal railing? | Yes. |
+| What | What is the woman in the image wearing on her head? | A blue bandana. |
+| What | What is the woman in the image sitting on? | A metal railing in a swimming pool. |
+| How | How is the woman in the image looking at the camera? | Directly and with a smile. |
+| How | How does the image create an element of intrigue and allure? | The woman is sitting on a metal railing in a swimming pool, which adds an element of intrigue and allure to the scene. |

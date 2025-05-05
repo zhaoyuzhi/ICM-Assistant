@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Does the skirt have buttons on the front? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Does the top have white text on it? | Yes. |
+| Yes/No | Is the woman holding a black purse in her left hand? | Yes. |
+| Yes/No | Is the woman posing with her hand on her hip? | Yes. |
+| What | What is the woman holding in her right hand? | Her thigh. |
+| What | What is the color of the woman's purse? | Black. |
+| How | How is the woman's skirt styled? | Highwaisted with a frayed hem. |
+| How | How does the woman's pose accentuate her body? | It emphasizes her thighs and waist. |

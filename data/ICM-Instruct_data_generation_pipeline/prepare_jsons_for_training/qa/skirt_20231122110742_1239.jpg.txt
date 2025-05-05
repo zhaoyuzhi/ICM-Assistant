@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress flowing? | Yes. |
+| Yes/No | Does the dress have a high slit? | Yes. |
+| Yes/No | Is the woman leaning against a wall? | Yes. |
+| Yes/No | Is she wearing a necklace? | Yes. |
+| Yes/No | Are she wearing sandals? | Yes. |
+| What | What is the woman's attire in the image? | A flowing dress with a high slit, a necklace, and sandals. |
+| What | What is the woman's pose in the image? | Leaning against a wall with her dress lifted up to her thigh. |
+| How | How does the flowing dress and high slit reveal the woman's leg? | The dress is flowing and has a high slit, which reveals the woman's leg. |
+| How | How does the woman's pose add to the allure of the image? | Her pose of lifting her dress and leaning against the wall adds to the allure of the image. |

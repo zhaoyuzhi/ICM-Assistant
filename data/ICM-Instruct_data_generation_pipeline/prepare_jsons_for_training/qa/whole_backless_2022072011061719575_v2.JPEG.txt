@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Does the image convey a sense of elegance? | Yes. |
+| Yes/No | Is the person in the image sitting on a piece of furniture? | No. |
+| Yes/No | Does the image suggest a casual atmosphere? | Yes. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| What | What is the color of the person's bikini top? | White. |
+| What | What is the prominent feature of the person's back? | A large area is exposed. |
+| How | How does the person's pose enhance the sexy atmosphere? | It conveys a sense of confidence and vulnerability. |
+| How | How does the image create an element of intrigue? | The exposed back adds an element of intrigue and allure. |

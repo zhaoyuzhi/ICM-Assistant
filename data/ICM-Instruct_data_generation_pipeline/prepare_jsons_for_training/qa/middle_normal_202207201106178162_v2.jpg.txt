@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the jeans high-waisted? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image depict any suggestive or provocative elements? | No. |
+| What | What is the person's pose in the image? | The person is standing with their body facing the camera. |
+| What | What is the focus of the image? | The focus of the image is on the person's attire and posture, rather than their physical appearance. |
+| How | How many pockets are on the front of the jeans? | There are two pockets on the front of the jeans. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level emphasizes the person's clothing and posture rather than their physical appearance, creating a casual and nonsexual atmosphere. |
+| Yes/No | Is the person in the image wearing white jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Does the person in the image have their hands in their pockets? | Yes. |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What is the color of the person's jeans? | White. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How are the person's hands positioned in the image? | In their pockets. |
+| How | How is the person's head positioned in the image? | Turned to the side. |

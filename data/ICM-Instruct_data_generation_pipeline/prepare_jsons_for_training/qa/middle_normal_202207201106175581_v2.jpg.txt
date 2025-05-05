@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image facing the camera? | No. |
+| Yes/No | Is the man wearing a pair of khaki pants? | Yes. |
+| Yes/No | Does the man's shirt have a button fly? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man wearing on his lower body? | Khaki pants. |
+| What | What is the color of the man's shirt? | Black. |
+| How | How is the man's shirt fastened? | With a zipper. |
+| What | What is the material of the man's pants? | Cotton or polyester blend. |
+| Yes/No | Is the man in the image facing the camera? | No. |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Are the pants the man is wearing button-fly? | Yes. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| Yes/No | Is the image intended to be provocative or suggestive? | No. |
+| Yes/No | Is the overall atmosphere of the image neutral and professional? | Yes. |
+| What | What color are the pants the man is wearing? | Khaki. |
+| What | What is the man's attire focused on in the image? | The man's attire, specifically the buttonfly khaki pants. |
+| How | How is the man's body visible in the image? | Only a small portion of the man's body is visible in the image. |
+| How | How would you describe the focus of the image? | The focus of the image is on the man's attire rather than his body or any potential intimate details. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing underwear? | Yes. |
+| Yes/No | Is the person in the image wearing any other clothing besides underwear? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image contain any objects or people other than the person in the underwear? | No. |
+| Yes/No | Is the focus of the image on the person's lower body? | Yes. |
+| Yes/No | Does the image have a sexual atmosphere or content? | No. |
+| What | What is the main subject of the image? | The person's lower body and underwear. |
+| What | What is the person in the image wearing? | Underwear. |
+| How | How is the person's lower body positioned in the image? | The person's legs and underwear are the main subjects of the image, with the focus on the lower body. |
+| How | How does the image portray the person's underwear? | The image highlights the person's underwear as the main focus of the image, with no other objects or people present to distract from it. |

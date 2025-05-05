@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra green? | Yes. |
+| Yes/No | Does the bra have pink trim? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the bra? | Green. |
+| What | What is the woman's facial expression? | Slight smile. |
+| How | How is the woman's breast deliberately displayed? | The curve of the breast is shown. |
+| How | How does the blurred background contribute to the atmosphere of the image? | It creates a sense of intimacy. |

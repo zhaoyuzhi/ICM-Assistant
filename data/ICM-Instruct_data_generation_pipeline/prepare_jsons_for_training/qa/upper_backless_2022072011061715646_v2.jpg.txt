@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Is the person's hair blowing in the wind? | Yes. |
+| Yes/No | Are the person's hands placed on their back? | Yes. |
+| Yes/No | Is the overall atmosphere of the image serene? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image feature a beach setting? | Yes. |
+| What | What is the color of the person's dress? | Black. |
+| What | What is the person's posture in the image? | Standing with hands on back. |
+| How | How does the person's attire contribute to the sexy atmosphere? | The low back of the dress exposes a large area of the person's back, which is often associated with allure and mystery. |
+| How | How does the beach setting contribute to the sexy atmosphere? | The beach setting is often associated with relaxation, leisure, and enjoyment, which adds to the allure and mystery of the image. |

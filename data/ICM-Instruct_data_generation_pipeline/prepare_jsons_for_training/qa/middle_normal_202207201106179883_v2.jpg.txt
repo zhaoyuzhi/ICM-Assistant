@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Does the person's top contrast with the beige pants? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Are the person's face visible in the photo? | No. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| Yes/No | Does the image present a non-sexual and professional appearance? | Yes. |
+| What | What is the color of the person's top? | Black. |
+| What | What is the design of the pants? | Beige with a pocket on the back. |
+| How | How does the low exposure level of the image affect the viewer's attention? | It focuses the viewer's attention on the person's attire and posture. |
+| How | How does the image present the person's attire and posture? | In a straightforward and nonsexual manner. |
+| Yes/No | Is the person in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Does the pair of trousers have a zipper fly? | Yes. |
+| Yes/No | Is there a pocket on the back of the trousers? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image contain any elements that suggest a sexual context or suggestive poses? | No. |
+| What | What is the primary focus of the image? | The person's clothing and the overall composition of the image. |
+| What | What is the color of the person's top? | Black. |
+| How | How does the low exposure level of the image affect the viewer's attention? | It focuses the viewer's attention on the clothing and the overall composition of the image. |
+| How | How appropriate is the image for different audiences? | Appropriate for a wide range of audiences. |

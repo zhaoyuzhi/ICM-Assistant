@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man sitting on a motorcycle? | Yes. |
+| Yes/No | Is the image set against a beach backdrop? | Yes. |
+| Yes/No | Does the man have a tattoo visible on his left arm? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the man's muscular chest and upper body prominently displayed? | Yes. |
+| What | What is the man wearing on his lower body? | Blue jeans. |
+| What | What is the man's pose on the motorcycle? | Arms resting on the handlebars. |
+| How | How does the beach setting contribute to the image's atmosphere? | It adds a sense of relaxation, leisure, and enjoyment. |
+| How | How does the man's pose on the motorcycle contribute to the image's atmosphere? | It adds a sense of confidence and adventure. |

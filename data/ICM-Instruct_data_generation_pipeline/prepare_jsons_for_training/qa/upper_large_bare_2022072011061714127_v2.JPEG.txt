@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman standing in the water? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the water dark blue? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A blue bikini. |
+| What | What is the color of the water in the image? | Dark blue. |
+| How | How is the woman standing in the water? | With her hands on her hips. |
+| How | How does the woman appear to be feeling in the image? | She appears to be enjoying her time in the ocean. |

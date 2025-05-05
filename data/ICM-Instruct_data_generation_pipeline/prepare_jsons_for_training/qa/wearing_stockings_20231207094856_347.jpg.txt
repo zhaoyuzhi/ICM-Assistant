@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman's hat black? | Yes. |
+| Yes/No | Is the woman putting on brown stockings? | Yes. |
+| Yes/No | Is the door behind the woman closed? | Yes. |
+| What | What is the woman holding in her left hand? | The stockings. |
+| What | What color is the woman's dress? | Black. |
+| How | How is the woman's atmosphere created in the image? | The woman's actions, the black dress and hat, and the closed door create a private and intimate setting, which enhances the sexy vibe of the image. |
+| What | What emotion does the image evoke? | The image evokes a sense of intimacy and vulnerability. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a black hat? | Yes. |
+| Yes/No | Is the woman in the image putting on brown stockings? | Yes. |
+| Yes/No | Is the door behind the woman open? | No. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Are the woman's actions of putting on stockings associated with sensuality and allure? | Yes. |
+| What | What is the woman in the image putting on? | Brown stockings. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How is the woman holding up the stockings? | With her left hand. |
+| What | What kind of atmosphere does the image create? | Mysterious and seductive. |

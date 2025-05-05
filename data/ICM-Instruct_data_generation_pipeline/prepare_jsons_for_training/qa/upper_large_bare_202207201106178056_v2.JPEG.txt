@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the bikini top have a gold trim? | Yes. |
+| Yes/No | Is the ocean in the background blue? | Yes. |
+| Yes/No | Are there white waves visible in the ocean? | Yes. |
+| What | What color is the woman's bikini top? | Red and white. |
+| What | What is the color of the hat the woman is wearing? | Black. |
+| How | How is the woman posing in the image? | She is standing with her arms at her sides and her upper body exposed, looking directly at the camera with a confident smile. |
+| How | How does the combination of the woman's attire and the beach setting contribute to the overall atmosphere of the image? | The combination of the woman's bikini top and the beach setting creates a sense of allure and sensuality, enhanced by the woman's confident pose and direct gaze into the camera. |

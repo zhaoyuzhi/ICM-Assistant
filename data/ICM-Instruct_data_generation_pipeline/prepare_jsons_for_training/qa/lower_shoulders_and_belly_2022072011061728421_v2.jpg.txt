@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the leggings the person is wearing? | Blue. |
+| What | What is the person's pose in the image? | Standing with arms relaxed at their sides and legs slightly apart. |
+| How | How do the blue leggings accentuate the person's body shape? | They are formfitting, highlighting the person's physique and creating a sense of allure. |
+| How | How does the person's pose enhance the overall sensuality of the image? | It conveys a sense of confidence and selfassuredness, adding to the allure of the image. |

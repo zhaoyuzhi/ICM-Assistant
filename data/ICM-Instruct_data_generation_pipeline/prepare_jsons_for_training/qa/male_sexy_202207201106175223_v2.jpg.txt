@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the man standing with his legs slightly apart? | Yes. |
+| Yes/No | Are the man's arms relaxed at his sides? | Yes. |
+| Yes/No | Does the image contain a sense of intimacy and vulnerability? | Yes. |
+| What | What is the man wearing on his bottom half? | Black pajama pants. |
+| What | What color is the polo shirt the man is wearing? | Blue. |
+| How | How is the man standing in the image? | Standing with his legs slightly apart. |
+| How | How does the image create a sense of allure and intrigue? | Through the use of a sexy, relaxed pose and a plain white background that draws attention to the subject. |

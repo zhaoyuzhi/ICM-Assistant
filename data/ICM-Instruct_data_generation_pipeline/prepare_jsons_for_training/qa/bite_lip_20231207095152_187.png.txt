@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Are the person's lips painted with red lipstick? | Yes. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Is the image perceived as sexy? | Yes. |
+| What | What is the person in the image biting? | Their lip. |
+| What | What color is the lipstick worn by the person in the image? | Red. |
+| How | How are the person's lips parted? | Slightly. |
+| How | How does the action of biting their lip add to the image's intrigue? | It creates a sense of allure and sensuality. |

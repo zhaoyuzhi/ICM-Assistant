@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray sports bra? | Yes. |
+| Yes/No | Is the person in the image holding a pair of white earbuds? | Yes. |
+| Yes/No | Is the person in the image wearing a black sports belt? | Yes. |
+| Yes/No | Is the person in the image wearing a gray sports skirt? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest the person is listening to music or an audio program? | Yes. |
+| What | What is the person in the image holding in their right hand? | A pair of white earbuds. |
+| What | What color is the sports skirt the person is wearing? | Gray. |
+| How | How does the person's attire create a sense of strength and determination? | The person's athletic attire, including the gray sports bra and black sports belt, creates a sense of strength and determination. |
+| How | How does the image suggest the person is focused on fitness and health? | The person is wearing earbuds, suggesting they are listening to music or an audio program while working out, and their athletic attire implies a focus on fitness and health. |
+| Yes/No | Is the woman in the image wearing a black sports bra? | Yes. |
+| Yes/No | Are the leggings she is wearing gray? | Yes. |
+| Yes/No | Is her belly exposed in the image? | Yes. |
+| Yes/No | Is she holding a pair of white earbuds in her right hand? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image create a sense of confidence and self-assuredness? | Yes. |
+| What | What color are the earbuds she is holding? | White. |
+| What | What is the mood of the image? | Confident, athletic, and enjoyable. |
+| How | How does the woman's exposed stomach contribute to the image's sexiness? | It creates a sense of confidence and selfassuredness. |
+| How | How do the gray leggings add to the image's overall atmosphere? | They add a sporty and athletic vibe. |

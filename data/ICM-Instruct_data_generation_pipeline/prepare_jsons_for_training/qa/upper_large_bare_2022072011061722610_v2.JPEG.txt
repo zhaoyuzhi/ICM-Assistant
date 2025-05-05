@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a bikini? | Yes. |
+| Yes/No | Is the bikini blue and white? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image appear to be taken at a location where people typically wear swimwear? | Yes. |
+| Yes/No | Does the woman have her hands on her face? | Yes. |
+| What | What is the woman wearing around her neck? | A necklace. |
+| What | What color is the bikini the woman is wearing? | Blue and white. |
+| What | In what way does the woman's pose contribute to the overall allure of the image? | The woman's pose, with her hands on her face, adds a sense of relaxation and enjoyment to the image. |
+| Yes/No | Does the image create a sense of relaxation and enjoyment? | Yes, the image suggests that the woman is enjoying herself and is at a location where people typically engage in leisure activities, such as swimming and sunbathing. |

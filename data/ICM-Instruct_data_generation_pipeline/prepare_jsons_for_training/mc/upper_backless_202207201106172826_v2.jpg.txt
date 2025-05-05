@@ -1,0 +1,7 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What is the person's poses in the image? |A. Sitting |B. Standing |C. Lying down |D. Bending |C. |
+| What is the color of the blanket on the bed? |A. Red |B. Blue |C. Purple |D. Green |C. |
+| How many pillows are on the bed? |A. One |B. Two |C. Three |D. Four |C. |
+| What is the person wearing? |A. A black shirt |B. A white shirt |C. A grey sweater |D. A pink dress |B. |
+| What does the magazine on the bed suggest about the person? |A. They are enjoying some leisure time |B. They are working |C. They are reading a book |D. They are listening to music |A. |

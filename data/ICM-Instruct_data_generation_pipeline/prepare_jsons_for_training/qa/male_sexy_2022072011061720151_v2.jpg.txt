@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image athletic? | Yes. |
+| Yes/No | Does the background of the image contrast with the man's skin tone? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man have his fists raised? | Yes. |
+| Yes/No | Is the fighting stance suggestive of determination? | Yes. |
+| What | What is the man in the image wearing? | Black shorts. |
+| What | What is the man in the image doing? | Ready to throw a punch. |
+| How | How does the background of the image accentuate the man's physique? | It contrasts with his skin tone and muscular physique, making him the focal point of the image. |
+| How | How does the image showcase the man's athleticism? | It showcases his muscular chest and upper body, as well as his determination and readiness for a fight. |

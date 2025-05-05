@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue off-the-shoulder top? | Yes. |
+| Yes/No | Are her hair and clothes wet? | Yes. |
+| Yes/No | Is she holding a water bottle in her right hand? | Yes. |
+| Yes/No | Is the background of the image a wooden wall? | Yes. |
+| Yes/No | Does the woman's outfit reveal her midriff? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the woman drinking from in the image? | A water bottle. |
+| What | What color is the woman's top in the image? | Blue. |
+| How | How is the woman holding the water bottle? | She is drinking from it. |
+| What | What does the way the woman is holding the water bottle suggest about her? | It suggests that she is comfortable and confident in her appearance. |

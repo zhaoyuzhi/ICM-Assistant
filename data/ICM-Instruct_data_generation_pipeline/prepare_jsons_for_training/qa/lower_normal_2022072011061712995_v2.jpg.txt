@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's pants gray? | Yes. |
+| Yes/No | Is the man's left hand in his pocket? | Yes. |
+| Yes/No | Is the man's right hand on his hip? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the color of the man's sneakers? | White with a black swoosh. |
+| What | What is the atmosphere of the image? | Neutral and nonsexual. |
+| How | How is the man's left hand positioned in the image? | In his pocket. |
+| How | How is the man's right hand positioned in the image? | On his hip. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on the floor? | Yes. |
+| Yes/No | Is the person wearing a pair of black sandals? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image feature minimal clothing? | Yes. |
+| Yes/No | Does the image have a sexy tone? | Yes. |
+| What | What is the person wearing on their feet? | Black sandals. |
+| What | What is the main focus of the image? | The person's legs. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the person appear in the image? | Relaxed and at ease. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt with a black stripe? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Are the person's feet resting on the chair in the image? | Yes. |
+| Yes/No | Does the image have an intimate and suggestive atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the stockings worn by the person in the image? | Black. |
+| What | What is the color of the person's shirt in the image? | White with a black stripe. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How are the person's feet positioned in the image? | Resting on the chair. |

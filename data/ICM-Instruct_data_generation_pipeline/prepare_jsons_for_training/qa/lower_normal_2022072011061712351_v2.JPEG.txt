@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image facing the camera? | No. |
+| Yes/No | Is the man wearing a pair of shorts and a shirt? | Yes. |
+| Yes/No | Is the room dimly lit? | No. |
+| Yes/No | Does the man have any explicit or suggestive content in the image? | No. |
+| Yes/No | Does the image depict a sexy atmosphere? | No. |
+| Yes/No | Is the man standing in a provocative position? | No. |
+| What | What is the man wearing in the image? | Olive green shorts and a blue shirt. |
+| What | What is the color of the wall in the image? | White. |
+| How | How is the man positioned in the image? | With his back to the camera, arms relaxed at his sides. |
+| How | How does the room appear in the image? | Welllit, simple and uncluttered. |

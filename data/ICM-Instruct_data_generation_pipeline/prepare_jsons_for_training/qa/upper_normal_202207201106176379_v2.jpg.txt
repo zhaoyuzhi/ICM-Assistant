@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman wearing a brown shirt? | Yes. |
+| Yes/No | Is the lighting in the image low? | Yes. |
+| Yes/No | Is the woman engaged in a conversation? | Yes. |
+| Yes/No | Does the image have a sexual tone? | No. |
+| What | What is the woman's facial expression? | She is smiling and looking to the side. |
+| What | What is the color of the woman's shirt? | Brown. |
+| How | How is the woman sitting on the couch? | She is sitting with her arms crossed. |
+| How | How does the low exposure level affect the image? | It emphasizes the focus on the woman's interaction and expression rather than her physical appearance. |

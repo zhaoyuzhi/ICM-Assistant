@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black bra? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's hand placed on their hip? | Yes. |
+| Yes/No | Is the image a close-up view of the person's torso and waist? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the person's bra? | Black. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the person's hand positioned in the image? | Placed on their hip. |
+| How | How does the image capture the person's body shape and details of their clothing? | It emphasizes the person's body shape and highlights the details of their clothing, creating a sexy representation of their body. |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's hand placed on their hip? | Yes. |
+| Yes/No | Is the person looking down at their hand? | Yes. |
+| Yes/No | Does the image provide any additional details about the person's appearance or surrounding environment? | No. |
+| Yes/No | Does the image capture a close-up view of the person's torso and waist? | Yes. |
+| What | What color is the person's bra? | Black. |
+| What | What is the person's pose in the image? | Standing with hand on hip. |
+| How | How does the contrast between the black bra and blue jeans enhance the image's appeal? | It draws attention to the person's waist and hips, emphasizing their curves and body shape. |
+| How | How does the person's pose contribute to the image's seductive appeal? | It adds a sense of confidence and selfassuredness to the image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jean shorts? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image feature a contrast between the blue jean shorts and the black top? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image evoke a sense of vulnerability and intimacy? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the style of the jean shorts in the image? | Classic. |
+| What | What is the color of the person's top in the image? | Black. |
+| How | How does the contrast between the blue jean shorts and the black top add visual interest to the image? | It creates a striking visual contrast that draws attention to the person's body. |
+| How | How does the image evoke a sense of casual elegance and confidence? | The wellfitted jean shorts and the contrasting black top create a sense of effortless style, while the exposed belly and relaxed atmosphere suggest confidence and a carefree attitude. |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person wearing a black top in the image? | Yes. |
+| Yes/No | Are the jeans slightly faded? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the person's top in the image? | Black. |
+| What | What is the color of the person's jeans in the image? | Blue. |
+| How | How are the jeans fitting the person in the image? | Slightly faded, giving a wornin look. |
+| How | How is the person standing in the image? | With their hands in their pockets, adding a casual and relaxed vibe. |

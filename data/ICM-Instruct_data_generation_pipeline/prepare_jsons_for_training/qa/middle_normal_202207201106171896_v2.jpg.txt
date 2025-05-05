@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a denim jacket? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man's attire formal? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and non-sexual? | Yes. |
+| What | What color is the man's shirt? | Green. |
+| What | What is the man's pose in the image? | He is standing with his hands casually tucked into his pockets. |
+| How | How is the man's attire in the image? | Casual and nonthreatening. |
+| How | How does the man look in the image? | He looks off to the side, not directly at the camera. |
+| Yes/No | Is the man in the image wearing a blue denim jacket? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man's smile pronounced? | No. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the color of the sweater the man is wearing? | Green. |
+| What | What is the color of the man's pants? | Khaki. |
+| How | How is the man's pose in the image? | Casual and relaxed. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It contributes to a lack of intimacy and focus on the man's casual attire and pose rather than his physical appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image engaged in a physical activity? | Yes. |
+| Yes/No | Are there people in the background of the image? | Yes. |
+| Yes/No | Is the image associated with a sense of vulnerability? | Yes. |
+| Yes/No | Does the man appear to be sweating? | No. |
+| Yes/No | Is the man's body leaning forward? | Yes. |
+| What | What type of activity is the man engaged in? | Boxing. |
+| What | What is the man wearing on his lower body? | Black shorts with white text. |
+| How | How is the man standing in the image? | In a fighting stance, with fists raised and body leaning forward. |
+| How | How does the crowd in the background contribute to the overall feel of the image? | They add to the sense of excitement and energy, enhancing the sexy atmosphere. |

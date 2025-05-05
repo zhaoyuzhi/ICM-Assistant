@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a business suit? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Are the woman's hands placed on her hips? | Yes. |
+| Yes/No | Does the image suggest a professional setting? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the low exposure level of the image appropriate for a professional setting? | Yes. |
+| What | What is the woman's attire in the image? | Business suit. |
+| What | What is the overall atmosphere of the image? | Professional. |
+| How | How are the woman's hands positioned in the image? | Placed on her hips. |
+| How | How does the low exposure level of the image contribute to its overall mood? | It suggests a more subdued and professional atmosphere rather than a bright or flashy one. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the person's attire casual? | Yes. |
+| Yes/No | Does the image have a sexual or provocative atmosphere? | No. |
+| Yes/No | Does the person have any distinguishing features, such as tattoos or piercings? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color are the person's sweatpants? | Gray. |
+| What | What type of shoes is the person wearing? | White sneakers. |
+| How | How are the person's hands positioned in the image? | Tucked into the pockets of their sweatpants. |
+| How | How would you describe the overall atmosphere of the image? | Calm and relaxed. |

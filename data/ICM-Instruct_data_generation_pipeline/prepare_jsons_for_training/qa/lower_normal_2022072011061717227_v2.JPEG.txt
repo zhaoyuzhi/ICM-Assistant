@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the man's attire revealing or provocative? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What is the man's attire in the image? | A white tshirt and khaki cargo shorts. |
+| What | What is the man's demeanor in the image? | Relaxed and nonchalant. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonthreatening. |

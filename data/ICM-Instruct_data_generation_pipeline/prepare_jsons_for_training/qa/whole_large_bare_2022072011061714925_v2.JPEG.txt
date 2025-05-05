@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini red and white? | Yes. |
+| Yes/No | Is the woman sitting on the beach? | Yes. |
+| Yes/No | Does the bikini cover her entire body? | No. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| What | What color is the bikini? | Red and white. |
+| What | What is the woman's pose? | Legs crossed. |
+| How | How does the beach setting contribute to the atmosphere of the image? | It adds a sense of relaxation, leisure, and enjoyment, which enhances the sexy atmosphere. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | Her confident and alluring pose adds to the seductive and enticing visual experience. |

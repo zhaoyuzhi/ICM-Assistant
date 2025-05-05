@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman's stomach visible in the image? | Yes. |
+| Yes/No | Are the woman's hips visible in the image? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive? | Yes. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| What | What is the woman's attire in the image? | A bikini top and lowrise bikini bottom. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips. |
+| How | How does the woman's attire contribute to the image's sex appeal? | The bikini top and bottom reveal her midriff, which is a common feature in sexy images, and the lowrise bottom accentuates her hips. |
+| How | How does the woman's pose contribute to the image's sex appeal? | Her pose with her hands on her hips accentuates her stomach and hips, adding to the allure of the image. |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman holding her stomach in the image? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a sensual and alluring atmosphere? | Yes. |
+| Yes/No | Is the woman's pose in the image playful or seductive? | Yes. |
+| What | What is the woman wearing in the image? | A bikini. |
+| What | What is the woman doing with her hand in the image? | Holding her stomach. |
+| How | How is the woman's pose in the image? | Playful or seductive. |
+| How | How does the blurred background affect the image? | It puts the focus on the woman and emphasizes her presence. |

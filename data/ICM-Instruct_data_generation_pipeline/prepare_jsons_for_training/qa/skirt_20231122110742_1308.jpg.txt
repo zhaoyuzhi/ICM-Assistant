@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of a soft, flowing fabric? | Yes. |
+| Yes/No | Is the woman lifting the dress with her left hand? | Yes. |
+| Yes/No | Are the woman's thighs and legs exposed in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the woman look confident in the image? | Yes. |
+| What | What color is the dress? | Light blue. |
+| What | What is the background of the image? | A pink wall and a plant. |
+| How | How is the dress being lifted? | With the woman's left hand. |
+| What | What atmosphere does the image create? | An atmosphere of sensuality and allure. |

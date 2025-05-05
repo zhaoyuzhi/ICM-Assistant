@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the pink fur rug a prominent feature in the image? | Yes. |
+| Yes/No | Does the image evoke feelings of intimacy? | Yes. |
+| Yes/No | Is the delicate fabric of the dress visible? | Yes. |
+| Yes/No | Are the stockings high-waisted? | Yes. |
+| What | What is the person's pose in the image? | The person is lying on a bed with their legs crossed. |
+| What | What is the color of the fur rug? | Pink. |
+| How | How are the stockings associated with a more provocative appearance? | They are highwaisted and often associated with lingerie. |
+| How | How does the image portray the person's legs? | The image portrays the person's legs as crossed and resting on the bed, adding to the overall sensual atmosphere. |

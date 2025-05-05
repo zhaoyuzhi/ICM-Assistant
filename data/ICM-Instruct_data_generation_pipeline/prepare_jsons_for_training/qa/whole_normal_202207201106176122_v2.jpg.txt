@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a brown hat? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Is the woman sitting on a chair in a store? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and relaxed? | Yes. |
+| What | What is the woman wearing in the image? | A white dress and a brown hat. |
+| What | What is the setting of the image? | A store. |
+| How | How is the woman sitting on the chair? | The woman is sitting calmly and relaxed on the chair. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is calm and relaxed. |

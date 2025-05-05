@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image putting on black stockings? | Yes. |
+| Yes/No | Is the person standing on a black stool? | Yes. |
+| Yes/No | Is the person wearing a white sweater? | Yes. |
+| Yes/No | Are the stockings being pulled up? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image wearing? | Black stockings, white sweater. |
+| What | What is the color of the stool in the image? | Black. |
+| How | How are the stockings being put on? | They are being pulled up. |
+| How | How does the person's posture, with their hand on their knee, contribute to the sense of intimacy in the image? | It suggests a moment of pause and contemplation, adding to the sense of intimacy and vulnerability. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image standing on a black stool? | Yes. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the stockings being pulled up in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image doing? | Putting on black stockings. |
+| What | What is the black stool used for in the image? | Providing a simple and uncluttered background. |
+| How | How does the person's posture contribute to the sense of intimacy in the image? | The person's hand on their knee suggests a moment of pause and contemplation, adding to the sense of intimacy. |
+| How | How does the contrast between the black stockings and white sweater contribute to the overall aesthetic of the image? | The contrast creates a visually appealing and sexy image. |

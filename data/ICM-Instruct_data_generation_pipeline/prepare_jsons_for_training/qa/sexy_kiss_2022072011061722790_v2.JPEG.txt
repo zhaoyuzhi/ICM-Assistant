@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Are the man's hands gently placed on the woman's face? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| What | What is the color of the man's shirt? | White. |
+| What | What is the color of the woman's dress? | White. |
+| How | How are the man's hands placed on the woman's face? | Gently. |
+| How | How is the woman's lips puckered? | Indicating a passionate kiss. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the central figure in the image a young woman? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Does the dress feature a lace neckline? | Yes. |
+| Yes/No | Is the bracelet made of gold? | Yes. |
+| Yes/No | Are the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What is the color of the dress? | White. |
+| What | What is the material of the bracelet? | Gold. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How does the woman's pose suggest a sense of intrigue? | With her hand on her neck. |

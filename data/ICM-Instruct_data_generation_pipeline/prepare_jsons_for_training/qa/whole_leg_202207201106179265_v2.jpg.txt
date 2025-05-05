@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a yellow jacket? | Yes. |
+| Yes/No | Is the skirt white? | Yes. |
+| Yes/No | Is the hat yellow? | Yes. |
+| Yes/No | Is the purse white? | Yes. |
+| Yes/No | Is the background blue? | Yes. |
+| What | What color is the jacket? | Yellow. |
+| What | What is the woman holding in her hand? | A white purse. |
+| How | How does the jacket add volume to the woman's outfit? | It is puffy. |
+| How | How does the blue background complement the woman's outfit? | It provides a cool contrast to the warm tones of her outfit, making her the focal point. |

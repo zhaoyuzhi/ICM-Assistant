@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing red lipstick? | Yes. |
+| Yes/No | Does the man have a piercing in his left ear? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What color is the woman's lipstick? | Red. |
+| What | What is the man wearing? | A white shirt. |
+| How | How is the woman looking at the man? | She is looking up at him. |
+| How | How does the image make you feel? | It feels intimate and personal, with a strong emotional connection between the couple. |

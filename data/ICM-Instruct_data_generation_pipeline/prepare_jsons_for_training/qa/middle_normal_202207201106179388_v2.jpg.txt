@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a green jumpsuit? | Yes. |
+| Yes/No | Does the jumpsuit have a button-up front? | Yes. |
+| Yes/No | Does the person have their hand raised? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the atmosphere of the image professional? | Yes. |
+| Yes/No | Is the atmosphere of the image casual? | Yes. |
+| What | What color is the jumpsuit? | Green. |
+| What | What is the person's hand gesture? | Possibly a gesture of greeting or pointing. |
+| How | How is the person dressed? | The person is dressed in a professional green jumpsuit. |
+| How | How does the blurred background affect the image? | The blurred background emphasizes the person and their attire, making the image more focused on their appearance and actions rather than their physical appearance. |
+| Yes/No | Is the person in the image wearing a green jumpsuit? | Yes. |
+| Yes/No | Does the jumpsuit have a collar? | Yes. |
+| Yes/No | Is the person's hand raised in the image? | Yes. |
+| Yes/No | Is the image sexually suggestive or explicit? | No. |
+| Yes/No | Does the person's attire appear to be provocative or revealing? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and non-threatening? | Yes. |
+| What | What color is the person's belt? | Green. |
+| What | What is the person's hand gesture in the image? | Possibly a greeting or pointing gesture. |
+| How | How is the person's attire characterized in the image? | The person's attire is characterized as simple and modest. |
+| How | How much of the person's body is visible in the frame? | Only a small portion of the person's body is visible in the frame. |

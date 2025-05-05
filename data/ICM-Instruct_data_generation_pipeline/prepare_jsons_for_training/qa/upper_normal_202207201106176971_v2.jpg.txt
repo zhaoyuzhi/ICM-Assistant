@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a floral blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a brown skirt? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| Yes/No | Is the focus of the image on the woman's clothing rather than her appearance? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What is the main focus of the image? | The woman's outfit, specifically the floral blouse and brown skirt. |
+| What | What is the background of the image? | A neutral white pillar. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It emphasizes the woman's clothing rather than her physical appearance and creates a neutral and professional atmosphere. |
+| How | How does the image showcase the woman's attire? | The woman's clothing is the main focus of the image, and the neutral background and low exposure level help to emphasize her outfit rather than her appearance. |

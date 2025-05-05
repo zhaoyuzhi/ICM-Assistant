@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a shirt? | Yes. |
+| Yes/No | Is the woman's shirt orange in color? | Yes. |
+| Yes/No | Does the woman have a confident and assertive pose? | Yes. |
+| Yes/No | Are the shorts tight-fitting? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What is the color of the woman's shorts? | Beige. |
+| What | What is the color of the woman's shirt? | Orange. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's confident and assertive pose adds to the seductive and enticing nature of the image. |
+| How | How does the orange shirt add to the overall atmosphere of the image? | The orange shirt adds a pop of color to the scene, further enhancing the overall atmosphere of seduction and allure. |

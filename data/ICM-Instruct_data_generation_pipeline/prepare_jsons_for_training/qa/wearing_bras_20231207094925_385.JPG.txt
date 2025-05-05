@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light blue? | Yes. |
+| Yes/No | Is the woman adjusting the bra cups? | Yes. |
+| How | Does the image showcase the woman's body? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual? | Yes. |
+| Yes/No | Is the woman's actions suggestive of intimacy? | Yes. |
+| What | What is the woman doing in the image? | Adjusting her bra cups to fit her body. |
+| What | What color is the bra the woman is wearing? | Light blue. |
+| How | How is the image framed? | The image captures the woman from the waist up, focusing on her actions and the bra she is wearing. |
+| How | How would you describe the atmosphere of the image? | Sensual and provocative. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light blue? | Yes. |
+| Yes/No | Is the woman adjusting the bra cups? | Yes. |
+| Yes/No | Is the image focused on the woman's body? | Yes. |
+| How | Does the image show the woman's face? | No. |
+| Yes/No | Is the atmosphere of the image sensual and provocative? | Yes. |
+| What | What is the woman doing in the image? | Adjusting her bra cups to fit her body. |
+| What | What is the color of the bra the woman is wearing? | Light blue. |
+| How | How is the woman's body positioned in the image? | The woman is standing or sitting with her waist up, focusing on her actions and the bra she is wearing. |
+| How | How does the light blue color of the bra add to the overall atmosphere of the image? | The light blue color adds a soft and alluring tone to the image. |

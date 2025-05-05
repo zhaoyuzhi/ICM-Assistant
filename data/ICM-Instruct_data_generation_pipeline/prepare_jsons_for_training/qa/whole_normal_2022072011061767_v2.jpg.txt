@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray top? | Yes. |
+| Yes/No | Are her jeans blue? | Yes. |
+| Yes/No | Does she have bangs? | Yes. |
+| Yes/No | Is the building behind her green? | No. |
+| Yes/No | Is the woman's pose revealing? | No. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| What | What color is the woman's hair? | Brown (not specified in the description, but a reasonable assumption based on the mention of bangs). |
+| What | What is the woman's attire? | Casual (gray top and blue jeans). |
+| How | How is the woman standing? | Relaxed (not specified in the description, but implied by the mention of her modest pose and nonsexual atmosphere). |
+| How | How does the low exposure level contribute to the image's atmosphere? | It adds to the nonsexual nature of the image by not highlighting the woman's physical appearance. |

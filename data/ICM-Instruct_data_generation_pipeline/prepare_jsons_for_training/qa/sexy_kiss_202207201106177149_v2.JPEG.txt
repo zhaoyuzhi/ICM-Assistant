@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the woman in the image dressed in a white blazer? | Yes. |
+| Yes/No | Are the man and woman in the image seated at a table? | Yes. |
+| Yes/No | Is there a bottle of beer in front of the couple? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and romantic? | Yes. |
+| Yes/No | Does the image capture a private and intimate moment between the man and woman? | Yes. |
+| What | What is the man wearing in the image? | A black jacket. |
+| What | What is the woman wearing in the image? | A white blazer. |
+| How | How are the man and woman interacting in the image? | They are kissing passionately. |
+| How | How does the presence of the beer and food on the table contribute to the atmosphere of the image? | It adds to the casual and relaxed setting, enhancing the sexy atmosphere. |

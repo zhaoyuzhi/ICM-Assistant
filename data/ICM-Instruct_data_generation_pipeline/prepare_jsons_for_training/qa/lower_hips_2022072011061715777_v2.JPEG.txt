@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing yellow leggings? | Yes. |
+| Yes/No | Is the person in the image standing in front of a weight machine? | Yes. |
+| Yes/No | Is the person in the image holding a water bottle? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Are they engaged in physical activity or exercise? | Yes. |
+| Yes/No | Does the image create an atmosphere of sensuality and allure? | Yes. |
+| What | What is the person in the image wearing? | Yellow leggings and a sports bra. |
+| What | What is the person in the image holding? | A water bottle. |
+| How | How is the person standing in the image? | With their back facing the camera. |
+| How | How does the image create an atmosphere of sensuality and allure? | Through the person's deliberate pose, athletic attire, and gym setting. |

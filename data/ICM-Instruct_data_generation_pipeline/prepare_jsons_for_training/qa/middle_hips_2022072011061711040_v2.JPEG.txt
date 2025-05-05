@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing jean shorts? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the image focused on the person's lower body? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person wearing a white top? | Yes. |
+| Yes/No | Are the jean shorts frayed at the hem? | Yes. |
+| What | What color are the jean shorts? | Dark blue. |
+| What | What is the person wearing on their upper body? | A white top. |
+| How | How does the frayed hem of the shorts add to the overall look? | It adds a touch of style and personality to the outfit. |
+| How | How does the close-up nature of the image affect the viewer's perception of the person's lower body? | It allows the viewer to focus on the person's lower body, which can be perceived as alluring and seductive. |

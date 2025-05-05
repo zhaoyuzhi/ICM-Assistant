@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a midriff-baring outfit? | Yes. |
+| Yes/No | Is the woman in the image wearing a baseball cap? | Yes. |
+| Yes/No | Is the woman in the image looking down? | Yes. |
+| Yes/No | Does the image give a sense of casual confidence? | Yes. |
+| Yes/No | Does the image give a hint of sexy? | Yes. |
+| What | What is the woman in the image wearing on her head? | A baseball cap. |
+| What | What is the woman in the image wearing that is midriff-baring? | A red and white shirt. |
+| How | How is the woman in the image posing? | Confidently, with a thoughtful expression. |
+| How | How would you describe the overall atmosphere of the image? | Confident and alluring. |

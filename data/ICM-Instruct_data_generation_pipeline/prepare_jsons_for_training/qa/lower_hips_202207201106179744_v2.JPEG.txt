@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Is the person's attire revealing? | Yes. |
+| Yes/No | Does the person have a foot on the ground? | Yes. |
+| Yes/No | Is the person's gaze directed at the camera? | Yes. |
+| Yes/No | Does the person have a hand resting on their thigh? | Yes. |
+| Yes/No | Is the image atmosphere seductive and inviting? | Yes. |
+| What | What is the person sitting on? | A white chair with a curved backrest. |
+| What | What is the person wearing? | A pair of leopard print pants and a black crop top. |
+| How | How are the person's legs positioned? | Crossed, with left foot resting on right knee and right foot on the ground. |
+| How | How is the person's left hand positioned? | Placed on the backrest of the chair. |

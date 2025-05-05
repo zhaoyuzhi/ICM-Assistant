@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the shorts high-waisted? | Yes. |
+| Yes/No | Does the woman have a shopping bag in her left hand? | Yes. |
+| Yes/No | Is the couch in the living room black? | Yes. |
+| Yes/No | Is the coffee table white? | Yes. |
+| Yes/No | Does the woman have a confident and alluring pose? | Yes. |
+| What | What is the woman wearing on her lower body? | Denim shorts with a button closure. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How is the hem of the shorts styled? | Frayed. |
+| How | How does the woman carry herself in the image? | Confidently and alluringly. |

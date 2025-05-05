@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black pants? | Yes. |
+| Yes/No | Is the person in the image wearing a black bow tie? | Yes. |
+| Yes/No | Is the focus of the image on the person's lower body? | Yes. |
+| Yes/No | Are the person's buttocks the main subject of the image? | Yes. |
+| Yes/No | Is the image close-up? | Yes. |
+| Yes/No | Does the image have an intimate and provocative atmosphere? | Yes. |
+| What | What is the person in the image wearing? | Black pants and a black bow tie. |
+| What | What is the main subject of the image? | The person's buttocks. |
+| How | How is the person's body positioned in the image? | The person's body is positioned in a closeup manner, with the focus on their lower body and buttocks. |
+| How | How does the black bow tie add to the image's allure? | The black bow tie adds a touch of elegance and sophistication to the image, further enhancing its allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing black leather shorts? | Yes. |
+| Yes/No | Is the woman in the image holding her pants up with her left hand? | Yes. |
+| Yes/No | Is the woman in the image standing in a bedroom? | Yes. |
+| Yes/No | Is the bedroom furnished with a white bed and a white couch? | Yes. |
+| Yes/No | Does the image suggest that the woman is taking off her clothes? | Yes. |
+| What | What is the woman's attire in the image? | White blouse and black leather shorts. |
+| What | What is the woman's gesture with her right hand? | Her right hand is on her hip. |
+| How | How is the woman holding her pants up? | She is holding them up with her left hand. |
+| What | What can be inferred about the woman's actions in the image? | She is taking off her clothes. |

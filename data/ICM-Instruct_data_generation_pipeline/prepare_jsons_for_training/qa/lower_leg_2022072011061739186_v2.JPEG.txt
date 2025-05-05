@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a denim skirt? | Yes. |
+| Yes/No | Is the person's top black? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the person wearing white socks? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the building in the background red and white checkered? | Yes. |
+| What | What is the person's pose in the image? | The person is standing with their legs slightly apart, looking down at the ground. |
+| What | What is the style of the person's outfit? | The person's outfit is casual and comfortable, with a touch of style and personality added by the frayed hem of the denim skirt. |
+| How | How does the black top contrast with the denim skirt? | The black top contrasts visually appealing with the denim skirt, creating a stylish and interesting outfit. |
+| How | How does the person's pose add to the overall feel of the image? | The person's pose, with their legs slightly apart, adds a sense of confidence and allure to the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing green pants? | Yes. |
+| Yes/No | Do they have white sneakers with yellow and red stripes? | Yes. |
+| Yes/No | Is there a black couch in the background? | Yes. |
+| Yes/No | Is there a plant in the background? | Yes. |
+| Yes/No | Does the person appear to be moving suggestively or explicitly? | No. |
+| What | What color are the person's sneakers? | White with yellow and red stripes. |
+| What | What is the color of the couch in the background? | Black. |
+| How | How is the person moving in the image? | Casually and comfortably. |
+| How | How would you describe the overall atmosphere of the image? | Calm and relaxed. |

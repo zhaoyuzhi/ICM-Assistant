@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bikini top? | Yes. |
+| Yes/No | Is the woman in the image holding a bouquet of flowers? | Yes. |
+| Yes/No | Is the woman in the image sitting in the water? | Yes. |
+| Yes/No | Is the overall atmosphere of the image serene and intimate? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and longing? | Yes. |
+| Yes/No | Is the image sexy because it captures a moment of vulnerability and intimacy? | Yes. |
+| What | What is the woman in the image holding in her hand? | A bouquet of flowers. |
+| What | What is the woman in the image wearing? | A black bikini top and a white flowing dress. |
+| How | How is the woman in the image sitting in the water? | She is sitting in the water with her back facing the camera. |
+| How | How does the combination of the woman's attire, the water, and the bouquet of flowers create an atmosphere? | It creates an atmosphere of romance and allure. |

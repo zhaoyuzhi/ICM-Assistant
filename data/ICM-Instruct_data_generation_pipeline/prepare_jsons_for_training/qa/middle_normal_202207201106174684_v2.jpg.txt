@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of olive green cargo pants? | Yes. |
+| Yes/No | Is the person's hand visible in the image? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image focus on the person's body or appearance? | No. |
+| What | What color is the person's shirt? | Green. |
+| What | What is the person's hand doing in the image? | In their pocket. |
+| What | What is the atmosphere of the image? | Casual and neutral. |
+| Yes/No | Is the person in the image wearing a pair of olive green cargo pants? | Yes. |
+| Yes/No | Does the person have a drawstring at the waist of their pants? | Yes. |
+| Yes/No | Are there two pockets on the front of the person's pants? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| What | What is the color of the person's shirt? | White. |
+| What | What is the color of the person's pants? | Olive green. |
+| How | How is the person's waist secured in their pants? | Drawstring. |

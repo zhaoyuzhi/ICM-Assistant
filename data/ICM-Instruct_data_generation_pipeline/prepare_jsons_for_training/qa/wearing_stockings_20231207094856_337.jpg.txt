@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a beige knee pad? | Yes. |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Is the person in the image putting on their stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image evoke feelings of allure and desire? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the knee pad? | Beige. |
+| How | How is the person in the image displaying confidence and self-assurance? | By showing their legs and stockings. |
+| How | How does the beige knee pad add an element of protection and care? | It suggests that the person is taking care of their body. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Does the image evoke feelings of allure and desire? | Yes. |
+| Yes/No | Is the person in the image putting on their stockings? | Yes. |
+| How | Does the image show a moment of vulnerability and intimacy? | Yes. |
+| Yes/No | Does the person in the image have their legs crossed? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black stockings and a beige knee pad. |
+| What | What is the person in the image doing? | Putting on their stockings. |
+| How | How is the person in the image displaying confidence and self-assurance? | By showing their legs and stockings in a seated position. |
+| How | How does the beige knee pad add an element of protection and care? | It suggests that the person is taking care of their body. |

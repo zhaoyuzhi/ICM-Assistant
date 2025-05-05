@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image topless? | Yes. |
+| Yes/No | Is the man using a weight bench? | Yes. |
+| Yes/No | Is the background of the image dark gray? | Yes. |
+| Yes/No | Are the man's shorts black? | Yes. |
+| Yes/No | Is the weight bench black and red in color? | Yes. |
+| Yes/No | Is the man's body leaning forward in a dynamic pose? | Yes. |
+| What | What is the man doing in the image? | He is in the middle of an exercise routine, using a weight bench. |
+| What | What is the color of the man's shorts? | Black. |
+| How | How is the man's body positioned in the image? | He is leaning forward in a dynamic pose, with his arms bent. |
+| How | How does the contrast between the man's attire and the weight bench against the dark gray background enhance the visual appeal of the image? | It creates a striking contrast that draws the viewer's attention to the man and the weight bench, making the image more visually appealing. |

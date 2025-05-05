@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the women smiling? | No. |
+| Yes/No | Is there a plain white wall in the background? | Yes. |
+| Yes/No | Are the women wearing revealing clothing? | No. |
+| Yes/No | Is the image high-exposure? | No. |
+| Yes/No | Does the image contain explicit or inappropriate content? | No. |
+| What | What is the color of the sweater worn by the woman on the left? | Beige. |
+| What | What is the color of the pants worn by the woman on the right? | Black. |
+| How | How are the women sitting on the metal ladder? | With their legs crossed and their hands on their knees. |
+| What | What is the atmosphere of the image? | Calm and relaxed. |

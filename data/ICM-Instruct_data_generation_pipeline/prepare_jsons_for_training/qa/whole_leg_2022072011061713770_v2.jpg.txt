@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the skirt worn by the woman black and white? | Yes. |
+| Yes/No | Is the woman's left hand resting on her hip? | Yes. |
+| Yes/No | Is the woman's right hand touching her thigh? | Yes. |
+| Yes/No | Does the image exude a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's pose confident? | Yes. |
+| What | What is the woman wearing on her top? | A black top with a lace neckline. |
+| What | What is the length of the skirt? | Above her knees. |
+| How | How is the woman's right hand positioned in relation to her thigh? | Lightly touching. |
+| How | How would you describe the overall vibe of the image? | Alluring and chic. |

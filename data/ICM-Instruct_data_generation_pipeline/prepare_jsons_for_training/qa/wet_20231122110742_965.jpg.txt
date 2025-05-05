@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting in a bathtub? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the person holding a bunch of white flowers? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person holding in their hands? | White flowers. |
+| What | What is the atmosphere of the image? | Sensual and intimate. |
+| How | How is the person posing in the image? | In a sensual and intimate way. |
+| How | How does the bathtub setting contribute to the overall atmosphere of the image? | It adds to the sense of relaxation and indulgence. |

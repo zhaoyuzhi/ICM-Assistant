@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing purple leggings? | Yes. |
+| Yes/No | Is the person in the image striking a confident pose? | Yes. |
+| Yes/No | Does the person in the image have a hand on their hip? | Yes. |
+| Yes/No | Are the leggings revealing the person's legs? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the white sneakers a neutral color? | Yes. |
+| What | What is the color of the leggings? | Purple. |
+| What | What is the distinctive cutout design on the leggings? | A cutout design on the sides. |
+| How | How is the person's right hand positioned in the image? | Resting on their thigh. |
+| How | How does the white sneakers contrast with the purple leggings? | They provide a neutral base that allows the purple leggings to stand out. |

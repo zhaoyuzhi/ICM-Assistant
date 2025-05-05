@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Is the chair in the image black? | Yes. |
+| Yes/No | Is the person's dress pink? | Yes. |
+| Yes/No | Are the person's shoes white? | Yes. |
+| Yes/No | Is the person's body facing the camera? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| What | What is the person's pose in the image? | The person is holding their hands up to their face, possibly in a playful or contemplative manner. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is casual and relaxed. |
+| How | How does the floral pattern on the dress contribute to the image's sex appeal? | The floral pattern on the dress adds a touch of femininity to the image, which contributes to its sex appeal. |
+| How | How does the person's pose add an element of intrigue and mystery to the image? | The person's pose, with their hands up to their face, adds an element of intrigue and mystery to the image because it creates a sense of ambiguity and leaves the viewer wondering what the person is thinking or feeling. |

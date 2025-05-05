@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman holding her pants open with her left hand? | Yes. |
+| Yes/No | Does the image have a casual and sporty vibe? | Yes. |
+| Yes/No | Does the image capture a moment of vulnerability and confidence? | Yes. |
+| What | What is the woman holding her pants open with? | Her left hand. |
+| What | What color are the woman's pants? | Blue. |
+| How | How is the woman holding her pants open? | With her left hand, revealing her stomach. |
+| What | What does the combination of the blue jeans and white sports bra give the image? | A casual and sporty vibe. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image looking downwards? | Yes. |
+| Yes/No | Are the woman's hands placed on her hips? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A white sports bra. |
+| What | What is the woman in the image wearing on her lower body? | Blue jeans. |
+| How | How is the woman in the image standing? | With her hands on her hips and looking downwards. |
+| How | How does the image create a sense of vulnerability and allure? | The woman's exposed belly and the way she is looking downwards create a sense of vulnerability and allure. |

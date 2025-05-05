@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black sports outfit? | Yes. |
+| Yes/No | Is the woman standing in a room with a white floor and white wall? | Yes. |
+| Yes/No | Is the woman holding a phone in her hand? | Yes. |
+| Yes/No | Does the image reveal any skin or body parts? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Does the image contain any provocative or revealing elements? | No. |
+| What | What is the woman wearing in the image? | A black sports outfit including a longsleeved shirt, leggings, and socks. |
+| What | What is the woman holding in her hand? | A phone. |
+| How | How is the woman standing in the room? | She is standing with her feet shoulderwidth apart, facing the camera. |
+| How | How is the image lit? | The image is lit with a low exposure level, which means that the lighting is dim and does not reveal any details of the woman's body. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple tank top? | Yes. |
+| Yes/No | Are the woman's pants open in the image? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman in the image wearing tight jeans? | Yes. |
+| What | What is the color of the woman's tank top? | Purple. |
+| What | What is the woman's facial expression in the image? | Not specified (the description only mentions the woman's body language). |
+| How | How is the woman's confidence and self-assuredness conveyed in the image? | Through her body language and the way she is exposing her belly and wearing tight jeans. |
+| How | How does the purple tank top contribute to the overall atmosphere of the image? | It adds a pop of color, making the image visually appealing and contributing to the sensual and provocative atmosphere. |
+| Yes/No | Is the woman in the image wearing a top? | No. |
+| Yes/No | Is the woman standing in a garden or park? | Yes. |
+| Yes/No | Is the woman's stomach exposed? | Yes. |
+| Yes/No | Are the woman's pants unbuttoned or unzipped? | Yes. |
+| Yes/No | Is the woman's body the main focus of the image? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability? | Yes. |
+| What | What is the woman holding in her hand? | Nothing. |
+| What | What is the color of the woman's jeans? | Blue. |
+| How | How is the woman's body positioned in the image? | She is standing with her feet shoulderwidth apart, looking directly at the camera. |
+| How | How does the blurred background contribute to the overall atmosphere of the image? | It creates a sense of intimacy and makes the image feel more personal. |

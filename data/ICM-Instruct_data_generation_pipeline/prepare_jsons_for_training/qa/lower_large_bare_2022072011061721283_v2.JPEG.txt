@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the person sitting on a beach? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the atmosphere of the image relaxed? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the image featuring a common type of swimwear? | Yes. |
+| What | What is the person wearing? | A bikini. |
+| What | What is the person's pose? | Sitting with legs crossed. |
+| How | How is the person's lower body exposed? | The person's lower body is exposed due to the design of the bikini. |
+| How | How does the image create a sense of allure? | The image creates a sense of allure by featuring a person wearing a bikini, sitting on a beach, and having a relaxed and casual pose, which invites the viewer to imagine the person enjoying a sunny day at the beach. |

@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pair of beige pants? | Yes. |
+| Yes/No | Does the woman's top contrast with her pants? | Yes. |
+| Yes/No | Is the woman carrying a black purse? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman wearing on her upper body? | A white top. |
+| What | What is the pattern on the woman's pants? | Checkered. |
+| How | How are the woman's pants cropped? | At the ankle. |
+| How | How does the woman's attire overall atmosphere of the image? | Neutral, focused on her outfit rather than her appearance. |
+| Yes/No | Is the woman in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Does the woman have a black purse in her left hand? | Yes. |
+| Yes/No | Is the woman's top white? | Yes. |
+| Yes/No | Are the pants checkered? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the scene explicit or suggestive? | No. |
+| What | What is the woman holding in her left hand? | A black purse. |
+| What | What is the color of the woman's top? | White. |
+| What | What is the pattern on the woman's pants? | Checkered. |

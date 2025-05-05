@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink jacket? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun? | Yes. |
+| Yes/No | Is the woman wearing earrings? | Yes. |
+| Yes/No | Is the purse white? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman holding in her hand? | A white purse. |
+| What | What is the color of the woman's skirt? | Pink. |
+| How | How is the woman's hair styled? | In a bun. |
+| How | How would you describe the overall atmosphere of the image? | Modest and appropriate. |

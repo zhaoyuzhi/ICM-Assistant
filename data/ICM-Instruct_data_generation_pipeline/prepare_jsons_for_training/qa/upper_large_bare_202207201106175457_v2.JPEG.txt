@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a thong? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the purse woven? | Yes. |
+| Yes/No | Is the image set in a room with a couch and a window? | Yes. |
+| Yes/No | Is the woman posing with her hand on her chin? | Yes. |
+| What | What color is the woman's bra and thong? | Red and white. |
+| What | What is the woman holding in her hand? | A woven purse. |
+| How | How is the woman posing in the image? | She is standing with her hand on her chin. |
+| How | How would you describe the overall atmosphere of the image? | Sexy and elegant. |

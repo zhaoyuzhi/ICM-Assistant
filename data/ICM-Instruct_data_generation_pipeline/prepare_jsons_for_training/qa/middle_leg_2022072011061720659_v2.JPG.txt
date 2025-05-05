@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Does the woman have a pink purse? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman's t-shirt have writing on it? | Yes. |
+| Yes/No | Is the writing on the t-shirt in all caps? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's purse? | Pink. |
+| What | What is the phrase written on the woman's t-shirt? | "FUCKING SUNNINESS". |
+| How | How does the woman's clothing accentuate her figure? | The denim skirt is short, and the white tshirt is tight, which accentuates her figure. |

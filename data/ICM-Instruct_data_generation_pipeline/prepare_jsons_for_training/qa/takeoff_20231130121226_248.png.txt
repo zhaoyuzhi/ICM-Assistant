@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue turtleneck shirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Is the person's hair long and brown? | Yes. |
+| Yes/No | Is the person wearing a white bra? | Yes. |
+| Yes/No | Is the person taking off their shirt? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the person's shirt? | Blue. |
+| What | What is the person's hair color? | Brown. |
+| How | How is the person's bra typically associated? | With sensuality and femininity. |
+| How | How does the act of taking off the shirt add to the image's atmosphere? | It adds an element of mystery and intrigue, inviting the viewer to imagine what lies beneath, and leaves the person's upper body exposed. |

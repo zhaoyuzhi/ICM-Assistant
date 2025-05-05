@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked? | Yes. |
+| Yes/No | Is the person wearing shoes? | Yes. |
+| Yes/No | Are the shoes red? | Yes. |
+| Yes/No | Do the shoes have a fringe design? | Yes. |
+| Yes/No | Is the person sitting on a chair? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| What | What color are the shoes? | Red. |
+| What | What is the background color of the image? | White. |
+| How | How many articles of clothing is the person wearing? | 2 (red sandals and a white chair). |
+| What | What is the mood of the image? | Sensual and alluring. |

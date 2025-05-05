@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a red shirt? | Yes. |
+| Yes/No | Is the woman wearing a green sweater? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Is the background of the image a sandy beach? | Yes. |
+| Yes/No | Is the sun setting in the image? | Yes. |
+| What | What is the color of the man's shirt? | Red. |
+| What | What is the color of the woman's sweater? | Green. |
+| How | How are the couple standing in relation to each other? | They are standing close to each other, with the woman's arms wrapped around the man's neck. |
+| How | How does the image capture the tender moment between the couple? | The image captures a tender moment between the couple by depicting them kissing, with the woman's arms wrapped around the man's neck, and set against the backdrop of a beautiful beach sunset. |

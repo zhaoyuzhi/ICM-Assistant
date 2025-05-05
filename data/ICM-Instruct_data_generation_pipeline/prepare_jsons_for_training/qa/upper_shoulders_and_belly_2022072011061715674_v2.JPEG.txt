@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are her arms crossed in front of her body? | Yes. |
+| Yes/No | Is her hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the woman's outfit expose her midriff? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the woman's hair style in the image? | Loose waves. |
+| What | What is the color of the woman's top? | White. |
+| How | How is the woman standing in the image? | With her arms crossed in front of her body. |
+| How | How does the woman's hair add to her overall look in the image? | It adds a touch of softness and elegance. |

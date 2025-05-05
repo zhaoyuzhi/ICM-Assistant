@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the heels of the person's shoes pointed? | Yes. |
+| Yes/No | Is the surface that the person is sitting on white? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's feet resting on their knees? | Yes. |
+| Yes/No | Does the image have a seductive and provocative atmosphere? | Yes. |
+| What | What color are the stockings that the person is wearing? | Black. |
+| What | What is the color of the surface that the person is sitting on? | White. |
+| How | How are the person's legs positioned in the image? | Crossed and resting on their knees. |
+| How | How do the black stockings and heels contrast with the white surface? | They create a striking contrast, drawing attention to the person's legs and feet. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the setting of the image futuristic? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the man and woman leaning in towards each other? | Yes. |
+| What | What is the man wearing? | A black shirt. |
+| What | What is the woman wearing? | A black dress. |
+| How | How are the man and woman positioned in the image? | The woman is positioned on the left side, while the man is on the right. |
+| How | How does the futuristic setting contribute to the image? | It adds an element of intrigue and mystery to the scene, making the viewer curious about the context and the story behind the image. |

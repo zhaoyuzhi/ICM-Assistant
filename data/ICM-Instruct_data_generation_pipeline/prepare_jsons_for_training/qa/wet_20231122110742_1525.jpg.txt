@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman's hair wet? | Yes. |
+| Yes/No | Is the woman sitting in shallow water? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy? | Yes. |
+| Yes/No | Is the woman looking down at her feet? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing? | A white blouse. |
+| What | What is the woman doing? | Looking down at her feet. |
+| How | How is the woman's clothing wet? | Her clothes are soaked. |
+| How | How does the image make the viewer feel? | Intrigued and allured. |

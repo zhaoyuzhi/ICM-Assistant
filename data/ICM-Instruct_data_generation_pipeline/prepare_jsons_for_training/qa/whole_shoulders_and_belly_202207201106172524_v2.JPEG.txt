@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman carrying a black purse? | Yes. |
+| Yes/No | Are her high heels visible in the image? | Yes. |
+| Yes/No | Does the woman's outfit expose her midriff? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the woman look confident in the image? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What color are the woman's pants? | Blue. |
+| How | How is the woman carrying her purse? | She is carrying it in her hand. |
+| How | How would you describe the woman's walk down the street? | Confident. |

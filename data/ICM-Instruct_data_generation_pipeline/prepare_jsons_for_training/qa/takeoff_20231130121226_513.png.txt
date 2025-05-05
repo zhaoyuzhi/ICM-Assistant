@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person removing their clothes? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the lighting in the image bright? | Yes. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| Yes/No | Does the black bra and skirt add to the sense of mystery and allure? | Yes. |
+| What | What is the person removing? | Their bra and skirt. |
+| What | What is the color of the bra and skirt? | Black. |
+| How | How is the person removing their clothes? | The person is taking off their bra and skirt. |
+| How | How does the bright lighting and stark background affect the image? | The bright lighting and stark background create a stark contrast between the person and the background, further emphasizing the person's form and presence. |

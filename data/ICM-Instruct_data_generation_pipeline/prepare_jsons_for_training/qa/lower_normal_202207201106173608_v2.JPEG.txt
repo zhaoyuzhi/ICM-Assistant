@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress green? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the sleeves of the dress long? | Yes. |
+| Yes/No | Is the woman holding a rose? | Yes. |
+| Yes/No | Is the atmosphere of the image serene and peaceful? | Yes. |
+| What | What is the woman holding in her hand? | A single red rose. |
+| What | What is the color of the dress? | Green. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's modest dress, with its high neckline and long sleeves, contributes to a calm and tranquil atmosphere. |
+| How | How does the image focus on the woman's graceful pose? | The image focuses on the woman's graceful pose by positioning her in the center of the image and highlighting her elegant movements through the flowing dress. |

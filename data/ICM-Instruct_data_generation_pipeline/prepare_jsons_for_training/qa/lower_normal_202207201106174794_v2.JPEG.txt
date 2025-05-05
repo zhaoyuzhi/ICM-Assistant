@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a sweater? | Yes. |
+| Yes/No | Does the person in the image have a high exposure level? | No. |
+| Yes/No | Are the person's movements in the image provocative or suggestive? | No. |
+| Yes/No | Is the image considered sexy? | No. |
+| Yes/No | Does the person in the image have any visible tattoos or piercings? | No. |
+| What | What is the person in the image wearing on their lower body? | A long gray skirt. |
+| What | What is the person in the image wearing on their upper body? | A white sweater. |
+| How | How is the person in the image standing? | Neutrally, with their feet shoulderwidth apart. |
+| How | How does the image focus on the person's attire? | By showcasing the full length of the skirt and the fit of the sweater. |

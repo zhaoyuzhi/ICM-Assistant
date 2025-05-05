@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Is the woman in the process of putting on black stockings? | Yes. |
+| Yes/No | Is the woman's left foot resting on a white rug? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with a sense of allure and seduction? | Yes. |
+| Yes/No | Is the woman's white tank top simple and elegant? | Yes. |
+| What | What is the woman holding in her right hand? | The top of the stocking. |
+| What | What is the color of the stockings the woman is putting on? | Black. |
+| How | How is the woman's left foot resting on the white rug? | It is resting flat on the rug. |
+| How | How is the woman holding the top of the stocking with her right hand? | She is holding it with her fingers. |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Is the woman in the process of putting on black stockings? | Yes. |
+| Yes/No | Is the woman's left foot resting on a white rug? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with a sense of allure and seduction? | Yes. |
+| Yes/No | Is the woman's white tank top simple and elegant? | Yes. |
+| What | What is the woman holding with her right hand? | The top of the stocking. |
+| What | What is the woman wearing on her feet? | Black stockings. |
+| How | How is the woman's left foot resting on the white rug? | It is resting flat on the rug. |
+| How | How is the woman holding the top of the stocking with her right hand? | She is holding it with a gentle grip, as if she is in the process of pulling it up her leg. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Is the person in the image wearing black shoes? | Yes. |
+| Yes/No | Is the person in the image standing with their legs apart? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's shorts? | Black. |
+| What | What is the person's pose suggestive of? | Confidence and selfassuredness. |
+| How | How are the person's legs positioned? | Apart. |
+| How | How does the image portray the person's body? | Vulnerable and intimate. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked from their thighs to their ankles? | Yes. |
+| Yes/No | Are the shorts black in color? | Yes. |
+| Yes/No | Does the person have a drawstring at the waist of their shorts? | Yes. |
+| Yes/No | Are the shoes gray in color? | Yes. |
+| Yes/No | Are the shoes casual and comfortable? | Yes. |
+| Yes/No | Is the person performing a specific action in the image? | No. |
+| What | What is the dominant color of the person's attire in the image? | Black and gray. |
+| What | What is the focus of the image? | The person's attire and the overall atmosphere. |
+| How | How does the drawstring on the shorts add to the atmosphere of the image? | It adds a sense of comfort and relaxation. |
+| How | How does the neutral pose of the person enhance the atmosphere of the image? | It enhances the casual and relaxed atmosphere. |

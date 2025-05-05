@@ -1,0 +1,18 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| Yes/No | Is the person wearing a white sweater? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | Beige stockings, a white sweater. |
+| What | What is the person in the image doing? | Putting on stockings. |
+| How | How is the person in the image wearing the stockings? | They are being pulled up. |
+| How | How does the white sweater contribute to the overall aesthetic of the image? | It creates a contrast with the beige stockings and enhances the visual appeal. |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| Yes/No | Is the person wearing a white sweater? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the sweater worn by the person in the image? | White. |
+| How | How is the person in the image putting on the stockings? | They are pulling it up their leg. |
+| What | What does the close-up view of the person's leg and stocking add to the atmosphere of the image? | It adds an intimate atmosphere. |

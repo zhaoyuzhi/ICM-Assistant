@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a school uniform? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the woman have a slight smile on her face? | Yes. |
+| Yes/No | Is the atmosphere of the image alluring and intriguing? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| What | What color is the woman's hair? | Dark. |
+| What | What is the woman's facial expression? | Slight smile. |
+| How | How is the woman's gaze directed? | Directly at the camera. |
+| How | How would you describe the atmosphere of the image? | Alluring and intriguing. |

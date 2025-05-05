@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the man in the image wearing a watch? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image feature any text or additional objects? | No. |
+| Yes/No | Is the man's attire revealing or provocative? | No. |
+| What | What is the primary focus of the image? | The man's face and upper body. |
+| What | What is the overall atmosphere of the image? | Calm and composed. |
+| How | How is the man's attire described? | Simple and modest. |
+| How | How does the low exposure level of the image affect its focus? | It emphasizes the focus on the man's attire and demeanor, rather than any potential allusions to a sexual context. |

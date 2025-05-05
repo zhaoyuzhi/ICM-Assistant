@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the background of the image a grassy area with trees? | Yes. |
+| Yes/No | Does the woman's pose in the image suggest a sense of intimacy? | Yes. |
+| Yes/No | Are the leggings tight-fitting and form-fitting? | Yes. |
+| Yes/No | Does the image create a sense of allure? | Yes. |
+| What | What is the woman's attire in the image? | She is wearing blue leggings and her belly is exposed. |
+| What | What is the woman's pose in the image? | She is looking upwards. |
+| How | How does the woman's pose in the image contribute to the overall sensuality? | Her pose, looking upwards, adds to the overall sensuality of the image. |
+| How | How does the combination of the woman's attire and her pose create a captivating visual? | The combination of the woman's attire and her pose, along with the natural setting, creates a captivating and alluring visual. |

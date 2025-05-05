@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a denim skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person holding a pink purse in the image? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the pattern on the person's skirt? | Checkered. |
+| What | What color is the person's purse? | Pink. |
+| How | How are the person's legs crossed in the image? | The person's left leg is crossed over their right leg. |
+| How | How is the person holding their purse? | The person is holding their purse with both hands, one hand on each handle. |

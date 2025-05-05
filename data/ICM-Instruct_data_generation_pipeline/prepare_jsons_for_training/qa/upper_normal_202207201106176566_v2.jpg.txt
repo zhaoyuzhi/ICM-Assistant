@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a black t-shirt? | Yes. |
+| Yes/No | Is the man wearing a black t-shirt? | Yes. |
+| Yes/No | Are they both looking at their phones? | Yes. |
+| Yes/No | Is the room they are in well-lit? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Are there any intimate or suggestive actions depicted in the image? | No. |
+| What | What is the woman wearing on her t-shirt? | A graphic of a cityscape. |
+| What | What is the man wearing on his t-shirt? | A graphic of a building. |
+| How | How are they holding their phones? | In their hands. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red lipstick? | Yes. |
+| Yes/No | Are the person's eyes visible in the image? | No. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the close-up shot emphasize the person's lips and nose? | Yes. |
+| Yes/No | Does the red lipstick add a bold, confident touch to the person's appearance? | Yes. |
+| What | What is the main focus of the image? | The person's lips and nose. |
+| What | What is the atmosphere created by the combination of elements in the image? | Visually striking and intriguing, with a sense of intimacy and allure. |
+| How | How does the red lipstick contribute to the image's overall impact? | It adds a pop of color and creates a bold, confident impression. |
+| How | How does the close-up shot contribute to the image's overall impact? | It creates a sense of intimacy and emphasizes the person's lips and nose. |

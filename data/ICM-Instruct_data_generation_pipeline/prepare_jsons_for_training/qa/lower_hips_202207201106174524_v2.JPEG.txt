@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person lying on a black exercise machine? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person looking upwards? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest a gym or fitness setting? | Yes. |
+| What | What is the person looking at? | A window or a building outside. |
+| What | What is the color of the leggings? | Blue. |
+| How | How is the person's posture? | Crossed legs, looking upwards. |
+| How | How does the image create an atmosphere? | Sensuality and allure through the person's attire, pose, and setting. |

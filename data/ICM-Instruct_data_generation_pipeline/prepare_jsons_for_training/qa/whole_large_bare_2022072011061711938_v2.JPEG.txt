@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman standing in the water? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the bikini have a blue and white color scheme? | Yes. |
+| Yes/No | Is the woman's hair blowing in the wind? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A bikini. |
+| What | What is the color scheme of the bikini? | Blue and white. |
+| How | How is the woman standing in the water? | She is standing with her arms outstretched. |
+| How | How does the woman appear to be feeling in the image? | She appears to be enjoying herself and is comfortable and confident in her appearance. |

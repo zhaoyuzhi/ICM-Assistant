@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Are the person's legs and feet visible? | Yes. |
+| Yes/No | Is the person wearing slippers? | Yes. |
+| Yes/No | Are the slippers blue and white in color? | Yes. |
+| Yes/No | Does the slipper design feature a fish? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the color of the slippers? | Blue and white. |
+| What | What is the design of the slippers? | Fish. |
+| How | How are the person's legs positioned? | Slightly apart. |
+| How | How are the person's feet positioned? | Slightly turned inward. |

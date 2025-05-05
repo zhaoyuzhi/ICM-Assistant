@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Is the woman holding a blue blanket in her hands? | Yes. |
+| Yes/No | Is the image explicit or suggestive? | No. |
+| Yes/No | Does the image focus on the woman's lower body? | No. |
+| Yes/No | Does the image have a calm and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the woman holding in her hands? | A blue blanket. |
+| What | What is the color of the woman's sweater? | White. |
+| How | How is the woman lying on the bed? | She is lying on her back. |
+| How | How would you describe the exposure level of the image? | Low. |

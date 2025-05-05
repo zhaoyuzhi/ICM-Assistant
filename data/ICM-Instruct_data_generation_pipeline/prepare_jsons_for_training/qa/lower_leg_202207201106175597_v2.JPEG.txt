@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black leather skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a black leather jacket? | Yes. |
+| Yes/No | Is the person in the image holding a beige purse? | Yes. |
+| Yes/No | Are the person's legs apart in the image? | Yes. |
+| Yes/No | Is the person's left leg slightly bent in the image? | Yes. |
+| Yes/No | Is the person facing the camera in the image? | Yes. |
+| What | What is the color of the person's purse in the image? | Beige. |
+| What | What is the color of the person's skirt and jacket in the image? | Black. |
+| How | How is the person's left leg positioned in the image? | Slightly bent. |
+| How | How is the person's gaze directed in the image? | Straight ahead. |

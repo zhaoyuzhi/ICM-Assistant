@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image wearing a cowboy hat? | Yes. |
+| Yes/No | Is the woman in the image running on the beach? | Yes. |
+| Yes/No | Is the ocean visible in the background of the image? | Yes. |
+| Yes/No | Is the woman's body exposed in the image? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| What | What is the woman wearing in the image? | A white bikini and a cowboy hat. |
+| What | What is the background of the image? | The ocean. |
+| How | How is the woman posed in the image? | Confidently and playfully. |
+| How | How does the image create a sense of fun and freedom? | Through the woman's confident and playful pose, her white bikini, and the cowboy hat, as well as the beach setting and the vastness of the ocean in the background. |

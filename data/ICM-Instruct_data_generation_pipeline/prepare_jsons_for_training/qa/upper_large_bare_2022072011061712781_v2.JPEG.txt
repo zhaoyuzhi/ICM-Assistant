@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red wig? | Yes. |
+| Yes/No | Is the woman's upper body exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing a bikini top in the image? | Yes. |
+| Yes/No | Does the woman's hair be in loose waves in the image? | Yes. |
+| Yes/No | Is the woman posing for the camera in the image? | Yes. |
+| Yes/No | Is the image sexy due to the woman's revealing attire and exposed skin? | Yes. |
+| What | What color is the woman's wig in the image? | Red. |
+| What | What is the color of the woman's bikini top in the image? | Black and red. |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| How | How is the woman posing in the image? | She is posing for the camera, with her gaze directed towards the lens. |

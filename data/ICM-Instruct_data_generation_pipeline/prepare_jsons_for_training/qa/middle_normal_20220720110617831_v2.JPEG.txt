@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the jeans ripped or torn? | No. |
+| Yes/No | Does the person have any visible tattoos or piercings? | No. |
+| Yes/No | Is the sweater a bright or bold color? | No. |
+| Yes/No | Is the image taken in a natural setting, such as outdoors? | No. |
+| Yes/No | Does the person have long hair? | No. |
+| What | What is the color of the sweater? | Beige. |
+| What | What is the style of the jeans? | Highwaisted. |
+| How | How are the jeans frayed at the bottom? | Slightly frayed. |
+| How | How is the image focused? | Lowexposure, focusing on the person's back and the back of the jeans. |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the jeans high-waisted? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image feature a gray background? | Yes. |
+| What | What color are the jeans in the image? | Blue. |
+| What | What is the person in the image wearing on their upper body? | A white sweater. |
+| How | How are the jeans styled in the image? | Highwaisted with a zipper fly. |
+| How | How would you describe the overall atmosphere of the image? | Casual and everyday. |

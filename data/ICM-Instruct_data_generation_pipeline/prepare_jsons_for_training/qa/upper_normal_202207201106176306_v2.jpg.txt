@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman holding a phone in her hand? | Yes. |
+| Yes/No | Is the woman dressed in a black coat? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image calm and ordinary? | Yes. |
+| Yes/No | Does the image contain any inappropriate or offensive elements? | No. |
+| What | What is the woman doing in the image? | She is holding a phone in her hand and appears to be engaged in a casual, everyday activity. |
+| What | What is the color of the woman's coat? | Black. |
+| How | How is the woman dressed in the image? | She is dressed in a black coat and is holding a phone in her hand. |
+| How | How would you describe the exposure level of the image? | Low. |

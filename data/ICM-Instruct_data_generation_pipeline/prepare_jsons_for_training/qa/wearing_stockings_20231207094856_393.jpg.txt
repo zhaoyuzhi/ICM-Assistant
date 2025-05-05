@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image putting on beige stockings? | Yes. |
+| Yes/No | Is the image focused on the lower half of the person's body? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | Shorts and beige stockings. |
+| What | What is the background of the image? | A black curtain. |
+| How | How is the person putting on the stockings? | The person is in the process of putting on the stockings. |
+| How | How does the image make the viewer feel? | The image creates an atmosphere that is both alluring and intriguing, making the viewer feel as if they are witnessing a private moment. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image putting on stockings? | Yes. |
+| Yes/No | Is the image black and white? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the image set in a public place? | No. |
+| Yes/No | Does the image suggest that the person is getting ready for a night out? | No. |
+| What | What is the person in the image wearing on their lower half? | Beige stockings. |
+| What | What is the background of the image? | A black curtain. |
+| How | How does the image make the viewer feel? | Intrigued and allured. |
+| What | What does the image suggest about the person's personality? | The person values selfcare and selfexpression. |

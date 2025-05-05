@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red off-the-shoulder top? | Yes. |
+| Yes/No | Are black pants worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman holding a black purse in the image? | Yes. |
+| Yes/No | Does the woman have a red bow in her hair? | Yes. |
+| Yes/No | Is the castle-like building in the background of the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her top? | A red offtheshoulder top. |
+| What | What is the color of the woman's hair bow? | Red. |
+| How | How does the castle-like building in the background add to the atmosphere of the image? | It adds an element of grandeur and intrigue, enhancing the sexy atmosphere of the image. |
+| How | How does the red off-the-shoulder top and red bow in the woman's hair contribute to the overall atmosphere of the image? | They add a touch of boldness and confidence to the woman's appearance and enhance the sexy atmosphere of the image. |

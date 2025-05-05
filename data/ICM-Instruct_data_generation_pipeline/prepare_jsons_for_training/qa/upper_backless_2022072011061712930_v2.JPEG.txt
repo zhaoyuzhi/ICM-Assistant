@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Does the person have a tattoo or piercing on their back? | Yes. |
+| Yes/No | Is the person standing in front of a pool? | Yes. |
+| Yes/No | Are there palm trees visible in the background? | Yes. |
+| Yes/No | Is the person's hair pulled back? | Yes. |
+| Yes/No | Is the person looking over their shoulder? | Yes. |
+| What | What is the person wearing? | A black top. |
+| What | What is the color of the pool? | Bright colors (not specified). |
+| How | How is the person's hair styled? | Pulled back. |
+| How | How is the person posing? | Looking over their shoulder. |

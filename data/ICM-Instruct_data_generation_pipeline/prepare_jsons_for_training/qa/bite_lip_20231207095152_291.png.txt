@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a light blue dress? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman looking up and to the left? | Yes. |
+| Yes/No | Does the woman have a slight smile on her face? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color is the woman's dress? | Light blue. |
+| What | What is the woman's facial expression? | Slight smile with a seductive touch. |
+| How | How is the woman looking? | Up and to the left. |
+| How | How does the woman's lip biting add to her demeanor? | Confidence and playfulness. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman carrying a black purse? | Yes. |
+| Yes/No | Does the woman have her hair styled in a bun? | Yes. |
+| Yes/No | Is the woman wearing red lipstick? | Yes. |
+| Yes/No | Is the image sexually suggestive or provocative? | No. |
+| Yes/No | Does the image reveal any intimate details of the woman's body? | No. |
+| What | What is the woman's facial expression in the image? | The woman's face is not clearly visible due to the low exposure level. |
+| What | What is the woman's body language in the image? | The woman is standing on the staircase with her arms by her sides, looking straight ahead. |
+| How | How is the woman's hair styled in the image? | The woman's hair is styled in a bun. |
+| How | How does the low exposure level of the image affect the viewer's focus? | The low exposure level of the image emphasizes the focus on the woman's overall appearance rather than her physical attributes, making it appropriate for a wide range of audiences. |

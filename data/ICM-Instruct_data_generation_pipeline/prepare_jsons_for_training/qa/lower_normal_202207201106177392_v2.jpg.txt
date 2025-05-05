@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black sweatpants? | Yes. |
+| Yes/No | Does the image feature any suggestive or provocative elements? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are they wearing white sneakers? | Yes. |
+| Yes/No | Does the image have a calm and neutral atmosphere? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What brand of sneakers is the person wearing? | Nike. |
+| How | How is the person standing in the image? | Neutral pose (not revealing any skin or body parts). |
+| What | What is the focus of the image? | The person's clothing and pose. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person sitting on the floor? | Yes. |
+| Yes/No | Are the stockings being put on the person's legs? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image putting on? | White stockings. |
+| What | What is the person in the image wearing? | A white shirt and a plaid skirt. |
+| How | How are the stockings being put on the person's legs? | They are being pulled up. |
+| How | How does the image make the viewer feel? | It creates a sense of intimacy and sensuality. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person sitting on the floor? | Yes. |
+| Yes/No | Is the person putting on white stockings? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the person wearing a plaid skirt? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image putting on? | White stockings. |
+| What | What is the person in the image wearing? | A white shirt and a plaid skirt. |
+| How | How are the stockings being put on? | The person is pulling them up her legs. |
+| What | What creates a sense of intimacy and sensuality in the image? | The act of putting on stockings, the woman's attire, and the overall atmosphere of the image. |

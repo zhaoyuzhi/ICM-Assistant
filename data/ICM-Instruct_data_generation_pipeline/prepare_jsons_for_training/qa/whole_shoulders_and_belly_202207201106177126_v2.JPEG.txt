@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red shirt? | Yes. |
+| Yes/No | Are the trees in the background of the image? | Yes. |
+| Yes/No | Is the woman posing with her hands on her hips? | Yes. |
+| Yes/No | Is the woman's shirt unbuttoned? | Yes. |
+| Yes/No | Are the blue jeans the woman is wearing considered casual clothing? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and self-assurance? | Yes. |
+| What | What color is the woman's shirt? | Red. |
+| What | What type of clothing is the woman wearing? | Blue jeans. |
+| How | How is the woman posing in the image? | With her hands on her hips. |
+| How | How does the wooded area in the background contrast with the woman's pose? | It contrasts with the woman's confident and sexy pose, creating an atmosphere that is both alluring and inviting. |

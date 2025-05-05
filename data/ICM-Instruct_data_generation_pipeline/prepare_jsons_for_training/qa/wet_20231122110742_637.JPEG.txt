@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are her clothes soaked? | Yes. |
+| Yes/No | Is she sitting on a blue surface? | Yes. |
+| Yes/No | Does the image exude an intimate atmosphere? | Yes. |
+| Yes/No | Is the woman's posture suggestive? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability? | Yes. |
+| What | What is the woman sitting on? | A blue surface. |
+| What | What color are the woman's shorts? | Blue. |
+| How | How is the woman's posture? | Her legs are crossed. |
+| How | How does the image create a sense of intimacy? | Through the woman's attire, posture, and the fact that her clothes are soaked. |

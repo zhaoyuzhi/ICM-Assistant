@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Are they wearing a skirt? | Yes. |
+| Yes/No | Are they wearing sneakers? | Yes. |
+| Yes/No | Is the background yellow? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the person's pose suggestive? | Yes. |
+| What | What color are the sneakers? | White. |
+| What | What color is the skirt? | White. |
+| How | How many articles of clothing are the person wearing? (not including accessories) | 3 (skirt, sneakers, and possibly a bra or undershirt). |
+| What | What emotion does the image evoke? | Confidence, allure, and seductiveness. |

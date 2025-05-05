@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the headphones the man is wearing black with a silver earpiece? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the image low-key? | Yes. |
+| What | What is the man wearing in the image? | A black shirt and headphones. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man standing in the image? | He is standing in front of a white background. |
+| How | How would you describe the atmosphere of the image? | Lowkey and nonsexual. |

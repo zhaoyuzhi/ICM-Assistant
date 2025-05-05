@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Are the jeans slightly faded and worn-in? | Yes. |
+| Yes/No | Is the person also wearing a leather belt? | Yes. |
+| Yes/No | Do the jeans have a high waist and frayed hem? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the primary focus of the image? | The person's outfit and style. |
+| What | What is the person's belt made of? | Leather. |
+| How | How are the jeans designed? | With a high waist and frayed hem. |
+| How | How does the image convey a casual and relaxed atmosphere? | Through the use of a white background and a focus on the person's outfit and style, rather than their physical appearance. |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the person have a noticeable tear on the back pocket of their jeans? | Yes. |
+| Yes/No | Is the person wearing a leather belt? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the primary focus of the image? | The person's lower body and the back of their jeans. |
+| What | What is the atmosphere of the image? | Intimate and vulnerable. |
+| How | How is the person's waist fastened? | With a leather belt. |
+| How | How does the low angle shot and low exposure level create a sense of intimacy and vulnerability? | The low angle shot and low exposure level draw attention to the person's lower body and create a sense of closeness and vulnerability, rather than a sensual or seductive mood. |

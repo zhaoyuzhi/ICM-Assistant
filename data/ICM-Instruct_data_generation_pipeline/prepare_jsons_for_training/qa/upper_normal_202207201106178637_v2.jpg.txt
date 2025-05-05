@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a pen? | Yes. |
+| Yes/No | Is the man in the image looking at the woman? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Are the woman's clothes revealing? | No. |
+| Yes/No | Is the man's attire revealing? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What is the woman gesturing with her other hand? | It's not clear from the description. |
+| What | What is the man's facial expression? | Concerned. |
+| How | How does the woman's clothing contribute to the image's overall atmosphere? | The woman's clothing, specifically her pink sweater, contributes to the serious and focused atmosphere of the image. |
+| How | How does the low exposure level affect the perception of the image? | The low exposure level reduces the visual impact of the image and makes it less likely to be perceived as sexy. |

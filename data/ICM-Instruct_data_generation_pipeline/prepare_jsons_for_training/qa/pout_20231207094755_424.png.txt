@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red top? | Yes. |
+| Yes/No | Does the woman have long blonde hair? | Yes. |
+| Yes/No | Is the woman making a pouting face? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the woman's pouting expression add a seductive element to the image? | Yes. |
+| What | What color is the woman's top? | Red. |
+| What | What is the woman's hair color? | Blonde. |
+| How | How is the woman looking? | Upwards. |
+| How | How would you describe the woman's expression? | Pouting/Seductive. |

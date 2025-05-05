@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person's hand resting on their thigh in the image? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black stockings. |
+| What | What is the color of the sweater the person is wearing in the image? | Gray. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How is the person's hand positioned in the image? | Resting on their thigh. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the woman wearing a colorful dress? | Yes. |
+| Yes/No | Is the palm tree the primary background element? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| What | What is the woman holding in the image? | A purse. |
+| What | What is the primary color of the woman's dress? | Colorful (not a specific color). |
+| How | How does the woman's dress contrast with the palm tree? | The woman's colorful dress contrasts against the natural backdrop of the palm tree. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

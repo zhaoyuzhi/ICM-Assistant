@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| Yes/No | Is the person wearing a pink shirt? | Yes. |
+| Yes/No | Is the person wearing a blue skirt? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with sensuality and allure? | Yes. |
+| What | What color is the person's shirt? | Pink. |
+| What | What color is the person's skirt? | Blue. |
+| How | How does the person's posture contribute to the intimate atmosphere? | The person's foot is up and the stocking is being pulled up, creating an intimate and vulnerable atmosphere. |
+| How | How does the person's choice of clothing contribute to the overall allure and sensuality of the image? | The person's choice of a pink shirt and blue skirt adds to the overall allure and sensuality of the image, creating a sexy and intimate atmosphere. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Is the person in the image putting on their stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a blue skirt? | Yes. |
+| Yes/No | Does the image portray an intimate atmosphere? | Yes. |
+| What | What color shirt is the person in the image wearing? | Pink. |
+| What | What color skirt is the person in the image wearing? | Blue. |
+| How | How is the person in the image putting on their stockings? | They are pulling the stocking up their foot. |
+| What | What can be inferred about the person in the image based on their choice of clothing? | They value selfcare and selfexpression, and they want to convey sensuality and allure. |

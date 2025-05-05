@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the bra beige? | Yes. |
+| Yes/No | Is the woman holding the bra cups with both hands? | Yes. |
+| Yes/No | Is the woman adjusting the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What is the color of the bra? | Beige. |
+| How | How is the woman holding the bra cups? | With both hands. |
+| How | How is the woman adjusting the bra? | She is adjusting the cups. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the bra beige? | Yes. |
+| Yes/No | Is the woman holding the bra cups with both hands? | Yes. |
+| Yes/No | Is the woman adjusting the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have a focused expression? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a beige bra. |
+| What | What is the color of the woman's top? | White. |
+| How | How is the woman holding the bra cups? | She is holding them with both hands. |
+| How | How does the image capture the woman's actions? | The image captures the woman's actions in a closeup shot, emphasizing her form and the details of her actions. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Is the dress flowing? | Yes. |
+| Yes/No | Is the woman wearing a bra? | Yes. |
+| Yes/No | Is the atmosphere of the image serene and peaceful? | Yes. |
+| Yes/No | Does the image evoke a sense of allure and desire? | Yes. |
+| What | What is the woman wearing? | A white dress and a bra. |
+| What | What is the atmosphere of the image? | Serene and peaceful, with a sense of elegance and allure. |
+| How | How is the woman's figure accentuated in the image? | The low neckline of the dress accentuates her upper body. |
+| How | How does the beach setting contribute to the overall atmosphere of the image? | The natural beauty and tranquility of the beach create a romantic and sensual atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black leather jacket? | Yes. |
+| Yes/No | Are her boots black? | Yes. |
+| Yes/No | Is she wearing a black skirt? | Yes. |
+| Yes/No | Is the background of the image plain beige? | Yes. |
+| Yes/No | Is the woman looking down? | Yes. |
+| Yes/No | Does the woman's pose convey a sense of sensuality? | Yes. |
+| What | What color is the woman's outfit? | Black. |
+| What | What is the color of the background? | Beige. |
+| How | How is the woman sitting in the image? | With her legs crossed. |
+| What | What does the plain beige background do for the image? | It emphasizes the subject and her attire, making the image more visually striking. |

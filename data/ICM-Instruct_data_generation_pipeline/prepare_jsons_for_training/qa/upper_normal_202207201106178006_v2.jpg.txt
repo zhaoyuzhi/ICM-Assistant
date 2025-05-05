@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the blazer the woman is wearing a bright or flashy color? | No. |
+| Yes/No | Does the woman have any visible tattoos or piercings? | No. |
+| Yes/No | Is the background of the image clearly visible? | No. |
+| Yes/No | Is the woman's attire suggestive or revealing? | No. |
+| Yes/No | Does the image appear to be taken in a natural or outdoor setting? | No. |
+| What | What color is the blazer the woman is wearing? | Beige. |
+| What | What type of setting does the image suggest? | Professional or formal. |
+| How | How is the woman's attire described in the description? | Wellfitted and elegant. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It emphasizes the focus on the woman and her attire, rather than any potential distractions in the background. |

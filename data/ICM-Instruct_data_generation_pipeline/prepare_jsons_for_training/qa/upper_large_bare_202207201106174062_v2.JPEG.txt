@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top red and white? | Yes. |
+| Yes/No | Does the bikini bottom have a floral pattern? | Yes. |
+| Yes/No | Is the woman lying on her stomach? | Yes. |
+| Yes/No | Is her head resting on her hand? | Yes. |
+| Yes/No | Is the background of the image a sandy beach? | Yes. |
+| What | What color is the bikini top? | Red and white. |
+| What | What is the pattern on the bikini bottom? | Floral. |
+| How | How is the woman lying on the beach? | She is lying on her stomach with her head resting on her hand. |
+| How | How does the image convey a sense of leisure and enjoyment? | The image conveys a sense of leisure and enjoyment because the woman is relaxing on a sandy beach, wearing a bikini, and enjoying the sun and the scenery. The floral patterns on her bikini add a touch of elegance and femininity, enhancing the sexy atmosphere. |

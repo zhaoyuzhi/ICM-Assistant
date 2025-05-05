@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the logo on the left leg of the shorts white? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the man's pose in the image suggestive or provocative? | No. |
+| What | What is the main focus of the image? | The man's shorts. |
+| What | What is the color of the shorts? | Green. |
+| How | How does the man's pose suggest a casual, relaxed atmosphere? | The man has his hands in his pockets and is standing in a relaxed stance, suggesting a casual atmosphere. |
+| How | How does the low exposure level contribute to the overall atmosphere of the image? | The low exposure level emphasizes the focus on the shorts and creates a less provocative or sensual atmosphere. |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the logo on the left leg of the shorts white? | Yes. |
+| Yes/No | Is the man's pose in the image casual and relaxed? | Yes. |
+| Yes/No | Does the image reveal any explicit or intimate details about the man or his surroundings? | No. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the main focus of the image? | The man's casual attire and pose. |
+| What | What is the exposure level of the image? | Low. |
+| How | How does the man's pose suggest a casual and relaxed atmosphere? | The man has his hands in his pockets and is standing in a relaxed stance. |
+| How | How does the low exposure level contribute to the image's innocent and non-sexual nature? | The low exposure level means that the image does not reveal any explicit or intimate details, contributing to its nonsexual nature. |

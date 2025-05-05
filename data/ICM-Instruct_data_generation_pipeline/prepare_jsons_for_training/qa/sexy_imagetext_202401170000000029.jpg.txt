@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a gray shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Are the man and woman in the image kissing each other's necks? | Yes. |
+| Yes/No | Is the scene taking place in a room with a window in the background? | Yes. |
+| Yes/No | Does the text on the image suggest a family relationship between the man and woman? | Yes. |
+| Yes/No | Is the image sexy due to the intimate nature of the scene? | Yes. |
+| What | What is the man wearing in the image? | A gray shirt. |
+| What | What is the woman wearing in the image? | A white dress. |
+| How | How are the man and woman interacting in the image? | They are kissing each other's necks. |
+| How | How does the woman appear to be feeling in the image? | She appears to be enjoying the moment, with her closed eyes suggestive of her pleasure. |

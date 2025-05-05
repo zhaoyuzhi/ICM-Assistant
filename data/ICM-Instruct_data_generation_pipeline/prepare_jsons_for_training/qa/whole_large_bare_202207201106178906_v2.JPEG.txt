@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman standing in the ocean? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the ocean water light blue? | Yes. |
+| Yes/No | Is the sky above the woman darker blue? | Yes. |
+| What | What is the woman's attire in the image? | A white bikini. |
+| What | What is the woman's pose in the image? | She has her arms raised above her head and her hair is pulled back into a ponytail. |
+| How | How does the woman's attire contrast with the color of the ocean? | The white bikini contrasts with the light blue color of the ocean, drawing attention to her body. |
+| How | How does the woman's pose suggest a sense of relaxation and enjoyment? | Her confident and assertive pose, with her arms raised above her head and her ponytail, suggests a sense of relaxation and enjoyment. |

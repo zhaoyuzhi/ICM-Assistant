@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black and orange jacket? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the person's attire and the room's interior? | Yes. |
+| Yes/No | Does the image have a calm and unassuming atmosphere? | Yes. |
+| What | What is the person in the image wearing? | A black and orange jacket. |
+| What | What is the color of the wall in the room? | White. |
+| How | How is the person standing in front of the mirror? | The person is standing in front of the mirror with their face not visible. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is calm and unassuming. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image standing in front of a gray wall? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the woman's blouse soaked? | Yes. |
+| Yes/No | Does the woman have wet hair? | Yes. |
+| Yes/No | Is the woman touching her nose with her fingers? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| What | What is the woman touching her nose with? | Her fingers. |
+| What | What color is the woman's blouse? | White. |
+| How | How is the woman's hair styled? | Wet, possibly messy. |
+| How | How does the gray wall in the background contribute to the overall atmosphere of the image? | It provides a neutral backdrop that emphasizes the woman and her actions, adding to the intimate and sensual atmosphere. |

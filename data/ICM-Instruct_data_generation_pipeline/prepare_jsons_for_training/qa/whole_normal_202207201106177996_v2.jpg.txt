@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red shirt? | Yes. |
+| Yes/No | Is the woman holding a microphone? | Yes. |
+| Yes/No | Is the backdrop of the image a sunny day? | Yes. |
+| Yes/No | Is the woman's attire suggestive or provocative? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman likely a news anchor or reporter? | Yes. |
+| What | What is the woman holding in the image? | A microphone. |
+| What | What is the setting of the image? | A sunny day. |
+| How | How is the woman dressed in the image? | In a professional manner. |
+| How | How does the image's low exposure level contribute to its overall atmosphere? | It creates a nonsexy atmosphere. |

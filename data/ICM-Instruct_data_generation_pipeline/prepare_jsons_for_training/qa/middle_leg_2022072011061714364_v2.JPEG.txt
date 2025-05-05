@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink shorts? | Yes. |
+| Yes/No | Does the woman have a drawstring waist on her shorts? | Yes. |
+| Yes/No | Are there two pockets on the front of the shorts? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| What | What color are the shorts? | Pink. |
+| What | What is the woman's attire contrasted with? | White blouse. |
+| How | How does the contrast between the shorts and blouse accentuate the woman's figure? | It adds to the overall sexy atmosphere of the image. |

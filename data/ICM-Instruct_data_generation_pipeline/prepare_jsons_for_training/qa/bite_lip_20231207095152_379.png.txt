@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman biting her lip in the image? | Yes. |
+| Yes/No | Is the woman looking up at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Does the image feature any other people besides the woman? | No. |
+| What | What color is the woman's lipstick? | Pink. |
+| What | What is the woman wearing around her neck? | A necklace. |
+| How | How is the woman's facial expression in the image? | Serious. |
+| How | How does the woman's pose enhance the sexy vibe of the picture? | Her pose, with her looking up at the camera, adds a sense of intimacy and allure to the image. |

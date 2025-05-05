@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young man? | Yes. |
+| Yes/No | Does the man have dark hair? | Yes. |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Are the man's jeans blue? | Yes. |
+| Yes/No | Is the man lifting his shirt? | Yes. |
+| Yes/No | Is the image set against a blue background? | Yes. |
+| What | What is the man's attire in the image? | White shirt and blue jeans. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How is the man's physique showcased in the image? | By lifting his shirt and exposing his torso. |
+| How | How does the image create an alluring atmosphere? | By showcasing the man's physique and creating a contrast between his attire and the blue background. |

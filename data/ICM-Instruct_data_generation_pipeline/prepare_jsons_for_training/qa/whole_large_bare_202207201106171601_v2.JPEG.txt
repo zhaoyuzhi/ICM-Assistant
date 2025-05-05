@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini a type of swimwear? | Yes. |
+| Yes/No | Are the straps or ties of the bikini top designed to be tied around the back? | Yes. |
+| Yes/No | Is the bikini bottom a two-piece design? | Yes. |
+| Yes/No | Is the woman sitting on the sand? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| What | What is the woman wearing on her upper body? | A bikini top. |
+| What | What is the woman wearing on her lower body? | A bikini bottom. |
+| How | How are the straps or ties of the bikini top designed to be fastened? | They are designed to be tied around the back. |
+| How | How many pieces make up the bikini bottom? | 2 pieces. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue sweater? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Is the room in the image equipped with a white couch? | Yes. |
+| Yes/No | Is there a lamp in the room? | Yes. |
+| Yes/No | Are there yellow flowers in the potted plant in the room? | Yes. |
+| What | What is the woman doing in the image? | She is taking off her clothes. |
+| What | What is the color of the woman's sweater? | Blue. |
+| How | How is the woman's attire in the image? | It is sexy and suggests a sense of style and confidence. |
+| How | How does the presence of the potted plant with yellow flowers contribute to the atmosphere of the image? | It adds a touch of natural beauty to the scene, further enhancing the sexy vibe of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Is the woman holding a pair of sunglasses? | Yes. |
+| Yes/No | Is the atmosphere of the image serene and contemplative? | Yes. |
+| Yes/No | Does the image contain explicit nudity or sexual content? | No. |
+| Yes/No | Is the woman standing on the beach? | Yes. |
+| What | What is the woman in the image looking at? | The ocean. |
+| What | What is the woman wearing in the image? | A white dress. |
+| How | How is the woman standing on the beach? | She is standing with her feet shoulderwidth apart, facing the ocean. |
+| How | How does the woman look in the image? | She looks lost in thought, with a sense of relaxation and tranquility. |

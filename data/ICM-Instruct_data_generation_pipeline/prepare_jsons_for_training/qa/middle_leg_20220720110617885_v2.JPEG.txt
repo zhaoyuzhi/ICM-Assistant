@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink sweater? | Yes. |
+| Yes/No | Are the woman's arms crossed in the image? | Yes. |
+| Yes/No | Are the woman's legs slightly apart in the image? | Yes. |
+| Yes/No | Is there a wooden bench in the background of the image? | Yes. |
+| Yes/No | Is there a potted plant in the background of the image? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What color is the woman's sweater? | Pink. |
+| How | How is the woman standing in the image? | With her arms crossed and legs slightly apart. |
+| How | How does the black skirt and pink sweater combination make the image sexy? | The contrasting colors create a visually appealing and confident appearance, and the short skirt almost exposes the woman's thighs, adding to the overall allure of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a top? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image have a busy background? | No. |
+| What | What is the woman in the image wearing on her lower body? | A brown skirt. |
+| What | What is the woman in the image wearing on her upper body? | A white top. |
+| How | How is the woman in the image standing? | With her hands on her hips and a confident pose. |
+| How | How does the image make you feel? | The image creates an impression of confidence and allure, and may evoke feelings of attraction or intimacy. |

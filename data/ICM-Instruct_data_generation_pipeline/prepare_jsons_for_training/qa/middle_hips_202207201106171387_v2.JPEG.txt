@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black shorts? | Yes. |
+| Yes/No | Is the woman holding dumbbells in the image? | Yes. |
+| Yes/No | Is the image a close-up of the woman's lower body? | Yes. |
+| Yes/No | Is the woman's buttocks the focus of the image? | Yes. |
+| Yes/No | Does the image suggest that the woman is in a fitness routine? | Yes. |
+| Yes/No | Is the color of the dumbbells green? | Yes. |
+| What | What is the woman holding in the image? | Dumbbells. |
+| What | What is the color of the dumbbells in the image? | Green. |
+| How | How is the woman's lower body positioned in the image? | Her legs are slightly bent and her feet are flat on the ground, with her buttocks being the main focus of the image. |

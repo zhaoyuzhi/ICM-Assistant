@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of denim? | Yes. |
+| Yes/No | Does the dress have a slit up the front? | Yes. |
+| Yes/No | Is the woman wearing a bra underneath her dress? | Yes. |
+| Yes/No | Is the bra made of lace? | Yes. |
+| Yes/No | Does the image depict a sensual or alluring atmosphere? | Yes. |
+| What | What color is the dress? | Light blue. |
+| What | What is the woman holding in her hand? | The dress. |
+| How | How is the woman standing in the image? | With one hand on her hip and the other holding the dress up. |
+| What | What is the pose of the woman in the image? | Confident and seductive. |

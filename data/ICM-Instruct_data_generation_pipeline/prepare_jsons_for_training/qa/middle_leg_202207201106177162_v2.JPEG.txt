@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a denim skirt? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the woman's pose neutral? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any bright or bold colors? | No. |
+| Yes/No | Is the woman's outfit casual or formal? | Casual. |
+| What | What is the woman wearing on her upper body? | A gray sweater. |
+| What | What is the woman holding in her hand? | A black purse. |
+| How | How does the woman's skirt fall? | Just above her knees. |
+| How | How does the woman's direct gaze at the camera enhance the image? | It makes the viewer feel like the focus of her attention, adding to the allure and mystery of the image. |

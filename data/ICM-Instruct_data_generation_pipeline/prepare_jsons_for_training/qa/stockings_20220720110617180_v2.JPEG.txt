@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the stockings sheer? | Yes. |
+| Yes/No | Does the image have a close-up nature? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their legs? | White stockings. |
+| What | What is the person in the image wearing on their upper body? | A white sweater. |
+| How | How does the lace pattern on the stockings contribute to the image's overall atmosphere? | It adds an element of intricacy and elegance. |
+| How | How does the white sweater worn by the person complement the stockings? | It creates a harmonious and visually appealing contrast. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image walking? | Yes. |
+| Yes/No | Is the person in the image wearing beige pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the image feature the person's buttocks prominently? | Yes. |
+| Yes/No | Is the person in the image holding a bag? | Yes. |
+| Yes/No | Does the image create a sense of allure and sensuality? | Yes. |
+| What | What color are the person's pants? | Beige. |
+| What | What is the person carrying in their hand? | A bag. |
+| How | How is the person walking down the stairs? | With confident posture. |
+| How | How does the person's buttocks appear in the image? | Prominently displayed in a deliberate action often associated with attractiveness and allure. |

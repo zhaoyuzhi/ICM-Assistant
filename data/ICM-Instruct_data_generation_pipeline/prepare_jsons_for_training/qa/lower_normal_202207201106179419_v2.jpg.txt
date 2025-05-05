@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black sweatshirt? | Yes. |
+| Yes/No | Are the man's arms relaxed at his sides? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the man wearing black sweatpants? | Yes. |
+| Yes/No | Is the black bag slung over the man's shoulder? | Yes. |
+| Yes/No | Does the image feature a white background? | Yes. |
+| What | What color are the man's sneakers? | Black. |
+| What | What is the man's attire in the image? | Black sweatshirt, black sweatpants, black sneakers. |
+| How | How are the man's legs positioned in the image? | Slightly apart. |
+| How | How is the black bag slung over the man's shoulder? | It is slung over his shoulder. |

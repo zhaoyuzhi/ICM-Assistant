@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the stockings beige? | Yes. |
+| Yes/No | Is the person sitting on a wooden chair? | Yes. |
+| Yes/No | Is the focus of the image on the person's legs and stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| Yes/No | Does the image capture a private moment of the person? | Yes. |
+| What | What is the person wearing on their legs? | Stockings. |
+| What | What is the color of the stockings? | Beige. |
+| How | How does the image create a striking visual effect? | The contrast between the beige stockings and the black skirt creates a striking visual effect. |
+| How | How does the wooden chair add to the overall atmosphere of the image? | The wooden chair adds a natural and warm tone to the image, enhancing the overall atmosphere. |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the stockings beige? | Yes. |
+| Yes/No | Is the person sitting on a wooden chair? | Yes. |
+| Yes/No | Is the focus of the image on the person's legs and stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| Yes/No | Does the image capture a private moment of the person? | Yes. |
+| What | What is the color of the skirt? | Black. |
+| What | What is the person in the process of doing? | Putting on stockings. |
+| How | How does the contrast between the beige stockings and black skirt add to the visual appeal? | It creates a striking visual effect. |
+| How | How does the wooden chair add to the overall atmosphere of the image? | It adds a natural and warm tone. |

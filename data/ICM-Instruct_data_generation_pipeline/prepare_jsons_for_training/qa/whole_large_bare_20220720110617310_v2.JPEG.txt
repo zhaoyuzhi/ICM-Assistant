@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image walking on a beach? | Yes. |
+| Yes/No | Is the woman's body exposed in the image? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What type of swimwear is the woman wearing in the image? | A bikini. |
+| What | What is the woman's demeanor in the image? | Confident and happy. |
+| How | How is the woman's body exposed in the image? | Her body is exposed because she is wearing a bikini and her arms are raised. |
+| How | How does the beach setting contribute to the overall atmosphere of the image? | The beach setting adds to the sexy atmosphere because it suggests a relaxed and carefree environment. |

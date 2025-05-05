@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin dressed in a pair of navy blue dress pants? | Yes. |
+| Yes/No | Is the mannequin wearing a blue shirt? | Yes. |
+| Yes/No | Is the background of the image light pink? | Yes. |
+| Yes/No | Is the mannequin positioned in a standing position? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Does the image contain any text or elements that suggest a sexy or provocative context? | No. |
+| What | What color are the dress pants? | Navy blue. |
+| What | What color is the shirt? | Blue. |
+| How | How is the mannequin positioned in the image? | Standing. |
+| How | How would you describe the atmosphere of the image? | Calm and neutral. |

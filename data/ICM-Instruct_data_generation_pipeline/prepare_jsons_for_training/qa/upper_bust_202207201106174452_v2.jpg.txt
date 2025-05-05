@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray ribbed tank top? | Yes. |
+| Yes/No | Are the blue jeans in the image a casual and comfortable choice of clothing? | Yes. |
+| Yes/No | Does the image feature a close-up of the woman's upper body? | Yes. |
+| Yes/No | Is the woman in the image posing in a confident and alluring way? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the low angle shot of the image taken looking up at the woman? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A gray ribbed tank top. |
+| What | What is the woman in the image wearing on her lower body? | Blue jeans. |
+| How | How is the woman posing in the image? | With a confident and alluring pose. |
+| How | How does the low angle shot of the image contribute to its atmosphere? | It adds a sense of depth and intrigue to the image. |

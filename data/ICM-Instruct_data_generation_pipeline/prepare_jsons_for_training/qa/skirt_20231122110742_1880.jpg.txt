@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman standing in a hallway? | Yes. |
+| Yes/No | Is the woman lifting her dress? | Yes. |
+| Yes/No | Are her high heels visible in the image? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Does the woman's attire and actions create a contrast? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the woman's body language? | Confident and assertive. |
+| How | How is the woman's dress being used in the image? | It is being lifted to expose her legs. |
+| How | How do the woman's high heels contribute to the image's atmosphere? | They accentuate her body and make her appear more confident and assertive. |

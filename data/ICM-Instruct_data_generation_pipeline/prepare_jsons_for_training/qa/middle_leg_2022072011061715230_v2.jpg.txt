@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing Nike shorts? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's left hand resting on her thigh? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| Yes/No | Are the Nike shorts a popular brand? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips, with her left hand resting on her thigh. |
+| How | How does the woman's pose create a sense of allure and confidence? | The woman's pose, with her hands on her hips and her left hand resting on her thigh, creates a sense of selfassuredness and confidence. The exposure of her thighs, combined with her pose, adds to the overall allure of the image. |
+| How | How do the Nike shorts add to the overall appeal of the image? | The Nike shorts, which are a popular brand, add to the overall appeal of the image by creating a sense of familiarity and quality. The fact that they are blue and gray, which are neutral colors, also makes them visually appealing and easy to pair with other colors. |

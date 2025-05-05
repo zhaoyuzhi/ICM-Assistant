@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing yellow leggings? | Yes. |
+| Yes/No | Are the person's buttocks visible in the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Are there any other objects in the image aside from the person and the wall? | No. |
+| Yes/No | Is the person's pose suggestive of confidence and self-assurance? | Yes. |
+| What | What color are the person's leggings? | Yellow. |
+| What | What color are the person's sneakers? | White. |
+| How | How does the contrast between the person's attire and the background contribute to the overall allure of the image? | The contrast creates a visually striking image that draws the viewer's attention to the person's body and the overall composition. |
+| How | How does the person's pose contribute to the seductive atmosphere of the image? | The person's confident pose and intentional display of their buttocks create a sense of allure and attractiveness, adding to the seductive atmosphere of the image. |

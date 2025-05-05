@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the jeans designed with a button and zipper fly? | Yes. |
+| Yes/No | Are the person's hands resting on their hips? | Yes. |
+| What | What is the person's pose in the image? | Confident and relaxed. |
+| What | What is the unique detail added to the garment? | Button and zipper fly. |
+| How | How does the person's pose contribute to the image's overall atmosphere? | The person's pose, with their hands on their hips, further accentuates the sense of selfassuredness and confidence, making the image more alluring. |
+| How | How does the combination of elements create a sexy and captivating image? | The combination of the person's confident pose, the casual and relaxed atmosphere, and the revealing nature of the jeans creates a sexy and captivating image. The jeans, with their button and zipper fly, add an element of intrigue and allure to the image. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the person's pose in the image confident and self-assured? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy and connection with the viewer? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the distinctive design element of the blue jeans? | A zipper on the back pocket. |
+| What | What is the overall mood of the image? | Casual, relaxed, and alluring. |
+| How | How does the person's exposed belly contribute to the image's sense of boldness and confidence? | It adds a touch of vulnerability and confidence to the scene. |
+| How | How does the image create a sense of intimacy and connection with the viewer? | Through the person's exposed belly and casual pose of the jeans. |

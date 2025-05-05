@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are the people surrounding the man wearing shirts? | No. |
+| Yes/No | Is the man in the image dancing? | Yes. |
+| Yes/No | Is the atmosphere of the image lively and energetic? | Yes. |
+| Yes/No | Does the image suggest a sense of joy and freedom? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image wearing? | A purple swimsuit. |
+| What | What is the color of the swimsuits worn by the surrounding people? | Colorful. |
+| How | How is the man in the image positioned? | With arms outstretched and body twisted to the side. |
+| How | How would you describe the overall atmosphere of the image? | Lively, energetic, and sexy. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Are both men wearing shorts? | Yes. |
+| Yes/No | Are the men facing the same direction? | Yes. |
+| Yes/No | Are the men's hands tucked into their pockets? | Yes. |
+| Yes/No | Is the background plain white? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Would you describe the overall atmosphere of the image as casual and relaxed? | Yes. |
+| What | What color are the shorts worn by the man on the left? | Khaki. |
+| What | What color are the shorts worn by the man on the right? | Blue. |
+| How | How are the men standing in relation to each other? | Side by side. |
+| How | How are the men's hands positioned? | Tucked into their pockets. |
+| Yes/No | Are the men in the image wearing shorts? | Yes. |
+| Yes/No | Are the men facing the camera? | Yes. |
+| Yes/No | Are the men's hands tucked into their pockets? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the men standing side by side? | Yes. |
+| What | What color are the shorts worn by the man on the left? | Khaki. |
+| What | What color are the shorts worn by the man on the right? | Blue. |
+| How | How are the men's hands positioned in the image? | Casually tucked into their pockets. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is she sitting on a couch? | Yes. |
+| Yes/No | Is there a white blanket on the couch? | Yes. |
+| Yes/No | Is there a beige pillow on the couch? | Yes. |
+| What | What is the woman holding in her left hand? | Her hair. |
+| What | What is the woman looking at? | Over her shoulder. |
+| How | How is the woman's pose in the image? | Seductive. |
+| How | How does the red dress and high slit contribute to the image's overall atmosphere? | It creates a sense of allure and sensuality. |

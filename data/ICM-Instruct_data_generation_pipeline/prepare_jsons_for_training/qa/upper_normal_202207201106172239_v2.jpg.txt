@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink top? | Yes. |
+| Yes/No | Is the woman holding a microphone? | Yes. |
+| Yes/No | Are there pink flowers in the background of the image? | Yes. |
+| Yes/No | Does the image have a bright and clear exposure level? | No. |
+| Yes/No | Is the atmosphere in the image calm and peaceful? | Yes. |
+| Yes/No | Does the image suggest a sexy or provocative atmosphere? | No. |
+| What | What is the woman in the image holding? | A microphone. |
+| What | What is the color of the woman's hair in the image? | Dark brown or black. |
+| How | How many objects can be seen in the background of the image? | 3 (tree, pink flowers, and woman). |
+| What | What is the overall ambiance of the image? | Calm and peaceful. |

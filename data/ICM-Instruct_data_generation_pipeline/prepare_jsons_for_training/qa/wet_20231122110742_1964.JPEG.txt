@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image standing on a stage? | Yes. |
+| Yes/No | Are the man's clothes soaked? | Yes. |
+| Yes/No | Does the man have his left hand on his head? | Yes. |
+| Yes/No | Is the background of the image dark and out of focus? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the man holding his head with? | His left hand. |
+| What | What is the possible reason for the man's clothes being soaked? | Rain or sweat. |
+| How | How is the man holding his head? | He is holding it with his left hand. |
+| How | How does the dark background affect the image? | It puts the focus on the man and his actions and makes the image more captivating and intriguing. |

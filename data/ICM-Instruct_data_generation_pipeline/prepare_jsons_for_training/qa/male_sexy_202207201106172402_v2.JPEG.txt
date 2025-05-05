@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the man's gaze directed at the camera? | Yes. |
+| Yes/No | Does the image contain any objects other than the man? | No. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| Yes/No | Does the image have a sexual connotation? | Yes. |
+| What | What is the man's facial expression? | Confident and direct. |
+| What | What is the color of the man's pants and belt? | Black. |
+| How | How are the man's arms positioned? | Relaxed at his sides. |
+| How | How does the man's direct gaze contribute to the overall atmosphere of the image? | It makes the image feel more intimate and alluring. |

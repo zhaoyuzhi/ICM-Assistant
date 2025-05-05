@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Is the woman in the image sitting at a table? | Yes. |
+| Yes/No | Are there flowers in front of the woman? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman doing in the image? | She is holding a phone and sitting at a table with flowers in front of her. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is calm and composed. |
+| How | How is the woman dressed in the image? | She is wearing a red dress. |
+| How | How would you describe the focus of the image? | The focus of the image is on the woman and her actions, rather than on her appearance or the content of the phone screen. |

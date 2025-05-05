@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a top? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a bun? | Yes. |
+| Yes/No | Is the woman looking down at the ground? | Yes. |
+| Yes/No | Is the image taken in a snowy field? | Yes. |
+| Yes/No | Does the image have a calm and serene atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A long, gray skirt and a gray top. |
+| What | What is the woman's hair style in the image? | A bun. |
+| How | How is the woman standing in the image? | She is standing with her feet shoulderwidth apart, looking down at the ground. |
+| How | How does the image make you feel? | The image has a calm and serene atmosphere, which may make the viewer feel peaceful and relaxed. |

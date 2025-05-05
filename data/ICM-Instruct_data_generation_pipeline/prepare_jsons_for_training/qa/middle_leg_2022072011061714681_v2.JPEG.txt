@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt short? | Yes. |
+| Yes/No | Does the skirt have a pleated design? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What is the woman's pose in the image? | She is standing with her hands on her hips. |
+| What | What is the focus of the image? | The focus of the image is the woman and her attire. |
+| How | How does the contrast between the beige skirt and the black top add to the visual interest of the image? | The contrast creates a visual contrast that draws the viewer's attention to the woman's body. |
+| How | How does the gray background serve to highlight the woman and her outfit? | The gray background provides a neutral backdrop that allows the colors of the woman's outfit to stand out. |

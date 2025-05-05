@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the person holding an orange in their left hand? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy feel? | Yes. |
+| What | What is the person in the image holding in their left hand? | An orange. |
+| What | What is the color of the person's shirt? | Red. |
+| How | How is the skirt high-waisted? | It is not specified in the description how the skirt is highwaisted, but it can be inferred that it is highwaisted because it has a slit on the left side, which is a common feature of highwaisted skirts. |
+| How | How does the overall atmosphere of the image contribute to its sexy feel? | The casual atmosphere of the image, combined with the person's confident and alluring pose and outfit, contribute to its sexy feel. The highwaisted skirt and slit also add to the sexy feel by revealing the person's thigh. The pop of color from the orange in the person's hand further enhances the overall appeal of the image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's face visible in the photo? | No. |
+| Yes/No | Is the focus of the image on the person's physical appearance? | No. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the primary color of the shorts? | Blue. |
+| What | What is the design on the shorts? | Tropical print with a palm tree. |
+| How | How is the person standing on the beach? | Not specified in the description. |
+| How | How does the low exposure level of the image affect the focus of the photo? | It emphasizes the focus on the person's clothing and the beach setting, rather than their body or physical features. |
+| Yes/No | Is the person in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's face visible in the photo? | No. |
+| Yes/No | Does the image have a tropical theme? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the primary color of the shorts? | Blue. |
+| What | What is the design on the shorts? | A palm tree design. |
+| How | How is the person standing on the beach? | The person is standing casually, with their feet shoulderwidth apart. |
+| How | How does the low exposure level of the image affect the focus of the photo? | The low exposure level emphasizes the focus on the person's clothing and the beach setting, rather than on any potential nudity or suggestive body language. |

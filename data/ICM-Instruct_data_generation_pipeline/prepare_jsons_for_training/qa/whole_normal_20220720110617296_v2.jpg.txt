@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Is the dress long? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Is the woman standing in front of a white vase? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and serene? | Yes. |
+| What | What is the woman wearing in the image? | A modest pink dress with a high neckline. |
+| What | What is the color of the vase in the image? | White. |
+| How | How is the woman standing in the image? | She is standing in front of a white vase. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

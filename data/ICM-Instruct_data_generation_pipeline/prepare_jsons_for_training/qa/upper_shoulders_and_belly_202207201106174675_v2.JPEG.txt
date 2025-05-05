@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Does the top have a floral pattern? | Yes. |
+| Yes/No | Are the jeans blue? | Yes. |
+| Yes/No | Is the woman's pose confident and stylish? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's top? | Blue. |
+| What | What is the woman's pose in the image? | Hand on hip. |
+| How | How does the ruffled neckline add elegance to the woman's outfit? | It adds a touch of sophistication and femininity to the outfit. |
+| How | How does the woman's confident pose enhance the allure of the image? | It emphasizes her curves and creates a sense of empowerment and selfassurance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the subjects in the image looking at each other? | No. |
+| Yes/No | Is the image taken indoors? | No. |
+| Yes/No | Is the woman wearing a skirt or dress? | No. |
+| Yes/No | Is the man wearing a suit or tie? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the man wearing? | White shirt and blue jeans. |
+| What | What is the woman wearing? | Blue sweater and black pants. |
+| How | How are the subjects engaged with their cell phones? | They are both focused on their cell phones, suggesting they might be engaged in separate activities or conversations. |
+| What | What does the low exposure level of the image indicate about the atmosphere? | The low exposure level indicates a casual and relaxed atmosphere. |

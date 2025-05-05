@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shoes? | Yes. |
+| Yes/No | Do they have a furry purse? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing on their legs? | White stockings. |
+| What | What is the person's pose on the railing? | Sitting. |
+| How | How does the person's attire, including the furry purse, contribute to the overall atmosphere of the image? | It creates a sense of allure and intrigue, making the image appear sexy. |
+| How | How does the person's pose on the railing contribute to the overall atmosphere of the image? | It adds to the sense of allure and intrigue, making the image appear sexy. |

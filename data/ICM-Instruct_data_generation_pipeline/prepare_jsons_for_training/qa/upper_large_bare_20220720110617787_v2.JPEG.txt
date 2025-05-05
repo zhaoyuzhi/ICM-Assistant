@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the person in the image wearing a thong? | Yes. |
+| Yes/No | Is the person in the image holding a phone? | Yes. |
+| Yes/No | Is the person in the image standing in front of a mirror? | Yes. |
+| Yes/No | Is the person in the image looking at their phone? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| What | What color is the bikini top? | Yellow. |
+| What | What color is the thong? | Pink. |
+| How | How is the person holding their phone? | In their left hand. |
+| How | How is the person's body positioned in relation to the camera? | Facing the camera, but head turned to the side. |

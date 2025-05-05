@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a glass of wine? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Is the text in Chinese in the image translated to "flirt bar"? | Yes. |
+| Yes/No | Is the woman dressed in red? | Yes. |
+| Yes/No | Does the overall atmosphere of the image suggest a flirt bar? | Yes. |
+| Yes/No | Does the image suggest the woman is relaxed? | Yes. |
+| What | What is the woman holding in her hand? | A glass of wine. |
+| What | What does the text in Chinese in the image read? | "调情酒吧" (flirt bar). |
+| How | How is the woman dressed? | She is dressed in a red dress. |
+| How | How does the dark background contribute to the atmosphere of the image? | It creates a sense of intimacy and mystery. |

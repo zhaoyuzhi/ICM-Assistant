@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black shoes? | Yes. |
+| Yes/No | Is the desk made of wood? | Yes. |
+| Yes/No | Is the person's left hand holding their stockings up? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the background of the image a white wall and a window? | Yes. |
+| What | What is the person in the image wearing on their legs? | White stockings. |
+| What | What is the person in the image holding in their left hand? | Their stockings. |
+| How | How is the person's left hand holding their stockings up? | The person is holding their stockings up with their left hand. |
+| How | How does the classroom setting add to the sexy atmosphere of the image? | The classroom setting adds an element of intrigue to the image, as it is not a typical location for such attire, which contributes to its sexy appearance. |

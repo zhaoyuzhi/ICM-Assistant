@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress beige in color? | Yes. |
+| Yes/No | Does the dress have a slit on the left side? | Yes. |
+| Yes/No | Are the person's hands resting at their sides? | Yes. |
+| Yes/No | Is the overall atmosphere of the image simple and understated? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the primary focus of the image? | The person's outfit and pose. |
+| What | What is the color of the dress? | Beige. |
+| How | How does the dress feature a slit? | The dress features a slit on the left side. |
+| How | How does the plain background reinforce the simplicity of the image? | The plain background emphasizes the simplicity of the image, reinforcing the lack of explicit or suggestive content. |

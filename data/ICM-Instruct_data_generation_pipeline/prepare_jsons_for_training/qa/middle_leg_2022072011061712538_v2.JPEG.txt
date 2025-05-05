@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image holding a cup? | Yes. |
+| Yes/No | Is the cup white? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Does the woman have a relaxed and carefree expression? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman in the image wearing on her top half? | A black top. |
+| What | What is the woman in the image holding in her hand? | A white cup. |
+| How | How are the shorts styled? | They have a frayed hem. |
+| How | How does the woman's pose suggest confidence and self-assuredness? | She is leaning against a wall with a relaxed posture. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Is the person's back visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person have long hair? | Yes. |
+| What | What color is the dress? | Beige. |
+| What | What is the person's pose in front of the window? | Standing. |
+| How | How is the person's back revealed in the image? | Through the thin straps and deep neckline of the dress. |
+| How | How does the person's pose contribute to the seductive atmosphere of the image? | It suggests confidence and poise. |

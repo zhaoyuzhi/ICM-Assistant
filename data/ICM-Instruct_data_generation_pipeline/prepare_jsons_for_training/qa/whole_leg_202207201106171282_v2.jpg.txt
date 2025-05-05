@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pink blouse? | Yes. |
+| Yes/No | Does the blouse have a lace neckline? | Yes. |
+| Yes/No | Are the white shorts cropped at the knee? | Yes. |
+| Yes/No | Is the woman striking a pose with her left hand on her hip and her right hand resting on her thigh? | Yes. |
+| Yes/No | Is the background plain and white? | Yes. |
+| What | What color is the bracelet the woman is wearing? | Red. |
+| What | What is the color combination of the woman's outfit? | Pink and white. |
+| How | How does the lace neckline add a touch of sophistication to the woman's outfit? | It adds a delicate and elegant touch to the blouse. |
+| How | How does the cropped shorts reveal the woman's thighs? | The shorts are cut off at the knee, showing the woman's thighs. |

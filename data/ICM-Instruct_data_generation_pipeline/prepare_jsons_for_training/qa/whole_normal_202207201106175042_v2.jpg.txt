@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image holding a prop? | No. |
+| Yes/No | Is the map of the world in the background? | Yes. |
+| Yes/No | Is the woman dressed in a color associated with warmth and positivity? | Yes. |
+| Yes/No | Is the image focused on providing useful information? | Yes. |
+| Yes/No | Is the atmosphere of the image informative and professional? | Yes. |
+| What | What is the woman in the image presenting? | The weather forecast. |
+| What | What is the color of the woman's dress? | Red. |
+| How | How is the woman standing in relation to the map of the world? | She is standing in front of it. |
+| How | How does the woman's smile and body language suggest the image's purpose? | Her smile and body language suggest that the image is meant to be informative and helpful rather than sexy. |

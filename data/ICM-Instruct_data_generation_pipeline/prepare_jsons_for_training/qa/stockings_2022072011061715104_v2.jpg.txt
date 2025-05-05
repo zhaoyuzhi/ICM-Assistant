@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of beige sweatpants? | Yes. |
+| Yes/No | Is the woman's left leg extended behind her? | Yes. |
+| Yes/No | Is the woman's right leg bent at the knee? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Does the image create a contrast between the beige sweatpants and white shirt? | Yes. |
+| What | What is the woman's pose in the image? | She is striking a pose with her left leg extended behind her and her right leg bent at the knee. |
+| What | What is the texture of the woman's sweatpants? | The texture of the sweatpants is ribbed. |
+| How | How does the image emphasize the woman's form and posture? | The image emphasizes the woman's form and posture by highlighting her curves and the way she is posing. |
+| How | How does the contrast between the beige sweatpants and white shirt enhance the sexy atmosphere of the image? | The contrast creates a visual interest and draws attention to the woman's body, making the image appear sexier. |

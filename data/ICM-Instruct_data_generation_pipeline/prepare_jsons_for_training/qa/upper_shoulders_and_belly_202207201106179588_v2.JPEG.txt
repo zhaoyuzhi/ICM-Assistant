@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Is the dress red and white? | Yes. |
+| Yes/No | Does the woman have her head tilted to the side? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She is posing for the camera, with her head slightly tilted to the side and her smile adding a warm and inviting vibe to the image. |
+| What | What is the color of the dress? | The dress is red and white. |
+| How | How does the woman's pose contribute to the image's atmosphere? | The woman's pose, with her head tilted to the side and her smile, adds a playful and confident vibe to the image, contributing to its sexy atmosphere. |
+| How | How does the floral pattern and strapless dress contribute to the image's atmosphere? | The floral pattern and strapless dress give the image a sense of allure and elegance, contributing to its sexy atmosphere. |

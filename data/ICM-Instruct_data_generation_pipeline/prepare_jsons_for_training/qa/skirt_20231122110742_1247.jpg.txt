@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the woman have a black cape? | Yes. |
+| Yes/No | Is the woman's thigh exposed in the image? | Yes. |
+| Yes/No | Does the woman have a black purse? | Yes. |
+| Yes/No | Is the background of the image a hallway? | Yes. |
+| Yes/No | Is the image seductive and alluring? | Yes. |
+| What | What is the woman lifting in the image? | Her dress. |
+| What | What is the color of the woman's dress and cape? | Black. |
+| How | How is the woman's thigh exposed in the image? | She is lifting her dress. |
+| What | What creates a sense of elegance and sophistication in the image | The combination of the black dress, cape, and purse. |

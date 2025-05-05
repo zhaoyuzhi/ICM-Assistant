@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing pants? | No. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the man have his hands on his hips? | Yes. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the man's attire in the image? | A pair of white underwear. |
+| What | What is the man's pose in the image? | Standing with his hands on his hips. |
+| How | How does the plain white background contribute to the image's atmosphere? | It puts the focus entirely on the man and his attire, enhancing the sexy feel. |
+| How | How does the man's pose suggest his personality? | It suggests confidence and selfassuredness, which can be perceived as attractive. |

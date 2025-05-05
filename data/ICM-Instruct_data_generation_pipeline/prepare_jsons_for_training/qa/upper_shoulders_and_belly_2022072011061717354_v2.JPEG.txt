@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sports bra? | Yes. |
+| Yes/No | Are the woman's pants also pink? | Yes. |
+| Yes/No | Is the woman striking a pose in the image? | Yes. |
+| Yes/No | Does the woman have her hair styled in braids? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the woman's sports bra and sweatpants? | Pink. |
+| What | What is the woman's pose in the image? | She has her left hand on her hip and her right hand on her chest. |
+| How | How does the low angle shot contribute to the image's atmosphere? | It emphasizes the woman's figure and makes her appear more confident and assertive. |
+| How | How does the woman's pose accentuate her figure? | It accentuates her curves and makes her appear more attractive. |

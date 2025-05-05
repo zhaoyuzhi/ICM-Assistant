@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person holding a phone in their hand? | Yes. |
+| Yes/No | Are they taking a selfie? | Yes. |
+| Yes/No | Is the person wearing denim shorts? | Yes. |
+| Yes/No | Is the person wearing a tank top? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the person's pose in the image? | The person is sitting with their legs crossed. |
+| What | What is the person's lower body exposed? | The person's legs and feet are exposed. |
+| How | How does the person's pose suggest a sense of confidence and allure? | The person's legs are crossed, which can be seen as a confident and alluring pose. |
+| How | How does the image evoke a sense of allure? | The combination of the person's pose, attire, and the casual atmosphere creates an image that is both visually appealing and evokes a sense of allure. |

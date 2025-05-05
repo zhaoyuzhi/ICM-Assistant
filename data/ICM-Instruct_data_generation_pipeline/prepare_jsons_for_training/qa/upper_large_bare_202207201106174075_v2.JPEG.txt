@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lying on a surfboard? | Yes. |
+| Yes/No | Is the surfboard red? | Yes. |
+| Yes/No | Is the woman wearing a blue bikini top? | Yes. |
+| Yes/No | Are the woman's arms stretched out to the sides? | Yes. |
+| Yes/No | Is the beach in the background sandy? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman lying on? | A red surfboard. |
+| What | What color is the woman's bikini top? | Blue. |
+| How | How is the woman positioned on the surfboard? | She is lying on her stomach with her arms stretched out to the sides. |
+| How | How does the blue bikini top contrast with the red surfboard? | The blue bikini top contrasts with the red surfboard, drawing attention to her upper body. |

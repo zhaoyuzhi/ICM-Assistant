@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the person's pants beige? | Yes. |
+| Yes/No | Is the person wearing a white belt with a gold buckle? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the color of the person's blouse? | White. |
+| What | What is the color of the person's pants? | Beige. |
+| How | How are the person's arms positioned? | Relaxed at their sides. |
+| How | How are the person's legs positioned? | Slightly apart. |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Are her pants beige? | Yes. |
+| Yes/No | Is she wearing a white belt with a gold buckle? | Yes. |
+| Yes/No | Is her head turned to the side? | Yes. |
+| Yes/No | Are her arms relaxed at her sides? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What color are her pants? | Beige. |
+| How | How is the woman's head positioned? | Turned to the side. |
+| How | How would you describe the overall atmosphere of the image? | Calm and composed. |

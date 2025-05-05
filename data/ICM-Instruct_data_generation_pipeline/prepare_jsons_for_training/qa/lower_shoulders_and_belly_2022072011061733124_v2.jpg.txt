@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Are the woman's leggings blue? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Are the woman's sneakers white? | Yes. |
+| Yes/No | Does the image feature any text or other discernible objects? | No. |
+| What | What is the woman wearing on her feet? | White sneakers. |
+| What | What is the color of the woman's leggings? | Blue. |
+| How | How does the woman's pose in the image contribute to its overall appeal? | The woman's pose with her hands on her hips adds a dynamic element to the image, making it more engaging and seductive. |
+| How | How do the contrasting colors in the image enhance its visual appeal? | The white sneakers provide a contrast to the blue leggings, further enhancing the visual appeal of the image. |

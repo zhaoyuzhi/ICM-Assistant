@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Are sunglasses being worn by the woman in the image? | Yes. |
+| Yes/No | Is the bikini pink and white? | Yes. |
+| Yes/No | Is the woman walking on a beach? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's posture confident and relaxed? | Yes. |
+| What | What type of swimwear is the woman wearing? | A bikini. |
+| What | What is the dominant color of the bikini? | Pink and white. |
+| How | How does the beach setting contribute to the overall allure of the image? | It creates a sexy atmosphere by featuring a woman wearing a bikini, which is a common attire for women at the beach. |
+| How | How does the woman's posture contribute to the overall allure of the image? | Her confident and relaxed posture while walking on the beach adds to the overall allure of the image. |

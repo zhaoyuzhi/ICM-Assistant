@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person in the image wearing red underwear? | Yes. |
+| Yes/No | Is the bed in the image purple? | Yes. |
+| Yes/No | Is there a tree in the background of the image? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Are the person's movements described in the image? | No. |
+| What | What color is the background of the image? | Blue. |
+| What | What is the person in the image wearing? | Red underwear. |
+| How | How is the person positioned on the bed? | Facing away from the camera. |
+| How | How does the red underwear contrast with the blue background and tree in the corner? | It creates a striking contrast, making the image more captivating and seductive. |

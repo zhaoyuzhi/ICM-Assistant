@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have blue eyes? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman wearing pink lipstick? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have a confident facial expression? | Yes. |
+| What | What is the color of the woman's hair? | Black. |
+| What | What is the color of the woman's lipstick? | Pink. |
+| How | How is the woman's tongue positioned in the image? | Sticking out. |
+| How | How would you describe the woman's facial expression? | Confident and inviting. |

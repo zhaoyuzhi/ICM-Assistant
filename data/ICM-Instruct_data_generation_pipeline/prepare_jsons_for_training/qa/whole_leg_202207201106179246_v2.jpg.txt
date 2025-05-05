@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts the woman is wearing cropped at the knee? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's pose in the image neutral? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A white tshirt and blue shorts with a floral pattern. |
+| What | What is the woman's pose in the image? | She is standing with her hands resting at her sides. |
+| How | How are the shorts cropped in the image? | They are cropped at the knee. |
+| How | How does the image evoke a sense of allure? | The combination of the woman's outfit, pose, and the casual atmosphere create an image that is both visually appealing and evokes a sense of allure. |

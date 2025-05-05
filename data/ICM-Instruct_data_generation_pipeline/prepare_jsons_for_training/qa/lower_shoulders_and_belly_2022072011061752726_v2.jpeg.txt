@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue leggings? | Yes. |
+| Yes/No | Is the woman in the image wearing a black sports bra? | Yes. |
+| Yes/No | Does the woman in the image have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Are the woman's black sneakers visible in the image? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| What | What is the woman in the image wearing on her feet? | Black sneakers. |
+| What | What is the color of the woman's leggings in the image? | Blue. |
+| How | How is the woman posing in the image? | With her hands on her hips. |
+| How | How does the image create an enticing and seductive atmosphere? | Through the combination of tight clothing and a confident pose that accentuates the woman's body and exposed belly. |

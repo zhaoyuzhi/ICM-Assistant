@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple blouse? | Yes. |
+| Yes/No | Are the woman's shorts black? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the floor in the image white? | Yes. |
+| Yes/No | Is the wall in the image white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the woman's shoes? | White. |
+| What | What is the woman looking at? | The floor. |
+| How | How are the woman's shorts slit? | On the side. |
+| How | How does the woman's pose contribute to the image's sensuality? | It emphasizes her waist and hips. |

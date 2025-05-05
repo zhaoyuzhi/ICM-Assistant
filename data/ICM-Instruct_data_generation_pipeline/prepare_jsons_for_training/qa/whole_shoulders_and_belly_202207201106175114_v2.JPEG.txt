@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the shorts floral? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | Yes. |
+| Yes/No | Does the image depict a sexy atmosphere? | Yes. |
+| Yes/No | Are the shorts a vibrant mix of colors? | Yes. |
+| Yes/No | Does the woman's outfit reveal a significant amount of skin? | Yes. |
+| What | What is the color of the woman's top? | White. |
+| What | What is the dominant color in the floral shorts? | Pink. |
+| How | How is the woman's hair styled? | In a ponytail. |
+| How | How does the image evoke a sense of allure? | Through the woman's choice of attire and the way it is presented, creating a sexy and casual atmosphere. |

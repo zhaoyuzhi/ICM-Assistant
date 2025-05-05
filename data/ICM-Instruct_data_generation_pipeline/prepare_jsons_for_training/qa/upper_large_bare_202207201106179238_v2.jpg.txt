@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the water in the image blue? | Yes. |
+| Yes/No | Is the woman standing in the water? | Yes. |
+| Yes/No | Is the image taken at a beach or pool? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the primary color of the bikini top? | Silver. |
+| What | What is the color of the water in the image? | Light blue. |
+| How | How is the woman standing in the water? | She is standing with her feet shoulderwidth apart. |
+| How | How is the woman's head turned? | Her head is turned to the side. |

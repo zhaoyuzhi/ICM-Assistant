@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a male? | Yes. |
+| Yes/No | Is the person lifting their shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the atmosphere of the image playful? | Yes. |
+| Yes/No | Is the atmosphere of the image confident? | Yes. |
+| How | Does the image showcase the person's physique? | Yes. |
+| What | What is the person's attire? | White shirt and black pants. |
+| What | What is the person's facial expression? | Not specified in the description. |
+| How | How is the person lifting their shirt? | Not specified in the description. |
+| How | How is the person expressing confidence? | Through their actions and attire. |

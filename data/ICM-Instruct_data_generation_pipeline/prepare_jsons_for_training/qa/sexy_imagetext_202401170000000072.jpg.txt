@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a brown shirt? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman and man in a romantic or sexual situation? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and romantic? | Yes. |
+| Yes/No | Does the image suggest a strong emotional connection between the woman and man? | Yes. |
+| Yes/No | Does the image evoke curiosity and intrigue? | Yes. |
+| What | What is the woman doing in the image? | Holding the man close to her chest. |
+| What | What is the man doing in the image? | Resting his head on the woman's shoulder. |
+| How | How is the woman holding the man in the image? | With her arms around him and his head resting on her shoulder. |
+| How | How does the image suggest the woman and man are feeling? | They seem to be feeling comfortable, secure, and intimate with each other. |

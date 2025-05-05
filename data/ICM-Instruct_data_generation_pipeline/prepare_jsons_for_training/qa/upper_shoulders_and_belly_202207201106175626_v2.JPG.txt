@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless blouse? | Yes. |
+| Yes/No | Does the blouse have a lace-up front? | Yes. |
+| Yes/No | Are the woman's midriff and shoulders exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive or alluring? | Yes. |
+| Yes/No | Does the image contain any explicit content? | No. |
+| What | What color are the woman's jeans? | Blue. |
+| What | What is the woman's hair style in the image? | Not specified (the description only mentions that her head is tilted to the side). |
+| How | How is the woman's blouse fastened? | With a laceup front. |
+| How | How is the woman posing in the image? | With her hands on her hips and her head tilted to the side. |

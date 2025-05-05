@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white crop top? | Yes. |
+| Yes/No | Does the white crop top have straps? | No. |
+| Yes/No | Is the woman's midriff visible? | Yes. |
+| Yes/No | Are the blue jeans cropped at the ankle? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| What | What is the woman wearing on her upper body? | A white crop top. |
+| What | What is the woman wearing on her lower body? | Blue jeans. |
+| How | How is the woman's outfit contributing to the overall atmosphere of the image? | The woman's outfit is contributing to the overall atmosphere of the image by creating a sexy and confident look. The white crop top and blue jeans combination is a classic and timeless choice that is often associated with a sexy and confident look. The woman's pose with her hand on her hip adds a dynamic element to the image, making it more alluring and attentiongrabbing. |
+| How | How is the woman's pose adding to the overall atmosphere of the image? | The woman's pose with her hand on her hip is adding a dynamic element to the image, making it more alluring and attentiongrabbing. The pose accentuates her outfit and creates a sense of confidence and allure. |

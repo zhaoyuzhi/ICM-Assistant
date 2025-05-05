@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a bikini bottom? | Yes. |
+| Yes/No | Is the woman in the image lying on a rock? | Yes. |
+| Yes/No | Is the woman in the image facing the camera? | Yes. |
+| Yes/No | Does the woman in the image have loose waves in her hair? | Yes. |
+| Yes/No | Is the woman in the image wearing earrings? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A white bra. |
+| What | What is the woman in the image wearing on her lower body? | A white bikini bottom. |
+| How | How is the woman in the image posed on the rock? | She is lying down with her body facing the camera. |
+| How | How does the woman in the image look at the camera? | She is looking directly at the camera with a seductive expression. |

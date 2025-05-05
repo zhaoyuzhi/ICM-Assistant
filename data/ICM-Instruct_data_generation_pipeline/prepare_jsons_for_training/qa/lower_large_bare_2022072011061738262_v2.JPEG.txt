@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person wearing a black and white striped dress in the image? | Yes. |
+| Yes/No | Are the person's feet resting on the arm of the couch? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What is the person's attire in the image? | A black and white striped dress. |
+| What | What is the person's posture in the image? | Relaxed and confident, with crossed legs and feet resting on the arm of the couch. |
+| How | How does the person's attire contribute to the image's sensual atmosphere? | The bold stripes of the dress create a striking contrast with the person's skin, adding an element of intrigue and allure. |
+| How | How does the person's posture contribute to the image's sensual atmosphere? | The person's crossed legs and relaxed demeanor suggest a sense of confidence and intimacy, enhancing the sensual atmosphere of the image. |

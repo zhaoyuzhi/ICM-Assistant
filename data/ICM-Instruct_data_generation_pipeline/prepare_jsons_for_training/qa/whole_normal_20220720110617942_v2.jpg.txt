@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red and white shirt? | Yes. |
+| Yes/No | Are the woman's pants black? | Yes. |
+| Yes/No | Does the woman have white sneakers on? | Yes. |
+| Yes/No | Is the background of the image a red curtain? | Yes. |
+| Yes/No | Is the woman the main focus of the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's attire suggestive of? | A more formal or professional context. |
+| What | What is the overall atmosphere of the image? | Not sexy. |
+| How | How does the exposure level of the image affect the woman's appearance? | It makes her less prominent in the image. |
+| How | How does the stage setting contribute to the overall atmosphere of the image? | It suggests a more formal or professional context. |

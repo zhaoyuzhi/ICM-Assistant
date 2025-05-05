@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing high-heeled sandals? | Yes. |
+| Yes/No | Is the dress the person is wearing white? | Yes. |
+| Yes/No | Does the person have their legs crossed in the image? | Yes. |
+| Yes/No | Is the stool the person is sitting on white? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the texture of the sandals? | Corklike. |
+| What | What is the color of the dress? | White. |
+| How | How is the person sitting on the stool? | With their legs crossed. |
+| How | How does the white color of the dress and sandals add to the allure of the image? | It creates a stark contrast against the white stool, enhancing the person's attire and pose. |

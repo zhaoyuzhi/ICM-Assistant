@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a brown shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the man and woman kissing each other? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| What | What is the man wearing? | A brown shirt. |
+| What | What is the woman wearing? | A white shirt. |
+| How | How are the man and woman positioned in relation to each other? | They are standing close to each other, with the woman's head resting on the man's chest. |
+| How | How does the background appear? | The background appears to be blurred, suggesting a sunny day. |

@@ -1,0 +1,16 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray skirt? | Yes. |
+| Yes/No | Are the stockings being put on over the person's legs? | Yes. |
+| Yes/No | Is the dresser in the image white? | Yes. |
+| What | What color is the person's top? | Beige. |
+| What | What is the person standing in front of? | A white dresser. |
+| How | How are the stockings being put on? | Over the person's legs. |
+| What | What is the overall mood of the image? | Sensual/Sexy. |
+| Yes/No | Is the person in the image wearing a gray skirt? | Yes. |
+| Yes/No | Are the stockings being put on over the person's legs? | Yes. |
+| Yes/No | Is the dresser in the background white? | Yes. |
+| What | What color is the person's top? | Beige. |
+| What | What is the person standing in front of? | A white dresser. |
+| How | How are the stockings being put on? | Over the person's legs. |
+| What | What is the overall mood of the image? | Seductive/Sexy. |

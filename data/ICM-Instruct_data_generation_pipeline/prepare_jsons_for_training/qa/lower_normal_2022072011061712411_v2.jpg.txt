@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image dressed in a casual outfit? | Yes. |
+| Yes/No | Is the man's movements relaxed and unhurried? | Yes. |
+| Yes/No | Is the man's face visible in the image? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the man's clothing and movement? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and non-threatening? | Yes. |
+| What | What is the man wearing on his feet in the image? | White sneakers. |
+| What | What is the color of the man's t-shirt in the image? | White. |
+| How | How are the man's movements in the image? | Relaxed and unhurried. |
+| How | How is the man's privacy maintained in the image? | The man's face is not visible, and the exposure level is low. |

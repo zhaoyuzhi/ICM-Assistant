@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image standing upright? | Yes. |
+| Yes/No | Is the woman facing the camera? | Yes. |
+| Yes/No | Does the woman have a purple t-shirt? | Yes. |
+| Yes/No | Does the woman have a small logo on her t-shirt? | Yes. |
+| Yes/No | Are the denim shorts rolled up at the bottom? | Yes. |
+| Yes/No | Does the woman have a small purse with a zebra print pattern? | Yes. |
+| What | What color is the woman's t-shirt? | Purple. |
+| What | What pattern is on the woman's purse? | Zebra print. |
+| How | How is the woman's pose in the image? | Standing upright and facing the camera. |
+| How | How are the denim shorts styled in the image? | Rolled up at the bottom. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Are the man's hands raised in the image? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire in the image casual? | Yes. |
+| Yes/No | Does the image focus on the man's actions rather than his physical appearance? | Yes. |
+| What | What color is the man's t-shirt? | Black. |
+| What | What is the man's hand gesture in the image? | Possibly a gesture of surprise or excitement. |
+| How | How is the background of the image? | Blurred. |
+| What | What does the low exposure level of the image suggest? | That the details of the background are not clearly visible. |

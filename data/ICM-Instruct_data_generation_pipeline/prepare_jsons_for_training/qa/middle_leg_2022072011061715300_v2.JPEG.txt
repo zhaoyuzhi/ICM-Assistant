@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a shirt? | Yes. |
+| Yes/No | Are the shorts loose-fitting? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the color of the shorts? | Light blue. |
+| What | What is the color of the shirt? | White. |
+| How | How does the woman's pose suggest confidence and self-assuredness? | The woman is standing with her hands on her hips, which is a confident and selfassured pose. |
+| How | How does the contrast between the shorts and shirt contribute to the overall allure of the image? | The contrast between the light blue shorts and white shirt creates a visually appealing contrast that draws attention to the woman's body, adding to the overall allure of the image. |

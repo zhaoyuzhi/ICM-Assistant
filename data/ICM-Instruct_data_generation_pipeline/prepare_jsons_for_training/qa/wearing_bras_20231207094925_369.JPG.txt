@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra strapless? | Yes. |
+| Yes/No | Is the woman adjusting the straps of the bra? | Yes. |
+| Yes/No | Is the bow at the back of the bra being adjusted? | Yes. |
+| Yes/No | Is the background of the image a plain blue wall? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the bra? | Light green. |
+| What | What is the woman doing in the image? | Adjusting the straps and bow of the bra. |
+| How | How is the woman adjusting the straps of the bra? | In a deliberate and careful manner. |
+| How | How does the contrast between the bra and the background contribute to the atmosphere of the image? | It adds to the overall intimate and alluring feel of the image. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra strapless? | Yes. |
+| Yes/No | Is the woman adjusting the straps of the bra? | Yes. |
+| Yes/No | Is the bow at the back of the bra being adjusted? | Yes. |
+| Yes/No | Is the background of the image plain blue? | Yes. |
+| Yes/No | Does the image convey a sense of sensuality and allure? | Yes. |
+| What | What is the color of the bra the woman is wearing? | Light green. |
+| What | What is the woman doing in the image? | Adjusting the straps and bow of the bra. |
+| How | How is the woman adjusting the straps of the bra? | With her hands. |
+| How | How does the contrast between the bra and the background contribute to the atmosphere of the image? | It adds to the overall intimate and alluring feel of the image. |

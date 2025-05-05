@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of white trousers? | Yes. |
+| Yes/No | Is the person's shirt tucked into their trousers? | Yes. |
+| Yes/No | Does the person have their hands placed on their hips? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire professional and formal? | Yes. |
+| What | What is the color of the person's trousers? | White. |
+| What | What is the style of the person's shirt? | Collared. |
+| How | How are the person's hands positioned in the image? | On their hips. |
+| How | How would you describe the overall atmosphere of the image? | Professional and formal. |
+| Yes/No | Is the person in the image wearing a pair of white trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Does the person in the image have a belt with a gold buckle? | Yes. |
+| Yes/No | Is the overall atmosphere of the image neutral and professional? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual context or suggestive poses? | No. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the color of the person's trousers? | White. |
+| What | What is the type of top the person is wearing? | A simple white blouse with a collar. |
+| How | How is the belt fastened around the person's waist? | It is fastened with a gold buckle. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and professional. |

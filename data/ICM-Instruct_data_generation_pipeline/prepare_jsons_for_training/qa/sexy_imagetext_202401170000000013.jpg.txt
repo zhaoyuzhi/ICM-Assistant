@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image sitting? | Yes. |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Are the man and woman hugging each other? | Yes. |
+| Yes/No | Is the man wearing a white sweater? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| What | What is the man in the image wearing? | A white sweater. |
+| What | What is the woman in the image wearing? | A white shirt. |
+| How | How are the man and woman positioned in the image? | They are hugging each other, with the man sitting on a chair and the woman standing next to him. |
+| How | How does the background of the image contribute to the overall atmosphere? | The gray wall and black chair provide a neutral backdrop that emphasizes the intimate atmosphere created by the man and woman's close physical contact. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beanie? | Yes. |
+| Yes/No | Is the woman sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the woman's facial expression confident? | Yes. |
+| Yes/No | Does the image evoke feelings of attraction and desire? | Yes. |
+| What | What is the color of the woman's beanie? | Gray. |
+| What | What is the woman's facial expression? | Relaxed and confident. |
+| How | How is the woman's tongue sticking out? | Playfully and flirtatiously. |
+| How | How does the gray beanie add to the image's appeal? | Casually and stylishly. |

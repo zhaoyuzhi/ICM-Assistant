@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the material of the dress light and flowing? | Yes. |
+| Yes/No | Is the setting of the image urban? | Yes. |
+| Yes/No | Are cars and buildings visible in the background? | Yes. |
+| Yes/No | Does the image convey a sense of allure and intrigue? | Yes. |
+| What | What is the dominant color of the dress? | White. |
+| What | What is the atmosphere of the image? | Seductive and captivating. |
+| How | How does the contrast between the white dress and the urban setting enhance the image's allure? | It creates a striking visual effect. |
+| How | How does the image convey a sense of sensuality and allure? | The low back and exposed skin create a sense of reveal, which is often associated with sensuality and allure. |

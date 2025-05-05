@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are her legs spread apart? | Yes. |
+| Yes/No | Are her arms resting on her knees? | Yes. |
+| Yes/No | Is the bikini top low-cut? | Yes. |
+| Yes/No | Is the bikini bottom high-waisted? | Yes. |
+| What | What is the woman's pose in the image? | Relaxed, with her legs spread apart and her arms resting on her knees. |
+| What | What is the atmosphere of the image? | Sexy. |
+| How | How is the woman's confidence conveyed in the image? | Through her relaxed pose and direct gaze at the camera. |
+| How | How does the image feature the woman's body? | The image highlights the woman's cleavage and midriff through the lowcut bikini top and highwaisted bottom. |

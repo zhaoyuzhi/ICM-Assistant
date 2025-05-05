@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing glasses? | Yes. |
+| Yes/No | Does the person have long hair? | Yes. |
+| Yes/No | Is the person making a duck face? | Yes. |
+| Yes/No | Is the person biting their lip? | Yes. |
+| Yes/No | Is the overall atmosphere of the image playful? | Yes. |
+| Yes/No | Is the overall atmosphere of the image confident? | Yes. |
+| What | What color are the glasses? | Blue. |
+| What | What is the person's facial expression? | Duck face. |
+| How | How is the person biting their lip? | In a confident and alluring way. |
+| How | How does the image make you feel? | Playful and confident. |

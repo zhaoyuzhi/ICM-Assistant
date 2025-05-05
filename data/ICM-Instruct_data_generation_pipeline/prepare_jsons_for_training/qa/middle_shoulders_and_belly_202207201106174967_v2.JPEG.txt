@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person's hand holding the jeans open? | Yes. |
+| Yes/No | Is the person's belly button visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's hand positioned on in the image? | Left side. |
+| What | What is the color of the jeans the person is wearing? | Blue. |
+| How | How does the person's hand holding the jeans open add to the image's appeal? | It adds an element of vulnerability and sensuality. |
+| How | How does the contrast between the blue jeans and the person's skin contribute to the image's overall atmosphere? | It creates a visually appealing contrast that adds to the intimate and sensual atmosphere of the image. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person's hand visible in the image? | Yes. |
+| Yes/No | Is the person's skin visible in the image? | Yes. |
+| Yes/No | Is the person's hair visible in the image? | Yes. |
+| Yes/No | Is the person wearing a watch in the image? | Yes. |
+| What | What is the person in the image holding onto? | The person is holding onto their jeans, which are open. |
+| What | What is the person's hand doing in the image? | The person's hand is holding the jeans open, revealing their belly. |
+| How | How is the person standing in the image? | The person is standing with their legs straight. |
+| How | How is the background in the image? | The background is blurred. |

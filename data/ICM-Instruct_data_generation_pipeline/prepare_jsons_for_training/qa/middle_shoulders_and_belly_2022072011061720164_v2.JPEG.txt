@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Does the person in the image have a belly button piercing? | Yes. |
+| Yes/No | Is the person in the image wearing a navel ring? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Is the image a close-up shot? | No. |
+| What | What is the color of the skirt? | Pink. |
+| What | What is the person's attire suggestive of? | Confidence and selfexpression. |
+| How | How does the image showcase the person's body? | In a confident and alluring manner. |
+| How | How does the pink skirt add to the image's allure? | It adds a touch of color and femininity, enhancing its sensuality and selfexpression. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Does the person in the image have a belly button piercing? | Yes. |
+| Yes/No | Is the person in the image wearing any other clothing besides the skirt? | No. |
+| Yes/No | Does the person in the image have any other visible tattoos? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| How | Does the image show the person's face? | No. |
+| What | What is the color of the skirt? | Pink. |
+| What | What is the location of the tattoo on the person's body? | On their belly. |
+| How | How does the image capture the person's belly button piercing? | The image shows a closeup view of the person's belly button piercing, highlighting the details of the piercing. |
+| How | How does the image convey a sensual and intimate atmosphere? | The image conveys a sensual and intimate atmosphere through the closeup perspective, the exposure of the person's belly, and the pink skirt, which adds a touch of color and femininity. |

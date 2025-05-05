@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white wedding dress? | Yes. |
+| Yes/No | Does the dress have a deep V-neckline? | Yes. |
+| Yes/No | Does the dress have a long train? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing? | A white wedding dress. |
+| What | What is the background of the image? | A garden. |
+| How | How is the woman's left leg revealed? | Through a high slit on the left side of the dress. |
+| How | How does the woman's pose suggest confidence and self-assurance? | Her head is turned over her shoulder. |

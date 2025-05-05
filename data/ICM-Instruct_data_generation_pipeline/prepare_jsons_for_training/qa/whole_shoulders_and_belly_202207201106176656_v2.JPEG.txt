@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the jeans the woman is wearing ripped? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image depict a sexy scene? | Yes. |
+| Yes/No | Is the woman in the image confident and self-assured? | Yes. |
+| What | What color is the woman's top? | Gray. |
+| What | What is the color of the woman's jeans? | Blue. |
+| How | How is the woman's hair styled in the image? | Pulled back into a ponytail. |
+| How | How would you describe the woman's posture in the image? | Relaxed and confident. |

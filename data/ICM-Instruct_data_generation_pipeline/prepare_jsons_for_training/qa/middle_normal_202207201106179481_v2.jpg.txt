@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a plaid shirt? | Yes. |
+| Yes/No | Is the person in the image holding a phone? | Yes. |
+| Yes/No | Is the person in the image holding a purse? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire in the image provocative or sensual? | No. |
+| What | What is the person in the image holding in their right hand? | A phone. |
+| What | What is the person in the image holding in their left hand? | A purse. |
+| How | How is the person's attire in the image described? | Casual, everyday. |
+| How | How would you describe the overall atmosphere of the image? | Relaxed, informal. |
+| Yes/No | Is the person in the image wearing a plaid shirt? | Yes. |
+| Yes/No | Is the person in the image holding a phone? | Yes. |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a black belt? | Yes. |
+| Yes/No | Is the person in the image posing in a sexual manner? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What is the person in the image holding in their right hand? | A phone. |
+| What | What is the person in the image wearing on their lower body? | A black skirt. |
+| How | How is the person in the image standing? | With their left hand on their hip and their right hand holding a phone. |
+| How | How would you describe the overall atmosphere of the image? | Nonsexual and relaxed. |

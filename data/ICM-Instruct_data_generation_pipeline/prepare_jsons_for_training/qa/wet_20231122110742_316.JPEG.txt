@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the person's eyes closed? | Yes. |
+| Yes/No | Is the person sitting down? | Yes. |
+| Yes/No | Is the atmosphere of the image calm and introspective? | Yes. |
+| Yes/No | Does the image depict a moment of relaxation or contemplation? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's attire in the image? | A white tshirt. |
+| What | What is the person's body language in the image? | Relaxed, with closed eyes and a seated posture. |
+| How | How does the soaked t-shirt contribute to the image's atmosphere? | It suggests vulnerability and intimacy, adding to the overall sense of sensuality and allure. |
+| How | How does the person's closed eyes and relaxed posture contribute to the image's atmosphere? | They evoke a sense of trust and connection, which adds to the image's calm and introspective nature. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the person in the image have a belly button piercing? | Yes. |
+| Yes/No | Are the gemstones in the belly button piercing clear? | Yes. |
+| Yes/No | Is the person in the image standing or sitting? | No. |
+| Yes/No | Is the image in color or black and white? | Color. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| What | What is the person in the image wearing on their upper body? | A black shirt. |
+| What | What is the color of the gemstones in the belly button piercing? | Clear. |
+| How | How many gemstones are in the belly button piercing? | Multiple (at least 3). |
+| How | How is the person in the image standing? | With their feet shoulderwidth apart and their hands on their hips. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the person in the image have a belly button piercing? | Yes. |
+| Yes/No | Are the beads on the piercing clear? | Yes. |
+| Yes/No | Is the person's skin tone visible in the image? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the person's posture in the image? | Relaxed and confident. |
+| What | What is the focal point of the image? | The belly button piercing. |
+| How | How does the black shirt worn by the person accentuate the piercing? | It contrasts with the skin tone and draws attention to the piercing. |
+| How | How does the image make the person appear? | Intimate and alluring. |

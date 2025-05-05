@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a polka dot skirt? | Yes. |
+| Yes/No | Are the person's heels black? | Yes. |
+| Yes/No | Is the image close-up on the person's legs? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person wearing on their feet? | Black heels. |
+| What | What is the pattern on the person's skirt? | Polka dots. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How would you describe the overall atmosphere of the image? | Seductive and alluring. |

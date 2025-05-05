@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing purple lace underwear? | Yes. |
+| Yes/No | Is the person in the image sitting on a white fur rug? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Does the image feature a provocative and alluring piece of clothing? | Yes. |
+| Yes/No | Is the overall mood of the image seductive and alluring? | Yes. |
+| What | What is the person in the image wearing? | A pair of purple lace underwear. |
+| What | What is the background of the image? | A white fur rug. |
+| How | How is the person sitting on the rug? | With their legs crossed. |
+| How | How does the image enhance the overall atmosphere? | The contrasting and luxurious background of the white fur rug enhances the overall atmosphere, and the person's crossed legs and the way they are sitting on the rug contribute to the overall seductive and alluring mood of the image. |

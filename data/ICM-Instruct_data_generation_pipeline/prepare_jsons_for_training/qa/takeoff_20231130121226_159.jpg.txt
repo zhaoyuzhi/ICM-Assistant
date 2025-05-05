@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Is the woman holding her dress up with her hands? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's pose suggestive of confidence and comfort in her appearance? | Yes. |
+| What | What is the woman holding in her hands? | Her black dress. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How is the woman holding her dress up? | With her hands. |
+| How | How does the ocean in the background enhance the atmosphere of the image? | It adds to the intimate and private feel of the image. |

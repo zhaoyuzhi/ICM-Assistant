@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image flexing his muscles? | Yes. |
+| Yes/No | Is the man in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the swimsuit blue and white striped? | Yes. |
+| Yes/No | Are the man's arms crossed in front of him? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image doing with his arms? | Crossing them in front of him. |
+| What | What color is the swimsuit the man is wearing? | Blue and white striped. |
+| How | How is the man's physique in the image? | Muscular. |
+| How | How does the image create a sense of allure and desire? | Through the man's physique and attire. |

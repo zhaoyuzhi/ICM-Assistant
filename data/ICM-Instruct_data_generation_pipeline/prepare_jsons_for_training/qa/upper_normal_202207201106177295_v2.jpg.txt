@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a blue blouse? | Yes. |
+| Yes/No | Does the woman have a neat bun hairstyle? | Yes. |
+| Yes/No | Is the background a solid pink color? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman wearing? | A blue blouse and a beige skirt. |
+| What | What is the color of the background? | Pink. |
+| How | How is the woman's hair styled? | In a neat bun. |
+| How | How does the woman look at the camera? | Directly. |

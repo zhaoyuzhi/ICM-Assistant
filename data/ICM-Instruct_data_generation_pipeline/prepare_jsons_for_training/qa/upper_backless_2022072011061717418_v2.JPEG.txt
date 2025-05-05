@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the person wearing black shorts? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person's gender? | Cannot be determined from the description. |
+| What | What is the person's facial expression? | Cannot be determined from the description. |
+| How | How are the person's hands positioned on their back? | Placed on their lower back. |
+| How | How does the person's exposed back contribute to the image's atmosphere? | It suggests vulnerability and adds to the overall sexy atmosphere. |

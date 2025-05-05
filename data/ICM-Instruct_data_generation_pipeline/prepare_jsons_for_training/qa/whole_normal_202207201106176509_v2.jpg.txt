@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pajama set? | Yes. |
+| Yes/No | Is the woman's body visible in the image? | No. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image contain any revealing or provocative clothing? | No. |
+| Yes/No | Is the focus of the image on the woman's movements or the room's interior? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman wearing in the image? | A pink and white pajama set with a heart pattern. |
+| What | What is the focus of the image? | The woman's movements and the room's interior. |
+| How | How is the woman's body depicted in the image? | The woman's body is not visible due to the low exposure level. |
+| How | How does the image portray the woman's attire? | The image portrays the woman's pajama set as casual and not provocative or revealing. |

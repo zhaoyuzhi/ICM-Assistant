@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black suit? | Yes. |
+| Yes/No | Is the woman wearing a blue dress? | Yes. |
+| Yes/No | Are the two people kissing? | Yes. |
+| Yes/No | Are the man's hands on the woman's face? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the woman's dress? | Blue. |
+| What | What is the man's attire? | Black suit. |
+| How | How are the two people standing? | Close to each other, with the woman's arms wrapped around the man's neck. |
+| How | How are the man's hands positioned? | On the woman's face, pulling her closer. |

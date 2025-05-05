@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person wearing a white shirt and black shorts? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is the person's left foot on the bed? | Yes. |
+| Yes/No | Is the person's right hand holding the stocking up? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and personal? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What color are the stockings? | Beige. |
+| How | How is the person holding the stocking up? | With their right hand. |
+| How | How is the person's left hand involved in the process of putting on the stockings? | Holding the other end of the stocking. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person wearing a white shirt and black shorts? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is the person's left foot on the bed? | Yes. |
+| Yes/No | Is the person's right hand holding the stocking up? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person doing in the image? | Putting on beige stockings. |
+| What | What is the color of the stockings? | Beige. |
+| How | How is the person's left hand holding the stocking? | The person's left hand is holding the other end of the stocking. |
+| How | How is the person's right hand holding the stocking? | The person's right hand is holding the stocking up. |

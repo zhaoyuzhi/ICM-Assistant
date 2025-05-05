@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman dressed in a pink and white floral dress? | Yes. |
+| Yes/No | Does the woman have loose waves in her hair? | Yes. |
+| Yes/No | Is the image taken in front of a building? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman wearing in the image? | A pink and white floral dress. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| How | How is the woman standing in the image? | She is standing in front of a building. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is not sexy, it focuses on the woman's outfit and her pose in front of the building. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini colorful? | Yes. |
+| Yes/No | Is the woman walking on the beach? | Yes. |
+| Yes/No | Is the ocean water visible behind the woman? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What type of swimwear is the woman wearing? | A bikini. |
+| What | What is the design on the bottom of the bikini? | Tiedye. |
+| How | How is the woman's appearance in the image? | She is alluring and sensual. |
+| How | How does the image make you feel? | It makes me feel relaxed and appreciative of the beauty of the human form. |

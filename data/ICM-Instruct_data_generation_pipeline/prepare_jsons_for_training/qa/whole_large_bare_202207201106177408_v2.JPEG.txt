@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top colorful? | Yes. |
+| Yes/No | Does the bikini bottom have a floral pattern? | Yes. |
+| Yes/No | Is the woman standing on the beach? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| What | What is the color of the bikini bottom? | Black. |
+| What | What is the pattern on the bikini top? | Green, blue, and yellow. |
+| How | How does the woman appear to be feeling in the image? | She appears to be enjoying herself and feeling confident. |
+| How | How do the bright colors of her bikini contrast with the natural tones of the beach and ocean? | The bright colors of her bikini contrast starkly with the natural tones of the beach and ocean, drawing attention to her. |

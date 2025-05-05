@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the person in the image have short hair? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the exposure level of the person in the image low? | Yes. |
+| Yes/No | Is the focus of the image on the person's face and upper body? | Yes. |
+| Yes/No | Is the image intended to be sexy or provocative? | No. |
+| What | What is the main focus of the image? | The person's face and upper body. |
+| What | What is the atmosphere of the image? | Casual or candid, not sexy or provocative. |
+| How | How is the person standing in front of the white background? | Not specified in the description. |
+| How | How does the low exposure level of the person's body affect the image? | It emphasizes that the image is not intended to be provocative or sensual. |

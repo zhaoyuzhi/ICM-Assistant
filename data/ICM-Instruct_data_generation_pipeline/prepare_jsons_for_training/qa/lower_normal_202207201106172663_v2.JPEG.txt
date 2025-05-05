@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a t-shirt? | Yes. |
+| Yes/No | Is the man positioned in front of a couch? | Yes. |
+| Yes/No | Is the man positioned in front of a plant? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color are the man's shorts? | Green. |
+| What | What color is the man's t-shirt? | White. |
+| How | How is the man positioned in the image? | He is standing in front of a couch and a plant. |
+| How | How would you describe the atmosphere of the image? | Casual and comfortable. |

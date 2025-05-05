@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige knee-high stocking? | Yes. |
+| Yes/No | Is the person in the image wearing a beige skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Is the person's leg bent at the knee in the image? | Yes. |
+| Yes/No | Is the person's hand holding the stocking in place in the image? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color is the person's stocking in the image? | Beige. |
+| What | What is the person's posture in the image? | Bent knee, confident and alluring. |
+| How | How is the person holding the stocking in place in the image? | With their hand. |
+| What | What atmosphere does the image create according to the description? | Alluring and intriguing. |
+| Yes/No | Is the person in the image wearing a beige knee-high stocking? | Yes. |
+| Yes/No | Is the person in the image wearing a beige skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Is the person's leg bent at the knee in the image? | Yes. |
+| Yes/No | Is the person's hand holding the stocking in place in the image? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the color of the stocking in the image? | Beige. |
+| What | What is the person's posture in the image? | Bent knee, confident and alluring. |
+| How | How is the person holding the stocking in place in the image? | With their hand. |
+| What | What atmosphere does the image create? | Alluring and intriguing. |

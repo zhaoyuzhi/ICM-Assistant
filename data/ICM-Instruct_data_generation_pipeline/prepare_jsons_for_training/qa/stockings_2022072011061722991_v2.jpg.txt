@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing stockings? | Yes. |
+| Yes/No | Are the stockings black? | Yes. |
+| Yes/No | Is the skirt brown and white in color? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the color of the person's skirt? | Brown and white. |
+| What | What is the person's pose suggestion? | Vulnerability and seduction. |
+| How | How are the person's legs positioned? | Crossed and bent. |
+| How | How does the combination of the skirt and stockings create an atmosphere? | Elegance and confidence. |

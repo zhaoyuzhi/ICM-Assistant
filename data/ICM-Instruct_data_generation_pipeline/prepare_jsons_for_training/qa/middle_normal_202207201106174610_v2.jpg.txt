@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige pantsuit? | Yes. |
+| Yes/No | Are the person's hands placed in their pockets? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image suggest a sexual context or suggestive poses? | No. |
+| Yes/No | Is the person's attire provocative or revealing? | No. |
+| Yes/No | Does the image focus on the person's physical appearance rather than their attire? | No. |
+| What | What color is the person's pantsuit? | Beige. |
+| What | What is the person's belt made of? | Silver. |
+| How | How are the person's hands positioned in the image? | In their pockets. |
+| How | How does the blurred background affect the overall atmosphere of the image? | It emphasizes the person's attire rather than their body or appearance, contributing to a neutral and professional atmosphere. |
+| Yes/No | Is the person in the image wearing a pantsuit? | Yes. |
+| Yes/No | Is the pantsuit beige? | Yes. |
+| Yes/No | Does the pantsuit include a blazer? | Yes. |
+| Yes/No | Is the belt silver? | Yes. |
+| Yes/No | Are the person's hands placed behind their back? | Yes. |
+| Yes/No | Is the overall atmosphere of the image professional and formal? | Yes. |
+| What | What is the dominant color of the pantsuit? | Beige. |
+| What | What is the material of the belt? | Silver. |
+| How | How is the pantsuit fitted? | Wellfitted. |
+| How | How would you describe the overall atmosphere of the image? | Professional and formal. |

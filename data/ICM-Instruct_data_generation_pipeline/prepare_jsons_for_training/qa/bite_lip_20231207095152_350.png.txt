@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a necklace? | Yes. |
+| Yes/No | Are earbuds visible in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the image generally considered "sexy"? | Yes. |
+| What | What is the woman doing with her lip in the image? | Biting it. |
+| What | What is the color of the woman's hair? | Brown. |
+| How | How is the woman's expression described in the image? | Seductive and alluring. |
+| How | How does the woman's action of biting her lip add to the image's atmosphere? | It adds a sensual touch. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a brown jacket? | Yes. |
+| Yes/No | Is the woman wearing a white sweater? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| Yes/No | Are the man's lips pressed against the woman's in a kiss? | Yes. |
+| What | What is the man wearing? | A brown jacket. |
+| What | What is the woman wearing? | A white sweater. |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other, with the man's arms wrapped around the woman's waist. |
+| How | How is the woman looking at the man? | She is looking up at the man with her head tilted back. |

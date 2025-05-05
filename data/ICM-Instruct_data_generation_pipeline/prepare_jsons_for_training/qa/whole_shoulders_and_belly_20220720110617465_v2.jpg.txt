@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a midriff-baring skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the woman in the image wearing a watch? | Yes. |
+| Yes/No | Is the man in front of the woman also wearing a watch? | No. |
+| Yes/No | Is the atmosphere of the image formal or casual? | Casual. |
+| What | What is the woman in the image holding in her hand? | A purse. |
+| What | What is the woman in the image wearing on her wrist? | A watch. |
+| How | How is the woman in the image walking? | Confidently and relaxed. |
+| How | How does the presence of the man in front of the woman add to the overall atmosphere of the image? | It adds a sense of intimacy and intrigue to the scene. |

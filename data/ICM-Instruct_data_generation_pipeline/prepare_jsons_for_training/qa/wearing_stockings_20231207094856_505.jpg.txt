@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on the stockings? | Yes. |
+| Yes/No | Is the person wearing a gray shirt? | Yes. |
+| Yes/No | Are the shorts beige? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the person lying on a bed with a white sheet? | Yes. |
+| What | What color are the stockings? | Black. |
+| What | What is the person wearing that is gray? | A shirt. |
+| How | How are the stockings being put on? | The person is in the process of putting them on. |
+| How | How do the beige shorts add to the overall allure of the image? | They are a revealing piece of clothing that further accentuates the person's legs. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing beige shorts? | Yes. |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Is the person in the image wearing a gray shirt? | Yes. |
+| Yes/No | Are the stockings being put on in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the stockings being worn by the person in the image? | Black. |
+| What | What color are the shorts being worn by the person in the image? | Beige. |
+| How | How are the stockings being put on in the image? | The person is in the process of putting them on. |
+| What | What is the overall atmosphere created by the combination of elements in the image? | A sexy atmosphere. |

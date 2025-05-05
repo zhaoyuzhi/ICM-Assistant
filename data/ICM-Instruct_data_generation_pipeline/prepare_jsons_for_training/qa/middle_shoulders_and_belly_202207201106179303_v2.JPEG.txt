@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Does the image feature a close-up shot of the person's belly button? | Yes. |
+| Yes/No | Is the person's hair styled in a ponytail? | Yes. |
+| Yes/No | Does the image include a collage of multiple photos? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person have a belly button piercing? | Yes. |
+| What | What is the person wearing in the image? | A white shirt. |
+| What | What is the person's hair style in the image? | A ponytail. |
+| How | How does the close-up shot of the belly button piercing contribute to the image's overall effect? | It adds an element of intrigue and allure, making the image more captivating and seductive. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the image feature a close-up view of the person's body? | Yes. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Are the person's pants blue? | Yes. |
+| Yes/No | Is the image a collage of multiple photos? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| What | What is the person's attire in the image? | White shirt and blue pants. |
+| What | What is the color of the pillow and blanket in the background? | White pillow, blue blanket. |
+| How | How does the image evoke a sense of intimacy and personal expression? | Through the closeup view of the person's body and the casual, relaxed atmosphere created by the attire and setting. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bright orange dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the woman standing on a street with a building in the background? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and allure? | Yes. |
+| Yes/No | Is the image sexy due to the woman's attire and pose? | Yes. |
+| What | What is the color of the woman's dress? | Bright orange. |
+| What | What is the woman's pose in the image? | She has her hand on her hip. |
+| How | How does the woman's dress reveal a large area of her back? | The dress has a low back and plunging neckline. |
+| How | How does the woman's pose contribute to the overall allure and confidence of the image? | Her pose, with her hand on her hip, adds to the overall allure and confidence of the image. |

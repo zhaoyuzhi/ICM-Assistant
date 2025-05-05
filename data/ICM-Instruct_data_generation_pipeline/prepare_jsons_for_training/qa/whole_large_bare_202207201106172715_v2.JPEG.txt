@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini a two-piece swimsuit? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are her body and face facing the viewer? | Yes. |
+| What | What is the woman's hair style? | Ponytail. |
+| What | What is she wearing on her ears? | Earrings. |
+| How | How is the bikini top tied? | Tied at the back. |
+| How | How are the bikini bottoms tied? | Tied at the sides. |

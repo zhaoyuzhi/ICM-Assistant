@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Does the person have bows on their stockings? | Yes. |
+| Yes/No | Is the person wearing a black dress? | Yes. |
+| Yes/No | Are the stockings sheer? | Yes. |
+| Yes/No | Is the person's leg crossed? | Yes. |
+| Yes/No | Is the car seat visible in the background? | Yes. |
+| What | What color are the stockings? | Black. |
+| What | What is the person wearing besides the stockings and dress? | Nothing. |
+| How | How are the stockings tied? | With bows. |
+| How | How is the person sitting in the car? | With their legs crossed. |

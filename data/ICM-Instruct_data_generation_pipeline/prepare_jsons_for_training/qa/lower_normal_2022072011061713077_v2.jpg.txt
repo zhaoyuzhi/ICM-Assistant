@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting on a chair or sofa? | No. |
+| Yes/No | Is the woman in the image wearing a dress or skirt? | No. |
+| Yes/No | Does the image depict a sexy or explicit scene? | No. |
+| Yes/No | Is the woman in the image smiling or posing suggestively? | No. |
+| Yes/No | Does the image contain any objects or elements that suggest a specific context or theme? | No. |
+| Yes/No | Does the woman in the image have any tattoos or piercings visible? | No. |
+| What | What is the primary color scheme of the woman's sneakers? | Pink and orange. |
+| What | What is the woman's posture in the image? | Relaxed and casual. |
+| How | How are the woman's legs positioned in the image? | Crossed. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonthreatening. |

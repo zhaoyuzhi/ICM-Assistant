@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the sweatpants gray? | Yes. |
+| Yes/No | Does the top feature a graphic of a skull and crossbones? | Yes. |
+| Yes/No | Is the woman striking a pose with her left hand on her hip? | Yes. |
+| Yes/No | Is she looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the woman's top? | Black and white. |
+| What | What is the logo on the left leg of the sweatpants? | White. |
+| How | How is the woman posing in the image? | With her left hand on her hip and her right hand resting on her thigh. |
+| What | What is the woman's facial expression in the image? | A slight smile. |

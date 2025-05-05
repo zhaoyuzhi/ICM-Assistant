@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black sports bra and black leggings? | Yes. |
+| Yes/No | Is the woman's body the main focus of the image? | No. |
+| Yes/No | Does the image suggest a provocative or seductive context? | No. |
+| Yes/No | Is the woman positioned in a way that suggests she is walking or standing still? | Yes. |
+| Yes/No | Does the image feature a sidewalk setting? | Yes. |
+| Yes/No | Is the woman dressed in athletic clothing? | Yes. |
+| What | What is the woman's attire in the image? | Black sports bra and black leggings. |
+| What | What is the focus of the image? | The woman's athletic attire and movements. |
+| How | How is the woman positioned in the image? | She is standing or walking on a sidewalk. |
+| How | How does the image emphasize the focus on the woman's actions and attire rather than her physical appearance? | The low exposure level and the blurred background shift the focus to the woman's athletic attire and movements rather than her body. |

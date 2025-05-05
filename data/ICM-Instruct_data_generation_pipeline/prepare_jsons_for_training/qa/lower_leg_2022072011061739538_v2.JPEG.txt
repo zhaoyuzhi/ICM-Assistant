@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing high-heeled sandals? | Yes. |
+| Yes/No | Is the person in the image naked from the thighs down? | Yes. |
+| Yes/No | Are the sandals white in color? | Yes. |
+| Yes/No | Does the person have their legs crossed? | Yes. |
+| Yes/No | Are the sandals thick with a thin strap around the ankle? | Yes. |
+| Yes/No | Is the background of the image a plain white wall? | Yes. |
+| What | What is the person wearing on their feet? | Highheeled sandals. |
+| What | What is the color of the sandals? | White. |
+| How | How are the person's legs positioned in the image? | Crossed, with their feet resting on the chair. |
+| What | What creates an atmosphere of sensuality and allure in the image? | The combination of the person's attire and pose, specifically the highheeled sandals and the crossed legs. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the woman in the image standing in a room with a bed? | Yes. |
+| Yes/No | Is the woman in the image looking upwards? | Yes. |
+| Yes/No | Are there any texts in the image? | No. |
+| Yes/No | Is the woman in the image holding her hands up to her face? | Yes. |
+| What | What color is the bra the woman is wearing? | Black. |
+| What | What is the woman in the image looking at? | Upwards. |
+| How | How is the woman holding her hands in the image? | With her hands up to her face. |
+| How | How would you describe the atmosphere of the image? | Intimate and seductive. |

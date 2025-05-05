@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the blue jeans the woman is wearing a classic style? | Yes. |
+| Yes/No | Is the woman's pose in the image confident and relaxed? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color is the woman's blouse? | White. |
+| What | What is the woman's pose in the image? | She is standing with her left hand resting on her hip and her right hand lightly touching her thigh. |
+| How | How is the woman's blouse made? | It appears to be made of a lightweight fabric, possibly cotton or linen. |
+| How | How does the woman's pose in the image add to the overall allure of the image? | The woman's pose, with her hand on her hip and her thigh, adds to the overall allure of the image by creating a sense of confidence and selfassuredness. |

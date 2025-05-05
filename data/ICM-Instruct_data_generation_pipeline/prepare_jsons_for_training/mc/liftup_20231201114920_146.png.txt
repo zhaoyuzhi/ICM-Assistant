@@ -1,0 +1,7 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What color is the person's shirt in the image? |A. Black |B. White |C. Red |D. Blue |B. |
+| What is the person doing in the image? |A. Lifting their clothes |B. Eating food |C. Dancing |D. Sleeping |A. |
+| What color are the person's pants in the image? |A. Black |B. White |C. Gray |D. Brown |A. |
+| What is the mood of the image? |A. Happy |B. Sad |C. Mysterious |D. Angry |C. |
+| What is the primary focus of the image? |A. Background |B. Person |C. Objects in the foreground |D. Clothing |B. |

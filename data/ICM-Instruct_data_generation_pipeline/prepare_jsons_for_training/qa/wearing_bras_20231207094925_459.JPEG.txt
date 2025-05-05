@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Does the bra have a blue strap? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra? | White. |
+| What | What color is the strap on the bra? | Blue. |
+| How | How many hands are visible in the image? | Two. |
+| How | How is the woman positioning her hands in the image? | She is holding the bra with one hand and the strap with the other. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Does the bra have a blue strap? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra? | White. |
+| What | What color is the strap on the bra? | Blue. |
+| How | How is the woman holding the bra? | With one hand. |
+| How | How is the woman holding the strap? | With the other hand. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a formal attire? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman holding a purse in the image? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's pose in the image suggestive or provocative? | No. |
+| Yes/No | Does the image reveal any sensitive or private information? | No. |
+| What | What is the color of the woman's blazer? | Blue. |
+| What | What is the woman holding in her hand? | A white purse. |
+| How | How would you describe the overall atmosphere of the image? | Professional and neutral. |
+| How | How would you describe the woman's attire in the image? | Formal or businesslike. |

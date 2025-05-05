@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Is the woman in the image wearing blue underwear? | Yes. |
+| Yes/No | Is the woman in the image lying on a bed? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and intimate? | Yes. |
+| Yes/No | Does the image feature a white blanket on the bed? | Yes. |
+| What | What color is the bra and underwear the woman is wearing? | Blue. |
+| What | What is the woman's facial expression in the image? | Direct gaze. |
+| How | How is the woman positioned on the bed? | Lying down. |
+| How | How does the white blanket contribute to the atmosphere of the image? | Soft and comfortable surface, adds to the overall sensual atmosphere. |

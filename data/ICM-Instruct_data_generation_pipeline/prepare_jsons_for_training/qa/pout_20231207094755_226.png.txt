@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Does the woman have blue eyes? | Yes. |
+| Yes/No | Is the woman's expression pouting? | Yes. |
+| Yes/No | Does the image have a playful atmosphere? | Yes. |
+| Yes/No | Is the image seductive? | Yes. |
+| Yes/No | Does the woman have a nose, lips, and eyebrows? | Yes. |
+| What | What is the woman's hair color? | Blonde. |
+| What | What is the woman's eye color? | Blue. |
+| How | How does the woman's expression contribute to the image's atmosphere? | The woman's pouting expression contributes to the playful and seductive atmosphere of the image. |
+| How | How do the woman's physical features add to her attractiveness in the image? | The woman's long blonde hair and blue eyes add to her attractiveness, creating an overall seductive atmosphere. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the top colorful and patterned? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the primary color of the woman's top? | Red. |
+| What | What is the woman's pose in the image? | Striking a pose with her hand on her hip. |
+| How | How does the woman's clothing contribute to the overall allure of the image? | The strapless top exposes her midriff, which is often associated with confidence and allure. |
+| How | How does the woman's gaze into the camera contribute to the overall allure of the image? | Her direct gaze adds to the overall allure of the image, making it seem more intimate and engaging. |

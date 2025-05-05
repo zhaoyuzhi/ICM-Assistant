@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a tank top? | Yes. |
+| Yes/No | Is the man in the image looking directly at the camera? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the building in the image well-maintained? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| Yes/No | Is the image well-lit? | No. |
+| What | What is the man's facial expression in the image? | Serious. |
+| What | What is the color of the man's attire in the image? | Black. |
+| How | How are the man's hands positioned in the image? | Clasped together in front of him. |
+| How | How would you describe the overall mood of the image? | Somber or melancholic. |

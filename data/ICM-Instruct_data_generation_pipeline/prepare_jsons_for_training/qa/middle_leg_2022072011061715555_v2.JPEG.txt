@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pajamas? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Are the pajamas pink? | Yes. |
+| Yes/No | Is there a white bow on the chest of the pajamas? | Yes. |
+| Yes/No | Is there a white belt around the waist of the pajamas? | Yes. |
+| Yes/No | Are the pajamas designed with a pattern of small Hello Kitty faces? | Yes. |
+| What | What color are the pajamas? | Pink. |
+| What | What is the person's pose in the image? | Standing with hands on hips. |
+| How | How do the white bow and belt contrast with the pink pajamas? | They provide a contrasting balance. |
+| How | How does the image's overall atmosphere contribute to its sexy feel? | It adds a playful and flirtatious element. |

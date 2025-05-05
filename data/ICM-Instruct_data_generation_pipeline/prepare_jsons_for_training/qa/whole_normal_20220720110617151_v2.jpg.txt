@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in professional attire? | Yes. |
+| Yes/No | Is the woman's gesture indicative of a conversation or presentation? | Yes. |
+| Yes/No | Is the background of the image a solid color? | Yes. |
+| Yes/No | Is the woman's face clearly visible in the image? | No. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| Yes/No | Is the overall atmosphere of the image professional and formal? | Yes. |
+| What | What is the woman's attire in the image? | A brown blazer and a black skirt. |
+| What | What is the woman's gesture in the image? | Raised hands, possibly indicating a conversation or presentation. |
+| How | How does the low exposure level of the image enhance the professional and formal nature of the scene? | It emphasizes the woman's professional attire and gesture, rather than her physical appearance. |
+| How | How does the solid blue background contribute to the professional and formal atmosphere of the image? | It provides a neutral and subtle backdrop that does not distract from the woman's attire and gesture, further emphasizing the professional and formal nature of the scene. |

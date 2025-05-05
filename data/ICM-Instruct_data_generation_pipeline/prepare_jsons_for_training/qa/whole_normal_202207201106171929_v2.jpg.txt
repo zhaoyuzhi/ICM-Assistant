@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pink blazer? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun? | Yes. |
+| Yes/No | Is the image set indoors? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What color is the woman's blazer? | Pink. |
+| What | What is the woman's hairstyle? | Bun. |
+| How | How is the woman standing in the room? | Standing. |
+| How | How does the low exposure level affect the image? | It emphasizes the woman's attire and the overall atmosphere of the image. |

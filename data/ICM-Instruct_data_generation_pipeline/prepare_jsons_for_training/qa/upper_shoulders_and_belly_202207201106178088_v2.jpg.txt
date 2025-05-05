@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman holding a tube of lipstick in her hand? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the woman's shoulders and upper back visible in the image? | Yes. |
+| Yes/No | Is the woman's confidence and self-assuredness conveyed through her pose and the way she is holding the lipstick? | Yes. |
+| What | What is the woman holding in her hand? | A tube of lipstick. |
+| What | What is the woman wearing in the image? | A strapless top. |
+| How | How is the woman holding the lipstick? | She is holding it in a confident and selfassured manner. |
+| How | How does the blurred background affect the overall atmosphere of the image? | It puts the focus on the woman and the lipstick, further emphasizing the sexy atmosphere. |

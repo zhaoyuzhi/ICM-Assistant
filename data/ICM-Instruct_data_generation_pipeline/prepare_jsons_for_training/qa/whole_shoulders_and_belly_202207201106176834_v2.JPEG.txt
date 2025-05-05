@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman carrying a red purse? | Yes. |
+| Yes/No | Is the woman walking on a street? | Yes. |
+| Yes/No | Are there other people in the background of the image? | Yes. |
+| What | What color is the woman's top? | Brown. |
+| What | What color is the woman's purse? | Red. |
+| How | How does the woman's attire and confident stride suggest her personality? | The woman's attire and confident stride suggest a sense of style and selfassuredness. |
+| How | How does the combination of the strapless top and blue jeans contribute to the woman's overall look? | The combination of the strapless top and blue jeans gives the woman a casual yet stylish look. |

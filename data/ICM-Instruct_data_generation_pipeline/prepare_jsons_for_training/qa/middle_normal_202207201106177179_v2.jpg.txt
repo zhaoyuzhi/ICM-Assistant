@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are they wearing olive green cargo shorts? | Yes. |
+| Yes/No | Is the person's pose suggestive or explicit? | No. |
+| Yes/No | Does the image depict any sexual content? | No. |
+| Yes/No | Is the person's attire neutral? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What color is the person's t-shirt? | White. |
+| What | What color are the person's shorts? | Olive green. |
+| How | How is the person standing? | With their hands in their pockets. |
+| What | What atmosphere does the image convey? | Casual and relaxed. |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are they wearing olive green cargo shorts? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose suggestive or sexual in any way? | No. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the focus of the image on the person's casual attire and pose? | Yes. |
+| What | What color is the person's t-shirt? | White. |
+| What | What color are the person's shorts? | Olive green. |
+| How | How does the person's pose and attire suggest a casual, relaxed atmosphere? | The person's pose and attire are neutral and do not evoke any sexual connotations, suggesting a casual, relaxed atmosphere. |
+| How | How does the low exposure level contribute to the non-sexual nature of the image? | The low exposure level means that the image does not depict any explicit or suggestive content, contributing to its nonsexual nature. |

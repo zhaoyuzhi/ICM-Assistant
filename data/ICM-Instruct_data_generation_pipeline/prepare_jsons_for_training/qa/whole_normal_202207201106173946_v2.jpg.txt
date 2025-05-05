@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a mustard-colored coat? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a white wall? | Yes. |
+| Yes/No | Are the woman's heels black? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color is the woman's skirt? | White. |
+| What | What is the overall atmosphere of the image? | Calm and professional. |
+| How | How is the woman's demeanor in the image? | Friendly and approachable. |
+| How | How does the woman's smile and direct gaze at the camera suggest her demeanor? | It suggests a friendly and approachable demeanor rather than a seductive or provocative one. |

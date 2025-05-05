@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra made of a soft, stretchy material? | Yes. |
+| Yes/No | Does the color of the bra complement the woman's skin tone? | Yes. |
+| What | What is the woman in the image doing? | The woman is putting on a bra. |
+| What | What is the color of the bra? | Beige. |
+| How | How does the woman's body look in the image? | The woman's body looks sensual and vulnerable. |
+| How | How does the beige color of the bra contribute to the atmosphere of the image? | The beige color of the bra adds to the warm and inviting atmosphere of the image, enhancing the sensual and alluring quality of the image. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Is the material of the bra soft and stretchy? | Yes. |
+| Yes/No | Is the woman adjusting the straps of the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the bra complement the woman's skin tone? | Yes. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| What | What is the color of the bra? | Beige. |
+| How | How is the woman adjusting the straps of the bra? | She has her hands on the straps, adjusting them to fit her body. |
+| How | How does the beige color of the bra add to the atmosphere of the image? | It adds to the warm and inviting atmosphere, making the image seem more sensual and alluring. |

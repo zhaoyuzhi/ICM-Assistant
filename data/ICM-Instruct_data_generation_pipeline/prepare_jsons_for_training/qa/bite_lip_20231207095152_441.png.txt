@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image biting her lip? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the woman in the image have a neutral expression on her face? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| What | What is the woman in the image biting? | Her lip. |
+| What | What is the woman in the image looking at? | The camera. |
+| How | How is the woman's facial expression? | Neutral. |
+| How | How does the image make the viewer feel? | As if they are engaging with the woman on a personal level. |

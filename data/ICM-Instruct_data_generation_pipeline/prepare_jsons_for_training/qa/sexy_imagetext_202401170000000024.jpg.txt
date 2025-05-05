@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the woman have a big red bow in her hair? | Yes. |
+| Yes/No | Are the woman's shoes black high heels? | Yes. |
+| Yes/No | Is the woman lying on her side on a wooden table? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the image feature any advertising words? | Yes. |
+| What | What color is the woman's dress? | Red. |
+| What | What is the name of the advertising slogan featured in the image? | "Harder is better". |
+| How | How does the woman's pose suggest a sense of relaxation and vulnerability? | The woman is lying on her side, with her body stretched out and her head resting on her hand, giving a sense of relaxation and vulnerability. |
+| How | How do the red dress and bow add a touch of elegance and allure to the image? | The red dress and bow are bright and eyecatching, and add a touch of elegance and allure to the image by creating a striking contrast with the wooden table and the woman's black shoes. |

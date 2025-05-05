@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the skirt the woman is wearing khaki? | Yes. |
+| Yes/No | Does the woman have a purse? | Yes. |
+| Yes/No | Is the purse white? | Yes. |
+| Yes/No | Does the woman have a gold belt? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What is the length of the woman's skirt? | Above her knees. |
+| How | How is the woman's blouse styled? | Shortsleeved with a buttondown front. |
+| What | What is the woman's pose in the image? | Hands on hips, confident and assertive. |

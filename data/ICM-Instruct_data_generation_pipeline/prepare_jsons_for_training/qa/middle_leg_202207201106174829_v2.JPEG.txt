@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink and white outfit? | Yes. |
+| Yes/No | Is the outfit designed with a bow on the front? | Yes. |
+| Yes/No | Is the woman holding a pink stuffed animal? | Yes. |
+| Yes/No | Is the stuffed animal a teddy bear? | Yes. |
+| Yes/No | Is the bed covered with a white comforter? | Yes. |
+| Yes/No | Does the image create a seductive and alluring atmosphere? | Yes. |
+| What | What color is the woman's outfit? | Pink and white. |
+| What | What is the woman holding in her hand? | A pink stuffed animal (a teddy bear). |
+| How | How does the woman's outfit add a touch of elegance to her attire? | The outfit is designed with a bow on the front. |
+| How | How does the white comforter on the bed contrast with the woman's outfit? | The white comforter provides a neutral background that accentuates the woman and her colorful outfit. |

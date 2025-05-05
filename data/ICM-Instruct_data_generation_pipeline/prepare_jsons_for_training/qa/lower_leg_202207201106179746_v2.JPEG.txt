@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Are the person's legs exposed? | Yes. |
+| Yes/No | Is the person wearing a purple sweater? | Yes. |
+| Yes/No | Are the person's arms resting at their sides? | Yes. |
+| Yes/No | Is the mirror reflecting the person's image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the person's sweater? | Purple. |
+| What | What is the person's pose in the image? | Relaxed, with arms at their sides. |
+| How | How does the person's pose create a sense of intimacy and vulnerability? | The person's relaxed stance and exposed legs create a sense of vulnerability, while the mirror's reflection adds a sense of intimacy. |
+| How | How does the image capture a moment of self-expression and vulnerability? | The image captures a moment of selfexpression through the person's exposed legs and relaxed pose, while the mirror's reflection adds a sense of vulnerability by revealing the person's image in a way that may make them feel exposed or vulnerable. |

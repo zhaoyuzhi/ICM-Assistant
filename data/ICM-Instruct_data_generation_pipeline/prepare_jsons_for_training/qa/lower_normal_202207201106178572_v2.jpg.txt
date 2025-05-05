@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of black sweatpants? | Yes. |
+| Yes/No | Does the person's t-shirt have a logo or graphic on it? | No. |
+| Yes/No | Are the person's sneakers black? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image contain any elements that suggest a sexual context? | No. |
+| Yes/No | Is the person in the image moving quickly or slowly? | No. |
+| What | What color is the railing in the hallway? | Black. |
+| What | What is the pattern on the floor of the hallway? | Black and white checkered. |
+| How | How is the person moving in the image? | Casually. |
+| What | What is the focus of the image according to the description? | The person's movement and the environment they are in. |

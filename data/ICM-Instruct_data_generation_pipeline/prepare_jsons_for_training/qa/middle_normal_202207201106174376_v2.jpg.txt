@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Are the woman's legs visible in the image? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Does the image feature any intimate or provocative actions? | No. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image focus on the woman's body or appearance? | No. |
+| What | What is the color of the woman's pants? | Beige. |
+| What | What is the style of the woman's top? | Black. |
+| How | How are the woman's pants secured at the waist? | With a tie. |
+| How | How would you describe the overall atmosphere of the image? | Low exposure level, focused on the woman's outfit and style rather than her body or appearance. |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Are the woman's trousers beige? | Yes. |
+| Yes/No | Does the woman's top contrast with the color of her pants? | Yes. |
+| Yes/No | Is the woman's pose confident and relaxed? | Yes. |
+| Yes/No | Is the background of the image plain and white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color is the woman's top? | Black. |
+| What | What is the unique feature of the woman's trousers? | They have a tie at the front. |
+| How | How is the woman's pose described? | Confident and relaxed. |
+| How | How does the low exposure level of the image affect the focus of the image? | It puts the focus entirely on the woman and her attire. |

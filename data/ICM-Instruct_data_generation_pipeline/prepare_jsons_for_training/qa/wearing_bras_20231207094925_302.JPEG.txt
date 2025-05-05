@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Is the woman adjusting the straps of her bra? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the woman appear confident and self-assured in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and alluring? | Yes. |
+| What | What color is the bra the woman is wearing? | Pink. |
+| What | What is the woman doing in the image? | Adjusting her bra. |
+| How | How does the woman's attire contribute to the sexy atmosphere of the image? | The pink bra adds a touch of color and femininity to the image, which contributes to the overall sexy atmosphere. |
+| How | How does the woman's actions in the image suggest a sense of self-confidence and self-assurance? | The woman's actions of adjusting her bra suggest a sense of selfconfidence and selfassurance, as she is taking the time to ensure a secure and comfortable fit. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Is the woman adjusting the straps of her bra? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy? | Yes. |
+| Yes/No | Is the woman's attire feminine? | Yes. |
+| What | What is the woman doing in the image? | Adjusting her bra. |
+| What | What color is the bra the woman is wearing? | Pink. |
+| How | How is the woman's attire contributing to the sexy atmosphere of the image? | The woman's attire, specifically the pink bra, adds a touch of color and femininity to the image, which contributes to the sexy atmosphere. |
+| How | How does the woman's actions of adjusting her bra suggest a sense of self-confidence and self-assurance? | The woman's actions of adjusting her bra suggest a sense of selfconfidence and selfassurance because it implies that she is comfortable and confident in her own skin, and is not afraid to take her time to ensure a secure fit. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a top? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| How | Does the image showcase the person's legs and thighs? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the shorts and top? | White. |
+| What | What is the focal point of the image? | The person's legs and thighs. |
+| How | How are the shorts closed at the waist? | With a button closure. |
+| How | How is the person standing in the image? | With her hands on her hips. |

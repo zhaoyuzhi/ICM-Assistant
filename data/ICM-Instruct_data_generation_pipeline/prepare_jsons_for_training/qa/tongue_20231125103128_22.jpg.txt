@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman looking upwards? | Yes. |
+| Yes/No | Is the woman's facial expression focused and direct? | Yes. |
+| Yes/No | Is the overall atmosphere of the image lighthearted and fun? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What color is the woman's hair? | Brown. |
+| What | What is the woman's facial expression? | Focused and direct. |
+| How | How is the woman's tongue positioned in the image? | Sticking out playfully. |
+| How | How does the woman's gaze contribute to the overall atmosphere of the image? | It creates a sense of confidence and allure. |

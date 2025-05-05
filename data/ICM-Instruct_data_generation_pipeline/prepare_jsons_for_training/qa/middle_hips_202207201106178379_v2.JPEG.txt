@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Does the person in the image have a pocket on their shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a belt? | Yes. |
+| Yes/No | Is the buckle of the belt silver? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person in the image posing in a sexy or alluring way? | Yes. |
+| What | What is the main color of the shorts? | Blue. |
+| What | What is the pattern on the shorts? | Rainbow. |
+| How | How many objects are in the image? | 3 (person, shorts, belt). |
+| What | What is the atmosphere of the image? | Confident and alluring. |

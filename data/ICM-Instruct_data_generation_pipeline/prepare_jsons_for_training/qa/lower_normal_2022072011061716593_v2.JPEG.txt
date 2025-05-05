@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a red shirt? | Yes. |
+| Yes/No | Are the man's hands in his pockets? | Yes. |
+| Yes/No | Is the man looking off to the side? | Yes. |
+| Yes/No | Does the image feature a romantic or sexual context? | No. |
+| Yes/No | Is the focus of the image on the man's appearance or body? | No. |
+| Yes/No | Does the image contain any elements that suggest a sexy or provocative atmosphere? | No. |
+| What | What is the color of the man's shirt? | Red. |
+| What | What is the overall atmosphere of the image? | Focused on the natural environment and the man's interaction with it. |
+| How | How are the man's hands positioned in the image? | In his pockets. |
+| How | How does the low exposure level of the human affect the focus of the image? | It emphasizes the focus on the environment rather than the man's physical appearance. |

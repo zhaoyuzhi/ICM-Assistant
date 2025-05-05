@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige blazer? | Yes. |
+| Yes/No | Is the woman's shirt white? | Yes. |
+| Yes/No | Does the woman have a purse in her hand? | Yes. |
+| Yes/No | Are the woman's shoes beige loafers? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have her left hand on her hip? | Yes. |
+| What | What color is the woman's skirt? | Brown. |
+| What | What is the woman holding in her right hand? | A purse. |
+| How | How many colors are in the woman's outfit? | 4 (beige, white, brown, and black). |
+| How | How does the woman's pose exude confidence and allure? | The woman's pose, with her left hand on her hip and her right hand holding the purse, creates a sense of confidence and allure. |

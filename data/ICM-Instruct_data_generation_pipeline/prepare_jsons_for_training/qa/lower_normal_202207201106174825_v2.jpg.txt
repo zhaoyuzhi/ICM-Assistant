@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a black sweatpants and a white t-shirt? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the person's exposure level high? | No. |
+| Yes/No | Does the image have a sexual context or explicit content? | No. |
+| Yes/No | Are the person's clothes revealing or provocative? | No. |
+| What | What is the person wearing in the image? | A white tshirt and black sweatpants. |
+| What | What is the overall atmosphere of the image? | Casual and nonsexual. |
+| How | How is the person dressed in the image? | In a simple outfit. |
+| How | How does the low exposure level of the person in the image affect its appropriateness for viewing? | It emphasizes the nonsexual nature of the image, making it appropriate for viewing. |

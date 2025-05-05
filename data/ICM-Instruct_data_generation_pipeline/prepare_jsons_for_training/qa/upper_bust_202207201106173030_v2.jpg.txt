@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image holding a rose? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | Yes. |
+| Yes/No | Is the woman wearing a green bra? | Yes. |
+| Yes/No | Is the rose the woman is holding yellow? | Yes. |
+| Yes/No | Is the image close-up? | Yes. |
+| What | What color is the woman's bra? | Green. |
+| What | What color is the rose the woman is holding? | Yellow. |
+| How | How is the woman's hair styled? | In a ponytail. |
+| How | How does the woman look in the image? | Smiling and looking off to the side. |

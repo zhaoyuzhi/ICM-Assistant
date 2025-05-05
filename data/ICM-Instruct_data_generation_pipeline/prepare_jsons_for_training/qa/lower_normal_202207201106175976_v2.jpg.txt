@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive or explicit? | No. |
+| Yes/No | Is the image shot against a white background? | Yes. |
+| Yes/No | Are the woman's heels white? | Yes. |
+| Yes/No | Is the woman's attire in the image appropriate for a professional setting? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual context? | No. |
+| What | What is the woman's facial expression in the image? | Neutral. |
+| What | What is the woman's pose in the image? | Straightforward, looking directly at the camera. |
+| How | How is the woman's attire in the image? | Modest and appropriate for a professional setting. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the woman's appearance and posture rather than her physical attributes. |

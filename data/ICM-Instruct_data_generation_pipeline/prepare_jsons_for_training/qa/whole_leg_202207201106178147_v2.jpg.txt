@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the woman's shorts torn at the knees? | Yes. |
+| Yes/No | Is the woman carrying a gold purse? | Yes. |
+| Yes/No | Does the woman's outfit suggest a casual style? | Yes. |
+| Yes/No | Does the woman's outfit suggest a stylish style? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What is the woman carrying in her hand? | A gold purse. |
+| How | How are the woman's shorts torn? | At the knees. |
+| How | How does the woman carry herself? | Confidently. |

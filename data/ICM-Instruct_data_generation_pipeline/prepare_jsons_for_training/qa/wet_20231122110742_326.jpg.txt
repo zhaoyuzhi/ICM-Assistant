@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting on a rock? | Yes. |
+| Yes/No | Is the woman's dress soaked? | Yes. |
+| Yes/No | Does the woman have her arms crossed in front of her? | Yes. |
+| Yes/No | Is the stream surrounded by rocks and boulders? | Yes. |
+| Yes/No | Is the atmosphere of the scene tranquil? | Yes. |
+| Yes/No | Does the image have a sexual connotation? | Yes. |
+| What | What is the woman's attire in the image? | White dress. |
+| What | What is the woman looking at in the image? | Her hands. |
+| How | How is the woman interacting with the water in the image? | She is sitting in the stream. |
+| How | How would you describe the overall atmosphere of the image? | Serene and intimate. |

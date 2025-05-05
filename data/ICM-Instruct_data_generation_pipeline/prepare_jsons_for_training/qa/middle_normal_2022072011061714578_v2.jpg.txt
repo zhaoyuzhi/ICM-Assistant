@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Are the walls and floor in the image white? | Yes. |
+| Yes/No | Is the woman posing with her hands on her hips? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman's outfit modest? | Yes. |
+| What | What is the woman wearing in the image? | A white top and black shorts. |
+| What | What is the overall atmosphere of the image? | Not sexy, casual and modest. |
+| How | How is the woman posing in the image? | With her hands on her hips and her head slightly tilted to the side. |
+| How | How much of the woman's body is visible in the image? | Only a small portion, due to the low exposure level. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Are the woman's shorts black? | Yes. |
+| Yes/No | Is the woman posing with her hands on her hips? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image calm and relaxed? | Yes. |
+| What | What is the color of the woman's top? | White. |
+| What | What is the color of the woman's shorts? | Black. |
+| How | How is the woman posing in the image? | With her hands on her hips and her head tilted to the side. |
+| How | How would you describe the atmosphere of the image? | Calm and relaxed. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a tank top? | Yes. |
+| Yes/No | Is the person in the image sitting on a rowing machine? | Yes. |
+| Yes/No | Does the person have their back exposed in the image? | Yes. |
+| Yes/No | Are the person's hands holding onto the handles of the rowing machine? | Yes. |
+| Yes/No | Is the person's posture suggestive of a workout? | Yes. |
+| Yes/No | Does the image convey a sense of determination and effort? | Yes. |
+| What | What is the person in the image doing? | They are engaged in a physical activity, possibly to improve their cardiovascular health or build muscle strength. |
+| What | What is the person's facial expression in the image? | They have a focused expression. |
+| How | How is the person's back exposed in the image? | Their back is exposed because they are wearing a tank top. |
+| How | How does the image convey a sense of strength and power? | The person's athletic form and the large area of their back exposed are associated with a sense of strength and power. |

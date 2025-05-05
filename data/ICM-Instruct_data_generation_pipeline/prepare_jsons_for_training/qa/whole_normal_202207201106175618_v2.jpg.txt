@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jean overalls? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the room in the image equipped with a wooden floor? | Yes. |
+| Yes/No | Is there a vase visible in the background of the image? | Yes. |
+| Yes/No | Is the woman in the image standing in a casual setting? | Yes. |
+| What | What is the woman in the image holding in her hand? | A purse. |
+| What | What is the material of the woman's shirt? | Black. |
+| How | How is the woman's backpack slung? | Over her shoulder. |
+| How | How would you describe the atmosphere of the image? | Calm and ordinary. |

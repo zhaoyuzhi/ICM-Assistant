@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a blue and white outfit? | Yes. |
+| Yes/No | Is the woman holding a sword in her right hand? | Yes. |
+| Yes/No | Is the woman holding a shield in her left hand? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image suggest a sexual context or explicit content? | No. |
+| Yes/No | Is the woman portrayed as a warrior or fantasy character? | Yes. |
+| What | What is the woman holding in her right hand? | A sword. |
+| What | What is the woman holding in her left hand? | A shield. |
+| How | How is the woman dressed in the image? | She is dressed in a blue and white outfit. |
+| How | How does the image portray the woman? | The image portrays the woman as a warrior or fantasy character standing in front of a castle. |

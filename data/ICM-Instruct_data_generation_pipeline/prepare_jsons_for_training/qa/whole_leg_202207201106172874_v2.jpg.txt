@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's shorts blue? | Yes. |
+| Yes/No | Is the woman holding a green sponge? | Yes. |
+| Yes/No | Is the woman cleaning her shoes? | Yes. |
+| Yes/No | Is the woman sitting on a toilet? | Yes. |
+| Yes/No | Does the image create an intimate and private atmosphere? | Yes. |
+| What | What is the woman cleaning her shoes with? | A green sponge. |
+| What | What color are the woman's shorts? | Blue. |
+| How | How is the woman sitting on the toilet? | She is sitting normally, with her legs down. |
+| How | How does the image create a sense of connection and closeness? | The woman's private moment and vulnerability create a sense of connection and intimacy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman's facial expression relaxed and confident? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Is the woman wearing a black shirt? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the woman's playful expression create a sense of allure and intrigue? | Yes. |
+| What | What is the woman's hair color? | Dark. |
+| What | What is the woman wearing? | A black shirt. |
+| How | How does the woman's facial expression contribute to the overall atmosphere of the image? | It adds to the overall sexy atmosphere of the image by being relaxed and confident. |
+| How | How does the woman's tongue sticking out create a sense of allure and intrigue? | It creates a sense of playfulness and flirtation, making the image more alluring and intriguing. |

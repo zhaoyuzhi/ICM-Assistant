@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige sweater? | Yes. |
+| Yes/No | Is the person in the image wearing a brown belt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Is the image sexually suggestive or provocative? | No. |
+| Yes/No | Do the clothes worn by the person in the image reveal a lot of skin? | No. |
+| What | What is the dominant color of the person's sweater? | Beige. |
+| What | What is the color of the person's belt? | Brown. |
+| How | How would you describe the exposure level of the image? | Very low. |
+| How | How would you describe the overall atmosphere of the image? | Calm and unassuming. |

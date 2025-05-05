@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red sweater? | Yes. |
+| Yes/No | Is the woman holding a fruit in her hand? | Yes. |
+| Yes/No | Is the pile of fruits in the background similar to the one the woman is holding? | Yes. |
+| Yes/No | Is the image explicit or inappropriate? | No. |
+| Yes/No | Are the woman's movements or clothes the focus of the image? | No. |
+| Yes/No | Does the image evoke any sexual or provocative feelings? | No. |
+| What | What is the woman holding in her hand? | A fruit. |
+| What | What is the color of the woman's sweater? | Red. |
+| How | How many fruits are in the pile in the background? | Several. |
+| How | How is the overall atmosphere of the image? | Not sexy, appropriate for all viewers. |

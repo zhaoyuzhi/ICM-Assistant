@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple and black lingerie set? | Yes. |
+| Yes/No | Is the woman sitting on a brown leather couch? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing? | A purple and black lingerie set. |
+| What | What is the color of the couch? | Brown. |
+| How | How is the woman posing? | With her legs crossed. |
+| How | How does the woman's gaze at the camera create a sense of connection with the viewer? | Her direct gaze creates a sense of intimacy and connection with the viewer, drawing them into the image and making them feel like they are part of the scene. |

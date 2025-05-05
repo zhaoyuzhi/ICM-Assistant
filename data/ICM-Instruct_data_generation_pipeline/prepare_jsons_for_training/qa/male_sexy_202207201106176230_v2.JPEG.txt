@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are the swim trunks the man is wearing blue and white striped? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the man in the image walking down a runway? | Yes. |
+| Yes/No | Does the image feature a sense of allure and sensuality? | Yes. |
+| Yes/No | Does the man's confident stride enhance the sexy atmosphere of the image? | Yes. |
+| What | What is the man in the image wearing? | A pair of blue and white striped swim trunks. |
+| What | What is the color of the swim trunks the man is wearing? | Blue and white. |
+| How | How is the man walking down the runway? | Confidently. |
+| How | How does the runway setting add to the atmosphere of the image? | It adds a sense of drama and glamour, as fashion shows and models often showcase their outfits on a runway. |

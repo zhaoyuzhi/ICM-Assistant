@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing blue swim trunks? | Yes. |
+| Yes/No | Does the pattern on the swim trunks feature sharks? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the image focused on the man's body rather than his clothing? | No. |
+| Yes/No | Would you describe the overall atmosphere of the image as casual and relaxed? | Yes. |
+| What | What is the main subject of the image? | The man's swim trunks. |
+| What | What is the color of the swim trunks? | Blue. |
+| How | How does the white background affect the image? | It contrasts with the blue of the swim trunks, making them stand out. |
+| How | How would you describe the focus of the image? | The focus is on the man's clothing rather than his body. |
+| Yes/No | Is the man in the image wearing swim trunks? | Yes. |
+| Yes/No | Does the pattern on the swim trunks feature sharks? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the image taken from the waist down? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Does the low exposure level of the image contribute to its non-sexual nature? | Yes. |
+| What | What is the primary focus of the image? | The man's swim trunks and attire. |
+| What | What is the background color of the image? | White. |
+| How | How are the swim trunks adorned? | With a pattern of sharks. |
+| How | How does the low exposure level of the image contribute to its non-sexual nature? | It does not show any skin or body parts that might be considered inappropriate or suggestive. |

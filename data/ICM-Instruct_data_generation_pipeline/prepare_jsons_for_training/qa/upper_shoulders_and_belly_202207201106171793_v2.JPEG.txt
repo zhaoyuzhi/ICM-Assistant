@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black sports bra? | Yes. |
+| Yes/No | Does the woman have long, dark hair? | Yes. |
+| Yes/No | Is the woman holding a phone in her right hand? | Yes. |
+| Yes/No | Is the woman looking at the screen of her phone? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Does the woman's outfit suggest a sense of confidence and self-assuredness? | Yes. |
+| What | What is the woman wearing in the image? | A black sports bra and long, dark hair. |
+| What | What is the woman doing in the image? | Looking at her phone. |
+| How | How is the woman holding her phone? | In her right hand. |
+| How | How is the woman looking at her phone? | With a sense of confidence and selfassuredness. |

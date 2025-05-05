@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the jean shorts frayed at the hem? | Yes. |
+| Yes/No | Is the woman standing with her hands on her hips? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's attire and pose suggestive of a casual, confident style? | Yes. |
+| What | What color are the jean shorts? | Blue. |
+| What | What is the woman's top made of? | Black cropped top. |
+| How | How is the woman standing in the image? | With her hands on her hips and her head tilted to the side. |
+| How | How would you describe the woman's pose in the image? | Confident and selfassured. |

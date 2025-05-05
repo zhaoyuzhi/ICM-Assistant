@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman's hair styled in a bob? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Is the woman's purse black? | Yes. |
+| Yes/No | Is the woman's headband white? | Yes. |
+| Yes/No | Is the building behind the woman red? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What is the color of the awning on the building? | Red. |
+| How | How is the woman's hair styled? | In a bob with a white headband. |
+| How | How is the woman posing in the image? | With her hand on her hip. |

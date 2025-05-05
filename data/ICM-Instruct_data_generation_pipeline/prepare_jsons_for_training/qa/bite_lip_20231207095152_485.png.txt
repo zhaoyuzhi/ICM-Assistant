@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a person's lips? | Yes. |
+| Yes/No | Are the lips slightly parted? | Yes. |
+| Yes/No | Are the lips bitten? | Yes. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Are the person's eyes visible in the image? | No. |
+| Yes/No | Does the image emphasize the shape and texture of the lips? | Yes. |
+| What | What color lipstick is the person wearing? | Pink. |
+| What | What is the mood or atmosphere of the image? | Sexy/Alluring/Inviting. |
+| How | How do the slightly parted lips suggest a sense of allure and mystery? | They create a sense of intimacy and sensuality, suggesting a hidden or secretive aspect of the person's personality. |
+| How | How does the pink lipstick enhance the overall attractiveness of the lips? | It adds a pop of color and draws attention to the lips, making them stand out and appear more vibrant and appealing. |

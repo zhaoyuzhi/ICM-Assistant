@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white crop top? | Yes. |
+| Yes/No | Are the leggings tight-fitting? | Yes. |
+| Yes/No | Is the crop top low-cut? | Yes. |
+| Yes/No | Is the person holding a white fan? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the person's pose suggestive? | Yes. |
+| What | What is the color of the person's crop top and leggings? | White. |
+| What | What is the person holding in their hand? | A white fan. |
+| How | How is the person's waist and hips accentuated? | The tightfitting leggings accentuate the person's waist and hips. |
+| How | How does the person's pose and attire suggest confidence and allure? | The person's pose, with their shoulders back and head held high, suggests confidence. The lowcut crop top and tightfitting leggings accentuate the person's body, creating a sense of allure. The fan adds an element of intrigue and mystery, making the image more captivating. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bikini? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image highlight the woman's body? | Yes. |
+| Yes/No | Is the image evoking a sense of relaxation and enjoyment? | Yes. |
+| What | What is the woman's attire in the image? | A black bikini. |
+| What | What is the setting of the image? | A beach. |
+| How | How is the woman standing in the image? | With her hands on her hips. |
+| How | How does the image evoke a sense of relaxation and enjoyment? | Through the combination of the beach setting, the woman's attire, and her confident pose. |

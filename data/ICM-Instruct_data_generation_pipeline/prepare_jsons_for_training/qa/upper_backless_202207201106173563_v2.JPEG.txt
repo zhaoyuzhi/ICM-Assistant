@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Are the leggings in the image form-fitting? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the atmosphere of the image sensual and alluring? | Yes. |
+| Yes/No | Is the image in color or black and white? | Color. |
+| What | What is the main color of the bra in the image? | Gray. |
+| What | What is the main color of the leggings in the image? | Pink. |
+| How | How many straps does the bra in the image have? | 2 (thin straps). |
+| How | How does the person's body shape appear in the image, considering the leggings they are wearing? | The person's body shape appears formfitting and accentuated by the pink leggings. |

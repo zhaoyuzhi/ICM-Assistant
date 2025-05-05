@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red lipstick? | Yes. |
+| Yes/No | Are the person's teeth white and well-maintained? | Yes. |
+| Yes/No | Is the person's lips slightly parted? | Yes. |
+| What | What color is the person's lipstick? | Red. |
+| What | What is the person's lips slightly parted, revealing? | Their teeth. |
+| How | How does the close-up nature of the image emphasize the person's features? | It allows for a detailed view of the person's lips and teeth, highlighting their beauty and allure. |
+| How | How does the bold red lipstick and white, well-maintained teeth create a striking contrast? | They create a visual contrast that draws attention to the person's lips and teeth, making them stand out and creating a sense of drama and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the women in the image kissing? | Yes. |
+| Yes/No | Are the women wearing striped shirts? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Do the women have bangs? | Yes. |
+| Yes/No | Are the women wearing earrings? | Yes. |
+| What | What color are the women's shirts? | Blue and white, pink and white. |
+| What | What is the mood of the image? | Romantic, intimate, sexy. |
+| How | How are the women's shirts styled? | Striped. |
+| How | How does the blurred background affect the image? | It puts the focus on the women and emphasizes their connection and intimate interaction. |

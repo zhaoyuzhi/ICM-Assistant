@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a garter belt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the stockings white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the stockings in the image? | White. |
+| What | What is the woman in the image wearing on her legs? | Stockings. |
+| How | How are the stockings trimmed in the image? | With lace. |
+| How | How would you describe the overall aesthetic of the image? | Monochromatic and minimalist. |

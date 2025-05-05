@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Is the woman's top white? | Yes. |
+| Yes/No | Are the woman's arms relaxed at her sides? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image create a sense of confidence and allure? | Yes. |
+| What | What color are the woman's shorts? | Blue. |
+| What | What is the woman's pose in the image? | Standing with legs apart. |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | It creates a casual yet stylish look that accentuates her confidence and allure. |
+| How | How does the contrast between the woman's outfit and the background contribute to the overall atmosphere of the image? | It creates a stark contrast that makes the woman the focal point of the image and accentuates her presence. |

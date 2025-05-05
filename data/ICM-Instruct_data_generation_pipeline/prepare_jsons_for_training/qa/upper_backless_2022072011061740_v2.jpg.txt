@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the person wearing a bracelet in the image? | Yes. |
+| Yes/No | Does the image suggest a relaxed atmosphere? | Yes. |
+| Yes/No | Does the image evoke a sense of confidence and allure? | Yes. |
+| What | What is the person in the image wearing on their upper body? | Bikini top. |
+| What | What is the person in the image wearing on their lower body? | Skirt. |
+| How | How much skin is exposed in the image? | A large area of skin. |
+| How | How does the image evoke a sense of confidence and allure? | Through the person's pose and attire. |

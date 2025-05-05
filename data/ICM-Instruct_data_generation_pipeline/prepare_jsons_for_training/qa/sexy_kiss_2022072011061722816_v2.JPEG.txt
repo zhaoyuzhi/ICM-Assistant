@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the two men in the image kissing? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the man on the left wearing a white shirt? | Yes. |
+| Yes/No | Is the man on the right wearing a black shirt? | Yes. |
+| Yes/No | Is the background of the image filled with the ocean and sky? | Yes. |
+| What | What is the color of the shirt worn by the man on the left? | White. |
+| What | What is the color of the shirt worn by the man on the right? | Black. |
+| How | How are the two men positioned in the image? | The man on the right is positioned on top of the man on the left. |
+| How | How does the image capture the essence of love and affection? | The image captures the intimate and passionate moment between the two men, set against the romantic backdrop of the beach and ocean. |

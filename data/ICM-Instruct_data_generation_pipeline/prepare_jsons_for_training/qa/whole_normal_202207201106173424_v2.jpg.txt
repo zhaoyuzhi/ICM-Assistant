@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image wearing a pink tutu? | Yes. |
+| Yes/No | Is the girl in the image standing in front of a white door? | Yes. |
+| Yes/No | Is the girl in the image posing with her arms outstretched? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image contain any inappropriate or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image innocent and playful? | Yes. |
+| What | What is the girl in the image wearing? | A pink ballet outfit, including a leotard and ballet slippers. |
+| What | What is the girl in the image posing with? | Her arms outstretched, as if she is dancing. |
+| How | How is the girl in the image standing? | She is standing in front of a white door. |
+| How | How is the image lit? | The image is lowexposure. |

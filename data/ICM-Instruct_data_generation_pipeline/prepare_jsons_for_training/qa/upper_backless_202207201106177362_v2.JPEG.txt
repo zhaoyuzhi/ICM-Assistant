@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person in the image wearing clothing? | No. |
+| Yes/No | Does the image contain any objects or people other than the person's back? | No. |
+| Yes/No | Is the person's skin tone dark? | No. |
+| Yes/No | Is the person's hair long? | No. |
+| Yes/No | Does the image contain any text or other elements that detract from the sexy atmosphere? | No. |
+| What | What is the person's skin tone? | Light. |
+| What | What is the length of the person's hair? | Short. |
+| How | How is the person's back turned towards the camera? | Relaxed. |
+| How | How does the image convey a sense of allure and sensuality? | Through the large area of the person's back exposed, the person's back turned towards the camera, the light skin tone, short hair, and the overall simplicity of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a traditional Chinese outfit? | Yes. |
+| Yes/No | Is the dragon behind the woman white? | Yes. |
+| Yes/No | Is the woman holding a flaming torch in her hand? | Yes. |
+| Yes/No | Is the woman's hair black? | Yes. |
+| Yes/No | Is the woman holding a fan in her other hand? | Yes. |
+| Yes/No | Is the background of the image dark and cloudy? | Yes. |
+| What | What is the woman holding in her hand? | A flaming torch and a fan. |
+| What | What is the dragon behind the woman? | A large white dragon with red and black accents. |
+| How | How is the woman standing in relation to the dragon? | She is standing in front of the dragon. |
+| How | How would you describe the overall atmosphere of the image? | Mystical and cultural. |

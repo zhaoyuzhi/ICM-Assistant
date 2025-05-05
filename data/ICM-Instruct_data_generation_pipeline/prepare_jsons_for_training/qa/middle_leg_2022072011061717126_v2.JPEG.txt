@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the woman have a bow on the front of her skirt? | Yes. |
+| Yes/No | Is the woman holding a small purse in her left hand? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Is the combination of the white blouse and brown skirt a contrasting one? | Yes. |
+| Yes/No | Does the ruffled collar on the blouse add a touch of sophistication to the woman's outfit? | Yes. |
+| What | What color is the woman's skirt? | Brown. |
+| What | What is the woman holding in her left hand? | A small purse. |
+| How | How does the bow on the skirt contribute to the woman's overall look? | It adds a playful element to her look. |
+| How | How does the ruffled collar on the blouse contribute to the woman's overall look? | It adds a touch of sophistication to her outfit. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Is the person in the image holding a ruler? | Yes. |
+| Yes/No | Is the ruler being used to measure the person's waist? | Yes. |
+| Yes/No | Is the person's body the main focus of the image? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the atmosphere of the image intimate and revealing? | Yes. |
+| What | What is the person in the image wearing? | A white bra. |
+| What | What is the person in the image using to measure their waist? | A ruler. |
+| How | How is the person in the image holding the ruler? | With their right hand. |
+| How | How does the image highlight the person's waist area? | The ruler is being used to measure the waist area, emphasizing it. |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the ruler in the image being used to measure the person's waist? | Yes. |
+| Yes/No | Is the person's skin tone light? | Yes. |
+| Yes/No | Does the person have a visible belly button? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and revealing? | Yes. |
+| What | What is the person in the image measuring their waist with? | A ruler. |
+| What | What is the person's skin tone in the image? | Light. |
+| How | How many marks are visible on the ruler in the image? | 22nd and 23rd. |
+| How | How does the image showcase the person's waist and belly area? | The person is holding a ruler at their waist, exposing their belly. |

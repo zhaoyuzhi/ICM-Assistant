@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white wedding dress? | Yes. |
+| Yes/No | Does the dress feature a lace bodice? | Yes. |
+| Yes/No | Is the person standing in front of a wall? | Yes. |
+| Yes/No | Does the dress have a train that extends behind the person? | Yes. |
+| Yes/No | Is the person holding a bouquet of flowers? | Yes. |
+| Yes/No | Is the person's back exposed? | Yes. |
+| What | What is the color of the wedding dress? | White. |
+| What | What is the person holding in their hand? | A bouquet of flowers. |
+| How | How does the dress create a sense of movement and grace? | The dress is flowing and has a train that extends behind the person, creating a sense of movement and grace. |
+| How | How does the exposed back of the dress contribute to the sexy feel of the image? | The exposed back of the dress is a common feature in sexy attire and adds a touch of sensuality to the image. |

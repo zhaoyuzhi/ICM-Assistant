@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white hoodie? | Yes. |
+| Yes/No | Does the woman have a belly button piercing? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| What | What is the woman wearing around her neck? | A gold chain. |
+| What | What is the woman's hair style? | Long. |
+| How | How is the woman posing in the image? | She is standing with a slight lean and looking off to the side. |
+| What | What is the atmosphere of the image? | Sexy and alluring. |

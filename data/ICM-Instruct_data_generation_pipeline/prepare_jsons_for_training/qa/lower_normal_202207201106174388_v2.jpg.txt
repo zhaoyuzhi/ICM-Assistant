@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire revealing or provocative? | No. |
+| Yes/No | Does the image have a sexual or sexy atmosphere? | No. |
+| What | What is the color of the person's sweatpants? | Beige. |
+| What | What is the color of the person's t-shirt? | White. |
+| How | How is the person's attire in the image? | Casual and not revealing. |
+| How | How would you describe the atmosphere of the image? | Neutral and not sexy. |

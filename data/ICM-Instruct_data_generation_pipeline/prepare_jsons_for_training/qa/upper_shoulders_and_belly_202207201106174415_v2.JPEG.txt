@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image featuring two women? | Yes. |
+| Yes/No | Are the women wearing strapless tops? | Yes. |
+| Yes/No | Are the women wearing shorts? | Yes. |
+| Yes/No | Is the woman on the left wearing a red and white checkered top? | Yes. |
+| Yes/No | Is the woman on the right wearing a black and white checkered top? | Yes. |
+| Yes/No | Are the women posing with their hands on their hips? | Yes. |
+| What | What is the color of the woman's top on the left? | Red and white. |
+| What | What is the color of the woman's top on the right? | Black and white. |
+| How | How are the women posing in the image? | With their hands on their hips, showcasing their midriffs. |
+| How | How does the woman on the right's outfit add a touch of edginess to the image? | She is wearing ripped jeans. |

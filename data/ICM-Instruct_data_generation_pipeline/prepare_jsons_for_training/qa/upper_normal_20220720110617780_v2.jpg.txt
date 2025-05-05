@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the woman lying down on a bed? | Yes. |
+| Yes/No | Is the pillow adorned with a purple geometric pattern? | Yes. |
+| Yes/No | Does the image suggest a sense of tranquility and rest? | Yes. |
+| Yes/No | Are the woman's eyes closed in the image? | Yes. |
+| What | What color is the pillow in the image? | Purple. |
+| What | What is the woman wearing in the image? | A white top. |
+| How | How is the woman positioned on the bed in the image? | She is lying down. |
+| How | How does the image suggest the woman is feeling? | The image suggests the woman is feeling tranquil and rested. |

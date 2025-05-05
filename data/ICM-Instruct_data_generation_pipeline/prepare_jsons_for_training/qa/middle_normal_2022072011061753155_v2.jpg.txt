@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sweater? | Yes. |
+| Yes/No | Are they wearing pants? | Yes. |
+| Yes/No | Is the person's attire neutral and non-sexual? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the person's arms crossed in front of them? | Yes. |
+| Yes/No | Is the person looking off to the side? | Yes. |
+| What | What color is the person's sweater? | Beige. |
+| What | What color is the person's belt? | Brown. |
+| How | How are the person's arms positioned? | Crossed in front of them. |
+| How | How is the person looking? | Off to the side. |
+| Yes/No | Is the person in the image wearing a sweater? | Yes. |
+| Yes/No | Is the person in the image wearing pants? | Yes. |
+| Yes/No | Is the person in the image wearing a belt? | Yes. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image feature a white background? | Yes. |
+| What | What color is the person's sweater? | Beige. |
+| What | What color are the person's pants? | Khaki. |
+| How | How is the person's posture in the image? | Arms crossed in front of them. |
+| What | What is the focus of the image? | The person's clothing and posture. |

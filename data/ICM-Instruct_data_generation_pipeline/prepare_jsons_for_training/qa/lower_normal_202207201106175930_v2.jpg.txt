@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing high heels? | Yes. |
+| Yes/No | Is the person in the image wearing socks? | Yes. |
+| Yes/No | Does the image feature any suggestive or revealing elements? | No. |
+| Yes/No | Is the person in the image wearing clothing other than socks and heels? | No. |
+| Yes/No | Does the image evoke any sexual or provocative feelings? | No. |
+| Yes/No | Is the exposure level of the person in the image high? | No. |
+| What | What color are the high heels? | White. |
+| What | What is the design of the toe of the high heels? | Pointed. |
+| How | How are the person's movements depicted in the image? | Static. |
+| What | What is the background of the image? | Gray. |

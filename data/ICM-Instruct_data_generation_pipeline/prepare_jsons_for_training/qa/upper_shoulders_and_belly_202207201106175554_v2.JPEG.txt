@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the woman holding a microphone? | Yes. |
+| Yes/No | Is the dress low-cut? | Yes. |
+| Yes/No | Does the image feature a car in the background? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's attire in the image? | A strapless black and white dress. |
+| What | What is the woman's facial expression in the image? | Smiling. |
+| How | How does the woman's dress reveal her midriff? | The dress is lowcut, exposing her midriff. |
+| How | How does the presence of the car in the background enhance the image? | It adds an element of glamour and excitement, enhancing the sexy feel. |

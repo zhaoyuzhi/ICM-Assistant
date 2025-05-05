@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the image a close-up shot of the woman's face? | No. |
+| Yes/No | Is the woman in a sexual pose? | No. |
+| Yes/No | Is the image a high-exposure image? | No. |
+| Yes/No | Is the woman in the image smiling? | No. |
+| What | What is the woman wearing on her bottom half? | Khaki skirt. |
+| What | What is the dominant color of the woman's shirt? | White. |
+| How | How is the woman standing in the room? | She is standing casually, possibly with her feet shoulderwidth apart. |
+| How | How would you describe the atmosphere of the image? | Calm and nonthreatening. |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a belt? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire modest and appropriate for a casual setting? | Yes. |
+| How | Does the low exposure level of the image show a small portion of the woman's body? | Yes. |
+| Yes/No | Does the image evoke any sexual or provocative feelings? | No. |
+| What | What is the color of the woman's skirt? | Khaki. |
+| What | What is the color of the woman's belt? | Brown. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It emphasizes the modesty of the image and creates a calm and neutral atmosphere. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The modest and appropriate attire adds to the calm and neutral atmosphere of the image. |

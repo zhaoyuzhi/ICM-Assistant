@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Is the woman wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a white bra? | Yes. |
+| Yes/No | Is there a window in the background of the image? | Yes. |
+| Yes/No | Are there flowers in the background of the image? | Yes. |
+| What | What is the woman doing in the image? | She is taking off her clothes. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is sensual and alluring. |
+| How | How is the woman taking off her clothes? | She is taking off her skirt. |
+| How | How does the background contribute to the overall atmosphere of the image? | The background, including the window and flowers, adds to the sensuality and intimacy of the scene. |

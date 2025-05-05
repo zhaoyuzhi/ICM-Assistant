@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a belt? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the woman's body fully visible in the image? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her hands on her hips and looking off to the side. |
+| What | What is the color of the woman's skirt? | Beige. |
+| How | How is the woman's attire in the image? | Casual. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, casual and everyday. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image holding a phone? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the person in the image have a revealing outfit? | No. |
+| Yes/No | Is the atmosphere of the image casual? | Yes. |
+| Yes/No | Does the image contain any provocative elements? | No. |
+| What | What is the person in the image wearing around their waist? | A brown belt. |
+| What | What is the person in the image holding in their right hand? | A phone. |
+| How | How is the person in the image dressed? | Modestly, in a beige short skirt and a brown belt. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It reinforces the nonsexual nature of the image by only showing a small portion of the person's body. |

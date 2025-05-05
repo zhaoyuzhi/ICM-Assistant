@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the child in the image wearing a hat? | Yes. |
+| Yes/No | Is the child holding a toy? | Yes. |
+| Yes/No | Is the child in the image enjoying themselves? | Yes. |
+| Yes/No | Is the image set in a bathroom? | Yes. |
+| Yes/No | Is the child's body visible in the image? | No. |
+| Yes/No | Does the image contain suggestive or provocative elements? | No. |
+| What | What is the child holding in the image? | A blue toy. |
+| What | What is the color of the child's hat in the image? | Yellow. |
+| How | How is the child engaged in a common, everyday activity in the image? | The child is engaged in bathing. |
+| How | How does the low exposure level of the image emphasize the innocent nature of the scene? | It highlights the child's enjoyment of the activity without focusing on their body, making it seem more innocent and playful. |

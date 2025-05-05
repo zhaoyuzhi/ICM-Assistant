@@ -1,0 +1,23 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue sweatpants? | Yes. |
+| Yes/No | Is the sweatpants a solid color? | Yes. |
+| Yes/No | Are the sweatpants made of a soft fabric? | Yes. |
+| Yes/No | Is the person wearing a blue sweater? | Yes. |
+| Yes/No | Does the sweater match the color of the sweatpants? | Yes. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| Yes/No | Are the person's hands resting on their hips? | Yes. |
+| What | What is the overall atmosphere of the image? | Casual and comfortable. |
+| What | What is the low angle shot emphasizing? | The person's torso and waist. |
+| How | How is the person's pose in the image? | Neutral. |
+| How | How does the image not contain any explicit or suggestive content? | The image focuses on the person's attire and pose rather than their body, and there is no indication of any provocative or suggestive actions. |
+| Yes/No | Is the person in the image wearing a pair of purple sweatpants? | Yes. |
+| Yes/No | Is the blue top the person is wearing a contrasting color to the purple sweatpants? | Yes. |
+| Yes/No | Does the person have a neutral pose in the image? | Yes. |
+| Yes/No | Are the sweatpants made of a soft, comfortable fabric? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| How | Is the image meant to showcase the person's outfit rather than their body? | Yes. |
+| What | What is the color of the sweatpants? | Purple. |
+| What | What is the color of the top the person is wearing? | Blue. |
+| How | How are the sweatpants made of a soft, comfortable fabric? | The sweatpants appear to be made of a soft, comfortable fabric, possibly cotton or polyester. |
+| How | How does the image convey a casual and comfortable atmosphere? | The image conveys a casual and comfortable atmosphere through the person's neutral pose, the low exposure level, and the focus on the person's outfit rather than their body. |

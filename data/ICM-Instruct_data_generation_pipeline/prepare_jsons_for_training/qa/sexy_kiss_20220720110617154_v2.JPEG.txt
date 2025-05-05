@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a red shirt? | Yes. |
+| Yes/No | Is the woman wearing an orange shirt? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Is the man holding the woman's face in his hands? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the man wearing? | A red shirt. |
+| What | What is the woman wearing? | An orange shirt. |
+| How | How are the couple expressing their affection for each other? | They are kissing. |
+| How | How does the image capture the atmosphere of the moment? | The image captures a tender moment between the couple in a public setting, suggesting an intimate and passionate atmosphere. |

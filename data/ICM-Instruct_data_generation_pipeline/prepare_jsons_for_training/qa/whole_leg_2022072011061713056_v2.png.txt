@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing high-waisted shorts? | Yes. |
+| Yes/No | Does the woman have a black purse? | Yes. |
+| Yes/No | Are the shorts frayed at the hem? | Yes. |
+| Yes/No | Is the woman's top black? | Yes. |
+| Yes/No | Is the background of the image a city street? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman carrying in her hand? | A black purse. |
+| What | What is the dominant color of the woman's outfit? | Blue. |
+| How | How are the shorts styled? | Highwaisted with a frayed hem. |
+| How | How does the woman carry herself in the image? | Confidently and with poise. |

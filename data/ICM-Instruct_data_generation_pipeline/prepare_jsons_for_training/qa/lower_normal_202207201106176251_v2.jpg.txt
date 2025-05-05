@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the man have a white "S" logo on his left leg? | Yes. |
+| Yes/No | Is the man wearing a gray sweatshirt? | Yes. |
+| Yes/No | Does the gray sweatshirt have a white "S" logo on the left chest? | Yes. |
+| Yes/No | Are the man's sneakers white? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color are the man's jeans? | Blue. |
+| What | What is the color of the man's sneakers? | White. |
+| How | How is the man standing in the image? | Neutrally. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun? | Yes. |
+| Yes/No | Is the woman wearing a white flower in her hair? | Yes. |
+| Yes/No | Is the woman smiling and looking over her shoulder? | Yes. |
+| What | What color is the dress? | White. |
+| What | What is the woman wearing in her hair? | A white flower. |
+| How | How is the woman's hair styled? | In a bun. |
+| How | How does the woman look? | Confident and poised. |

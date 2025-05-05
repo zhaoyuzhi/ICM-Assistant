@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a sleeveless dress? | Yes. |
+| Yes/No | Is the dress black? | Yes. |
+| Yes/No | Is the woman's back exposed? | Yes. |
+| Yes/No | Is there a tie at the back of the dress? | Yes. |
+| Yes/No | Is the woman standing against a white wall? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the woman wearing? | A black, sleeveless dress with a low back and a tie at the back. |
+| What | What is the overall atmosphere of the image? | Seductive and alluring. |
+| How | How does the woman's pose enhance the seductive nature of the image? | The woman's back is turned towards the camera, which creates a sense of intimacy and allure. |
+| How | How does the contrast between the woman's dress and the white wall contribute to the visual impact of the image? | The contrast draws the viewer's attention to the woman and her attire, adding to the visual impact of the image. |

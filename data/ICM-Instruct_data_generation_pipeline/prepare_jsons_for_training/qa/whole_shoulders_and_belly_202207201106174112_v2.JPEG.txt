@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Are her blue jeans fitted? | Yes. |
+| Yes/No | Is she wearing black boots? | Yes. |
+| Yes/No | Is her shirt unbuttoned? | Yes. |
+| Yes/No | Is she holding her shirt open with her left hand? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing on her upper body? | A black tshirt with a graphic design. |
+| What | What color are her boots? | Black. |
+| How | How is the woman's shirt unbuttoned? | It is unbuttoned, revealing her midriff. |
+| How | How is the woman holding her shirt open? | She is holding it open with her left hand. |

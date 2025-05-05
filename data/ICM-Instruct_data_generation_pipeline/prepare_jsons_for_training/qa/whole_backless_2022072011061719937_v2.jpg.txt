@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a lace top? | Yes. |
+| Yes/No | Is the back of the dress low? | Yes. |
+| Yes/No | Is the dress form-fitting? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's pose confident and seductive? | Yes. |
+| What | What is the main color of the dress? | Red. |
+| What | What is the material of the dress's top? | Lace. |
+| How | How is the dress fitting on the woman's body? | Formfitting. |
+| How | How would you describe the woman's pose in the image? | Confident and seductive. |

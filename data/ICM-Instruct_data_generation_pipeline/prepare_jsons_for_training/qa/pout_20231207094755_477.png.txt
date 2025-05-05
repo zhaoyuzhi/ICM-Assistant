@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman making a pouting or kissing face? | Yes. |
+| Yes/No | Is the woman looking upwards? | Yes. |
+| Yes/No | Are the woman's lips puckered? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image provide any additional details about the woman's facial features or the background? | No. |
+| What | What is the woman's facial expression in the image? | Pouting or kissing face. |
+| What | What is the woman looking at in the image? | Possibly the camera. |
+| How | How are the woman's lips displayed in the image? | Prominently displayed. |
+| How | How does the woman's upward gaze interpret in the image? | Inviting or flirtatious. |

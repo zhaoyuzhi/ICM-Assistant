@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Are there white flowers on the skirt? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Are the woman's heels black? | Yes. |
+| Yes/No | Is the woman's attire and demeanor modest and appropriate? | Yes. |
+| What | What is the woman's skirt made of? | The woman's skirt is made of black fabric adorned with white flowers. |
+| What | What is the woman's top made of? | The woman's top is made of white fabric. |
+| How | How long is the woman's skirt? | The woman's skirt is long, reaching down to her ankles. |
+| How | How does the woman's posture and movement appear in the image? | The woman's posture and movement appear calm and composed, as if she is walking towards the camera with ease. |

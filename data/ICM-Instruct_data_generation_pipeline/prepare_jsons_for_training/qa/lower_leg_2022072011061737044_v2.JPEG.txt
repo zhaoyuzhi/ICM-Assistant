@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked from the waist down? | Yes. |
+| Yes/No | Are the person's feet visible in the image? | Yes. |
+| Yes/No | Is the person sitting on a chair in the image? | Yes. |
+| Yes/No | Is the dress cropped at the knees? | Yes. |
+| Yes/No | Are the sandals black with a tan sole? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What color are the sandals? | Black. |
+| What | What is the person wearing on their feet? | Sandals. |
+| How | How are the sandals strapped around the ankles? | With straps. |
+| How | How does the image capture a moment of vulnerability and allure? | Through the person's pose and overall atmosphere. |

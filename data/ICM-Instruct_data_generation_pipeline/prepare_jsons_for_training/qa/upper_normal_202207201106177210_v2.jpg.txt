@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a brown blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a white skirt? | Yes. |
+| Yes/No | Does the woman in the image have a small, beige purse with a gold clasp? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image feature a sexy or provocative atmosphere? | No. |
+| Yes/No | Is the woman's attire and setting suggestive or provocative? | No. |
+| What | What is the color of the woman's blouse? | Brown. |
+| What | What is the color of the woman's skirt? | White. |
+| How | How is the woman holding her purse? | She is holding it with one hand. |
+| What | What is the focus of the image? | The focus is on the woman's outfit and the purse she is holding, rather than on her body or appearance. |

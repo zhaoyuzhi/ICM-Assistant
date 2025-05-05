@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Does the dress have a lace-up design? | Yes. |
+| Yes/No | Is the woman wearing a black bra underneath the dress? | Yes. |
+| Yes/No | Is the dress high-waisted? | Yes. |
+| Yes/No | Does the dress have a slit on the left side? | Yes. |
+| What | What is the woman in the image lifting? | The woman is lifting her black dress. |
+| What | What color is the dress? | The dress is black. |
+| How | How does the woman's pose accentuate her figure? | The woman's pose emphasizes her cleavage and the overall allure of the dress, accentuating her figure. |
+| How | How does the dress design draw attention to the woman's cleavage? | The highwaisted and slit design of the dress accentuates the woman's cleavage, drawing attention to it. |

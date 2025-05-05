@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's pants gray? | Yes. |
+| Yes/No | Is the man's pose in the image relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image evoke any sexual feelings? | No. |
+| What | What is the man's attire in the image? | White shirt and gray pants. |
+| What | What is the overall atmosphere of the image? | Calm and nonthreatening. |
+| How | How is the man standing in the image? | With his hands in his pockets. |
+| How | How would you describe the exposure level of the image? | Very low, only a small portion of the man's body is visible. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's pants gray? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose in the image relaxed? | Yes. |
+| Yes/No | Does the image evoke any sexual feelings? | No. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the man's pose in the image? | He is standing with his hands in his pockets. |
+| What | What is the overall atmosphere of the image? | Calm and nonthreatening. |
+| How | How does the man's attire contribute to the image's atmosphere? | The man's neutral attire, lack of explicit content, and low exposure level contribute to a nonthreatening atmosphere. |
+| How | How does the image's low exposure level affect its potential to be perceived as sexy? | The low exposure level reduces the potential for the image to be perceived as sexy by minimizing the amount of skin visible and avoiding any explicit or suggestive content. |

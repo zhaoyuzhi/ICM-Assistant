@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple off-the-shoulder blouse? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman's hand on her hip? | Yes. |
+| Yes/No | Does the image give off a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's pose casual and relaxed? | Yes. |
+| What | What color is the woman's blouse? | Purple. |
+| What | What is the woman's hair style? | Not specified in the description. |
+| How | How is the blouse tied at the waist? | Not specified in the description. |
+| How | How does the woman's smile and gaze contribute to the overall atmosphere of the image? | They add to the overall allure and sexy atmosphere of the image. |

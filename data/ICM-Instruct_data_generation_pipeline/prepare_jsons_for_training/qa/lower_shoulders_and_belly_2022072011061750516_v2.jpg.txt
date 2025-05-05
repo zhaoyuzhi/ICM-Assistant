@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Is the logo on the left leg of the leggings black? | Yes. |
+| Yes/No | Are the person's feet shoulder-width apart? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color are the leggings? | Blue. |
+| What | What is the person's pose in the image? | Standing with slightly bent knees. |
+| How | How are the person's feet positioned? | Shoulderwidth apart. |
+| What | What element does the image portray? | Vulnerability, confidence, intimacy, and allure. |

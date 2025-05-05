@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blazer? | Yes. |
+| Yes/No | Is the skirt the woman is wearing short? | Yes. |
+| Yes/No | Is the woman's attire formal? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman wearing a tie? | Yes. |
+| Yes/No | Are the woman's legs visible in the image? | Yes. |
+| What | What color is the woman's blazer? | Brown. |
+| What | What color is the woman's tie? | Purple. |
+| How | How is the woman's skirt being lifted? | The woman is lifting the skirt herself. |
+| What | What does the woman's attire, including the blazer and tie, add to the image? | A sense of formality and allure. |

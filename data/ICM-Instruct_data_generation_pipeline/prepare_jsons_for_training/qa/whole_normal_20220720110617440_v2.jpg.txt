@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue suit? | Yes. |
+| Yes/No | Is the man holding a walkie-talkie? | Yes. |
+| Yes/No | Is the image a still image or a low-light situation? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image professional and formal? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy or sensuality? | No. |
+| What | What is the man in the image holding to his ear? | A walkietalkie. |
+| What | What is the design of the room in the image? | A room with a glass ceiling. |
+| How | How is the exposure level of the image? | Low. |
+| How | How does the image convey a professional and formal setting? | Through the man's attire, the room's design, and the walkietalkie he's holding. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the character in the image a human? | Yes. |
+| Yes/No | Is the character male? | Yes. |
+| Yes/No | Is the character holding a sword? | Yes. |
+| Yes/No | Is the character holding a shield? | Yes. |
+| Yes/No | Is the character wearing armor? | Yes. |
+| Yes/No | Is the character wearing a cape? | Yes. |
+| What | What is the character's hair length? | Long. |
+| What | What is the character's attire? | Armor and a cape. |
+| How | How is the character's attire styled? | The character's attire is styled in a way that focuses on their appearance as a video game character, rather than their physical attributes. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level of the image creates a dark and moody atmosphere that emphasizes the character's attire and accessories rather than their physical appearance. |

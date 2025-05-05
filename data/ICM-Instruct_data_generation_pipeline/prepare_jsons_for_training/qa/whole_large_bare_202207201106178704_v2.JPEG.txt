@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman posing for the photo? | Yes. |
+| Yes/No | Are the woman's legs apart? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A black bikini top and bottom. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the woman posing in the image? | With her hands on her hips and her legs apart. |
+| How | How does the contrast between the woman's clothing and the background accentuate her figure? | It creates a stark contrast that draws attention to her body. |

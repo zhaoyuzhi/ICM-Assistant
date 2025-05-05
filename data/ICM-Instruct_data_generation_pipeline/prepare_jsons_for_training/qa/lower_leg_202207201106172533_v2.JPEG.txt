@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of white sneakers? | Yes. |
+| Yes/No | Is the person in the image carrying a blue bag with a white logo? | Yes. |
+| Yes/No | Are the person's blue jean shorts visible in the image? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| What | What color are the person's sneakers? | White. |
+| What | What color is the logo on the person's bag? | White. |
+| How | How is the person carrying their bag? | The person is carrying the bag with their hand. |
+| How | How is the person walking down the street? | The person is walking in a casual and relaxed manner. |

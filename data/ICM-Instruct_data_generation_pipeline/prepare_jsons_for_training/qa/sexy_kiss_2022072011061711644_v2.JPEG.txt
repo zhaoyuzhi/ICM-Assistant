@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Is the man holding a sparkler in his hand? | Yes. |
+| Yes/No | Is the woman wearing a checkered shirt? | Yes. |
+| Yes/No | Is the man wearing a striped shirt? | Yes. |
+| Yes/No | Is the sparkler located in the foreground of the image? | Yes. |
+| Yes/No | Does the image capture a tender and passionate moment between the couple? | Yes. |
+| What | What is the woman wearing? | A checkered shirt. |
+| What | What is the man wearing? | A striped shirt. |
+| How | How is the sparkler adding to the romantic atmosphere of the image? | It is illuminating the scene and creating a warm and intimate atmosphere. |
+| How | How does the close proximity of the couple and the sparkler make the image feel? | It creates a sense of warmth and connection, making the image feel intimate and alluring. |

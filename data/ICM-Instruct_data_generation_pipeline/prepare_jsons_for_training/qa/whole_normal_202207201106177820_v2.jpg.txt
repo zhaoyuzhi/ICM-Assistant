@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the castle in the background made of brick? | Yes. |
+| Yes/No | Does the woman have blue pants? | Yes. |
+| Yes/No | Is the image exposure level low? | Yes. |
+| Yes/No | Does the image contain any inappropriate or explicit content? | No. |
+| Yes/No | Does the woman appear to be enjoying herself? | Yes. |
+| What | What is the woman wearing? | A black top and blue pants. |
+| How | How many towers does the castle have? | Multiple. |
+| How | How would you describe the overall atmosphere of the image? | Cheerful and lighthearted. |
+| How | How would you describe the woman's smile? | Warm and inviting. |

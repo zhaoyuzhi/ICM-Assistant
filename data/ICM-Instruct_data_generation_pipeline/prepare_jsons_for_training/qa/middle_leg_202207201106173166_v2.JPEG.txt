@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink sweatpants? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the text on the sweatpants written in white? | Yes. |
+| Yes/No | Are the sweatpants loose-fitting? | Yes. |
+| Yes/No | Does the image have a sexy feel? | Yes. |
+| Yes/No | Is the woman's pose confident and self-assured? | Yes. |
+| What | What color are the sweatpants? | Pink. |
+| What | What is the word written on the sweatpants? | Fantastic. |
+| How | How are the sweatpants fitting on the woman's body? | Loosefitting. |
+| How | How does the woman's pose and clothing create a sense of confidence and allure? | The woman's pose, with her hands on her hips, and the bold color and style of her clothing create a sense of confidence and allure. |

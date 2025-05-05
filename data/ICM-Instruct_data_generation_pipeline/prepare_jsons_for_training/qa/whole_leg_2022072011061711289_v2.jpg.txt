@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue denim shirt? | Yes. |
+| Yes/No | Are her thighs exposed in the image? | Yes. |
+| Yes/No | Is she wearing sunglasses? | Yes. |
+| Yes/No | Is her hair styled in loose waves? | Yes. |
+| Yes/No | Is she moving towards the right side of the image? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What color is the woman's shirt? | Blue. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| How | How is the woman's hair styled? | Her hair is styled in loose waves. |
+| What | What is the woman's movement direction in the image? | She is moving towards the right side of the image. |

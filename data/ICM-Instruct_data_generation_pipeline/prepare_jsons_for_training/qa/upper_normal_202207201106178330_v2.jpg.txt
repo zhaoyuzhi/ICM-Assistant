@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a pink sweatshirt with writing on it? | Yes. |
+| Yes/No | Is the sweatshirt the most prominent clothing item in the image? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the phrase written on the woman's sweatshirt? | "I can't say no". |
+| What | What color headband is the woman wearing? | Blue. |
+| How | How is the woman posing for the camera? | With her head slightly tilted to the side, giving the image a candid feel. |
+| How | How does the image focus on the woman's clothing and her pose, rather than her physical appearance? | The image focuses on the woman's clothing and her pose, rather than her physical appearance, and the low exposure level of the image further emphasizes this focus. |

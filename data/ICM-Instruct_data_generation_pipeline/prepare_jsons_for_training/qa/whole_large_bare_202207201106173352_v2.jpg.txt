@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the women in the image wearing bras? | Yes. |
+| Yes/No | Is the background of the image a solid color? | No. |
+| Yes/No | Are the women looking directly at the camera? | Yes. |
+| Yes/No | Is the image in a landscape orientation? | No. |
+| Yes/No | Does the image feature any men? | No. |
+| What | What is the color of the woman's bra on the left side of the image? | Yellow. |
+| What | What is the color of the woman's bra on the right side of the image? | Pink. |
+| How | How are the women positioned in the image? | One woman is positioned on the left side, and the other is positioned on the right side. |

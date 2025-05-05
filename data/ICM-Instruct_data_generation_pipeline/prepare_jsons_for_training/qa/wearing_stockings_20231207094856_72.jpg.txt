@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Are the stockings designed with a high waist and ruffle at the top? | Yes. |
+| Yes/No | Is the person's posture relaxed and comfortable? | Yes. |
+| Yes/No | Is the image intimate and sensual? | Yes. |
+| Yes/No | Do the stockings create a sense of allure and elegance? | Yes. |
+| Yes/No | Does the image evoke feelings of comfort and confidence? | Yes. |
+| What | What color are the stockings? | Beige. |
+| What | What is the person's posture in the image? | Crossed at the ankles and resting on the bed. |
+| How | How are the stockings designed? | With a high waist and ruffle at the top. |
+| How | How does the person appear in the image? | Relaxed and at ease in their own skin. |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Are the stockings designed with a high waist and ruffle at the top? | Yes. |
+| Yes/No | Is the person's leg crossed at the ankles? | Yes. |
+| Yes/No | Are the person's feet resting on the bed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Does the image evoke feelings of comfort and confidence? | Yes. |
+| What | What color are the stockings? | Beige. |
+| What | What is the unique feature of the stockings' design? | High waist and ruffle at the top. |
+| How | How are the person's legs positioned in the image? | Crossed at the ankles. |
+| How | How does the image make you feel? | Sensual and alluring. |

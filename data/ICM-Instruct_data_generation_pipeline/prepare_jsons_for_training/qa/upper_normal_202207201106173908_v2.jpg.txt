@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image covered in chocolate frosting? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Does the woman have blonde hair? | Yes. |
+| Yes/No | Is the woman standing in front of a glass door? | Yes. |
+| Yes/No | Is the image set in a bathroom? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's situation in the image? | She is covered in chocolate frosting and standing in front of a glass door. |
+| What | What is the overall atmosphere of the image? | Lighthearted and playful. |
+| How | How is the woman's situation depicted in the image? | The woman is depicted as covered in chocolate frosting, with a playful and humorous expression on her face. |
+| How | How does the image's low exposure level affect its content? | The low exposure level means that the image does not reveal any inappropriate or explicit content, and maintains a lighthearted and playful atmosphere. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Does the person have any tattoos? | Yes. |
+| Yes/No | Is the person's hair styled in a ponytail? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the location of the person's piercing? | Navel. |
+| How | How is the person's hair styled? | Pulled back. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Are they wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is their belly button exposed? | Yes. |
+| Yes/No | Does the person have a tattoo on their stomach? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the person's body the main focus of the image? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the main element that contributes to the sexy atmosphere in the image? | The exposed belly and tattoo on the stomach. |
+| How | How does the person's skin look in the image? | Visible. |
+| How | How does the image make you feel? | Intimate and allured. |

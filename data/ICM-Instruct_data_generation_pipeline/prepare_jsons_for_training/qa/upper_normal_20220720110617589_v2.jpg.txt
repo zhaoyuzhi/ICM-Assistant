@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Does the woman have her hands raised? | Yes. |
+| Yes/No | Is the background of the image a map of the world? | Yes. |
+| Yes/No | Does the woman's attire and raised hands suggest a professional or educational context? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the woman doing with her hands? | Raised, possibly in a gesture of explanation or emphasis. |
+| What | What is the context of the image based on the map of the world in the background? | Global or informative discussion. |
+| How | How is the woman's attire consistent with the professional or educational context? | The woman's black dress with a white logo is modest and not revealing, suggesting professionalism. |
+| How | How does the map of the world in the background reinforce the idea of a global or informative discussion? | The map of the world suggests a broader, global perspective, reinforcing the idea that the woman's discussion or presentation is not limited to a local or regional scope. |

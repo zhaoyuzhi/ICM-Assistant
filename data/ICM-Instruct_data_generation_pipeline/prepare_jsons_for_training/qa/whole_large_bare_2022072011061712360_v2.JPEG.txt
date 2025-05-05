@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image holding a snake? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the beach setting suggestive of a warm, sunny day? | Yes. |
+| Yes/No | Does the image convey a sense of intrigue and allure? | Yes. |
+| Yes/No | Does the woman's confident pose contribute to the image's sexiness? | Yes. |
+| What | What is the woman holding in her right hand? | A snake. |
+| What | What is the woman's attire in the image? | A bikini top and shorts. |
+| How | How is the woman holding the snake? | The woman is holding the snake coiled in her right hand. |
+| How | How does the image capture the woman's emotions? | The image captures a moment of joy and playfulness on the woman's face. |

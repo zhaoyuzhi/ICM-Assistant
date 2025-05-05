@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's top black? | Yes. |
+| Yes/No | Does the image feature a wooden floor? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability? | Yes. |
+| Yes/No | Does the image have a warm and intimate atmosphere? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the color of the person's top? | Black. |
+| How | How does the person's belly appear in the image? | Hint of midriff. |
+| How | How does the wooden floor contribute to the atmosphere of the image? | Warm and natural ambiance. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's stomach exposed in the image? | Yes. |
+| Yes/No | Does the image feature the person's face? | No. |
+| Yes/No | Are the jeans tight and accentuating the person's waist? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability and intimacy? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What is the focal point of the image? | The person's body and the tight blue jeans. |
+| How | How are the jeans accentuating the person's waist? | They are tight and fitted, highlighting the person's waistline. |
+| How | How does the image convey a sense of vulnerability and intimacy? | The exposed stomach and the tight jeans create a sense of vulnerability and intimacy, drawing the viewer's attention to the person's body and midriff area. |

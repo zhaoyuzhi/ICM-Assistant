@@ -1,0 +1,7 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What is the person's pose in the image? |A. Standing upright |B. Leaning against a chair |C. Sitting on the floor |D. Lying down |B. |
+| What color is the person's shirt? |A. White |B. Orange |C. Black |D. Red |B. |
+| What type of shoes is the person wearing? |A. Boots |B. Sneakers |C. Sandals |D. Heels |D. |
+| What is the atmosphere of the image? |A. Formal |B. Casual |C. Mysterious |D. Elegant |B. |
+| How would you describe the image's overall vibe? |A. Serious |B. Playful |C. Sensual |D. Moody |C. |

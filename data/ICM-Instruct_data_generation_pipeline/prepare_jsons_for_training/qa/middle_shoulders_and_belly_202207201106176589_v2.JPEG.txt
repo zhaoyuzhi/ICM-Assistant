@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the person in the image holding a device in their hand? | Yes. |
+| Yes/No | Is the device connected to the person's body with a tube? | Yes. |
+| Yes/No | Is the device a blood glucose monitor? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person holding in their hand? | A blood glucose monitor. |
+| What | What is the purpose of the tube connected to the device? | To monitor the person's blood glucose levels. |
+| How | How is the person's hair styled in the image? | The person is wearing a ponytail holder in their hair. |
+| How | How does the image convey a sense of intimacy and connection with the viewer? | The image captures a moment of vulnerability and intimacy, with the person's exposed belly and the closeup view of the blood glucose monitor creating a sense of closeness and connection with the viewer. The blue shirt adds a touch of color to the image, while the ponytail holder in the woman's hair adds a playful element, further enhancing the sense of intimacy and selfassuredness. |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the device attached to the woman's belly have a screen? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have an intimate and personal atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman holding in her hand? | A small device connected to the device attached to her belly. |
+| What | What is the purpose of the device attached to the woman's belly? | It is not explicitly stated in the description, but it could be a medical device or a fitness tracker. |
+| How | How is the woman's skin visible in the image? | The woman's belly is exposed, and her shirt is raised or pushed up. |
+| How | How does the woman's direct gaze into the camera add to the sense of connection and trust between the woman and the viewer? | The direct gaze creates a sense of eye contact, which can convey a sense of vulnerability, honesty, and openness, and can make the viewer feel like they are being let in on a private moment. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman sitting on a large white ball? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is she looking down at her feet? | Yes. |
+| Yes/No | Is the background a gradient of pink and white? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What is the woman sitting on? | A large white ball. |
+| What | What color are her high heels? | Green. |
+| How | How is the woman's pose in the image? | She is sitting with her legs crossed. |
+| How | How would you describe the atmosphere created by the background? | Soft and inviting. |

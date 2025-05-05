@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man sitting on a bench? | Yes. |
+| Yes/No | Is the man wearing a blue shirt? | Yes. |
+| Yes/No | Are the man's legs crossed? | Yes. |
+| Yes/No | Is the bench positioned in front of a potted plant? | Yes. |
+| Yes/No | Does the image depict explicit or suggestive content? | No. |
+| Yes/No | Is the man's posture calm and non-threatening? | Yes. |
+| What | What is the man resting his arms on? | His knees. |
+| What | What is the focus of the image? | The man's relaxed pose and the potted plant. |
+| How | How is the exposure level of the image? | Low. |
+| What | What does the low exposure level emphasize? | The nonsexual nature of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main focus of the image the person's lips? | Yes. |
+| Yes/No | Is the person biting their lower lip? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image feature any other body parts besides the lips? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the person's lipstick? | Red. |
+| What | What is the facial expression of the person in the image? | Intrigued/Alluring. |
+| How | How are the lips painted? | Vibrantly. |
+| How | How does the close-up perspective contribute to the overall atmosphere of the image? | Intimate/Alluring. |

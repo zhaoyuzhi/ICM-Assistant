@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the door in the image yellow? | Yes. |
+| Yes/No | Is the woman holding a bag in her hand? | Yes. |
+| Yes/No | Are the shorts plaid in color? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the color of the woman's shorts? | Plaid. |
+| What | What is the woman holding in her hand? | A brown bag. |
+| How | How are the shorts designed? | They are designed with a checkered pattern. |
+| How | How does the woman's pose and setting enhance the image? | The woman's pose and setting enhance the image by adding a sense of allure and confidence, creating a visually appealing and provocative image. |

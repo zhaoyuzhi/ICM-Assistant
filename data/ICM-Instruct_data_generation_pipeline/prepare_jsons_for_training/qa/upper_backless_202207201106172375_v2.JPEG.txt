@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a high slit? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Is the dress made of a shiny material? | Yes. |
+| Yes/No | Does the lace on the back of the dress add elegance to the outfit? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person wearing? | A black dress with a high slit. |
+| What | What is the person's pose in the image? | Standing with their back to the camera, facing away from it. |
+| How | How does the dress add to the overall allure of the image? | The dress is made of a shiny material, and the high slit reveals the person's back and thighs, adding a touch of sensuality to the image. |
+| How | How does the person's pose contribute to the sexy atmosphere of the image? | The person's pose, with their back to the camera and facing away from it, adds a sense of mystery and intrigue to the image, which can make the viewer curious and increase the allure of the image. |

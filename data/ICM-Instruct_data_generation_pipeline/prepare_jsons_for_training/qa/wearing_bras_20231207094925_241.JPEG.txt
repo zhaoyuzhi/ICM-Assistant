@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Does the bra have a bow on the front? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the image associated with self-care and self-expression? | Yes. |
+| Yes/No | Does the beige color of the bra add a soft and delicate touch to the image? | Yes. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| What | What is the color of the bra? | Beige. |
+| How | How does the plain white background affect the image? | It puts the focus on the woman and her actions, making the image feel more personal and intimate. |
+| How | How does the bow on the front of the bra add to the image? | It adds a playful and feminine element to the image. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Does the bra have a bow on the front? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What color is the bra in the image? | Beige. |
+| What | What is the woman doing in the image? | Putting on her bra. |
+| How | How does the beige color of the bra add to the image? | It adds a soft and delicate touch. |
+| How | How does the bow on the front of the bra contribute to the image's atmosphere? | It adds a playful and feminine element. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Is the person wearing heels? | Yes. |
+| Yes/No | Is the person's shirt white? | Yes. |
+| Yes/No | Does the skirt have black and white stripes? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What type of shoes is the person wearing? | Black heels. |
+| How | How is the person standing in the image? | With their legs apart and hands on their hips. |
+| What | What is the overall mood or tone of the image? | Confident and alluring. |

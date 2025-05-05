@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing a garter belt? | Yes. |
+| Yes/No | Are the stockings white? | Yes. |
+| Yes/No | Is the garter belt white? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the stockings? | White. |
+| What | What is the material of the stockings? | Sheer material. |
+| How | How are the stockings held up? | By a garter belt. |
+| What | What is the atmosphere of the image? | Seductive and evocative. |

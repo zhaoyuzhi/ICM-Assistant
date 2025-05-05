@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sheer top? | Yes. |
+| Yes/No | Is the woman holding a white rose in her hand? | Yes. |
+| Yes/No | Is the woman's hair wet? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| Yes/No | Does the woman appear to be admiring the rose? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive? | Yes. |
+| What | What is the woman holding in her hand? | A white rose. |
+| What | What is the woman's hair like in the image? | Wet. |
+| How | How is the woman's top soaked? | It is not specified in the description, but it could be from wet hair or being drenched in water. |
+| How | How does the woman appear to be feeling in the image? | She appears to be feeling relaxed and possibly sensual, as she is admiring the rose and her wet hair and clothing suggest a recent shower or bath. |

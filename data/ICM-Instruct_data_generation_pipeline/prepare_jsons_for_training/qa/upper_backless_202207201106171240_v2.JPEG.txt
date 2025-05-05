@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sports bra? | Yes. |
+| Yes/No | Are the leggings green? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Does the white sports bra have a criss-cross design on the back? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the leggings? | Green. |
+| What | What is the design on the back of the white sports bra? | Crisscross. |
+| How | How are the leggings fitting the person's body? | Formfitting. |
+| How | How does the image capture the person's physical attributes? | Visually appealing and confident. |

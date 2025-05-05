@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing red lipstick? | Yes. |
+| Yes/No | Does the woman have a red background behind her? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Are the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman wearing a red sweater? | Yes. |
+| Yes/No | Does the image have a cohesive look? | Yes. |
+| What | What color is the woman's lipstick? | Red. |
+| What | What is the color of the woman's sweater? | Red. |
+| How | How does the woman's hair add to her overall appearance? | The loose waves in her hair add a touch of softness and movement to the image, making it more dynamic and appealing. |
+| How | How does the woman's slight smile and looking off to the side give an impression? | Her slight smile and the way she is looking off to the side give the impression of confidence and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini colorful? | Yes. |
+| Yes/No | Does the bikini have a floral pattern? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image convey a sense of allure and sensuality? | Yes. |
+| What | What is the woman holding in her hand? | A purse. |
+| What | What is the color of the bikini? | Colorful (specifically, a floral pattern). |
+| How | How is the woman standing in the image? | Confidently and selfassuredly. |
+| How | How does the white background affect the image? | It emphasizes the subject and the colors of the bikini and purse. |

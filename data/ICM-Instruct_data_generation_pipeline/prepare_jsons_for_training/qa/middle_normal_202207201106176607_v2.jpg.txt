@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's shorts floral? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What is the man's posture in the image? | Relaxed, with his hands in his pockets. |
+| What | What is the overall atmosphere of the image? | Nonsexual, casual, and candid. |
+| How | How is the man's body positioned in the frame? | His body is only partially visible, with a focus on his casual attire and relaxed posture. |
+| How | How does the low exposure level of the image contribute to its atmosphere? | It emphasizes the nonsexual nature of the image and focuses attention on the man's casual attire and posture rather than his physical appearance. |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the image focused on the man's attire? | Yes. |
+| Yes/No | Does the man's attire have a floral pattern? | Yes. |
+| Yes/No | Is the image suggestive or explicit? | No. |
+| What | What color are the shorts? | Green. |
+| What | What is the man's posture in the image? | Relaxed and laidback. |
+| How | How are the shorts fitting on the man? | Loosefitting. |
+| How | How does the image feel overall? | Casual and everyday. |

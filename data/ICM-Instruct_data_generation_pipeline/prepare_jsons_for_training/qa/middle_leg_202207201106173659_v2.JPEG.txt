@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the background of the image red? | Yes. |
+| Yes/No | Is the woman wearing a leopard print blouse? | Yes. |
+| Yes/No | Does the woman have a confident and assertive pose? | Yes. |
+| Yes/No | Are there gold buttons on the woman's denim skirt? | Yes. |
+| Yes/No | Does the image have a sexy and alluring atmosphere? | Yes. |
+| What | What is the color of the woman's blouse? | A vibrant mix of purple and blue with a leopard print pattern. |
+| What | What is the color of the woman's denim skirt? | Classic blue. |
+| How | How is the woman's left hand positioned in the image? | Resting on her hip. |
+| How | How is the woman's right hand positioned in the image? | Lightly touching her thigh. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person taking off their clothes? | Yes. |
+| Yes/No | Is the setting a private space, such as a bedroom or dressing room? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the woman sitting on a white chair? | Yes. |
+| Yes/No | Does the image have a monochromatic and minimalistic aesthetic? | Yes. |
+| What | What is the woman wearing in the image? | A white shirt and white shorts. |
+| What | What is the background of the image? | A closet. |
+| How | How is the woman taking off her clothes? | She is taking off her clothes while sitting on a white chair. |
+| How | How does the image portray a sense of intimacy and vulnerability? | The woman is in a private space, such as a bedroom or dressing room, and she is taking off her clothes, suggesting a level of comfort and confidence. |

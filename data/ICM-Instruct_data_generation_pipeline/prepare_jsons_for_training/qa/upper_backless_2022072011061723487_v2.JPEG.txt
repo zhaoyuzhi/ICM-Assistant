@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white lace dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a white flower in her hair? | Yes. |
+| Yes/No | Is the woman in the image looking off to the side? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Does the image have an elegant atmosphere? | Yes. |
+| Yes/No | Does the image have a romantic atmosphere? | Yes. |
+| What | What is the woman in the image wearing? | A white lace dress and a white flower in her hair. |
+| What | What is the woman in the image looking at? | Off to the side. |
+| How | How is the woman's hair styled in the image? | Pulled back into a bun. |
+| How | How does the image make you feel? | Elegant, romantic, and sexy. |

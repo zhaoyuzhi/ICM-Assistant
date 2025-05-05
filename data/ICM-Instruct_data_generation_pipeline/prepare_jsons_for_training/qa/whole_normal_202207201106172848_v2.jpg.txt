@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a green blouse? | Yes. |
+| Yes/No | Does the blouse have a floral pattern? | Yes. |
+| Yes/No | Does the blouse have a ruffled collar? | Yes. |
+| Yes/No | Are the sleeves of the blouse short? | Yes. |
+| Yes/No | Is the woman carrying a white purse? | Yes. |
+| What | What color is the woman's blouse? | Green. |
+| What | What is the woman carrying in her hand? | A white purse. |
+| How | How does the woman's attire look? | Casual yet stylish. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the woman and her attire. |

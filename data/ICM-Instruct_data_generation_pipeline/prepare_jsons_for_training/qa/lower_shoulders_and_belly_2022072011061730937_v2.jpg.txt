@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bodysuit? | Yes. |
+| Yes/No | Is the background of the image plain gray? | Yes. |
+| Yes/No | Is the woman's pose in the image sexy? | Yes. |
+| Yes/No | Does the bodysuit accentuate the woman's figure? | Yes. |
+| Yes/No | Is the image visually appealing? | Yes. |
+| Yes/No | Does the image convey a sense of movement and dynamism? | Yes. |
+| What | What color is the bodysuit the woman is wearing? | Blue. |
+| What | What is the woman's pose in the image? | She is striking a pose with her left leg extended behind her and her right leg bent at the knee. |
+| How | How does the bodysuit highlight the woman's figure? | It is tightfitting, accentuating her curves. |
+| How | How does the image create a sense of movement and dynamism? | The woman's pose, with her left leg extended behind her and her right leg bent at the knee, adds a sense of movement and dynamism to the image. |

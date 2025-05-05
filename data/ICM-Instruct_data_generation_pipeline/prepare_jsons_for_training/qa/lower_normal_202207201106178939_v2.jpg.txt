@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a professional manner? | Yes. |
+| Yes/No | Is the woman facing the camera directly? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's posture upright? | Yes. |
+| Yes/No | Does the woman have a small black purse in her hand? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What is the woman holding in her hand? | A small black purse. |
+| What | What is the woman wearing? | A black skirt and a white blouse. |
+| How | How is the woman standing? | With her posture upright and facing the camera directly. |
+| How | How does the image convey a sense of professionalism? | Through the woman's attire, posture, and the overall clean and uncluttered background. |

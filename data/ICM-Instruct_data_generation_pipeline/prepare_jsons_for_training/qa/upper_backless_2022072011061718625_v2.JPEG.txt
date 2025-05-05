@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the dress backless? | Yes. |
+| Yes/No | Is the person's skin visible through the dress? | Yes. |
+| Yes/No | Is the person standing in front of a white curtain? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| What | What is the color of the dress? | Red. |
+| What | What is the material of the dress? | Sheer, lacy. |
+| How | How is the person posing in the image? | With their hand on their hip and looking over their shoulder. |
+| How | How does the white curtain in the background contribute to the overall atmosphere of the image? | It provides a stark contrast to the person's vibrant red dress, further drawing attention to the person and their attire. |

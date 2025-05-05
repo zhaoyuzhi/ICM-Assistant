@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red swimsuit? | Yes. |
+| Yes/No | Does the swimsuit have a high neckline? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the person wearing white tights? | Yes. |
+| Yes/No | Does the image create a sense of allure and sensuality? | Yes. |
+| What | What color is the swimsuit? | Red. |
+| What | What is the person's pose in the image? | Hands on hips. |
+| How | How does the high neckline of the swimsuit contribute to the image's atmosphere? | It creates a sense of mystery and intrigue. |
+| How | How do the white tights contribute to the image's atmosphere? | They add an element of modesty and contrast to the red swimsuit. |

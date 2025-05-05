@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the image captured from the waist up? | Yes. |
+| Yes/No | Does the woman have both hands on the bra straps? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| What | What color is the bra the woman is wearing? | White. |
+| How | How is the woman holding the bra straps? | She is holding them with both hands. |
+| How | How does the woman look while putting on her bra? | She looks confident, playful, and sexy. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the image captured from the waist up? | Yes. |
+| Yes/No | Does the woman have both hands on the straps of the bra? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| What | What is the color of the bra the woman is wearing? | White. |
+| How | How is the woman holding the straps of the bra? | She is holding them with both hands. |
+| How | How does the woman's demeanor in the image contrast with traditional associations of the color white? | Her confident and playful demeanor contrasts with the traditional associations of purity and innocence associated with white, creating a sense of allure and intrigue. |

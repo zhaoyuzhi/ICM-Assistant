@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman holding a pink rose in her hand? | Yes. |
+| Yes/No | Is the woman looking down at the rose? | Yes. |
+| Yes/No | Are the woman's clothes wet? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Does the rose add to the romantic atmosphere in the image? | Yes. |
+| What | What is the woman holding in her hand? | A pink rose. |
+| What | What is the overall atmosphere of the image? | Intimate and sensual. |
+| How | How does the woman's wet clothes contribute to the atmosphere of the image? | They suggest a romantic or passionate moment and evoke feelings of intimacy and sensuality. |
+| How | How does the woman's gaze at the rose contribute to the atmosphere of the image? | It suggests a moment of contemplation or introspection and adds to the romantic and sensual atmosphere. |

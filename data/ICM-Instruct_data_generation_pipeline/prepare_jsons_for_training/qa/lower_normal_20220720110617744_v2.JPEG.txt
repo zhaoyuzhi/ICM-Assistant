@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of khaki cargo shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man looking downwards in the image? | Yes. |
+| Yes/No | Does the image have a neutral atmosphere? | Yes. |
+| What | What color are the man's cargo shorts? | Khaki. |
+| What | What is the man's pose in the image? | He is standing with his hands casually tucked into his pockets. |
+| How | How many pockets does the man's cargo shorts have? | Two pockets on the front and one small pocket on the back. |
+| How | How is the man looking in the image? | He is looking downwards. |

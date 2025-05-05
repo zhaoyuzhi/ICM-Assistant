@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a blue skirt? | Yes. |
+| Yes/No | Are black shoes visible in the image? | Yes. |
+| Yes/No | Is the person in the image looking down at their cell phone? | Yes. |
+| Yes/No | Is the person in the image wearing a blue sock? | Yes. |
+| Yes/No | Does the image depict the person engaging in a private conversation? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What is the person looking at on their cell phone? | Their appearance or a private conversation. |
+| How | How is the person interacting with their cell phone? | They are looking down at it. |
+| How | How could the image be described in terms of the person's attire? | The person is wearing a revealing skirt and a white shirt, creating a sexy image. |

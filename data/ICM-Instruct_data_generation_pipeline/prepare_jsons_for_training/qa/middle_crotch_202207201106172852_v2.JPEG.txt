@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing underwear? | Yes. |
+| Yes/No | Is the person in the image standing in front of a white background? | Yes. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the person in the image wearing? | Underwear. |
+| What | What is the color of the background in the image? | White. |
+| How | How does the close-up nature of the image emphasize the subject's body? | It highlights the details of the person's form and underwear, making it more alluring. |
+| How | How does the white background contrast with the woman's form? | It provides a stark contrast, drawing attention to the woman's body and the details of her underwear. |

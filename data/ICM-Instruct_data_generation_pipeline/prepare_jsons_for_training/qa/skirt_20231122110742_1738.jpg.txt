@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Are the tights the woman is wearing black? | Yes. |
+| Yes/No | Are the high heels the woman is wearing black? | Yes. |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Is the woman in the image revealing her black tights and high heels? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| What | What color is the woman's dress? | Red. |
+| What | What is the woman's pose in the image? | Confident/alluring. |
+| How | How is the woman holding her dress? | Lifting it to reveal her tights and heels. |
+| How | How do the black tights and high heels contrast with the red dress? | They provide a stark contrast, making the woman's legs the focal point of the image. |

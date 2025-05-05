@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the image sexually suggestive or explicit? | No. |
+| Yes/No | Does the person's attire consist of a black skirt and a white shirt? | Yes. |
+| What | What is the color of the person's skirt? | Black. |
+| What | What is the color of the person's shirt? | White. |
+| How | How is the person's shirt tucked into their skirt? | Neatly and tidily. |
+| How | How does the image portray the person's attire? | Modestly and professionally. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the sleeves of the dress short? | Yes. |
+| Yes/No | Is the person's attire revealing or provocative? | No. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What is the person's attire in the image? | A modest black dress with a high neckline and short sleeves. |
+| What | What is the atmosphere of the image? | Calm and nonthreatening. |
+| How | How are the person's hands positioned in the image? | They are tucked into their pockets. |
+| How | How does the low exposure level of the image contribute to its overall nature? | It emphasizes the modesty and nonsexual nature of the image. |

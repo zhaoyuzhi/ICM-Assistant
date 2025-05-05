@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Are the woman's legs exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing black thigh-high socks? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| What | What color is the woman's blouse? | Green. |
+| What | What is the woman lifting in the image? | Her dress. |
+| How | How is the woman's attire considered? | Sensual and alluring. |
+| How | How does the woman's action of lifting her dress contribute to the image's atmosphere? | It creates a provocative and seductive atmosphere. |

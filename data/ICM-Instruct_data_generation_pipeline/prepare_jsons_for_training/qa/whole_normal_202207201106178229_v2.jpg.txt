@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl holding a pineapple-shaped toy? | Yes. |
+| Yes/No | Is the girl wearing a blue and white polo shirt? | Yes. |
+| Yes/No | Is the girl wearing sunglasses? | Yes. |
+| Yes/No | Is the girl standing in front of a brick wall? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image have a light-hearted and playful atmosphere? | Yes. |
+| What | What is the girl holding in her hand? | A pineappleshaped toy. |
+| What | What is the color of the girl's skirt? | Blue. |
+| How | How is the girl standing in front of the brick wall? | She is standing playfully with her legs slightly apart, leaning towards the wall. |
+| How | How would you describe the overall mood of the image? | The overall mood of the image is playful and joyful, with a touch of urban charm. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Does the woman have a pink tie? | Yes. |
+| Yes/No | Are the woman's shorts khaki? | Yes. |
+| Yes/No | Is the woman wearing black heels? | Yes. |
+| Yes/No | Is the background of the image plain and white? | Yes. |
+| What | What color is the woman's tie? | Pink. |
+| What | What is the woman's pose in the image? | She is striking a pose with her left hand on her hip and her right hand resting on her thigh. |
+| How | How many colors are in the woman's outfit? | 4 (white, pink, khaki, black). |
+| How | How does the woman's pose suggest confidence and allure? | Her pose, with her left hand on her hip and her right hand resting on her thigh, adds an element of allure and confidence to the image. |

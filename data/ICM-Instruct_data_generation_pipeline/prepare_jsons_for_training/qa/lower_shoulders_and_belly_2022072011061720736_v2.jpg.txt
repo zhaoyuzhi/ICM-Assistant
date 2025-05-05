@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow sports bra? | Yes. |
+| Yes/No | Is the floor in the image wooden? | Yes. |
+| Yes/No | Is the room in the image dimly lit? | Yes. |
+| Yes/No | Does the woman in the image have her belly exposed? | Yes. |
+| Yes/No | Is the woman in the image looking down at the floor? | Yes. |
+| Yes/No | Does the image create a moody atmosphere? | Yes. |
+| What | What color are the leggings the woman is wearing? | Gray. |
+| What | What is the woman in the image looking at? | The floor. |
+| How | How is the room lit? | Dimly. |
+| How | How does the woman's pose suggest a private, intimate moment? | The woman is looking down, inviting the viewer to wonder what she is thinking or feeling. |

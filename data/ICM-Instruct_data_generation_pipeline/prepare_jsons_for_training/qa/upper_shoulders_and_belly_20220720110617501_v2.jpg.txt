@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the woman holding a shopping bag? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image contain Chinese text? | Yes. |
+| Yes/No | Is the woman's attire sexy? | Yes. |
+| What | What is the woman holding in her hand? | A shopping bag. |
+| What | What is the color of the dress? | Black. |
+| How | How is the woman's attire described? | Classic, strapless, accentuates her cleavage, adds a sense of allure. |
+| How | How does the shopping bag contribute to the image's atmosphere? | Suggests a shopping spree, associated with indulgence and luxury, adds to the seductive atmosphere. |

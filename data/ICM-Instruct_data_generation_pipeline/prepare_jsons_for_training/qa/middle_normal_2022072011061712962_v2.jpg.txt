@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the shorts made of a soft fabric? | Yes. |
+| Yes/No | Does the man have his hands resting at his sides? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color are the shorts? | Navy blue. |
+| What | What is the man's pose in the image? | Neutral. |
+| How | How are the shorts fastened? | With a gold zipper. |
+| How | How would you describe the exposure level of the image? | Low. |
+| Yes/No | Is the man in the image wearing a pair of navy blue shorts? | Yes. |
+| Yes/No | Does the man have a gold zipper on his shorts? | Yes. |
+| Yes/No | Is the man wearing a white t-shirt? | Yes. |
+| Yes/No | Is the image low-key? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's pose and attire casual and everyday? | Yes. |
+| What | What color are the man's shorts? | Navy blue. |
+| What | What is the color of the man's t-shirt? | White. |
+| How | How is the man's pose in the image? | Casual, everyday. |
+| How | How would you describe the atmosphere of the image? | Simple, nonsexual. |

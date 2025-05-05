@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image female? | No. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Does the image include any objects or props other than the person's face? | No. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Are the person's eyes open? | No. |
+| Yes/No | Does the image have a bright and colorful background? | No. |
+| What | What is the person's facial expression in the image? | Serious. |
+| What | What is the overall atmosphere of the image? | Intense and intimate. |
+| How | How does the image capture the person's face? | Closeup. |
+| How | How does the image convey a sense of sensuality? | Through the person's open mouth and tongue sticking out, and the serious expression. |

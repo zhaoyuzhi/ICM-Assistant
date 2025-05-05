@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person's stomach visible in the image? | Yes. |
+| Yes/No | Is the person wearing a face mask? | Yes. |
+| Yes/No | Is the face mask blue? | Yes. |
+| Yes/No | Is the wall behind the person white? | Yes. |
+| Yes/No | Does the image have any other objects or people in it? | No. |
+| What | What is the person lifting up in the image? | Her black shirt. |
+| What | What is the color of the face mask? | Blue. |
+| How | How is the woman's stomach exposed in the image? | By lifting up her shirt. |
+| How | How does the face mask contribute to the image's overall mood? | It adds an element of mystery and intrigue, enhancing the sense of allure and seduction. |

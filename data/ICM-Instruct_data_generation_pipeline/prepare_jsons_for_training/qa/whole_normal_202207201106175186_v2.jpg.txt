@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image riding a scooter? | Yes. |
+| Yes/No | Is the woman in the image wearing a scarf? | Yes. |
+| Yes/No | Are there trees in the background of the image? | Yes. |
+| Yes/No | Is the woman in the image wearing a colorful coat? | Yes. |
+| Yes/No | Is the image revealing any explicit or suggestive content? | No. |
+| Yes/No | Is the woman in the image appearing to be in motion? | Yes. |
+| What | What is the woman in the image riding? | A red scooter. |
+| What | What is the woman in the image wearing on her face? | A scarf. |
+| How | How is the woman in the image riding the scooter? | She is sitting on the scooter and operating it. |
+| How | How does the low exposure level of the image affect the focus of the image? | It focuses on the woman's actions and attire, rather than her appearance. |

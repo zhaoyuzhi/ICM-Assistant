@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing red underwear? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence? | Yes. |
+| Yes/No | Does the image reveal a large area of the woman's upper body? | Yes. |
+| Yes/No | Does the red bikini top and underwear create a striking contrast against the woman's skin? | Yes. |
+| Yes/No | Does the woman's pose accentuate her curves? | Yes. |
+| What | What color is the woman's bikini top? | Red. |
+| What | What is the woman's pose in the image? | She is striking a pose with her left hand on her hip and her right hand resting on her thigh. |
+| How | How does the woman's attire contribute to the overall allure of the image? | The woman's attire, specifically the red bikini top and matching underwear, create a striking contrast against her skin and accentuate her curves, adding to the overall allure of the image. |
+| How | How does the woman's pose contribute to the overall allure of the image? | The woman's pose, with her left hand on her hip and her right hand resting on her thigh, accentuates her curves and adds to the overall allure of the image, creating a visually captivating and seductive scene. |

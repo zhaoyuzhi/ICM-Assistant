@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a neutral outfit? | Yes. |
+| Yes/No | Does the woman have a unique pocket on her pants? | Yes. |
+| Yes/No | Are the woman's black heels high? | No. |
+| Yes/No | Is the woman's pose in the image suggestive? | No. |
+| Yes/No | Does the image contain a sexual context? | No. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color are the woman's trousers? | Olive green. |
+| What | What is the woman's hair color? | Not specified (the description only mentions her outfit and pose). |
+| How | How many elements in the image suggest the woman's outfit is the focus? | 2 (the description mentions the woman's attire and pose). |
+| How | How does the plain background contribute to the image's overall atmosphere? | It emphasizes the focus on the woman's outfit and pose, creating a professional atmosphere. |

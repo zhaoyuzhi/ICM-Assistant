@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sweater? | Yes. |
+| Yes/No | Is the woman in the image lifting her skirt? | Yes. |
+| Yes/No | Does the image take place in a room with a lamp and a door? | Yes. |
+| What | What is the woman in the image wearing on her lower body? | A white skirt. |
+| What | What is the color of the sweater the woman in the image is wearing? | Pink. |
+| How | How is the woman in the image revealing her legs? | By lifting her skirt. |
+| What | What atmosphere does the image convey? | Intimate and seductive. |

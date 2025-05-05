@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing black boots? | Yes. |
+| Yes/No | Is the person in the image sitting on a white couch? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the person in the image in the process of doing? | Putting on stockings. |
+| What | What is the color of the couch in the image? | White. |
+| How | How do the black stockings and boots add to the image's atmosphere? | They add a sense of mystery and allure. |
+| How | How does the white couch contrast with the person's form in the image? | It provides a stark contrast that further accentuates the person's form. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the boots also black? | Yes. |
+| Yes/No | Is the couch white? | Yes. |
+| Yes/No | Is the person sitting on the couch? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image doing? | Putting on black stockings. |
+| What | What color is the couch in the image? | White. |
+| How | How does the image capture a moment of intimacy and vulnerability? | The image captures a private and personal moment of putting on stockings, which is usually done in private, and the person is in a vulnerable position, showing their legs and body. |
+| How | How do the black stockings and boots add a sense of mystery and allure? | They add a sense of mystery by covering the person's legs and feet completely in black, leaving little to the imagination, and the contrast between the black and white creates a striking visual that draws the viewer's attention to the person's form, adding allure. |

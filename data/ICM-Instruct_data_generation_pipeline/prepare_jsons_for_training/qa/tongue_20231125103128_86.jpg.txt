@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman's facial expression playful and seductive? | Yes. |
+| Yes/No | Are the woman's eyes looking upwards? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and alluring? | Yes. |
+| What | What color is the woman's hair? | Brown. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| How | How is the woman's pose in the image? | Confident and alluring. |
+| How | How does the woman's tongue sticking out contribute to the image's sensuality? | It accentuates her playful and seductive pose and expression. |

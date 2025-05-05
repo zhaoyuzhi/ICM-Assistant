@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing high heels? | Yes. |
+| Yes/No | Is the background of the image green? | Yes. |
+| Yes/No | Is the woman's dress white? | Yes. |
+| Yes/No | Are the heels pointed-toe? | Yes. |
+| Yes/No | Does the image contain any provocative or seductive elements? | No. |
+| Yes/No | Is the woman's posture modest? | Yes. |
+| What | What color are the woman's shoes? | White. |
+| What | What is the woman's attire? | A white dress and white high heels. |
+| How | How are the woman's legs positioned in the image? | Crossed. |
+| How | How does the image convey a sense of elegance and sophistication? | Through the woman's attire, posture, and the solid green background. |

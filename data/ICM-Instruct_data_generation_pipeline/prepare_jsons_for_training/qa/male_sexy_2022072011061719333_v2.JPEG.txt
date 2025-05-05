@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are the man's hands on his hips? | Yes. |
+| Yes/No | Is the background of the image plain? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man have a muscular physique? | Yes. |
+| Yes/No | Is the image set against a gray background? | Yes. |
+| What | What is the man wearing in the image? | Blue jeans and a black belt. |
+| What | What is the central focus of the image? | The man's physique. |
+| How | How is the man posing in the image? | With his hands on his hips. |
+| How | How does the gray background affect the image? | It emphasizes the man's physique and creates a seductive atmosphere. |

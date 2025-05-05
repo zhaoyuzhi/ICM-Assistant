@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a garter belt? | Yes. |
+| Yes/No | Are the stockings black in color? | Yes. |
+| Yes/No | Is the garter belt black in color? | Yes. |
+| Yes/No | Does the garter belt have a lace trim? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What type of garment is the person wearing on their legs? | Stockings. |
+| What | What type of garment is the person wearing around their waist? | Garter belt. |
+| How | How are the stockings held up? | They are held up by the garter belt. |
+| What | What material are the stockings made of? | Shiny material. |

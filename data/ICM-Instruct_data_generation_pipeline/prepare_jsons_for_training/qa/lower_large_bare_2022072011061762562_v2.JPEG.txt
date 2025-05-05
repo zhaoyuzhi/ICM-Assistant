@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the image feature any other people besides the person lying on the bed? | No. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| What | What color is the skirt the person is wearing? | Black. |
+| What | What is the color of the person's top? | White. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image's atmosphere contribute to its sexy appearance? | The atmosphere is intimate and sensual, enhanced by the person's pose, attire, and the exposure of their lower body. |

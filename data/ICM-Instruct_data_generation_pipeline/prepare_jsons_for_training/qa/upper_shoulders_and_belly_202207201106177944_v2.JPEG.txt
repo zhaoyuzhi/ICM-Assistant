@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman's stomach exposed in the image? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a confident atmosphere? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How is the woman's stomach exposed in the image? | Through a midriffbaring jeans. |
+| How | How does the woman's gaze contribute to the image's atmosphere? | It adds a sense of confidence and sensuality. |

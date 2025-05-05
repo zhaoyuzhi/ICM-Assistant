@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a hot dog? | Yes. |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Are the woman's eyes open? | No. |
+| Yes/No | Is the background of the image yellow? | Yes. |
+| Yes/No | Is the hot dog being licked by the woman? | No. |
+| Yes/No | Is the woman's body language suggestive of pleasure or indulgence? | Yes. |
+| What | What is the length of the hot dog? | Foot long. |
+| What | What is the color of the background? | Yellow. |
+| How | How is the woman holding the hot dog? | With both hands. |
+| How | How does the woman's facial expression suggest she is feeling? | Pleasure or indulgence. |

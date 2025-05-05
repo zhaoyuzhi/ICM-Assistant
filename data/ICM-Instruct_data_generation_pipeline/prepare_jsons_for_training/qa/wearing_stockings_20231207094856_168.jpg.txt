@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's shorts black? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the person's movements focused and precise? | Yes. |
+| Yes/No | Does the contrast between the white shirt and black shorts highlight the person's legs? | Yes. |
+| What | What is the person in the image wearing on their lower half? | Black shorts. |
+| What | What color are the stockings that the person is putting on? | Beige. |
+| How | How does the person's attire contribute to the sexy atmosphere of the image? | The combination of the white shirt and black shorts creates a contrast that highlights the person's legs and the stockings they are putting on, which can be perceived as sexy. |
+| How | How do the person's movements contribute to the sexy atmosphere of the image? | The person's focused and precise movements suggest a level of care and attention to detail, which can contribute to the sexy atmosphere of the image. Additionally, the act of putting on stockings is often associated with a sense of intimacy and vulnerability, which can also contribute to the sexy atmosphere. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Are they putting on beige stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the contrast between the white shirt and black shorts highlight the person's legs? | Yes. |
+| Yes/No | Does the act of putting on stockings suggest a sense of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image wearing on their lower half? | Black shorts. |
+| What | What is the person in the image wearing on their upper half? | A white shirt. |
+| How | How are the person's movements while putting on the stockings? | Focused and precise. |
+| How | How does the act of putting on stockings contribute to the sexy atmosphere of the image? | It suggests a sense of intimacy and vulnerability. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a white dress? | Yes. |
+| Yes/No | Does the woman have a black collar? | Yes. |
+| Yes/No | Is the woman holding a black purse? | Yes. |
+| Yes/No | Is the background of the image black and white striped? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image reveal any skin or intimate details? | No. |
+| What | What is the woman holding in her left hand? | A black purse. |
+| What | What is the color of the background? | Black and white striped. |
+| How | How is the woman dressed? | Modestly, in a white dress with a black collar. |
+| What | What atmosphere does the image convey? | Calm and composed, rather than sensual or provocative. |

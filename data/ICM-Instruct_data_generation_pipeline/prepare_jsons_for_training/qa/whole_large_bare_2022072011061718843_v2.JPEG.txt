@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white lace bra? | Yes. |
+| Yes/No | Is the woman in the image wearing black and white lace underwear? | Yes. |
+| Yes/No | Is the background of the image a plain white curtain? | Yes. |
+| Yes/No | Are the woman's hands on her hips in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the woman's attire in the image? | A black and white lace bra and matching black and white lace underwear. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the woman posing in the image? | With her hands on her hips. |
+| How | How does the black and white lace bra and underwear contrast against the white background? | It creates a striking contrast that draws the viewer's attention to the woman, making her the focal point of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray sports bra? | Yes. |
+| Yes/No | Is the woman in the image standing on a blue yoga mat? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the woman in the image have her left hand placed on her hip? | Yes. |
+| Yes/No | Does the woman in the image have a slight smile on her face? | Yes. |
+| Yes/No | Is the overall atmosphere of the image confident and alluring? | Yes. |
+| What | What is the color of the yoga mat in the image? | Blue. |
+| What | What is the woman in the image wearing on her lower body? | Gray leggings. |
+| How | How is the woman in the image standing? | She is standing with her feet shoulderwidth apart, with her left hand on her hip and her right hand resting on her thigh. |
+| How | How does the woman in the image look? | She looks confident and athletic, with a slight smile on her face. |

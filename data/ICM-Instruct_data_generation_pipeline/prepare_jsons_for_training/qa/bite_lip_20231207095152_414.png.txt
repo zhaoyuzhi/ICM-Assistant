@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing glasses? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What is the woman biting her lip with? | Her teeth. |
+| How | How is the woman looking at the camera? | Directly. |
+| How | How does the woman's biting her lip create a sense of intensity and allure? | It creates a sense of intimacy and captivation. |

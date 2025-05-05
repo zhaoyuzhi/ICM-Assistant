@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image standing in front of a television? | Yes. |
+| Yes/No | Is the person's left hand placed on their hip? | Yes. |
+| Yes/No | Is the person's right hand resting on a bookshelf? | Yes. |
+| Yes/No | Is the television turned on? | Yes. |
+| What | What color are the person's leggings? | Blue. |
+| What | What is the person's right hand resting on? | A bookshelf. |
+| How | How is the person's left leg bent? | It is bent at the knee. |
+| How | How is the person's right leg positioned? | It is straight. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink swimsuit? | Yes. |
+| Yes/No | Is the woman facing away from the camera? | Yes. |
+| Yes/No | Does the swimsuit have a unique design? | Yes. |
+| Yes/No | Is the rocky beach in the background? | Yes. |
+| Yes/No | Does the woman have her arms on her hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's swimsuit? | Pink. |
+| What | What is the woman's pose in the image? | Arms on hips. |
+| How | How does the rocky beach setting contrast with the woman's smooth, shiny swimsuit? | The rugged, natural elements of the beach contrast with the smooth, shiny fabric of the swimsuit, creating a visually appealing contrast. |
+| How | How does the woman's pose accentuate the allure and confidence of the scene? | The woman's confident pose, with her arms on her hips, accentuates her curves and draws attention to her back, creating a sense of allure and confidence. |

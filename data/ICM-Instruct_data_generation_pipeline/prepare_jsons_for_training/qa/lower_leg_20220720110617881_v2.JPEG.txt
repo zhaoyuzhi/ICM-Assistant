@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| What | What is the person wearing on their feet? | White sneakers. |
+| What | What is the color of the person's shorts? | White. |
+| How | How are the person's legs positioned in the image? | The person's legs are apart, with their feet slightly apart. |
+| What | What element does the image lack that would make it more revealing? | The image lacks coverage of the person's thighs and lower, making it more revealing. |

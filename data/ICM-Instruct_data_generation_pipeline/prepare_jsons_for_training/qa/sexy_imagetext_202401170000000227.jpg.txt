@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman's hair brown? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman doing with her hair? | Flipping it with her right hand. |
+| What | What is the approximate color of the woman's hair? | Brown. |
+| How | How is the woman's pose in the image? | Confident and alluring. |
+| How | How does the blurred background affect the image? | It focuses attention on the woman and enhances the sexy and alluring mood. |

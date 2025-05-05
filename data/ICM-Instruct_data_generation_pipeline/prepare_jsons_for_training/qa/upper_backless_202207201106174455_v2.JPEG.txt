@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black tank top? | Yes. |
+| Yes/No | Does the person have a silver necklace with a butterfly pendant? | Yes. |
+| Yes/No | Is the necklace attached to a chain? | Yes. |
+| Yes/No | Does the person have their hair in a braid? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and alluring? | Yes. |
+| How | Does the image showcase the person's body in a confident and alluring manner? | Yes. |
+| What | What is the shape of the pendant on the person's necklace? | Butterfly. |
+| What | What is the color of the tank top worn by the person in the image? | Black. |
+| How | How is the person's hair styled in the image? | Braided. |
+| How | How does the image make you feel? | Sensual and allured. |

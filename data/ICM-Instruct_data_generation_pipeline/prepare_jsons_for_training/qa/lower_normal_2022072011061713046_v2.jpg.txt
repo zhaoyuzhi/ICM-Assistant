@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the jeans loose-fitting? | Yes. |
+| Yes/No | Are the white sneakers casual in style? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the man's jeans? | Blue. |
+| What | What is the style of the man's sneakers? | Casual. |
+| How | How are the jeans fitting the man? | Loosefitting. |
+| How | How is the background of the image? | Blurred. |

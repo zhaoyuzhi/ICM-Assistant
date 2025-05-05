@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a top? | No. |
+| Yes/No | Are the studs on the person's belly piercings? | No. |
+| Yes/No | Is the person's belly button visible? | Yes. |
+| Yes/No | Are the black sweatpants loose-fitting? | No. |
+| Yes/No | Does the image have a sexual connotation? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| What | What color are the studs on the person's belly? | Silver. |
+| What | What type of clothing is the person wearing? | Black sweatpants. |
+| How | How are the studs arranged on the person's belly? | Evenly spaced. |
+| How | How does the image make the person's body look? | Smooth and clear. |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Are the person's piercings made of gold? | No. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Are the black sweatpants loose-fitting? | No. |
+| How | Does the image show the person's face? | No. |
+| Yes/No | Is the person in the image standing? | No. |
+| What | What is the main focus of the image? | The person's belly and piercings. |
+| What | What is the atmosphere of the image? | Intimate and revealing. |
+| How | How many piercings are visible on the person's belly? | Multiple. |
+| How | How does the image showcase the person's personal style? | Through their choice of black sweatpants and multiple piercings. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lifting a barbell? | Yes. |
+| Yes/No | Is the person wearing a tank top? | Yes. |
+| Yes/No | Are the person's shorts black? | Yes. |
+| Yes/No | Is the barbell red and white? | Yes. |
+| Yes/No | Is the background a blue wall? | Yes. |
+| Yes/No | Is there a white door in the background? | Yes. |
+| What | What is the person lifting the barbell with? | Both hands. |
+| What | What color are the person's shorts? | Black. |
+| How | How is the person lifting the barbell? | With both hands. |
+| What | What color is the barbell? | Red and white. |

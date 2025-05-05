@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the dress green in color? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Is she holding a white purse? | Yes. |
+| Yes/No | Is the background of the image a garden with a wooden fence and a house? | Yes. |
+| What | What is the color of the dress? | Green. |
+| What | What is the woman holding in her hand? | A white purse. |
+| How | How is the woman posing in the image? | With her hand on her hip. |
+| How | How does the background contrast with the woman's appearance? | The natural and serene setting of the garden and house contrasts with the woman's confident and alluring appearance, creating a sense of intrigue and allure. |

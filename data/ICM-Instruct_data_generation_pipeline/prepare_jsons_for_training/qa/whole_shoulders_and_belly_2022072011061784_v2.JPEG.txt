@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the logo on the t-shirt have a red color? | Yes. |
+| Yes/No | Is the t-shirt cropped, revealing the woman's midriff? | Yes. |
+| Yes/No | Is the woman wearing a silver necklace? | Yes. |
+| Yes/No | Is the woman wearing a silver bracelet? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color is the logo on the woman's t-shirt? | Red. |
+| What | What type of jewelry is the woman wearing on her wrist? | A silver bracelet. |
+| How | How is the woman's expression in the image? | Serious. |
+| How | How would you describe the overall atmosphere of the image? | Bold and confident. |

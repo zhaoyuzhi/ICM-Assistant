@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is the dress made of lace? | Yes. |
+| Yes/No | Does the woman have a bun hairstyle in the image? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| What | What is the woman's facial expression in the image? | Slight smile. |
+| What | What is the atmosphere of the image? | Seductive and captivating. |
+| How | How is the lighting in the image described? | Soft and diffused. |
+| How | How does the woman's pose in the image contribute to its overall sexiness? | It adds a sense of confidence and allure. |

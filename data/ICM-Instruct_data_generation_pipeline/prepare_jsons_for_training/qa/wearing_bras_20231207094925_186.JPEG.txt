@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman holding in her hands? | The bra cups. |
+| What | What is the color of the bra? | Beige. |
+| How | How is the woman adjusting the bra? | She is holding the bra cups in her hands and adjusting them to fit her chest. |
+| What | What can be perceived in the image? | The act of putting on a bra can be seen as an intimate moment, and the beige color of the bra can be perceived as a symbol of femininity and allure, creating a sexy atmosphere. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image feature the woman's body in an intimate way? | Yes. |
+| Yes/No | Is the act of putting on a bra associated with sensuality and intimacy? | Yes. |
+| What | What is the woman holding in her hands? | The bra cups. |
+| What | What color is the bra? | Beige. |
+| How | How is the woman adjusting the bra? | She is holding the cups in her hands and adjusting them to fit her chest. |
+| What | What atmosphere does the image create? | A sexy and intimate atmosphere. |

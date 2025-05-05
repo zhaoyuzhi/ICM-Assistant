@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a tiger graphic t-shirt? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| Yes/No | Are the curtains in the room open or closed? | Closed. |
+| Yes/No | Is the woman wearing a hat? | Yes. |
+| Yes/No | Does the woman's outfit have a lace trim? | Yes. |
+| Yes/No | Is the room's floor made of wooden material? | Yes. |
+| What | What color are the woman's shorts? | Blue. |
+| What | What is the design on the woman's t-shirt? | A tiger. |
+| How | How is the woman's pose in the image? | Confident and alluring. |
+| How | How would you describe the atmosphere of the image? | Warm, cozy, and sexy. |

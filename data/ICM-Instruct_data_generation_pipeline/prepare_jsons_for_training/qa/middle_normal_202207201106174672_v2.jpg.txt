@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of white pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the pants cropped at the ankle? | Yes. |
+| Yes/No | Is the shirt tucked into the pants? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| What | What is the person's pose in the image? | The person is standing with their hands on their hips. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is casual and relaxed. |
+| How | How are the pants cropped? | The pants are cropped at the ankle. |
+| How | How is the shirt tucked into the pants? | The shirt is tucked into the pants, creating a neat and tidy appearance. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the pants cropped at the ankle? | Yes. |
+| Yes/No | Is the shirt tucked into the pants? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| Yes/No | Does the image suggest a confident and assertive stance? | Yes. |
+| What | What is the person's attire in the image? | A white shirt and white pants. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How are the pants cropped in the image? | They are cropped at the ankle. |
+| How | How does the low angle of the shot affect the image? | It emphasizes the person's legs and creates a sense of power and confidence. |

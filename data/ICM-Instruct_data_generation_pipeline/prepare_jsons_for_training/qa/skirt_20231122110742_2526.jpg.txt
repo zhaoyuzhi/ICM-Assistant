@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a maid outfit? | Yes. |
+| Yes/No | Is the woman sitting on a white fur rug? | Yes. |
+| Yes/No | Is the woman holding her dress up with one hand? | Yes. |
+| Yes/No | Is the woman taking a selfie with her phone? | Yes. |
+| Yes/No | Does the image have a playful and seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's pose confident and self-assured? | Yes. |
+| What | What is the woman wearing in the image? | A black and white maid outfit, including a dress, apron, and a white hat. |
+| What | What is the woman doing in the image? | She is sitting on a white fur rug and holding her dress up with one hand while taking a selfie with her phone. |
+| How | How is the woman's dress being held up? | The woman is holding her dress up with one hand. |
+| How | How does the image create an atmosphere of allure and intrigue? | The image creates an atmosphere of allure and intrigue by combining the woman's playful and seductive pose, the luxurious white fur rug, and the woman's confident and selfassured expression. |

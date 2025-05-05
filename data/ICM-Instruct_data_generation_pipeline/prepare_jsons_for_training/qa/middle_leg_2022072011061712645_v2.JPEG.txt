@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts black? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the background plain white? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's t-shirt? | White. |
+| What | What is the color of the stripe on the woman's shorts? | White. |
+| How | How is the woman's pose in the image? | Confident and relaxed. |
+| How | How does the contrast between the white t-shirt and black shorts affect the image? | It highlights the woman's figure and creates a dynamic feel. |

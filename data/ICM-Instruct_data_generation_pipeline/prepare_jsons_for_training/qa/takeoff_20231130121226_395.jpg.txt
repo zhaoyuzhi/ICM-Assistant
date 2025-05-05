@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Is the person in the image standing on a beach? | Yes. |
+| Yes/No | Are the person's pajama pants plaid? | Yes. |
+| Yes/No | Is the person's torso exposed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest a relaxed and casual atmosphere? | Yes. |
+| What | What is the person holding above their head? | Their shirt. |
+| What | What is the person wearing on their lower body? | Plaid pajama pants. |
+| How | How is the person's attire? | Minimal. |
+| How | How does the person's action of taking off their clothes and exposing their torso suggest? | A sense of confidence and comfort in their own body. |

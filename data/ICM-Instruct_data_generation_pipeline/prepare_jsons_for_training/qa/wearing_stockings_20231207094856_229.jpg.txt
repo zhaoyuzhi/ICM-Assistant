@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the stockings black? | Yes. |
+| Yes/No | Is the person sitting on a wooden floor? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the image intimate and sensual? | Yes. |
+| Yes/No | Does the image depict the person putting on the stockings? | Yes. |
+| What | What is the person wearing on their upper body? | A white sweater. |
+| What | What is the color of the stockings? | Black. |
+| How | How is the person holding up the stockings? | With their hands. |
+| What | What kind of atmosphere does the image convey? | Intimate and sensual. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the stockings being put on by the person black? | Yes. |
+| Yes/No | Is the person sitting on a wooden floor? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| What | What is the person wearing on their upper body? | A white sweater. |
+| What | What color are the stockings being put on by the person? | Black. |
+| How | How are the stockings being held up by the person? | With their hands. |
+| What | What is the overall atmosphere of the image? | Intimate and sensual. |

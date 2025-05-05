@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Is the person moving towards the water in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the bikini cover the person's entire body? | No. |
+| Yes/No | Is the person's back facing the camera in the image? | Yes. |
+| What | What is the person wearing in the image? | A colorful bikini. |
+| What | What is the atmosphere created by the image? | Allure and sensuality. |
+| How | How is the person moving towards the water in the image? | The person is walking. |
+| How | How does the beach setting enhance the sexy vibe of the image? | The beach setting is often associated with leisure, relaxation, and enjoyment, which adds to the provocative nature of the image. |

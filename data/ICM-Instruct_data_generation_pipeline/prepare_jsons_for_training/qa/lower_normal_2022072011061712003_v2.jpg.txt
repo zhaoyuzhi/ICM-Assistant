@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Does the person have brown shoes? | Yes. |
+| Yes/No | Is the wall behind the person white? | Yes. |
+| Yes/No | Is there a window on the right side of the wall? | Yes. |
+| Yes/No | Does the person's posture and attire suggest a casual and relaxed atmosphere? | Yes. |
+| What | What is the person's attire? | White shirt, black pants, brown shoes. |
+| What | What is the color of the wall behind the person? | White. |
+| How | How is the person positioned in front of the wall? | Standing. |
+| How | How does the person's attire and posture contribute to the overall atmosphere of the image? | Neutral, calm, and unassuming. |

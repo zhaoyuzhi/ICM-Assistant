@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Are the woman's clothes soaked? | Yes. |
+| Yes/No | Is the woman standing in front of a boat? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman have her arm on a boat railing? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the woman wearing on her upper body? | A white tank top. |
+| What | What color are the woman's shorts? | Blue. |
+| How | How is the woman standing in relation to the boat? | She is standing in front of the boat. |
+| How | How does the white light in the background contribute to the atmosphere of the image? | It creates a contrast between the woman and her surroundings, making her appear more prominent and eyecatching. |

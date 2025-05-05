@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing clothes? | No. |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Is the person's lower body exposed? | Yes. |
+| Yes/No | Is the person wearing a gold bracelet? | Yes. |
+| Yes/No | Is the couch white? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| What | What is the person's foot resting on? | The arm of the couch. |
+| What | What color is the bracelet the person is wearing? | Gold. |
+| How | How is the person's lower body exposed? | The person's legs are crossed, and their foot is resting on the arm of the couch. |
+| How | How does the gold bracelet add to the overall atmosphere of the image? | It adds a touch of elegance and sophistication. |

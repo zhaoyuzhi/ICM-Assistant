@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a sweater? | Yes. |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Is the woman in the image looking at her phone? | Yes. |
+| Yes/No | Is the bedroom furnished with a white bed and a nightstand? | Yes. |
+| Yes/No | Does the woman's outfit and pose suggest a sense of casual elegance? | Yes. |
+| What | What color is the woman's skirt? | Brown. |
+| What | What is the woman doing with her phone? | Looking down at it. |
+| How | How is the woman's pose in the image? | She has her arms raised and is looking down at her phone. |
+| How | How would you describe the overall atmosphere of the image? | Intimate and alluring. |

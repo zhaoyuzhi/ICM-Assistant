@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of denim shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the person looking off to the side? | Yes. |
+| Yes/No | Are the person's sandals visible in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the person wearing on their feet? | Sandals. |
+| What | What is the dominant color of the person's attire? | White. |
+| How | How is the person standing in the image? | With their legs slightly apart. |
+| How | How would you describe the overall mood of the image? | Confident and alluring. |

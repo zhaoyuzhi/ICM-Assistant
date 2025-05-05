@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are both the man and woman in the image flexing their muscles? | Yes. |
+| Yes/No | Is the man in the image holding a dumbbell? | Yes. |
+| Yes/No | Is the woman in the image standing next to a weight rack? | Yes. |
+| How | Does the image showcase the man and woman's fitness and strength in a confident and attractive manner? | Yes. |
+| What | What is the man holding in the image? | A dumbbell. |
+| What | What is the woman standing next to in the image? | A weight rack. |
+| How | How are the man and woman posing in the image? | They are flexing their muscles. |
+| What | What is the atmosphere of the image? | Athletic and sexy. |

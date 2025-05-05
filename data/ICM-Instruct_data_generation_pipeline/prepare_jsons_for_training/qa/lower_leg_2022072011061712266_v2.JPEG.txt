@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a purse? | Yes. |
+| Yes/No | Are the shorts ripped at the knees? | Yes. |
+| Yes/No | Is the background of the image a plain white curtain? | Yes. |
+| Yes/No | Does the person's attire have a casual and relaxed style? | Yes. |
+| Yes/No | Does the pose of the person suggest confidence? | Yes. |
+| What | What color are the shorts? | Blue. |
+| What | What is the style of the purse? | Beige. |
+| How | How are the shorts ripped? | At the knees. |
+| How | How does the white curtain in the background complement the person's attire? | It creates a stark contrast that accentuates the person's figure. |

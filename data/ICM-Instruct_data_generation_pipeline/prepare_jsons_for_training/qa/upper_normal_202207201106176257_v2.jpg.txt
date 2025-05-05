@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a gray shirt? | Yes. |
+| Yes/No | Is the man holding a coffee cup in his hand? | Yes. |
+| Yes/No | Is the desk cluttered with objects? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Does the man's attire and the objects on the desk suggest a professional or academic setting? | Yes. |
+| What | What is the man's attire in the image? | Gray shirt. |
+| What | What kind of objects are on the desk? | Books, computer monitor. |
+| How | How is the man holding the coffee cup? | Not specified in the description. |
+| How | How is the image focused? | The image is focused on the man's conversation and the surrounding environment, rather than his physical appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a blue jacket? | Yes. |
+| Yes/No | Is the woman wearing a black and white dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Are the man and woman smiling? | Yes. |
+| What | What is the color of the man's jacket? | Blue. |
+| What | What is the woman's dress color? | Black and white. |
+| How | How is the woman's head tilted? | To the side. |
+| How | How are the man and woman looking at each other? | The man is looking down at the woman, and the woman is looking up at the man. |

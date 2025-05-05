@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a yellow skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a black sports bra? | Yes. |
+| Yes/No | Is the woman in the image holding a microphone? | Yes. |
+| Yes/No | Is the woman in the image standing on a stage? | Yes. |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| What | What is the color of the woman's shirt? | White. |
+| What | What is the color of the woman's skirt? | Yellow. |
+| How | How is the woman's midriff exposed? | Through her strapless outfit. |
+| How | How is the woman's presence on the stage emphasized? | Through the spotlight on her. |

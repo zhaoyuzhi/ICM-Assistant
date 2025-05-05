@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the person's midriff exposed in the image? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest the person is engaged in an athletic activity? | Yes. |
+| Yes/No | Is the person's attire in the image appropriate for an athletic activity? | Yes. |
+| What | What is the person wearing in the image? | A sports bra. |
+| What | What is the focus of the image? | The person's midriff. |
+| How | How does the image capture the person's physique? | The image provides a closeup view of the person's midriff, allowing for a detailed view of their physique. |
+| How | How does the image emphasize the athletic theme? | The person is wearing a sports bra, which is a common choice of clothing for athletic activities, and the image does not contain any other objects or people, making the focus solely on the person's physique and the overall atmosphere of the picture. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Does the image suggest that the woman is engaged in some form of physical activity or exercise? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What type of clothing is the woman wearing in the image? | A sports bra. |
+| What | What does the woman's posture and the fact that she is wearing a sports bra suggest about her? | That she is confident and comfortable with her body, and might be engaged in some form of physical activity or exercise. |
+| How | How does the image convey a sense of strength, confidence, and self-assuredness? | Through the woman's posture, the fact that she is wearing a sports bra, and the focus on her athletic physique. |
+| How | How might the image be perceived by some viewers? | As sexy and attractive, highlighting the woman's fitness and athleticism. |

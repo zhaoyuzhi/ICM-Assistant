@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Does the bra have a lace trim? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the image described as sexy? | Yes. |
+| Yes/No | Does the woman's pose contribute to the overall allure of the image? | Yes. |
+| What | What is the color of the woman's bra? | Blue. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How is the woman's bra trimmed? | With lace. |
+| How | How does the woman's pose in the image contribute to its overall allure? | The woman's pose, with her arms raised above her head, adds to the overall allure of the image by accentuating her figure and the lace trim of her bra. |

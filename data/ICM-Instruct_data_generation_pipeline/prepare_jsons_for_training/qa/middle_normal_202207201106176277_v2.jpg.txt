@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige sweater? | Yes. |
+| Yes/No | Are they wearing white pants? | Yes. |
+| Yes/No | Is the person holding a card in their hand? | Yes. |
+| Yes/No | Does the person have a brown belt with a gold buckle? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Are the person's movements minimal? | Yes. |
+| What | What color is the person's sweater? | Beige. |
+| What | What is the person holding in their hand? | A card. |
+| How | How is the person's attire? | Modest. |
+| How | How would you describe the overall atmosphere of the image? | Neutral, not sexy or provocative. |
+| Yes/No | Is the person in the image wearing a beige sweater? | Yes. |
+| Yes/No | Are they holding a card in their hand? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire casual? | Yes. |
+| Yes/No | Is the focus of the image on the person's physical appearance or body language? | No. |
+| What | What is the person holding in their hand? | A card. |
+| What | What is the color of the person's sweater? | Beige. |
+| How | How is the person dressed? | Casually. |
+| How | How would you describe the overall atmosphere of the image? | Calm and neutral. |

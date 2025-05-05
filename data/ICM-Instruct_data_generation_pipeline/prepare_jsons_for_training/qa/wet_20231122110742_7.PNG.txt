@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the t-shirt wet? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a moody and mysterious atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy? | Yes. |
+| What | What is the person's gender in the image? | The person's gender cannot be determined from the description. |
+| What | What is the person's expression in the image? | The person's expression cannot be determined from the description. |
+| How | How does the t-shirt cling to the person's body? | The tshirt clings to the person's body, accentuating their form and creating a sense of intimacy. |
+| How | How does the image create a sense of allure? | The image creates a sense of allure by evoking a sense of intimacy and intrigue, and by leaving the viewer to imagine the person's expression and emotions. |

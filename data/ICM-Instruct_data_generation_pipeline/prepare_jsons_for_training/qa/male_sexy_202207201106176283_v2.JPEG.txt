@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing pants? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| Yes/No | Does the image have a sexual atmosphere? | Yes. |
+| Yes/No | Is the underwear the man is wearing blue and white lace? | Yes. |
+| What | What is the man in the image wearing? | Blue and white lace underwear. |
+| What | What is the atmosphere of the image? | Sensuality and allure. |
+| How | How is the man's physique described? | Muscular. |
+| How | How would you describe the revealing nature of the man's underwear? | Revealing. |

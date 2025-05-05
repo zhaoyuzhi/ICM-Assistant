@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress black? | No. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the sleeves of the dress short? | No. |
+| Yes/No | Is the woman posing in a suggestive manner? | No. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| What | What is the color of the dress? | Olive green. |
+| What | What is the woman's pose in the image? | Neutral. |
+| How | How does the woman's dress compare to typical sexy clothing? | It is not sexy because it has a high neckline and long sleeves, which are not typically associated with provocative or revealing clothing. |
+| How | How does the white background contribute to the atmosphere of the image? | It adds to the simplicity and modesty of the image, contributing to a calm and serene atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman in the image wearing a skirt made of a sheer material? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the woman in the image standing on a street? | Yes. |
+| Yes/No | Is the woman in the image looking off to the side? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the woman in the image wearing? | A midriffbaring top and a sheer skirt. |
+| What | What is the woman in the image holding? | A purse. |
+| How | How is the woman in the image standing? | She is standing confidently. |
+| How | How is the woman in the image looking? | She is looking off to the side and smiling. |

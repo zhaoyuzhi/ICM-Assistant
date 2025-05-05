@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the man in the image wearing a suit and tie? | Yes. |
+| Yes/No | Are the woman's hands holding the straps of the new bra? | Yes. |
+| Yes/No | Are the man's hands placed on the woman's shoulders? | Yes. |
+| Yes/No | Is the image portraying a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on another black bra. |
+| What | What is the man doing in the image? | He is providing support to the woman as she adjusts the bra. |
+| How | How is the woman adjusting the bra? | She is holding the straps and adjusting it to fit properly. |
+| How | How does the image portray intimacy and vulnerability? | Through the woman's private and personal act of putting on her bra, and the man's hands on her shoulders suggesting a close relationship between the two individuals. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the man in the image wearing a suit and tie? | Yes. |
+| Yes/No | Are the woman's hands holding the straps of the new bra? | Yes. |
+| Yes/No | Is the man's hands placed on the woman's shoulders? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy and vulnerability? | Yes. |
+| Yes/No | Does the image suggest a close relationship between the two individuals? | Yes. |
+| What | What is the woman in the image doing? | She is putting on another black bra. |
+| What | What is the man in the image doing? | He is providing support as the woman adjusts the bra. |
+| How | How are the woman's hands holding the straps of the new bra? | They are holding the straps and adjusting them to fit properly. |
+| How | How are the man's hands placed on the woman's shoulders? | They are placed gently on her shoulders, providing support. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image feature any explicit content? | No. |
+| Yes/No | Is the man in the image smiling? | No. |
+| Yes/No | Are the man's arms crossed or relaxed? | Relaxed. |
+| What | What is the man's facial expression in the image? | Direct gaze. |
+| What | What is the focus of the image? | The man's exposed chest and physique. |
+| How | How does the man's posture contribute to the overall atmosphere of the image? | The man's relaxed posture creates a sense of intimacy and allure. |
+| How | How does the close-up view of the man's torso contribute to the overall atmosphere of the image? | The closeup view of the man's torso creates a sense of intimacy and emphasizes the man's physique, contributing to the overall sensual atmosphere of the image. |

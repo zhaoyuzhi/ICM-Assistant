@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a green tank top? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the person holding their arm up to their shoulder? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and confidence? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the tank top the person is wearing? | Green. |
+| What | What is the color of the bra strap? | White. |
+| How | How is the person holding their arm? | In a relaxed or casual manner. |
+| What | What does the large area of exposed skin on the person's back suggest about their personality? | Confidence and selfassuredness. |

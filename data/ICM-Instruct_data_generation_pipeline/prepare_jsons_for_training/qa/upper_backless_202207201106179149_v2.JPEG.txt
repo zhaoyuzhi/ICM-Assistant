@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lifting weights? | Yes. |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Does the person in the image have a large area of their back exposed? | Yes. |
+| Yes/No | Is the person in the image using a weight machine? | Yes. |
+| Yes/No | Is the overall atmosphere of the image focused on fitness and strength? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image lifting weights with? | A weight machine. |
+| What | What is the person in the image wearing? | Black shorts. |
+| How | How is the person in the image displaying their muscles? | By lifting weights and having a large area of their back exposed. |
+| How | How does the gym setting contribute to the sexy atmosphere of the image? | It emphasizes the focus on fitness and health, which can be seen as sexy to some people. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Is the person in the image wearing a black belt? | Yes. |
+| Yes/No | Is the metal buckle on the belt the focal point of the image? | Yes. |
+| Yes/No | Are the person's movements in the image minimal? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and serene? | Yes. |
+| Yes/No | Does the image feature any suggestive or provocative clothing? | No. |
+| What | What is the color of the dress the person is wearing? | White. |
+| What | What is the color of the belt the person is wearing? | Black. |
+| How | How is the metal buckle on the belt adorned? | It is not specified in the description. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |
+| Yes/No | Is the mannequin wearing a white dress? | Yes. |
+| Yes/No | Is the dress made of a light-colored fabric? | Yes. |
+| Yes/No | Is the mannequin wearing a black belt? | Yes. |
+| Yes/No | Does the image feature any explicit sexual content? | No. |
+| Yes/No | Is the mannequin's stance suggestive or provocative? | No. |
+| Yes/No | Does the image evoke any sexual connotations? | No. |
+| What | What is the material of the dress? | Cotton or linen. |
+| What | What is the color of the belt? | Black. |
+| How | How is the mannequin positioned in the image? | Standing, although the exact pose or posture is not determinable. |
+| How | How would you describe the overall atmosphere of the image? | Simple and neutral. |

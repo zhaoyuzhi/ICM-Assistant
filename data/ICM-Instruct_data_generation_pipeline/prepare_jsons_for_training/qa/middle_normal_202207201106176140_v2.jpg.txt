@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's hands in his pockets? | Yes. |
+| Yes/No | Is the man's attire casual? | Yes. |
+| Yes/No | Does the image depict a relaxed setting? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the man's attire reveal any skin or body parts? | No. |
+| What | What is the color of the man's shorts? | Gray. |
+| What | What is the overall atmosphere of the image? | Calm and nonthreatening. |
+| How | How is the man's posture in the image? | Relaxed. |
+| How | How does the low exposure level of the image affect the potential for sexual connotations? | It reduces the potential for sexual connotations. |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a shirt? | Yes. |
+| Yes/No | Does the image suggest a casual atmosphere? | Yes. |
+| Yes/No | Does the image suggest a sexual atmosphere? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| How | Does the image show the man's entire body? | No. |
+| What | What color are the man's shorts? | Gray. |
+| What | What color is the man's shirt? | White. |
+| How | How is the man standing in the image? | With his hands in his pockets. |
+| What | What is the overall atmosphere of the image? | Casual and nonsexual. |

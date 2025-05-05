@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| Yes/No | Does the image convey a sense of sexiness or provocativeness? | Yes. |
+| Yes/No | Are the man's hands on his hips? | Yes. |
+| What | What is the color of the man's underwear? | White. |
+| What | What is the man's facial expression? | Not specified in the description. |
+| How | How is the man standing in the image? | With his hands on his hips. |
+| How | How does the plain white background contribute to the overall atmosphere of the image? | It emphasizes the man's physique and allure of the image. |

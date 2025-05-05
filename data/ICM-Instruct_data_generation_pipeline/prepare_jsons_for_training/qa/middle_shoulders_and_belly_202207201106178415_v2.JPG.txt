@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image holding a phone? | Yes. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Does the image have a sexual connotation? | Yes. |
+| Yes/No | Is the woman in the image standing in a natural environment? | No. |
+| What | What color is the woman's sports bra? | Pink. |
+| What | What is the woman holding in her hand? | A phone. |
+| How | How does the woman's body language come across in the image? | Confident and assertive. |
+| How | How does the image convey a sense of modernity? | Through the woman's clothing and the presence of a phone. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image holding a cell phone? | Yes. |
+| Yes/No | Does the image feature the woman's belly? | Yes. |
+| Yes/No | Are the woman's pants black? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's pose confident? | Yes. |
+| What | What color is the woman's sports bra? | Pink. |
+| What | What is the woman holding in her hand? | A cell phone. |
+| How | How does the woman's clothing contribute to the image's sexiness? | The woman's clothing, particularly her pink sports bra and black pants, contribute to the image's sexiness by showcasing her confidence and sense of style. The revealing nature of her attire also adds to the image's sexiness. |
+| How | How does the image's modernity and connectivity contribute to its sexiness? | The image's modernity and connectivity, as suggested by the woman's cell phone, contribute to its sexiness by adding an element of contemporary style and selfassuredness. The fact that the woman is holding a cell phone also implies that she is connected and in control, which can be seen as sexy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white polka dot shirt? | Yes. |
+| Yes/No | Is the woman's hair long and dark? | Yes. |
+| Yes/No | Is the woman standing in front of a white wall? | Yes. |
+| Yes/No | Is the woman's gaze directed to the left? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman's pose in the image? | Neutral. |
+| What | What is the woman's expression in the image? | Neutral. |
+| How | How does the low exposure level contribute to the lack of allure in the image? | It makes the image appear less enticing and more focused on the woman's attire and surroundings rather than her appearance. |
+| How | How does the woman's pose and expression contribute to the lack of allure in the image? | They are neutral, not explicit or suggestive, and do not draw attention to her body or sexuality. |

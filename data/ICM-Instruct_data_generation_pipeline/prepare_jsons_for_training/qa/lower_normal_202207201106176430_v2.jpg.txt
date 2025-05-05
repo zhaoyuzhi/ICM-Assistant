@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of gray sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a white Nike shirt? | Yes. |
+| Yes/No | Are the sweatpants loose-fitting? | Yes. |
+| Yes/No | Is the shirt tucked in? | Yes. |
+| Yes/No | Are the person's feet positioned shoulder-width apart? | Yes. |
+| Yes/No | Is the person looking downwards? | Yes. |
+| What | What color are the sweatpants? | Gray. |
+| What | What brand is the shirt? | Nike. |
+| How | How are the sweatpants fitting? | Loosefitting. |
+| How | How is the shirt positioned? | Tucked in. |

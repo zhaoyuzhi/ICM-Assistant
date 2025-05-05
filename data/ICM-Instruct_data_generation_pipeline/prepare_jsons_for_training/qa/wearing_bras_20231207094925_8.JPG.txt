@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Is the woman putting on the bra? | Yes. |
+| Yes/No | Is the woman's expression focused? | Yes. |
+| Yes/No | Are the straps of the bra being adjusted? | Yes. |
+| Yes/No | Is the background of the image plain? | Yes. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| What | What color is the bra? | Beige. |
+| How | How is the woman adjusting the straps of the bra? | She is holding the straps with both hands and adjusting them. |
+| How | How does the woman's expression suggest she is feeling? | Her focused expression suggests she is putting effort into her appearance and may be feeling confident or sexy. |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the bra a standard, everyday style? | Yes. |
+| What | What is the woman doing in the image? | She is putting on her bra. |
+| What | What is the color of the bra the woman is wearing? | Beige. |
+| How | How is the woman adjusting the straps of the bra? | She is holding the straps with both hands and adjusting them. |
+| What | What does the woman's focused expression and the way she is adjusting the straps of the bra suggest? | They suggest that she is putting effort into her appearance, which can be seen as attractive and alluring. |

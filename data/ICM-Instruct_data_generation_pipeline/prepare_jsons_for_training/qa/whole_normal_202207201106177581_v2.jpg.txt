@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow jacket? | Yes. |
+| Yes/No | Are the woman's arms outstretched to the sides? | Yes. |
+| Yes/No | Is the woman balancing on one foot? | Yes. |
+| Yes/No | Are the woman's gray sweatpants visible in the image? | Yes. |
+| Yes/No | Does the image feature any suggestive or provocative elements? | No. |
+| Yes/No | Is the overall atmosphere of the image peaceful and natural? | Yes. |
+| What | What color are the woman's shoes? | Black. |
+| What | What is the woman's pose in the image? | Standing on one foot with outstretched arms. |
+| How | How is the woman standing in the field of flowers? | She is standing on one foot and balancing. |
+| How | How does the low exposure level of the image affect the image's overall atmosphere? | It reduces the chances of the image being perceived as sexy and emphasizes the peaceful and natural setting. |

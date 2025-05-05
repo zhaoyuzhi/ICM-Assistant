@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a sweater? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| Yes/No | Is the woman standing in a suggestive or provocative pose? | No. |
+| Yes/No | Does the image contain any inappropriate or offensive elements? | No. |
+| What | What is the woman's attire in the image? | A long skirt and a green sweater. |
+| What | What is the woman's pose in the image? | She is standing with her hands clasped in front of her. |
+| How | How is the woman's body visible in the image? | Her body is not visible in the image due to the low exposure level. |
+| How | How would you describe the overall atmosphere of the image? | Modest and appropriate for a public setting. |

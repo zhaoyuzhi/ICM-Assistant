@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the man standing on a boat in the ocean? | Yes. |
+| Yes/No | Is the man holding out his hand to help someone or something? | Yes. |
+| Yes/No | Are the waves surrounding the boat suggesting a stormy sea? | Yes. |
+| Yes/No | Does the man have a ponytail? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man's clothing style? | Dark. |
+| What | What is the man's hairstyle? | Ponytail. |
+| How | How is the man helping someone or something? | By holding out his hand. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, focused on the man's actions and the surrounding environment. |

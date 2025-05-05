@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white cardigan? | Yes. |
+| Yes/No | Are black pants being worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman sitting on a white couch in the image? | Yes. |
+| Yes/No | Is a blue pillow placed behind the woman in the image? | Yes. |
+| Yes/No | Is the woman holding her white cardigan open in the image? | Yes. |
+| Yes/No | Does the image feature the woman's cleavage? | Yes. |
+| What | What color is the cardigan being worn by the woman? | White. |
+| What | What color are the pants being worn by the woman? | Black. |
+| How | How is the woman's cardigan being held in the image? | Open. |
+| How | How would you describe the atmosphere of the image? | Seductive. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lifting her shirt? | Yes. |
+| Yes/No | Is the woman wearing a gray t-shirt? | Yes. |
+| Yes/No | Are the woman's pants white? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| Yes/No | Does the image convey a sense of sensuality? | Yes. |
+| What | What color is the woman's shirt? | Gray. |
+| What | What color are the woman's pants? | White. |
+| How | How is the woman posing in the image? | She is lifting her shirt and exposing her stomach. |
+| What | What does the woman's pose and the way she is looking at the camera suggest about her attitude towards her body and sexuality? | Her pose and expression suggest that she is comfortable with her body and comfortable with being sexy. |

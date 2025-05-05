@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a beige skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a black belt? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| Yes/No | Is the image's simplicity and lack of detail contributing to its non-sexy appearance? | Yes. |
+| What | What is the color of the person's t-shirt? | White. |
+| What | What is the color of the person's skirt? | Beige. |
+| How | How is the person positioned in the image? | They are positioned with their left hand on their hip and their right hand resting on their thigh. |
+| How | How does the low exposure level of the image affect its overall appearance? | The low exposure level reduces the visual impact of the image, making it less engaging and less likely to evoke a sexual response. |
+| Yes/No | Is the person in the image dressed in a white t-shirt? | Yes. |
+| Yes/No | Is the person wearing a beige skirt? | Yes. |
+| Yes/No | Does the person have their left hand on their hip? | Yes. |
+| Yes/No | Is the person's right hand resting on their thigh? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the color of the person's belt? | Black. |
+| What | What is the overall atmosphere of the image? | Nonsexy. |
+| How | How is the person positioned in the image? | With their left hand on their hip and their right hand resting on their thigh. |
+| How | How does the low exposure level contribute to the image's atmosphere? | It reduces the potential for the image to be perceived as sexy. |

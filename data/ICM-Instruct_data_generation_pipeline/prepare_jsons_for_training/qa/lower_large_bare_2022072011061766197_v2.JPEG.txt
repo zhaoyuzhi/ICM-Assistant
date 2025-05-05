@@ -1,0 +1,8 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige underwear? | Yes. |
+| Yes/No | Are the person's legs apart in the image? | Yes. |
+| Yes/No | Is the person wearing high heels in the image? | Yes. |
+| What | What is the person's attire in the image? | Beige underwear and high heels. |
+| What | What is the person's pose in the image? | Standing with legs apart. |
+| What | What does the person's pose with their legs apart expose? | Their lower body. |

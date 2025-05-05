@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing stockings? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the woman have her legs slightly apart? | Yes. |
+| Yes/No | Does the stocking have a lace pattern? | Yes. |
+| Yes/No | Is the woman wearing a garter belt? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and alluring? | Yes. |
+| What | What is the woman wearing apart from stockings? | A garter belt. |
+| What | What is the color of the curtain in the background? | White. |
+| How | How are the stockings and garter belt contributing to the image's allure? | They suggest intimacy and allure. |
+| How | How does the woman's pose contribute to the overall sensual atmosphere of the image? | Her legs are slightly apart and looking down. |

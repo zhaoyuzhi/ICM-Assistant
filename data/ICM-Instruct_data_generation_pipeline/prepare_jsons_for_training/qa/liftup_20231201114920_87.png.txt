@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the person lifting their shirt? | Yes. |
+| Yes/No | Are they exposing their stomach? | Yes. |
+| Yes/No | Is the person wearing a black mask? | Yes. |
+| Yes/No | Does the image have a sensual and intimate atmosphere? | Yes. |
+| What | What color is the person's shirt? | Black. |
+| What | What is the person lifting their shirt revealing? | Their stomach. |
+| How | How is the person lifting their shirt? | By holding it up with one hand. |
+| How | How does the image make the viewer feel? | Desire and attraction. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the character in the image female? | Yes. |
+| Yes/No | Does the character have long hair? | Yes. |
+| Yes/No | Is the character wearing a strapless outfit? | Yes. |
+| Yes/No | Does the outfit have a low neckline? | Yes. |
+| Yes/No | Is the character wearing jewelry? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the color of the character's outfit? | White. |
+| What | What is the character's facial expression? | Smiling. |
+| How | How does the character's outfit contribute to the sexy atmosphere of the image? | The strapless outfit and low neckline reveal her cleavage, which is often associated with a sexy or seductive appearance. |
+| How | How does the blurred background contribute to the atmosphere of the image? | It creates a sense of intimacy and draws focus to the character, enhancing the sexy atmosphere. |

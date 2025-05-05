@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige tank top? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Is the person's foot resting on the carpet? | Yes. |
+| Yes/No | Is the person putting on black stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the white carpet provide a stark contrast to the black stockings? | Yes. |
+| What | What is the person wearing on their upper body? | A beige tank top. |
+| What | What is the person's leg position? | Bent, with their foot resting on the carpet. |
+| How | How is the person's foot positioned in the image? | In the air, with the stocking being pulled up. |
+| How | How does the image atmosphere feel? | Intimate and sensual. |
+| Yes/No | Is the person in the image wearing a tank top? | Yes. |
+| Yes/No | Are the stockings being worn by the person black? | Yes. |
+| Yes/No | Is the carpet white? | Yes. |
+| Yes/No | Is the person's leg bent in the image? | Yes. |
+| Yes/No | Is the person's foot resting on the carpet? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the carpet in the image? | White. |
+| How | How is the person's leg positioned in the image? | Bent. |
+| How | How are the black stockings being worn by the person? | Being pulled up. |

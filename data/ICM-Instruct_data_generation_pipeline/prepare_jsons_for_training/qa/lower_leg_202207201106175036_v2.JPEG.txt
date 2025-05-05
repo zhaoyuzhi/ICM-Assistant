@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman standing on the stairs? | Yes. |
+| Yes/No | Is the woman wearing a pair of denim shorts? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Does the woman have a purse? | Yes. |
+| Yes/No | Is the woman's pose confident and relaxed? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the woman carrying in her hand? | A small purse. |
+| What | What is the color of the woman's top? | Black. |
+| How | How is the woman standing on the stairs? | She is standing with her left hand resting on her hip and her right hand hanging loosely at her side. |
+| What | What is the woman's posture suggesting? | Her confident stance and relaxed posture suggest a sense of selfassuredness and poise. |

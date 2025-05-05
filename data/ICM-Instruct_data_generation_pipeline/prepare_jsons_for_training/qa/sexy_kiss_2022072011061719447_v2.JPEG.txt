@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Is the woman dressed in a gray shirt? | Yes. |
+| Yes/No | Are the man and woman kissing passionately? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | A black jacket. |
+| What | What is the woman wearing? | A gray shirt. |
+| How | How are the man and woman positioned on the bed? | The woman is positioned on top of the man. |
+| How | How are the man and woman holding each other? | The man's arms are wrapped around the woman, pulling her close to him, while the woman's arms are wrapped around the man's neck, pulling him closer to her. |

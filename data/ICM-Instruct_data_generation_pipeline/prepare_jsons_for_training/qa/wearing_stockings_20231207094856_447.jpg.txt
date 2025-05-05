@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the stockings the woman is putting on black? | Yes. |
+| Yes/No | Is the woman's hair visible in the image? | No. |
+| Yes/No | Is the woman's face visible in the image? | Yes. |
+| Yes/No | Is the room in the image dimly lit? | No. |
+| What | What is the woman in the image putting on? | Stockings. |
+| What | What is the color of the woman's skirt? | Black. |
+| How | How is the woman standing in the image? | With her hands on her knees. |
+| How | How does the image capture the woman's actions? | It captures a moment of intimacy and vulnerability. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the stockings the woman is putting on black? | Yes. |
+| Yes/No | Is the shelf in the background white? | Yes. |
+| Yes/No | Is there a painting in the background? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy and alluring? | Yes. |
+| What | What is the woman in the image putting on? | Stockings. |
+| What | What is the color of the woman's skirt? | Black. |
+| How | How is the woman's attitude in the image? | Sensual and vulnerable. |
+| How | How does the painting in the background contribute to the atmosphere of the image? | It adds an artistic touch and creates a visually appealing and seductive atmosphere. |

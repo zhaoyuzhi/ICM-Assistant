@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman holding a bottle of water? | Yes. |
+| Yes/No | Is the woman wearing a black and white top? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman holding in her hand? | A bottle of water. |
+| What | What color is the woman's hair? | Blonde. |
+| How | How is the woman holding the bottle of water? | She is holding it in her hand with her thumb and index finger. |
+| How | How would you describe the woman's expression? | She has a playful and seductive smile. |

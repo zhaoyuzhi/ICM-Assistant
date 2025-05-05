@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a bra? | Yes. |
+| Yes/No | Are they wearing pants? | Yes. |
+| Yes/No | Does the person have a ponytail? | Yes. |
+| Yes/No | Are their hands on their hips? | Yes. |
+| Yes/No | Is the atmosphere of the image confident? | Yes. |
+| What | What color is the bra? | Beige. |
+| What | What is the person's hair style? | Ponytail. |
+| How | How are the person's hands positioned? | On their hips. |
+| How | How would you describe the atmosphere of the image? | Confident and assertive. |

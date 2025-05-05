@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue skirt? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the image considered intimate or suggestive? | Yes. |
+| Yes/No | Does the image feature any bright or bold colors? | No. |
+| Yes/No | Is the person's attire in the image casual or formal? | Formal. |
+| Yes/No | Does the image depict the person engaging in any activity? | No. |
+| What | What is the primary color of the person's skirt in the image? | Blue. |
+| What | What is the color of the person's stockings in the image? | White. |
+| How | How are the person's legs positioned in the image? | Crossed, with their feet resting on the couch. |
+| How | How would you describe the overall atmosphere of the image? | Intimate, suggestive, and alluring. |

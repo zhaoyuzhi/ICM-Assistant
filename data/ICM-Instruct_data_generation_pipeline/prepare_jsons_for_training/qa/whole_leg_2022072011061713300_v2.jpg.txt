@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a hat? | Yes. |
+| Yes/No | Is the woman in the image holding a water bottle? | Yes. |
+| Yes/No | Is the church in the background a modern building? | No. |
+| Yes/No | Are the woman's clothes tight and revealing? | No. |
+| Yes/No | Is the sky in the image cloudy? | No. |
+| Yes/No | Does the image suggest that the woman is feeling confident and self-assured? | Yes. |
+| What | What is the woman in the image wearing on her feet? | Blue jean shorts. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How is the woman standing in the image? | She is standing with her feet shoulderwidth apart, with one foot slightly in front of the other. |
+| How | How does the woman's pose suggest a sense of confidence and self-assuredness? | Her pose is relaxed and natural, with her weight shifted onto one leg and her other hand resting on her hip. Her head is tilted slightly back, giving the impression that she is looking directly at the camera with a sense of selfassurance. |

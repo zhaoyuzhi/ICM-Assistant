@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image posing in a suggestive way? | Yes. |
+| Yes/No | Does the image contain any clothing or objects? | No. |
+| Yes/No | Is the tree in the background a significant element of the image? | Yes. |
+| Yes/No | Does the image convey a sense of strength and confidence? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| What | What is the man in the image flexing? | His arms. |
+| What | What is the background of the image? | A tree. |
+| How | How is the man in the image standing? | He is standing in front of a tree with his arms flexed. |
+| How | How does the image convey a sense of strength and confidence? | The man's pose and the absence of clothing suggest a sense of strength and confidence. |

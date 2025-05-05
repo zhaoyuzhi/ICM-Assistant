@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pink shorts? | Yes. |
+| Yes/No | Does the person have a pink sweatshirt on? | Yes. |
+| Yes/No | Are the shorts designed with a drawstring waist? | Yes. |
+| Yes/No | Is the person's pose confident and relaxed? | Yes. |
+| Yes/No | Can you determine the person's age or gender from the image? | No. |
+| Yes/No | Is the overall atmosphere of the image inviting and alluring? | Yes. |
+| What | What color are the shorts? | Pink. |
+| What | What is the person's pose in the image? | Hands on hips. |
+| How | How does the drawstring waist of the shorts contribute to the overall look of the outfit? | It adds a touch of casualness to the outfit. |
+| How | How does the person's confident pose and the pink shorts and sweatshirt create a sexy feel? | The combination of the person's attire and pose creates a soft, feminine look that is both comfortable and stylish, which contributes to the sexy feel. |

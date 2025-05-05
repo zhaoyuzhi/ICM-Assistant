@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are they wearing blue jean shorts? | Yes. |
+| Yes/No | Does the person have their legs crossed? | Yes. |
+| Yes/No | Are their arms resting on their knees? | Yes. |
+| Yes/No | Is the person wearing furry boots? | Yes. |
+| Yes/No | Are the furry boots brown in color? | Yes. |
+| What | What color is the person's shirt? | Pink. |
+| What | What type of boots is the person wearing? | Furry boots. |
+| How | How is the person's body positioned in the doorway? | The person's body is facing the camera, but their head is turned to the side. |
+| How | How do the furry boots add to the overall atmosphere of the image? | The furry boots add a touch of warmth and coziness to the overall look, contributing to an atmosphere that is both sexy and inviting. |

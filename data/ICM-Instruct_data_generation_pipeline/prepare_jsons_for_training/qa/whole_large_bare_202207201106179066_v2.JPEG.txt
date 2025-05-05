@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the image taken on a beach? | Yes. |
+| Yes/No | Is the woman in the image lying down? | Yes. |
+| How | Does the image show the woman's body exposed? | No. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What color is the woman's bikini top? | Black and white striped. |
+| What | What is the woman's facial expression in the image? | Smiling. |
+| How | How is the woman posed in the image? | Confidently. |
+| How | How does the image evoke feelings? | Happy and pleasure. |

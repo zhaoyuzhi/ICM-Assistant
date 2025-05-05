@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the background of the image filled with trees and foliage? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and romantic? | Yes. |
+| Yes/No | Does the image depict a passionate kiss? | Yes. |
+| What | What is the color of the man's shirt? | Blue. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other, with the woman's head tilted to the side as they share a passionate kiss. |
+| How | How does the background of the image contribute to the overall atmosphere of the image? | The background of the image filled with trees and foliage creates a serene and intimate atmosphere, adding to the visual appeal of the image and emphasizing the intimacy and romance of the moment. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman standing on a staircase? | Yes. |
+| Yes/No | Is the woman carrying a black purse? | Yes. |
+| Yes/No | Does the woman have a scalloped hem on her shorts? | Yes. |
+| Yes/No | Is the woman's blouse red? | Yes. |
+| Yes/No | Is the background of the image a pink wall? | Yes. |
+| Yes/No | Does the woman have a confident and self-assured expression? | Yes. |
+| What | What color is the woman's blouse? | Red. |
+| What | What is the woman carrying in her hand? | A black purse. |
+| How | How does the woman's pose on the staircase add an element of intrigue? | The woman's pose on the staircase creates a sense of mystery about whether she is ascending or descending, adding an element of intrigue to the image. |
+| How | How does the pink wall in the background complement the woman's outfit? | The pink wall in the background provides a soft, warm backdrop that complements the woman's red blouse and white shorts, creating a visually appealing contrast. |

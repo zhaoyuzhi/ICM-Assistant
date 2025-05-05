@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a person's mouth? | Yes. |
+| How | Does the image show the person's entire face? | No. |
+| Yes/No | Is the person's tongue sticking out in the image? | Yes. |
+| Yes/No | Are the person's lips parted in the image? | Yes. |
+| Yes/No | Is the person's finger visible in the image? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the facial expression of the person in the image? | The person's facial expression is not clearly visible in the image. |
+| What | What is the gender of the person in the image? | The gender of the person in the image cannot be determined with certainty. |
+| How | How is the person's tongue positioned in the image? | The person's tongue is sticking out of their mouth. |
+| How | How does the close-up nature of the image enhance the overall atmosphere of the picture? | The closeup nature of the image emphasizes the person's facial features and the details of their mouth, enhancing the overall atmosphere of sensuality and intimacy. |

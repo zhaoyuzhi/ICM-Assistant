@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing black sweatpants? | Yes. |
+| Yes/No | Is the man in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Are the man's arms relaxed at his sides? | Yes. |
+| Yes/No | Are the man's legs slightly apart? | Yes. |
+| Yes/No | Is the man's exposure level low? | Yes. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| What | What is the man's attire in the image? | Black sweatpants and a black tshirt. |
+| What | What is the color of the background in the image? | Gray. |
+| How | How are the man's arms positioned in the image? | Relaxed at his sides. |
+| How | How are the man's legs positioned in the image? | Slightly apart. |

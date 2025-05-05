@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a denim skirt? | Yes. |
+| Yes/No | Does the skirt have a frayed hem? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Does the person have two pockets on the back of the skirt? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Is the person's pose confident and relaxed? | Yes. |
+| What | What is the person's left hand resting on? | Their hip. |
+| What | What is the person's right hand doing? | Hanging loosely at their side. |
+| How | How does the high-waisted skirt and frayed hem contribute to the overall atmosphere of the image? | They add a sense of casual style. |
+| How | How does the person's pose contribute to the overall atmosphere of the image? | It exudes confidence and allure. |

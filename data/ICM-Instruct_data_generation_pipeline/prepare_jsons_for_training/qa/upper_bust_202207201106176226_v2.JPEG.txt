@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman's hand on her hip? | Yes. |
+| Yes/No | Is the woman's breast visible in the image? | Yes. |
+| Yes/No | Is the image seductive and alluring? | Yes. |
+| Yes/No | Does the woman's pose suggest intimacy and allure? | Yes. |
+| Yes/No | Is the image provocative? | Yes. |
+| What | What is the woman wearing in the image? | A white dress. |
+| What | What is the woman's breast doing in the image? | It is visible and deliberately shown. |
+| How | How does the woman's pose contribute to the image's atmosphere? | It suggests intimacy and allure. |
+| How | How does the white dress contribute to the image's atmosphere? | It adds elegance and sophistication. |

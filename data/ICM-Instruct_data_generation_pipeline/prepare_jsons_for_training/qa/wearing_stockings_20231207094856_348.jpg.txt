@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the person sitting on a white carpeted floor? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the person's shorts blue? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing on their legs? | Beige stockings. |
+| What | What is the color of the person's shorts? | Blue. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image create a sense of intimacy and allure? | The person's crossed legs and the white shirt and blue shorts add to the overall atmosphere, creating a sense of intimacy and allure. The white carpeted floor provides a clean and simple backdrop that allows the viewer to focus on the person and their attire. |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the person sitting on a white carpeted floor? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the person's shorts blue? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the person's shorts? | Blue. |
+| What | What is the main focus of the image? | The person's legs. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the image create a sense of intimacy and allure? | Through the use of stockings, crossed legs, and a simple white backdrop. |

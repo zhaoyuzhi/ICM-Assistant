@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image holding her shorts up? | Yes. |
+| Yes/No | Is the room in the image dimly lit? | Yes. |
+| Yes/No | Are the curtains in the image white? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the woman in the image holding onto? | Her shorts. |
+| What | What is the color of the woman's bra in the image? | White. |
+| How | How is the room in the image lit? | Dimly. |
+| How | How would you describe the overall atmosphere of the image? | Seductive and alluring. |

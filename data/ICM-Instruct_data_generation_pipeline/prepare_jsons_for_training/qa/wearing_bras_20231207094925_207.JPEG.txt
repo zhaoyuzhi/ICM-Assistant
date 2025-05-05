@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image standing with her back to the camera? | Yes. |
+| Yes/No | Are the woman's hands on her back, holding the bra in place? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture a private moment of the woman adjusting her clothing? | Yes. |
+| Yes/No | Is the woman's posture in the image intimate? | Yes. |
+| What | What is the color of the bra the woman is wearing? | Brown. |
+| What | What is the background color of the image? | White. |
+| How | How is the woman's posture in the image? | She is standing with her back to the camera, and her hands are on her back, holding the bra in place. |
+| How | How does the image capture the moment of the woman adjusting her bra? | The image is taken from a closeup view, focusing on the woman's back and hands as she adjusts her bra, creating an intimate and private atmosphere. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image standing with her back to the camera? | Yes. |
+| Yes/No | Are the woman's hands on her back, holding the bra in place? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a brown bra. |
+| What | What is the color of the bra the woman is wearing? | Brown. |
+| How | How is the woman's posture in the image? | She is standing with her back to the camera, and her hands are on her back, holding the bra in place. |
+| How | How does the image capture the moment of intimacy and vulnerability? | The image captures a private moment of a woman adjusting her clothing, with a closeup view of her back and hands, emphasizing the intimate atmosphere. |

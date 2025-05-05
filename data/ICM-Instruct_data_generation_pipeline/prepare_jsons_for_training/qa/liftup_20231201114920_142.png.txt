@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lifting their clothes? | Yes. |
+| Yes/No | Are the person's actions in the image suggestive or provocative? | Yes. |
+| Yes/No | Is the person wearing a black bra and black pants? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the image evoke a strong sense of allure and seduction? | Yes. |
+| What | What color are the person's bra and pants? | Black. |
+| What | What color are the lights in the background? | Blue. |
+| How | How is the person's attitude in the image? | Confident and alluring. |
+| How | How would you describe the overall mood of the image? | Seductive and captivating. |

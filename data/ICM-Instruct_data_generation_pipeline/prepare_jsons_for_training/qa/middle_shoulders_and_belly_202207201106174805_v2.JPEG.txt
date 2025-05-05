@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue jean jacket? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the medical device have a small screen on it? | Yes. |
+| Yes/No | Is the medical device attached to the person's skin? | Yes. |
+| Yes/No | Does the image create an intimate atmosphere? | Yes. |
+| Yes/No | Does the image create a sense of curiosity? | Yes. |
+| What | What is the color of the medical device? | White. |
+| What | What is the material of the person's jacket? | Blue jean. |
+| How | How is the medical device attached to the person's skin? | The device is attached to the person's skin with a small adhesive patch. |
+| How | How does the image make you feel? | The image creates a sense of intimacy and intrigue, making me feel curious and interested. |
+| Yes/No | Is the person in the image wearing a blue jean jacket? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the medical device have a small screen and buttons? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image show a close-up of the person's torso and stomach area? | Yes. |
+| Yes/No | Is the medical device attached to the person's side? | Yes. |
+| What | What is the color of the medical device? | White. |
+| What | What is the atmosphere of the image? | Intimate and personal. |
+| How | How does the blue jean jacket contribute to the image's appeal? | It adds a casual and relaxed vibe. |
+| How | How does the medical device add to the image's intrigue? | It is not a typical accessory, and its presence creates curiosity about the person's story. |

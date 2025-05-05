@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white suit? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the woman's hands visible in the image? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive or explicit? | No. |
+| Yes/No | Does the image feature any additional objects or text? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What is the woman's attire in the image? | A white suit with a high collar and a peplum skirt. |
+| What | What is the overall atmosphere of the image? | Calm and professional. |
+| How | How is the woman's pose in the image? | Neutral, with her hands resting at her sides. |
+| How | How does the low exposure level of the image contribute to its non-sexual nature? | It does not show any skin or body parts that might be considered inappropriate or suggestive. |

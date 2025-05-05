@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black pantsuit? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Is the image taken for professional or formal purposes? | Yes. |
+| Yes/No | Does the woman's attire suggest a sensual or provocative context? | No. |
+| Yes/No | Is the staircase in the background a dominant feature of the image? | No. |
+| Yes/No | Does the white purse add a touch of elegance to the woman's outfit? | Yes. |
+| What | What is the woman carrying in her hand? | A white purse. |
+| What | What is the dominant color of the woman's outfit? | Black. |
+| How | How is the woman's attire consistent with the professional or formal setting? | The black pantsuit is a common choice for professional or formal settings. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level suggests that the image might have been taken for professional or formal purposes, rather than for a sensual or provocative context. It also emphasizes the woman's outfit and the staircase in the background, rather than her face. |
+| Yes/No | Is the woman in the image wearing a peach-colored top? | Yes. |
+| Yes/No | Are the woman's trousers black? | Yes. |
+| Yes/No | Is the woman holding a white purse? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| Yes/No | Is the overall atmosphere of the image professional? | Yes. |
+| What | What is the color of the woman's top? | Peach. |
+| What | What is the woman holding in her hand? | A white purse. |
+| How | How are the woman's trousers styled? | They are styled in a professional manner. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and professional. |

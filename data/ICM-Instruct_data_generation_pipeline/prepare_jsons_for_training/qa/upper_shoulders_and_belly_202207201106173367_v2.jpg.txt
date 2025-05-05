@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Is the woman wearing a midriff-baring skirt? | Yes. |
+| Yes/No | Is the woman holding a purse in her hand? | Yes. |
+| Yes/No | Is the background of the image blue and white striped? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She has her hand on her hip. |
+| What | What is the color of the woman's purse? | The purse is not described in the given description. |
+| How | How does the woman's outfit contribute to the sexy atmosphere of the image? | The woman's outfit, specifically the strapless top and midriffbaring skirt, reveals her midriff and creates a seductive atmosphere. |
+| How | How does the background of the image contrast with the woman's outfit? | The blue and white striped umbrella provides a contrasting background to the woman's outfit, making her stand out and drawing attention to her. |

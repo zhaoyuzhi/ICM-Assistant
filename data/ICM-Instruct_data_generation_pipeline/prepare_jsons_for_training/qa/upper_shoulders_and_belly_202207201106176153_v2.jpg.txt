@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman in the image wearing a midriff-baring garment? | Yes. |
+| Yes/No | Is the woman in the image wearing a gold necklace? | Yes. |
+| Yes/No | Is the woman in the image wearing a white skirt? | Yes. |
+| Yes/No | Is the woman in the image in a dance pose? | Yes. |
+| Yes/No | Is the background of the image a desert landscape? | Yes. |
+| What | What is the woman in the image wearing around her neck? | A gold necklace. |
+| What | What is the woman in the image wearing on her lower half? | A white skirt. |
+| How | How is the woman in the image standing? | In a dance pose with her arms outstretched and her head tilted back. |
+| How | How does the background of the image contrast with the woman's attire? | The desert landscape provides a stark contrast to the woman's attire, making her the focal point of the image. |

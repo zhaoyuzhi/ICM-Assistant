@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's pants black? | Yes. |
+| Yes/No | Does the woman have a phone in her hand? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the woman have a slit on the side of her pants? | Yes. |
+| Yes/No | Is the woman standing in front of a couch? | Yes. |
+| What | What is the woman wearing on her feet? | The woman is not wearing any shoes. |
+| What | What is the color of the woman's top? | The woman's top is white. |
+| How | How is the woman holding the phone? | The woman is holding the phone in her hand. |
+| How | How is the woman standing in relation to the couch? | The woman is standing in front of the couch. |

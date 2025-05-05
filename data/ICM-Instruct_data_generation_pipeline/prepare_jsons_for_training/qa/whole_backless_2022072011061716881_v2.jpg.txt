@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the figurine in the image female? | Yes. |
+| Yes/No | Is the figurine wearing a bikini? | Yes. |
+| Yes/No | Is the spear in the figurine's right hand? | Yes. |
+| Yes/No | Is the figurine standing on a brown base? | Yes. |
+| Yes/No | Does the image have a sensual and alluring atmosphere? | Yes. |
+| Yes/No | Is the overall image sexy? | Yes. |
+| What | What is the color of the figurine's mane? | Orange. |
+| What | What is the color of the bikini? | Blue. |
+| How | How is the figurine holding the spear? | She is holding it in her right hand. |
+| How | How is the figurine standing on the base? | She is standing with her left hand placed on her hip. |

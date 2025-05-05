@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image posing with his hands on his hips? | Yes. |
+| Yes/No | Does the image have a white background? | Yes. |
+| Yes/No | Are the man's swim trunks black? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the close-up view of the man's physique highlight his strength and confidence? | Yes. |
+| What | What is the man in the image wearing? | Black swim trunks. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man posing in the image? | With his hands on his hips. |
+| How | How does the white background contrast with the man's dark swim trunks? | It provides a stark contrast, making the man the focal point of the image. |

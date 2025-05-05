@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding two pairs of shoes? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the shoes the woman is holding from the brand "GUCCI"? | Yes. |
+| Yes/No | Is the woman standing in front of a green wall? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What color are the shoes the woman is holding? | Black and beige. |
+| What | What is the woman doing in the image? | Holding two pairs of shoes. |
+| What | What is the exposure level of the image? | Low. |

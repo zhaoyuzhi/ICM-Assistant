@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the central figure in the image? | Yes. |
+| Yes/No | Is the woman wearing a white jacket? | Yes. |
+| Yes/No | Is the woman wearing a pink skirt? | Yes. |
+| Yes/No | Is the woman wearing white sneakers? | Yes. |
+| Yes/No | Is the background a plain white wall? | Yes. |
+| Yes/No | Does the woman's pose create an alluring atmosphere? | Yes. |
+| What | What color is the woman's jacket? | White. |
+| What | What color is the woman's skirt? | Pink. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gold belly chain? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the gemstones on the belly chain colorful? | Yes. |
+| Yes/No | Is the person wearing blue jeans in the image? | Yes. |
+| Yes/No | Does the image have a sensual and alluring atmosphere? | Yes. |
+| Yes/No | Is the gold belly chain a symbol of wealth and status? | Yes. |
+| What | What is the color of the person's jeans in the image? | Blue. |
+| What | What is the material of the belly chain in the image? | Gold. |
+| How | How does the person's exposed belly add to the image's atmosphere? | It adds a sense of vulnerability and confidence, making the image more intriguing and alluring. |
+| How | How does the blue jeans contrast with the gold chain in the image? | The blue jeans provide a casual and relaxed contrast to the gold chain, creating a balance between the two elements. |
+| Yes/No | Is the person in the image wearing a gold belly chain? | Yes. |
+| Yes/No | Is the person in the image wearing a denim jacket? | Yes. |
+| Yes/No | Is the person in the image holding their hand on their hip? | Yes. |
+| Yes/No | Is the atmosphere of the image casual? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the gold belly chain add a touch of glamour to the image? | Yes. |
+| What | What is the person in the image wearing on their waist? | A gold belly chain. |
+| What | What is the person in the image wearing on their upper body? | A denim jacket. |
+| How | How is the person in the image standing? | With their hand on their hip, adding a confident pose. |
+| How | How does the gold belly chain contribute to the overall atmosphere of the image? | It adds a touch of glamour and luxury to the image. |

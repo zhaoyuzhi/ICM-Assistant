@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black tights? | Yes. |
+| Yes/No | Is the person's hands wrapped in a beige fabric? | Yes. |
+| Yes/No | Is the person sitting on a couch? | Yes. |
+| Yes/No | Is there a wooden chair visible in the background? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the act of putting on stockings often associated with sensuality and allure? | Yes. |
+| What | What color are the stockings being put on? | Beige. |
+| What | What is the person using to hold the stockings in place? | A beige fabric, possibly a towel or cloth. |
+| How | How are the stockings being put on? | The person is pulling them up their legs. |
+| What | What is the atmosphere of the image? | Intimate and alluring. |
+| Yes/No | Is the person in the image putting on beige stockings? | Yes. |
+| Yes/No | Is the person wearing black tights underneath the stockings? | Yes. |
+| Yes/No | Is the person's hand wrapped in a beige fabric? | Yes. |
+| Yes/No | Is the person sitting on a couch in the image? | Yes. |
+| Yes/No | Is there a wooden chair visible in the background of the image? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the person using to hold the stockings in place? | A beige fabric, possibly a towel or a cloth. |
+| What | What is the color of the stockings and the fabric in the person's hands? | Beige. |
+| How | How are the stockings being put on? | The person is pulling them up their legs. |
+| What | What atmosphere does the image convey? | Intimate and alluring. |

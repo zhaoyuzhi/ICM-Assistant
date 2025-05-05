@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Are they wearing gray pants? | Yes. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| How | Does the image show any explicit or suggestive body parts or actions? | No. |
+| Yes/No | Is the person's attire revealing or provocative? | No. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| What | What is the person's posture in the image? | Relaxed, with their hands in their pockets. |
+| What | What is the color of the person's sweater and pants? | Gray. |
+| How | How much of the person's body is visible in the image? | Only a small portion, focusing on their torso and arms. |
+| How | How would you describe the exposure level of the image? | Very low. |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Are they wearing gray pants? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the person's attire consist of bright or flashy colors? | No. |
+| Yes/No | Is the exposure level of the image high, revealing most of the person's body? | No. |
+| What | What is the color of the person's sweater? | Gray. |
+| What | What is the color of their pants? | Gray. |
+| How | How is the person standing in the image? | They are standing with a casual and relaxed posture, with their hand in their pocket. |
+| How | How would you describe the overall atmosphere of the image? | Calm and unassuming, with no provocative or sensual elements present. |

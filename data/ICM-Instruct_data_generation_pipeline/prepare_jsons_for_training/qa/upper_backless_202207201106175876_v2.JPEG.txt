@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green dress? | Yes. |
+| Yes/No | Is the dress adorned with gold and white embroidery? | Yes. |
+| Yes/No | Does the dress have a red and white flower on the back? | Yes. |
+| Yes/No | Is the woman standing in front of a stone wall? | Yes. |
+| Yes/No | Are there potted plants in the background? | Yes. |
+| Yes/No | Is the woman looking down at something? | Yes. |
+| What | What color is the dress? | Green. |
+| What | What is the woman's hairstyle? | Updo. |
+| How | How is the atmosphere of the image described? | Alluring and intriguing. |
+| How | How does the setting contrast with the woman's appearance? | The rustic and natural setting contrasts with the woman's refined appearance. |

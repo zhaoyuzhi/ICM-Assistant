@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the swimsuit a two-piece? | Yes. |
+| Yes/No | Is the woman sitting on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Is the woman licking her lips? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing? | A white bikini. |
+| What | What is the woman doing with her lips? | Licking them. |
+| How | How is the woman posed? | Sitting on the sandy beach. |
+| How | How does the image make you feel? | It creates a sense of relaxation and enjoyment. |

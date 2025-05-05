@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman smiling? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the man and woman enjoying a meal together? | Yes. |
+| What | What is the color of the man's shirt? | Blue. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How are the man and woman positioned in the image? | They are sitting at a table. |
+| What | What is the lighting condition in the image? | Low exposure level. |

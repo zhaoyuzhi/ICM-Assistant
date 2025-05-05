@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image pulling her hair back? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Is the act of putting on a bra often associated with intimacy and sensuality? | Yes. |
+| Yes/No | Is the color of the bra light blue? | Yes. |
+| Yes/No | Does the woman's posture enhance the sense of intimacy and vulnerability in the image? | Yes. |
+| What | What is the woman in the image doing? | She is putting on her bra. |
+| What | What is the color of the bra? | Light blue. |
+| How | How is the woman's posture in the image? | She is standing with her back turned towards the camera. |
+| How | How does the color of the bra contribute to the overall atmosphere of the image? | The light blue color adds to the sensuality of the image, as it is a color often associated with calmness and tranquility. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image standing with her back turned towards the camera? | Yes. |
+| Yes/No | Is the woman in the image fastening her bra? | Yes. |
+| Yes/No | Is the bra light blue in color? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Is the woman's hair pulled back? | Yes. |
+| What | What is the woman in the image doing? | She is putting on her bra. |
+| What | What color is the bra the woman is wearing? | Light blue. |
+| How | How is the woman fastening her bra? | She is fastening it with her hands. |
+| How | How does the overall atmosphere of the image feel? | Intimate and sensual. |

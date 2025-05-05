@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt black? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the top pink? | Yes. |
+| Yes/No | Does the image contain explicit content? | No. |
+| Yes/No | Is the atmosphere of the image casual and confident? | Yes. |
+| What | What is the length of the skirt? | Above the knees. |
+| What | What is the color of the top? | Pink. |
+| How | How does the person's pose suggest a sense of self-assuredness? | The person has their hands on their hips, which conveys confidence and assertiveness. |
+| How | How does the combination of the black skirt and pink top enhance the image's visual appeal? | The contrast between the black skirt and pink top creates a pop of color, adding visual interest and making the image more appealing. |

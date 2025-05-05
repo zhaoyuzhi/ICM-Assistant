@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the jeans tight and accentuating the person's curves? | Yes. |
+| Yes/No | Is the person's pose confident and relaxed? | Yes. |
+| Yes/No | Are the person's arms outstretched to the sides? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What color are the jeans? | Blue. |
+| What | What is the person's pose in the image? | Confident and relaxed, with arms outstretched to the sides. |
+| How | How does the white sweater contrast with the blue jeans? | The white sweater adds a contrast to the blue jeans, creating a visually appealing combination. |
+| How | How does the close-up view of the jeans and sweater contribute to the overall allure of the image? | The closeup view of the jeans and sweater draws attention to the person's attractive features, creating an atmosphere of allure and sensuality. |

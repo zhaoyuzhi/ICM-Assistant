@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and comfortable? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the person's pose in the image? | The person is standing with their hands placed on their hips and their legs slightly apart. |
+| What | What is the overall focus of the image? | The overall focus of the image is on the person's casual outfit and pose, rather than on their physical appearance or body language. |
+| How | How are the pants worn in the image? | The pants are slightly wrinkled, adding a casual and relaxed vibe to the image. |
+| How | How is the shirt worn in the image? | The shirt is tucked in, giving a neat and tidy appearance. |
+| Yes/No | Is the person in the image wearing white pants and a white shirt? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Does the image depict a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the person's pose and attire evoke any sexual connotations? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy or provocative? | No. |
+| What | What is the person wearing in the image? | White pants and a white shirt. |
+| What | What is the person's pose in the image? | Standing with hands placed on hips. |
+| How | How does the exposure level of the image contribute to the overall atmosphere? | The low exposure level emphasizes the casual and relaxed nature of the scene, reducing the potential for any sexual implications. |
+| How | How does the person's pose and attire contribute to the overall atmosphere of the image? | The simple pose and attire contribute to the casual and relaxed atmosphere, which is not typically associated with sexy or provocative imagery. |

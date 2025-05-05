@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of a flowing fabric? | Yes. |
+| Yes/No | Is the woman holding the dress with her left hand? | Yes. |
+| Yes/No | Are her legs visible in the image? | Yes. |
+| Yes/No | Are high heels visible in the image? | Yes. |
+| Yes/No | Does the image have a white background? | Yes. |
+| What | What color is the dress? | Light blue. |
+| What | What is the woman doing with her left hand? | Lifting the dress up to reveal her legs. |
+| How | How does the woman's outfit add to the overall allure of the image? | The flowing dress and high heels create a sense of elegance and seduction. |
+| How | How does the image create a sense of allure and seduction? | The woman's actions and attire, combined with the white background, create a sexy and alluring atmosphere. |

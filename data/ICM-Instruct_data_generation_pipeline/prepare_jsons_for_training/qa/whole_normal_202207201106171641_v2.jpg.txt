@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black outfit? | Yes. |
+| Yes/No | Is the woman's posture confident and relaxed? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the woman have a purse in her hand? | Yes. |
+| Yes/No | Are the woman's surroundings clearly visible in the image? | No. |
+| Yes/No | Does the woman's outfit give off a sense of formality and sophistication? | Yes. |
+| What | What is the woman's left hand resting on? | Her hip. |
+| What | What is the woman carrying in her right hand? | A black purse. |
+| How | How is the woman's posture? | Confident and relaxed. |
+| How | How does the low-exposure nature of the image contribute to its atmosphere? | It allows the viewer to focus on the woman and her attire, creating a professional and elegant atmosphere. |

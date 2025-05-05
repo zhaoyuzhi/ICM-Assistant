@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the person's legs apart in the image? | Yes. |
+| Yes/No | Is the person's head turned to the side in the image? | Yes. |
+| Yes/No | Are the person's black socks and shoes a contrasting element in the image? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's skirt? | Blue. |
+| What | What is the person's pose in the image? | Standing with legs apart. |
+| How | How does the person's black socks and shoes contribute to the image's overall atmosphere? | They add a visually appealing contrast. |
+| How | How does the person's pose contribute to the image's overall atmosphere? | It adds a sense of confidence and allure. |

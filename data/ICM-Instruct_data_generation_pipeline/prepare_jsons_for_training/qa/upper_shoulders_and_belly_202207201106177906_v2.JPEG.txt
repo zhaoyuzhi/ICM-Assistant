@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple top? | Yes. |
+| Yes/No | Are the jeans she is wearing high-waisted? | Yes. |
+| Yes/No | Does the top have a deep V-neck? | Yes. |
+| Yes/No | Are the sleeves of the top long? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's top? | Purple. |
+| What | What is the style of the jeans? | Highwaisted. |
+| How | How is the woman posing in the image? | With her hand on her hip. |
+| How | How does the combination of the purple top and blue jeans create a contrast? | The contrast creates a visually appealing and striking image, making the woman the focal point. |

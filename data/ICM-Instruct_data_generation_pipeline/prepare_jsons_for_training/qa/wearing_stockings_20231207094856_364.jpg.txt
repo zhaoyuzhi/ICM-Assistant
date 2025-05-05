@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a pair of orange shorts? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Is the person in the image wearing black socks? | Yes. |
+| Yes/No | Is the person in the image wearing a pink sweater? | Yes. |
+| Yes/No | Does the image capture a private and intimate moment of the person putting on stockings? | Yes. |
+| What | What color are the stockings that the person is wearing? | Black. |
+| What | What color is the person's sweater? | Pink. |
+| How | How are the person's legs positioned in the image? | Bent. |
+| How | How does the image evoke a sense of sensuality and allure? | Through the combination of the person's attire, the act of putting on stockings, and the overall atmosphere of the image. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the stockings being put on in the image? | Yes. |
+| Yes/No | Is the person wearing a pink sweater? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy? | Yes. |
+| What | What color are the stockings being worn by the person in the image? | Black. |
+| What | What color are the shorts being worn by the person in the image? | Orange. |
+| How | How are the stockings being put on in the image? | The person is in the process of pulling them up. |
+| How | How does the image evoke a sense of sensuality and allure? | The image captures a private and intimate moment, and the contrast of the person's attire creates a visually appealing image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image holding the bra with both hands? | Yes. |
+| Yes/No | Is the woman in the image adjusting the bra? | Yes. |
+| Yes/No | Is the image captured in a private moment? | Yes. |
+| Yes/No | Is the woman in the image exposing her body? | Yes. |
+| Yes/No | Is the woman in the image revealing her form? | Yes. |
+| What | What is the woman in the image wearing? | A white blouse and a brown bra. |
+| What | What is the woman in the image doing? | Adjusting the bra. |
+| How | How is the woman in the image holding the bra? | With both hands. |
+| How | How does the woman in the image appear to be adjusting the bra? | She is holding it with both hands and appears to be adjusting it. |

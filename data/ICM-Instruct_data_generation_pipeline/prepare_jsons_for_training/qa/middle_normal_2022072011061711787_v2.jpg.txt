@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a watch? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the person's lower body? | Yes. |
+| Yes/No | Is the image set in a casual and relaxed environment? | Yes. |
+| Yes/No | Does the tropical print on the shorts create a laid-back atmosphere? | Yes. |
+| What | What is the color of the shorts? | Blue and white. |
+| What | What is the person in the image wearing on their wrist? | A watch. |
+| How | How are the palm trees and yellow slices arranged on the shorts? | They are arranged in a tropical print. |
+| How | How does the low exposure level of the image affect the overall feeling of the image? | It emphasizes the casual and nonsexual nature of the image. |
+| Yes/No | Is the person in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a watch? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person in the image standing on a beach? | Yes. |
+| Yes/No | Does the image feature a tropical print on the shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| What | What is the primary color of the shorts? | Blue. |
+| What | What is the pattern on the shorts? | Tropical print with palm trees and yellow slices. |
+| How | How is the exposure level of the image? | Low. |
+| What | What is the focus of the image? | The person's lower body and the beach setting. |

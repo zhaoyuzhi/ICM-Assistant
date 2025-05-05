@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of gray shorts and a gray t-shirt? | Yes. |
+| Yes/No | Is the man standing against a white background? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image neutral and non-sexual? | Yes. |
+| What | What is the man wearing in the image? | A pair of gray shorts and a gray tshirt. |
+| What | What is the color of the background in the image? | White. |
+| How | How are the man's hands positioned in the image? | They are casually tucked into his pockets. |
+| How | How does the man look in the image? | He is looking directly at the camera. |
+| Yes/No | Is the man in the image wearing gray clothing? | Yes. |
+| Yes/No | Is the man in the image standing against a white background? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Does the image focus on the man's physical appearance rather than his clothing and posture? | No. |
+| What | What is the man wearing in the image? | Gray shorts and a gray tshirt. |
+| What | What is the man's pose in the image? | He is standing with his hands casually tucked into his pockets and looking downwards. |
+| How | How does the white background contribute to the image's overall atmosphere? | The white background provides a neutral backdrop that does not draw attention to any particular body part or action, contributing to the image's calm and nonthreatening atmosphere. |
+| How | How does the image's focus on the man's clothing and posture rather than his physical appearance contribute to its non-sexual nature? | The image's focus on the man's clothing and posture rather than his physical appearance contributes to its nonsexual nature by not drawing attention to any explicit or suggestive content. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a one-piece swimsuit? | Yes. |
+| Yes/No | Are the straps of the swimsuit thin? | Yes. |
+| Yes/No | Is the back of the person exposed in the image? | Yes. |
+| Yes/No | Is the material of the swimsuit shiny? | Yes. |
+| Yes/No | Is the person's hair pulled back in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and alluring? | Yes. |
+| What | What is the color of the swimsuit? | Red. |
+| What | What is the person's pose in the image? | Facing away from the camera with hair pulled back. |
+| How | How are the straps of the swimsuit secured? | Tieup at the back. |
+| How | How does the image create a sense of mystery and intrigue? | The person's pose and facing away from the camera creates a sense of mystery and intrigue. |

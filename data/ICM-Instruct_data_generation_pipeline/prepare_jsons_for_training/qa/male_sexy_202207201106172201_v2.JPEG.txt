@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing against a white background? | Yes. |
+| Yes/No | Does the man in the image have his hands placed on his hips? | Yes. |
+| Yes/No | Is the man in the image wearing blue and white patterned underwear? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image wearing? | Blue and white patterned underwear. |
+| What | What is the background color in the image? | White. |
+| How | How is the man in the image standing? | With his hands placed on his hips. |
+| How | How does the blue and white patterned underwear add to the image? | It adds a touch of color and contrast to the otherwise plain background. |

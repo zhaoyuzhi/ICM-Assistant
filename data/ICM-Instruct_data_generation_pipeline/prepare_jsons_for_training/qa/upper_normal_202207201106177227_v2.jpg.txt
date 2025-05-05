@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the man in the image wearing a plaid jacket? | Yes. |
+| Yes/No | Are the man's hands in his pockets? | Yes. |
+| Yes/No | Is the man looking off to the side? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the man's facial expression? | The man's facial expression is not specified in the description. |
+| What | What is the surroundings of the man in the image? | The surroundings of the man in the image are not specified in the description. |
+| How | How is the man standing on the street? | The man is standing on the street in a natural way, with his feet shoulderwidth apart and his weight evenly distributed. |
+| How | How does the low exposure level of the image affect the focus of the image? | The low exposure level of the image emphasizes the man's actions and the surrounding environment, rather than his physical appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing black pants? | Yes. |
+| Yes/No | Is the woman in the image wearing white sneakers? | Yes. |
+| Yes/No | Is the woman in the image wearing sunglasses? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the woman in the image sitting on? | The floor. |
+| What | What is the pattern on the woman's shirt? | A pink shirt with a pattern on the front. |
+| How | How is the woman's pose in the image? | Casual, everyday setting rather than a sensual or intimate one. |
+| How | How would you describe the overall atmosphere of the image? | Calm and relaxed, rather than provocative or seductive. |

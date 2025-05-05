@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person wearing a maroon blazer? | Yes. |
+| Yes/No | Is the person wearing a black tie? | Yes. |
+| Yes/No | Is the person's shirt lifted up? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Does the tie have a gold emblem on it? | Yes. |
+| What | What color is the blazer? | Maroon. |
+| What | What color is the tie? | Black. |
+| How | How does the person's action of lifting their shirt contribute to the image's overall atmosphere? | It creates an intimate and casual contrast to the formality and sophistication of the blazer and tie, adding to the image's intrigue and allure. |
+| How | How does the gold emblem on the tie enhance the image's overall atmosphere? | It adds a touch of luxury and exclusivity, further enhancing the image's overall atmosphere of desire and fascination. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the bed covered with white sheets? | Yes. |
+| Yes/No | Is the woman's body exposed in the image? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and sensuality? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A bikini top. |
+| What | What color are the sheets on the bed? | White. |
+| How | How is the woman lying on the bed? | She is lying down. |
+| How | How does the image make you feel? | It creates a sense of intimacy and sensuality. |

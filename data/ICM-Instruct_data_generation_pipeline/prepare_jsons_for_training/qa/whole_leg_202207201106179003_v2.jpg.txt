@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the skirt have a zipper on the side? | Yes. |
+| Yes/No | Is the woman's pose confident and assertive? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have her hands resting on her hips? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What is the unique detail added to the skirt? | A zipper on the side. |
+| How | How does the woman's pose suggest confidence and self-assuredness? | The woman's hands are resting on her hips, and her posture is straight and relaxed, conveying a sense of confidence and selfassurance. |
+| How | How does the image convey a sense of allure and confidence? | The woman's stylish outfit, confident pose, and the white background all contribute to conveying a sense of allure and confidence. |

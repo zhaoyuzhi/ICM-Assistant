@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt made of cotton or linen? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the person's hand visible in the image? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image reveal any intimate or provocative details? | No. |
+| What | What is the person in the image wearing on their lower body? | A brown skirt with a high waist and two pockets on the front. |
+| What | What is the person in the image wearing on their upper body? | A white shirt. |
+| How | How is the person's clothing adjusted in the image? | The person's hand is visible, suggesting that they might be adjusting their clothing or posing for the photo. |
+| How | How does the low exposure level contribute to the overall atmosphere of the image? | The low exposure level contributes to the nonsexual nature of the image, as it does not reveal any intimate or provocative details. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt brown? | Yes. |
+| Yes/No | Does the skirt have two pockets on the front? | Yes. |
+| Yes/No | Is the person's hand visible in the bottom left corner? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any provocative elements? | No. |
+| What | What is the main focus of the image? | The skirt and the person's hand. |
+| What | What is the atmosphere of the image? | Simple and modest. |
+| How | How is the person's body visible in the image? | Only a small portion of the person's body is visible. |
+| How | How does the image reinforce the idea that it is not a sexy image? | The image does not contain any elements that suggest a sexual context or suggestive poses, and the focus is on the skirt and the person's hand rather than the person's body. |

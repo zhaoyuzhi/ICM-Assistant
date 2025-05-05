@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a face mask? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | No. |
+| Yes/No | Is the woman carrying a black purse? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Is the woman wearing white shorts? | Yes. |
+| Yes/No | Is the woman's outfit appropriate for a formal occasion? | No. |
+| What | What is the woman's hair style in the image? | Loose waves. |
+| What | What is the color of the woman's baseball cap? | Green. |
+| How | How is the woman's overall atmosphere in the image? | Casual and relaxed. |
+| How | How does the woman's outfit contribute to the overall impression of her confidence and self-assuredness? | The woman's outfit, specifically her strapless top, creates a sense of confidence and selfassuredness. The casual attire and airport setting also contribute to a laidback atmosphere, which can be perceived as sexy and confident. |

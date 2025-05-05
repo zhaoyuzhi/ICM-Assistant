@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the woman have long blonde hair? | Yes. |
+| Yes/No | Is the woman making a pouting or kissing face? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's facial expression suggest confidence and self-assuredness? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the woman's hair color? | Blonde. |
+| How | How is the woman posing in the image? | She is making a pouting or kissing face and looking directly at the camera. |
+| How | How does the woman's gaze and expression suggest she is feeling? | Her gaze and expression suggest she is comfortable and at ease in her own skin. |

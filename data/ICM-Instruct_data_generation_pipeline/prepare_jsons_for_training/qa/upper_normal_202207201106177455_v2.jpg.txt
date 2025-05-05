@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the person in the image have dark hair? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the person's face clearly visible in the image? | No. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| Yes/No | Is the image in color? | No. |
+| What | What is the person in the image wearing? | A white shirt. |
+| What | What is the color of the person's hair in the image? | Dark. |
+| How | How does the low exposure level of the image affect the person's face? | It makes the person's face not clearly visible. |
+| How | How does the black and white color of the image contribute to its overall atmosphere? | It gives the image a more classic or timeless feel rather than a sexy or provocative one. |

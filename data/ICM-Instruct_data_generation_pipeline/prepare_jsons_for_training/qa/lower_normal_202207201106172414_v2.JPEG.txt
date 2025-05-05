@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of olive green cargo shorts? | Yes. |
+| Yes/No | Is the man wearing a gray t-shirt? | Yes. |
+| Yes/No | Does the man have a large pocket on the back of his shorts? | Yes. |
+| Yes/No | Does the man have a small pocket on the front of his shorts? | Yes. |
+| Yes/No | Is the man wearing gray sneakers? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What is the color of the man's t-shirt? | Gray. |
+| What | What is the color of the man's cargo shorts? | Olive green. |
+| What | What is the exposure level of the image? | Low. |

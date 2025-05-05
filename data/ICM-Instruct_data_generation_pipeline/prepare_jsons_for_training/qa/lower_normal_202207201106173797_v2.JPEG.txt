@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a shirt? | Yes. |
+| Yes/No | Are there trees in the background of the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and peaceful? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man standing in a natural setting? | Yes. |
+| What | What is the man wearing on his lower body? | Shorts. |
+| What | What is the man wearing on his upper body? | A shirt. |
+| How | How is the man standing in the image? | He is standing upright, surrounded by trees and grass. |
+| How | How would you describe the exposure level of the man's body in the image? | Low, as only a small portion of his body is visible. |

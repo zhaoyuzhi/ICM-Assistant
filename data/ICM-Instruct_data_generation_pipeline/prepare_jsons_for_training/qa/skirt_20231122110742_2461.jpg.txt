@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a ruffled skirt? | Yes. |
+| Yes/No | Is the woman lifting the dress up to reveal her legs? | Yes. |
+| Yes/No | Are the high heels the woman is wearing black? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the woman have a confident expression on her face? | Yes. |
+| What | What is the main color of the dress? | Red. |
+| What | What is the woman's hair color? | Not specified in the description. |
+| How | How is the woman lifting the dress? | By holding it up with her hands. |
+| How | How do the high heels contribute to the overall atmosphere of the image? | They add a confident and seductive touch to the image. |

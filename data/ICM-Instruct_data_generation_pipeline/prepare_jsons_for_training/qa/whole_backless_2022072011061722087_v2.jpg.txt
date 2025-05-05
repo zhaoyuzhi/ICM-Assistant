@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red swimsuit? | Yes. |
+| Yes/No | Is the swimsuit a one-piece? | Yes. |
+| Yes/No | Does the swimsuit have a deep neckline? | Yes. |
+| Yes/No | Are the straps of the swimsuit thin? | Yes. |
+| Yes/No | Is the woman standing with her back to the camera? | Yes. |
+| Yes/No | Are the woman's arms placed on her hips? | Yes. |
+| What | What is the color of the background in the image? | White. |
+| What | What is the material of the swimsuit? | Shiny. |
+| How | How is the woman's pose in the image? | Confident. |
+| How | How does the red color of the swimsuit contribute to the image's atmosphere? | It creates a sense of allure and intrigue. |

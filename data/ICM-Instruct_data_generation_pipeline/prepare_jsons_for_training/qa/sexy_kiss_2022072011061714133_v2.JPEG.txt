@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black suit? | Yes. |
+| Yes/No | Is the woman wearing a blue denim jacket? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman? | Yes. |
+| Yes/No | Is the woman looking up at the man? | Yes. |
+| Yes/No | Is the man looking down at the woman? | Yes. |
+| What | What color is the man's shirt? | White. |
+| What | What is the woman's facial expression? | Smiling. |
+| How | How are the man and woman positioned in relation to each other? | They are standing close together, with the man's arms wrapped around the woman. |
+| How | How would you describe the overall atmosphere of the image? | Intimate, passionate, romantic, and seductive. |

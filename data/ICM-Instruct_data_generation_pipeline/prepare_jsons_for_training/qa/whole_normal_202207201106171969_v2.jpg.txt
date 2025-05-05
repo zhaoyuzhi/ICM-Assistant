@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a green dress? | Yes. |
+| Yes/No | Is the woman wearing a hat? | Yes. |
+| Yes/No | Is the woman carrying a small purse? | Yes. |
+| Yes/No | Is the background of the image a stone wall? | Yes. |
+| Yes/No | Is the sky visible above the woman? | Yes. |
+| What | What is the woman carrying in her hand? | A small purse. |
+| What | What is the dominant color of the woman's dress? | Green. |
+| How | How does the woman's attire contribute to the atmosphere of the image? | It contributes to a calm and serene atmosphere. |
+| How | How does the image focus on the woman and her surroundings? | The image focuses on the woman and her surroundings, rather than on her physical appearance or any provocative elements. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Are they wearing shorts? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Is the background of the image a body of water? | Yes. |
+| Yes/No | Does the image convey a sense of sexiness? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| What | What is the person's attire? | A pair of shorts and a top. |
+| What | What is the atmosphere created by the image? | Allure and intrigue. |
+| How | How is the person standing? | With their legs crossed. |
+| How | How does the image capture the viewer's attention? | By showcasing a confident and alluring pose, with the person facing the camera and their legs crossed, set against a serene water background. |

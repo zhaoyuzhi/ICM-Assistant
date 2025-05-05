@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow and black outfit? | Yes. |
+| Yes/No | Is the woman holding a gun in her right hand? | Yes. |
+| Yes/No | Is the woman wearing a purple wig? | Yes. |
+| Yes/No | Is the woman's upper body exposed? | Yes. |
+| Yes/No | Is the woman posing in a confident and assertive manner? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman holding in her hand? | A gun. |
+| What | What color is the woman's wig? | Purple. |
+| How | How is the woman posing in the image? | Confidently and assertively. |
+| How | How does the woman's wig add to the image's overall atmosphere? | Playfully. |

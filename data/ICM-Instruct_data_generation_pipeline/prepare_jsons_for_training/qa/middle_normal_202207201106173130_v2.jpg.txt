@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of khaki pants? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image feature a close-up of the person's face? | No. |
+| Yes/No | Is the person in the image wearing any other clothing items besides the khaki pants? | No. |
+| What | What is the style of the khaki pants? | Classic style with a straight leg and a back pocket. |
+| What | What is the overall atmosphere of the image? | Simple and straightforward. |
+| How | How is the person standing in the image? | With their back to the camera. |
+| How | How much of the person's body is visible in the image? | Only a small portion. |
+| Yes/No | Is the person in the image wearing pants? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the person's back to the camera? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image depict a casual outfit? | Yes. |
+| What | What is the design of the pants? | Khaki pants with a back pocket and a button fly. |
+| What | What is the pose of the person in the image? | Standing with their back to the camera and their hands on their hips. |
+| How | How does the image emphasize the simplicity of the scene? | The plain white background puts the focus entirely on the person and their attire, without any distractions or additional elements. |
+| How | How does the image convey a sense of straightforwardness and lack of ambiguity? | The image focuses solely on the person's clothing and pose, without any suggestive or explicit content, evoking a sense of simplicity and directness. |

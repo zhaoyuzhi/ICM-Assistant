@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Is the woman wearing black stockings? | Yes. |
+| Yes/No | Is the woman's upper body covered with a white sweater? | Yes. |
+| Yes/No | Is the room's carpet white? | Yes. |
+| Yes/No | Is there a painting on the wall? | Yes. |
+| What | What is the woman's facial expression? | The woman's facial expression is not visible in the image. |
+| What | What is the style of the painting on the wall? | The style of the painting on the wall is not specified in the description. |
+| How | How is the woman's confidence and self-assuredness conveyed in the image? | The woman's confidence and selfassuredness are conveyed through her pose and the way she is holding up her stockings. |
+| How | How does the contrast between the white sweater and black stockings/skirt contribute to the overall atmosphere of the image? | The contrast between the white sweater and black stockings/skirt creates a sense of visual contrast and draws the viewer's attention to the woman's legs, contributing to the overall intimate and sensual atmosphere of the image. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Is the woman wearing black stockings? | Yes. |
+| Yes/No | Is the woman holding her stockings up? | Yes. |
+| Yes/No | Is the room in the image equipped with a white carpet? | Yes. |
+| Yes/No | Is there a painting on the wall in the image? | Yes. |
+| What | What color is the woman's sweater? | White. |
+| What | What is the dominant color of the woman's attire? | Black. |
+| How | How are the woman's legs being presented in the image? | The woman's hands are holding up her stockings, revealing her legs. |
+| What | What atmosphere does the image convey? | The image conveys an intimate and sensual atmosphere. |

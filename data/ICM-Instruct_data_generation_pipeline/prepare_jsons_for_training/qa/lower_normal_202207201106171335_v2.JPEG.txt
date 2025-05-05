@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a brown skirt? | Yes. |
+| Yes/No | Is the person's movement discernible in the image? | No. |
+| Yes/No | Does the image contain explicit or suggestive elements? | No. |
+| Yes/No | Is the atmosphere of the image simple and unassuming? | Yes. |
+| Yes/No | Does the image feature a white background? | Yes. |
+| Yes/No | Is the focus of the image on the person's skirt? | Yes. |
+| What | What is the color of the person's skirt in the image? | Brown. |
+| What | What is the main focus of the image? | The person's brown skirt. |
+| How | How does the white background contribute to the image's atmosphere? | It creates a neutral atmosphere that is not conducive to a sexy or provocative image. |
+| How | How does the low exposure level affect the person's movements in the image? | It makes them not discernible. |

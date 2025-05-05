@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the woman leaning in to kiss the man? | Yes. |
+| Yes/No | Is the background of the image filled with trees and foliage? | Yes. |
+| Yes/No | Does the image evoke feelings of love and passion? | Yes. |
+| What | What is the woman doing in the image? | She is leaning in to kiss the man. |
+| What | What is the setting of the image? | The setting is a park. |
+| How | How is the woman's head tilted in the image? | The woman's head is tilted back as she leans in to kiss the man. |
+| How | How does the background of the image contribute to the overall atmosphere? | The background of trees and foliage creates a serene and intimate atmosphere. |

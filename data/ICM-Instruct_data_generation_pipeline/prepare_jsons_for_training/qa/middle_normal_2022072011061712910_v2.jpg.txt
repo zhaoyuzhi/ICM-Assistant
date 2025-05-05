@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the man's pants olive green? | Yes. |
+| What | What is the man's pose in the image? | He is standing with his hands casually tucked into his pockets. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is calm and nonthreatening. |
+| How | How is the man's attire in the image? | The man's attire is neutral and does not contain any explicit or suggestive content. |
+| How | How does the white background of the image affect the focus of the scene? | The white background emphasizes the simplicity of the scene and ensures that the focus remains on the man and his attire rather than any potential innuendo. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the background of the image colored? | Yes. |
+| Yes/No | Does the image convey a relaxed and nonchalant atmosphere? | Yes. |
+| What | What is the man's pose in the image? | He is standing with his hands casually tucked into his pockets. |
+| What | What is the color of the man's cargo pants? | Olive green. |
+| How | How is the man's attire in the image? | Neutral, casual. |
+| How | How does the white background of the image contribute to the overall atmosphere? | It emphasizes the simplicity of the scene and contributes to a calm and unassuming atmosphere. |

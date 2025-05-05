@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs bent? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Does the image capture a private moment of the person getting dressed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing on their lower body? | Blue pants. |
+| What | What is the person in the image putting on? | Beige stockings. |
+| How | How are the person's hands positioned in the image? | On their knees. |
+| What | What does the white furry surface add to the atmosphere of the image? | Luxury and comfort. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs bent? | Yes. |
+| Yes/No | Is the surface they're sitting on white and furry? | Yes. |
+| Yes/No | Is the person putting on beige stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Does the image capture a private moment of the person getting dressed? | Yes. |
+| What | What is the person in the image wearing? | A white shirt and blue pants. |
+| What | What is the person in the process of doing in the image? | Putting on beige stockings. |
+| How | How are the person's legs positioned in the image? | Bent, with their hands on their knees. |
+| How | How does the image capture the atmosphere of the person getting dressed? | It captures a private and intimate moment, with a focus on the act of putting on stockings, which is often associated with sensuality and allure. The image also features a luxurious white furry surface and a contrasting color scheme, adding to the overall seductive and alluring atmosphere. |

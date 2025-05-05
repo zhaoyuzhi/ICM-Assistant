@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black crochet top? | Yes. |
+| Yes/No | Does the top have a unique cutout in the center? | Yes. |
+| Yes/No | Is the woman's hair styled in a messy bun? | Yes. |
+| Yes/No | Are the woman's pants black and matching her top? | Yes. |
+| Yes/No | Is the woman's pose confident and relaxed? | Yes. |
+| Yes/No | Are the woman's hands resting on her hips? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman's hair style? | Messy bun. |
+| How | How does the woman's pose contribute to the image's atmosphere? | The woman's pose, with her hands resting on her hips, further accentuates her body and the cutout in her top, contributing to a sexy and alluring impression. |
+| How | How does the messy bun in her hair add to the image's atmosphere? | The messy bun in her hair adds to the casual and sexy vibe of the image, contributing to a relaxed and confident atmosphere. |

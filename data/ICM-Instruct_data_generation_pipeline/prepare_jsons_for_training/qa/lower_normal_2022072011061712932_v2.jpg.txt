@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of black pants? | Yes. |
+| Yes/No | Is the woman in the image wearing a brown sweater? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| Yes/No | Is the woman looking down in the image? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and composed? | Yes. |
+| What | What is the woman sitting on in the image? | A stool. |
+| What | What is the woman's posture in the image? | Her legs are crossed and she is looking down. |
+| How | How is the woman's attire in the image? | Modest. |
+| How | How does the image focus on the woman's appearance? | It focuses on her interaction with the stool rather than her physical attributes. |

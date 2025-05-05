@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray sweatpants? | Yes. |
+| Yes/No | Are the person's white sneakers visible in the image? | Yes. |
+| Yes/No | Is the person's buttocks prominently displayed in the image? | Yes. |
+| Yes/No | Is the image set in an urban environment? | Yes. |
+| Yes/No | Is the person walking on a sidewalk? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the person's sweatpants? | Gray. |
+| What | What is the person's attire? | Gray sweatpants and white sneakers. |
+| How | How is the person's buttocks displayed in the image? | Prominently. |
+| How | How does the urban setting of the image add to the overall sensuality of the scene? | It adds to the overall sensuality of the scene by creating a sense of confidence and selfassuredness. |

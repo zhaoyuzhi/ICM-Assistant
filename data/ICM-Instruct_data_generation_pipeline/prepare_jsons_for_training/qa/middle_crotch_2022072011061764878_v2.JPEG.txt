@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing only underwear? | Yes. |
+| Yes/No | Are the underwear items different colors? | Yes. |
+| How | Does the image show the person's face? | No. |
+| Yes/No | Is the background of the image black? | Yes. |
+| Yes/No | Does the person have any other clothing items on? | No. |
+| Yes/No | Is the image a close-up? | Yes. |
+| What | What is the person wearing? | The person is wearing three different types of underwear: a thong, a brief, and a highwaisted brief, each with a different color and style. |
+| What | What is the background of the image? | The background of the image is black. |
+| How | How many different colors of underwear are shown in the image? | Three. |
+| How | How does the image create a sense of intimacy and allure? | The image creates a sense of intimacy and allure by showing a closeup of a person wearing only underwear, with a black background that emphasizes the focus on the person and their attire. The different colors and styles of the underwear suggest variety and choice, which can be seen as a symbol of empowerment and selfexpression. |

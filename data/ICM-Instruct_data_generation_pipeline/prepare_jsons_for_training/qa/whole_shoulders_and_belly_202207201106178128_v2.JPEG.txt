@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple crop top? | Yes. |
+| Yes/No | Are the jean shorts high-waisted? | Yes. |
+| Yes/No | Does the top have a cutout in the middle? | Yes. |
+| Yes/No | Is the woman leaning on her hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's pose reveal her midriff? | Yes. |
+| What | What color are the jean shorts? | Blue. |
+| What | What is the woman's attire in the image? | Purple crop top and blue jean shorts. |
+| How | How is the woman's confidence and allure conveyed in the image? | Through her pose and attire. |
+| How | How does the high-waisted jean shorts contribute to the overall atmosphere of the image? | They add to the casual and relaxed atmosphere. |

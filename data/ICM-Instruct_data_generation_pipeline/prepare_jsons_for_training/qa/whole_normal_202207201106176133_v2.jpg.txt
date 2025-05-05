@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image praying? | Yes. |
+| Yes/No | Is the woman wearing a red blouse? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman's physical appearance the focus of the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the woman's attire in the image? | A red blouse and a black skirt. |
+| What | What is the woman's facial expression in the image? | Prayerful. |
+| How | How is the woman's attire depicted in the image? | The woman's attire is depicted as modest and not revealing. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level emphasizes the focus on the woman's actions and attire, rather than her physical appearance, and contributes to the nonsexy atmosphere. |

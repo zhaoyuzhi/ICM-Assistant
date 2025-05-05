@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of mint green shorts? | Yes. |
+| Yes/No | Does the person have their arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the boat in motion? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the shorts the person is wearing? | Mint green. |
+| What | What is the texture of the shorts? | Lace trim. |
+| How | How are the person's arms positioned? | Relaxed at their sides. |
+| How | How is the boat moving? | Blurred background suggests motion. |

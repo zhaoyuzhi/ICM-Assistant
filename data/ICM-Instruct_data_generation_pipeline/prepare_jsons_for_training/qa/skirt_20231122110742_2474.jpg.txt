@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and white dress? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Is the woman lifting the dress, revealing her thighs and legs? | Yes. |
+| Yes/No | Is she wearing black boots? | Yes. |
+| Yes/No | Is the image taken in a hallway? | Yes. |
+| Yes/No | Is there a door visible in the background? | Yes. |
+| What | What is the woman doing in the image? | Lifting her dress, revealing her thighs and legs. |
+| What | What is the overall aesthetic of the image? | Sensual and alluring. |
+| How | How does the woman's act of lifting the dress contribute to the image's sensuality? | It creates an alluring and provocative atmosphere. |
+| How | How does the setting in a hallway with a door in the background add to the image's intrigue? | It makes the viewer curious about what might be happening beyond the frame. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the swimsuit black and yellow? | Yes. |
+| Yes/No | Does the swimsuit have a green leaf pattern? | Yes. |
+| Yes/No | Is the woman standing with her back to the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color is the swimsuit? | Black and yellow. |
+| What | What is the pattern on the swimsuit? | Green leaf pattern. |
+| How | How is the woman standing in the image? | She is standing with her back to the camera, facing away from it. |
+| How | How does the swimsuit draw attention to the woman's back? | The bold colors and pattern of the swimsuit draw attention to the woman's back and the curve of her spine. |

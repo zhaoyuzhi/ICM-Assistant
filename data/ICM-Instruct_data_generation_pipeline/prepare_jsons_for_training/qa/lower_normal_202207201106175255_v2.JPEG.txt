@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray sweatpants? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's hands placed on their knees? | Yes. |
+| Yes/No | Is the person wearing black shoes? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive actions or poses? | No. |
+| What | What is the person's attire in the image? | Gray sweatpants and a black shirt. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the low angle of the shot contribute to the atmosphere of the image? | It emphasizes the person's legs and feet and adds to the casual and relaxed atmosphere. |

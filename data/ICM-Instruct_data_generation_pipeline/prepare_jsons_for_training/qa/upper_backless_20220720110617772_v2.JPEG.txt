@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman's hair styled in an updo? | Yes. |
+| Yes/No | Is the woman holding a bouquet of flowers? | Yes. |
+| Yes/No | Is the green ribbon around the woman's waist? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman holding in her hands? | A bouquet of flowers. |
+| What | What color is the ribbon tied around the woman's waist? | Green. |
+| How | How is the woman's hair styled? | In an elegant updo. |
+| How | How does the white dress and green ribbon create a contrast in the image? | The white dress and green ribbon create a contrast that draws attention to the woman's back and the bouquet of flowers she is holding, adding a touch of elegance and allure to the image. |

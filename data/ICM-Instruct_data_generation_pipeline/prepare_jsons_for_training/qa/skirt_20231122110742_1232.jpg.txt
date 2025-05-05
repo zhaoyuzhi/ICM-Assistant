@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue plaid dress? | Yes. |
+| Yes/No | Are her legs exposed in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the picture seductive and alluring? | Yes. |
+| Yes/No | Does the woman's pose create a sense of intimacy and allure? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the background cluttered? | No. |
+| What | What color is the woman's dress? | Blue. |
+| What | What color are the woman's socks? | White. |
+| How | How is the woman's dress lifted up? | It is not specified in the description. |
+| How | How does the image capture a moment of vulnerability and allure? | The woman's pose and the exposure of her legs create a sense of vulnerability and allure. |

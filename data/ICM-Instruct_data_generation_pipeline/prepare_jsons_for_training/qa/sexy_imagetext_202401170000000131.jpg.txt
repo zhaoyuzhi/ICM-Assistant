@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting on a bed? | Yes. |
+| Yes/No | Are there two men in the image? | Yes. |
+| Yes/No | Is the text in the image in Chinese? | Yes. |
+| Yes/No | Does the image depict a romantic or sexual situation between a teacher and a student? | Yes. |
+| Yes/No | Are the two men standing behind the woman? | Yes. |
+| Yes/No | Does the image have a sensual and provocative atmosphere? | Yes. |
+| What | What is the woman's facial expression in the image? | Ambiguous. |
+| How | How many people are in the scene? | Four (woman and two men, plus one girl). |
+| How | How are the two men positioned in relation to the woman? | Standing behind her. |
+| What | What is the implied relationship between the teacher and student in the image? | A romantic or sexual affair. |

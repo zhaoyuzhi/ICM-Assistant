@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white tank top? | Yes. |
+| Yes/No | Is the man in the image wearing black shorts? | Yes. |
+| Yes/No | Is the man's left leg extended behind him? | Yes. |
+| Yes/No | Is the man's right leg bent at the knee? | Yes. |
+| Yes/No | Are the man's arms outstretched to the sides? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the man's attire in the image? | White tank top and black shorts. |
+| What | What is the man's pose in the image? | Dynamic pose with left leg extended and right leg bent. |
+| How | How is the man's athleticism showcased in the image? | Through his athletic attire and dynamic pose. |
+| How | How does the white background affect the image? | It emphasizes the man and his pose, making the image more about his athleticism. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt dark blue in color? | Yes. |
+| Yes/No | Does the skirt have a flowing, voluminous appearance? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Is the overall atmosphere of the image modest and understated? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the color of the person's top? | Black. |
+| What | What is the overall atmosphere of the image? | Modest and understated. |
+| How | How is the skirt gathered at the waist? | It is gathered in a way that gives it a full and voluminous appearance. |
+| How | How does the image focus the viewer's attention? | It focuses the viewer's attention solely on the skirt and top, rather than the person's body or appearance. |

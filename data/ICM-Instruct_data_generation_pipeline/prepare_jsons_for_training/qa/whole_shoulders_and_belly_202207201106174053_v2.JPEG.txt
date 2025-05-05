@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's sleeves ruffled? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman's midriff exposed? | Yes. |
+| What | What color is the woman's top? | Pink. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How is the woman posing for the camera? | With her hands on her hips. |
+| How | How does the combination of the pink top and blue jeans create a contrast? | The contrast creates a visually appealing image. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding a Samsung phone box? | Yes. |
+| Yes/No | Is the person wearing a blue shirt? | Yes. |
+| Yes/No | Is the box placed on a white surface? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the person holding in the image? | A white Samsung phone box. |
+| What | What is the color of the person's shirt? | Blue. |
+| How | How is the box placed on the surface? | It is placed flat on the surface. |
+| How | How does the low exposure level of the image affect the focus of the image? | It ensures that the focus remains on the person and the phone box, rather than any inappropriate or provocative elements. |

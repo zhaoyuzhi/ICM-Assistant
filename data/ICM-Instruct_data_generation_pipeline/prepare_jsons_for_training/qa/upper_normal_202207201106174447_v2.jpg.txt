@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pink blouse with a floral pattern? | Yes. |
+| Yes/No | Is her hair styled in a bun? | Yes. |
+| Yes/No | Is she wearing earrings? | Yes. |
+| Yes/No | Is the background of the image a dark blue color? | Yes. |
+| Yes/No | Are there white flowers scattered throughout the background? | Yes. |
+| What | What is the woman's attire in the image? | A pink blouse with a floral pattern, a bun hairstyle, and earrings. |
+| What | What is the setting of the image? | A studio setting with a green screen behind the woman. |
+| How | How would you describe the overall atmosphere of the image? | Professional and formal, with a touch of elegance and sophistication. |
+| How | How does the exposure level of the image contribute to its atmosphere? | The low exposure level does not reveal any skin or intimate details, contributing to a more professional and formal atmosphere. |

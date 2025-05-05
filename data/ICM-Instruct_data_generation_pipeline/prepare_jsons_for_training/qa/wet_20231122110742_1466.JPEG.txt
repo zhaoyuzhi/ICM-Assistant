@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a water gun? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the shorts black and white striped? | Yes. |
+| Yes/No | Does the water gun have three blue balls on it? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman holding in the image? | A water gun. |
+| What | What color are the balls on the water gun? | Blue. |
+| How | How many balls are on the water gun? | Three. |
+| How | How is the woman standing in the ocean? | She is standing with her feet in the water. |

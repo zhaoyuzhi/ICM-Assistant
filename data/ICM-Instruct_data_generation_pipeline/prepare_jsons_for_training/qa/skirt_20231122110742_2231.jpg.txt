@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress flowing and have a train? | Yes. |
+| Yes/No | Are the woman's legs and thighs visible in the image? | Yes. |
+| Yes/No | Is the woman wearing high heels? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive and provocative? | Yes. |
+| What | What is the woman lifting in the image? | Her dress. |
+| What | What is the woman's attire in the image? | A white dress and high heels. |
+| How | How is the woman's dress styled? | It is flowing and has a train. |
+| How | How do the high heels contribute to the image's atmosphere? | They add to the overall allure and sensuality of the image. |

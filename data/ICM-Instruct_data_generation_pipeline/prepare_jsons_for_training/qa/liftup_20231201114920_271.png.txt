@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink plaid skirt? | Yes. |
+| Yes/No | Does the t-shirt have a phrase written on it? | Yes. |
+| Yes/No | Is the woman lifting her shirt in the image? | Yes. |
+| Yes/No | Is the woman's midriff exposed in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the phrase written on the woman's t-shirt? | "EXCUSE ME, I'M EXHAUSTED". |
+| What | What color is the woman's skirt? | Pink. |
+| How | How is the woman lifting her shirt in the image? | She is lifting it up slightly, exposing her midriff. |
+| What | What is the atmosphere created by the combination of the woman's clothing and pose in the image? | The combination of the white tshirt, pink plaid skirt, and the woman's pose creates an intimate and alluring atmosphere. |

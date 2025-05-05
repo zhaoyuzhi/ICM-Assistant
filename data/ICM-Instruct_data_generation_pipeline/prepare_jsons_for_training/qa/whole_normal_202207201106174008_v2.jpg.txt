@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the sleeves of the t-shirt striped? | Yes. |
+| Yes/No | Is the man wearing blue shorts? | Yes. |
+| Yes/No | Are the man's sneakers white? | Yes. |
+| Yes/No | Is the man holding a drink in his hand? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the man's t-shirt? | White. |
+| What | What is the color of the man's shorts? | Blue. |
+| How | How is the man sitting on the couch? | Comfortably. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |

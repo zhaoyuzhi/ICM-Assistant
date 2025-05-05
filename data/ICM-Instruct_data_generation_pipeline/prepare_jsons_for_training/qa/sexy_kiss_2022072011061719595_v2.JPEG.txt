@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the two men in the image kissing? | Yes. |
+| Yes/No | Is the image set in a forest? | Yes. |
+| Yes/No | Are the men wearing matching shirts? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the image a candid shot or posed? | Posed. |
+| What | What is the color of the shirt worn by the man on the left? | White. |
+| What | What is the color of the shirt worn by the man on the right? | Pink. |
+| How | How are the two men standing in relation to each other? | Close to each other, with their bodies touching. |
+| How | How would you describe the mood of the image? | Intimate, passionate, and romantic. |

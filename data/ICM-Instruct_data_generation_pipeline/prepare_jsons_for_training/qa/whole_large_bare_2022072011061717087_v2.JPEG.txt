@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman performing a handstand? | Yes. |
+| Yes/No | Is the woman wearing a bikini? | Yes. |
+| Yes/No | Is the man standing behind the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's handstand demonstrate strength and balance? | Yes. |
+| What | What is the woman's pose in the image? | Handstand. |
+| What | What is the man's relationship to the woman in the image? | He is watching her perform her handstand. |
+| How | How does the woman's bikini and the beach setting evoke a sense of relaxation and enjoyment? | The bikini and beach setting suggest a carefree and leisurely atmosphere, which aligns with the relaxed and confident expression on the woman's face. |
+| How | How does the man's presence add an element of intrigue and curiosity to the image? | The man's presence creates a sense of intrigue and curiosity because he is watching the woman perform her handstand, suggesting that he is interested in her and her abilities. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a person's face? | Yes. |
+| Yes/No | Is the person biting their lip? | Yes. |
+| Yes/No | Is the facial expression serious? | Yes. |
+| Yes/No | Are the lips pink? | Yes. |
+| Yes/No | Is the chin smooth? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the gesture that the person is making with their lips? | Biting. |
+| What | What is the color of the person's lips? | Pink. |
+| How | How does the close-up of the person's face emphasize their lips and chin? | By focusing the viewer's attention on these features. |
+| How | How does the serious facial expression contribute to the image's sexiness? | It adds a sense of intensity and passion. |

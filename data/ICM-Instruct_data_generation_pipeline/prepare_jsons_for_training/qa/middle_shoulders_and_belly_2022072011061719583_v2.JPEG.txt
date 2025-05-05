@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image feature a beige background? | Yes. |
+| Yes/No | Is the person standing in the image? | Yes. |
+| Yes/No | Does the pair of jeans have a zipper on the back pocket? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the jeans in the image? | Blue. |
+| What | What is the background color of the image? | Beige. |
+| How | How does the high-waisted jeans and exposed belly create a sense of allure and confidence in the image? | They accentuate the person's body in a flattering manner, creating a sense of selfexpression and confidence. |
+| How | How does the zipper on the back pocket add an element of intrigue to the image? | It draws attention to the person's lower back and creates a sense of mystery, adding to the overall allure of the image. |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image feature a beige background? | Yes. |
+| Yes/No | Is the person standing in the image? | Yes. |
+| Yes/No | Are the jeans high-waisted? | Yes. |
+| Yes/No | Is there a zipper on the back pocket of the jeans? | Yes. |
+| What | What color are the jeans in the image? | Blue. |
+| What | What is the color of the background in the image? | Beige. |
+| How | How does the person's exposed belly add to the allure of the image? | It reveals a sense of vulnerability and confidence. |
+| How | How do the high-waisted jeans and zipper on the back pocket add to the image's intrigue and mystery? | They create a sense of intrigue and mystery by drawing attention to the person's lower body and adding a touch of sensuality. |

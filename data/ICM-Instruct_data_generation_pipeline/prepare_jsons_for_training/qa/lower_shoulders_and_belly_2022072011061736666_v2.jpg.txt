@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing leggings? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman standing on a balcony in the image? | Yes. |
+| Yes/No | Are the woman's sneakers New Balance? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the woman's leggings? | Blue. |
+| What | What brand are the woman's sneakers? | New Balance. |
+| How | How is the woman posing in the image? | She is striking a pose with her left hand on her hip and her right hand resting on her thigh. |
+| What | What does the combination of the woman's athletic attire and confident pose suggest? | It suggests a sense of fitness and athleticism, while also creating a sense of allure and intrigue. |

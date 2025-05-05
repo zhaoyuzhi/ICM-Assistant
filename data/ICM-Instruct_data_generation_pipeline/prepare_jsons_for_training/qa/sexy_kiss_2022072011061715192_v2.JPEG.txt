@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the couple's lips touching? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Is the man wearing a dark suit? | Yes. |
+| Yes/No | Are the couple's eyes closed? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the woman wearing in the image? | A white dress. |
+| What | What is the man wearing in the image? | A dark suit. |
+| How | How are the couple positioned in the image? | The woman is positioned on the left, and the man is positioned on the right. |
+| How | How does the image create a sense of intimacy and passion? | The image creates a sense of intimacy and passion through the couple's private, intimate moment, the contrast between the woman's white dress and the man's dark suit, and the blurred background that emphasizes the couple's kiss. |

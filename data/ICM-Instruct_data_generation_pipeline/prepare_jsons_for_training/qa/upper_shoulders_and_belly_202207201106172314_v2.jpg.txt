@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless black dress? | Yes. |
+| Yes/No | Is the woman holding a black hairbrush in her right hand? | Yes. |
+| Yes/No | Is the woman looking off to the side with a slight smile on her face? | Yes. |
+| Yes/No | Is the background of the image dark and out of focus? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image seductive? | Yes. |
+| What | What is the woman holding in her right hand? | A black hairbrush. |
+| What | What is the color of the dress the woman is wearing? | Black. |
+| How | How is the woman looking off to the side? | With a slight smile on her face. |
+| How | How does the dark background of the image affect the focus of the image? | It puts the focus on the woman and her actions. |

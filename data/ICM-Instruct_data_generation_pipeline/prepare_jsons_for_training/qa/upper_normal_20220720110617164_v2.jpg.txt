@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the driver's seat of the car? | Yes. |
+| Yes/No | Is the woman wearing a pink blouse? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Is the car parked in a garage? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman wearing? | A pink blouse. |
+| What | What is the setting of the image? | A garage. |
+| How | How is the woman posing in the image? | Not posing in a provocative manner. |
+| How | How does the low exposure level affect the image? | It creates a more neutral and nonsexual atmosphere and focuses attention on the woman and the car. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| Yes/No | Is the man's posture confident and relaxed? | Yes. |
+| Yes/No | Are the man's muscles well-defined? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image convey a sense of power and vitality? | Yes. |
+| What | What is the man's skin tone in the image? | Light. |
+| What | What is the color of the man's hair in the image? | Dark. |
+| How | How does the man's posture contribute to the overall atmosphere of the image? | It adds to the allure and confidence of the image, inviting the viewer to appreciate the man's physical attributes. |
+| How | How does the plain white background affect the viewer's perception of the man's physique? | It emphasizes the man's form and makes him appear even more prominent and attractive. |

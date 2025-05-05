@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a light blue top? | Yes. |
+| Yes/No | Is the woman looking directly into the camera? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Is the woman biting her lower lip? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| Yes/No | Does the woman's expression create a sense of intimacy? | Yes. |
+| What | What color is the woman's top? | Light blue. |
+| What | What is the woman doing with her lower lip? | Biting it. |
+| How | How does the woman's direct gaze contribute to the image's atmosphere? | It creates a sense of intimacy and allure. |
+| How | How does the light blue top complement the woman's skin tone? | It adds a touch of elegance and complements her skin tone. |

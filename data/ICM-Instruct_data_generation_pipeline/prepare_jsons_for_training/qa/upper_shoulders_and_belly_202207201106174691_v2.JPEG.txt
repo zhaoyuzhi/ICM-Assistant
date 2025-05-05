@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the dress made of a shiny fabric? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Is the couch covered with a pink and white patterned fabric? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's dress? | Black. |
+| What | What is the pattern on the couch? | Pink and white. |
+| How | How is the woman posing on the couch? | She is sitting with her legs crossed and looking over her shoulder. |
+| How | How does the image make the viewer feel? | It creates a sense of connection and allure. |

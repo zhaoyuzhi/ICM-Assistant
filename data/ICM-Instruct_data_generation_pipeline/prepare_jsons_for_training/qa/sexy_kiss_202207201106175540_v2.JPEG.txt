@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the man wearing glasses? | Yes. |
+| Yes/No | Is the woman wearing a black jacket? | Yes. |
+| Yes/No | Are the couple's arms wrapped around each other? | Yes. |
+| Yes/No | Is the background of the image a store with a red awning and a white sign? | Yes. |
+| What | What is the color of the woman's jacket? | Black. |
+| What | What is the man's armwear? | Glasses. |
+| How | How is the woman's head tilted? | Back. |
+| How | How are the couple's arms wrapped around each other? | Arms wrapped around waist. |

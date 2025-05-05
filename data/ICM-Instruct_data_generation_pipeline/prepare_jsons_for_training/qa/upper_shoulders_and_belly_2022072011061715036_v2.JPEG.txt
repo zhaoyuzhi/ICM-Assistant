@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black outfit? | Yes. |
+| Yes/No | Does the outfit expose her midriff? | Yes. |
+| Yes/No | Are the pants high-waisted? | Yes. |
+| Yes/No | Does the top have straps? | No. |
+| Yes/No | Is there a drawstring at the waist of the pants? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color is the woman's outfit? | Black. |
+| What | What is the unique detail added by the pants? | Drawstring at the waist. |
+| How | How does the woman's pose accentuate her body and outfit? | With her hands on her hips. |
+| How | How does the white background affect the image? | It highlights the woman and her outfit, making it more visually striking and sexy. |

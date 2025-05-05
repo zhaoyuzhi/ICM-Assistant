@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the person's legs apart in the image? | Yes. |
+| Yes/No | Is the bathtub white in the image? | Yes. |
+| Yes/No | Are the person's hands on the edge of the bathtub in the image? | Yes. |
+| Yes/No | Is the image sexy because of the combination of the person's attire and the setting? | Yes. |
+| What | What is the color of the bathtub in the image? | White. |
+| What | What is the color of the person's heels in the image? | Black. |

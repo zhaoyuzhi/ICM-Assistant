@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of gray sweatpants? | Yes. |
+| Yes/No | Is the person's shirt black? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the person moving towards the right side of the image? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the person's exposure level low in the image? | Yes. |
+| What | What is the color of the logo on the person's sweatpants? | White. |
+| What | What is the overall atmosphere of the image? | Not sexy. |
+| How | How is the person's movement depicted in the image? | The person is moving towards the right side of the image. |
+| How | How does the low exposure level of the person affect the focus of the image? | The low exposure level emphasizes the focus on the person's clothing and movement, rather than their physical appearance. |

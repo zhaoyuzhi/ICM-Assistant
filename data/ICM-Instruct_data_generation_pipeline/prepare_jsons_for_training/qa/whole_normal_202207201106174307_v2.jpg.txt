@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Are the sleeves of the dress long? | Yes. |
+| Yes/No | Is the collar of the dress high? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the color of the dress? | Dark red. |
+| What | What is the texture of the dress? | Floral. |
+| How | How is the woman standing in the image? | Standing still. |
+| How | How does the low exposure level of the image contribute to the overall atmosphere? | It creates a sense of modesty and respectability. |

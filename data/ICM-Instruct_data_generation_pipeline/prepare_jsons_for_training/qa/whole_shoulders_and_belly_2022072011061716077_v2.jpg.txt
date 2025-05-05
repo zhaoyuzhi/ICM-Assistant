@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a midriff-baring skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the woman in the image wearing sunglasses? | Yes. |
+| Yes/No | Does the image have a vibrant and colorful atmosphere? | Yes. |
+| Yes/No | Is the woman's outfit the main focus of the image? | Yes. |
+| What | What is the woman in the image holding in her hand? | A purse. |
+| What | What is the woman in the image wearing on her head? | A straw hat. |
+| How | How is the woman in the image posing? | She is standing with her legs slightly apart, with her weight shifted onto one leg and her other leg slightly bent. |
+| How | How does the woman in the image hold the purse? | She is holding the purse with one hand and has it slung over her shoulder. |

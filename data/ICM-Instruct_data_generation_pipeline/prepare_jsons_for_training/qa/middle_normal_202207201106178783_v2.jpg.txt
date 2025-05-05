@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Does the purse have a gold handle? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image depict the woman in a suggestive or provocative manner? | No. |
+| What | What is the color of the purse? | Brown. |
+| What | What is the woman wearing in addition to the white dress? | A white apron. |
+| How | How is the woman standing in the image? | She is standing in front of a white background. |
+| How | How would you describe the overall atmosphere of the image? | Simple and straightforward. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the purse in the image brown? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman in the image standing in front of a white background? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the woman in the image holding? | A brown purse. |
+| What | What is the woman in the image wearing? | A white dress and a white shirt. |
+| How | How is the woman in the image standing? | She is standing in front of a white background. |
+| How | How does the image focus on the woman and her purse? | The exposure level is very low, focusing on the woman and her purse rather than any other elements in the image. |

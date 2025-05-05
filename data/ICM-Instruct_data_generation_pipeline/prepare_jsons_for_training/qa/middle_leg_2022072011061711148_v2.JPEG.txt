@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Does the person have their hand on their hip? | Yes. |
+| Yes/No | Are the person's thighs visible in the image? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the shorts frayed at the hem? | Yes. |
+| What | What color are the shorts? | Blue. |
+| What | What is the color of the person's shirt? | Black. |
+| How | How does the person's pose convey confidence and self-assurance? | The person's hand is placed on their hip, which is a confident and selfassured pose. |
+| How | How does the image create a sexy feel? | The image showcases the person's body in a confident and alluring manner, with the contrast between the blue denim shorts and black shirt drawing attention to the exposed and visible thighs. The casual and relaxed pose of the person adds to the sexy atmosphere. |

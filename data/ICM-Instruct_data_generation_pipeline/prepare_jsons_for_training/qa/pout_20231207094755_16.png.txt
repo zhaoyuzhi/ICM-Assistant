@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Does the woman have blue eyes? | Yes. |
+| Yes/No | Is the woman wearing pink lipstick? | Yes. |
+| Yes/No | Is the woman making a pouting or kissing face? | Yes. |
+| Yes/No | Is the image a close-up of the woman's face? | Yes. |
+| Yes/No | Does the image create a sense of intimacy? | Yes. |
+| What | What is the woman's facial expression in the image? | Pouting or kissing face. |
+| What | What color is the woman's lipstick in the image? | Pink. |
+| How | How does the close-up view of the woman's face contribute to the overall allure of the image? | It highlights her facial features and creates a sense of intimacy. |
+| How | How does the woman's pouting pose contribute to the overall allure of the image? | It is often associated with confidence and allure. |

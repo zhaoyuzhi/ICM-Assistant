@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman's expression serious? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image depict explicit or suggestive content? | No. |
+| Yes/No | Is the woman holding a tube of cream? | Yes. |
+| What | What is the woman holding in her right hand? | A tube of cream. |
+| What | What is the woman's hair color? | Dark. |
+| How | How is the woman's movement while applying the cream? | Focused and precise. |
+| What | What can be inferred about the woman's activity in the image? | She is applying skincare products as a part of her daily routine. |

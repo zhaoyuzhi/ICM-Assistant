@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image holding a barbell? | Yes. |
+| Yes/No | Is the man in the image sitting on a bench? | Yes. |
+| Yes/No | Is the image set in a gym setting? | Yes. |
+| How | Does the image showcase the man's physique? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man holding in the image? | A barbell. |
+| What | What is the theme of the image? | Fitness and health. |
+| How | How is the man holding the barbell? | With both hands. |
+| How | How does the image make the viewer feel? | Confident and strong. |

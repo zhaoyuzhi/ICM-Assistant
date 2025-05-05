@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the man sitting at a table? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the man engaging in any activity? | No. |
+| Yes/No | Is the image indoors? | Yes. |
+| What | What is the man doing in the image? | He appears to be relaxing and may be engaged in personal grooming or selfcare activity. |
+| What | What is the significance of the scissors on the table? | They suggest the man may be engaged in cutting or trimming something, such as his hair or beard. |
+| How | How is the overall atmosphere of the image? | The atmosphere is casual and informal. |
+| How | How might the image be perceived by viewers? | The image may be perceived as sexy and alluring due to the man's shirtless appearance and relaxed position, as well as the suggestion of personal grooming or selfcare activity. |

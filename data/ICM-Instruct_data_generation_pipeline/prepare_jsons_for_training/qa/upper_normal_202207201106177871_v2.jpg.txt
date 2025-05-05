@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink blazer? | Yes. |
+| Yes/No | Is the woman in the image holding a microphone? | Yes. |
+| Yes/No | Are the products in the background of the image mainly food items? | Yes. |
+| Yes/No | Is the woman in the image dressed in a revealing or provocative manner? | No. |
+| Yes/No | Does the image have a bright and well-lit atmosphere? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman in the image holding in her right hand? | A microphone. |
+| What | What is the likely setting of the image based on the products in the background? | A supermarket. |
+| How | How is the woman's attire in the image described? | As a pink blazer and a white blouse. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and professional. |

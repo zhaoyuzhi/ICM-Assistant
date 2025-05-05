@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress short-sleeved? | Yes. |
+| Yes/No | Does the dress have a collar? | Yes. |
+| Yes/No | Is the woman carrying a purse? | Yes. |
+| Yes/No | Is the purse white? | Yes. |
+| Yes/No | Is the hallway in the image modern and stylish? | Yes. |
+| What | What color is the woman's dress? | Purple. |
+| What | What is the woman carrying in her hand? | A white purse. |
+| How | How is the woman walking in the hallway? | At a leisurely pace. |
+| How | How does the woman's attire and the overall atmosphere of the image make the image sexy? | The woman's attire, especially the shortsleeved and short dress, and the modern and stylish backdrop of the glass wall and wooden floor, create a sense of confidence and allure. The woman's confident stride and the way she carries her purse also contribute to the overall allure of the image. |

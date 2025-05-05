@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black hat? | Yes. |
+| Yes/No | Is the woman wearing a pink dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Does the image have a romantic and sensual atmosphere? | Yes. |
+| What | What is the man wearing? | A black hat and a black jacket. |
+| What | What is the woman wearing? | A pink dress. |
+| How | How is the woman's head tilted? | The woman's head is tilted to the side. |
+| How | How do the man's black hat and jacket contrast with the woman's pink dress? | The man's black hat and jacket contrast starkly with the woman's pink dress, adding visual appeal to the scene. |

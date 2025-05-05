@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Is the person holding a purse? | Yes. |
+| Yes/No | Is the purse brown? | Yes. |
+| Yes/No | Are the person's shoes white? | Yes. |
+| Yes/No | Is the wall in the background white? | Yes. |
+| What | What color are the person's pants? | Blue. |
+| What | What is the person holding in their left hand? | A purse. |
+| How | How is the person standing? | With their legs slightly apart. |
+| How | How does the mirror in the background affect the image? | It adds depth to the scene, making the person appear larger and more prominent. |

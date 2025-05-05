@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a beige jacket? | Yes. |
+| Yes/No | Is the woman in the image wearing a white hat? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Is the woman leaning on the man's shoulder? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| Yes/No | Does the image have a sensual or sexual atmosphere? | No. |
+| What | What is the color of the man's jacket? | Beige. |
+| What | What is the color of the woman's hat? | White. |
+| How | How are the man and woman positioned in relation to each other? | They are standing close to each other, with the woman leaning on the man's shoulder. |
+| How | How does the low exposure level of the image affect the atmosphere of the picture? | The low exposure level creates a more intimate and personal atmosphere rather than a sensual or sexual one, and focuses attention on the subjects and their surroundings rather than their physical appearance. |

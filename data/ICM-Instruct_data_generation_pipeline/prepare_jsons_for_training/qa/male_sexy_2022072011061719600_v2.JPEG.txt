@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing? | Yes. |
+| Yes/No | Does the image contain any other people? | No. |
+| Yes/No | Is the man in the image facing the camera? | Yes. |
+| Yes/No | Does the image contain any objects other than the man? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image wearing? | A blue and white striped swimsuit. |
+| What | What is the man in the image doing with his hands? | He has his hands on his hips. |
+| How | How is the man in the image standing? | Confidently. |
+| How | How does the blue and white striped swimsuit contribute to the overall atmosphere of the image? | It adds to the sexy atmosphere. |

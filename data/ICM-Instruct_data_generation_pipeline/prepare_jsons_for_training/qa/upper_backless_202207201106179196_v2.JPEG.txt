@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing white underwear? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the image in color? | No. |
+| Yes/No | Does the image feature any other objects or distractions? | No. |
+| Yes/No | Is the atmosphere of the image simple and uncluttered? | Yes. |
+| What | What is the person wearing in the image? | White underwear. |
+| What | What is the dominant color of the image? | Gray. |
+| How | How is the person's back exposed in the image? | The person's back is turned towards the camera, revealing a large area of skin. |
+| How | How does the contrast between the white underwear and the gray wall affect the image? | The contrast accentuates the person's skin, making it appear more prominent and alluring. |

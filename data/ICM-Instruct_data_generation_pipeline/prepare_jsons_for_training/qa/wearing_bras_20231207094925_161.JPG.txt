@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are the straps of the bra pink? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the woman lifting up the bra with both hands? | Yes. |
+| Yes/No | Is the image seductive? | Yes. |
+| Yes/No | Does the image suggest that the woman is comfortable and confident in her appearance? | Yes. |
+| What | What color is the bra? | Light blue. |
+| What | What is the woman doing with the bra? | Putting it on. |
+| How | How is the woman lifting up the bra? | With both hands. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the woman and emphasizes the subject, creating a seductive atmosphere. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Are the straps of the bra pink? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the woman lifting the bra up with both hands? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest that the woman is confident and comfortable in her appearance? | Yes. |
+| What | What is the color of the bra? | Light blue. |
+| What | What is the woman doing in the image? | She is putting on the bra, lifting it up with both hands. |
+| How | How does the plain white background affect the image? | It puts the focus entirely on the woman, emphasizing her and creating a seductive atmosphere. |
+| How | How does the woman's actions of lifting the bra up with both hands suggest about her personality? | It suggests that she is comfortable and confident in her appearance. |

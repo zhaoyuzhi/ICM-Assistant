@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of beige pants and a black top? | Yes. |
+| Yes/No | Is the woman facing the camera? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman's body the main focus of the image? | No. |
+| Yes/No | Is the image meant to be sexy or provocative? | No. |
+| Yes/No | Does the image contain any cluttered background elements? | No. |
+| What | What is the woman's pose in the image? | Neutral. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| How | How does the low exposure level of the image affect the focus of the image? | It shifts the focus from the woman's body to her clothing and the room's interior. |
+| How | How does the white wall and window in the background contribute to the image's overall mood? | They provide a simple, uncluttered backdrop that emphasizes the woman's outfit and the room's interior, adding to the calm and neutral mood of the image. |

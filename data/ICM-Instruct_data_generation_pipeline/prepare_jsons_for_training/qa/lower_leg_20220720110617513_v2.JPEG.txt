@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Are the shorts blue? | Yes. |
+| Yes/No | Do the shorts have hearts on the back pockets? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the bench behind the person made of metal? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the person's sneakers? | Black and white. |
+| What | What is the style of the person's outfit? | Casual and sporty. |
+| How | How are the person's legs positioned? | Slightly apart. |
+| How | How does the person's body face the camera? | Slightly turned to the side. |

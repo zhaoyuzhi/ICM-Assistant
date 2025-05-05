@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress light blue? | Yes. |
+| Yes/No | Does the dress have a high collar? | Yes. |
+| Yes/No | Are the woman's legs crossed? | Yes. |
+| Yes/No | Are her hands resting on her knees? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What is the woman's pose in the image? | She is sitting with her legs crossed and her hands resting on her knees. |
+| What | What is the color of the woman's dress? | Light blue. |
+| How | How is the woman's face visible in the image? | Her face is not clearly visible due to the low exposure level of the image. |
+| How | How does the woman's attire and pose suggest a sense of grace and elegance? | The woman's modest and appropriate attire, combined with her poised and composed posture, convey a sense of grace and elegance. |

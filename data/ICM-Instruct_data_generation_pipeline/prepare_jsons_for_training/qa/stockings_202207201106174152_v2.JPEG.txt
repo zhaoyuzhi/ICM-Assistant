@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing sheer stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing high heels? | Yes. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a thong? | Yes. |
+| Yes/No | Does the woman in the image have her left leg extended? | Yes. |
+| Yes/No | Does the woman in the image have her right leg bent at the knee? | Yes. |
+| What | What color are the woman's stockings? | Light pink. |
+| What | What color are the woman's high heels? | Black. |
+| How | How many articles of clothing is the woman wearing in total? | 5 (sheer stockings, high heels, bra, thong, and a pose). |
+| How | How would you describe the overall atmosphere of the image? | Seductive and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Is the dress strapless? | Yes. |
+| Yes/No | Does the dress have a slit on the left side? | Yes. |
+| Yes/No | Is the woman sitting on a white fur couch? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive? | Yes. |
+| Yes/No | Does the woman's gaze add to the intimacy of the image? | Yes. |
+| What | What is the woman's pose on the couch? | She is sitting with her leg up and her hand on her thigh. |
+| What | What is the color of the fur couch? | White. |
+| How | How does the woman's attire contribute to the alluring atmosphere? | The red strapless dress with a slit on the left side creates an alluring and seductive atmosphere. |
+| How | How does the woman's gaze contribute to the sense of intimacy? | The woman's gaze downwards creates an alluring and seductive atmosphere. |

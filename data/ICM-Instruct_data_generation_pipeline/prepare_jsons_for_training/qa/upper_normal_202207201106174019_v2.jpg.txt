@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Does the woman have a serious expression on her face? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's facial expression in the image? | Serious. |
+| What | What is the color of the woman's top? | White. |
+| How | How is the woman's appearance in the image described? | Neutral, focused on her face rather than her attire or surroundings. |
+| How | How would you describe the overall atmosphere of the image? | Neutral, focused on the woman's appearance rather than her attire or surroundings. |

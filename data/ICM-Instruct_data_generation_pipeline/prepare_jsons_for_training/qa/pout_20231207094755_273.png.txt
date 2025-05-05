@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Are the person's eyes closed? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the person's hair color? | Brown. |
+| What | What is the expression on the person's face? | Seductive/alluring. |
+| How | How are the person's lips positioned? | Puckered. |
+| How | How does the blurred background affect the image? | It draws attention to the subject and creates a sense of intimacy. |

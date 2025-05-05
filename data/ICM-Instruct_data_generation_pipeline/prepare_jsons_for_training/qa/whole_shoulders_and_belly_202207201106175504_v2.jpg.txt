@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Does the outfit have a high slit? | Yes. |
+| Yes/No | Are the ballet slippers white? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What color is the woman's outfit? | Light blue. |
+| What | What type of shoes is the woman wearing? | Ballet slippers. |
+| How | How is the woman sitting on the chair? | With elegance and confidence. |
+| What | What does the woman's attire and pose suggest? | A sense of allure and confidence. |

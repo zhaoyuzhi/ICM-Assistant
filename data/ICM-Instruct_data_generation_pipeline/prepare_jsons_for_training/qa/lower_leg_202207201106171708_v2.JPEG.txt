@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Is the person's blouse tied at the top? | Yes. |
+| Yes/No | Are the person's feet adorned with sandals? | Yes. |
+| Yes/No | Is there a painting of a chair in the background? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image capture a moment of confidence and self-assuredness? | Yes. |
+| What | What color are the shorts the person is wearing? | Blue. |
+| What | What is the person's blouse made of? | Lace. |
+| How | How are the shorts rolled up at the bottom? | They are rolled up at the bottom. |
+| How | How does the painting of the chair and plant in the background add to the image? | They add an artistic touch to the scene, making it more visually appealing. |

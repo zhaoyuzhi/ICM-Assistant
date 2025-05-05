@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a bikini? | Yes. |
+| Yes/No | Is the bikini red and white? | Yes. |
+| Yes/No | Does the bikini have a polka dot design? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing? | A red and white polka dot bikini. |
+| What | What is the background of the image? | The ocean. |
+| How | How is the woman's smile? | The woman's smile is confident and relaxed. |
+| How | How does the image make you feel? | The image creates a relaxed and inviting atmosphere, enhancing the sexy vibe of the picture. |

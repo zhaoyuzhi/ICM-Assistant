@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Does the woman have a pearl necklace? | Yes. |
+| Yes/No | Is the woman holding her finger in her mouth? | Yes. |
+| Yes/No | Is the woman's facial expression visible in the image? | No. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color is the woman's dress? | Pink. |
+| What | What is the woman holding in her mouth? | Her finger. |
+| How | How is the woman's gesture with her finger perceived? | As seductive or provocative. |
+| What | What atmosphere does the image create? | Visually appealing and evocative of sensuality. |

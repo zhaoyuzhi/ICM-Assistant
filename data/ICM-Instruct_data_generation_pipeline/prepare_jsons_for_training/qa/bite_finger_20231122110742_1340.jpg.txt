@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing lipstick? | Yes. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the pink lipstick add a pop of color to the image? | Yes. |
+| Yes/No | Is the person's nose visible in the image? | Yes. |
+| What | What color is the lipstick the person is wearing? | Pink. |
+| What | What is the person's facial expression? | Neutral. |
+| How | How are the person's lips positioned in the image? | Slightly parted. |
+| How | How does the pink lipstick contribute to the overall atmosphere of the image? | It adds a touch of sensuality and allure. |

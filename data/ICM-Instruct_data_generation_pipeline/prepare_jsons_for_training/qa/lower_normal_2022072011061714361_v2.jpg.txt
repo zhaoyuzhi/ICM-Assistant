@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image walking? | Yes. |
+| Yes/No | Is the person carrying a purse? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Is the person wearing a denim skirt? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the image appropriate? | Yes. |
+| What | What is the person in the image carrying? | A white purse. |
+| What | What is the person in the image wearing on their feet? | Black shoes. |
+| How | How is the person's exposure level in the image? | Low. |
+| How | How would you describe the overall atmosphere of the image? | Casual, everyday setting. |

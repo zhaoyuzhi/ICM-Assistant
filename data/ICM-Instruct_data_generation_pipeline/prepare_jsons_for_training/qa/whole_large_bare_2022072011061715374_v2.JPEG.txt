@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman's body facing the camera? | Yes. |
+| Yes/No | Does the image feature a large area of the woman's body exposed? | Yes. |
+| Yes/No | Is the woman wearing a long blue wig? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and provocative? | Yes. |
+| Yes/No | Does the woman's pose on the window sill suggest confidence and self-assuredness? | Yes. |
+| What | What is the woman wearing on her upper body? | A bikini top. |
+| What | What is the color of the woman's wig? | Blue. |
+| How | How is the woman's body positioned in the image? | She is sitting on a window sill. |
+| How | How does the image showcase the woman's sensuality and allure? | Through her attire, pose, and exposure of her body. |

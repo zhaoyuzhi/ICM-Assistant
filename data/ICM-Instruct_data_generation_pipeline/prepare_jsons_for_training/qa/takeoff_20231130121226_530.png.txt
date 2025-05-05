@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking off her clothes? | Yes. |
+| Yes/No | Is the woman standing in a room? | Yes. |
+| Yes/No | Does the image depict a pink wall? | Yes. |
+| Yes/No | Are there plants in the room? | Yes. |
+| Yes/No | Is the woman's top white? | Yes. |
+| Yes/No | Is the woman's skirt beige? | Yes. |
+| What | What is the woman doing in the image? | The woman is taking off her clothes, starting with her skirt. |
+| What | What is the color of the wall in the background? | Pink. |
+| How | How is the woman taking off her clothes? | The woman is taking off her clothes in a provocative manner. |
+| How | How do the plants in the room add to the overall atmosphere of the image? | The plants in the room add a touch of nature and softness to the scene, contrasting with the woman's actions and adding to the overall allure of the image. |

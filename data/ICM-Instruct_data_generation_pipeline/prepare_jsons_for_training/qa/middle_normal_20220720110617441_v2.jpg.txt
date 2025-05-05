@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the person in the image have their hands in their pockets? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What color are the person's trousers? | Beige. |
+| What | What is the person's posture in the image? | Relaxed, with hands in pockets. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The person's attire, including the beige trousers and white shirt, contributes to a casual and relaxed atmosphere. |
+| How | How does the exposure level of the image affect its overall atmosphere? | The low exposure level of the image further contributes to its nonsexual atmosphere, focusing attention on the person's casual attire and relaxed posture rather than any explicit or suggestive elements. |
+| Yes/No | Is the person in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Is the person in the image standing with their hands in their pockets? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the person in the image wearing on their lower body? | Beige trousers. |
+| What | What is the person in the image wearing on their upper body? | A white shirt. |
+| How | How is the person in the image standing? | With their body slightly turned to the side. |
+| What | What is the exposure level of the image? | Very low. |

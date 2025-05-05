@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing yellow leggings? | Yes. |
+| Yes/No | Does the person have a mesh pattern on their leggings? | Yes. |
+| Yes/No | Are the leggings tight-fitting and form-fitting? | Yes. |
+| Yes/No | Is the person wearing white sneakers? | Yes. |
+| Yes/No | Is the person's pose confident and assertive? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the leggings? | Yellow. |
+| What | What type of shoes is the person wearing? | White sneakers. |
+| How | How are the leggings fitting on the person's body? | Tightfitting and formfitting. |
+| How | How does the person's pose and attire contribute to the overall atmosphere of the image? | The person's confident pose and assertive stance, along with the tightfitting and formfitting leggings and contrasting white sneakers, create a visually appealing and sexy atmosphere. The direct gaze at the camera adds to the allure, creating a sense of connection and engagement with the viewer. |

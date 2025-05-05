@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| How | Does the image show the person's face? | No. |
+| Yes/No | Is the person standing on a yoga mat? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | Blue jeans with a hole in the back pocket. |
+| What | What is the person standing on? | A yoga mat. |
+| How | How are the person's buttocks described in the image? | The person's buttocks are described as curvy and accentuated by the tight jeans. |
+| What | What does the image suggest about the person's activity or interests? | The image suggests that the person is interested in fitness or exercise, as they are standing on a yoga mat. |

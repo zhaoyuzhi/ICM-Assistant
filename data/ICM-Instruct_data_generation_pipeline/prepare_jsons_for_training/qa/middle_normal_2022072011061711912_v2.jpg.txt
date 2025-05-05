@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black clothing? | Yes. |
+| Yes/No | Is the wall in the image made of wood? | Yes. |
+| Yes/No | Is the person's pose in the image provocative or sensual? | No. |
+| Yes/No | Does the image feature any bright or bold colors? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image suggest a casual and relaxed atmosphere? | Yes. |
+| What | What is the person in the image wearing? | Black shorts and a black top. |
+| What | What is the color of the wall in the image? | Lightcolored. |
+| How | How is the person's pose in the image? | Neutral, with arms resting at their sides. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the person in the image wearing a pair of black shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Are the shorts made of a stretchy material? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| What | What is the focus of the image? | The person's clothing and pose. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |

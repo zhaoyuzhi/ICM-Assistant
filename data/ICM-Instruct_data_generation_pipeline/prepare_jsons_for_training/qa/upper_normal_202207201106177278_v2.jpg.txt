@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Is the woman holding a small purse in her hand? | Yes. |
+| Yes/No | Is the background of the image plain? | Yes. |
+| Yes/No | Are there any other objects or people visible in the image? | No. |
+| What | What color is the woman's blouse? | White. |
+| What | What color is the woman's skirt? | Black. |
+| How | How is the woman's attire described? | Modest. |
+| What | What is the focus of the image? | The woman's outfit and pose. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman sitting on a bench? | Yes. |
+| Yes/No | Is the woman wearing a white t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have a purple logo? | Yes. |
+| Yes/No | Are the woman's shorts purple? | Yes. |
+| Yes/No | Does the woman have a relaxed pose? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| What | What color is the woman's t-shirt? | White. |
+| What | What color are the woman's shorts? | Purple. |
+| How | How is the woman's pose? | Relaxed. |
+| How | How does the woman's expression look? | Thoughtful/Lost in thought. |

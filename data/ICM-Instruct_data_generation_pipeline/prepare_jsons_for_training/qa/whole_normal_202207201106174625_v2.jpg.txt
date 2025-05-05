@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress black? | Yes. |
+| Yes/No | Does the dress have a yellow collar? | Yes. |
+| Yes/No | Is the woman holding a purse? | Yes. |
+| Yes/No | Are the woman's heels black? | Yes. |
+| Yes/No | Is the living room setting simple and uncluttered? | Yes. |
+| What | What is the color of the couch in the living room? | Gray. |
+| What | What is the color of the woman's shoes? | Black. |
+| How | How is the woman's attire in the image? | Modest. |
+| How | How would you describe the atmosphere of the image? | Innocent and nonsexual. |

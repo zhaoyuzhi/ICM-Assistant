@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a wooden bench? | Yes. |
+| Yes/No | Is the person wearing a white sweater? | Yes. |
+| Yes/No | Are they wearing beige stockings? | Yes. |
+| Yes/No | Is the person putting on their stockings? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the background simple and uncluttered? | Yes. |
+| What | What is the person doing in the image? | Putting on their stockings. |
+| What | What is the color of the person's sweater? | White. |
+| How | How is the person putting on their stockings? | They are holding the stocking up to their leg. |
+| What | What is the overall atmosphere of the image? | Sexy. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Are they wearing beige stockings? | Yes. |
+| Yes/No | Is the person's hand holding the stocking up to their leg? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the contrast of colors between the sweater and stockings add to the visual appeal? | Yes. |
+| Yes/No | Is the background of the image simple and uncluttered? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the person's sweater? | White. |
+| How | How is the person's hand positioned in relation to their leg? | Holding the stocking up. |
+| How | How does the act of putting on stockings contribute to the sexy atmosphere of the image? | It can be seen as an intimate and sensual act. |

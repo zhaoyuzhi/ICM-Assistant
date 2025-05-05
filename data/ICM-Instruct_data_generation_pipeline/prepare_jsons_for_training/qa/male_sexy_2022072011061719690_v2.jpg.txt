@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the man standing with his hands in his pockets? | Yes. |
+| Yes/No | Does the image contain any objects other than the man? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the man's outfit consistent in terms of color? | Yes. |
+| What | What is the man wearing on his feet? | Black shoes. |
+| What | What is the dominant color scheme in the image? | Black and white. |
+| How | How is the man standing in the image? | With his hands in his pockets, facing the camera. |
+| What | What can be inferred about the atmosphere of the image? | Confident and alluring. |

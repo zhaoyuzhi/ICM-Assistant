@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a white crop top and black high-waisted pants? | Yes. |
+| Yes/No | Is the woman's left hand placed on her hip? | Yes. |
+| Yes/No | Is the woman's right hand resting on her thigh? | Yes. |
+| Yes/No | Does the image depict a sexy atmosphere? | Yes. |
+| Yes/No | Are the woman's midriff and thighs visible in the image? | Yes. |
+| Yes/No | Is the woman's pose in the image confident and poised? | Yes. |
+| What | What color are the woman's sneakers in the image? | White. |
+| What | What is the color of the wall in the background of the image? | White. |
+| How | How many hands are visible in the image? | Two. |
+| How | How would you describe the woman's stance in the image? | Poised and confident. |

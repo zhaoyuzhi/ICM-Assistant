@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a navy blue dress? | Yes. |
+| Yes/No | Are the woman's legs exposed in the image? | Yes. |
+| Yes/No | Does the dress have a white collar and cuffs? | Yes. |
+| Yes/No | Is the woman wearing white sneakers in the image? | Yes. |
+| Yes/No | Is the background of the image a beach scene? | Yes. |
+| Yes/No | Does the image evoke a sense of sexiness? | Yes. |
+| What | What color is the woman's dress? | Navy blue. |
+| What | What type of shoes is the woman wearing? | White sneakers. |
+| How | How does the woman's attire contribute to the sexy atmosphere of the image? | The woman's navy blue dress, which falls just above her knees, exposes her legs and gives a sense of confidence and allure. The white collar and cuffs on the dress add a touch of modesty, while the white sneakers provide a casual and sporty vibe. |
+| How | How does the beach setting enhance the sexy atmosphere of the image? | The beach setting is often associated with relaxation, leisure, and enjoyment, which enhances the sexy atmosphere of the image. The combination of the woman's attire and the beach setting creates a captivating image that evokes a sense of allure and intrigue. |

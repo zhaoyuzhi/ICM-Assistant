@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black tights? | Yes. |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Are the stockings being put on by the person in the image beige? | Yes. |
+| Yes/No | Does the image create a sensual atmosphere? | Yes. |
+| Yes/No | Is the person's attire in the image associated with mystery and allure? | Yes. |
+| Yes/No | Does the gray blanket and carpet provide a neutral backdrop for the image? | Yes. |
+| What | What is the person in the image putting on? | Beige stockings. |
+| What | What is the person in the image sitting on? | A gray couch. |
+| How | How are the stockings being put on by the person in the image? | The person is pulling them up. |
+| How | How does the image evoke feelings in the viewer? | The image evokes feelings of allure and desire in the viewer. |
+| Yes/No | Is the person in the image wearing black tights? | Yes. |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Are the stockings being put on by the person beige? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What color are the person's tights? | Black. |
+| What | What is the person in the image doing? | Putting on a pair of beige stockings. |
+| How | How are the stockings being put on by the person? | The person is pulling them up. |
+| How | How does the image evoke feelings? | It evokes feelings of allure and desire through the combination of the person's attire, the overall atmosphere, and the person's actions. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress long? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Does the person's face appear in the image? | No. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the image focused on the person's attire rather than their appearance? | Yes. |
+| What | What is the color of the dress? | Olive green. |
+| What | What is the background color of the image? | White. |
+| How | How does the person's attire appear in the image? | Modest. |
+| How | How does the image's focus on the dress differ from a typical fashion photograph? | The image focuses solely on the dress, without any explicit or suggestive elements or poses, and the person's face is not visible. |

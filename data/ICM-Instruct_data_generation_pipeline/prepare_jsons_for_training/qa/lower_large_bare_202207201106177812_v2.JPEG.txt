@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing high heels? | Yes. |
+| Yes/No | Is the person in the image wearing sheer underwear? | Yes. |
+| Yes/No | Is the person in the image standing with their legs apart? | Yes. |
+| Yes/No | Is the image described as sexy? | Yes. |
+| Yes/No | Does the person in the image have a confident pose? | Yes. |
+| Yes/No | Is the contrast between the black high heels and beige underwear striking? | Yes. |
+| What | What color are the high heels in the image? | Black. |
+| What | What color are the person's underwear in the image? | Beige. |
+| How | How does the person's pose contribute to the overall atmosphere of the image? | The person's pose, with their legs apart and confident stance, suggests selfassuredness and confidence, contributing to the seductive atmosphere of the image. |
+| How | How does the contrast between the black high heels and beige underwear add to the allure of the image? | The contrast between the black high heels and beige underwear creates a striking visual contrast, adding to the allure and seductive atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white wedding dress? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is the woman holding a bouquet of flowers? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have a green headband? | Yes. |
+| Yes/No | Is the tree in the background green? | Yes. |
+| What | What is the woman's pose in the image? | Standing with a bouquet of flowers. |
+| What | What is the occasion suggested by the image? | A celebratory or special occasion, possibly a wedding. |
+| How | How does the woman's exposed back contribute to the image's sexiness? | It accentuates the curvature of the body and draws attention to the waist and hips. |
+| How | How does the bouquet of flowers add to the romantic element of the image? | It suggests a celebration or special occasion and adds a touch of elegance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lower lip? | Yes. |
+| Yes/No | Is the person in the image smiling? | Yes. |
+| Yes/No | Is the image a close-up of the person's face? | Yes. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the person in the image seem confident? | Yes. |
+| What | What is the person in the image biting? | Their lower lip. |
+| What | What is the color of the person's shirt in the image? | Black. |
+| How | How is the person's facial expression in the image? | Slightly smiling. |
+| How | How does the close-up of the person's face make the image feel? | More intimate and engaging. |

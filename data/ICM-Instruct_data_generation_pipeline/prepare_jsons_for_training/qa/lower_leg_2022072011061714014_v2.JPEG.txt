@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing high heels? | Yes. |
+| Yes/No | Is the person wearing a denim skirt? | Yes. |
+| Yes/No | Is the denim skirt torn at the knees? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and style? | Yes. |
+| What | What is the main focus of the image? | The person's legs. |
+| What | What color are the high heels? | Light brown. |
+| How | How does the person's pose suggest confidence? | The person is sitting with their legs crossed, which can be seen as a confident and relaxed pose. |
+| How | How does the torn denim skirt add to the overall aesthetic of the image? | The torn denim skirt adds a casual yet stylish element to the image, contrasting with the more formal high heels and creating a visually appealing combination. |

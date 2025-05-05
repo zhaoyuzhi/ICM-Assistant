@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing glasses? | Yes. |
+| Yes/No | Does the person have long hair? | Yes. |
+| Yes/No | Is the person biting their lip? | Yes. |
+| Yes/No | Is the person looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a seductive or alluring atmosphere? | Yes. |
+| Yes/No | Is the person's facial expression serious? | Yes. |
+| What | What is the person's facial expression? | Serious. |
+| What | What is the person biting? | Their lip. |
+| How | How does the person's direct gaze into the camera contribute to the image's atmosphere? | It adds an air of intimacy and allure. |
+| How | How do the gray hair and glasses enhance the image's alluring quality? | They add a unique and intriguing touch. |

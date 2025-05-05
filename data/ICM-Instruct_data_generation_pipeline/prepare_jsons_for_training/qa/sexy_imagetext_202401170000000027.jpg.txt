@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image hugging the woman from behind? | Yes. |
+| Yes/No | Are the man and woman smiling in the image? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the man wearing a white shirt in the image? | Yes. |
+| Yes/No | Is the woman wearing a pink shirt in the image? | Yes. |
+| Yes/No | Does the image depict a sense of protectiveness and closeness between the man and woman? | Yes. |
+| What | What is the man doing in the image? | Hugging the woman from behind. |
+| What | What is the woman doing in the image? | Laughing and enjoying the man's company. |
+| How | How is the man expressing his closeness to the woman in the image? | Through his action of hugging her from behind. |
+| How | How is the woman expressing her enjoyment of the man's company in the image? | Through her laughter and playful expression. |

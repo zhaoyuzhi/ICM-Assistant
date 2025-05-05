@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Are the leggings high-waisted? | Yes. |
+| Yes/No | Do the leggings have a vibrant color scheme? | Yes. |
+| Yes/No | Is the person's pose confident and assertive? | Yes. |
+| Yes/No | Are the white sneakers a contrast to the vibrant colors of the leggings? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the color scheme of the leggings? | Purple, blue, and teal. |
+| What | What is the person's pose in the image? | Hands resting on hips. |
+| How | How do the leggings accentuate the person's figure? | They are formfitting and highwaisted. |
+| How | How does the image create a sense of energy and confidence? | Through the bold and confident pose, vibrant colors, and focus on the person's attire. |

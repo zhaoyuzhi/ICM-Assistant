@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's pants black? | Yes. |
+| Yes/No | Is the man laying on his stomach in the water? | Yes. |
+| Yes/No | Are the man's clothes soaked? | Yes. |
+| Yes/No | Does the image suggest the man has been in the water for some time? | Yes. |
+| Yes/No | Is the man enjoying his time in the water? | Yes. |
+| What | What color are the man's clothes? | White and black. |
+| What | What is the man doing in the water? | Swimming or playing. |
+| How | How does the man look in the image? | Attractive and alluring. |
+| What | What atmosphere does the image create? | Sensual and inviting. |

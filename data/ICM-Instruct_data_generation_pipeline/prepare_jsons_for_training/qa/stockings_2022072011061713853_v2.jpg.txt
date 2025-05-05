@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image lying on their back? | No. |
+| Yes/No | Are the garters black? | Yes. |
+| Yes/No | Is the fur rug white? | Yes. |
+| Yes/No | Does the image depict an intimate atmosphere? | Yes. |
+| Yes/No | Does the image feature any bright colors? | No. |
+| What | What is the person in the image wearing on their legs? | Sheer black stockings with a fishnet pattern. |
+| What | What is the material of the garters? | Lace. |
+| How | How are the person's legs positioned in the image? | Bent at the knees. |
+| How | How would you describe the overall atmosphere of the image? | Sensual and intimate. |

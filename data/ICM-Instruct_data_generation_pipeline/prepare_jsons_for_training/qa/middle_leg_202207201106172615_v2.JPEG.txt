@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Does the skirt have a high waist? | Yes. |
+| Yes/No | Is the skirt made of a shiny material? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Is the woman standing against a white wall? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She is standing with her hands on her hips. |
+| What | What color is the woman's top? | White. |
+| How | How does the contrast between the woman's outfit and the background contribute to the image's atmosphere? | It adds to the overall allure of the image by creating a visually appealing contrast between the black skirt and the white wall. |
+| How | How does the woman's pose contribute to the image's atmosphere? | Her confident and assertive pose, with her hands on her hips, enhances the sexy atmosphere by conveying a sense of selfassurance and confidence. |

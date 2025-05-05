@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman holding her hand in her pocket? | Yes. |
+| Yes/No | Are the woman's pants slightly pulled down, revealing her underwear? | Yes. |
+| Yes/No | Is the background of the image a blurred orange color? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and vulnerability? | Yes. |
+| What | What color are the woman's jeans? | Blue. |
+| What | What is the color of the background in the image? | Orange. |
+| How | How is the woman posing in the image? | She is holding her hand in her pocket and her pants are slightly pulled down, creating a casual and relaxed vibe. |
+| How | How does the image create a sense of intimacy and vulnerability? | The woman's exposed belly and the revealing nature of her clothing create a sense of intimacy and vulnerability, while the blue jeans and orange background add a pop of color and visual appeal. The woman's pose also adds a casual and relaxed vibe to the image. |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the image feature a button fly on the jeans? | Yes. |
+| Yes/No | Is the person's hand resting on their hip in the image? | Yes. |
+| Yes/No | Is the background of the image a blurred orange color? | Yes. |
+| How | Does the image showcase a relaxed and confident posture? | Yes. |
+| What | What is the primary color of the jeans in the image? | Blue. |
+| What | What is the color of the background in the image? | Orange. |
+| How | How does the person's hand resting on their hip accentuate their posture? | It adds a touch of confidence and relaxation to their overall demeanor. |
+| How | How does the contrast between the blue jeans and orange background contribute to the image's visual appeal? | It creates a vibrant and eyecatching element that draws the viewer's attention to the person in the image. |

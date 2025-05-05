@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing sweatpants? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Is the person's elbow resting on their hip? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the image low-key? | Yes. |
+| Yes/No | Does the image have a white background? | Yes. |
+| What | What color are the sweatpants? | Beige. |
+| What | What is the logo on the back pocket of the sweatpants? | Small. |
+| How | How is the person standing in the image? | Against a white background. |
+| What | What is the focus of the image? | The person's clothing and pose. |
+| Yes/No | Is the person in the image wearing a pair of beige sweatpants? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Is the person's elbow resting on their hip? | Yes. |
+| Yes/No | Does the sweatpants have a small tag on the back pocket? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| What | What color are the sweatpants? | Beige. |
+| What | What is the person's pose in the image? | Standing with hand in pocket and elbow resting on hip. |
+| How | How is the person's shirt contrasting with the sweatpants? | The white shirt contrasts with the beige color of the sweatpants. |
+| How | How would you describe the focus of the image? | The focus of the image is on the person's outfit and their relaxed stance, rather than on any provocative or sensual elements. |

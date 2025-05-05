@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing swim trunks? | Yes. |
+| Yes/No | Are the swim trunks green and white in color? | Yes. |
+| Yes/No | Does the image feature a sexy or revealing pose? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the swim trunks designed with a drawstring waist? | Yes. |
+| Yes/No | Does the image suggest any intimate details about the man's body? | No. |
+| What | What is the main focus of the image? | The man's attire, specifically his colorful and patterned swim trunks. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How are the swim trunks designed to fit the man's waist? | They are designed with a drawstring waist, allowing for a comfortable fit. |
+| How | How does the image contrast the man's attire with the background? | The vibrant colors of the swim trunks contrast with the white background, making the attire the main focus of the image. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the swim trunks green with a floral pattern? | Yes. |
+| Yes/No | Does the man have a drawstring waist on his swim trunks? | Yes. |
+| Yes/No | Are the man's hands tucked into his pockets? | Yes. |
+| Yes/No | Is the overall atmosphere of the image simple and unassuming? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the man's t-shirt? | White. |
+| What | What is the pattern on the man's swim trunks? | Floral. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How does the white background affect the focus of the image? | It emphasizes the focus on the man and his clothing, rather than any distractions or provocative elements. |

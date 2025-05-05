@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a tattoo? | Yes. |
+| Yes/No | Is the tattoo located on the person's belly button? | Yes. |
+| Yes/No | Is the person wearing a belt? | Yes. |
+| Yes/No | Are the person's jeans ripped or distressed? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| What | What is the person's fashion style in the image? | Casual and comfortable. |
+| What | What is the dominant feature in the image? | The belly button tattoo. |
+| How | How does the tattoo on the belly button add to the person's appearance? | It adds a unique and personal touch. |
+| How | How does the image create an atmosphere of confidence and self-expression? | The combination of the tattoo, belt, and jeans suggests a confident and selfexpressive person. |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Is the person in the image wearing a hat? | No. |
+| Yes/No | Does the person in the image have a tattoo? | Yes. |
+| Yes/No | Is the tattoo a heart? | Yes. |
+| Yes/No | Does the tattoo have a bite mark? | Yes. |
+| Yes/No | Is the person in the image wearing a belly button ring? | Yes. |
+| What | What is the person in the image wearing around their waist? | A belt. |
+| What | What is the person in the image wearing on their feet? | Jeans. |
+| How | How is the person's belly exposed? | The person's belly is exposed because they are not wearing a shirt or a jacket. |
+| How | How does the belly button ring contribute to the overall aesthetic of the image? | The belly button ring adds to the edgy and bold aesthetic of the image, complementing the person's confident and selfexpressive demeanor. |

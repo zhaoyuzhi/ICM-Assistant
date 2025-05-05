@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a strapless dress? | Yes. |
+| Yes/No | Does the dress feature a floral pattern? | Yes. |
+| Yes/No | Does the dress have a ruffled hem? | Yes. |
+| Yes/No | Is the woman carrying a woven purse? | Yes. |
+| Yes/No | Does the image convey a sense of movement and dynamism? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the woman's confident stride towards the camera suggestive of? | Allure and intrigue. |
+| How | How does the ruffled hem of the dress add a playful element to her outfit? | It adds a touch of whimsy and elegance to her overall look. |
+| How | How does the woven purse complement the woman's attire? | It complements her dress by adding a natural and earthy element to her overall look, creating a harmonious and stylish appearance. |

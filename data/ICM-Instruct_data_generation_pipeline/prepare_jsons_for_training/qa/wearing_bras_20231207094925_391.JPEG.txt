@@ -1,0 +1,16 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the woman holding in both hands? | The bra. |
+| What | What is the woman doing in the image? | Adjusting the bra. |
+| How | How is the woman holding the bra? | With both hands. |
+| What | What is the overall atmosphere of the image? | Intimate and seductive. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the woman holding in her hands? | The bra. |
+| What | What is the woman doing in the image? | Adjusting the bra. |
+| How | How is the woman's attire in the image described? | The woman is wearing a black bra, which is often associated with intimacy and sensuality. |
+| How | How does the image evoke feelings? | The image evokes feelings of allure and attractiveness due to the woman's actions and attire. |

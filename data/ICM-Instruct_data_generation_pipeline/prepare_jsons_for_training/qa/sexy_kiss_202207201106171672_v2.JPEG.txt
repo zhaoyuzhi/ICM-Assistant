@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a red jacket? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image depict a romantic scene? | Yes. |
+| Yes/No | Is the composition of the image balanced? | Yes. |
+| What | What is the color of the man's jacket? | Red. |
+| What | What is the color of the woman's dress? | Black. |
+| How | How are the man and woman positioned in the frame? | The man is positioned on the right, the woman is positioned on the left. |
+| How | How does the image create a sense of intimacy and connection? | The image creates a sense of intimacy and connection through the close proximity of the man and woman, their passionate kiss, and the contrasting colors of their attire. |

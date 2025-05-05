@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red shirt? | Yes. |
+| Yes/No | Are blue jeans present in the image? | Yes. |
+| Yes/No | Is the woman standing with her body facing the camera? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the woman wearing a strapless shirt? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| What | What color is the woman's shirt? | Red. |
+| What | What type of clothing is the woman wearing? | Blue jeans. |
+| How | How is the woman standing in the image? | With her hands on her hips. |
+| What | What atmosphere does the combination of the woman's clothing and pose create? | Stylish and alluring. |

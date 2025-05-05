@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of white shorts? | Yes. |
+| Yes/No | Does the sign on the wall behind the woman read "COS"? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Is the woman wearing a gray sweater? | Yes. |
+| Yes/No | Does the woman have a black purse? | Yes. |
+| Yes/No | Is the woman's pose in the image casual and stylish? | Yes. |
+| What | What color are the woman's shorts? | White. |
+| What | What is the woman's purse color? | Black. |
+| How | How does the woman's outfit create a contrast that highlights her body? | The white shorts and gray sweater combination creates a contrast that highlights her body. |
+| How | How does the woman's pose and attire give off a confident and alluring vibe? | The woman's pose, combined with her attire, gives off a confident and alluring vibe because it highlights her body in a flattering way while also appearing relaxed and natural. |

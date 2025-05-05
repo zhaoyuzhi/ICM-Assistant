@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray sweater? | Yes. |
+| Yes/No | Is the woman in the image wearing an orange skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the woman in the image wearing a strapless or midriff-baring outfit? | Yes. |
+| Yes/No | Does the woman in the image have a confident stride? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's sweater? | Gray. |
+| What | What is the woman holding in her hand? | A purse. |
+| How | How is the woman's stride described? | Confident. |
+| How | How does the woman's body language enhance the sexy vibe of the image? | Her confident stride and the way she carries herself further enhance the sexy vibe of the image. |

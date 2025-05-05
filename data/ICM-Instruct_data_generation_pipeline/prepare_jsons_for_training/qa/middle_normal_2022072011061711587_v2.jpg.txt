@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a striped shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the person in the image holding a purse? | Yes. |
+| Yes/No | Is the person in the image standing in a provocative pose? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sensual or sexual? | No. |
+| What | What is the person in the image wearing on their upper body? | A striped shirt. |
+| What | What is the person in the image wearing on their lower body? | A black skirt. |
+| How | How is the person in the image standing? | With a relaxed pose and their hand resting on their hip. |
+| How | How would you describe the exposure level of the image? | Low, focusing on the person's torso and lower body. |
+| Yes/No | Is the person in the image wearing a red and white striped shirt? | Yes. |
+| Yes/No | Are they wearing black shorts with a frayed hem? | Yes. |
+| Yes/No | Is the person's pose relaxed, with their hand resting on their hip? | Yes. |
+| Yes/No | Is the background of the image a street with a building and a tree visible? | Yes. |
+| Yes/No | Is the exposure level of the image low, making the person's face not visible? | Yes. |
+| Yes/No | Does the person's outfit and pose suggest a relaxed, informal setting rather than a provocative or seductive one? | Yes. |
+| What | What is the color of the person's shirt? | Red and white striped. |
+| What | What is the person's pose in the image? | Relaxed, with hand resting on hip. |
+| How | How is the person's outfit and pose depicted in the image? | Casual and everyday. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It does not focus on the person's appearance or body, adding to the casual atmosphere. |

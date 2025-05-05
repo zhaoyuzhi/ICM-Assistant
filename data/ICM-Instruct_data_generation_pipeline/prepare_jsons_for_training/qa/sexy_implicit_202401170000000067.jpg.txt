@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white tank top? | Yes. |
+| Yes/No | Is the popsicle the woman is eating chocolate flavored? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive? | Yes. |
+| What | What is the woman eating in the image? | A chocolate popsicle. |
+| What | What color is the woman's tank top in the image? | White. |
+| How | How is the woman's pose in the image creating a sense of indulgence and sensuality? | The woman's pose with the melted white cream around her mouth creates a sense of indulgence and sensuality. |
+| How | How does the plain white background of the image affect the overall atmosphere? | The plain white background puts the focus entirely on the woman and her actions, further emphasizing the allure. |

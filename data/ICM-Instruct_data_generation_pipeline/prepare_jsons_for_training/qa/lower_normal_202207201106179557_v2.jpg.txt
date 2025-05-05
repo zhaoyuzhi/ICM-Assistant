@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black socks? | Yes. |
+| Yes/No | Is the person in the image wearing black shoes? | Yes. |
+| Yes/No | Does the shoe have a gold buckle? | Yes. |
+| Yes/No | Is the sock made of a stretchy material? | Yes. |
+| Yes/No | Is the person wearing a black skirt? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the color of the background in the image? | Blue. |
+| What | What is the person holding up in the image? | Their foot. |
+| How | How is the person's footwear depicted in the image? | The person is showing their shoe and sock. |
+| What | What atmosphere does the image convey? | Calm and focused on the person's footwear. |

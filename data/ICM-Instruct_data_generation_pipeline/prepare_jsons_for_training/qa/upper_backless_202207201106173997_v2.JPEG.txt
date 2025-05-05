@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the sleeves of the dress long? | Yes. |
+| Yes/No | Is the fabric of the dress sheer? | Yes. |
+| Yes/No | Does the woman have a significant amount of her back exposed in the image? | Yes. |
+| Yes/No | Is the woman looking out the window with a slight smile on her face? | Yes. |
+| What | What color are the curtains in the background of the image? | White. |
+| What | What is the mood or atmosphere of the image? | Elegant, sophisticated, and slightly provocative. |
+| How | How does the woman's pose in the image contribute to its overall mood or atmosphere? | Her pose, looking out the window with a slight smile, adds a sense of intrigue and allure to the image. |
+| How | How does the sheer fabric of the dress contribute to the overall aesthetic of the image? | The sheer fabric creates a sense of elegance and sophistication, while also adding to the provocative nature of the image by revealing the woman's back. |

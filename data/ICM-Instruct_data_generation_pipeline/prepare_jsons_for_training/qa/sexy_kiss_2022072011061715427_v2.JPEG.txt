@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Is the image intimate and romantic? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | A white shirt. |
+| What | What is the woman wearing? | A white top. |
+| How | How are the man and woman positioned in the image? | They are in a passionate embrace, with the woman's lips pressed against the man's. |
+| How | How does the blurred background affect the image? | It puts the focus on the couple, emphasizing their connection and making the image feel more personal and private. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Does the logo on the shorts match the color of the top? | No. |
+| Yes/No | Is the atmosphere of the image formal? | No. |
+| Yes/No | Are the shorts designed to be form-fitting? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| How | Does the image depict a scene from a fashion show? | No. |
+| What | What color are the shorts? | Light pink. |
+| What | What is the color of the logo on the shorts? | White. |
+| How | How are the shorts designed to fit the person's waist? | With a drawstring waist. |
+| How | How does the image convey a sense of confidence and self-assuredness? | Through the person's relaxed posture and the casual atmosphere. |

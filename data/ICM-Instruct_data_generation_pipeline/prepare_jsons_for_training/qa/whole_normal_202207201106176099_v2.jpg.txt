@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a gray sweater? | Yes. |
+| Yes/No | Are the man's eyes closed in the image? | Yes. |
+| Yes/No | Is the man holding a cell phone to his ear in the image? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image depict any other people or objects besides the man on the couch? | No. |
+| Yes/No | Is the man engaged in a conversation on his cell phone, as depicted in the image? | Yes. |
+| What | What is the man wearing in the image? | A gray sweater. |
+| What | What is the man doing in the image? | Engaged in a conversation on his cell phone. |
+| How | How is the man sitting on the couch in the image? | He is sitting with his eyes closed and holding a cell phone to his ear. |
+| How | How does the image depict the man's interaction with the cell phone? | The man appears to be engaged in a conversation on the cell phone, but the specific details of the conversation are not discernible from the image. |

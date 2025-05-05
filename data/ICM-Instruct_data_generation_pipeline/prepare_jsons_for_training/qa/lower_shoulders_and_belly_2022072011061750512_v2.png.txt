@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the leggings colored in a gradient? | Yes. |
+| Yes/No | Is the person's pose dynamic? | Yes. |
+| Yes/No | Does the image capture a moment of confidence? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the leggings? | Blue and white. |
+| What | What is the person's pose? | One leg slightly bent, one leg extended straight. |
+| How | How do the leggings fit the person's body? | Formfitting. |
+| How | How does the image capture the person's confidence? | Through the person's attire and pose. |

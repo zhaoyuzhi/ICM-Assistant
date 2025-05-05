@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a burgundy dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is there a slit up the back of the dress? | Yes. |
+| Yes/No | Is the woman holding a black purse? | Yes. |
+| Yes/No | Is the woman standing in front of a building with a green awning? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| What | What is the color of the woman's purse? | Black. |
+| What | What is the color of the awning behind the woman? | Green. |
+| How | How is the woman posing in the image? | With her arms raised above her head, possibly adjusting her hair or simply posing. |
+| What | What can be inferred about the woman's confidence level based on her attire and pose? | She exudes confidence and allure, which can be perceived as sexy. |

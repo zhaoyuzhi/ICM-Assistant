@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the image feature a person's belly button? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the style of the jeans in the image? | Classic style with a button fly and a zipper pocket. |
+| What | What is the color of the jeans in the image? | Blue. |
+| How | How does the image capture a moment of vulnerability and intimacy? | The person's exposed belly and relaxed pose create a sense of vulnerability and intimacy. |
+| How | How does the image convey confidence and self-assuredness? | The person's exposed belly and the blue jeans create a sense of confidence and selfassuredness. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person in the image have a tattoo? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person wearing a belly button ring? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the jeans slightly faded? | Yes. |
+| What | What is the color of the jeans? | Blue. |
+| What | What is the type of fly on the jeans? | Button fly. |
+| How | How does the person's tattoo contribute to the image's overall atmosphere? | It suggests a sense of confidence and selfexpression, adding to the image's sensuality and allure. |
+| How | How does the belly button ring contribute to the image's overall atmosphere? | It adds a touch of edginess and intimacy, enhancing the image's sexy vibe. |

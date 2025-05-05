@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman standing on a beach in the image? | Yes. |
+| Yes/No | Is the beach in the background sandy? | Yes. |
+| Yes/No | Is the sky above the beach clear? | Yes. |
+| Yes/No | Is the woman's body turned to the side in the image? | Yes. |
+| What | What is the woman wearing in the image? | A black skirt and a white top. |
+| What | What is the setting of the image? | A beach. |
+| How | How is the woman standing in the image? | With her body turned to the side. |
+| How | How does the image make you feel? | The image may evoke feelings of sensuality or allure due to the woman's provocative outfit, the beach setting, and the clear sky in the background. |

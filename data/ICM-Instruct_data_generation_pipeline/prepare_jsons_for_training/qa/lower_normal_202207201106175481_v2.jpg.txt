@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sweatshirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the background of the image red? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image energetic and dynamic? | Yes. |
+| What | What is the person in the image wearing? | A white sweatshirt and black pants. |
+| What | What is the color of the background in the image? | Red. |
+| How | How is the person moving in the image? | They are running towards the camera. |
+| How | How would you describe the overall atmosphere of the image? | Energetic and dynamic. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the boy the main subject of the image? | Yes. |
+| Yes/No | Is the boy wearing a white sweatshirt with a graphic on the front? | Yes. |
+| Yes/No | Is the boy holding a blue ball in his right hand? | Yes. |
+| Yes/No | Is the background of the image a solid yellow color? | Yes. |
+| Yes/No | Is the boy's position in the image central? | Yes. |
+| Yes/No | Is the boy facing the camera directly? | Yes. |
+| What | What is the boy holding in his hand? | A blue ball. |
+| What | What is the color of the background? | Yellow. |
+| How | How is the boy positioned in the image? | Centrally, facing the camera directly. |
+| How | How would you describe the overall atmosphere of the image? | Cheerful and playful. |

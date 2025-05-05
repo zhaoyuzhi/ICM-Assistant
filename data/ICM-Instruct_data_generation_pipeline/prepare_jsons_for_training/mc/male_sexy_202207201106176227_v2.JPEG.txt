@@ -1,0 +1,7 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What is the gender of the person in the image? |A. Male |B. Female |C. Non-binary |D. Unknown |B. |
+| What is the skin tone of the person in the image? |A. Dark |B. Light |C. Medium |D. Unknown |B. |
+| What is the color of the person's hair in the image? |A. Blonde |B. Brown |C. Black |D. Red |C. |
+| Is the person in the image wearing any clothing? |A. Yes |B. No |C. Partially |D. Unknown |B. |
+| What is the mood of the image? |A. Sad |B. Happy |C. Sensual |D. Angry |C. |

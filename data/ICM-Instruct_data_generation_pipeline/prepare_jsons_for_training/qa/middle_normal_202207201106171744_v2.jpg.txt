@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Does the person in the image have their hand in their pocket? | Yes. |
+| Yes/No | Is the person in the image looking down? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and non-sexual? | Yes. |
+| What | What color is the logo on the person's sweatpants? | White. |
+| What | What is the person's posture in the image? | Relaxed and nonthreatening. |
+| How | How is the person's hand positioned in the image? | In their pocket. |
+| How | How would you describe the focus of the image? | The person's lower body. |
+| Yes/No | Is the person in the image wearing blue sweatpants? | Yes. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Does the person in the image have their hand in their pocket? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the person in the image engaged in any specific action? | No. |
+| Yes/No | Does the image contain any intimate details or suggestive poses? | No. |
+| What | What is the color of the logo on the person's sweatpants? | White. |
+| What | What is the atmosphere of the image? | Calm and relaxed. |
+| How | How is the person standing in the image? | Still. |
+| How | How much of the person's body is visible in the image? | A small portion. |

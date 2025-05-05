@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray tights? | Yes. |
+| Yes/No | Is the person in the process of putting on beige stockings? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's knees bent? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with sensuality and intimacy? | Yes. |
+| What | What is the person in the image wearing? | A pair of gray tights and a pair of beige stockings. |
+| What | What is the person in the image doing? | Putting on a pair of beige stockings. |
+| How | How are the person's legs positioned in the image? | Crossed and bent. |
+| How | How does the image capture a private moment of the person? | The person is in the process of putting on their stockings, a personal and intimate act. |
+| Yes/No | Is the person in the image wearing gray tights? | Yes. |
+| Yes/No | Is the person in the image putting on beige stockings? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's knees bent? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | Gray tights and beige stockings. |
+| What | What is the person in the image doing? | Putting on their stockings. |
+| How | How are the person's legs positioned? | Crossed and bent. |
+| How | How does the image capture a private moment? | It shows the person putting on their stockings, which is a personal and intimate act. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the central figure in the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a white t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have a graphic of a teddy bear on it? | Yes. |
+| Yes/No | Is the woman wearing a plaid skirt? | Yes. |
+| Yes/No | Are the colors of the plaid skirt blue and red? | Yes. |
+| Yes/No | Is the woman striking a pose with her left hand on her hip and her right hand resting on her thigh? | Yes. |
+| What | What is the woman's pose in the image? | She is striking a pose with her left hand on her hip and her right hand resting on her thigh. |
+| What | What is the atmosphere created by the combination of the woman's outfit and the image's background? | The atmosphere created is both confident and bold, making the image sexy. |
+| How | How does the white t-shirt with the teddy bear graphic add to the woman's outfit? | It adds a playful element to her outfit. |
+| How | How does the plaid skirt with its bold colors add to the woman's outfit? | It adds a touch of boldness to her outfit. |

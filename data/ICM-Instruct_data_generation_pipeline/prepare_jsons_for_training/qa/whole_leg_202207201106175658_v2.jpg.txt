@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black blouse? | Yes. |
+| Yes/No | Does the woman have a red purse? | Yes. |
+| Yes/No | Are the woman's heels black? | Yes. |
+| Yes/No | Is the woman's skirt high-waisted? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Does the woman have long sleeves? | Yes. |
+| What | What color is the woman's purse? | Red. |
+| What | What is the color of the woman's shoes? | Black. |
+| How | How does the woman carry herself in the image? | Confidently. |
+| How | How does the gray background affect the image? | It provides a neutral backdrop that allows the woman and her outfit to stand out. |

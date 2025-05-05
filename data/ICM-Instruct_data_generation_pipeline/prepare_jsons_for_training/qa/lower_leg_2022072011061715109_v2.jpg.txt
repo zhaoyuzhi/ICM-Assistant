@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman sitting on a couch? | Yes. |
+| Yes/No | Is she wearing a brown leather boot? | Yes. |
+| Yes/No | Is she wearing a black jacket? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is she looking down at her hand? | Yes. |
+| Yes/No | Is the background a plain white wall? | Yes. |
+| What | What color is the woman's boot? | Brown. |
+| What | What is the woman's hand resting on? | Her knee. |
+| How | How is the woman sitting on the couch? | Seductively. |
+| How | How does the black jacket contrast with the white background? | It creates a striking contrast, making the woman stand out. |

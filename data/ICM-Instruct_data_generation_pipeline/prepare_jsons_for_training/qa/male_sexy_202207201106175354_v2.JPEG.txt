@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing any other clothing besides boxer briefs? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man in the image smiling? | No. |
+| Yes/No | Is the image in a landscape orientation? | No. |
+| What | What color are the boxer briefs the man is wearing? | Blue. |
+| What | What is the man in the image looking at? | The camera. |
+| How | How is the man in the image posing? | He is standing with his body facing the camera, looking directly at it. |
+| How | How does the image make the viewer feel? | The image is sexy, intimate, and seductive, making the viewer feel connected and engaged with the man in the image. |

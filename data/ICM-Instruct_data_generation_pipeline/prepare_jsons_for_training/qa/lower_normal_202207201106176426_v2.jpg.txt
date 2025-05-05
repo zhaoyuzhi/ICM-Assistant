@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a white dress? | Yes. |
+| Yes/No | Is the background of the image yellow? | Yes. |
+| Yes/No | Does the woman have a confident and poised posture in the image? | Yes. |
+| Yes/No | Is the image sexually suggestive or explicit? | No. |
+| Yes/No | Does the image convey a professional and elegant atmosphere? | Yes. |
+| Yes/No | Is the woman's attire in the image formal or informal? | Formal. |
+| What | What is the woman's attire in the image? | A white dress. |
+| What | What is the color of the background in the image? | Yellow. |
+| How | How does the woman's posture in the image suggest her personality? | Confident and selfassured. |
+| How | How does the image's focus on the woman's attire and posture create an atmosphere? | Elegant and professional. |

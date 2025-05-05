@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying down? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person wearing a short skirt? | Yes. |
+| Yes/No | Is the person's lower body exposed? | Yes. |
+| Yes/No | Is the person in a relaxed position? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person's posture in the image? | Relaxed. |
+| What | What is the person wearing in the image? | A short skirt. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the person's posture and the exposure of their lower body contribute to the overall allure of the image? | They create an atmosphere of intimacy and allure. |

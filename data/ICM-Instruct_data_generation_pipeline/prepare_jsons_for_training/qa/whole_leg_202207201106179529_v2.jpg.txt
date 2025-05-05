@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman wearing a green sweater? | Yes. |
+| Yes/No | Are her heels beige? | Yes. |
+| Yes/No | Is she holding a purse? | Yes. |
+| Yes/No | Is the background white? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What color is the woman's sweater? | Green. |
+| How | How does the woman hold her purse? | The woman holds her purse in her hand with a sense of confidence and allure. |
+| How | How do the woman's heels complement her outfit? | The woman's beige heels add a touch of sophistication to her outfit and complement her black skirt and green sweater, creating a striking contrast. |

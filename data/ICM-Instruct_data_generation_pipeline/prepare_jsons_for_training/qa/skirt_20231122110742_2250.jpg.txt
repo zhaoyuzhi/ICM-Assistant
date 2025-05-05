@@ -1,0 +1,13 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | --- | ---. |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Are the woman's legs and thighs exposed in the image? | Yes. |
+| Yes/No | Is the dress made of a sheer fabric? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color is the dress? | White. |
+| What | What is the fabric of the dress? | Sheer. |
+| How | How is the woman holding the dress? | She is lifting it. |
+| How | How does the woman's pose and the way she holds the dress suggest? | Suggests confidence and allure. |

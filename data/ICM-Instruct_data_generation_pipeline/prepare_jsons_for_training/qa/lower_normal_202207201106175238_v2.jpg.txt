@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the woman carrying a purse? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image depict a provocative or suggestive scene? | No. |
+| Yes/No | Is the woman's attire revealing or provocative? | No. |
+| How | Does the image show the woman's face? | No. |
+| What | What is the woman carrying? | A red purse. |
+| What | What is the woman wearing? | A brown plaid dress. |
+| How | How is the woman moving in the image? | Her movements are smooth and unhurried. |
+| How | How does the image create a sense of modesty and innocence? | The image creates a sense of modesty and innocence through the woman's attire, the wooden floor, and the overall calm atmosphere. The low exposure level of the woman also contributes to this sense of modesty, as it only shows her lower body and does not reveal any intimate details. |

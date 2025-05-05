@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black clothing? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and neutral? | Yes. |
+| Yes/No | Does the person's attire and pose suggest a relaxed, everyday setting? | Yes. |
+| What | What is the person wearing on their feet? | White sneakers. |
+| What | What is the color of the person's clothing? | Black. |
+| How | How many articles of clothing are visible in the image? | 3 (black sweatpants, black tshirt, white sneakers). |
+| What | What is the exposure level of the image? | Low (only the person's torso and legs are visible). |

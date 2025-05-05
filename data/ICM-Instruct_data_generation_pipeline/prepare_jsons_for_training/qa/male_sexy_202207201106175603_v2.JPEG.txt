@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the background of the image plain? | Yes. |
+| Yes/No | Is the man standing? | Yes. |
+| Yes/No | Does the image contain other objects or people? | No. |
+| Yes/No | Does the image highlight the man's muscular physique? | Yes. |
+| Yes/No | Does the image create a sense of intimacy? | Yes. |
+| What | What is the man's physique like? | Muscular. |
+| What | What is the color of the background? | Black. |
+| How | How does the image highlight the man's body? | The image emphasizes the man's body by not including other objects or people, creating a focus solely on him, and the black background draws attention to his welldefined muscles and chest. |
+| How | How does the image create a sense of atmosphere? | The image creates a seductive and provocative atmosphere by showcasing the man's physical attributes in a bold and confident manner. |

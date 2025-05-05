@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image swimming? | Yes. |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Does the bikini top have a floral pattern? | Yes. |
+| Yes/No | Is the bikini top low-cut? | Yes. |
+| Yes/No | Are the person's arms extended? | Yes. |
+| Yes/No | Are the person's legs bent? | Yes. |
+| What | What is the person in the image doing? | Swimming. |
+| What | What is the person in the image wearing? | A white and blue bikini top with a floral pattern. |
+| How | How is the person swimming? | With her arms extended and legs bent. |
+| How | How does the water around the person look? | Splashing, indicating her movement through the pool. |

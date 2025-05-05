@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Are they wearing leggings? | Yes. |
+| Yes/No | Is their back exposed? | Yes. |
+| Yes/No | Is the atmosphere of the image dark and moody? | Yes. |
+| How | Does the image showcase the person's athletic physique? | Yes. |
+| Yes/No | Is the low-angle shot used to create intimacy? | Yes. |
+| What | What color is the person's sports bra? | Black. |
+| What | What color are their leggings? | Pink. |
+| How | How is the person positioned in the image? | Squatting. |
+| What | What kind of atmosphere does the image have? | Dark and moody. |

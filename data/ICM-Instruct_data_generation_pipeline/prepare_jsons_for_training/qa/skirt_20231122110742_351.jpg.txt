@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of a soft fabric? | Yes. |
+| Yes/No | Does the floral pattern on the dress add a touch of elegance to her outfit? | Yes. |
+| Yes/No | Is the woman's pose in the image confident? | Yes. |
+| Yes/No | Are the woman's legs and thighs exposed in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman lifting her dress up with? | Her hands. |
+| What | What is the woman looking down at in the image? | Her legs/thighs. |
+| How | How is the woman's pose in the image? | Confident/alluring. |
+| How | How does the soft fabric of the dress enhance the overall allure of the image? | It adds a sensual/smooth texture to the woman's body. |

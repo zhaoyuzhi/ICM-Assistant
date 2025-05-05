@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Does the image feature a white background? | Yes. |
+| Yes/No | Are the leggings made of a stretchy material? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the leggings? | Purple. |
+| What | What is the person's pose in the image? | Standing with their belly exposed. |
+| How | How are the leggings designed on the sides? | With a black and white design. |
+| How | How does the person's attire suggest a sense of self-assurance? | The tight, formfitting leggings and bold pose convey confidence and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a slit up the back? | Yes. |
+| Yes/No | Is the dress lace-up? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the dress? | Red. |
+| What | What is the atmosphere of the image? | Alluring and seductive. |
+| How | How does the lace-up back of the dress add to the overall look? | It adds an element of elegance and allure. |
+| How | How does the slit up the back of the dress reveal a sense of confidence and sensuality? | It reveals a large area of the person's back, emphasizing their sensuality and confidence. |

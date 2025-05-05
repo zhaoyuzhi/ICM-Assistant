@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the person's hands placed in their pockets? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any explicit sexual content? | No. |
+| Yes/No | Is the person's attire modest and simple? | Yes. |
+| What | What is the color of the person's trousers? | Beige. |
+| What | What is the type of fabric that the person's trousers appear to be made of? | Soft fabric (possibly cotton or linen). |
+| How | How are the person's hands positioned in the image? | In their pockets. |
+| How | How would you describe the overall atmosphere of the image? | Calm and neutral. |
+| Yes/No | Is the person in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's heels visible in the image? | Yes. |
+| Yes/No | Is the person's hand placed on their hip? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image simple and unassuming? | Yes. |
+| What | What color are the person's trousers? | Beige. |
+| What | What is the person's hand doing in the image? | The person's hand is placed on their hip, with their fingers slightly curled. |
+| How | How are the person's trousers cropped? | The person's trousers are cropped at the ankle. |
+| How | How is the person's shirt tucked into their pants? | The person's shirt is tucked into their pants. |

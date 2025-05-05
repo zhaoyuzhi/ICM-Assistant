@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the woman have a high collar? | Yes. |
+| Yes/No | Is the woman wearing a belt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman engaged in any specific action? | No. |
+| Yes/No | Does the image depict any provocative or suggestive elements? | No. |
+| What | What is the woman wearing? | A black dress with a high collar and a black belt. |
+| What | What is the overall atmosphere of the image? | Formal and elegant. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's attire is formal and elegant, which contributes to the overall atmosphere of the image being formal and elegant. |
+| How | How does the white background contribute to the overall atmosphere of the image? | The white background adds to the overall formal atmosphere of the image, emphasizing the focus on the woman's attire and the elegance of the image. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a white collar? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| Yes/No | Is the focus of the image on the person's attire rather than their appearance? | Yes. |
+| What | What is the fabric of the dress made of? | Shiny fabric. |
+| What | What is the overall atmosphere of the image? | Nonsexy. |
+| How | How is the person standing in front of the white background? | Not specified in the description. |
+| How | How does the low exposure level contribute to the image's atmosphere? | It emphasizes the dress and attire rather than the person's appearance, making the atmosphere nonsexy. |

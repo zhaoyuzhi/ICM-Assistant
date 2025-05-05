@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a mask? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a beige jacket? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Are there any explicit or suggestive content in the image? | No. |
+| Yes/No | Does the image evoke any sexual feelings? | No. |
+| What | What is the person in the image wearing on their face? | A hooded mask. |
+| What | What is the dominant color of the person's outfit in the image? | White. |
+| How | How many clothes are hanging on the background wall? | A few. |
+| What | What is the exposure level of the image? | Low. |

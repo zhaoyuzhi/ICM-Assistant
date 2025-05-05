@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the image wearing black underwear? | Yes. |
+| Yes/No | Are the woman's hands on her hips in the image? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the woman's black stockings and heels visible in the image? | Yes. |
+| What | What is the woman's attire in the image? | A black bra, black underwear, black stockings, and black heels. |
+| What | What is the woman's pose in the image? | She is striking a pose with her hands on her hips and her legs spread apart. |
+| How | How does the contrast between the woman's attire and the background contribute to the image's overall atmosphere? | The contrast creates a sexy atmosphere by drawing attention to the woman and making her the focal point of the image. |
+| How | How do the black stockings and heels contribute to the woman's overall appearance in the image? | They add an element of sophistication and confidence to her appearance. |

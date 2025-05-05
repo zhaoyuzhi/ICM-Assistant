@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra gray in color? | Yes. |
+| Yes/No | Is the background of the image light blue? | Yes. |
+| Yes/No | Is the woman adjusting the bra with both hands? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a gray bra and adjusting it with both hands. |
+| What | What color is the background of the image? | Light blue. |
+| How | How is the woman adjusting the bra? | She is holding it with both hands and adjusting it to fit properly. |
+| How | How does the contrast between the background and the bra contribute to the overall aesthetic of the image? | It adds to the visual appeal and creates a sense of allure. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra gray in color? | Yes. |
+| Yes/No | Is the woman adjusting the bra with both hands? | Yes. |
+| Yes/No | Is the background of the image light blue? | Yes. |
+| Yes/No | Does the image convey a sense of sensuality and intimacy? | Yes. |
+| Yes/No | Is the woman putting effort into making sure the bra fits properly? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a gray bra and adjusting it with both hands. |
+| What | What is the color of the background in the image? | Light blue. |
+| How | How is the woman adjusting the bra? | She is holding it with both hands and adjusting it. |
+| How | How does the contrast between the background and the bra contribute to the overall aesthetic of the image? | It adds to the overall aesthetic of the image, making it visually appealing and evoking a sense of allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Is the dress unique in its design? | Yes. |
+| Yes/No | Does the dress expose a large area of the woman's back? | Yes. |
+| Yes/No | Is the woman standing in a bedroom? | Yes. |
+| Yes/No | Is the room's color scheme white? | Yes. |
+| Yes/No | Is the woman posing for the camera? | Yes. |
+| What | What is the woman's pose in the image? | She is standing and posing for the camera. |
+| What | What is the color of the dress? | Red. |
+| How | How does the woman's pose and the red dress create a sense of allure and sensuality? | The woman's pose and the red dress create a sense of allure and sensuality because they emphasize her body and create a seductive atmosphere. |
+| How | How does the white color scheme of the room contrast with the red dress? | The white color scheme of the room creates a contrast with the red dress, making it stand out and drawing attention to the woman and her attire. |

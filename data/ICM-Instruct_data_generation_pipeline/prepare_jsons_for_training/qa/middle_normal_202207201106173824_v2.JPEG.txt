@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the person's shirt pink? | Yes. |
+| Yes/No | Does the person have a neutral pose? | Yes. |
+| Yes/No | Are the jeans a classic style? | Yes. |
+| Yes/No | Is the focus of the image on the person's clothing rather than their body? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What color are the jeans? | Blue. |
+| What | What is the style of the jeans? | Classic with a high waist and straight leg. |
+| How | How is the person's pose described? | Neutral, with hands resting in pockets. |
+| How | How would you describe the exposure level of the image? | Low, focusing on the person's torso and legs. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Does the image feature a sexual context or suggestive poses? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Are the jeans a classic style with a high waist and slim fit? | Yes. |
+| Yes/No | Does the image give off a casual and relaxed vibe? | Yes. |
+| What | What color are the jeans in the image? | Blue. |
+| What | What color is the person's shirt in the image? | Pink. |
+| How | How does the person have their hands in the image? | In their pockets. |
+| What | What does the low exposure level of the image emphasize? | The focus on the person's clothing and the overall atmosphere of the image. |

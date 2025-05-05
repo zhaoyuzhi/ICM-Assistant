@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a midriff-baring skirt? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking down at her hand? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's pose and attire suggestive of confidence and allure? | Yes. |
+| What | What is the color of the woman's top? | White. |
+| What | What is the material of the woman's skirt? | Striped. |
+| How | How is the woman's top fastened? | Buttonup front. |
+| How | How is the woman's skirt tied at the waist? | With a tie. |

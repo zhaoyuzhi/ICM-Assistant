@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Are the woman's pants white? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image show a close-up of the woman's torso? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a bra. |
+| What | What color is the woman's bra and pants? | White. |
+| How | How is the woman adjusting the straps of the bra? | She is holding the straps and adjusting them. |
+| What | What does the close-up nature of the image suggest about the woman's appearance? | It suggests that she is taking care of her body and is in control of her appearance. |
+| Yes/No | Is the woman in the image wearing a white bra? | Yes. |
+| Yes/No | Is the woman in the image wearing white pants? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the image a close-up of the woman's torso? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Does the image suggest that the woman is in control of her appearance? | Yes. |
+| What | What is the woman in the image putting on? | A white bra. |
+| What | What color are the woman's bra and pants? | White. |
+| How | How is the woman adjusting the bra? | She is holding the straps and adjusting them. |
+| What | What does the close-up nature of the image suggest about the woman's appearance? | It suggests that she is taking care of her body and has a sense of purity and elegance. |

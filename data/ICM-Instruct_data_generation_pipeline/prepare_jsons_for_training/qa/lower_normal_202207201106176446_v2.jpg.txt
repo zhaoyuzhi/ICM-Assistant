@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing gray sweatpants? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the woman in the image standing in a living room? | Yes. |
+| Yes/No | Does the image feature a city skyline visible through a window? | Yes. |
+| Yes/No | Does the woman in the image have her right hand placed on her hip? | Yes. |
+| What | What is the woman in the image holding in her left hand? | A purse. |
+| What | What is the color of the woman's shirt in the image? | Blue. |
+| How | How is the woman standing in the image? | With her right hand on her hip and her left hand holding a purse. |
+| How | How would you describe the atmosphere of the image? | Casual and relaxed. |

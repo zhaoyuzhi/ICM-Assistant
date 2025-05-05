@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing a black thong? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Are the woman's knees bent in the image? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Is the rug in the background made of white fur? | Yes. |
+| What | What color are the woman's stockings in the image? | Black. |
+| What | What is the fur rug in the background made of? | White fur. |
+| How | How are the woman's legs positioned in the image? | Spread apart and bent at the knees. |
+| How | How does the white fur rug in the background contrast with the woman's attire? | It provides a luxurious and contrasting touch, enhancing the overall atmosphere of the image. |

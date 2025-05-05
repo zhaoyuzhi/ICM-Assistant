@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pink leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the pose of the person in the image sexually suggestive? | Yes. |
+| Yes/No | Does the image feature a white fireplace? | Yes. |
+| Yes/No | Is the painting on the wall a neutral backdrop? | Yes. |
+| Yes/No | Does the person's pose create an element of mystery? | Yes. |
+| What | What color are the leggings the person is wearing? | Pink. |
+| What | What is the dominant color of the person's shirt? | White. |
+| How | How does the person's pose accentuate their body? | The person's back is towards the camera, highlighting their buttocks. |
+| How | How does the contrast between the pink leggings and white shirt draw attention to the person's body? | The contrast creates a visual focal point on the person's figure, making it stand out. |

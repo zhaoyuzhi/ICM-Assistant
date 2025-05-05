@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image singing? | Yes. |
+| Yes/No | Is the woman holding the microphone with both hands? | Yes. |
+| Yes/No | Is the woman dressed in a yellow dress? | Yes. |
+| Yes/No | Does the woman have a fur collar? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the woman singing into? | A microphone. |
+| What | What is the woman's outfit? | A yellow dress with a fur collar. |
+| How | How is the woman holding the microphone? | With both hands. |
+| How | How is the background of the image? | Blurred. |

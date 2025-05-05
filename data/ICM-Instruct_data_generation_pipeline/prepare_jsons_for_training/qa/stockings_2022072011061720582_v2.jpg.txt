@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Are the stockings white? | Yes. |
+| Yes/No | Are the socks white? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and allure? | Yes. |
+| What | What is the person in the image wearing on their feet? | White socks. |
+| What | What is the material of the stockings? | Sheer material. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How are the person's feet resting on the bed? | Resting. |

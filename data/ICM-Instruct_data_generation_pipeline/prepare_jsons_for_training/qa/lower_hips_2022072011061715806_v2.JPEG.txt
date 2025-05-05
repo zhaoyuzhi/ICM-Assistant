@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing tight purple leggings? | Yes. |
+| Yes/No | Is the image set in a gym setting? | Yes. |
+| Yes/No | Is the person posing in a suggestive manner? | Yes. |
+| Yes/No | Are the person's buttocks prominently featured in the image? | Yes. |
+| Yes/No | Is the image related to fitness or sports? | Yes. |
+| Yes/No | Does the image have a confident and alluring atmosphere? | Yes. |
+| What | What is the person wearing in the image? | Tight purple leggings. |
+| What | What is the setting of the image? | A gym. |
+| How | How is the person posing in the image? | The person is posing in a suggestive manner, with their buttocks prominently featured. |
+| How | How does the image create a sense of allure and attractiveness? | The image creates a sense of allure and attractiveness through the person's pose, attire, and the gym setting, which suggests athleticism and strength. |

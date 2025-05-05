@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person taking off their clothes? | Yes. |
+| Yes/No | Are the curtains in the room white? | Yes. |
+| Yes/No | Is the lighting in the room bright? | Yes. |
+| Yes/No | Is the person's attire black? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person holding in their hand? | A white shirt. |
+| What | What color are the curtains? | White. |
+| How | How is the atmosphere of the image? | Inviting and enticing. |
+| How | How does the lighting contribute to the atmosphere? | It enhances the overall allure and makes the scene feel more inviting. |

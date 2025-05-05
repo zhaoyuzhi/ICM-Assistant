@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Does the woman have her hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman posing with her hand on her hip? | Yes. |
+| Yes/No | Is the image focused solely on the woman? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the woman wearing in the image? | A white tank top and a necklace. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| How | How is the woman posing in the image? | With her hand on her hip. |
+| What | What atmosphere does the image create? | A sexy atmosphere. |

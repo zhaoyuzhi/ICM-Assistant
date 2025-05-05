@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a floral design? | Yes. |
+| Yes/No | Is the dress embellished with gold and pink accents? | Yes. |
+| Yes/No | Is the woman wearing a pearl necklace? | Yes. |
+| Yes/No | Is the image a close-up shot of the woman's upper body? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the primary focus of the image? | The woman's attire and the details of her dress. |
+| What | What is the woman wearing around her neck? | A pearl necklace. |
+| How | How is the woman's attire described in the image? | Elegant. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the dress and the woman's outfit rather than her physical appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Are the straps of the dress thin? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Are the earrings long? | Yes. |
+| Yes/No | Does the image create an alluring atmosphere? | Yes. |
+| What | What color is the dress? | Red. |
+| What | What is the woman's pose? | Confident. |
+| How | How does the dress reveal the woman's shoulders and upper back? | The dress has a low back and thin straps. |
+| How | How does the woman's posture suggest confidence? | The woman is standing with her shoulders back and her head held high, looking over her shoulder. |

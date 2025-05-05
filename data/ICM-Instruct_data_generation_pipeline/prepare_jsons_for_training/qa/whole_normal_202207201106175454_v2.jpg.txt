@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Does the woman in the image have her hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Does the woman's pose and attire suggest a casual, relaxed atmosphere? | Yes. |
+| What | What is the woman in the image sitting on? | A stool. |
+| What | What is the woman in the image wearing on her feet? | Earrings. |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| How | How does the woman's pose and attire suggest a casual, relaxed atmosphere? | The woman is sitting with her legs crossed and her arms relaxed, and her attire is modest and nonrevealing. |

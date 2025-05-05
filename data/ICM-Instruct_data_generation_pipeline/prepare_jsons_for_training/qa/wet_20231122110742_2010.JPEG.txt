@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the woman have her eyes closed? | Yes. |
+| Yes/No | Is the woman's hair in a ponytail? | Yes. |
+| Yes/No | Is the water in the pool blue? | Yes. |
+| Yes/No | Does the image have a sensual and intimate atmosphere? | Yes. |
+| Yes/No | Is the woman's posture relaxed? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the color of the water in the pool? | Blue. |
+| How | How is the woman's hair styled? | In a ponytail. |
+| How | How does the woman appear in the image? | Soaked and sexy. |

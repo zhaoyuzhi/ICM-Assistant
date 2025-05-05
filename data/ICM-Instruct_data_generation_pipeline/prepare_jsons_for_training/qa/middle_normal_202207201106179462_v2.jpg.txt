@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Does the person in the image have any visible tattoos or piercings? | No. |
+| Yes/No | Is the person in the image smiling or laughing? | No. |
+| Yes/No | Is the person in the image standing in a sexualized pose? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| What | What is the color of the person's shorts? | Black with a white stripe. |
+| What | What is the color of the person's shirt? | Gray. |
+| How | How is the person standing in the image? | In a casual pose. |
+| How | How would you describe the overall atmosphere of the image? | Nonsexual, casual. |
+| Yes/No | Is the person in the image wearing Adidas shorts? | Yes. |
+| Yes/No | Is the person's shirt gray? | Yes. |
+| Yes/No | Are the shorts designed with a white stripe running down the side? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the building in the background made of brick? | Yes. |
+| What | What is the color of the person's shirt? | Gray. |
+| What | What is the material of the building in the background? | Brick. |
+| How | How are the person's arms positioned? | Relaxed at their sides. |
+| How | How are the person's legs positioned? | Slightly apart. |

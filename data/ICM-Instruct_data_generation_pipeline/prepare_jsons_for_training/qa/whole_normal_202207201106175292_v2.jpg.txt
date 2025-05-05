@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the man holding a red envelope? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| Yes/No | Are the man's clothes formal? | Yes. |
+| Yes/No | Is the setting of the image professional or formal? | Yes. |
+| What | What is the man holding in his hand? | A red envelope. |
+| What | What is the color of the man's suit? | Gray. |
+| How | How is the man dressed? | Formally. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, professional/formal. |

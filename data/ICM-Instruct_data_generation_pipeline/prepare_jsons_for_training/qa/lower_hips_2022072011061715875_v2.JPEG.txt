@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of gray leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Does the person in the image have their hands on their hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the person in the image have a confident posture? | Yes. |
+| What | What is the color of the person's leggings? | Gray. |
+| What | What is the color of the person's sports bra? | Black. |
+| How | How is the person's posture in the image? | Confident. |
+| How | How does the person's attire contribute to the overall sexy atmosphere of the image? | The person's deliberate display of their buttocks, combined with their confident posture and casual yet stylish outfit, creates an image that is both visually appealing and evocative. |

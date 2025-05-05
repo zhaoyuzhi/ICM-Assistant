@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person have a hole in the back pocket of their jeans? | Yes. |
+| Yes/No | Are the jeans torn at the knees? | Yes. |
+| Yes/No | Is the person wearing a pair of blue jeans with a hole in the back pocket and torn at the knees? | Yes. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How are the jeans torn at the knees? | They are torn at the knees. |
+| How | How did the person get the hole in the back pocket of their jeans? | It's not specified in the description. |

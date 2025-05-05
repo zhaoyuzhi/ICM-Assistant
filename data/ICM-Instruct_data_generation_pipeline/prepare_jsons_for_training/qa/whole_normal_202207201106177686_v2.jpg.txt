@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pink cardigan? | Yes. |
+| Yes/No | Is the woman's shirt white? | Yes. |
+| Yes/No | Is the woman wearing a gray skirt? | Yes. |
+| Yes/No | Is the woman wearing a black bow on her shirt? | Yes. |
+| Yes/No | Does the image contain any other discernible objects or people? | No. |
+| What | What is the woman's gaze directed at? | The camera. |
+| What | What is the overall atmosphere of the image? | Calm and composed. |
+| How | How is the woman posing for the camera? | Neutrally, with a directed gaze. |
+| How | How does the white background affect the image? | It emphasizes the subject and draws attention away from other elements. |

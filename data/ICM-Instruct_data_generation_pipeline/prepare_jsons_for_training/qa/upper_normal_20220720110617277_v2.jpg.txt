@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a military uniform? | Yes. |
+| Yes/No | Is the woman in the image wearing a traditional Chinese outfit? | Yes. |
+| Yes/No | Are the man and woman in a romantic pose? | Yes. |
+| Yes/No | Is the image set against a brick wall background? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image convey a sense of respect and honor? | Yes. |
+| What | What is the man's military uniform suggesting? | Respect and honor. |
+| What | What is the woman's traditional Chinese outfit suggesting? | Cultural heritage and tradition. |
+| How | How are the man and woman standing in the image? | Close together, with the woman's hand gently resting on the man's chin. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It emphasizes the focus on the subjects' expressions and emotional connection, rather than their physical appearance. |

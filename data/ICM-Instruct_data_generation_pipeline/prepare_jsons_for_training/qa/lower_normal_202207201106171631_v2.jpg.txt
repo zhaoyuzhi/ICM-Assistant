@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black sweatshirt? | Yes. |
+| Yes/No | Are they wearing gray sweatpants? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Is the room dimly lit? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire provocative or alluring? | No. |
+| What | What is the person's attire in the image? | Black sweatshirt, gray sweatpants, white sneakers. |
+| What | What is the atmosphere of the room in the image? | Subdued. |
+| How | How is the person standing in the room? | With their hands in their pockets. |
+| How | How is the room lit in the image? | Dimly lit. |

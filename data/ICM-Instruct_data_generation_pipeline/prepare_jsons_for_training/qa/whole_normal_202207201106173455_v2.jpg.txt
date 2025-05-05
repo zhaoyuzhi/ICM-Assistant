@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green shirt? | Yes. |
+| Yes/No | Are the clothes inside the wardrobe visible? | Yes. |
+| Yes/No | Is the room dimly lit? | Yes. |
+| Yes/No | Is the woman's body fully visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's action of opening the wardrobe a common, everyday activity? | Yes. |
+| What | What is the woman wearing? | A green shirt and blue jeans. |
+| What | What is the woman doing in the image? | Opening a wooden wardrobe. |
+| How | How is the room lit? | Dimly lit. |
+| How | How much of the woman's body is visible in the image? | A small portion. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress short? | Yes. |
+| Yes/No | Is the woman's posture confident? | Yes. |
+| Yes/No | Is the room well-lit? | Yes. |
+| Yes/No | Does the image create a sense of allure? | Yes. |
+| Yes/No | Does the image create a sense of intrigue? | Yes. |
+| What | What is the woman's facial expression? | She is looking off to the side with her arms crossed. |
+| What | What is the color of the woman's dress? | Pink. |
+| How | How does the woman's posture contribute to the overall atmosphere of the image? | Her confident posture suggests a sense of empowerment and confidence, which contributes to the sexy atmosphere. |
+| How | How does the lighting in the room affect the image? | The welllit room creates a bright and airy atmosphere, which highlights the woman's features and adds to the overall sense of allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a thong? | Yes. |
+| Yes/No | Does the bikini top have a heart-shaped cutout on the chest? | Yes. |
+| Yes/No | Does the thong have a heart-shaped cutout on the front? | Yes. |
+| Yes/No | Is the woman posing with her hands on her hips? | Yes. |
+| Yes/No | Is the woman's back turned to the camera? | Yes. |
+| What | What is the color of the bikini top? | Blue. |
+| What | What is the color of the thong? | Blue. |
+| How | How is the woman posing in the image? | With her hands on her hips and her back turned to the camera. |
+| How | How does the solid blue background affect the image? | It provides a stark contrast to the woman's attire, further emphasizing her presence in the image and creating a sexy and alluring atmosphere. |

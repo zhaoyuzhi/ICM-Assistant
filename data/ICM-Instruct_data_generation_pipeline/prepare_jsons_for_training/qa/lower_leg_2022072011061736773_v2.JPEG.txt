@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked from their thighs to their ankles? | Yes. |
+| Yes/No | Are the person's arms at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the person wearing black shorts? | Yes. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Is the background a plain white wall? | Yes. |
+| What | What is the person's pose in the image? | The person is standing with their arms at their sides and their legs slightly apart. |
+| What | What color are the person's shorts? | Black. |
+| How | How does the contrast between the person's black shorts and white sneakers add to the visual appeal of the image? | The contrast creates a striking visual effect, drawing attention to the person's body. |
+| How | How does the plain white wall in the background emphasize the person in the image? | The plain white wall creates a clean and simple background, drawing the viewer's attention directly to the person. |

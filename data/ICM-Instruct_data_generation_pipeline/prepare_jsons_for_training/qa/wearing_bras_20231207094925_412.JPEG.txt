@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the process of putting on a bra? | Yes. |
+| Yes/No | Is the bra light blue in color? | Yes. |
+| Yes/No | Does the bra appear to be made of a soft, stretchy material? | Yes. |
+| Yes/No | Is the woman's body partially exposed in the image? | Yes. |
+| Yes/No | Does the presence of the tattoo on the woman's back add to the overall allure of the image? | Yes. |
+| Yes/No | Does the image capture a private and intimate moment? | Yes. |
+| What | What is the woman doing in the image? | She is adjusting the straps of her bra to ensure a secure fit. |
+| What | What is the color of the bra? | Light blue. |
+| How | How does the bra conform to the woman's body? | It conforms to her body in a soft and stretchy way. |
+| How | How does the presence of the tattoo on the woman's back contribute to the overall atmosphere of the image? | It adds a unique and personal touch to the image, contributing to the sexy and alluring atmosphere. |
+| Yes/No | Is the woman in the process of putting on a bra? | Yes. |
+| Yes/No | Is the bra light blue in color? | Yes. |
+| Yes/No | Does the bra appear to be made of a soft, stretchy material? | Yes. |
+| Yes/No | Is the woman adjusting the straps of the bra? | Yes. |
+| Yes/No | Does the image capture a private and intimate moment of the woman? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a light blue bra. |
+| What | What is the color of the bra? | Light blue. |
+| How | How is the bra made? | It appears to be made of a soft, stretchy material. |
+| How | How is the woman adjusting the bra? | She is using her hands to adjust the straps and ensure a secure fit. |

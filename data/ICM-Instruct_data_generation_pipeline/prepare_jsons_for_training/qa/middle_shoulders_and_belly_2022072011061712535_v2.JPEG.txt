@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Is the person's belly the main focus of the image? | Yes. |
+| Yes/No | Are the clothes in the image formal? | No. |
+| Yes/No | Is the exposure level in the image high? | No. |
+| Yes/No | Does the image create a sense of intimacy and vulnerability? | Yes. |
+| What | What color is the person's shirt? | Green. |
+| What | What is the person's belly exposed? | Yes. |
+| How | How does the image create a sense of intimacy and vulnerability? | Through the combination of casual attire, low exposure level, and the person's belly being the main focus. |
+| How | How does the image's color palette contribute to its overall atmosphere? | The green shirt and blue jeans add a pop of color, creating a visually appealing and relaxed atmosphere. |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the atmosphere in the image casual? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What is the main focus of the image? | The person's belly. |
+| What | What is the person's pose in the image? | Standing with hands on hips. |
+| How | How does the person's attire contribute to the image's sexy vibe? | The casual attire, specifically the green shirt and blue jeans, adds to the relaxed and casual atmosphere, which contributes to the overall sexy vibe. |
+| How | How does the person's pose contribute to the image's sexy vibe? | The person's pose, with their hands on their hips, adds to the allure of the image and emphasizes the exposed belly, which is a common feature in sexy images. |

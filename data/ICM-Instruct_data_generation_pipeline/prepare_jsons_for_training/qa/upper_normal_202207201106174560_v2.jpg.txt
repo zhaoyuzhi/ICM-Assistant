@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image dressed in a white shirt? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Is the man positioned on the right side of the image? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a sexy or provocative theme? | No. |
+| Yes/No | Does the man have dark hair? | Yes. |
+| What | What is the color of the man's shirt? | White. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How is the man positioned in the image? | He is positioned on the right side. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

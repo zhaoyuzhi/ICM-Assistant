@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress white? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the sleeves of the dress short? | Yes. |
+| Yes/No | Is the woman holding a purse in her left hand? | Yes. |
+| Yes/No | Is her right hand placed on her hip? | Yes. |
+| What | What color is the dress? | White. |
+| What | What is the woman holding in her left hand? | A purse. |
+| How | How does the woman's pose accentuate her body? | Her pose with her hand on her hip accentuates her body and the dress, suggesting confidence and allure. |
+| How | How does the mirrored wall in the room add depth to the image? | The mirrored wall reflects the woman's image, making her the focal point of the scene and adding depth to the image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main focus of the image a person? | Yes. |
+| Yes/No | Are the sweatpants the main focus of the image? | Yes. |
+| Yes/No | Is the logo on the left leg of the sweatpants white? | Yes. |
+| Yes/No | Does the image depict explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the color of the sweatpants? | Blue. |
+| What | What is the location of the logo on the sweatpants? | Left leg. |
+| How | How does the person's pose suggest a casual and relaxed atmosphere? | The person's pose is relaxed and not suggestive or provocative, reinforcing a casual atmosphere. |
+| How | How does the low exposure level reinforce the non-sexual nature of the image? | The low exposure level focuses attention on the sweatpants rather than the person's body, further emphasizing the casual and nonsexual nature of the image. |
+| Yes/No | Is the person in the image wearing a pair of blue sweatpants? | Yes. |
+| Yes/No | Does the logo on the sweatpants appear on the left leg? | Yes. |
+| Yes/No | Is the person wearing a pink shirt? | Yes. |
+| Yes/No | Is the shirt tucked into the sweatpants? | Yes. |
+| Yes/No | Is the person looking downwards? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What color are the sweatpants? | Blue. |
+| What | What color is the shirt? | Pink. |
+| How | How is the person's hand positioned? | On their hip. |
+| How | How much of the person's body is visible in the image? | A small portion. |

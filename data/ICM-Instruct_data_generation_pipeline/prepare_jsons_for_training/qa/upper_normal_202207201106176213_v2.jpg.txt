@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Are the women in the image wearing hats? | Yes. |
+| Yes/No | Are the women in the image dressed in white tops? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Are the women in the image posing in a sexual or provocative manner? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and non-threatening? | Yes. |
+| What | What color is the hat worn by the woman looking downwards? | Pink. |
+| What | What color is the hat worn by the woman looking upwards? | Black. |
+| How | How are the women in the image dressed? | Modestly. |
+| What | What is the focus of the image? | The women's hats and tops. |

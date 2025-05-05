@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the shirt wet? | Yes. |
+| Yes/No | Is the person's chest visible? | Yes. |
+| Yes/No | Is the person's stomach visible? | Possibly. |
+| Yes/No | Is the image taken in a close-up manner? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and vulnerability? | Yes. |
+| What | What color is the shirt? | White. |
+| What | What is the person doing in the image? | Holding their shirt open, taking a selfie. |
+| How | How is the person's skin visible? | Through the wet fabric of their shirt. |
+| What | What is the overall atmosphere of the image? | Sexy, intimate, and alluring. |

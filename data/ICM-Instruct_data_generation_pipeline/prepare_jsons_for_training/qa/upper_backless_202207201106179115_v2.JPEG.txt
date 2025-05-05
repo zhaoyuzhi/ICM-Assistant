@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Are the person's hair styled in a ponytail? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the black lace back of the dress add a touch of elegance and mystery? | Yes. |
+| What | What is the color of the dress? | Red. |
+| What | What is the person's hair style? | Ponytail. |
+| How | How does the person's back look in the image? | Significantly exposed. |
+| How | How does the black lace back of the dress contribute to the overall look? | It adds a touch of elegance and mystery. |

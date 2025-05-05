@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main object in the image a woman's breast? | Yes. |
+| Yes/No | Is the woman wearing a blue lace bra? | Yes. |
+| Yes/No | Is the woman holding a white flower in her hand? | Yes. |
+| Yes/No | Is the background of the image plain beige? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the image close-up? | Yes. |
+| What | What is the woman holding in her hand? | A white flower. |
+| What | What is the color of the lace bra? | Blue. |
+| How | How does the woman's breast appear in the image? | The woman's breast appears curvy and prominent due to the closeup nature of the photo. |
+| How | How does the plain beige background affect the image? | The plain beige background accentuates the woman and her attire, making her the focal point of the image. |

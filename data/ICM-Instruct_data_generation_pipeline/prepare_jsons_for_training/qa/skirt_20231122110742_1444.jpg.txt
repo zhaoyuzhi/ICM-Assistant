@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black velvet skirt? | Yes. |
+| Yes/No | Is the woman in the image lifting her skirt? | Yes. |
+| Yes/No | Does the woman's blouse have a lace collar? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and provocative? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What material is the woman's skirt made of? | Velvet. |
+| How | How is the woman's skirt style? | Short, highwaisted. |
+| How | How does the woman's blouse add elegance to her outfit? | With a lace collar. |

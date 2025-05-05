@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of green shoes? | Yes. |
+| Yes/No | Is the woman in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Is the woman in the image wearing any underwear? | No. |
+| Yes/No | Is the image sexy or provocative? | No. |
+| Yes/No | Does the woman have her legs crossed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and casual? | Yes. |
+| What | What is the woman sitting on in the image? | Carpeted floor. |
+| What | What is the woman holding in her hands in the image? | Magazine. |
+| How | How is the woman's attire in the image? | Casual and relaxed. |
+| How | How does the image convey a sense of everyday life and comfort? | Through the woman's attire, the magazine, and the carpeted floor. |

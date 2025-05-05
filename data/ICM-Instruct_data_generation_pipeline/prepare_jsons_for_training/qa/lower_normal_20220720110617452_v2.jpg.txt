@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the car in the image painted in a camouflage pattern? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's position on the car hood non-threatening? | Yes. |
+| What | What color are the person's sneakers in the image? | Gray. |
+| What | What is the person's attire in the image? | Black pants, white shirt, gray sneakers. |
+| How | How is the person positioned on the car hood in the image? | The person is positioned in a relaxed manner, with their legs crossed. |
+| How | How does the image's atmosphere feel? | The image's atmosphere feels casual and nonsexual. |

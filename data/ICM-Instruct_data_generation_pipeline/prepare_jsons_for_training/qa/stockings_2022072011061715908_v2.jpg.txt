@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt or pants? | No. |
+| Yes/No | Are the stockings the person is wearing black? | No. |
+| Yes/No | Does the person have their legs crossed? | Yes. |
+| Yes/No | Is the person sitting in the driver's seat? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What type of garment is the person wearing on their legs? | Stockings. |
+| What | What is the person's left foot resting on? | Their right knee. |
+| How | How are the person's legs bent? | At the knees. |
+| How | How are the person's feet resting on the back of the seat? | They are resting on the back of the seat. |

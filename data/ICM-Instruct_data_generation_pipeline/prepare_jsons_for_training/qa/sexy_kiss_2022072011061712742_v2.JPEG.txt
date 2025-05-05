@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the woman in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are the man and woman in a passionate embrace? | Yes. |
+| Yes/No | Is the image set in a kitchen? | Yes. |
+| Yes/No | Are there any visible appliances in the background? | Yes. |
+| Yes/No | Does the woman have her head resting on the man's shoulder? | Yes. |
+| What | What is the color of the woman's shirt? | Pink. |
+| What | What is the color of the man's sweatpants? | Gray. |
+| How | How are the man and woman positioned in the image? | The woman is sitting on the man's lap, with her head resting on his shoulder. |
+| How | How does the image capture the moment of intimacy and passion between the two individuals? | The image captures a moment of intimacy and passion between the two individuals through the depiction of their embrace, kiss, and body language. The woman's leaning back and resting her head on the man's shoulder suggests a sense of trust and comfort, while the man's shirtless torso and the woman's pink shirt add a vibrant splash of color to the scene, creating a sense of warmth and familiarity. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man holding a guitar in the image? | No. |
+| Yes/No | Is the man smiling in the image? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image depict the man playing a guitar? | No. |
+| Yes/No | Is the man's left hand visible in the image? | Yes. |
+| What | What is the man holding in his left hand? | A guitar strap. |
+| What | What might the man's profession be, based on the object he is holding? | A musician or guitarist. |
+| How | How is the man's mood depicted in the image? | He is smiling. |
+| How | How might the image be interpreted, based on the man's toplessness and connection to music? | The image might be interpreted as sexy and intriguing, with a sense of intimacy and vulnerability. |

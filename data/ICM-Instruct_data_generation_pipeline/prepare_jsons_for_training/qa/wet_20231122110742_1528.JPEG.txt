@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the flag on the shirt have three colors? | Yes. |
+| Yes/No | Is the woman holding a soccer ball in her right hand? | Yes. |
+| Yes/No | Are her clothes soaked? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the flag on the shirt suggest a sense of national pride or identity? | Yes. |
+| What | What is the woman holding in her right hand? | A soccer ball. |
+| What | What color are the woman's clothes? | White. |
+| How | How does the woman's attire create a sense of intimacy and vulnerability? | Her clothes are soaked, which adds to the sexy atmosphere of the image. |
+| How | How does the image create a sense of playfulness and athleticism? | The fact that the woman is holding a soccer ball in her hand adds an element of playfulness and athleticism to the image. |

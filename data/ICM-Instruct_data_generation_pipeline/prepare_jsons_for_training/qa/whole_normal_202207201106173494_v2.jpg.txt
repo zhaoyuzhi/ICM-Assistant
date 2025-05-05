@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Is the man holding a walkie-talkie? | Yes. |
+| Yes/No | Is the man smiling? | Yes. |
+| Yes/No | Is the image explicit or revealing? | No. |
+| Yes/No | Is the focus of the image on the man's professional attire? | Yes. |
+| Yes/No | Does the image have a positive atmosphere? | Yes. |
+| What | What is the man's role in the mall? | He is likely in a position of authority or responsible for managing the mall's security. |
+| What | What is the man's facial expression? | He is smiling. |
+| How | How is the man holding the walkie-talkie? | He is holding it to his ear. |
+| How | How would you describe the overall atmosphere of the image? | Professional and positive. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the woman have a bracelet on her left wrist? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image pink? | Yes. |
+| Yes/No | Is there a red line running across the image? | Yes. |
+| Yes/No | Is the woman's pose suggestive or alluring? | Yes. |
+| What | What is the woman wearing on her wrist? | A bracelet. |
+| What | What is the color of the background in the image? | Pink. |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| How | How does the woman look in the image? | Confident and alluring. |

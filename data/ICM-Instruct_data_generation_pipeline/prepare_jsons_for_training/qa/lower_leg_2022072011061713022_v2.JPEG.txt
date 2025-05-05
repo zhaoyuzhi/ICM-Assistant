@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Is the person in the image wearing white sneakers? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Are the person's legs apart in the image? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability? | Yes. |
+| What | What is the person in the image wearing? | Blue denim shorts and white sneakers. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the person standing in the image? | With their legs apart. |
+| How | How does the image convey a sense of intimacy and sensuality? | Through the person's pose and the plain white background, which puts the focus entirely on the person and creates a captivating and sexy portrait. |

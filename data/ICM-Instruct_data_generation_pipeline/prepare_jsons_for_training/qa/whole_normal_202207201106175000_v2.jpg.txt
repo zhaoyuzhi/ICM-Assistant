@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports top? | Yes. |
+| Yes/No | Is the woman holding a water bottle? | Yes. |
+| Yes/No | Are her arms bent at the elbows? | Yes. |
+| Yes/No | Is she standing on a wooden floor? | Yes. |
+| Yes/No | Is there a large window in the background? | Yes. |
+| Yes/No | Is the image focused on the woman's appearance? | No. |
+| What | What is the woman holding in her hand? | A red water bottle. |
+| What | What is the color of her sports top? | Blue. |
+| How | How are her arms positioned? | Bent at the elbows. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, focused on athletic routine and gym environment. |

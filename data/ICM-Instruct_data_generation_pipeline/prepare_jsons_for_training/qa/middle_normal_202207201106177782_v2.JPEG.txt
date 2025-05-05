@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person in the image have a red tag on the back pocket of their jeans? | Yes. |
+| Yes/No | Is the person in the image standing against a white background? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Is the person in the image facing away from the camera? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the focus of the image? | The jeans and the person's stance. |
+| How | How is the person standing in the image? | With their face away from the camera and their body slightly turned. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It creates a simple and straightforward atmosphere without any suggestive or provocative elements. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the person's hands visible in the image? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Is the red tag on the back pocket of the jeans the main focus of the image? | No. |
+| Yes/No | Does the image have a casual and everyday atmosphere? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the color of the tag on the back pocket of the jeans? | Red. |
+| How | How are the person's hands positioned in the image? | Tucked into their pockets. |
+| How | How would you describe the exposure level of the image? | Very low. |

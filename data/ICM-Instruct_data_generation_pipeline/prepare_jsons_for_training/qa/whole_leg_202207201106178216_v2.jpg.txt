@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking a selfie? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a lace top? | Yes. |
+| Yes/No | Is the skirt short? | Yes. |
+| Yes/No | Is the woman holding a phone in her hand? | Yes. |
+| Yes/No | Is the background blue? | Yes. |
+| What | What is the woman wearing? | A black dress with a lace top and a black skirt. |
+| What | What is the color of the background? | Blue. |
+| How | How is the woman's attire provocative? | The dress is short, revealing her thighs, which is often associated with a seductive or provocative appearance. |
+| How | How does the mirror's reflection add depth to the image? | The mirror's reflection shows the woman's full body, creating a sense of depth and adding a new dimension to the image. |

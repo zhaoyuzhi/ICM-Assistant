@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress floral? | Yes. |
+| Yes/No | Are the woman's heels black? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman moving towards the right side of the image? | Yes. |
+| Yes/No | Does the woman's attire suggest a formal or professional setting? | Yes. |
+| What | What is the length of the woman's dress? | The dress is long and flowing, reaching down to her knees. |
+| What | What is the woman's hair color? | Not specified in the description. |
+| How | How does the woman's attire suggest a formal or professional setting? | The woman is wearing a modest dress and heels, which are not provocative or seductive. |
+| How | How does the image convey a sense of movement? | The woman is moving towards the right side of the image, giving the impression of forward motion. |

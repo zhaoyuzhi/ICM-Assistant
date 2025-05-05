@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the woman dressed in a white shirt and black skirt? | Yes. |
+| Yes/No | Is the purse brown with a white strap? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image suggest a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman holding in the image? | A purse. |
+| What | What is the color of the purse? | Brown. |
+| How | How is the woman holding the purse? | She is holding it with one hand and the strap is draped over her shoulder. |
+| How | How would you describe the woman's posture in the image? | Relaxed and casual. |

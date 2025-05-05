@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding a tennis racket? | Yes. |
+| Yes/No | Is the person wearing a black short-sleeved shirt and black shorts? | Yes. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Is the focus of the image on the person's attire and the tennis racket? | Yes. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| What | What is the person in the image holding in their right hand? | A tennis racket. |
+| What | What is the color of the person's shirt and shorts? | Black. |
+| How | How is the person's body positioned in the image? | The person is standing in front of the tennis net, with their body facing the camera. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is straightforward and focused on the sport of tennis, rather than being sexually suggestive or attentiongrabbing. |

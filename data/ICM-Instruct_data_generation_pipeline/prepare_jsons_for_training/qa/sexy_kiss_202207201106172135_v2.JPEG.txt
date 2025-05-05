@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a traditional Chinese outfit? | Yes. |
+| Yes/No | Is the man wearing a black suit? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Are the man's hands gently placed on the woman's shoulders? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing? | A white blouse and a black skirt. |
+| What | What is the man wearing? | A black suit. |
+| How | How are the couple standing? | Close to each other. |
+| How | How are the man's hands placed on the woman's shoulders? | Gently. |

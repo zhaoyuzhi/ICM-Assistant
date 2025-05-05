@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a green and white halter top? | Yes. |
+| Yes/No | Is the woman in the image wearing a tie around her neck? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the woman posing with her hands on her hips? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color is the woman's bikini top? | White. |
+| What | What color is the woman's halter top? | Green and white. |
+| How | How is the woman posing in the image? | With her hands on her hips. |
+| How | How does the blurred background affect the image? | It puts the focus on the woman, emphasizing her presence and creating a sexy atmosphere. |

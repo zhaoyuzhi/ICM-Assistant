@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man's gaze directed downwards? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire revealing? | No. |
+| Yes/No | Does the image feature a black background? | Yes. |
+| What | What is the man's posture in the image? | Relaxed and nonthreatening. |
+| What | What is the exposure level of the image? | Low. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How is the man looking in the image? | Downwards. |

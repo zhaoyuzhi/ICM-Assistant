@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Does the woman have her mouth slightly open? | Yes. |
+| Yes/No | Is the background of the image dark and out of focus? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's pose in the image? | Neutral. |
+| What | What is the woman's facial expression in the image? | Neutral. |
+| How | How is the woman's blouse worn? | It is not specified in the description. |
+| How | How is the image lit? | The image is not brightly lit and may have a somewhat dark or moody atmosphere. |

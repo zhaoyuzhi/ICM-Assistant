@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a sweater? | Yes. |
+| Yes/No | Is the person in the image standing in front of a pile of logs? | Yes. |
+| Yes/No | Is the person's exposure level low in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| What | What is the person wearing in the image? | A long skirt and a sweater. |
+| What | What is the background of the image? | A pile of logs. |
+| How | How is the person standing in the image? | With their hands on their hips. |
+| How | How does the image focus on the person's attire and surroundings? | By highlighting the person's clothing and the natural background, and by keeping the exposure level low. |

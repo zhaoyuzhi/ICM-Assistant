@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Is the woman's hair short? | No. |
+| Yes/No | Is the woman wearing any clothing? | Yes. |
+| Yes/No | Is the woman's facial expression neutral? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| What | What is the woman looking at? | Something or someone out of the frame. |
+| How | How is the woman's hair styled? | Long and flowing. |
+| How | How is the woman's gaze directed? | Upwards and to the left. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Does the image capture a tender and intimate moment? | Yes. |
+| What | What is the color of the man's shirt? | Blue. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other, with the woman's head tilted to the side as they share a passionate kiss. |
+| How | How does the image convey a sense of romance and passion? | The image conveys a sense of romance and passion through the close proximity and intimate act of kissing between the man and woman, as well as the contrasting colors of their shirts, which add visual interest to the scene and create a warm and romantic atmosphere. |

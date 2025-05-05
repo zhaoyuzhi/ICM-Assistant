@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are there palm trees in the background of the image? | Yes. |
+| Yes/No | Is the pool surrounded by a tropical atmosphere? | Yes. |
+| Yes/No | Does the woman have her arms raised above her head? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her bottom half? | A bikini bottom. |
+| What | What is the colorful pattern on the woman's bikini top? | A colorful pattern. |
+| How | How many palm trees are in the background of the image? | Several. |
+| How | How does the woman's pose contribute to the sexy atmosphere of the image? | Her arms raised above her head adds to the allure of the image. |

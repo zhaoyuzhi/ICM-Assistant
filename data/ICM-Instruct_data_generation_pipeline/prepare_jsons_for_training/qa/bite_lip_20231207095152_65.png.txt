@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Is the person in the image looking directly at the camera? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Does the image have a bright and cheerful atmosphere? | No. |
+| What | What is the facial expression of the person in the image? | Serious. |
+| What | What is the gestural meaning of the person biting their lip? | Sensuality/desire. |
+| How | How does the close-up shot of the person's face emphasize their features? | The closeup shot focuses attention on the lips and nose, drawing the viewer's gaze to these features. |
+| How | How does the image create a sense of intrigue and allure? | The intense atmosphere and serious facial expression create a sense of intrigue, while the emphasis on the lips and nose creates a sense of allure. |

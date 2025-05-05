@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top white? | Yes. |
+| Yes/No | Is the bed covered with a floral comforter? | Yes. |
+| Yes/No | Is the woman lying on her back? | Yes. |
+| Yes/No | Is her body exposed? | Yes. |
+| Yes/No | Is her hand on her face? | Yes. |
+| What | What color is the bikini top? | White. |
+| What | What is the material of the bikini top? | Lightweight. |
+| How | How is the woman posing? | With her hand on her face and her body exposed. |
+| How | How would you describe the atmosphere of the image? | Alluring and inviting. |

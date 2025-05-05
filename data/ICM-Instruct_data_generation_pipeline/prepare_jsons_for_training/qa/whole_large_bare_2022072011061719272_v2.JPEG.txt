@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini green and white in color? | Yes. |
+| Yes/No | Is the woman posing on a beach? | Yes. |
+| Yes/No | Is the woman's left hand on her hip? | Yes. |
+| Yes/No | Is the woman's right hand on a chair? | Yes. |
+| Yes/No | Is the woman wearing a bracelet on her left wrist? | Yes. |
+| What | What is the woman's pose in the image? | She is posing with her left hand on her hip and her right hand on a chair. |
+| What | What is the color of the bikini the woman is wearing? | Green and white. |
+| How | How is the woman's body exposed in the image? | The woman's body is exposed through her bikini, which is a twopiece swimsuit. |
+| How | How does the woman's pose and the exposure of her body contribute to the image's sexiness? | The woman's pose and the exposure of her body create an atmosphere of sensuality and allure, making the image sexy. |

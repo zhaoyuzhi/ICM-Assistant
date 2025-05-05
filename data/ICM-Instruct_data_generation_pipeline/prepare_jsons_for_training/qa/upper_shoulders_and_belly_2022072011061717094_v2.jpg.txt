@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman in the image wearing a hat? | Yes. |
+| Yes/No | Is the woman in the image applying makeup to her face? | Yes. |
+| Yes/No | Is the image set in a room with a wooden floor? | Yes. |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman in the image applying to her face? | Makeup. |
+| What | What is the material of the woman's outfit? | Strapless. |
+| How | How is the woman in the image standing? | She is standing upright, likely with her feet shoulderwidth apart. |
+| How | How is the woman in the image applying makeup to her face? | She is using her hands to apply the makeup, likely with a brush or a cotton pad. |

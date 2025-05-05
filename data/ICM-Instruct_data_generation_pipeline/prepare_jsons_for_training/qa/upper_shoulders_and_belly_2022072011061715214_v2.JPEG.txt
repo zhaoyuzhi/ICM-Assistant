@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Does the woman have a white collar? | Yes. |
+| Yes/No | Is the woman wearing a cross necklace? | Yes. |
+| Yes/No | Are the woman's arms raised above her head? | Yes. |
+| Yes/No | Is the background plain? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's shirt? | Blue. |
+| What | What type of necklace is the woman wearing? | Beaded necklace. |
+| How | How is the woman's pose in the image? | With her arms raised above her head. |
+| What | What does the combination of elements in the image create? | A sense of confidence and allure. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the woman's left hand holding the bra? | Yes. |
+| Yes/No | Is the woman's right hand in her cleavage? | Yes. |
+| Yes/No | Does the image feature a close-up of the bra? | Yes. |
+| Yes/No | Does the image suggest a focus on the woman's body and the bra's fit? | Yes. |
+| What | What is the color of the bra? | Green. |
+| What | What is the woman doing in the image? | Putting on the bra. |
+| How | How is the woman holding the bra? | With her left hand. |
+| How | How is the woman's right hand positioned? | In her cleavage. |
+| Yes/No | Is the woman in the image wearing a green bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the woman holding the bra with her left hand? | Yes. |
+| Yes/No | Is her right hand in her cleavage? | Yes. |
+| Yes/No | Does the image feature a close-up of the bra? | Yes. |
+| Yes/No | Does the image include a photo of the woman's cleavage? | Yes. |
+| What | What color is the bra the woman is wearing? | Green. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| How | How is the woman holding the bra? | With her left hand. |
+| How | How does the image create a sense of intimacy and allure? | Through the closeup of the bra and the woman's body language. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue dress? | Yes. |
+| Yes/No | Is the woman wearing a pearl necklace and earrings? | Yes. |
+| Yes/No | Is the dress complemented by a matching blue jacket? | Yes. |
+| Yes/No | Is the woman seated in a chair? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color is the woman's dress? | Blue. |
+| What | What is the woman wearing around her neck? | A pearl necklace. |
+| How | How is the woman's posture in the image? | Upright and poised. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It ensures that the focus remains on the woman's attire and her overall appearance, rather than any provocative or suggestive elements, making it appropriate for a wide range of audiences. |

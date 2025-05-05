@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black face mask? | Yes. |
+| Yes/No | Is the dress being taken off by the person? | Yes. |
+| Yes/No | Does the dress have a sheer panel on the side? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the black face mask add an element of mystery and intrigue? | Yes. |
+| Yes/No | Is the person's hair long? | Yes. |
+| What | What is the person holding onto with one hand? | The dress. |
+| What | What is the color of the face mask? | Black. |
+| How | How is the person removing the dress? | By holding onto it with one hand and taking it off. |
+| What | What does the combination of the person's attire and actions suggest? | Sensuality and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a plaid coat? | Yes. |
+| Yes/No | Is the woman holding a black purse? | Yes. |
+| Yes/No | Is the building behind the woman made of stone? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman standing in a public space? | Yes. |
+| Yes/No | Is the focus of the image on the woman and her surroundings? | Yes. |
+| What | What is the woman wearing? | A plaid coat and a black purse. |
+| What | What is the material of the building behind the woman? | Stone. |
+| How | How is the woman standing in the image? | She is standing in front of the building, possibly on a street or sidewalk. |
+| How | How would you describe the atmosphere of the image? | Calm and ordinary. |

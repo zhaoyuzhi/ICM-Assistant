@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple top? | Yes. |
+| Yes/No | Are the woman's shorts black? | Yes. |
+| Yes/No | Is the woman's jacket black? | Yes. |
+| Yes/No | Are the woman's boots black? | Yes. |
+| Yes/No | Is the woman's pose dynamic? | Yes. |
+| Yes/No | Does the image have a plain white background? | Yes. |
+| What | What is the woman holding in her hand? | A small purse. |
+| What | What is the dominant color of the woman's outfit? | Purple. |
+| How | How is the woman's left hand positioned in the image? | Resting on her hip. |
+| How | How is the woman's right hand positioned in the image? | Resting on her thigh. |

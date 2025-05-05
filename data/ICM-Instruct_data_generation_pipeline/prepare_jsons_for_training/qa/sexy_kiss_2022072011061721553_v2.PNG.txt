@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black suit? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman kissing passionately? | Yes. |
+| Yes/No | Is the woman's head resting on the man's shoulder? | Yes. |
+| Yes/No | Is the man's hand gently placed on the woman's face? | Yes. |
+| Yes/No | Does the image depict a strong emotional connection between the two individuals? | Yes. |
+| What | What is the man wearing? | A black suit. |
+| What | What is the woman wearing? | A black dress. |
+| How | How are the man and woman positioned in the image? | They are positioned close to each other, with the woman's head resting on the man's shoulder. |
+| How | How does the man's hand add to the intimate nature of their interaction? | The man's hand is gently placed on the woman's face, adding to the intimate nature of their interaction. |

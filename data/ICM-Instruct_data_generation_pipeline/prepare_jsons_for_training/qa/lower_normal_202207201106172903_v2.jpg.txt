@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing sweatpants? | Yes. |
+| Yes/No | Is the person looking down at their feet? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the background of the image plain blue? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Does the person's attire or posture have any sexual or sensual connotations? | No. |
+| What | What color are the person's sneakers? | Orange. |
+| What | What is written on the person's sweatpants? | CEBZE. |
+| How | How is the person sitting on the stool? | With their legs crossed. |
+| What | What is the atmosphere of the image? | Calm and relaxed. |

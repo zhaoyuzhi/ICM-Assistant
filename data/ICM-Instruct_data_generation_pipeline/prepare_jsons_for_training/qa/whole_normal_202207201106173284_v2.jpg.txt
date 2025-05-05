@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman dressed in a black coat and a white shirt? | Yes. |
+| Yes/No | Is the woman holding a small purse? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Does the woman's attire and pose suggest a casual, everyday setting? | Yes. |
+| What | What is the woman's attire in the image? | Black coat and white shirt. |
+| What | What is the woman holding in the image? | Small purse. |
+| How | How is the woman standing in the image? | Neutral, casual pose. |
+| How | How would you describe the overall atmosphere of the image? | Calm, unassuming. |

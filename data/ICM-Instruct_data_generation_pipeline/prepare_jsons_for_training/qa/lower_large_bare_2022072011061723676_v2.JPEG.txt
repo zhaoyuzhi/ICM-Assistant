@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing any clothing? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Are the person's legs spread apart in the image? | Yes. |
+| Yes/No | Is the image in color? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| What | What is the person's skin tone in the image? | Light. |
+| What | What is the color scheme of the image? | Black and white. |
+| How | How are the person's legs positioned in the image? | Spread apart. |
+| How | How does the image create an atmosphere of sensuality and allure? | Through the person's large lower body exposure, spreadapart legs, and black and white color scheme. |

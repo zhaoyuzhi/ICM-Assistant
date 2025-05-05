@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue leggings suit? | Yes. |
+| Yes/No | Is the suit form-fitting and tight? | Yes. |
+| Yes/No | Does the suit have a black stripe running down the side? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Are the black sneakers complementing the woman's outfit? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What is the color of the leggings in the image? | Blue. |
+| What | What type of shoes is the woman wearing in the image? | Black sneakers. |
+| How | How is the woman posing in the image? | With her left hand on her hip and her right hand resting on her thigh. |
+| How | How does the black stripe on the leggings add an element of intrigue to the image? | It creates a visually appealing contrast with the blue fabric, adding an element of surprise and interest to the design. |

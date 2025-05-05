@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red nail polish? | Yes. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Does the image feature the person's full face? | No. |
+| Yes/No | Is the person's tongue sticking out? | Yes. |
+| Yes/No | Are the person's facial features emphasized in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the nail polish on the person's fingernails? | Red. |
+| What | What is the person's facial expression? | Neutral. |
+| How | How does the open mouth and tongue sticking out contribute to the image's atmosphere? | It adds a sense of intimacy and sensuality. |
+| How | How does the neutral facial expression contribute to the image's atmosphere? | It allows the viewer to focus on the person's features and the details of the image. |

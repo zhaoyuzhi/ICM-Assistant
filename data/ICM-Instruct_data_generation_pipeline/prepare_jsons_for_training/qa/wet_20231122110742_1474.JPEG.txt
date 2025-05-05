@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress soaked? | Yes. |
+| Yes/No | Does the dress cling to the woman's form? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the woman's facial expression? | A slight smile. |
+| What | What is the texture of the wall in the background? | Textured. |
+| How | How does the woman's pose contribute to the overall allure of the image? | Her pose, with her hair styled in loose waves and her slight smile, adds a sense of confidence and allure to the image. |
+| How | How does the textured wall in the background affect the image? | The textured wall provides a contrasting texture that further accentuates the woman's form, adding depth and visual interest to the image. |

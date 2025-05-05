@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white crop top? | Yes. |
+| Yes/No | Are the jeans high-waisted? | Yes. |
+| Yes/No | Does the top have a bow on the front? | Yes. |
+| Yes/No | Is the woman striking a pose? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the outfit reveal the woman's midriff? | Yes. |
+| What | What is the color of the woman's crop top? | White. |
+| What | What is the style of the jeans? | Highwaisted. |
+| How | How is the woman's left hand positioned in the image? | On her hip. |
+| How | How is the woman's right hand positioned in the image? | On her thigh. |

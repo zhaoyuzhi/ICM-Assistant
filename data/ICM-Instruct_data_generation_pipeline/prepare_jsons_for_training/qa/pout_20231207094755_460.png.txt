@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink lipstick? | Yes. |
+| Yes/No | Does the woman have blonde hair? | Yes. |
+| Yes/No | Is the woman making a playful facial expression? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Is the overall image sexy? | Yes. |
+| Yes/No | Does the image capture a moment of seduction? | Yes. |
+| What | What color is the woman's lipstick? | Pink. |
+| What | What is the woman's hair color? | Blonde. |
+| How | How is the woman's facial expression? | Playful and seductive. |
+| Yes/No | Why does the image give off a sexy vibe? | The woman's alluring facial expression, blonde hair, and pink lipstick create an atmosphere that is both enticing and captivating. |

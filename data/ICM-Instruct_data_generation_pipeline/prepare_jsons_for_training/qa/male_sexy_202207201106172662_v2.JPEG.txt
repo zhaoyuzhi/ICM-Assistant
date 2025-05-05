@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image holding a ball? | No. |
+| Yes/No | Is the man in the image standing in a pool? | No. |
+| Yes/No | Is the man in the image smiling? | No. |
+| Yes/No | Is the man in the image standing on a beach? | No. |
+| Yes/No | Is the man in the image holding a bottle of water? | No. |
+| What | What is the man in the image holding in his hands? | Blue boxing gloves. |
+| What | What is the background of the image? | A gym setting. |
+| How | How is the man standing in the image? | In a boxing stance. |
+| How | How are the man's arms raised in the image? | With his fists clenched, ready to throw a punch. |

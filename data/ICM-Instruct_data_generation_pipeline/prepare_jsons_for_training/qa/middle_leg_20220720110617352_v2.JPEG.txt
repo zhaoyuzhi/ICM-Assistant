@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Are the woman's arms crossed or held up? | No. |
+| Yes/No | Is the woman standing in front of a window? | Yes. |
+| Yes/No | Is the curtain open or closed? | Open. |
+| Yes/No | Is the woman's hair visible in the image? | No. |
+| What | What is the woman's facial expression? | Relaxed and casual. |
+| What | What is the color of the woman's shorts? | Light in color (e.g. white, beige, pale pink). |
+| How | How is the woman standing in the room? | With her feet shoulderwidth apart, relaxed and casual. |
+| How | How does the woman's pose contribute to the overall feel of the image? | Her pose, with her arms relaxed at her sides and her gaze over her shoulder, adds to the allure and sexiness of the image. |

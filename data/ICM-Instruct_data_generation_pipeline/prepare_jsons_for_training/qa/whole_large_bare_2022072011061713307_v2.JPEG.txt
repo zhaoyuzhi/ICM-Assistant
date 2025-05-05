@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing any pants or underwear? | No. |
+| Yes/No | Is the woman in the image sitting on the sand at the beach? | Yes. |
+| Yes/No | Is the exposure level of the image high? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and allure? | Yes. |
+| Yes/No | Is the beach setting associated with relaxation and leisure? | Yes. |
+| What | What is the woman in the image wearing around her neck? | A necklace. |
+| What | What is the color of the bikini top the woman is wearing? | White. |
+| How | How is the woman in the image sitting on the sand? | With her legs crossed. |
+| How | How does the image create a sense of intimacy and allure? | Through the woman's attire, the high exposure level, and the beach setting. |

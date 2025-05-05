@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Are the woman's sleeves three-quarter length? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a bun? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the woman's facial expression? | Slight smile. |
+| What | What is the material of the wall in the background? | Stone. |
+| How | How is the woman's hair styled? | Pulled back into a bun. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

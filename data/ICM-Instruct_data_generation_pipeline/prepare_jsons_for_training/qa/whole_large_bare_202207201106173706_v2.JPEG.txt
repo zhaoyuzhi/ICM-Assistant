@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is she looking directly at the camera? | Yes. |
+| Yes/No | Is the bathtub white? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| What | What color is the woman's bra? | Black. |
+| What | What color are her underwear? | Black. |
+| How | How is the woman posing in the image? | Her legs are crossed. |
+| How | How does the image create a sense of intimacy and focus on the woman? | The bathtub setting and blurred background create a sense of intimacy and focus on the woman, making the image more provocative. |

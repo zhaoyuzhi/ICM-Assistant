@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress long-sleeved? | Yes. |
+| Yes/No | Does the dress have a tie at the waist? | Yes. |
+| Yes/No | Is the woman wearing black heels? | Yes. |
+| Yes/No | Is the woman holding a phone? | Yes. |
+| Yes/No | Are the blinds on the window open or closed? | Closed. |
+| What | What color is the dress? | Blue. |
+| What | What is the woman holding in her hand? | A phone. |
+| How | How is the woman's hair styled? | Long and straight. |
+| What | What is the atmosphere of the image? | Calm and composed. |

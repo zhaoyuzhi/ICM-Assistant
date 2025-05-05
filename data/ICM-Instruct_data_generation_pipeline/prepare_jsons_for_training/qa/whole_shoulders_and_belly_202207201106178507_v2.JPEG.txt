@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports outfit? | Yes. |
+| Yes/No | Is the woman posing seductively? | Yes. |
+| Yes/No | Does the image include a mirror? | Yes. |
+| Yes/No | Is the woman's midriff visible? | Yes. |
+| Yes/No | Does the image include a potted plant? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| What | What is the woman holding in her left hand? | A purple yoga mat. |
+| What | What is the color of the woman's sports outfit? | Purple. |
+| How | How is the woman's hair styled? | Loose waves. |
+| How | How is the woman posing? | With her hand on her hip and a seductive expression. |

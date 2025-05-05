@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Are her shoes black heels? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the background of the image a brick wall and a tree? | Yes. |
+| What | What is the woman's attire in the image? | A white blouse and a black skirt. |
+| What | What is the woman's pose in the image? | Walking towards the camera with a slight smile. |
+| How | How does the woman's attire contribute to the overall feeling of the image? | The classic and timeless combination of white and black creates a sense of elegance, while the black heels add an element of sophistication. |
+| How | How does the background of the image contribute to the overall feeling of the image? | The simple and uncluttered background allows the viewer to focus on the woman and her attire, creating a sense of allure and confidence. |

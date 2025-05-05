@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose in the image neutral? | Yes. |
+| Yes/No | Does the image include a back pocket on the jeans? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What color are the jeans in the image? | Blue. |
+| What | What is the focus of the image? | The person's clothing, specifically the blue jeans, and the plain white background. |
+| How | How is the person's pose in the image? | Neutral. |
+| How | How does the image's simplicity contribute to its non-sexual nature? | The absence of any provocative elements and the focus on the person's clothing and the plain background create a calm and straightforward atmosphere, which contributes to the image's nonsexual nature. |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the person have a back pocket on their jeans? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the image taken from the waist down? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | No. |
+| What | What is the person in the image wearing on their lower body? | Blue jeans. |
+| What | What is the color of the person's shirt? | White. |
+| How | How is the person's lower body dressed in the image? | The person is wearing a pair of blue jeans with a high waist and a back pocket. |
+| How | How would you describe the overall atmosphere of the image? | Casual and everyday. |

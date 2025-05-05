@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a plaid shirt? | Yes. |
+| Yes/No | Is the woman in the image standing against a white background? | Yes. |
+| Yes/No | Does the woman in the image have loose waves in her hair? | Yes. |
+| Yes/No | Are the blue jeans the woman is wearing faded? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color is the plaid shirt the woman is wearing? | Red, blue, and white. |
+| What | What is the woman's pose in the image? | Standing with a casual, relaxed posture. |
+| How | How are the blue jeans the woman is wearing styled? | Slightly faded. |
+| How | How does the woman's hair look in the image? | Loose waves. |

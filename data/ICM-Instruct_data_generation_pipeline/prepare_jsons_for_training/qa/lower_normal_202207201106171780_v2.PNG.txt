@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Does the woman in the image have loose waves in her hair? | Yes. |
+| Yes/No | Is the woman in the image wearing a gold necklace? | Yes. |
+| Yes/No | Is the garden in the background lush with green plants and trees? | Yes. |
+| Yes/No | Is the woman's pose in the image neutral? | Yes. |
+| What | What color is the woman's skirt? | Brown. |
+| What | What type of plants are in the garden? | Green plants and trees. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How does the garden setting add to the atmosphere of the image? | It creates a serene and peaceful atmosphere. |

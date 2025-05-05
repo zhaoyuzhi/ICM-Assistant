@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit and tie? | Yes. |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Are the man and woman holding a small object? | Yes. |
+| Yes/No | Is the room in the image dimly lit? | Yes. |
+| Yes/No | Is there a large screen in the background of the image? | Yes. |
+| Yes/No | Does the image depict any intimate or suggestive actions between the man and woman? | No. |
+| What | What are the man and woman holding in the image? | A small object, possibly a toy or gadget. |
+| What | What is the focus of the image? | The interaction between the two individuals and the object they are holding. |
+| How | How is the room in the image lit? | Dimly lit. |
+| How | How does the image convey the atmosphere of the scene? | The low exposure level and the presence of a large screen in the background add to the seriousness of the scene, emphasizing that the image is not intended to be sexy. |

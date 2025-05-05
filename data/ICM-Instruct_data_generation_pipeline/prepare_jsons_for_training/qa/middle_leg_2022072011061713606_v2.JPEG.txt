@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Are the woman's thighs visible in the image? | Yes. |
+| Yes/No | Is the woman's posture upright in the image? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What color is the woman's skirt? | Beige. |
+| What | What is the woman's posture in the image? | Upright. |
+| How | How does the skirt fall in relation to the woman's knees? | Just above her knees. |
+| How | How does the woman's clothing choice and posture create an atmosphere? | They create an alluring and confident atmosphere. |

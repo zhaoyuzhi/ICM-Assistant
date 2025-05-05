@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting on a bench? | Yes. |
+| Yes/No | Is the woman holding a rose in her hand? | Yes. |
+| Yes/No | Is the woman's dress soaked? | Yes. |
+| Yes/No | Are there green plants and trees in the garden? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Does the image have a sensuality to it? | Yes. |
+| What | What is the woman holding in her hand? | A rose. |
+| What | What is the woman's dress made of? | White. |
+| How | How is the woman's dress soaked? | It is not specified in the description, but it could be from rain, dew, or water. |
+| How | How does the garden setting add to the atmosphere of the image? | The lush green plants and trees create a serene and intimate atmosphere, making the viewer feel like they are part of this private moment. |

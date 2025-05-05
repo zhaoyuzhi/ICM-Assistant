@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Is the skirt black? | Yes. |
+| Yes/No | Does the skirt have buttons on the front? | Yes. |
+| Yes/No | Is the person's pose confident and relaxed? | Yes. |
+| Yes/No | Are the person's hands resting on her hips? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the person's top? | White. |
+| What | What is the color of the skirt? | Black. |
+| How | How many buttons are on the front of the skirt? | Three. |
+| How | How would you describe the person's pose? | Confident and relaxed. |

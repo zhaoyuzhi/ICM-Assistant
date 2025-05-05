@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman's top white? | Yes. |
+| Yes/No | Are the jeans cropped at the ankle? | Yes. |
+| Yes/No | Is the woman's pose confident and assertive? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the white background plain? | Yes. |
+| What | What color are the woman's jeans? | Blue. |
+| What | What is the woman's pose? | Hands on hips. |
+| How | How do the blue jeans and white top contrast? | The blue jeans and white top create a striking contrast, drawing attention to the woman's legs and the overall shape of her body. |
+| How | How does the woman's confident pose and revealing outfit suggest a sense of self-assuredness and confidence? | The woman's confident pose and revealing outfit suggest a sense of selfassuredness and confidence by showcasing her body in a sexy and confident way, drawing attention to her shape and curves. |

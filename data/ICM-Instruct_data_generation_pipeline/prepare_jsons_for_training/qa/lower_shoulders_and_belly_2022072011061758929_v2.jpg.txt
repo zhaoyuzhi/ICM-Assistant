@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Do the leggings extend down to the person's ankles? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color are the leggings? | Blue. |
+| What | What is the main focus of the image? | The person's leggings and posture. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How does the person's pose contribute to the overall allure of the image? | The pose, with the person's arms relaxed and legs slightly apart, adds to the overall allure of the image. |

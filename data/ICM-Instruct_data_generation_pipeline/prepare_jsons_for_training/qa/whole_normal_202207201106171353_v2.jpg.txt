@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a checkered shirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman's pose in the image neutral? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the image sexy or provocative? | No. |
+| Yes/No | Is the focus of the image on the woman's attire and pose rather than her physical appearance? | Yes. |
+| What | What is the woman wearing in the image? | A checkered shirt. |
+| What | What is the overall atmosphere of the image? | Calm and professional. |
+| How | How is the woman standing in the image? | Neutral pose. |
+| How | How much of the woman's body is visible in the image? | A small portion. |

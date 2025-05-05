@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white? | Yes. |
+| Yes/No | Is the marble wall behind the person white and gray? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| Yes/No | Is the person looking at the camera? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| What | What is the person wearing? | White shorts and white shoes. |
+| What | What is the pattern on the marble wall? | White and gray. |
+| How | How is the person standing in relation to the camera? | Slightly turned to the side. |
+| How | How does the image capture the person's attitude? | Confidence and allure. |

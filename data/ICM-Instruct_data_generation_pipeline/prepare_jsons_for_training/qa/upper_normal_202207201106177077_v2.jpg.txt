@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sweater? | Yes. |
+| Yes/No | Does the woman have short hair? | Yes. |
+| Yes/No | Is the woman leaning against a wall? | Yes. |
+| Yes/No | Are the woman's arms crossed? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the woman wearing in the image? | A pink sweater and earrings. |
+| What | What is the woman's pose in the image? | Leaning against a wall with her arms crossed. |
+| How | How does the woman's attire suggest a casual, everyday setting? | The woman is wearing a modest pink sweater and earrings, which suggest a casual, everyday setting. |
+| How | How does the low exposure level contribute to the non-sexual atmosphere of the image? | The low exposure level means that only a small portion of the woman's body is visible, which contributes to a nonsexual atmosphere by avoiding any explicit or suggestive content. |

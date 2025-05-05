@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked from their thighs to their ankles? | Yes. |
+| Yes/No | Is the person standing on a white circular platform? | Yes. |
+| Yes/No | Are the person's arms raised? | Yes. |
+| Yes/No | Are the person's legs slightly bent? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Do the white sneakers with a star design add a unique and stylish element to the image? | Yes. |
+| What | What is the person wearing on their feet? | White sneakers with a star design. |
+| What | What is the color of the background in the image? | White. |
+| How | How are the person's arms positioned in the image? | Raised. |
+| How | How are the person's legs positioned in the image? | Slightly bent. |

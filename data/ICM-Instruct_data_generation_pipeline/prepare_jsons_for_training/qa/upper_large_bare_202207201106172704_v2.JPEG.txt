@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a bikini top? | Yes. |
+| Yes/No | Is the woman wearing a scarf around her neck? | Yes. |
+| Yes/No | Is the woman wearing a green headband? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's bikini top? | Yellow. |
+| What | What colors are in the woman's scarf? | Orange, green, and blue. |
+| How | How is the woman wearing her scarf? | Around her neck. |
+| How | How would you describe the woman's expression in the image? | Smiling and confident. |

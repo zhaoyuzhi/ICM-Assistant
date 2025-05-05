@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue sweatpants? | Yes. |
+| Yes/No | Does the person have their hands tucked into their pockets? | Yes. |
+| Yes/No | Are the sweatpants loose-fitting? | Yes. |
+| Yes/No | Is the sweatshirt the same color as the sweatpants? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| What | What color are the sweatpants? | Blue. |
+| What | What is the person's attire? | Blue sweatpants and a blue sweatshirt. |
+| How | How are the person's hands positioned? | Tucked into the pockets of the sweatpants. |
+| What | What is the focus of the image? | The person's lower body. |
+| Yes/No | Is the person in the image wearing blue sweatpants? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the sweatpants made of a soft fabric? | Yes. |
+| Yes/No | Is the person wearing a blue shirt? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| What | What color are the sweatpants? | Blue. |
+| What | What is the person's posture in the image? | Standing with hands on hips. |
+| How | How are the sweatpants made of a soft fabric? | The description does not provide this information. |
+| How | How is the person standing in the image? | With their back facing the camera. |

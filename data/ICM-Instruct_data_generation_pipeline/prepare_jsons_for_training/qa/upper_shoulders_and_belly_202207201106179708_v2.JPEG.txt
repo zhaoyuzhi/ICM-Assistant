@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a denim jacket? | Yes. |
+| Yes/No | Are the woman's pants sweatpants? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the background of the image a gray wall? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She has her hand on her head. |
+| What | What is the color of the woman's jacket? | Denim. |
+| How | How does the woman's hair contribute to her overall look? | It adds to her overall look by creating a relaxed, effortless vibe. |
+| How | How does the gray wall serve as a backdrop for the image? | It provides a neutral background that allows the woman's outfit and pose to stand out. |

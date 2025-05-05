@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| Yes/No | Does the image feature the person's full face? | No. |
+| Yes/No | Is the person in the image pouting? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the person's nose slightly tilted upwards? | Yes. |
+| Yes/No | Does the image have a sexy or provocative atmosphere? | Yes. |
+| What | What is the facial expression of the person in the image? | Pouting. |
+| What | What is the focal point of the image? | The person's lips and nose. |
+| How | How does the close-up shot contribute to the image's atmosphere? | It creates a sense of intimacy and allure. |
+| How | How does the person's pouting expression contribute to the image's atmosphere? | It adds to the overall allure and seductive nature of the image. |

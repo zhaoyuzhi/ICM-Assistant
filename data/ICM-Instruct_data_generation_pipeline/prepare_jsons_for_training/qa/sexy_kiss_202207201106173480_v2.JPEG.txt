@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue sweater? | Yes. |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Do the man and woman in the image have dark hair? | Yes. |
+| Yes/No | Are the man and woman in the image standing close to each other? | Yes. |
+| Yes/No | Is the woman's hand on the man's chest in the image? | Yes. |
+| Yes/No | Is the background of the image a blue sky with white clouds? | Yes. |
+| What | What is the color of the man's sweater in the image? | Blue. |
+| What | What is the color of the woman's sweater in the image? | White. |
+| How | How are the man and woman positioned in relation to each other in the image? | They are standing close to each other, with the woman's hand on the man's chest. |
+| How | How would you describe the atmosphere of the image? | Romantic and affectionate. |

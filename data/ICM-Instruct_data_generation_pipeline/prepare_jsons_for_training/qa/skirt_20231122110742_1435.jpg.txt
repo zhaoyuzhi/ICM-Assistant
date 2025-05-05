@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green dress? | Yes. |
+| Yes/No | Are her thighs and knees exposed in the image? | Yes. |
+| Yes/No | Is she wearing white socks and white shoes? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Is the woman lifting her dress in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's dress? | Green. |
+| What | What is the woman lifting her dress with? | Her hands. |
+| How | How is the woman's dress revealing her legs and thighs? | Through a high slit. |
+| How | How is the image seductive and alluring? | The dress with a high slit and the woman lifting it create a sense of intimacy and allure. |

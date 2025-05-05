@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Does the woman have her left hand on her hip? | Yes. |
+| Yes/No | Is the woman's right hand resting on her thigh? | Yes. |
+| Yes/No | Are the woman's sweatpants gray? | Yes. |
+| Yes/No | Does the image capture a moment of self-assurance? | Yes. |
+| What | What is the woman wearing on her lower body? | Gray sweatpants. |
+| What | What is the color of the woman's sports bra? | Black. |
+| How | How is the woman's pose in the image? | Confident and sexy. |
+| How | How does the image make you feel? | Intrigued and attracted. |

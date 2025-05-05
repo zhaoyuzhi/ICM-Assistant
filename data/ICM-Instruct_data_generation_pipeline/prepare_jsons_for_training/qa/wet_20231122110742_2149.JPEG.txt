@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress transparent? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the water around her green? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the woman's pose in the image? | She has her hands on her hips. |
+| What | What color is the water in the image? | Green. |
+| How | How does the dress appear in the image? | It appears wet and transparent. |
+| How | How does the overall atmosphere of the image feel? | Sensual and alluring. |

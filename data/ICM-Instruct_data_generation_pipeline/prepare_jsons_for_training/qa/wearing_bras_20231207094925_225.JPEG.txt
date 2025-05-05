@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on her bra in the first photo? | Yes. |
+| Yes/No | Is the woman adjusting the straps of her bra in the second photo? | Yes. |
+| Yes/No | Is the woman adjusting the cups of her bra in the third photo? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the woman doing in the first photo? | Putting on her black bra. |
+| What | What is the woman doing in the second photo? | Adjusting the straps of her black bra. |
+| How | How is the woman's bra adjusted in the third photo? | The cups are being adjusted. |
+| What | What color is the woman's bra in the image? | Black. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on her bra in the first photo? | Yes. |
+| Yes/No | Is the woman adjusting the straps of her bra in the second photo? | Yes. |
+| Yes/No | Is the woman adjusting the cups of her bra in the third photo? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| What | What is the woman wearing in the image? | A black bra. |
+| What | What is the woman doing in the first photo? | Putting on her bra. |
+| How | How is the woman adjusting her bra in the second photo? | She is adjusting the straps. |
+| How | How is the woman adjusting her bra in the third photo? | She is adjusting the cups. |

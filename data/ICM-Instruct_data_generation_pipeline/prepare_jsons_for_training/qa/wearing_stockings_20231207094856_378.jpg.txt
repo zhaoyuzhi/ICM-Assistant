@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Is the person in the image putting on black stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the setting of the image a private space? | Yes. |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person in the image wearing? | Black stockings and black shorts. |
+| How | How is the person in the image putting on the stockings? | They are rolling them up. |
+| How | How does the image make you feel? | Intrigued and allured. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Are there rolled-up socks and shorts on the bed? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the person in a private space? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the atmosphere created by the combination of the person's attire and the setting? | Allure and intrigue. |
+| How | How is the person preparing themselves in the image? | By putting on black stockings. |
+| How | How does the setting contribute to the atmosphere of the image? | The bed is associated with relaxation and comfort, and the act of putting on stockings can be seen as sensual and alluring. |

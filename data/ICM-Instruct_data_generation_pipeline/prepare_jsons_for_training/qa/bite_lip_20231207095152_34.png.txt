@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a burgundy off-the-shoulder top? | Yes. |
+| Yes/No | Does the woman in the image have short hair? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a window with a balcony railing? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's top? | Burgundy. |
+| What | What is the woman's facial expression? | Serious. |
+| How | How is the woman standing in front of the window? | She is standing in front of the window with a balcony railing. |
+| How | How does the woman's facial expression and actions contribute to the image's sexy atmosphere? | The woman's serious facial expression and actions of biting her lip create an atmosphere of sensuality and allure, which are often associated with a sense of mystery and intrigue. |

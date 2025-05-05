@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image standing with her back to the camera? | Yes. |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Are the woman's socks white? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What color is the woman's blouse? | White. |
+| How | How is the woman lifting her dress? | She is lifting the dress with her hands. |
+| What | What is the overall effect of the woman's pose and the image's contrast on the viewer? | The overall effect is seductive and alluring, drawing attention to the woman's legs and silhouette. |

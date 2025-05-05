@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Are her arms raised above her head? | Yes. |
+| Yes/No | Is she in a yoga pose? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A gray tank top and black pants. |
+| What | What is the woman's pose in the image? | A yoga pose with her arms raised above her head. |
+| How | How does the woman's pose suggest a sense of strength and determination? | The pose conveys a sense of confidence and control, implying strength and determination. |
+| How | How does the image's atmosphere contribute to its perception as sexy? | The image's atmosphere is confident and empowering, which can contribute to its perception as sexy. |

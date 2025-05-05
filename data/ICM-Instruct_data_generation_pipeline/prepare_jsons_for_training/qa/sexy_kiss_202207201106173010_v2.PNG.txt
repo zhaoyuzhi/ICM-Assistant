@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man lying on the bed? | Yes. |
+| Yes/No | Is the woman standing over the man? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the bedspread floral? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man wearing? | A black shirt. |
+| What | What is the woman wearing? | A white shirt. |
+| How | How are the man and woman positioned in the image? | The man is lying on the bed, and the woman is standing over him. |
+| How | How does the bedspread contribute to the atmosphere of the image? | The bedspread adds a soft, comfortable touch to the scene and creates an intimate atmosphere. |

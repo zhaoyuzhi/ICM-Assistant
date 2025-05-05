@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's shorts black? | Yes. |
+| Yes/No | Is the woman sitting on a bed? | Yes. |
+| Yes/No | Is the bed covered with a white comforter? | Yes. |
+| Yes/No | Does the woman have a white pillow? | Yes. |
+| Yes/No | Is the woman putting on beige stockings? | Yes. |
+| What | What color are the stockings the woman is putting on? | Beige. |
+| What | What is the woman's focus in the image? | Putting on stockings. |
+| How | How does the image capture a moment of intimacy and vulnerability? | The woman is engaged in a private activity, and her actions and movements convey a sense of sensuality and relaxation. |
+| How | How does the image create an atmosphere of allure and sensuality? | The combination of the woman's actions, the bed's white comforter and pillow, and the beige color of the stockings all contribute to create an atmosphere of allure and sensuality. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's shorts black? | Yes. |
+| Yes/No | Is the woman putting on beige stockings? | Yes. |
+| Yes/No | Is the bed covered with a white comforter? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the woman's movement and action focused on putting on the stockings? | Yes. |
+| What | What color are the stockings the woman is putting on? | Beige. |
+| What | What is the color of the pillow on the bed? | White. |
+| How | How does the woman's action of putting on stockings contribute to the image's overall atmosphere? | It adds a touch of elegance and sophistication. |
+| How | How does the private setting of the image contribute to its sexiness? | It creates a sense of relaxation and comfort, which enhances the sensual nature of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the woman have a tattoo on her back? | Yes. |
+| Yes/No | Is the woman carrying a white purse? | Yes. |
+| Yes/No | Is the image seductive and alluring? | Yes. |
+| Yes/No | Does the woman have large earrings? | Yes. |
+| Yes/No | Is the woman pointing at something? | Yes. |
+| What | What is the woman pointing at? | cannot be determined from the description. |
+| What | What is the color of the woman's purse? | White. |
+| How | How is the woman's attire suggesting her confidence and self-assuredness? | The woman's exposed back and shoulder area, as well as her large earrings, suggest a sense of confidence and selfassuredness. |
+| How | How does the tattoo on the woman's back add to her appearance? | The tattoo on the woman's back adds a unique and intriguing element to her appearance, making her stand out and adding to the overall allure of the image. |

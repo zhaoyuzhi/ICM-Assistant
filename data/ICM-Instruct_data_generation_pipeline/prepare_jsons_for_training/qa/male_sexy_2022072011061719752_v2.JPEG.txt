@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image posing confidently? | Yes. |
+| Yes/No | Does the image include any other people or objects? | No. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Are the man's underwear black? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the man in the image wearing? | Black underwear. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man posing in the image? | With his hands on his hips. |
+| How | How does the contrast between the man's underwear and the background affect the image? | It accentuates his physique, making the image more visually appealing. |

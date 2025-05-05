@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the stockings being put on over the person's legs? | Yes. |
+| Yes/No | Is the person sitting on a bed? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image create a sense of allure and intrigue? | Yes. |
+| Yes/No | Is the person's posture suggestive? | Yes. |
+| What | What is the person wearing on their legs? | Black tights and pink skirt. |
+| What | What is the color of the blanket? | Gray and white. |
+| How | How are the stockings being put on? | The person is pulling them up over their legs. |
+| How | How does the image create a sense of allure and intrigue? | The image captures a private and intimate moment of a person putting on stockings, which can be seen as a form of selfexpression and a way to reveal one's body to another person. The combination of colors and patterns creates a visually appealing contrast, which can further enhance the sensuality of the image. |
+| Yes/No | Is the person in the image wearing black tights? | Yes. |
+| Yes/No | Is the person in the image wearing a pink skirt? | Yes. |
+| Yes/No | Are the stockings being pulled up over the person's legs? | Yes. |
+| Yes/No | Is the person sitting on a bed? | Yes. |
+| Yes/No | Is the blanket gray and white patterned? | Yes. |
+| Yes/No | Does the image create a sense of allure and intrigue? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the color of the person's skirt? | Pink. |
+| How | How are the stockings being put on? | The person is pulling them up over their legs. |
+| How | How does the image create a sense of allure and intrigue? | The image captures a private and intimate moment of a person putting on stockings, which can be seen as a form of selfexpression and a way to reveal one's body to another person. The combination of the person's attire, the intimate setting, and the act of putting on stockings create a visually appealing contrast that can further enhance the sensuality of the image. |

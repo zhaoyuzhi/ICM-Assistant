@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a helmet? | No. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the scooter in the image a bright color? | No. |
+| Yes/No | Is the woman's jacket zipped up? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the woman's hair blowing in the wind? | No. |
+| What | What color is the woman's jacket? | Brown. |
+| What | What color are the woman's boots? | Black. |
+| How | How is the woman's scooter moving? | In motion. |
+| How | How would you describe the atmosphere of the image? | Casual and relaxed. |

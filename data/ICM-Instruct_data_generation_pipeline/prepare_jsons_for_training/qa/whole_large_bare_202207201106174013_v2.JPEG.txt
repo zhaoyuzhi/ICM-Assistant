@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman's left hand on her hip? | Yes. |
+| Yes/No | Is the woman's right hand on her thigh? | Yes. |
+| Yes/No | Is the woman moving towards the left side of the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the woman's hair color? | The woman's hair color is not visible in the image. |
+| What | What is the woman's facial expression? | The woman's facial expression is not visible in the image. |
+| How | How is the woman's hand resting on her thigh? | The woman's hand is resting on her thigh in a relaxed manner. |
+| How | How is the woman moving towards the right side of the image? | The woman is moving towards the right side of the image with a confident stride. |

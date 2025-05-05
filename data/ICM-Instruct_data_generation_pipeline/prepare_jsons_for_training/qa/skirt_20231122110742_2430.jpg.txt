@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Are the polka dots on the dress black? | Yes. |
+| Yes/No | Is the woman lifting her dress up? | Yes. |
+| Yes/No | Is she wearing pink tights? | Yes. |
+| Yes/No | Are high heels visible in the image? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color are the polka dots on the dress? | Black. |
+| What | What type of clothing item is the woman wearing on her legs? | Pink tights. |
+| How | How is the woman's dress being lifted? | It is being lifted up to reveal her legs. |
+| How | How would you describe the overall aesthetic of the image? | Sexy. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the person in the image wearing a white skirt? | Yes. |
+| Yes/No | Does the person in the image have a neutral pose? | Yes. |
+| Yes/No | Are the person's hands resting at their sides? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| What | What does the person's attire suggest? | Modesty and simplicity. |
+| How | How does the white background enhance the image? | It creates a clean and uncluttered visual effect. |
+| How | How does the low exposure level of the image contribute to its non-sexy appearance? | It ensures that the focus remains on the person's attire and posture, rather than any potential distractions or provocative elements. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white skirt? | Yes. |
+| Yes/No | Does the skirt have a slit on the side? | Yes. |
+| Yes/No | Is the person's hand placed on their hip? | Yes. |
+| Yes/No | Is the person looking downwards? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the person's attire in the image? | A white shirt and a white highwaisted skirt with a slit on the side. |
+| What | What is the overall atmosphere of the image? | Calm and composed, with a focus on modesty. |
+| How | How is the person's posture in the image? | The person is standing with their hand on their hip and looking downwards. |
+| How | How does the image's low exposure level contribute to its overall atmosphere? | The low exposure level emphasizes the focus on the person's clothing rather than their body, contributing to the calm and composed atmosphere of the image. |

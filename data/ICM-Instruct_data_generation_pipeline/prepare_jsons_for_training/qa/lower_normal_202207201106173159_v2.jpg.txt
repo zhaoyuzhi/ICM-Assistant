@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Are her hands placed on her hips? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Is the woman wearing revealing or provocative clothing? | No. |
+| What | What color are the woman's pants? | Green. |
+| What | What is the overall atmosphere of the image? | Calm and unassuming. |
+| How | How is the woman standing in the image? | With her hands on her hips and looking over her shoulder. |
+| How | How would you describe the exposure level of the image? | Very low, with only a small portion of her body visible. |

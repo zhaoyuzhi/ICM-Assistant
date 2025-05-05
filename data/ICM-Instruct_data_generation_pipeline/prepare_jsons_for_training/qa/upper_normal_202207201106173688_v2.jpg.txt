@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a black coat? | Yes. |
+| Yes/No | Does the coat have a high collar? | Yes. |
+| Yes/No | Are there buttons on the coat? | Yes. |
+| Yes/No | Is the woman standing against a plain white background? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What is the woman wearing underneath her coat? | A black shirt. |
+| What | What is the atmosphere of the image? | Professional or formal. |
+| How | How does the woman's attire suggest a work or business environment? | The black coat and shirt convey a sense of professionalism and formality. |
+| How | How does the low exposure level and plain background emphasize the focus on the woman's professional appearance? | The low exposure level and plain background draw attention to the woman's attire and overall appearance, rather than her physical features or a romantic/intimate context. |

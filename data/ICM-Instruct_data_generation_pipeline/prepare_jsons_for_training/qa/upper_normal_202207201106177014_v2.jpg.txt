@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Are the people in the image dressed in business attire? | Yes. |
+| Yes/No | Is the man wearing a tie? | Yes. |
+| Yes/No | Is the woman wearing a dress? | Yes. |
+| Yes/No | Are the man and woman standing next to each other? | Yes. |
+| Yes/No | Is the man's arm around the woman's waist? | Yes. |
+| What | What is the color of the man's shirt? | Blue. |
+| What | What is the color of the woman's dress? | Pink. |
+| How | How are the man and woman standing in the image? | They are standing next to each other, with the man's arm around the woman's waist. |
+| What | What is the background of the image? | The background of the image is a blue and white striped pattern. |

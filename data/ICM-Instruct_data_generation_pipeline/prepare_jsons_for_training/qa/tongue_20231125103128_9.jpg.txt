@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Does the woman in the image have long brown hair? | Yes. |
+| Yes/No | Is the woman's facial expression confident? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman's hair color? | Brown. |
+| How | How is the woman's expression? | Cheerful and confident. |
+| How | How does the woman's tongue sticking out create an atmosphere? | Fun and allure. |

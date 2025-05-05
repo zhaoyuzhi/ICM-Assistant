@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress light blue? | Yes. |
+| Yes/No | Does the dress reach the woman's knees? | Yes. |
+| Yes/No | Is the woman lifting the dress above her knees? | Yes. |
+| Yes/No | Are the woman's legs and thighs exposed in the image? | Yes. |
+| Yes/No | Is there a plant in the background of the image? | Yes. |
+| What | What is the woman doing in the image? | She is lifting her dress above her knees, exposing her legs and thighs. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is sexy, alluring, and intriguing. |
+| How | How is the woman's pose in the image? | The woman's pose is confident and seductive. |
+| How | How does the plant in the background contribute to the atmosphere of the image? | The plant in the background adds a natural element to the scene, which contrasts with the woman's confident and seductive pose, creating an atmosphere that is both alluring and intriguing. |

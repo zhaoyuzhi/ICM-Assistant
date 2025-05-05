@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pants? | No. |
+| Yes/No | Is the person's skin tone dark? | No. |
+| Yes/No | Are the person's legs uncrossed? | No. |
+| Yes/No | Is the person sitting on a chair? | No. |
+| Yes/No | Is the atmosphere of the image serious? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the person's body language suggestive of? | Vulnerability and allure. |
+| What | What is the color of the person's skin? | Light. |
+| How | How are the person's legs positioned? | Crossed and feet resting on the table. |
+| How | How does the image evoke feelings? | Desire and allure. |

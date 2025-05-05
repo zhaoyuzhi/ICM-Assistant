@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are black stockings being put on by the woman in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Are the woman's legs slightly apart in the image? | Yes. |
+| Yes/No | Is the setting of the image simple and uncluttered? | Yes. |
+| Yes/No | Is the image overall sexy and alluring? | Yes. |
+| What | What is the woman wearing in the image? | A black dress and black stockings. |
+| What | What is the woman doing in the image? | Putting on black stockings. |
+| How | How is the woman standing in the image? | With her legs slightly apart. |
+| How | How does the image make you feel? | It creates a sexy and alluring atmosphere. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are black stockings being put on by the woman in the image? | Yes. |
+| Yes/No | Is the woman standing in front of a wooden stool in the image? | Yes. |
+| Yes/No | Does the image depict an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the woman's attire in the image typically associated with a more provocative and seductive appearance? | Yes. |
+| What | What is the woman putting on in the image? | Black stockings. |
+| What | What is the color of the dress the woman is wearing in the image? | Black. |
+| How | How is the woman standing in the image? | With her legs slightly apart. |
+| How | How does the image create a sexy and alluring atmosphere? | Through the combination of the woman's attire, her actions, and the overall atmosphere of the scene. |

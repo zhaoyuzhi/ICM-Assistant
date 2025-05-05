@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a black dress with white polka dots? | Yes. |
+| Yes/No | Does the woman have a gold purse? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman walking towards the right side of the image? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman's attire like? | Elegant, black dress with white polka dots, complemented by a gold purse. |
+| What | What is the woman's hairstyle? | Loose waves. |
+| How | How is the woman's movement depicted in the image? | She is captured midstride, walking towards the right side of the image. |
+| How | How would you describe the overall atmosphere of the image? | Modest and appropriate, with a focus on the woman's outfit and movement rather than any provocative elements. |

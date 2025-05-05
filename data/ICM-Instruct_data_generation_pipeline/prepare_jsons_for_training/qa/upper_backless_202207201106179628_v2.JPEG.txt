@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red bra? | Yes. |
+| Yes/No | Are the person's underwear and bra matching? | Yes. |
+| Yes/No | Is the bra designed with thin straps? | Yes. |
+| Yes/No | Does the bra have a gold clasp? | Yes. |
+| Yes/No | Is the person's back turned towards the camera? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color are the bra and underwear? | Red. |
+| What | What is the main focus of the image? | The person's back. |
+| How | How are the thin straps of the bra designed? | They are designed to add a touch of elegance to the outfit. |
+| How | How does the gold clasp add to the overall atmosphere of the image? | It adds a touch of sophistication. |

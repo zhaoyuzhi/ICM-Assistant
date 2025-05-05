@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the jeans she is wearing blue? | Yes. |
+| Yes/No | Does the top have the word "NYC" written on it? | Yes. |
+| Yes/No | Is the woman's body turned to the side in the image? | Yes. |
+| Yes/No | Are her arms raised above her head? | Yes. |
+| Yes/No | Is the image's atmosphere sexy? | Yes. |
+| What | What color are the jeans the woman is wearing? | Blue. |
+| What | What is the woman's pose in the image? | She is striking a pose with her arms raised above her head and her body turned to the side. |
+| How | How is the woman's outfit revealing? | The strapless top and jeans expose her midriff. |
+| How | How does the image's atmosphere come across? | The atmosphere comes across as sexy due to the woman's pose and the revealing nature of her outfit. |

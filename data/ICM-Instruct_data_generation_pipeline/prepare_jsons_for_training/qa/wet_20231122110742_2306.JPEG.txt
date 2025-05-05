@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman sitting in a stream? | Yes. |
+| Yes/No | Is the woman's hair down? | Yes. |
+| Yes/No | Is the woman looking down at the water? | Yes. |
+| Yes/No | Does the image have a serene atmosphere? | Yes. |
+| Yes/No | Does the image have an intimate feel? | Yes. |
+| What | What is the woman's facial expression? | The woman is looking down at the water, so her facial expression is not visible in the image. |
+| What | What is the woman's body language? | The woman's body language is relaxed, as she is sitting in the stream with her hair down and her arms not visible. |
+| How | How is the woman's dress soaked? | The woman's dress is soaked because she has been in the water for some time. |
+| How | How does the image create a sense of vulnerability and connection with nature? | The image creates a sense of vulnerability and connection with nature because the woman is sitting in a stream, surrounded by nature, with her hair down and looking down at the water, which creates a sense of intimacy and vulnerability. Additionally, the serene atmosphere of the image enhances this sense of vulnerability and connection with nature. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the person in the image standing on a beach? | Yes. |
+| Yes/No | Is the person in the image holding a balloon? | Yes. |
+| Yes/No | Is the balloon multicolored? | Yes. |
+| Yes/No | Is the person's upper body exposed? | Yes. |
+| Yes/No | Is the collar around the person's neck black? | Yes. |
+| What | What is the person in the image holding in their left hand? | A large, multicolored balloon. |
+| What | What color is the person's bikini top? | Black. |
+| How | How does the beach setting contribute to the overall atmosphere of the image? | It suggests a relaxed, summery atmosphere. |
+| How | How does the black collar around the person's neck add to the image's intrigue? | It adds a touch of mystery. |

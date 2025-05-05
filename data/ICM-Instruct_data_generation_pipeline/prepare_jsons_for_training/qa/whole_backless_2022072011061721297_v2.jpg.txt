@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing towards the camera? | No. |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the woman in the image have her back turned towards the viewer? | Yes. |
+| Yes/No | Is the room in the image colored white? | Yes. |
+| Yes/No | Does the dress have a deep neckline? | Yes. |
+| Yes/No | Does the dress have a ruffled hem? | Yes. |
+| What | What color is the dress the woman is wearing? | Red. |
+| What | What is the woman's posture in the image? | Confident and alluring. |
+| How | How does the woman's back being turned towards the camera affect the image's atmosphere? | It adds a sense of mystery and invites the viewer to imagine what might be underneath the dress. |
+| How | How does the color red of the dress contribute to the image's atmosphere? | It creates a bold and sexy atmosphere, drawing attention to the woman's attire and adding an element of intrigue. |

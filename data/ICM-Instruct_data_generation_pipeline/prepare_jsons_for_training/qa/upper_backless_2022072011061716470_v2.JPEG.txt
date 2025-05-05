@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the leggings gray? | Yes. |
+| Yes/No | Is the person holding anything? | Yes. |
+| Yes/No | Are the exercise balls green? | Yes. |
+| Yes/No | Is the image focused on the woman's back? | Yes. |
+| Yes/No | Does the image evoke a sense of desire and allure? | Yes. |
+| What | What is the woman holding behind her back? | Two green exercise balls. |
+| What | What color are the exercise balls? | Green. |
+| How | How is the woman holding the exercise balls? | Behind her back. |
+| What | What does the woman's attire and posture suggest? | That she is in a state of readiness for a workout or exercise routine. |

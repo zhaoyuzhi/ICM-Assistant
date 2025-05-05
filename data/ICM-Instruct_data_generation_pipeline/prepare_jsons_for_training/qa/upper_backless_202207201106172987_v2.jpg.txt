@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black swimsuit? | Yes. |
+| Yes/No | Does the swimsuit have a low back? | Yes. |
+| Yes/No | Is the woman standing against a plain beige wall? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and allure? | Yes. |
+| Yes/No | Is the image seductive and alluring? | Yes. |
+| Yes/No | Does the contrast between the woman's figure and the background create a visually striking image? | Yes. |
+| What | What is the color of the woman's swimsuit? | Black. |
+| What | What is the design of the swimsuit? | Low back. |
+| How | How does the woman's pose contribute to the image's overall atmosphere? | The woman's confident and alluring pose adds to the seductive and alluring atmosphere of the image. |
+| How | How does the contrast between the woman's figure and the background contribute to the image's overall atmosphere? | The contrast between the woman's figure and the simplicity of the background creates a visually striking image that draws attention to the woman's body and the swimsuit's design, which adds to the seductive and alluring atmosphere of the image. |

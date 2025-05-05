@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini bottom? | Yes. |
+| Yes/No | Is the bikini bottom purple in color? | Yes. |
+| Yes/No | Are the person's legs bent at the knees? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image feature a beach setting? | Yes. |
+| Yes/No | Is the person's lower body exposed? | Yes. |
+| What | What is the color of the bikini bottom? | Purple. |
+| What | What is the atmosphere of the image? | Sexy. |
+| How | How are the person's legs positioned? | Bent at the knees. |
+| How | How does the image evoke feelings of relaxation and leisure? | Through the association of the beach setting with relaxation and leisure, and the person's attire and pose which suggest a carefree and enjoyable beach experience. |

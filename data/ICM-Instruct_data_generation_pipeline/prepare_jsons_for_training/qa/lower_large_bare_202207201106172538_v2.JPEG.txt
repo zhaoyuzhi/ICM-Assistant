@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini bottom? | Yes. |
+| Yes/No | Is the person barefoot in the image? | Yes. |
+| Yes/No | Is the person holding a wooden stick in the image? | Yes. |
+| Yes/No | Is the person moving towards the right side of the image? | Yes. |
+| Yes/No | Does the image capture the person's lower body? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person holding in their hand? | A wooden stick. |
+| What | What is the person wearing on their feet? | Nothing, they are barefoot. |
+| How | How is the person moving in the image? | They are moving towards the right side of the image. |
+| How | How does the image create a sense of relaxation and leisure? | The image creates a sense of relaxation and leisure through its depiction of a person enjoying a casual walk on a sandy beach, with a calm atmosphere and no signs of stress or urgency. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image holding a tie? | Yes. |
+| Yes/No | Is the man in the image standing against a gray background? | Yes. |
+| Yes/No | Does the man in the image have his right hand placed on his hip? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the black tie around the man's neck add a touch of sophistication? | Yes. |
+| What | What is the man in the image holding with his left hand? | A black tie. |
+| What | What is the dominant color of the background in the image? | Gray. |
+| How | How is the man in the image standing? | With his right hand placed on his hip and his left hand holding a black tie. |
+| How | How does the gray background affect the overall atmosphere of the image? | It emphasizes the man and creates a seductive and alluring atmosphere. |

@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing gold hoop earrings? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Is the atmosphere of the picture sexy? | Yes. |
+| What | What is the woman's hair color? | Dark hair. |
+| What | What is the woman's facial expression? | Serious. |
+| How | How is the woman sitting on the couch? | She is sitting on the couch looking upwards. |
+| How | How can the woman's expression and body language be interpreted? | It can be interpreted as a display of confidence and selfassuredness, which can contribute to the sexy atmosphere of the image. |

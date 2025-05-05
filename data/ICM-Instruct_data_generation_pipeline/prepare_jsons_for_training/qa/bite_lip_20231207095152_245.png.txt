@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person's mouth open in the image? | Yes. |
+| Yes/No | Are the person's teeth visible in the image? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the person's skin tone light? | Yes. |
+| Yes/No | Are there any other objects or text in the image? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person's lip color in the image? | Pink. |
+| What | What is the person's facial expression in the image? | Slightly puckered. |
+| How | How are the person's lips positioned in the image? | Slightly parted. |
+| How | How does the close-up perspective of the image make the person's lips and teeth appear? | Intimate and seductive. |

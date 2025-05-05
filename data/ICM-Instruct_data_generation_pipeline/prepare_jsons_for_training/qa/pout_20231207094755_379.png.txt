@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red lipstick? | Yes. |
+| Yes/No | Are the person's lips puckered in a pout? | Yes. |
+| Yes/No | Is the person wearing purple nail polish? | Yes. |
+| Yes/No | Is the image a close-up shot of the person's face? | Yes. |
+| Yes/No | Does the image emphasize the person's lips and red lipstick? | Yes. |
+| Yes/No | Does the image create an atmosphere that is both alluring and seductive? | Yes. |
+| What | What color is the person's lipstick? | Red. |
+| What | What is the person's nail polish color? | Purple. |
+| How | How are the person's lips puckered? | They are puckered in a pout. |
+| How | How does the close-up shot of the person's face draw attention to their lips and red lipstick? | It emphasizes their lips and red lipstick, drawing attention to these features. |

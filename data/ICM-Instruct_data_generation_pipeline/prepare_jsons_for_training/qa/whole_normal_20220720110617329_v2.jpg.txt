@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman standing in the image? | Yes. |
+| Yes/No | Is the woman wearing a pink shirt? | Yes. |
+| Yes/No | Is the woman wearing a beige skirt? | Yes. |
+| Yes/No | Is the woman holding her purse in her left hand? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the room decorated with any explicit or suggestive content? | No. |
+| What | What is the woman's pose in the image? | She is standing with her right hand on her hip and her left hand holding her purse. |
+| What | What is the dominant color scheme of the image? | The dominant color scheme is beige and pink. |
+| How | How is the woman's hair styled in the image? | Her hair is pulled back into a ponytail. |
+| How | How does the woman appear to be feeling in the image? | She appears to be relaxed and casual. |

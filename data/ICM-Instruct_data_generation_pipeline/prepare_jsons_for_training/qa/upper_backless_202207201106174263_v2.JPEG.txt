@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Does the person's arm are bent at the elbow? | Yes. |
+| Yes/No | Is the person's hand placed on their hip? | Yes. |
+| Yes/No | Is the person's posture confident and assertive? | Yes. |
+| Yes/No | Does the image evoke a sense of allure and sensuality? | Yes. |
+| Yes/No | Is the contrast between the person's skin and the black dress accentuated? | Yes. |
+| What | What is the person's posture in the image? | Confident and assertive. |
+| What | What is the color of the dress the person is wearing? | Black. |
+| How | How does the person's arm are positioned in the image? | Bent at the elbow. |
+| How | How does the dress cling to the person's form? | It clings tightly, highlighting the person's curves. |

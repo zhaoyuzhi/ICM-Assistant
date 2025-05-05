@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a white sports bra? | Yes. |
+| Yes/No | Are the person's arms placed on their hips? | Yes. |
+| Yes/No | Is the person looking over their shoulder? | Yes. |
+| Yes/No | Are the person's sneakers black? | No. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| What | What color are the person's leggings? | Blue. |
+| What | What type of shoes is the person wearing? | Sneakers. |
+| How | How are the person's arms positioned in the image? | On their hips. |
+| How | How is the person looking in the image? | Over their shoulder. |

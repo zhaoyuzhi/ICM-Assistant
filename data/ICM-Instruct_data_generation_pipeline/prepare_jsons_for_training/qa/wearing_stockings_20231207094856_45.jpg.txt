@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Are the stockings being pulled up? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the stockings and skirt? | Beige. |
+| What | What is the person in the image doing? | Putting on stockings. |
+| How | How does the beige color of the stockings and skirt add to the overall aesthetic? | It creates a soft and alluring appearance. |
+| How | How does the white background emphasize the subject? | It draws attention to the person and their actions. |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the stockings and skirt beige? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the person in the image standing? | Yes. |
+| What | What is the person in the image doing? | The person is pulling up their stockings. |
+| What | What is the color of the stockings and skirt? | Beige. |
+| How | How does the white background affect the image? | It emphasizes the subject and draws attention to the person and their actions. |
+| How | How does the act of putting on stockings relate to self-expression and confidence? | It can be seen as a form of selfexpression and confidence. |

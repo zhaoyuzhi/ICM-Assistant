@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white wedding dress? | Yes. |
+| Yes/No | Does the dress have a lace back? | Yes. |
+| Yes/No | Is the woman holding a bouquet of flowers? | Yes. |
+| Yes/No | Is the woman's back facing the camera? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's posture accentuating her figure? | Yes. |
+| What | What is the woman carrying in her hand? | A bouquet of flowers. |
+| What | What is the color of the woman's wedding dress? | White. |
+| How | How is the woman's posture in the image? | She is walking away from the camera with her back facing the viewer. |
+| How | How does the lace back of the dress add to the overall atmosphere of the image? | It adds a touch of sophistication and allure to the image. |

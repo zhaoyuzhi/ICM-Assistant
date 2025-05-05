@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black crop top? | Yes. |
+| Yes/No | Is the woman in the image wearing a plaid shirt? | Yes. |
+| Yes/No | Are the woman's jeans ripped? | Yes. |
+| Yes/No | Is the woman wearing black heels? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color is the woman's crop top? | Black. |
+| What | What type of shoes is the woman wearing? | Black heels. |
+| How | How is the woman's outfit cropped? | At the waist. |
+| How | How would you describe the woman's pose in the image? | Standing with a slight smile, looking directly at the camera. |

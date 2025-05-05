@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray leggings? | Yes. |
+| Yes/No | Does the image feature a close-up of the person's buttocks? | Yes. |
+| Yes/No | Is the person's posture confident, with their hands resting on their hips? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the image sexy because it features a close-up of a person's buttocks? | Yes. |
+| Yes/No | Do the gray leggings worn by the person add to the overall allure of the image? | Yes. |
+| What | What is the person in the image wearing? | Gray leggings. |
+| What | What is the person's posture in the image? | Confident, with their hands resting on their hips. |
+| How | How do the gray leggings accentuate the person's curves? | They are formfitting, highlighting the person's shape. |
+| How | How does the confident posture of the person add to the overall allure of the image? | It suggests a sense of selfassurance and confidence, which can be attractive. |

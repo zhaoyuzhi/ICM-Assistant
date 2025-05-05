@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman sitting at a table? | Yes. |
+| Yes/No | Is the man standing behind the woman? | Yes. |
+| Yes/No | Are the envelopes red? | Yes. |
+| Yes/No | Is the woman wearing sunglasses? | Yes. |
+| Yes/No | Is the man wearing a suit and tie? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the color of the woman's shirt? | Pink. |
+| What | What is the color of the envelopes? | Red. |
+| How | How is the woman dressed? | Formally, in a pink shirt and sunglasses. |
+| How | How is the man dressed? | Formally, in a suit and tie. |

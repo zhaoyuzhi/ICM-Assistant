@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a tank top? | Yes. |
+| Yes/No | Does the man have a beard? | Yes. |
+| Yes/No | Is the box covered in plastic wrap? | Yes. |
+| Yes/No | Is the man using both hands to lift the box? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the man in the image doing? | He is moving a large cardboard box. |
+| What | What is the atmosphere of the image? | The atmosphere is not sexy, it's a simple, everyday scene of a man moving a box. |
+| How | How is the man lifting the box? | He is using both hands to lift the box, indicating the effort involved in the task. |
+| How | How does the exposure level of the image affect the focus of the image? | The low exposure level ensures that the focus remains on the man's actions and the box rather than his appearance. |

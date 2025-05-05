@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a sweater? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the person in the image sitting on a bench? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Are the jeans a light blue color? | Yes. |
+| What | What color are the jeans? | Light blue. |
+| What | What is the person in the image wearing on their upper body? | A black sweater. |
+| How | How are the jeans styled? | With rips and patches on the knees. |
+| How | How would you describe the exposure level of the person in the image? | Low. |

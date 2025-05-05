@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person's legs crossed in the image? | Yes. |
+| Yes/No | Are the person's feet resting on the arm of the couch? | Yes. |
+| Yes/No | Is the person wearing a black dress? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Is the image perceived as sexy? | Yes. |
+| What | What is the person wearing on their legs? | Black stockings. |
+| What | What is the color of the person's dress? | Black. |
+| How | How are the person's legs positioned in the image? | Crossed, with their feet resting on the arm of the couch. |
+| What | What creates the intimate atmosphere in the image? | The closeup view of the person's legs, the fact that they are wearing stockings, and the overall pose of the person. |

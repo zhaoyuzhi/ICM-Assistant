@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Are the shorts white? | Yes. |
+| Yes/No | Is the person wearing sneakers? | Yes. |
+| Yes/No | Are the sneakers white? | Yes. |
+| Yes/No | Is the person posing for the camera? | Yes. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| What | What is the person's pose in the image? | The person is standing with their legs apart and their hands on their hips. |
+| What | What color are the person's shorts and sneakers? | White. |
+| How | How does the person's pose suggest confidence? | The person's legs are apart, and their hands are on their hips, conveying a sense of selfassurance and confidence. |
+| How | How does the image create a sense of allure and intrigue? | The person's pose and attire create a sense of allure and intrigue, making the image sexy. The white color of the shorts and sneakers adds to the overall brightness and cleanliness of the image, which can be perceived as sexy. |

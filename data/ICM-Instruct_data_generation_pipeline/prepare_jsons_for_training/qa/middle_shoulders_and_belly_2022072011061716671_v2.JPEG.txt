@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person looking directly at the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image suggest a sense of self-assuredness and confidence? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the person's hand positioned in the image? | Placed on their hip. |
+| How | How does the image create a casual and relaxed atmosphere? | Through the combination of a white shirt and blue jeans. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Is the gold belly chain with butterflies located on the person's stomach? | Yes. |
+| Yes/No | Is the person's hand placed on their hip? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What is the color of the person's shirt? | White. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the gold belly chain with butterflies positioned on the person's body? | It is positioned on the person's stomach. |
+| How | How does the person's pose suggest their confidence and self-assurance? | The person's hand is placed on their hip, suggesting a sense of selfassuredness and confidence. |

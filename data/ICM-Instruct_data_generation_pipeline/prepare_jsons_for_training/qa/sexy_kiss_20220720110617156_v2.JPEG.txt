@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a pink bra? | Yes. |
+| Yes/No | Are the couple lying on a bed? | Yes. |
+| Yes/No | Is the woman on top of the man? | Yes. |
+| Yes/No | Are the couple holding onto each other? | Yes. |
+| Yes/No | Does the image capture a moment of intense physical connection between the couple? | Yes. |
+| What | What is the color of the man's shirt? | Black. |
+| What | What is the color of the woman's bra? | Pink. |
+| How | How are the couple holding onto each other? | The woman is holding onto the man's chest, and the man is holding onto the woman's thigh. |
+| How | How does the image convey a sense of intimacy and closeness between the couple? | The couple is lying on a bed, with the woman on top of the man, and their close proximity, the woman's hold on the man's chest, and the man's hold on the woman's thigh all suggest a strong emotional bond between the two individuals. |

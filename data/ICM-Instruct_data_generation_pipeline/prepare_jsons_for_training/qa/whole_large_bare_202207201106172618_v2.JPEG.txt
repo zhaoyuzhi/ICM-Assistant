@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Is the background of the image a clear blue sky? | Yes. |
+| Yes/No | Does the woman have a number 66 on her chest? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have loose waves in her hair? | Yes. |
+| What | What is the woman wearing on her chest? | A number 66. |
+| What | What is the color of the woman's bikini? | Pink. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How does the woman look at the camera? | Confidently and directly. |

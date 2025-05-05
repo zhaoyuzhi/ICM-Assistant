@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Is the dress backless? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the person's pose confident? | Yes. |
+| Yes/No | Is the dress tied at the back? | Yes. |
+| What | What is the color of the dress? | Red. |
+| What | What is the person's pose in the image? | Standing with hands on hips. |
+| How | How is the dress tied at the back? | It is not specified in the description. |
+| How | How much skin does the dress reveal? | A significant amount of skin. |

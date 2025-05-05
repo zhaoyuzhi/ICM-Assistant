@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman standing against a brick wall? | Yes. |
+| Yes/No | Is the woman wearing a strapless dress? | Yes. |
+| Yes/No | Does the dress have a ruffled hem? | Yes. |
+| Yes/No | Is the woman's pose confident and assertive? | Yes. |
+| Yes/No | Does the image capture a moment of self-assuredness and allure? | Yes. |
+| Yes/No | Is the woman's midriff visible in the image? | Yes. |
+| What | What is the color of the woman's dress? | Pink. |
+| What | What is the texture of the brick wall in the background? | Brick. |
+| How | How is the woman's left hand positioned in the image? | Resting on her hip. |
+| How | How is the woman's right hand positioned in the image? | Lightly touching her hair. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the background plain white? | Yes. |
+| Yes/No | Does the woman have a graphic design on her t-shirt? | Yes. |
+| Yes/No | Are the shorts blue in color? | Yes. |
+| Yes/No | Is the woman's pose neutral? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| What | What is the color of the woman's t-shirt? | White. |
+| What | What is the style of the woman's shorts? | Casual. |
+| How | How does the white t-shirt and blue shorts create a contrast against the white background? | They create a visual contrast that draws attention to the woman's figure. |
+| How | How does the graphic design on the t-shirt add an element of intrigue to the image? | It invites the viewer to wonder about the story behind the image. |

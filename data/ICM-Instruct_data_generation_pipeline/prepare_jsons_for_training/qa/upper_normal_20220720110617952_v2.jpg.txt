@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a brown sweater? | Yes. |
+| Yes/No | Is the man in the image holding a blue jacket? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the man dressed in a casual manner? | Yes. |
+| Yes/No | Is the blue jacket the man is holding the main focus of the image? | No. |
+| What | What is the man in the image holding in his left hand? | A blue jacket. |
+| What | What is the color of the sweater the man is wearing? | Brown. |
+| How | How is the man dressed in the image? | Casually, with a brown sweater and a black jacket. |
+| How | How does the white background affect the atmosphere of the image? | It provides a neutral backdrop that emphasizes the man's clothing and creates a calm and nonthreatening atmosphere. |

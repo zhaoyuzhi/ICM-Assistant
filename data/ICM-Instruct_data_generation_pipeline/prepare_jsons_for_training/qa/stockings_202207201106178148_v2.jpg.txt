@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing fishnet stockings? | Yes. |
+| Yes/No | Are the stockings black? | Yes. |
+| Yes/No | Does the person have black heels on? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What type of stockings is the person wearing? | Fishnet stockings. |
+| What | What color are the person's heels? | Black. |
+| How | How do the black heels add to the overall allure of the image? | They add an element of sophistication and confidence. |
+| How | How does the white background emphasize the person and their attire? | It contrasts with the black stockings and heels, drawing attention to their legs and feet. |

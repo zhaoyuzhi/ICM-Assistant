@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the person in the process of taking off the skirt? | Yes. |
+| Yes/No | Is the person wearing a light blue top? | Yes. |
+| What | What is the person's gender? | The person's gender cannot be determined from the description. |
+| What | What is the person's facial expression? | The person's facial expression is not described. |
+| How | How is the person holding their skirt? | The person is holding their skirt in the back pocket. |
+| How | How does the person's pose and attire contribute to the overall atmosphere of the image? | The person's pose and attire contribute to the overall atmosphere of the image, making it feel provocative and alluring. |

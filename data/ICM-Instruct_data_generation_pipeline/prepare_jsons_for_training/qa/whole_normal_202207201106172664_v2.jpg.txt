@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a gray sweatshirt? | Yes. |
+| Yes/No | Is the man looking downwards? | Yes. |
+| Yes/No | Does the sweatshirt have a white t-shirt underneath it? | Yes. |
+| Yes/No | Are the sweatpants gray? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| What | What color is the man's sweatshirt? | Gray. |
+| What | What is the man looking at? | His feet. |
+| How | How is the man dressed? | Casually. |
+| How | How would you describe the atmosphere of the image? | Neutral. |

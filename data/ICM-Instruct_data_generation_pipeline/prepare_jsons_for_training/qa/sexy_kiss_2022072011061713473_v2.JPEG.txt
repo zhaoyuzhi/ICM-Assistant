@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Are they standing close to each other? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the man wearing? | A white shirt. |
+| What | What is the woman wearing? | A black and white striped shirt. |
+| How | How are the man and woman holding each other? | The man has his arms wrapped around the woman's waist, and the woman has her arms wrapped around the man's neck. |
+| How | How does the image make you feel? | The image makes me feel a sense of intimacy and romance. The passionate kiss and the blurred background create a sensual atmosphere that suggests a strong emotional connection between the couple. |

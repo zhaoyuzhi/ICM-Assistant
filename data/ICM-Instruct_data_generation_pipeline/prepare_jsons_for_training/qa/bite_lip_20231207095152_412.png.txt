@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the woman looking downwards? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Are the woman's eyes closed? | Yes. |
+| Yes/No | Does the image have a seductive and alluring atmosphere? | Yes. |
+| What | What color is the woman's dress? | Pink. |
+| What | What is the woman's facial expression? | Serious. |
+| How | How is the woman's hair styled? | Long and framing her face. |
+| How | How does the woman's biting her lip and closed eyes contribute to the image's atmosphere? | They create a sense of mystery and intrigue. |

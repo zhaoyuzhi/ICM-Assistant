@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are blue jeans worn by the person in the image? | Yes. |
+| Yes/No | Is the person's exposure level low in the image? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image evoke a sense of intimacy or sensuality? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and relaxed? | Yes. |
+| What | What is the person in the image sitting on? | A wooden chair. |
+| What | What color are the person's pants in the image? | Blue. |
+| How | How is the person's exposure level in the image? | Low, with only their torso and legs visible. |
+| What | What does the person's attire contribute to the image's overall appearance? | The person's attire, consisting of a white shirt and blue jeans, contributes to the nonsexy appearance of the image. |

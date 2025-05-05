@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman's purse slung over her shoulder? | Yes. |
+| Yes/No | Are there trees in the background of the image? | Yes. |
+| Yes/No | Is the woman's face clearly visible in the image? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and serene? | Yes. |
+| Yes/No | Does the woman's attire include white pants? | Yes. |
+| What | What is the woman sitting on in the image? | A wooden bench. |
+| What | What is the color of the woman's shirt in the image? | Blue. |
+| How | How is the woman's purse slung over her shoulder? | It is slung over her shoulder strap. |
+| How | How does the low exposure level of the image affect the woman's face? | It makes her face appear less clearly visible. |

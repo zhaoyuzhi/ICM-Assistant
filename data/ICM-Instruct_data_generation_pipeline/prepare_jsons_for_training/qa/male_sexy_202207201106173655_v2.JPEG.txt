@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing against a white background? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man's body facing the camera? | Yes. |
+| Yes/No | Are the man's underwear purple and white striped? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the man's underwear? | Purple and white. |
+| What | What is the man's attire? | A pair of purple and white striped underwear. |
+| How | How is the man standing in the image? | He is standing with his body facing the camera. |
+| How | How does the image create a visually appealing and sensual image? | The combination of the man's attire and his pose against the white background creates a visually appealing and sensual image. |

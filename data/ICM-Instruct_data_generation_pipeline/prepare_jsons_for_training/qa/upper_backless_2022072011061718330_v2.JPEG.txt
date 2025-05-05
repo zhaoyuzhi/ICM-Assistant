@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying down? | Yes. |
+| Yes/No | Is the person's back exposed? | Yes. |
+| Yes/No | Does the image feature a tattoo? | Yes. |
+| Yes/No | Is the tattoo on the person's back? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the main element that contributes to the atmosphere of the image? | The exposed skin and detailed tattoo. |
+| What | What is the person wearing in the image? | A white sheet. |
+| How | How does the tattoo on the person's back add to the image's sensuality? | The tattoo is detailed and covers a significant portion of the person's back, adding an element of intrigue and personal expression that enhances the image's sensuality. |
+| How | How does the setting of the image contribute to its intimate atmosphere? | The person is lying down on a bed, creating an intimate setting that enhances the sexy atmosphere. |

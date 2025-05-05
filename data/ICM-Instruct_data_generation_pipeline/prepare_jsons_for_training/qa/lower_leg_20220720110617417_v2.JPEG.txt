@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the sign behind the person black and white? | Yes. |
+| Yes/No | Does the sign include the words "For Sale"? | Yes. |
+| Yes/No | Does the sign include the phrase "100% Cash & Carry"? | Yes. |
+| Yes/No | Is the person's build slender and athletic? | Yes. |
+| Yes/No | Does the image create a sense of allure and intrigue? | Yes. |
+| What | What is the person's shirt color? | Green. |
+| What | What is the person's leg visibility? | Visible from the thighs down. |
+| How | How is the person standing in relation to the sign? | In front of the sign. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

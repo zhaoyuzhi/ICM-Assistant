@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman holding a brush in her hand? | Yes. |
+| Yes/No | Is the background of the image serene and peaceful? | Yes. |
+| Yes/No | Does the woman have a large flower in her hair? | Yes. |
+| Yes/No | Is the outfit purple and gold? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What is the woman in the image holding in her hand? | A brush. |
+| What | What color is the outfit the woman is wearing? | Purple and gold. |
+| How | How does the woman's attire create a sexy vibe in the image? | The strapless outfit exposes the midriff and can be perceived as provocative. |
+| How | How does the background contribute to the overall atmosphere of the image? | The tree and moon create a serene and peaceful atmosphere, which contrasts with the sexy vibe created by the woman's attire. |

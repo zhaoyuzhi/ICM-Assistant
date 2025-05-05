@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a top with a collar? | Yes. |
+| Yes/No | Is the woman in the image holding a small purse? | Yes. |
+| Yes/No | Is the background of the image a gray wall? | Yes. |
+| Yes/No | Does the image convey a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman in the image wearing high heels? | Yes. |
+| What | What is the color of the woman's skirt? | Beige. |
+| What | What is the color of the woman's top? | White. |
+| How | How is the woman holding her purse? | She is holding it with one hand, possibly slung over her shoulder. |
+| How | How would you describe the woman's pose in the image? | Confident and alluring, possibly with a hint of sassiness. |

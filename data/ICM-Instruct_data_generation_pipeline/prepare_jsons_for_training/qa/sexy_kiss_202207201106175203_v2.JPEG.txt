@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the man in the image wearing a suit? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the woman's head tilted back in the image? | Yes. |
+| Yes/No | Is the man's face close to the woman's in the image? | Yes. |
+| Yes/No | Is there a chandelier in the background of the image? | Yes. |
+| What | What is the woman wearing in the image? | A black dress. |
+| What | What is the man wearing in the image? | A suit. |
+| How | How is the woman's head positioned in the image? | Tilted back. |
+| How | How are the man and woman positioned in the image? | Standing close together, with the man's face close to the woman's. |

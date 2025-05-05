@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black suit? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are the couple kissing passionately? | Yes. |
+| Yes/No | Is the woman holding a red ice cream cone? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Does the image depict a strong emotional connection between the couple? | Yes. |
+| What | What is the woman holding in her hand? | A red ice cream cone. |
+| What | What is the overall atmosphere of the image? | Warm, passionate, and inviting. |
+| How | How is the woman's embrace of the man? | Tight and intimate. |
+| How | How does the man respond to the kiss? | With passion and intimacy. |

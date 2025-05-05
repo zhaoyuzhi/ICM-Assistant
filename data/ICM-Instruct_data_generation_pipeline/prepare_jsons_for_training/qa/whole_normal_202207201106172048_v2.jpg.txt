@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pajama set? | Yes. |
+| Yes/No | Does the pajama set have a horse design on it? | Yes. |
+| Yes/No | Is the woman sitting in a relaxed position? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image contain any nudity or explicit content? | No. |
+| What | What is the dominant color of the woman's pajama set? | Orange. |
+| What | What is the overall atmosphere of the image? | Calm and relaxed. |
+| How | How is the woman sitting in the chair? | With her legs crossed. |
+| How | How would you describe the exposure level of the image? | Low. |

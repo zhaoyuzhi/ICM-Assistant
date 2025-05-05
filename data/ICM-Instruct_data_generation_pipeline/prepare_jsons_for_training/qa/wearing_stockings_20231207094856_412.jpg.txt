@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person wearing a pink and white patterned blanket? | Yes. |
+| Yes/No | Are the stockings being put on by the person white with a black cow print? | Yes. |
+| Yes/No | Is the person holding the stocking with both hands? | Yes. |
+| Yes/No | Are the person's legs bent at the knees? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the pattern on the stockings? | Black cow print. |
+| How | How is the person holding the stocking? | With both hands. |
+| How | How does the cow print on the stockings add to the atmosphere of the image? | It adds a playful and sexy element. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person wearing a pink and white patterned blanket? | Yes. |
+| Yes/No | Are the stockings being put on by the person white with a black cow print? | Yes. |
+| Yes/No | Is the person holding the stocking with both hands? | Yes. |
+| Yes/No | Are the person's legs bent at the knees? | Yes. |
+| Yes/No | Does the image have an intimate and personal atmosphere? | Yes. |
+| What | What is the person in the image putting on? | Stockings. |
+| What | What is the pattern on the stockings? | Black cow print. |
+| How | How is the person holding the stocking? | With both hands. |
+| How | How does the cow print on the stockings add to the scene? | It adds a playful and sexy element to the scene. |

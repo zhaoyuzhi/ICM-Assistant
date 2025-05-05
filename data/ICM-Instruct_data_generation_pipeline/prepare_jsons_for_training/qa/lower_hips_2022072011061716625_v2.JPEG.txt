@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow dress? | Yes. |
+| Yes/No | Is the dress revealing her thighs and buttocks? | Yes. |
+| Yes/No | Is her hair styled in loose waves? | Yes. |
+| Yes/No | Is she looking over her shoulder? | Yes. |
+| Yes/No | Is the balcony railing visible in the image? | Yes. |
+| Yes/No | Is there a tree visible in the background? | Yes. |
+| What | What is the color of the dress the woman is wearing? | Yellow. |
+| What | What is the woman's pose in the image? | She is standing with her head turned over her shoulder. |
+| How | How is the woman's hair styled in the image? | Her hair is styled in loose waves. |
+| How | How does the woman appear to be posing in the image? | She appears to be posing for the camera. |

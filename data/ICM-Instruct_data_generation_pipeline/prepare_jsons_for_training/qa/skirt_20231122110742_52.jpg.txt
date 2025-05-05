@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Are the woman's legs exposed in the image? | Yes. |
+| Yes/No | Is the dress the woman is wearing black in color? | Yes. |
+| Yes/No | Are the woman's socks white? | Yes. |
+| Yes/No | Are the woman's heels white? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What color are the woman's socks? | White. |
+| How | How is the woman exposing her legs in the image? | By lifting her dress. |
+| What | What atmosphere does the image create? | A sexy and alluring atmosphere. |

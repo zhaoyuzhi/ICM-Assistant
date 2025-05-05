@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the background of the image colored? | Yes. |
+| What | What is the man wearing on his lower half? | Blue jeans. |
+| What | What is the color of the man's belt? | Black. |
+| How | How is the man standing in the image? | With his arms flexed and his chest exposed. |
+| What | What is the mood of the image? | Sexy. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the person have a silver belly button piercing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the person's body the main focus of the image? | Yes. |
+| What | What is the person's attire in the image? | Black shirt and black pants. |
+| What | What is the color of the person's belly button piercing? | Silver. |
+| How | How does the close-up view of the person's body highlight the details of the belly button piercing and their skin? | The closeup view allows for a detailed examination of the person's body, showcasing the texture and color of their skin, as well as the shape and size of the belly button piercing. |
+| How | How does the image emphasize the focus on the person's body and the piercing? | The image does not contain any other objects or people, which creates a sense of isolation and focus on the person's body. Additionally, the closeup view and the dark background create a sense of intimacy and draw the viewer's attention to the person's body and the piercing. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the person have a tattoo on their stomach? | Yes. |
+| Yes/No | Are the piercings on the person's belly button? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the person's body the main focus of the image? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| What | What is the location of the tattoo on the person's body? | Stomach. |
+| What | What is the person's attire in the image? | Black shirt and black pants. |
+| How | How many piercings does the person have on their belly button? | Multiple. |
+| How | How does the image capture a moment of vulnerability and confidence? | The person has chosen to expose their body in this way, showcasing their selfexpression and personal style. |

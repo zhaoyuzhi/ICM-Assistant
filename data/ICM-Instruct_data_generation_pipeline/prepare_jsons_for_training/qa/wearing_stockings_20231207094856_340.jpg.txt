@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Is the person holding the stocking with both hands? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the person wearing white socks? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the person in the image putting on? | Beige stockings. |
+| What | What is the color of the socks worn by the person in the image? | White. |
+| How | How are the stockings being pulled up the person's legs? | The person is holding the stocking with both hands and pulling it up. |
+| What | What atmosphere does the image create? | A seductive atmosphere. |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Are the person's legs bent in the image? | Yes. |
+| Yes/No | Is the person holding the stocking with both hands? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the person wearing white socks? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What color are the stockings being worn by the person in the image? | Beige. |
+| What | What is the person in the image holding in their hands? | The stocking. |
+| How | How are the stockings being pulled up the person's legs? | The person is holding the stocking with both hands and pulling it up their legs. |
+| What | What is the focal point of the image? | The person's legs and the stockings being put on are the focal point of the image. |

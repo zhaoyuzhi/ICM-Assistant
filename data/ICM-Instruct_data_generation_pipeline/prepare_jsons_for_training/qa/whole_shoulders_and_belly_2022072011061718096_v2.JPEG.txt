@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Does the image feature a plain white background? | Yes. |
+| Yes/No | Is the woman's pose confident? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| How | How does the woman's outfit contribute to the sexy atmosphere? | The cropped top and formfitting leggings reveal her midriff, which is a common feature in sexy outfits. |
+| How | How does the background contribute to the focus of the image? | The plain white background puts the focus entirely on the woman, emphasizing her as the main subject. |

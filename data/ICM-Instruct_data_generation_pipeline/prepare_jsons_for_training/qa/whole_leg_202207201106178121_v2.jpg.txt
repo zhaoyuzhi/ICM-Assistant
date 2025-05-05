@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman standing in the image? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Is the woman wearing a green sweater? | Yes. |
+| Yes/No | Is the woman wearing a pink hat? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence? | Yes. |
+| Yes/No | Does the image capture a moment of elegance? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What is the pattern on the woman's sweater? | Striped. |
+| How | How is the woman's right hand positioned in the image? | Lightly touching her thigh. |
+| How | How does the woman's attire create an atmosphere? | Alluring and sophisticated. |

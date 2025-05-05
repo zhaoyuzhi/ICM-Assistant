@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the jeans the woman is wearing blue? | Yes. |
+| Yes/No | Is the top made of knit material? | Yes. |
+| Yes/No | Does the image feature a sexy and casual look? | Yes. |
+| Yes/No | Are the clothing items in the image associated with a relaxed and confident style? | Yes. |
+| Yes/No | Does the woman's pose and gaze contribute to the overall atmosphere of the image? | Yes. |
+| What | What type of clothing item is the woman wearing on her upper body? | A strapless top. |
+| What | What color are the jeans the woman is wearing? | Blue. |
+| How | How does the combination of the strapless top and jeans create a sexy and casual look? | The combination of a strapless top and jeans creates a sexy and casual look because it exposes the midriff and creates a relaxed, confident atmosphere. |
+| How | How does the woman's pose and gaze contribute to the overall atmosphere of the image? | The woman's pose and gaze contribute to the overall atmosphere of the image by creating a sense of intimacy and allure. |

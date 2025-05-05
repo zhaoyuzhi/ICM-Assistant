@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Does the dress have a backless design? | Yes. |
+| Yes/No | Is the woman holding a brown purse? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the woman's attire and the beach setting contributing to the overall atmosphere of the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman holding in her hand? | A brown purse. |
+| What | What is the color of the dress? | White. |
+| How | How is the woman's attire contributing to the overall atmosphere of the image? | The backless design of the dress exposes a large area of her back, which is often associated with a sexy and alluring appearance. |
+| How | How is the beach setting contributing to the overall atmosphere of the image? | The beach setting adds to the sensuality of the image as it is a place often associated with relaxation, leisure, and enjoyment, which creates an atmosphere that is both alluring and inviting. |

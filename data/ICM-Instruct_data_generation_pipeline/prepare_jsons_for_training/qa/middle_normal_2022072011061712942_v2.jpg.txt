@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Is the person's arm bent at the elbow? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any provocative or suggestive elements? | No. |
+| What | What is the person in the image wearing? | White shorts and a white shirt. |
+| What | What is the background of the image? | White. |
+| How | How is the person's hand positioned in the image? | The person's hand is in their pocket, and their arm is bent at the elbow. |
+| How | How does the white background contribute to the overall atmosphere of the image? | The white background adds to the simplicity and modesty of the image and creates a calm and nonsexual atmosphere. |
+| Yes/No | Is the person in the image wearing white shorts and a white shirt? | Yes. |
+| Yes/No | Is the person's hand in their pocket? | Yes. |
+| Yes/No | Is the person's arm bent at the elbow? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image focus on the person's body or suggest any intimate or provocative actions? | No. |
+| Yes/No | Does the image create a sense of sexuality or allure? | No. |
+| What | What is the person's body language in the image? | The person's body language is relaxed, with their hand in their pocket and their arm bent at the elbow. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is casual and relaxed. |
+| How | How much of the person's body is visible in the image? | Only a small portion of the person's body is visible in the image due to the low exposure level. |
+| How | How would you describe the person's movements in the image? | The person's movements are not the main focus of the image, and they appear to be standing still with a relaxed posture. |

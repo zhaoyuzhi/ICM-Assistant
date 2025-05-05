@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a mirror? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image capture the woman from the back and the front? | Yes. |
+| Yes/No | Is the light blue color of the bra visible in the image? | Yes. |
+| Yes/No | Is the woman's expression focused? | Yes. |
+| What | What is the woman in the image putting on? | A light blue bra. |
+| What | What is the color of the bra in the image? | Light blue. |
+| How | How is the woman's expression in the image? | Focused. |
+| How | How does the image capture the woman's actions? | From the back and the front, providing a clear view. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light blue? | Yes. |
+| Yes/No | Is the woman standing in front of a mirror? | Yes. |
+| Yes/No | Is there a window in the background? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have a focused expression? | Yes. |
+| What | What is the woman doing in the image? | Putting on a bra. |
+| What | What color is the bra? | Light blue. |
+| How | How is the atmosphere of the image? | Sensual and alluring. |
+| How | How does the mirror's reflection contribute to the image's intimacy? | It creates a sense of private moment and selfexpression. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman sticking out her tongue? | Yes. |
+| Yes/No | Is the woman looking upwards and to the side? | Yes. |
+| Yes/No | Does the woman have a playful expression? | Yes. |
+| Yes/No | Does the woman have a confident expression? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman's facial expression? | Playful and confident. |
+| What | What is the woman looking at? | Upwards and to the side. |
+| How | How is the woman's tongue positioned? | Sticking out. |
+| How | How does the woman's expression create a sense of allure and intrigue? | The playful and confident expression, combined with the tongue sticking out, creates a sense of mystery and curiosity that can be attractive to viewers. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a purple shirt? | Yes. |
+| Yes/No | Is the woman's hair styled in a bun? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the woman's pose playful and innocent? | Yes. |
+| Yes/No | Does the image feature a lush, green field? | Yes. |
+| Yes/No | Are there any trees in the background of the image? | Yes. |
+| What | What color is the woman's shirt? | Purple. |
+| What | What is the woman's hair style? | Bun. |
+| How | How is the woman positioned in the image? | Centered. |
+| How | How does the woman's pose suggest a sense of freedom and joy? | Outstretched arms. |

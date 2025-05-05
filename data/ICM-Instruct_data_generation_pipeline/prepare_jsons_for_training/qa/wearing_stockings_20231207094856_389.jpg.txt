@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a beige skirt? | Yes. |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Are the person's legs bent at the knees? | Yes. |
+| Yes/No | Are the person's arms resting on their knees? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What color are the person's stockings? | Black and beige. |
+| What | What is the person wearing on their legs? | Stockings and a skirt. |
+| How | How are the person's legs positioned? | Bent at the knees. |
+| How | How does the image evoke feelings? | Desire and allure. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a beige skirt? | Yes. |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Are the person's legs bent at the knees? | Yes. |
+| Yes/No | Are the person's arms resting on their knees? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate and sensual? | Yes. |
+| What | What color are the person's stockings? | Black and beige. |
+| What | What is the person wearing on their legs? | Black stockings and beige stockings. |
+| How | How are the person's legs positioned? | Bent at the knees. |
+| How | How are the person's arms positioned? | Resting on their knees. |

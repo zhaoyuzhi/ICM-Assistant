@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Are earrings visible in the image? | Yes. |
+| Yes/No | Is the woman making a funny face in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's outfit in the image associated with a more revealing and provocative look? | Yes. |
+| Yes/No | Does the image have a playful and lighthearted element? | Yes. |
+| What | What type of outfit is the woman wearing in the image? | A strapless dress. |
+| What | What is the woman's facial expression in the image? | A funny face. |
+| How | How does the woman's outfit contribute to the image's atmosphere? | The strapless dress adds a sexy element, while the funny face adds a playful and lighthearted element. |
+| How | How does the image's atmosphere differ from a typical image of a woman wearing a strapless dress? | The image's atmosphere is both alluring and entertaining, whereas a typical image of a woman wearing a strapless dress might be more formally posed or serious. |

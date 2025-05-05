@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image dressed in black? | Yes. |
+| Yes/No | Is the man's posture neutral? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the man have any tattoos or piercings visible in the image? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color are the man's sneakers? | Blue and white. |
+| What | What is the man's facial expression? | Neutral. |
+| How | How is the man standing in the image? | Straightforward, facing the camera directly. |
+| How | How does the white background affect the overall atmosphere of the image? | It emphasizes the subject and creates a calm and straightforward atmosphere. |

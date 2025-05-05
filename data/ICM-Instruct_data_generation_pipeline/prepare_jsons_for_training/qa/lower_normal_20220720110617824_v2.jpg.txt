@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black shirt? | Yes. |
+| Yes/No | Are his pants gray? | Yes. |
+| Yes/No | Is he wearing white sneakers? | Yes. |
+| Yes/No | Is the posture of the man in the image casual? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the man walking away from the camera? | No. |
+| What | What is the man in the image wearing on his feet? | White sneakers. |
+| What | What is the color of the man's pants in the image? | Gray. |
+| How | How is the man's posture in the image? | Casual. |
+| How | How is the man moving in the image? | Walking towards the camera. |

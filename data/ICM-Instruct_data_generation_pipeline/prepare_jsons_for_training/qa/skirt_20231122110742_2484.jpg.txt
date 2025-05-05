@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Is the woman lifting up her dress? | Yes. |
+| Yes/No | Are her heels white? | Yes. |
+| Yes/No | Is the image a close-up of the woman? | Yes. |
+| Yes/No | Is the setting of the image a hallway? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What color is the woman's dress? | Pink. |
+| What | What type of shoes is the woman wearing? | White heels. |
+| How | How is the woman lifting her dress? | She is lifting it up. |
+| How | How does the close-up nature of the image enhance the atmosphere? | It allows the viewer to focus on the details of her actions and attire, further enhancing the sexy atmosphere. |

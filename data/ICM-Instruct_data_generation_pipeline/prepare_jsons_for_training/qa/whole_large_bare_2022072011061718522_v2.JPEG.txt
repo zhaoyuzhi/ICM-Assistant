@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman holding a Coke bottle in her hand? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the woman's body exposed in the image? | Yes. |
+| Yes/No | Does the woman have a purse with her? | Yes. |
+| Yes/No | Is the woman's cell phone visible in the image? | Yes. |
+| What | What is the woman holding in her hand? | A Coke bottle. |
+| What | What is the woman wearing? | A purple bikini. |
+| How | How is the woman's body exposed in the image? | Her stomach and thighs are visible. |
+| How | How does the beach setting contribute to the overall atmosphere of the image? | The beach setting adds to the casual and relaxed atmosphere of the image, which enhances the sexy vibe. |

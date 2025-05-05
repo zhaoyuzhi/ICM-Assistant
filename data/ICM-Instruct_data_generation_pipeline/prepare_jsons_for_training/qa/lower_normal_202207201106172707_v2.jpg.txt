@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's shoes white? | Yes. |
+| Yes/No | Is the living room's floor made of wood? | Yes. |
+| Yes/No | Are there potted plants in the background? | Yes. |
+| Yes/No | Is the person moving towards the right side of the image? | Yes. |
+| What | What color are the person's pants? | Black. |
+| What | What color is the person's shirt? | White. |
+| How | How are the person's shoes colored? | White. |
+| Yes/No | In which direction is the person moving? | Right. |

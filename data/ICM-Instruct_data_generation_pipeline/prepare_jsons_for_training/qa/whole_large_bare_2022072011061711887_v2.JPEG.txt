@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person's hair styled in a ponytail? | Yes. |
+| Yes/No | Is the white fur rug a contrasting background to the person's body? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image sexy and provocative? | Yes. |
+| What | What is the color of the bikini top? | Blue and white. |
+| What | What is the material of the rug? | White fur. |
+| How | How is the person's body positioned in the image? | The person is sitting on the rug with their body slightly leaning back, highlighting their curves. |
+| How | How does the image feature the person's body? | The image features the person's body as the main focus, with the white fur rug providing a contrasting background that accentuates their curves. |

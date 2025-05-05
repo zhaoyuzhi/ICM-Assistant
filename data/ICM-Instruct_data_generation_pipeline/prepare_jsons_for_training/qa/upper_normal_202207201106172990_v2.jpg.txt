@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a trench coat? | Yes. |
+| Yes/No | Is the woman carrying a black purse? | Yes. |
+| Yes/No | Is the woman wearing a black shirt underneath her coat? | Yes. |
+| Yes/No | Is the background of the image a building and a tree? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the woman's face visible in the image? | No. |
+| What | What is the primary color of the woman's trench coat? | Navy blue. |
+| What | What is the woman carrying in her hand? | A black purse. |
+| How | How is the woman dressed overall? | In a navy blue trench coat, a black shirt, and a black purse. |
+| What | What is the atmosphere of the image? | Not sexy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a brown blouse? | Yes. |
+| Yes/No | Is the blouse ruffled? | Yes. |
+| Yes/No | Is the woman standing with her back to the camera? | Yes. |
+| Yes/No | Is the background plain white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What color is the woman's blouse? | Brown. |
+| What | What is the pattern on the front of the blouse? | A unique design with circles and lines. |
+| How | How is the woman standing in the image? | She is standing with her back to the camera, facing the right side of the image. |
+| How | How does the woman's attire contrast with the background? | The woman's outfit is darker and stands out against the plain white background. |

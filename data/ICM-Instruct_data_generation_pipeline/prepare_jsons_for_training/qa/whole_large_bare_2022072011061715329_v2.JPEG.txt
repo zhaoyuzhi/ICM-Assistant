@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing any clothing covering her lower body? | No. |
+| Yes/No | Is the woman in the image leaning on a volleyball net? | Yes. |
+| Yes/No | Is the woman's left hand on the net? | Yes. |
+| Yes/No | Is the woman's right hand on her hip? | Yes. |
+| Yes/No | Does the image have a high exposure level? | Yes. |
+| What | What is the woman wearing on her upper body? | A white bikini top. |
+| What | What is the woman's pose in the image? | Leaning on the volleyball net with her left hand and right hand on her hip. |
+| How | How does the woman's attire contrast with the background? | The white bikini top and underwear contrast with the sandy background, making her the focal point of the image. |
+| How | How does the woman's pose add to the overall atmosphere of the image? | Her pose, leaning on the volleyball net, adds a sense of confidence and allure, evoking a sense of desire and allure. |

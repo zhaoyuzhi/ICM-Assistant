@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the man have any other clothing on besides his underwear? | No. |
+| Yes/No | Is the man's underwear blue and black? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| How | Does the image show the man engaging in any activity? | No. |
+| Yes/No | Is the image taken indoors? | No. |
+| What | What is the man wearing? | A pair of blue and black underwear. |
+| What | What is the color of the man's underwear? | Blue and black. |
+| How | How is the man's underwear fitting him? | It is not explicit in the description. |
+| How | How is the man's body positioned in the image? | It is not explicit in the description. |

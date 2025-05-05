@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman looking at the camera? | Yes. |
+| Yes/No | Does the woman have a large area of her upper body exposed? | Yes. |
+| Yes/No | Is the woman's expression serious? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy? | Yes. |
+| What | What is the woman wearing on her upper body? | A bikini top. |
+| What | What is the woman's facial expression? | Serious. |
+| How | How much of the woman's upper body is exposed? | A large area. |
+| How | How would you describe the overall mood of the image? | Sensual and intimate. |

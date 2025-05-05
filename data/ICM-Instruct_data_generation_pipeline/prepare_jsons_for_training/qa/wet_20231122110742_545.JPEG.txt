@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the women smiling? | No. |
+| Yes/No | Is the fountain the main focus of the image? | No. |
+| Yes/No | Are the women standing in a public place? | No. |
+| Yes/No | Is the image taken during the day? | Yes. |
+| Yes/No | Are the women holding any objects? | No. |
+| What | What are the women wearing? | White shirts and black pants. |
+| What | What is the atmosphere of the image? | Sexy and captivating. |
+| How | How are the women standing in relation to the fountain? | They are standing in front of it. |
+| How | How does the water from the fountain affect the image? | It creates a sexy and dynamic atmosphere. |

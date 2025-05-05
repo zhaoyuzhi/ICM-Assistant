@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Are the shorts rolled up at the bottom? | Yes. |
+| Yes/No | Is the person wearing white shoes? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the shorts? | Blue. |
+| What | What type of shoes is the person wearing? | White. |
+| How | How are the shorts rolled up at the bottom? | The shorts are rolled up at the bottom, revealing the person's legs. |
+| What | What does the image suggest about the person's atmosphere? | The image suggests a relaxed, casual atmosphere. |

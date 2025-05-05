@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| How | Is the woman in the shower? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Is the woman wearing a blue shawl? | Yes. |
+| Yes/No | Are her clothes soaked? | Yes. |
+| Yes/No | Is the woman looking at the camera? | Yes. |
+| Yes/No | Is the image atmosphere sexy? | Yes. |
+| What | What is the woman holding up? | Her arm. |
+| What | What is the color of the tiled wall? | Blue. |
+| How | How is the woman's pose? | Confident. |
+| How | How long has the woman been in the shower? | An extended period (implied). |

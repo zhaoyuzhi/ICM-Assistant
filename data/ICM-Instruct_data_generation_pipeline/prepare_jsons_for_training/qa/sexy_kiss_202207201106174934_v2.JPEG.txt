@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue robe? | Yes. |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Are the couple kissing in the image? | Yes. |
+| Yes/No | Are the man's hands on the woman's face? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the man's robe? | Blue. |
+| What | What is the woman's dress color? | White. |
+| How | How are the couple standing in relation to each other? | Close, with the woman's arms wrapped around the man's neck. |
+| How | How do the man's hands appear in the image? | Pulling the woman closer for the kiss. |

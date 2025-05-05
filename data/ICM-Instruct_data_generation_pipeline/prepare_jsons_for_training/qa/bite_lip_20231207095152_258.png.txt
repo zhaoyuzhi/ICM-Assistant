@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white turtleneck? | Yes. |
+| Yes/No | Does the woman have her eyes closed? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Is the image shot in close-up? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the woman resting her head on? | A pillow. |
+| What | What color is the woman's hair? | Brown. |
+| How | How does the woman's facial expression contribute to the image's overall atmosphere? | It creates an air of confidence and allure. |
+| How | How does the white turtleneck contribute to the image's overall atmosphere? | It adds a touch of elegance to her appearance. |

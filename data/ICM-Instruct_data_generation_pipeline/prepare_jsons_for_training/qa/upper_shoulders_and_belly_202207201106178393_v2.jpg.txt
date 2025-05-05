@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the woman in the image wearing a hat? | Yes. |
+| Yes/No | Is the woman in the image wearing a pearl necklace? | Yes. |
+| Yes/No | Does the image contain text in Chinese? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A midriffbaring top. |
+| What | What is the woman in the image wearing on her lower body? | Not specified in the description. |
+| How | How is the woman's hair styled in the image? | Not specified in the description. |
+| How | How does the woman's facial expression contribute to the overall mood of the image? | Her smile contributes to a sense of confidence and allure. |

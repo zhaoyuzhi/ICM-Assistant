@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress long? | Yes. |
+| Yes/No | Does the dress reach down to the person's ankles? | Yes. |
+| Yes/No | Is the dress made of a textured fabric? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| What | What is the color of the dress? | Brown. |
+| What | What is the person's attire? | A long brown dress. |
+| How | How does the person's stance appear? | Casual. |
+| How | How does the image composition focus the viewer's attention? | It focuses the viewer's attention solely on the dress and the overall composition of the image, with the person's face not visible. |

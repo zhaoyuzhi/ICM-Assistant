@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Are the shoes black? | No. |
+| Yes/No | Does the woman have her legs crossed? | Yes. |
+| Yes/No | Is the woman wearing a dress or skirt? | No. |
+| Yes/No | Is the woman's hair visible in the image? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What is the color of the woman's shoes? | Beige. |
+| What | What is the style of the woman's shoes? | Square toe and low heel. |
+| How | How does the woman's pose suggest modesty and elegance? | The woman's legs are crossed, and her stance is relaxed but not revealing. |
+| How | How does the neutral color of the shoes contribute to the overall atmosphere of the image? | The neutral color of the shoes helps to create a sense of calm and composed atmosphere, which is consistent with the woman's modest and elegant pose. |

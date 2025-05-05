@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image leaning on a piece of furniture? | Yes. |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the image reveal intimate details of the person's body? | No. |
+| Yes/No | Is the person's pose in the image threatening or aggressive? | No. |
+| What | What is the color of the person's skirt? | Blue. |
+| What | What is the person's pose in the image? | Leaning on their hand, with their elbow resting on their hip. |
+| How | How is the person dressed in the image? | In casual, everyday clothing. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | It does not focus on the person's body or reveal any intimate details, contributing to a nonsexual atmosphere. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image leaning on their hand? | Yes. |
+| Yes/No | Is the image a low-exposure image? | Yes. |
+| Yes/No | Does the image feature a couch and a chair? | Yes. |
+| Yes/No | Is the person's elbow resting on their hip? | Yes. |
+| Yes/No | Is the image intended to be provocative or sensual? | No. |
+| What | What is the person in the image wearing? | A denim skirt and a blue shirt. |
+| What | What is the person's posture in the image? | They are leaning on their hand, with their elbow resting on their hip. |
+| How | How is the person standing in the image? | They are standing with their feet shoulderwidth apart. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It creates a casual and relaxed atmosphere, focusing attention on the person's outfit and posture rather than their physical appearance. |

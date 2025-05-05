@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sticking out her tongue? | Yes. |
+| Yes/No | Is the woman wearing a gray tank top? | Yes. |
+| Yes/No | Does the woman have red hair? | Yes. |
+| Yes/No | Is the woman's facial expression relaxed? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's playful and confident expression, combined with her tongue sticking out, creating a sense of allure and sensuality? | Yes. |
+| What | What is the color of the woman's hair? | Red. |
+| What | What is the woman wearing? | A gray tank top. |
+| How | How is the woman's facial expression? | Relaxed and confident, with a slight smile. |
+| How | How does the image capture a moment of the woman's playfulness and confidence? | It captures a moment of the woman's playful and confident expression, combined with her tongue sticking out, creating a sense of allure and sensuality. |

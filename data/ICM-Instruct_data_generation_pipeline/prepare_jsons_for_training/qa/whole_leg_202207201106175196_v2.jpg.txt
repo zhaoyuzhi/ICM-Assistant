@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a peach blouse? | Yes. |
+| Yes/No | Does the blouse have a ruffled design? | Yes. |
+| Yes/No | Are the shorts navy blue? | Yes. |
+| Yes/No | Do the shorts have a ruffled hem? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| What | What color is the woman's blouse? | Peach. |
+| What | What color are the shorts? | Navy blue. |
+| How | How does the woman's pose accentuate her legs? | The woman's pose accentuates her long legs by drawing attention to them with her hand on her hip and her right hand resting on her thigh. |
+| How | How does the ruffled design of the blouse and shorts add to the image? | The ruffled design of both the blouse and shorts adds a dynamic element to the image, creating a visually appealing contrast of textures and drawing attention to the woman's curves. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Does the dress have a ruffled neckline? | Yes. |
+| Yes/No | Is the woman holding a small purse? | Yes. |
+| Yes/No | Is the mirror in the background a full-length mirror? | No. |
+| Yes/No | Is the painting on the wall a portrait? | No. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the woman holding in her hand? | A small purse. |
+| How | How does the ruffled neckline and cinched waist of the dress make the woman look? | More alluring. |
+| How | How does the mirror and painting in the background enhance the atmosphere of the image? | They create an artistic and stylish atmosphere, enhancing the sexy vibe of the image. |

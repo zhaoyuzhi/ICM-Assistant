@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top red and white? | Yes. |
+| Yes/No | Is the bikini bottom red? | Yes. |
+| Yes/No | Is the woman posing with her hand on her head? | Yes. |
+| Yes/No | Is the woman's hair flowing in the wind? | Yes. |
+| Yes/No | Does the image evoke feelings of relaxation and enjoyment? | Yes. |
+| What | What is the main color of the bikini top? | Red and white. |
+| What | What is the color of the bikini bottom? | Red. |
+| How | How is the woman posing in the image? | With her hand on her head and her hair flowing in the wind. |
+| How | How does the image create an atmosphere of allure and sensuality? | Through the combination of the beach setting, the woman's attire, and her confident pose. |

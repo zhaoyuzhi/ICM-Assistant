@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray dress? | Yes. |
+| Yes/No | Is the dress low-backed? | Yes. |
+| Yes/No | Does the person have a white flower in their hair? | Yes. |
+| Yes/No | Is the background of the image pink? | Yes. |
+| Yes/No | Is the person posing with their back to the camera? | Yes. |
+| Yes/No | Does the image have a sexy or alluring tone? | Yes. |
+| What | What color is the dress? | Gray. |
+| What | What is the person's pose in the image? | Standing with their back to the camera. |
+| How | How does the pink background contribute to the image's tone? | It adds a pop of color and contrasts with the gray dress, creating a sexy and captivating atmosphere. |
+| How | How does the white flower in the person's hair contribute to the image's tone? | It adds a touch of elegance and femininity, balancing out the sexiness of the lowbacked dress. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing denim shorts? | Yes. |
+| Yes/No | Is the person's top black? | Yes. |
+| Yes/No | Does the person have a confident expression? | Yes. |
+| Yes/No | Are the shorts high-waisted? | Yes. |
+| Yes/No | Does the image contain explicit content? | No. |
+| Yes/No | Is the person's pose relaxed? | Yes. |
+| What | What color are the shorts? | Denim. |
+| What | What is the person's pose? | Hands resting on hips. |
+| How | How does the black top contrast with the denim shorts? | It creates a visual contrast that highlights the person's figure. |
+| How | How does the frayed hem of the shorts add to the overall look? | It adds a touch of casualness to the overall look. |

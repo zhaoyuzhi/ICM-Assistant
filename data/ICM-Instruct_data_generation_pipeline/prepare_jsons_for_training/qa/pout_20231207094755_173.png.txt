@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Are the woman's eyes open wide? | No. |
+| Yes/No | Is the woman's hair dark? | No. |
+| Yes/No | Is the woman wearing a sleeveless shirt? | No. |
+| Yes/No | Is the woman standing in the image? | No. |
+| What | What is the woman's facial expression in the image? | Playful and seductive. |
+| What | What color is the woman's sweater in the image? | White. |
+| How | How is the woman looking in the image? | Upwards and to the side. |
+| How | How would you describe the atmosphere created by the image? | Alluring and inviting. |

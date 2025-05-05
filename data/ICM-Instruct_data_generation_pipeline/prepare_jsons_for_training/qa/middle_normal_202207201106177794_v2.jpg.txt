@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image facing the camera? | No. |
+| Yes/No | Is the man wearing a pair of navy blue shorts? | Yes. |
+| Yes/No | Does the man have a white logo on his left leg? | Yes. |
+| Yes/No | Is the man wearing a white t-shirt? | Yes. |
+| Yes/No | Are there two pockets on the front of the shorts? | Yes. |
+| Yes/No | Is there a small pocket on the back of the shorts? | Yes. |
+| What | What is the color of the man's shorts? | Navy blue. |
+| What | What is the color of the man's t-shirt? | White. |
+| Yes/No | Is the man facing the camera? | No. |
+| Yes/No | Is the man wearing a pair of navy blue cargo shorts? | Yes. |
+| Yes/No | Does the man have any tattoos or visible scars? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Does the man have any jewelry on? | No. |
+| What | What color are the man's shorts? | Navy blue. |
+| What | What is the man wearing on his upper body? | A white tshirt. |
+| How | How many pockets are on the man's shorts? | Two. |
+| What | What is the overall atmosphere of the image? | Calm and unassuming. |

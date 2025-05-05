@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | No. |
+| Yes/No | Is the person in the image wearing any clothing? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| How | Does the image show the person's full body? | No. |
+| Yes/No | Is the person's facial expression visible in the image? | No. |
+| Yes/No | Is the image taken in a studio setting? | Yes. |
+| What | What is the person in the image doing? | Putting their finger inside their mouth. |
+| What | What is the significance of the person's neck being visible in the image? | It is another body part often associated with sensuality. |
+| How | How does the close-up nature of the shot contribute to the overall atmosphere of the image? | It creates a sense of intimacy and focus on the person's facial features. |
+| How | How does the image convey a sense of sensuality and intimacy? | Through the person's gesture, the closeup shot, and the focus on the person's facial features and neck. |

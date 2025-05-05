@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image facing the camera? | No. |
+| Yes/No | Is the man wearing a pair of black shorts and a blue shirt? | Yes. |
+| Yes/No | Is the man standing on a rooftop with a metal railing? | Yes. |
+| Yes/No | Is the cityscape in the background? | Yes. |
+| Yes/No | Is the man in a relaxed stance? | Yes. |
+| Yes/No | Does the image contain explicit nudity or suggestive content? | No. |
+| What | What is the man wearing? | A pair of black shorts and a blue shirt. |
+| What | What is the man standing on? | A rooftop with a metal railing. |
+| How | How is the man standing? | With his legs slightly apart and his back facing the camera. |
+| How | How does the image atmosphere feel? | Calm and nonthreatening. |

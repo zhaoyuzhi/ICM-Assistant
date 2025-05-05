@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Does the bra have a pink bow on the back? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Are the woman's arms behind her back? | Yes. |
+| Yes/No | Does the bra have a unique design with two arches on the back? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra? | Beige. |
+| What | What color is the bow on the back of the bra? | Pink. |
+| How | How is the woman's posture in the image? | Confident, with her arms behind her back. |
+| How | How does the beige color of the bra contrast with the pink bow? | The contrast creates a visually appealing color combination. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Does the bra have a pink bow on the back? | Yes. |
+| Yes/No | Are the woman's arms behind her back? | Yes. |
+| Yes/No | Is the bra beige in color? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and alluring? | Yes. |
+| What | What color is the bra? | Beige. |
+| What | What is the unique design element of the bra? | Two arches on the back. |
+| How | How is the woman's posture in the image? | Confident and alluring. |
+| How | How does the color combination of the bra and pink bow create a visually appealing image? | The contrast between beige and pink creates a harmonious and eyecatching visual effect. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing red leggings? | Yes. |
+| Yes/No | Is the person in the image wearing black sneakers? | Yes. |
+| Yes/No | Is the person in the image posing in a confident manner? | Yes. |
+| Yes/No | Is the person in the image facing the camera directly? | Yes. |
+| Yes/No | Does the image have a sporty and athletic vibe? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the leggings in the image? | Red. |
+| What | What type of shoes is the person wearing in the image? | Black sneakers. |
+| How | How is the person posing in the image? | With one hand resting on their hip and the other hand placed on their thigh. |
+| What | What is the overall mood or atmosphere of the image? | Confident, assertive, and alluring. |

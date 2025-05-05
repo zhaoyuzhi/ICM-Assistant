@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing white shorts? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Does the image feature a sexy pose? | Yes. |
+| Yes/No | Is the background of the image plain? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the person in the image wearing? | White shorts and white shoes. |
+| What | What is the main focus of the image? | The person's body. |
+| How | How is the person standing in the image? | With their legs apart and their hands on their hips. |
+| How | How does the image create a sexy atmosphere? | Through the person's pose, the contrast between their white clothing and the background, and the clean and minimalist look of their outfit. |

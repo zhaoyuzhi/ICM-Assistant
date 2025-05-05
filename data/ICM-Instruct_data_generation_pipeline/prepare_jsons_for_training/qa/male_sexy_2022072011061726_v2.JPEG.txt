@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image posing suggestively? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the background of the image plain? | Yes. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| What | What is the man in the image wearing? | A pair of gray underwear. |
+| What | What is the atmosphere of the image? | Seductive and enticing. |
+| How | How is the man posing in the image? | With his hands on his knees, showcasing his physique. |
+| How | How does the plain white background affect the image? | It emphasizes the man's physique and adds to the overall allure of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black leggings? | Yes. |
+| Yes/No | Is the person in the image wearing high heels? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the person in the image look confident? | Yes. |
+| What | What is the person in the image wearing? | Black leggings and black high heels. |
+| What | What is the person's pose in the image? | Standing with hands on hips. |
+| How | How does the person's attire contribute to the image's atmosphere? | The black leggings and high heels suggest confidence and selfassuredness, which contributes to the overall sexy atmosphere. |
+| How | How does the person's pose contribute to the image's atmosphere? | The pose with hands on hips accentuates the person's body and adds to the overall seductive quality of the image, contributing to the sexy atmosphere. |

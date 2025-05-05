@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue sweatshirt? | Yes. |
+| Yes/No | Is the motorcycle black? | Yes. |
+| Yes/No | Is the logo on the motorcycle blue and white? | Yes. |
+| Yes/No | Is the person riding the motorcycle on a street? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the person riding in the image? | A small, fourwheeled motorcycle. |
+| What | What is the color of the person's pants? | Black. |
+| How | How is the person riding the motorcycle? | In motion. |
+| What | What is the overall atmosphere of the image? | Casual and everyday. |

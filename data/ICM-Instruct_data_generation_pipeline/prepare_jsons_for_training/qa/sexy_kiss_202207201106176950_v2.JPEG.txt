@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a gray shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man and woman in a passionate embrace? | Yes. |
+| Yes/No | Are their lips meeting in a kiss? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's leaning in suggest a strong emotional connection? | Yes. |
+| What | What is the man's shirt color? | Gray. |
+| What | What is the woman's shirt color? | White. |
+| How | How is the man holding the woman? | He is holding her close to him. |
+| How | How is the woman leaning in to kiss the man? | She is leaning in to kiss him tenderly. |

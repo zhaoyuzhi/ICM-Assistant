@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the woman in the image holding a purple sweater? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual? | Yes. |
+| Yes/No | Is the image provocative? | Yes. |
+| Yes/No | Does the image feature a large area of the woman's body exposed? | Yes. |
+| What | What is the color of the sweater the woman is holding? | Purple. |
+| What | What is the woman's attire in the image? | White bra and underwear. |
+| How | How is the woman posed on the bed? | The woman is sitting on the bed. |
+| How | How does the woman interact with the purple sweater? | The woman is holding the sweater in her hands. |

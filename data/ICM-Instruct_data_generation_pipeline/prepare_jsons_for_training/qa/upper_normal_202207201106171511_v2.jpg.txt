@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Are the subjects wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the background decorated with a white and gold pattern? | Yes. |
+| Yes/No | Are the subjects standing in front of a blue and purple background? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the man wearing? | A black robe with gold accents. |
+| What | What is the woman wearing? | A pink and gold dress. |
+| How | How are the subjects standing in the image? | They are standing in front of a blue and purple background. |
+| How | How is the image different from other images featuring people in traditional Chinese clothing? | The image is not sexy due to the low exposure level and the traditional clothing of the subjects, and the focus is on the traditional clothing and cultural elements rather than on the subjects' physical appearance. |

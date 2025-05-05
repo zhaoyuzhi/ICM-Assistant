@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing a thong? | Yes. |
+| Yes/No | Is the desk made of wood? | Yes. |
+| Yes/No | Is there a computer keyboard on the desk? | Yes. |
+| Yes/No | Are there mannequins in the background? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| What | What is the woman wearing? | A white bra and a pink thong. |
+| What | What is the material of the desk? | Wood. |
+| How | How many mannequins are in the background? | Several. |
+| How | How does the overall atmosphere of the image make the viewer feel? | Intimate and allured. |

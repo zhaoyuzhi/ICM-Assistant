@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's blue jeans visible in the image? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person holding a cell phone in their hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| How | Does the image showcase the person's body in a vulnerable and intimate manner? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What is the person holding in their hand? | A cell phone. |
+| How | How is the person's belly exposed in the image? | The person's belly is exposed because their shirt is raised or unbuttoned, revealing their midriff. |
+| How | How does the cell phone in the person's hand add to the image's appeal? | The cell phone adds a modern and relatable element to the image, making it more appealing to the viewer. It also creates a sense of familiarity and comfort, as cell phones are a common part of everyday life. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's belly and jeans blue? | No. |
+| Yes/No | Is the person holding a cell phone? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person holding in their hand? | A cell phone. |
+| What | What color are the person's jeans? | Blue. |
+| How | How is the person's pose with the cell phone perceived? | Modern and relatable. |
+| How | How does the exposed belly and casual attire create a sense of vulnerability and intimacy? | It creates a sense of vulnerability and intimacy because it showcases the person's body in a confident and uninhibited manner. |

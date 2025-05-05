@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the person's attire unbuttoned? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and allure? | Yes. |
+| What | What is the person in the image holding open? | Their shirt. |
+| What | What is the color of the person's shirt? | Blue. |
+| How | How are the person's clothes soaked? | (Not explicitly stated in the description). |
+| What | What does the person's pose and the way they are holding their shirt open suggest? | A sense of intimacy and sensuality. |

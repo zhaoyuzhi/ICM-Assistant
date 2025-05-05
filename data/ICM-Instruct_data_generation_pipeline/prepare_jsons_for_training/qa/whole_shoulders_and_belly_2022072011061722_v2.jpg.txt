@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the model wearing a strapless top? | Yes. |
+| Yes/No | Are the denim shorts rolled up at the bottom? | Yes. |
+| Yes/No | Is the model wearing a purse? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the cutout in the top reveal the model's midriff? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the model's top? | Black. |
+| What | What is the model wearing on her shoulder? | A purse. |
+| How | How are the denim shorts styled? | Rolled up at the bottom. |
+| How | How does the white background affect the image? | It contrasts with the model's dark top and makes her the focal point. |

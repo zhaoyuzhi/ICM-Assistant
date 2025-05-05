@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue blazer? | Yes. |
+| Yes/No | Is the building behind the woman a GUCCI store? | Yes. |
+| Yes/No | Is the woman holding a black purse in her left hand? | Yes. |
+| Yes/No | Is the woman's right hand resting on her hip? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire and pose professional and formal? | Yes. |
+| What | What is the name of the store on the building? | GUCCI. |
+| What | What is the woman holding in her left hand? | A black purse. |
+| How | How is the woman standing in the image? | With her right hand resting on her hip and her left hand holding a purse. |
+| How | How would you describe the overall atmosphere of the image? | Professional and formal. |

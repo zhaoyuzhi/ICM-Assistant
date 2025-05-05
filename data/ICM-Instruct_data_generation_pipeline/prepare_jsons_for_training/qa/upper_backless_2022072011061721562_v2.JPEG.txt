@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray tank top? | Yes. |
+| Yes/No | Is the person lifting a barbell with both hands? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the image taken in a gym setting? | Yes. |
+| Yes/No | Does the person have a muscular build? | Yes. |
+| Yes/No | Is the image perceived as sexy? | Yes. |
+| What | What is the person lifting in the image? | A barbell. |
+| What | What color is the person's tank top? | Gray. |
+| How | How many hands is the person using to lift the barbell? | Two. |
+| How | How much of the person's back is exposed in the image? | A large area. |

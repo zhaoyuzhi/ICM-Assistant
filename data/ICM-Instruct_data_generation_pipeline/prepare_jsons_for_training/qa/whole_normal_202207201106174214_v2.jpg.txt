@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the person in the image holding their pants up with one hand? | Yes. |
+| Yes/No | Is the person in the image standing in front of a clothing rack? | Yes. |
+| Yes/No | Are there several shirts hanging on the clothing rack behind the person? | Yes. |
+| Yes/No | Is the image appropriate and not revealing or provocative? | Yes. |
+| What | What is the person in the image wearing on their lower body? | Blue jeans. |
+| What | What is the person in the image wearing on their upper body? | A black shirt. |
+| How | How is the person in the image holding their pants up? | With one hand. |
+| How | How many shirts are hanging on the clothing rack behind the person? | Several. |

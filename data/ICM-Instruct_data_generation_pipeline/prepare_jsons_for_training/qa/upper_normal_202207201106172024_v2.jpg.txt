@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's hair short? | No. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the woman in the image wearing around her neck? | A silver necklace. |
+| What | What is the woman's facial expression in the image? | Serious. |
+| How | How does the image's low exposure level contribute to its overall atmosphere? | It suggests a nonsexy atmosphere and emphasizes the woman's serious expression and attire. |
+| How | How does the image's focus differ from a typical sexy image? | The focus is on the woman's serious expression and her attire, rather than on her physical appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a white t-shirt with red text? | Yes. |
+| Yes/No | Are her pants pink? | Yes. |
+| Yes/No | Is her pose confident and relaxed? | Yes. |
+| Yes/No | Is her right hand lightly touching her hair? | Yes. |
+| Yes/No | Is the background of the image a clear blue sky? | Yes. |
+| What | What color is the woman's t-shirt? | White. |
+| What | What color are her pants? | Pink. |
+| How | How is the woman's left hand positioned? | Resting on her hip. |
+| How | How is her right hand positioned? | Lightly touching her hair. |

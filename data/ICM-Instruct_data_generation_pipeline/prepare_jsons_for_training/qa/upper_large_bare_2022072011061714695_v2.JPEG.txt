@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Does the woman have a large, prominent chest? | Yes. |
+| Yes/No | Is the image rendered in 3D? | Yes. |
+| Yes/No | Does the woman have a confident pose? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have well-defined muscles? | Yes. |
+| What | What is the woman's attire in the image? | Bikini top. |
+| What | What is the woman's pose in the image? | Hand on hip. |
+| How | How does the 3D rendering of the image enhance the scene? | It adds realism and detail. |
+| How | How does the woman's pose accentuate her physique? | It highlights her muscularity. |

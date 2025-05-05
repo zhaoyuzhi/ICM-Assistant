@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blue sweater? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Is the image set in a public setting, such as a park? | Yes. |
+| What | What is the color of the man's t-shirt? | White. |
+| What | What is the color of the woman's sweater? | Blue. |
+| How | How are the man and woman holding each other? | They are wrapped in each other's arms. |
+| How | How does the image make the viewer feel? | It creates an intimate and sexy atmosphere. |

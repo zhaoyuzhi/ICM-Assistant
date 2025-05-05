@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's pants high-waisted? | Yes. |
+| Yes/No | Is the woman standing in a room with a white wall? | Yes. |
+| Yes/No | Is there a vase of flowers in the background? | Yes. |
+| Yes/No | Is the woman posing with her hands on her hips? | Yes. |
+| Yes/No | Is the woman's head tilted to the side? | Yes. |
+| What | What color is the woman's outfit? | Gray and black. |
+| What | What is the style of the woman's pants? | Highwaisted. |
+| How | How is the woman posing in the image? | With her hands on her hips and her head slightly tilted to the side. |
+| What | What is the atmosphere of the image? | Sensual and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a top? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Is the wall in the background white? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman's attire in the image sexy? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What color is the woman's top? | Green. |
+| How | How is the woman holding her purse? | She is holding it in her hand. |
+| How | How does the woman's attire make her look? | Confident and stylish. |

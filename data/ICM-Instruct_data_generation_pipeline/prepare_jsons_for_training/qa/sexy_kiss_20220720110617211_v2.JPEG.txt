@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue suit? | Yes. |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the man and woman standing close together in the image? | Yes. |
+| Yes/No | Are their bodies almost touching in the image? | Yes. |
+| Yes/No | Is the man leaning in to kiss the woman on the cheek? | Yes. |
+| Yes/No | Does the image have a warm, intimate, and romantic atmosphere? | Yes. |
+| What | What color is the man's suit? | Blue. |
+| What | What is the woman's dress color? | Black. |
+| How | How are the man and woman standing in relation to each other? | They are standing close together, their bodies almost touching. |
+| How | How does the man show his affection for the woman? | He is leaning in to kiss her on the cheek. |

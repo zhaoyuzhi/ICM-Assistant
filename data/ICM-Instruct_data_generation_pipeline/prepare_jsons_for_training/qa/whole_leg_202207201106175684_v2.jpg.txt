@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a floral pattern blouse? | Yes. |
+| Yes/No | Are the shorts the woman is wearing blue? | Yes. |
+| Yes/No | Is the woman's pose in the image confident? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the floral pattern on the blouse add a touch of femininity to the outfit? | Yes. |
+| Yes/No | Is the woman looking off to the side in the image? | Yes. |
+| What | What color is the woman's blouse? | Colorful. |
+| What | What is the woman's pose in the image? | Confident. |
+| How | How does the white wall in the background affect the image? | It emphasizes the woman and her outfit, making her the focal point of the image. |
+| How | How does the blue shorts contrast with the colorful blouse? | The blue shorts provide a contrast to the colorful blouse, creating a visually appealing combination. |

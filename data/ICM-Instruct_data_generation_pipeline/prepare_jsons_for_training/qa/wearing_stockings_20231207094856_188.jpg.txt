@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Does the person in the image have their legs crossed? | Yes. |
+| Yes/No | Is the person in the image holding up their stockings with one hand? | Yes. |
+| Yes/No | Is the image portraying a sense of intimacy and sensuality? | Yes. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| What | What color is the person's shirt? | Pink. |
+| What | What is the person in the image holding in their hand? | Their stockings. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How is the person holding up their stockings? | With one hand. |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Does the image portray a sense of intimacy and sensuality? | Yes. |
+| What | What is the person in the image holding in their hand? | Their stockings. |
+| What | What is the color of the person's shirt in the image? | Pink. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How is the person holding up their stockings in the image? | With one hand. |

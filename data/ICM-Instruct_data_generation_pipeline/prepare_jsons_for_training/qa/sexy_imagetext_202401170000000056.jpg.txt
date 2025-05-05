@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman sitting on a sofa? | Yes. |
+| Yes/No | Is the man kneeling in front of the woman? | Yes. |
+| Yes/No | Are the woman and man wearing clothes? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and close? | Yes. |
+| Yes/No | Does the image suggest a personal and private moment between the two individuals? | Yes. |
+| Yes/No | Does the image have a sexy tone? | Yes. |
+| What | What is the woman wearing? | A sweater. |
+| What | What is the man wearing? | A white shirt. |
+| How | How is the woman positioned on the sofa? | With her arms around the man. |
+| How | How is the man positioned in front of the woman? | Kneeling. |

@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Are all the women wearing bikinis? | Yes. |
+| Yes/No | Is the woman in the center wearing a green bikini? | Yes. |
+| Yes/No | Is the woman on the far left wearing a pink bikini? | Yes. |
+| Yes/No | Is the woman on the far right wearing a red bikini? | Yes. |
+| Yes/No | Do all the women have sunglasses on? | Yes. |
+| What | What color is the bikini of the woman in the center? | Green. |
+| What | What is the color of the bikini of the woman on the far right? | Red. |

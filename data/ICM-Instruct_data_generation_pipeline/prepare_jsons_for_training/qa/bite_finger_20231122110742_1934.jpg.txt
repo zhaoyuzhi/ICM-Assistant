@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person in the image wearing any clothing? | No. |
+| Yes/No | Is the person's finger in their mouth? | Yes. |
+| Yes/No | Is the person's mouth open? | Yes. |
+| Yes/No | Is the person's facial expression visible in the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the person doing with their finger in the image? | The person is putting their finger in their mouth. |
+| What | What is the person's facial expression in the image? | The person's facial expression is not visible in the image. |
+| How | How is the person's finger positioned in their mouth? | The person's finger is inside their mouth, but the exact position cannot be determined from the description. |
+| How | How does the image make the viewer feel? | The image does not have a sexy atmosphere, and it is not possible to determine how it makes the viewer feel based on the description provided. |

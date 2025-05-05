@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a blouse? | Yes. |
+| Yes/No | Are the shorts green? | Yes. |
+| Yes/No | Is the blouse white? | Yes. |
+| Yes/No | Are the person's legs bare? | Yes. |
+| Yes/No | Is the person wearing white shoes? | Yes. |
+| What | What color are the shorts? | Green. |
+| What | What color is the blouse? | White. |
+| How | How are the person's legs positioned? | Apart. |
+| How | How does the image make you feel? | Sexy. |

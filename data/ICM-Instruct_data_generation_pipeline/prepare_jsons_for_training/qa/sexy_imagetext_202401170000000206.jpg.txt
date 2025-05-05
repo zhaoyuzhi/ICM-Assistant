@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image lying on a pool table? | Yes. |
+| Yes/No | Is the advertising slogan above the woman? | Yes. |
+| Yes/No | Does the woman have long hair in the image? | Yes. |
+| Yes/No | Is the woman wearing a black dress in the image? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Does the advertising slogan contain a provocative element? | Yes. |
+| What | What is the woman lying on in the image? | A pool table. |
+| What | What color is the advertising slogan in the image? | Red and white. |
+| How | How is the woman posing in the image? | She is lying on her side with her head resting on her hand. |
+| How | How does the advertising slogan add a provocative element to the image? | The slogan is reminiscent of male genitals. |

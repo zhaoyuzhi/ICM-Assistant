@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a floral dress? | Yes. |
+| Yes/No | Is there a bowl on the kitchen counter? | Yes. |
+| Yes/No | Is the stove visible in the image? | Yes. |
+| Yes/No | Is the woman's attire revealing? | No. |
+| Yes/No | Does the image suggest movement? | No. |
+| What | What is the woman's back turned towards in the image? | The stove. |
+| What | What is the color of the ribbon tied around the woman's waist? | Black. |
+| How | How does the woman's attire contribute to the overall atmosphere of the scene? | The floral dress and black ribbon suggest elegance, sophistication, and mystery. |
+| How | How does the kitchen setting contribute to the overall atmosphere of the scene? | The kitchen setting creates a warm and inviting atmosphere. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a shirt or top? | No. |
+| Yes/No | Is the woman in the image smiling? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the woman have any tattoos or piercings visible in the image? | No. |
+| Yes/No | Is the woman's hair visible in the image? | No. |
+| What | What is the woman's facial expression in the image? | She is looking downwards with a confident and alluring expression. |
+| What | What is the color of the woman's belly button? | Black. |
+| How | How is the woman's body positioned in the image? | She is standing with her hands on her hips, accentuating her curves. |
+| How | How would you describe the overall atmosphere of the image? | Sensual and alluring. |
+| Yes/No | Is the woman in the image wearing a tape measure? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Are the woman's earrings visible in the image? | Yes. |
+| Yes/No | Is the woman wearing blue jeans in the image? | Yes. |
+| Yes/No | Does the image have a sensual and provocative atmosphere? | Yes. |
+| Yes/No | Is the woman measuring her waist with the tape measure in the image? | Yes. |
+| What | What is the woman measuring in the image? | Her waist. |
+| What | What color are the woman's earrings in the image? | Black. |
+| How | How is the woman's belly exposed in the image? | Her belly button is visible. |
+| How | How does the image emphasize the theme of measurement and body image? | The woman is using a tape measure to measure her waist. |

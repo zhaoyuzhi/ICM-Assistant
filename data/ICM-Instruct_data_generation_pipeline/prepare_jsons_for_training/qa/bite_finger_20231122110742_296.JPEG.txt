@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image smiling? | Yes. |
+| Yes/No | Is the person in the image male? | No. |
+| Yes/No | Is the finger in the person's mouth? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image depict a sexual act? | No. |
+| Yes/No | Is the person's mouth open wide? | Yes. |
+| What | What is the person's facial expression? | Slight smile. |
+| What | What is the close-up view of? | The person's face. |
+| How | How does the image create an intimate atmosphere? | Through the closeup nature and slight smile. |
+| How | How does the image evoke feelings in the viewer? | Through association with intimacy and sensuality, and the private and seductive atmosphere created. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin facing the camera? | No. |
+| Yes/No | Are the jeans ripped or distressed? | No. |
+| Yes/No | Does the image have a sexual or suggestive tone? | No. |
+| Yes/No | Are there any explicit or implicit references to intimacy or sensuality in the image? | No. |
+| Yes/No | Is the mannequin wearing any other clothing or accessories? | No. |
+| Yes/No | Is the image well-lit or bright? | No. |
+| What | What is the style of the jeans? | Classic straight leg. |
+| What | What is the color of the jeans? | Blue. |
+| How | How is the mannequin positioned in the image? | Facing away from the camera. |
+| How | How would you describe the exposure level of the image? | Very low. |
+| Yes/No | Is the image focused on the jeans? | Yes. |
+| Yes/No | Does the image feature a human model? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the jeans a classic style? | Yes. |
+| Yes/No | Does the label on the back pocket of the jeans read "Levis" and "1950"? | Yes. |
+| Yes/No | Is the image appropriate and free of inappropriate or offensive content? | Yes. |
+| What | What is the color of the jeans? | Blue. |
+| What | What is the name of the brand featured on the label of the jeans? | Levis. |
+| How | How is the mannequin positioned in the image? | The mannequin is positioned in such a way that the jeans are the main focus of the image. |
+| How | How does the image contrast the blue color of the jeans? | The image contrasts the blue color of the jeans against a white background. |

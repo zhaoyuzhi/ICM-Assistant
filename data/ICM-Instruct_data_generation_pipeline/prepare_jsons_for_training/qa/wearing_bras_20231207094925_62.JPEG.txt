@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image putting on a bra? | Yes. |
+| Yes/No | Is the bra a strapless style? | Yes. |
+| Yes/No | Is the woman wearing a matching blue undergarment? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Are the woman's actions of putting on a bra associated with sensuality and allure? | Yes. |
+| Yes/No | Does the blue color of the bra and undergarment create a visually appealing contrast against the woman's skin? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a blue bra. |
+| What | What is the color of the bra and undergarment? | Blue. |
+| How | How is the woman adjusting the bra around her body? | She is holding the bra with both hands and adjusting it around her body. |
+| How | How does the image evoke a sense of allure and seduction? | The image evokes a sense of allure and seduction because it captures a moment of intimacy and vulnerability, and the woman's actions of putting on a bra are often associated with sensuality and allure. Additionally, the blue color of the bra and undergarment creates a visually appealing contrast against the woman's skin. |
+| Yes/No | Is the woman in the process of putting on a bra? | Yes. |
+| Yes/No | Is the bra a strapless style? | Yes. |
+| Yes/No | Is the woman wearing a matching blue undergarment? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a blue bra. |
+| What | What color is the bra and undergarment? | Blue. |
+| How | How does the image evoke a sense of allure and seduction? | The image evokes a sense of allure and seduction through the woman's actions, the blue color of the bra and undergarment, and the overall aesthetic. |
+| How | How does the image contrast against the woman's skin? | The blue color of the bra and undergarment creates a visually appealing contrast against the woman's skin. |

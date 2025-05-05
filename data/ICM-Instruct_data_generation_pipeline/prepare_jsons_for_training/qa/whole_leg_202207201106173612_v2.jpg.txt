@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman holding a phone in her right hand? | Yes. |
+| Yes/No | Is the woman wearing a black dress? | Yes. |
+| Yes/No | Are there buildings in the background of the image? | Yes. |
+| Yes/No | Are there cars in the background of the image? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| What | What is the woman holding in her left hand? | A black purse. |
+| What | What is the color of the dress the woman is wearing? | Black. |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| How | How is the woman looking at the camera? | She is smiling and looking directly at the camera. |

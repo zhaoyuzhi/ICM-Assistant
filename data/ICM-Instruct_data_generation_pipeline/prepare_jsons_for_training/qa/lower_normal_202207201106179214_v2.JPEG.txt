@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress long? | Yes. |
+| Yes/No | Does the dress have a wide leg? | Yes. |
+| Yes/No | Is the person wearing heels? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| What | What color is the dress? | Dark green. |
+| What | What type of shoes is the person wearing? | Black heels. |
+| How | How does the person's pose suggest confidence and poise? | The person is standing straight with their legs slightly apart, and their arms are relaxed at their sides, conveying a sense of selfassurance and poise. |
+| How | How does the image create a sense of mystery and intrigue? | The dark background and the person's modest attire create a sense of enigma and intrigue, as the viewer is left wondering about the person's identity and the context in which the image was taken. |

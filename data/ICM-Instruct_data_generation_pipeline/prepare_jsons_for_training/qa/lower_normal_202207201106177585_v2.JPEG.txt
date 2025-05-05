@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a sweater? | Yes. |
+| Yes/No | Is the woman in the image wearing white heels? | Yes. |
+| Yes/No | Does the image suggest a sexual context? | No. |
+| Yes/No | Is the woman in the image posing in a provocative manner? | No. |
+| Yes/No | Does the image contain any inappropriate content? | No. |
+| What | What is the woman in the image wearing around her waist? | A brown belt. |
+| What | What is the material of the woman's skirt? | Denim. |
+| How | How is the woman's hair styled in the image? | In loose waves. |
+| What | What is the atmosphere of the image? | Calm and serene. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing lipstick? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the woman's hand touching her face? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the woman have a serious expression? | No. |
+| Yes/No | Is the image cropped tightly on the woman's face? | No. |
+| What | What color is the woman's lipstick? | Pink. |
+| What | What is the woman's facial expression? | Pouting or kissing face. |
+| How | How does the woman's upward gaze contribute to the image's atmosphere? | It suggests selfassuredness and confidence. |
+| How | How does the pink lipstick add to the image's overall aesthetic? | It adds a pop of color and boldness to the woman's look. |

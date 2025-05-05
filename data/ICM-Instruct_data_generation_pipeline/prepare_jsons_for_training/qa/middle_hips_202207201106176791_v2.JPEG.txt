@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a black top? | Yes. |
+| Yes/No | Are the jeans tight, accentuating the person's curves? | Yes. |
+| Yes/No | Does the person have their hands resting on their hips? | Yes. |
+| Yes/No | Is the image a close-up of the person's buttocks? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the color of the person's jeans? | Blue. |
+| What | What is the color of the person's top? | Black. |
+| How | How are the jeans fitting the person's body? | Tightly. |
+| How | How is the person's posture in the image? | Confident, with hands resting on hips. |

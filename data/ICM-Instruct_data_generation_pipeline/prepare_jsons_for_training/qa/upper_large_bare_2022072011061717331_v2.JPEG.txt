@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image leaning against a fence? | Yes. |
+| Yes/No | Is the woman's left hand resting on her hip? | Yes. |
+| Yes/No | Is the woman's right hand resting on the fence? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| What | What is the woman wearing in the image? | A white bikini top and bottom. |
+| What | What is the color of the fence in the background? | Green. |
+| How | How is the woman's left hand positioned in the image? | Resting on her hip. |
+| How | How is the woman's right hand positioned in the image? | Resting on the fence. |

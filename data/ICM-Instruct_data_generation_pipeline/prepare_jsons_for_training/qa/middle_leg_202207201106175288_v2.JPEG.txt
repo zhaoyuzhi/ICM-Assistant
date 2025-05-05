@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a denim skirt? | Yes. |
+| Yes/No | Is the skirt black? | Yes. |
+| Yes/No | Does the skirt have a frayed hem? | Yes. |
+| Yes/No | Is the person wearing a gray t-shirt? | Yes. |
+| Yes/No | Is the person's pose confident and relaxed? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the color of the person's t-shirt? | Gray. |
+| What | What is the design of the skirt's hem? | Frayed. |
+| How | How does the person's pose contribute to the image's atmosphere? | The person's confident and relaxed pose, combined with the skirt's design, creates a sense of allure and confidence. |
+| How | How does the image's color palette contribute to its overall mood? | The combination of the black skirt and gray tshirt creates a casual yet stylish look, which adds to the image's sexy atmosphere. |

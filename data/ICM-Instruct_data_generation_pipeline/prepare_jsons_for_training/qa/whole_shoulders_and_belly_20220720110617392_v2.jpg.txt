@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man and woman standing on a stone balcony? | Yes. |
+| Yes/No | Is the woman wearing a black dress with a plunging neckline? | Yes. |
+| Yes/No | Is the man dressed in a black suit? | Yes. |
+| Yes/No | Is the man holding the woman's neck? | Yes. |
+| Yes/No | Is the woman struggling against the man's grip? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What is the woman's dress style? | Strapless. |
+| What | What is the man's attire? | Suit. |
+| How | How is the man holding the woman's neck? | Pulling her towards him. |
+| How | How does the woman appear to be responding to the man's grip? | Struggling against it. |

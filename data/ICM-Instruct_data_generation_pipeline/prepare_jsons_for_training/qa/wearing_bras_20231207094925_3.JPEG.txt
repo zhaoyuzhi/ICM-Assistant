@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra purple? | Yes. |
+| Yes/No | Does the bra have a bow on the front? | Yes. |
+| Yes/No | Is the woman holding the bra with her right hand? | Yes. |
+| Yes/No | Is the woman adjusting the bra? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the bra? | Purple. |
+| What | What is the woman doing with the bra? | Adjusting it and holding it with her right hand. |
+| How | How is the woman holding the bra? | She is holding it with her right hand. |
+| How | How is the bra being adjusted? | The woman is adjusting it. |
+| Yes/No | Is the woman in the image wearing a purple lace bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Does the bra have a bow on the front? | Yes. |
+| Yes/No | Is the image sexy because of the woman's attire and actions? | Yes. |
+| Yes/No | Is the purple lace bra a classic and elegant choice? | Yes. |
+| Yes/No | Does the woman's actions suggest a sense of confidence and allure? | Yes. |
+| What | What is the woman holding in her right hand? | The bra. |
+| What | What is the color of the lace bra? | Purple. |
+| How | How is the woman adjusting the bra? | She is holding it with her right hand and adjusting it. |
+| What | What atmosphere does the combination of the woman's attire and actions create? | A seductive atmosphere. |

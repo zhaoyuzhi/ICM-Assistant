@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a tank top? | Yes. |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman's left leg extended behind her? | Yes. |
+| Yes/No | Is the woman's right leg bent at the knee? | Yes. |
+| What | What color is the woman's tank top? | Green. |
+| What | What color are the woman's shoes? | Black. |
+| How | How is the woman's right leg bent? | At the knee. |

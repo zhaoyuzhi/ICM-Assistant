@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a gray t-shirt? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the person standing with their legs slightly apart? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What is the person in the image wearing on their feet? | White sneakers. |
+| What | What is the color of the background in the image? | Gray. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How is the person standing in the image? | With their legs slightly apart. |

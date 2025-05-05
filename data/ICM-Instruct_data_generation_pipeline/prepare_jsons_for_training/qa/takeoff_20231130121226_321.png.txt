@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman taking off her clothes? | Yes. |
+| Yes/No | Is the woman wearing a blue shirt? | Yes. |
+| Yes/No | Are there white chairs in the background? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the atmosphere of the image sexy and intimate? | Yes. |
+| What | What color is the woman's shirt? | Blue. |
+| What | What color are the chairs in the background? | White. |
+| How | How many articles of clothing is the woman wearing? | 3 (blue shirt, white underwear, and white socks). |
+| What | What is the woman doing in the image? | Taking off her clothes. |

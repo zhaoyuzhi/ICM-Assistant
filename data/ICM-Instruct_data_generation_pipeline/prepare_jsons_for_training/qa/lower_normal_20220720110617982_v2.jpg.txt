@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's jeans ripped? | Yes. |
+| Yes/No | Is the person wearing white sneakers? | Yes. |
+| Yes/No | Is the person's exposure level low? | Yes. |
+| Yes/No | Does the image depict explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire casual and non-revealing? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What type of shoes is the person wearing? | White sneakers. |
+| How | How is the person dressed in the image? | Casually, with a white shirt and blue jeans with rips. |
+| What | What is the person's movement in the image? | Walking towards the camera. |

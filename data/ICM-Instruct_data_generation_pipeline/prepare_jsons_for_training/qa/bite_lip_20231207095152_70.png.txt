@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a person's face? | Yes. |
+| Yes/No | Does the person in the image have a serious facial expression? | Yes. |
+| Yes/No | Are the person's lips pink? | Yes. |
+| Yes/No | Is the person biting their lip? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the image a photograph? (assuming it's not a drawing or painting) | Yes. |
+| What | What is the main focus of the image? | The person's lips and nose. |
+| What | What gesture is the person making in the image? | Biting their lip. |
+| How | How does the close-up perspective contribute to the image's atmosphere? | It emphasizes the person's lips and nose, creating a sense of intimacy and allowing the viewer to focus on these specific features. |
+| How | How does the person's facial expression contribute to the image's atmosphere? | It adds a sense of seriousness and sensuality, enhancing the overall sexy atmosphere of the image. |

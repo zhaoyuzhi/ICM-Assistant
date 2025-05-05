@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini white and blue? | Yes. |
+| Yes/No | Does the bikini have a halter neck? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image have a relaxed and casual atmosphere? | Yes. |
+| What | What is the woman posing with her hand on? | Her head. |
+| What | What is the color of the bikini? | White and blue. |
+| How | How is the bikini designed? | It has a halter neck and a tie at the back. |
+| How | How does the woman's smile and pose contribute to the overall appeal of the image? | They add to the allure and sensuality of the image. |

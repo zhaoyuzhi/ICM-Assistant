@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the woman have long dark hair? | Yes. |
+| Yes/No | Is the woman wearing a blue and white striped shirt? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| What | What is the woman holding onto with her left hand? | The door frame. |
+| What | What is the color of the woman's shirt? | Blue and white. |
+| How | How is the woman's smile described? | Warm and inviting. |
+| How | How does the low exposure level of the image affect the overall feel of the image? | It emphasizes the woman and her actions, making the image feel more focused and intimate rather than seductive. |

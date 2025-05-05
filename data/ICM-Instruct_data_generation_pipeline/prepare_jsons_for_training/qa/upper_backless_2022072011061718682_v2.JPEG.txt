@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Are the pants the person is wearing black? | Yes. |
+| Yes/No | Is the bra pink? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Are the straps of the bra thin? | Yes. |
+| Yes/No | Does the bra have a lace-up design? | Yes. |
+| What | What color are the pants the person is wearing? | Black. |
+| What | What is the color of the bra the person is wearing? | Pink. |
+| How | How do the black pants accentuate the person's curves? | They are formfitting, highlighting the person's shape. |
+| How | How does the combination of the exposed back and fitted clothing create a sense of intimacy and allure? | The contrast between the exposed skin and the fitted clothing creates a sense of vulnerability and sensuality. |

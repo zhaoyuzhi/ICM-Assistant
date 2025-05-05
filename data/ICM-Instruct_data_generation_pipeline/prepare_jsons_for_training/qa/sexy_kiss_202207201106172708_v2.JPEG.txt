@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Is the woman's dress white? | Yes. |
+| Yes/No | Are the man's hands on the woman's face? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image depict a romantic scene? | Yes. |
+| What | What is the man wearing in the image? | A black jacket. |
+| What | What is the woman wearing in the image? | A white dress. |
+| How | How are the couple's body language and proximity suggesting their emotional connection? | They are standing close, with the woman's arms wrapped around the man's neck and the man's hands on the woman's face, suggesting a strong emotional connection. |
+| How | How does the rain add to the atmosphere of the image? | The rain adds a romantic and dramatic atmosphere to the scene, enhancing the overall allure of the image. |

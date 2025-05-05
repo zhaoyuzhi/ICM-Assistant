@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Is the person putting on black stockings? | Yes. |
+| Yes/No | Does the image create a sense of allure and sensuality? | Yes. |
+| Yes/No | Is the person's expression focused and determined? | Yes. |
+| Yes/No | Do the black stockings, gray sweater, and black pants create a contrast that highlights the person's legs? | Yes. |
+| What | What color are the stockings being put on? | Black. |
+| What | What is the person's facial expression? | Focused and determined. |
+| How | How are the stockings being put on? | In a way that suggests they are being worn for a sexy appearance. |
+| How | How does the image evoke a sense of intimacy and allure? | Through the combination of the person's attire, the act of putting on stockings, and the person's expression, which creates a sense of allure and sensuality. |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Are the black stockings being put on for a sexy appearance? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy and allure? | Yes. |
+| Yes/No | Is the person's expression focused and determined? | Yes. |
+| Yes/No | Do the black stockings, gray sweater, and black pants create a contrast that highlights the person's legs? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person's attire in the image? | Gray sweater and black pants. |
+| How | How are the black stockings being put on? | In a way that suggests they are being worn for a sexy appearance. |
+| How | How does the image evoke a sense of intimacy and allure? | Through the combination of the person's attire and the act of putting on stockings, which creates a sense of allure and sensuality. |

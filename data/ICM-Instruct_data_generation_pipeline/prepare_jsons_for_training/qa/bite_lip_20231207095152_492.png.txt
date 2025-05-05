@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a light pink top? | Yes. |
+| Yes/No | Does the woman have long brown hair? | Yes. |
+| Yes/No | Is the woman sitting on a white surface? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Does the woman have a serious facial expression? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What is the color of the woman's top? | Light pink. |
+| How | How does the woman's long brown hair contribute to the image's overall attractiveness? | It adds to her attractiveness by creating a soft and feminine touch. |
+| How | How does the white surface contrast with the woman's skin tone? | It provides a stark contrast, making her the focal point of the image. |

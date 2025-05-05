@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress made of a light-colored fabric? | Yes. |
+| Yes/No | Is the woman lifting her dress in the image? | Yes. |
+| Yes/No | Are the woman's legs and feet visible in the image? | Yes. |
+| Yes/No | Is the background of the image a gray couch? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman lifting her dress revealing? | Her legs and feet. |
+| What | What is the color of the fabric of the dress? | Lightcolored, possibly silk or satin. |
+| How | How is the fabric of the dress moving in the image? | Flowing. |
+| How | How does the image make the viewer feel? | Intimate and provocative. |

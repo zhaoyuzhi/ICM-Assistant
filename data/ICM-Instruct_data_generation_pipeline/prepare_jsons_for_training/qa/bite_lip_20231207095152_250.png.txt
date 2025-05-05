@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the woman wearing red lipstick? | Yes. |
+| Yes/No | Is the woman sitting in a car? | Yes. |
+| Yes/No | Does the woman have a slight smile on her face? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| What | What is the woman's facial expression? | A slight smile. |
+| What | What color is the woman's lipstick? | Red. |
+| How | How is the woman sitting in the car? | In a relaxed position. |
+| How | How does the close-up view of the woman's face contribute to the overall atmosphere of the image? | It allows the viewer to focus on her facial features and expressions, enhancing the sense of sensuality and selfassurance. |

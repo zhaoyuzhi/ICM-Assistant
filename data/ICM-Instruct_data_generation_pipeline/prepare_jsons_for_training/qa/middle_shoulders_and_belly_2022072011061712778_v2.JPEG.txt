@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image focused on the person's stomach? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the white shirt add to the simplicity of the image? | Yes. |
+| What | What is the main focus of the image? | The person's stomach. |
+| What | What is the overall atmosphere of the image? | Intimate and sensual. |
+| How | How does the image showcase the person's body? | In a closeup shot. |
+| How | How does the lack of other objects or people in the image emphasize the person's body? | It makes the image more alluring and provocative. |
+| Yes/No | Is the person in the image wearing a gray shirt? | Yes. |
+| Yes/No | Is the person's stomach exposed in the image? | Yes. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| What | What is the color of the person's shirt in the image? | Gray. |
+| What | What is the main focus of the image? | The person's stomach. |
+| How | How is the person's stomach showcased in the image? | The person's stomach is visible and the main focus of the image. |
+| How | How does the gray shirt worn by the person add to the overall atmosphere of the image? | The gray shirt adds a casual and relaxed vibe to the image, which can be perceived as sexy. |

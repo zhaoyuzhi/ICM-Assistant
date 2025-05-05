@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the person have a black t-shirt on? | Yes. |
+| Yes/No | Are the jeans torn and frayed at the knees? | Yes. |
+| Yes/No | Is the person wearing a black and white sneaker? | Yes. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the color of the person's t-shirt? | Black. |
+| What | What is the style of the person's outfit? | Casual and sporty. |
+| How | How are the jeans paired with the sneaker? | They are paired in a casual and sporty way. |
+| How | How does the black background contribute to the overall atmosphere of the image? | It creates a simple and relaxed atmosphere, focusing attention on the person and their outfit. |

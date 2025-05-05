@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing pink shorts? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the woman's top matching the color of her shorts? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have any other objects or people in the image with her? | No. |
+| Yes/No | Is the color pink associated with femininity and sensuality? | Yes. |
+| What | What is the color of the woman's shorts and top? | Pink. |
+| What | What is the design of the shorts? | White stripe on the side and a white tag hanging from the waistband. |
+| How | How is the woman standing in the image? | With her hands on her hips. |
+| How | How does the image make you feel? | It creates a sense of allure and attractiveness. |

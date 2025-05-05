@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue leggings? | Yes. |
+| Yes/No | Is the person in the image wearing a white sports bra? | Yes. |
+| Yes/No | Does the person in the image have their belly exposed? | Yes. |
+| Yes/No | Are the leggings form-fitting? | Yes. |
+| Yes/No | Does the person in the image have their arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| What | What color are the leggings in the image? | Blue. |
+| What | What is the person in the image wearing on their upper body? | A white sports bra. |
+| How | How do the blue leggings and white sports bra create a contrast in the image? | They create a contrast by highlighting the person's form through the difference in color and texture. |
+| How | How does the casual and athletic atmosphere of the image enhance the sexy vibe? | It conveys a sense of comfort and ease in one's own body, which adds to the overall sense of allure and confidence. |

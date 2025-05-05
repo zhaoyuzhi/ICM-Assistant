@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| How | Does the image show the person's face? | No. |
+| Yes/No | Are the shorts navy blue? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What color are the shorts? | Navy blue. |
+| What | What is the focus of the image? | The person's attire. |
+| How | How is the image lit? | Low exposure level. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a pair of navy blue shorts? | Yes. |
+| Yes/No | Does the person have a logo on their left leg? | Yes. |
+| Yes/No | Is the person wearing a blue shirt? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| How | Does the image show a large portion of the person's body? | No. |
+| What | What color are the shorts the person is wearing? | Navy blue. |
+| What | What is the focus of the image? | The person's clothing, specifically the navy blue shorts and blue shirt. |
+| How | How is the person's body positioned in the image? | The person is standing with their back to the camera. |
+| How | How much of the person's body is visible in the image? | A small portion of the person's body, specifically their back and the lower half of their torso. |

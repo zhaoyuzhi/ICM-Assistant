@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Are the black heels with gold buckles a focal point of the image? | Yes. |
+| Yes/No | Is the background of the image a couch and a cactus plant? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and allure? | Yes. |
+| What | What is the pose of the person in the image? | The person is sitting with their legs crossed. |
+| What | What is the main focus of the image? | The person's body is the main focus of the image. |
+| How | How does the person's pose and attire contribute to the image's sex appeal? | The person's pose and attire, specifically the black heels with gold buckles, contribute to the image's sex appeal by suggesting confidence and allure. |
+| How | How does the cactus plant in the background add depth to the image? | The cactus plant in the background adds depth to the image by providing a contrast to the human element and adding a touch of nature to the scene. |

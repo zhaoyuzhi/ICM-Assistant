@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person leaning against a blue background? | Yes. |
+| Yes/No | Does the image convey a sense of self-assuredness and confidence? | Yes. |
+| Yes/No | Is the overall aesthetic of the image sexy? | Yes. |
+| What | What is the color of the person's top? | White. |
+| What | What is the color of the person's jeans? | Blue. |
+| How | How is the person posing in the image? | The person is leaning against a blue background with their hand on their hip. |
+| How | How does the blue background enhance the overall aesthetic of the image? | The blue background provides a cool and calming contrast to the person's attire, enhancing the overall aesthetic and drawing attention to the person's form. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Are the woman's jeans ripped at the knees? | Yes. |
+| Yes/No | Is the woman leaning against a blue background? | Yes. |
+| Yes/No | Does the image feature the woman's exposed belly? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sensual and alluring? | Yes. |
+| Yes/No | Does the combination of the ripped jeans and white top with a floral pattern add a casual and stylish vibe to the image? | Yes. |
+| What | What is the woman's pose in the image? | The woman is leaning against a blue background with her hands on her hips. |
+| What | What is the color of the background in the image? | The background is blue. |
+| How | How does the woman's confident pose contribute to the overall atmosphere of the image? | The woman's confident pose contributes to the overall atmosphere of the image by making it seem more sensual and alluring. |
+| How | How does the combination of the ripped jeans and white top with a floral pattern contribute to the overall atmosphere of the image? | The combination of the ripped jeans and white top with a floral pattern contributes to the overall atmosphere of the image by adding a casual and stylish vibe to it. |

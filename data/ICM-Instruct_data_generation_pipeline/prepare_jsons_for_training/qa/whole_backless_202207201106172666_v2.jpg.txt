@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress long? | Yes. |
+| Yes/No | Does the dress have a slit on the back? | Yes. |
+| Yes/No | Is the woman's back visible in the image? | Yes. |
+| Yes/No | Is the image set in a garden? | Yes. |
+| Yes/No | Are there white flowers in the garden? | Yes. |
+| What | What color is the dress? | Pink. |
+| What | What is the woman's pose in the image? | She is standing with her back turned towards the camera. |
+| How | How does the slit on the back of the dress contribute to the image's overall atmosphere? | It adds a sense of allure and sensuality to the image. |
+| How | How does the garden setting contrast with the woman's dress? | The natural and serene backdrop of the garden contrasts with the vibrant pink dress, enhancing the overall atmosphere of the image. |

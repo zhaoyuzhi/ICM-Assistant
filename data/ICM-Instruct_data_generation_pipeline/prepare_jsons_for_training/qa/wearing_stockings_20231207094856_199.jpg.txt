@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a flowery dress? | Yes. |
+| Yes/No | Is the person in the image putting on beige stockings? | Yes. |
+| Yes/No | Is the dress made of a lightweight fabric? | Yes. |
+| Yes/No | Are the stockings made of a sheer material? | Yes. |
+| Yes/No | Is the person standing in front of a gray curtain? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image putting on? | Beige stockings. |
+| What | What is the color of the curtain in the background? | Gray. |
+| How | How is the person holding the stockings? | With one hand. |
+| How | How is the person pulling the stockings up their leg? | Using the other hand. |
+| Yes/No | Is the person in the image wearing a flowery dress? | Yes. |
+| Yes/No | Is the person in the image putting on beige stockings? | Yes. |
+| Yes/No | Is the dress made of a lightweight fabric? | Yes. |
+| Yes/No | Are the stockings made of a sheer material? | Yes. |
+| Yes/No | Is the person standing in front of a gray curtain? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the person in the image doing? | Putting on beige stockings. |
+| What | What is the color of the dress? | Flowery. |
+| How | How is the person holding the stockings? | With one hand. |
+| How | How is the person pulling the stockings up their leg? | With the other hand. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a hat? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Does the church in the background have two steeples? | Yes. |
+| Yes/No | Is the woman's left hand resting on her hip? | Yes. |
+| Yes/No | Does the woman's outfit expose her thighs? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing on her feet? | The description doesn't mention what the woman is wearing on her feet, but based on the context, it's likely that she is wearing shoes that are not visible in the image. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How many steeples does the church in the background have? | Two. |
+| How | How does the woman's pose and attire suggest a casual yet stylish outfit? | The woman's pose, with her left hand resting on her hip and her right hand holding a purse, suggests a casual and confident attitude. Her attire, which includes a white shirt, a black hat, and a denim skirt, is stylish and puttogether without being overly formal or revealing. The combination of these elements creates a visually appealing and alluring atmosphere. |

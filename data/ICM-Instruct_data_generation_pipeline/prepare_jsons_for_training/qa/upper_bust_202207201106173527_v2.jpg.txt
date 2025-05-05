@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a crocheted top? | Yes. |
+| Yes/No | Is the top cropped at the waist? | Yes. |
+| Yes/No | Is the woman's midriff visible? | Yes. |
+| Yes/No | Are the woman's jeans cropped at the ankle? | Yes. |
+| Yes/No | Is the woman's pose confident and assertive? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the color of the woman's crocheted top? | White. |
+| What | What is the color of the woman's jeans? | Blue. |
+| How | How is the woman's hand positioned in the image? | Resting on her hip. |
+| How | How does the woman's pose and the way she is looking directly at the camera suggest she feels about her body? | Comfortable and unafraid to show it off. |

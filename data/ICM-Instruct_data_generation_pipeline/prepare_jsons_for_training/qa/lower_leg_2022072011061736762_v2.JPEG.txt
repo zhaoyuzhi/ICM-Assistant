@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing on a set of stairs? | Yes. |
+| Yes/No | Is the person wearing shorts? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Are the stairs made of concrete? | Yes. |
+| Yes/No | Does the image capture a moment of vulnerability and intimacy? | Yes. |
+| What | What is the person wearing on their feet? | White shoes. |
+| What | What is the material of the railing on the stairs? | Metal. |
+| How | How are the person's legs positioned? | Slightly apart. |
+| How | How does the image create a sense of mystery and allure? | Through the person's stance on the stairs and the overall atmosphere of the image. |

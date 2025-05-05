@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black blouse? | Yes. |
+| Yes/No | Does the woman have a black purse? | Yes. |
+| Yes/No | Is the skirt gray? | No. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the woman smiling? | No. |
+| Yes/No | Is there a mirror in the background? | Yes. |
+| What | What is the color of the woman's blouse? | Black. |
+| What | What is the length of the woman's skirt? | Short/Flared. |
+| How | How does the woman's outfit accentuate her body? | It highlights her figure and thighs, creating a sense of allure. |
+| How | How does the image evoke a response from the viewer? | It evokes a strong response due to its seductive and alluring nature. |

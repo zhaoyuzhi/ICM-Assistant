@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a white t-shirt and blue jeans? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| Yes/No | Is the person's attire provocative or sensual? | No. |
+| Yes/No | Does the painting on the wall contribute to a sexy atmosphere? | No. |
+| What | What is the person's attire in the image? | White tshirt and blue jeans. |
+| What | What is the focal point of the image? | The person's casual attire and the room's interior. |
+| How | How is the person standing in the room? | The person is standing with their back to the camera. |
+| How | How does the low exposure level affect the image? | It only shows a small portion of the person, making them slightly obscure. |

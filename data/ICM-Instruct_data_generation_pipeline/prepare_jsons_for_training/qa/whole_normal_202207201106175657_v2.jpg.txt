@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a poncho? | Yes. |
+| Yes/No | Is the person in the image wearing a cape? | Yes. |
+| Yes/No | Is the person in the image riding a motorcycle? | Yes. |
+| Yes/No | Is the image explicit or suggestive? | No. |
+| Yes/No | Does the image depict a calm and serene atmosphere? | Yes. |
+| Yes/No | Is the focus of the image on the person's activity rather than their appearance or attire? | Yes. |
+| What | What is the color of the poncho and cape? | Purple. |
+| What | What is the exposure level of the image? | Low. |
+| How | How is the person riding the motorcycle? | In motion. |
+| How | How does the low exposure level affect the image? | It emphasizes the focus on the activity and environment rather than the person's body or clothing. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a crop top? | Yes. |
+| Yes/No | Are the woman's arms relaxed at her sides? | Yes. |
+| Yes/No | Is the woman looking off to the side with a slight smile on her face? | Yes. |
+| Yes/No | Is the pink Jeep behind the woman parked on a dirt road? | Yes. |
+| Yes/No | Are there trees visible in the background of the image? | Yes. |
+| What | What color is the Jeep in the background? | Pink. |
+| What | What is the woman's attire suggestive of? | Confidence and allure. |
+| How | How does the woman's pose contribute to the overall allure of the image? | Her relaxed arms and offtotheside gaze add to the allure. |
+| How | How does the surrounding environment contribute to the atmosphere of the image? | The dirt road and trees create a sense of outdoor adventure, contrasting with the woman's sexy attire and pose. |

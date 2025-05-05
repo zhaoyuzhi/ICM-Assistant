@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's heels black? | Yes. |
+| Yes/No | Is the chair the person is sitting on red? | Yes. |
+| Yes/No | Are there slot machines in the background of the image? | Yes. |
+| Yes/No | Does the image have a vibrant and lively atmosphere? | Yes. |
+| Yes/No | Is the person's attire considered sexy? | Yes. |
+| What | What is the person in the image wearing on their legs? | Black stockings and black heels. |
+| What | What is the color of the chair the person is sitting on? | Red. |
+| How | How does the person's attire contribute to the overall impression of the image? | The person's attire, specifically the black stockings, contribute to the overall impression of the image as sexy. |
+| How | How does the setting of the image contribute to its overall atmosphere? | The casino setting, with its bright lights and slot machines, creates an atmosphere of excitement and allure that contributes to the overall impression of the image as sexy. |

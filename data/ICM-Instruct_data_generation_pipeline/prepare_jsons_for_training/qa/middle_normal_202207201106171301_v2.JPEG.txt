@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person have a red tag on the back pocket of their jeans? | Yes. |
+| Yes/No | Is the style of the jeans classic with a high waist and slim fit? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the exposure level of the image very low, focusing on the person's lower body and jeans? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements that would make it considered sexy? | No. |
+| What | What is the color of the person's shirt? | White. |
+| What | What is the style of the jeans? | Classic with a high waist and slim fit. |
+| How | How does the low exposure level of the image and the casual clothing style of the jeans and shirt suggest a setting? | A more relaxed and everyday setting, rather than a provocative or seductive one. |
+| How | How does the image not contain any explicit or suggestive elements that would make it considered sexy? | The image focuses on the person's lower body and jeans, rather than their upper body or face, and does not contain any explicit or suggestive elements such as revealing clothing, sexual poses, or facial expressions. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the shirt white? | Yes. |
+| Yes/No | Does the back pocket of the jeans have a heart-shaped design? | Yes. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| Yes/No | Is the image sexually suggestive or provocative? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What is the primary focus of the image? | The person's attire, specifically the blue jeans and white shirt. |
+| What | What is the mood or atmosphere of the image? | Modest and appropriate. |
+| How | How is the person standing in the image? | With their back to the camera. |
+| How | How does the low exposure level of the image affect the viewer's perception of the person's body? | It does not emphasize the person's body, making the image more modest and appropriate for a wider audience. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing sunglasses? | Yes. |
+| Yes/No | Does the woman have earrings? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the woman smiling? | No. |
+| Yes/No | Does the image suggest the woman is in a private space? | No. |
+| Yes/No | Does the woman's facial expression suggest she is shy or timid? | No. |
+| What | What is the woman's facial expression in the image? | Serious, confident, alluring. |
+| What | What might the woman's biting her lip suggest about her personality or mood? | Confidence, allure, playfulness. |
+| How | How does the woman's stylish appearance contribute to the overall feeling of the image? | It adds to the sense of allure and confidence the woman exudes. |
+| How | How does the public space setting contribute to the image's suggestion of the woman's confidence and comfort in her own skin? | It suggests she is unafraid to be seen and comfortable in her own skin, adding to her confidence and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the woman wearing a jacket? | Yes. |
+| Yes/No | Is the jacket cropped at the waist? | Yes. |
+| Yes/No | Is the woman's pose suggestive or sexual? | Yes. |
+| What | What is the color of the woman's skirt? | Black. |
+| What | What is the color of the woman's jacket? | Black. |
+| How | How is the woman's left hand positioned in the image? | Resting on her hip. |
+| How | How is the woman's right hand positioned in the image? | Resting on her thigh. |

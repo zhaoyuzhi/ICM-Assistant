@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the people in the image kissing? | Yes. |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are the man's hands placed on the woman's cheeks? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the man's jacket? | Black. |
+| What | What is the color of the woman's dress? | White. |
+| How | How are the man's hands placed on the woman's cheeks? | Gently. |
+| How | How are the woman's arms wrapped around the man's neck? | Tightly. |

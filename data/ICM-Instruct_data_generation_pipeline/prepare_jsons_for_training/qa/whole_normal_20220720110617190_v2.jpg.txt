@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white sweatshirt? | Yes. |
+| Yes/No | Is the image a sexy or provocative image? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman sitting on a couch? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and relaxed? | Yes. |
+| What | What is the woman wearing on the bottom half of her body? | A black skirt. |
+| What | What is the woman wearing on the top half of her body? | A white sweatshirt. |
+| How | How is the woman sitting on the couch? | In a relaxed and casual manner. |
+| How | How would you describe the focus of the image? | The focus is on the woman's attire and her posture rather than her physical appearance. |

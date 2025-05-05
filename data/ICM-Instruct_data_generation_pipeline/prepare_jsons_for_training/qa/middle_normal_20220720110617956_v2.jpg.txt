@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of khaki pants? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the man's posture relaxed and nonchalant? | Yes. |
+| Yes/No | Does the image suggest an intimate or provocative atmosphere? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man's attire in the image? | Khaki pants and a white shirt. |
+| What | What is the overall atmosphere of the image? | Calm and nonthreatening. |
+| How | How is the man standing in the image? | With his hands in his pockets. |
+| How | How would you describe the man's posture in the image? | Relaxed and nonchalant. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | No. |
+| Yes/No | Is the man standing in a relaxed pose? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the man's attire casual? | Yes. |
+| What | What is the man wearing on his lower body? | Khaki pants. |
+| What | What is the man's facial expression? | Neutral/relaxed. |
+| How | How is the man standing in the image? | With his hands in his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonthreatening. |

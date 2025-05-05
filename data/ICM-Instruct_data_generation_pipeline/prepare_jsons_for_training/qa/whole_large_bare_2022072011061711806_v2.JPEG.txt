@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the bed in the image covered with a white sheet? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Are there any other objects in the image? | No. |
+| Yes/No | Is the image in color? | No. |
+| What | What is the woman in the image wearing? | A black bra and black underwear. |
+| What | What is the color of the sheet on the bed? | White. |
+| How | How is the woman in the image posed? | She is sitting on the bed with her body exposed. |
+| How | How does the woman in the image look at the camera? | She looks directly at the camera with a seductive gaze. |

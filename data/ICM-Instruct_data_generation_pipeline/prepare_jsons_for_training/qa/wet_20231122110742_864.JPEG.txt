@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a tank top? | Yes. |
+| Yes/No | Is the woman in the image wearing a bikini bottom? | Yes. |
+| Yes/No | Is the woman in the image standing on a sandy beach? | Yes. |
+| Yes/No | Is the woman's pose in the image confident and seductive? | Yes. |
+| Yes/No | Is the woman's head tilted back in the image? | Yes. |
+| Yes/No | Are the woman's arms raised above her head in the image? | Yes. |
+| What | What is the woman wearing on her upper body in the image? | A white tank top. |
+| What | What is the pattern on the woman's bikini bottom in the image? | Striped. |
+| How | How is the woman's clothing wet in the image? | Possibly due to water around her. |
+| How | How does the woman's pose and the beach setting evoke feelings? | Feelings of leisure, relaxation, and enjoyment. |

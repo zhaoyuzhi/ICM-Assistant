@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman standing in front of a body of water? | Yes. |
+| Yes/No | Are there tall buildings in the background of the image? | Yes. |
+| Yes/No | Does the woman's dress appear to be soaked? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image suggest a connection to nature? | Yes. |
+| What | What is the woman standing in front of? | A body of water. |
+| What | What is the woman wearing? | A white dress. |
+| How | How does the woman's dress appear? | Soaked. |
+| How | How does the image evoke feelings? | Desire and intrigue. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman's hairpiece long and green? | Yes. |
+| Yes/No | Are the woman's legs spread apart? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's attire appropriate for a beach setting? | Yes. |
+| What | What color is the woman's bikini top? | Blue. |
+| What | What is the color of the woman's hairpiece? | Blue and green. |
+| How | How is the woman's hair styled? | The woman's hair is styled in a long hairpiece that is blue and green. |
+| How | How are the woman's hands positioned in the image? | The woman's hands are resting on her knees. |

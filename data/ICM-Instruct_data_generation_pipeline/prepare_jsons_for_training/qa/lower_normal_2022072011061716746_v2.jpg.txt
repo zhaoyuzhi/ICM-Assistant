@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image holding a black purse? | Yes. |
+| Yes/No | Is the woman in the image holding a black cup? | Yes. |
+| Yes/No | Are the woman's sneakers white? | Yes. |
+| Yes/No | Is the image sexually explicit? | No. |
+| Yes/No | Does the image contain any suggestive or provocative content? | No. |
+| What | What is the color of the woman's shirt? | White. |
+| What | What is the color of the woman's sneakers? | White. |
+| How | How is the woman's left hand occupied in the image? | She is holding a black purse. |
+| How | How is the woman's right hand occupied in the image? | She is holding a black cup. |

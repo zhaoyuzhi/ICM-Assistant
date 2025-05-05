@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image wearing a long skirt? | Yes. |
+| Yes/No | Are the woman's heels black? | Yes. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| Yes/No | Is the woman's pose in the image suggestive or sexual? | No. |
+| Yes/No | Does the woman's outfit in the image suggest a formal or semi-formal occasion? | Yes. |
+| What | What is the woman in the image wearing on her feet? | Black heels. |
+| What | What is the pattern on the woman's skirt in the image? | Floral. |
+| How | How long is the woman's skirt in the image? | Down to her ankles. |
+| How | How would you describe the woman's pose in the image? | Neutral. |

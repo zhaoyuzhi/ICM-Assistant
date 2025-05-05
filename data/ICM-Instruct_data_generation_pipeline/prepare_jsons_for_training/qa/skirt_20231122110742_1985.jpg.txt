@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Is the image set in a hallway? | Yes. |
+| Yes/No | Is there a doorway in the background of the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's blouse? | Green. |
+| What | What is the woman's dress being lifted? | Black. |
+| How | How is the woman lifting her dress? | The woman is lifting her dress by holding onto the hem with one hand and slightly lifting it up with the other hand. |
+| How | How does the combination of the green blouse and black skirt contribute to the overall atmosphere of the image? | The combination of the green blouse and black skirt creates a sense of allure and intrigue that can be considered sexy, and it suggests a sense of confidence and comfort in her own body. |

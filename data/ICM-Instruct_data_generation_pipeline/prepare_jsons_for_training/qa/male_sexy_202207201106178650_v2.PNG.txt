@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the background of the image plain? | Yes. |
+| Yes/No | Does the image feature any other objects or people? | No. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| Yes/No | Is the man's toplessness a sign of vulnerability? | Yes. |
+| What | What is the man's physique like? | Muscular. |
+| What | What is the focus of the image? | The man's physique. |
+| How | How does the plain background affect the image? | It emphasizes the man's physique and draws attention to his welldefined muscles. |
+| How | How does the man's toplessness contribute to the image's seductive atmosphere? | It adds an element of intimacy and vulnerability, which can be perceived as sexy by some viewers. |

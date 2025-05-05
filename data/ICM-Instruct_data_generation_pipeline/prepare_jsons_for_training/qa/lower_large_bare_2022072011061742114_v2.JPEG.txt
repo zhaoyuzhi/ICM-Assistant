@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lying on a bed? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person wearing blue shorts in the image? | Yes. |
+| Yes/No | Does the image feature any other people? | No. |
+| Yes/No | Is the image described as sexy? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| What | What color are the sheets in the image? | White. |
+| What | What is the color of the person's shorts in the image? | Blue. |
+| How | How does the person have their legs positioned in the image? | Crossed. |
+| How | How does the close-up nature of the photo contribute to the image's sensuality? | It emphasizes the person's lower body and creates a sense of intimacy. |

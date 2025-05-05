@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing pants? | Yes. |
+| How | Does the image show the person's entire body? | No. |
+| Yes/No | Is the person wearing a shirt? | Yes. |
+| Yes/No | Is the shirt striped? | Yes. |
+| Yes/No | Are the pants designed with a pocket on the back? | Yes. |
+| Yes/No | Does the image have a high exposure level? | No. |
+| What | What color are the pants? | Beige. |
+| What | What type of shirt is the person wearing? | Striped. |
+| How | How are the pants designed? | They have a pocket on the back and a zipper fly. |
+| What | What is the atmosphere of the image? | Neutral, not provocative. |
+| Yes/No | Is the person in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Does the person have a zipper fly on their pants? | Yes. |
+| Yes/No | Is the person wearing a striped shirt? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Is the focus of the image on the person's torso and waist area? | Yes. |
+| Yes/No | Does the image have a casual and non-sexual atmosphere? | Yes. |
+| What | What is the color of the person's pants? | Beige. |
+| What | What is the style of the person's shirt? | Striped. |
+| How | How are the pants designed? | They have a high waist and a zipper fly. |
+| What | What is the overall atmosphere of the image? | Casual and nonsexual. |

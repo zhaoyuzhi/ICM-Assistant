@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman lying on her back? | No. |
+| Yes/No | Is the woman's body fully covered in the image? | No. |
+| Yes/No | Is the image taken indoors? | No. |
+| Yes/No | Does the image suggest a relaxed atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy tone? | Yes. |
+| What | What is the woman resting her head on? | Her hand. |
+| What | What color is the woman's bikini? | Yellow. |
+| How | How is the woman's body positioned in the image? | She is lying on her stomach. |
+| How | How does the yellow bikini contrast with the sandy beach? | It creates a visual contrast that draws attention to her body. |

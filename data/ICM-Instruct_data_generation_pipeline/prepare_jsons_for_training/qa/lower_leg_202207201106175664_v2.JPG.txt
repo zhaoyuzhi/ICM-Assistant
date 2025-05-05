@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt short? | Yes. |
+| Yes/No | Is the woman wearing a sweater? | Yes. |
+| Yes/No | Are her arms relaxed at her sides? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What is the woman's pose in the image? | Standing with her arms relaxed at her sides. |
+| What | What is the color of the woman's sweater? | Pink. |
+| How | How does the woman's bare feet contribute to the atmosphere of the image? | They add to the casual and relaxed atmosphere. |
+| How | How does the gray wall in the background affect the image? | It provides a neutral backdrop that allows the woman and her outfit to stand out. |

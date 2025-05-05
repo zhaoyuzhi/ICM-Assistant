@@ -1,0 +1,7 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What is the color of the person's top in the image? |A. Black |B. White |C. Red |D. Blue |A. |
+| What is the person's pose in the image? |A. Standing with both hands on hips |B. Sitting with legs crossed |C. Striking a pose with left hand on hip and right hand on head |D. Kneeling with arms extended |C. |
+| What is the color of the person's pants in the image? |A. Black |B. White |C. Grey |D. Brown |A. |
+| What is the person's hair color in the image? |A. Blonde |B. Brunette |C. Redhead |D. Bald |B. |
+| What is the background color of the image? |A. Black |B. White |C. Grey |D. Blue |D. |

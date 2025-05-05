@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Are the shorts the woman is wearing white? | Yes. |
+| Yes/No | Does the woman have a purse in her left hand? | Yes. |
+| Yes/No | Is the wall in the background blue? | Yes. |
+| Yes/No | Does the woman's outfit expose her thighs? | Yes. |
+| Yes/No | Does the image convey a sense of style and confidence? | Yes. |
+| What | What color is the woman's purse? | White. |
+| What | What color is the wall in the background? | Blue. |
+| How | How is the woman holding her purse? | She is holding it in her left hand. |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | It contributes to a sense of sexiness and confidence. |

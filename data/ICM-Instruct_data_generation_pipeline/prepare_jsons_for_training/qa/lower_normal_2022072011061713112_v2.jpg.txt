@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of gray sweatpants? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the person's sneakers white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the person's attire simple? | Yes. |
+| What | What color are the person's sneakers? | White. |
+| What | What type of floor does the room have? | Wooden. |
+| How | How is the person's attire? | Casual. |
+| How | How does the image make you feel? | Nonsexual/ relaxed. |

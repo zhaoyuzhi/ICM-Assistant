@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's pants pulled down? | Yes. |
+| Yes/No | Is the person's shirt unbuttoned? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Is the person exposing their torso and lower body? | Yes. |
+| What | What color are the person's shirt and pants? | Black. |
+| What | What is the person doing in the image? | Lifting their shirt and pants. |
+| How | How is the person's confidence and self-assuredness conveyed in the image? | Through their actions and pose. |
+| How | How does the black shirt and pants add to the overall aesthetic of the image? | They create a strong visual contrast. |

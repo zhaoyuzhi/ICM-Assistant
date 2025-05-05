@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the girl in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the girl's hair styled in a bun? | Yes. |
+| Yes/No | Is the girl holding a pineapple cutout in her left hand? | Yes. |
+| Yes/No | Is the background of the image a blue wall? | Yes. |
+| Yes/No | Does the image depict a sexy scene? | No. |
+| Yes/No | Is the girl's mood playful and innocent? | Yes. |
+| What | What is the girl holding in her left hand? | A pineapple cutout. |
+| What | What is the color of the girl's skirt? | Pink. |
+| How | How is the girl's hair styled? | In a bun. |
+| What | What is the atmosphere of the image? | Lighthearted and fun. |

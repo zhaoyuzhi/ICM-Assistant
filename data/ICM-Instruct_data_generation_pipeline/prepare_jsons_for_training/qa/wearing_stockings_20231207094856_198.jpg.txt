@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white tank top? | Yes. |
+| Yes/No | Are the person's feet barefoot in the image? | Yes. |
+| Yes/No | Is the stuffed animal on the bed pink and white? | Yes. |
+| Yes/No | Is the person putting on black stockings in the image? | Yes. |
+| Yes/No | Does the image depict a relaxed and casual atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing on their lower body? | Blue jean shorts. |
+| What | What is the person holding in their hand? | Black stockings. |
+| How | How is the person's attire contrasting with the black stockings? | The white tank top and blue jean shorts provide a contrast to the black stockings, making them stand out. |
+| How | How does the image create a seductive and enticing atmosphere? | The image combines the person's attire, actions, and the playful element of the stuffed animal on the bed to create a sexy and enticing atmosphere. |
+| Yes/No | Is the person in the image wearing a white tank top? | Yes. |
+| Yes/No | Are the person's feet barefoot? | Yes. |
+| Yes/No | Is the stuffed animal on the bed pink and white? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the color of the person's jean shorts? | Blue. |
+| How | How are the black stockings associated with the atmosphere of the image? | They add a sense of allure and mystery to the image. |
+| How | How does the contrast between the black stockings and the white tank top and blue jean shorts contribute to the overall atmosphere of the image? | It enhances the sexy and enticing atmosphere of the image. |

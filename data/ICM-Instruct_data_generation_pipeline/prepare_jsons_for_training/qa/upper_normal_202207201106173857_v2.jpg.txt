@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Does the image feature a provocative or revealing outfit? | No. |
+| Yes/No | Is the woman's face clearly visible in the image? | No. |
+| Yes/No | Is the woman's body clearly visible in the image? | No. |
+| Yes/No | Does the image suggest a sexy or sexual atmosphere? | No. |
+| What | What is the woman in the image wearing? | A white blouse and a black skirt. |
+| What | What is the background of the image? | Blurred. |
+| How | How is the woman's attire in the image? | Modest and conservative. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It emphasizes the modesty of the scene and makes it less likely to be perceived as sexy. |

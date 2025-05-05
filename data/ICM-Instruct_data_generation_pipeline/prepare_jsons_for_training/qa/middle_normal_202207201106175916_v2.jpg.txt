@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the shorts black? | Yes. |
+| Yes/No | Does the person have a drawstring waist? | Yes. |
+| Yes/No | Are the person's hands resting at their sides? | Yes. |
+| Yes/No | Is the overall atmosphere of the image simple and unassuming? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the person wearing? | A white blouse and black shorts. |
+| What | What is the color of the background? | White. |
+| How | How is the person's pose? | Neutral. |
+| How | How does the white background contribute to the image's atmosphere? | It makes the image appear more straightforward and less focused on sensuality. |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Are the shorts black? | Yes. |
+| Yes/No | Does the person have a drawstring at the waist? | Yes. |
+| Yes/No | Is the pose neutral? | Yes. |
+| Yes/No | Is the exposure level low? | Yes. |
+| Yes/No | Does the image contain explicit details or suggestive poses? | No. |
+| What | What is the person wearing? | A white blouse and black shorts. |
+| What | What is the atmosphere of the image? | Casual and comfortable. |
+| How | How is the person standing? | Neutrally, with no explicit action or movement. |
+| How | How does the image convey a casual and comfortable style? | Through the low exposure level and neutral pose. |

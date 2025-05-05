@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman standing in the water? | Yes. |
+| Yes/No | Is her body facing the camera? | Yes. |
+| Yes/No | Does the image contain any other people or objects? | No. |
+| Yes/No | Is the water blue and clear? | Yes. |
+| Yes/No | Does the woman have her hand on her head? | Yes. |
+| What | What color is the woman's bikini top? | Red. |
+| What | What is the woman's pose in the image? | She is standing with her hand on her head. |
+| How | How is the woman standing in the water? | She is standing upright, with her body facing the camera. |
+| How | How does the woman's pose with her hand on her head contribute to the image's atmosphere? | It adds an element of confidence and allure to the image. |

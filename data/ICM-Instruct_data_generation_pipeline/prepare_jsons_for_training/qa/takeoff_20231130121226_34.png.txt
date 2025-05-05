@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image removing their clothes? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the person's clothes black? | Yes. |
+| Yes/No | Is the person wearing a tank top? | Yes. |
+| Yes/No | Are the person's shorts black? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the person wearing under their black jacket? | A white tank top. |
+| What | What color are the person's shorts? | Black. |
+| How | How is the person taking off their clothes? | They are removing their black jacket. |
+| What | What does the mask add to the image? | An element of mystery and intrigue. |

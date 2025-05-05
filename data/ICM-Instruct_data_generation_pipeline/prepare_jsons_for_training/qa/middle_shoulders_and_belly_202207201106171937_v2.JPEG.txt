@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Is the image focused on the person's belly button piercing? | Yes. |
+| Yes/No | Does the image convey a sense of self-expression and confidence? | Yes. |
+| Yes/No | Does the image create a sense of style and individuality? | Yes. |
+| What | What is the main focus of the image? | The person's belly button piercing. |
+| What | What is the person's attire in the image? | Blue jeans and a black shirt. |
+| How | How does the person's choice to expose their belly and piercing contribute to the image's sex appeal? | It adds a bold and daring element, showcasing their body and selfexpression. |
+| How | How does the combination of attire and piercing create a sense of style and individuality? | The combination of a classic black shirt and blue jeans with a unique belly button piercing creates a distinctive and eyecatching look. |
+| Yes/No | Is the person in the image wearing a shirt? | Yes. |
+| Yes/No | Are they wearing pants? | Yes. |
+| Yes/No | Is the person's belly button pierced? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the person smiling? | No. |
+| Yes/No | Is the image a close-up of the person's face? | No. |
+| What | What is the person's shirt color? | Black. |
+| What | What is the person's pants color? | Blue. |
+| How | How is the person's belly button piercing presented in the image? | It is the main focus of the image and is showcased prominently. |
+| How | How does the image make the viewer feel? | It creates an alluring and intriguing atmosphere, making the viewer feel drawn to the person's body and the piercing. |

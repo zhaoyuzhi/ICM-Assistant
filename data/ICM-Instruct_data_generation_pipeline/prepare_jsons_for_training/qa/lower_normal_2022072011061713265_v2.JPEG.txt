@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of olive green shorts? | Yes. |
+| Yes/No | Is the man's t-shirt white? | Yes. |
+| Yes/No | Are the shorts made of a lightweight fabric? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Does the man's attire suggest a romantic or intimate context? | No. |
+| Yes/No | Is the atmosphere of the image neutral and unambiguous? | Yes. |
+| What | What color are the shorts? | Olive green. |
+| What | What is the man's attire consists of? | A pair of olive green shorts and a white tshirt. |
+| How | How are the man's hands positioned in the image? | Casually tucked into his pockets. |
+| How | How does the white background affect the overall atmosphere of the image? | It emphasizes the simplicity of the scene and creates a neutral and unambiguous atmosphere. |

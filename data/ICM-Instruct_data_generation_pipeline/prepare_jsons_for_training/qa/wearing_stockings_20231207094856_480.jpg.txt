@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person putting on white stockings? | Yes. |
+| Yes/No | Is the image set in a private setting? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| Yes/No | Is the act of putting on stockings associated with intimacy and allure? | Yes. |
+| What | What is the person in the image wearing on their feet? | White stockings. |
+| What | What color are the person's shorts? | Black. |
+| How | How is the person's movement and action in the image? | They are focusing on putting on the stockings, with their right foot being the first to be covered. |
+| What | What does the image convey in terms of atmosphere? | The image conveys an intimate and sensual atmosphere. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person putting on white stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Are the person's movements and actions focused on putting on the stockings? | Yes. |
+| Yes/No | Is the right foot being covered first? | Yes. |
+| What | What is the person wearing on their feet? | White stockings. |
+| What | What is the person's attire, other than the stockings? | A white shirt and black shorts. |
+| How | How is the person's movement and action in the image? | The person is putting on stockings, with their right foot being the first to be covered. |
+| How | How would you describe the overall atmosphere of the image? | Intimate and sensual. |

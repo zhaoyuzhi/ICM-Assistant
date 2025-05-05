@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man's posture relaxed? | Yes. |
+| Yes/No | Are the man's hands visible in the image? | No. |
+| Yes/No | Is the man wearing a belt? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the image contain intimate details? | No. |
+| What | What color are the man's shorts? | Olive green. |
+| What | What is the man's posture in the image? | Casual and relaxed. |
+| How | How is the man's body visible in the image? | Only a small portion of the man's body is visible, emphasizing the casual and relaxed nature of the scene. |
+| How | How does the low exposure level contribute to the overall atmosphere of the image? | It contributes to the casual and relaxed atmosphere of the image, making it not suggestive or provocative. |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a belt? | Yes. |
+| Yes/No | Does the image feature any suggestive or provocative elements? | No. |
+| Yes/No | Is the man's attire inappropriate or sexual in nature? | No. |
+| Yes/No | Does the image contain any romantic or intimate elements? | No. |
+| Yes/No | Is the background of the image white? | Yes. |
+| What | What color are the man's shorts? | Olive green. |
+| What | What is the color of the man's belt? | Brown. |

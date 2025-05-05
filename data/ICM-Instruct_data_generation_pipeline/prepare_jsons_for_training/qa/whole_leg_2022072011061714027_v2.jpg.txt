@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing black shorts? | Yes. |
+| Yes/No | Is the woman in the image standing on a balcony? | Yes. |
+| Yes/No | Does the woman in the image have her left hand placed on her hip? | Yes. |
+| Yes/No | Is the woman in the image resting her right hand on the railing? | Yes. |
+| Yes/No | Does the image depict a sense of confidence and style? | Yes. |
+| What | What is the woman in the image wearing? | A white blouse and black shorts. |
+| What | What is the setting in the background of the image? | A grassy area with a building. |
+| How | How is the woman in the image standing? | With her left hand on her hip and her right hand resting on the railing. |
+| How | How does the image create a captivating and enticing atmosphere? | Through the woman's pose, attire, and the setting on the balcony. |

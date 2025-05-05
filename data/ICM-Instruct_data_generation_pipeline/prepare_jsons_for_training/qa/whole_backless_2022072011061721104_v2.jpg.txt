@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink dress? | Yes. |
+| Yes/No | Does the dress have a white bow on the back? | Yes. |
+| Yes/No | Is the zipper on the back of the dress open? | Yes. |
+| Yes/No | Is the woman standing in front of a wooden fence? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color is the dress? | Pink. |
+| What | What is the woman's attire giving an impression of? | Delicate and feminine appearance. |
+| How | How does the open zipper on the back of the dress create an atmosphere? | It creates an atmosphere that is both alluring and sensual. |
+| How | How does the combination of elements in the image create an atmosphere? | The combination of the pink dress, white bow, and open zipper on the back creates an atmosphere that is both alluring and sensual. |

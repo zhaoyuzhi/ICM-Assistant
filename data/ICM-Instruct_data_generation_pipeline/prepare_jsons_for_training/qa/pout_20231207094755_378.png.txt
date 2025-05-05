@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Does the woman have pink lipstick on? | Yes. |
+| Yes/No | Is the woman's expression pouting? | Yes. |
+| Yes/No | Are the woman's facial features visible? | Yes. |
+| Yes/No | Is the overall atmosphere of the image playful? | Yes. |
+| Yes/No | Is the image seductive? | Yes. |
+| What | What color is the woman's lipstick? | Pink. |
+| What | What is the woman's facial expression? | Pouting. |
+| How | How does the woman's pouting expression contribute to the image's atmosphere? | It adds a playful and seductive quality. |
+| How | How does the combination of the woman's blonde hair and pink lipstick contribute to the image's overall appearance? | It creates a visually appealing contrast that enhances the image's seductive atmosphere. |

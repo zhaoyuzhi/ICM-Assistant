@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman pouting as if kissing? | Yes. |
+| Yes/No | Are her eyes closed? | Yes. |
+| Yes/No | Are her lips puckered? | Yes. |
+| Yes/No | Is she wearing a white tank top? | Yes. |
+| Yes/No | Is the background a plain wall? | Yes. |
+| What | What is the woman's facial expression? | Playful and seductive. |
+| What | What is the central point of interest in the image? | The woman. |
+| How | How is the woman posing? | Confidently. |
+| How | How does the white tank top contribute to the overall allure of the image? | It is simple and uncluttered, allowing the viewer to focus on her. |

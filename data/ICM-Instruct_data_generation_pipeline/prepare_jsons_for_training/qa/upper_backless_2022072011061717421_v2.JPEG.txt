@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a beige sweater? | Yes. |
+| Yes/No | Is the person's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Does the person have a deep neckline on their sweater? | Yes. |
+| Yes/No | Is the background of the image a white brick wall? | Yes. |
+| Yes/No | Does the person have a confident and alluring posture? | Yes. |
+| How | Is the image sexy because it showcases the person's back? | Yes. |
+| What | What color is the person's sweater? | Beige. |
+| What | What is the person's posture like in the image? | Confident and alluring. |
+| How | How is the person's hair styled in the image? | Pulled back into a ponytail. |
+| How | How does the person's attire, specifically the beige sweater with a deep neckline, add to the overall allure of the image? | It reveals a large area of their back, which is an area often associated with sensuality and allure. |

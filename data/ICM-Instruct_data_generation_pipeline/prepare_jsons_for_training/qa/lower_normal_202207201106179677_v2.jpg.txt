@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black sweatshirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the counter the person is sitting on gray? | Yes. |
+| Yes/No | Is there a cabinet visible in the background? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| What | What color are the person's sweatpants? | Gray. |
+| What | What is the person's posture in the image? | Relaxed, with legs crossed. |
+| How | How is the person positioned on the counter? | Sitting. |
+| How | How would you describe the atmosphere of the image? | Casual and nonsexual. |

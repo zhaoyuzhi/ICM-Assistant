@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman standing in front of a body of water? | Yes. |
+| Yes/No | Is the woman wearing a blue shirt with a floral pattern? | Yes. |
+| Yes/No | Is the woman holding a small orange object in her hand? | Yes. |
+| Yes/No | Are the woman's movements calm and relaxed? | Yes. |
+| Yes/No | Is the overall atmosphere of the image serene and peaceful? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual context or suggestive poses? | No. |
+| What | What is the woman holding in her hand? | A small orange object, likely a piece of food. |
+| What | What is the woman's attire? | A blue shirt with a floral pattern and a pair of pants. |
+| How | How is the woman standing in front of the body of water? | She is standing with her feet hipwidth apart, facing the water. |
+| How | How does the low exposure level of the image contribute to its overall atmosphere? | The low exposure level adds to the image's peaceful and serene atmosphere, emphasizing the casual and relaxed nature of the scene. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the person wearing a watch? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the image contain explicit content? | No. |
+| What | What is the color of the person's belt? | Brown. |
+| What | What is the person's attire focused on in the image? | Their clothing and accessories, rather than their physical appearance. |
+| How | How is the person's attire described in the image? | The person is wearing a green shirt, blue jeans, and a brown belt. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is not sexy because it is a lowexposure image of a person standing in front of a building. |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the person wearing a watch? | Yes. |
+| Yes/No | Is the image considered sexy? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What color is the person's belt? | Brown. |
+| What | What is the person's watch on? | Their left wrist. |
+| How | How is the person's clothing and accessories depicted in the image? | The person's clothing and accessories are depicted in a neutral and nonsexual way, with a focus on the person's style rather than their physical appearance. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level creates a neutral and nonsexual atmosphere, focusing attention on the person's clothing and accessories rather than their physical appearance. |

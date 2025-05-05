@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman's shirt blue and white? | Yes. |
+| Yes/No | Is the woman's shirt soaked? | Yes. |
+| Yes/No | Does the woman have wet hair? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's bra? | Black. |
+| What | What is the woman's pose in the image? | Playful, with her hands on her head. |
+| How | How does the woman's wet environment contribute to the image's atmosphere? | The wet environment enhances the sexy and playful atmosphere of the image. |
+| How | How does the woman's smile add to the image's appeal? | The woman's smile adds warmth and confidence, making the image more appealing. |

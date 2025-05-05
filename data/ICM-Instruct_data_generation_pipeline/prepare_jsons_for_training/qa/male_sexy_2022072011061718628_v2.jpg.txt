@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing? | Yes. |
+| Yes/No | Are the man's hands on his hips? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the man's swim trunks black? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| What | What is the man in the image wearing on his lower body? | Black swim trunks. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man in the image posing? | With his hands on his hips. |
+| How | How does the image create a seductive atmosphere? | The combination of the topless man, black swim trunks, white background, and posing creates a seductive atmosphere. |

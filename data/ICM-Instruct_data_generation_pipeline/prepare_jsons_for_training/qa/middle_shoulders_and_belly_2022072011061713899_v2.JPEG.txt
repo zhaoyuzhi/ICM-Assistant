@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bracelet? | Yes. |
+| Yes/No | Is the device in the woman's hand a thermometer? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the woman taking care of her health in the image? | Yes. |
+| What | What is the woman holding in her hand? | A thermometer or a blood pressure monitor. |
+| What | What is the color of the device the woman is holding? | Black and gray. |
+| How | How is the woman's body presented in the image? | The woman's body is presented in a vulnerable and intimate manner, with her belly exposed and her wearing a bracelet. |
+| How | How does the image convey a sense of intimacy and self-care? | The image conveys a sense of intimacy and selfcare through the woman's exposed belly, the bracelet on her wrist, and the device she is holding, which suggests she is taking care of her health. The overall atmosphere of the image is also intimate and personal. |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Are blue jeans being worn by the woman in the image? | Yes. |
+| Yes/No | Does the device in the woman's hand have a screen and buttons? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the device in the woman's hand have a medical purpose? | Yes. |
+| What | What is the woman in the image holding? | A blood glucose monitor. |
+| What | What is the purpose of the device the woman is holding? | To measure blood sugar levels. |
+| How | How does the blue background contribute to the overall atmosphere of the image? | It makes the image feel more intimate and personal. |
+| How | How does the close-up of the woman's body and the device she is holding create a sense of intimacy and connection? | It creates a sense of closeness and focus on the woman's body and the device, making the image feel more personal and appealing. |

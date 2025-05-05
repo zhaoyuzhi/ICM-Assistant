@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white sports bra? | Yes. |
+| Yes/No | Are the person's leggings gray? | Yes. |
+| Yes/No | Is the person leaning against a white wall? | Yes. |
+| Yes/No | Does the person have their left hand on their hip? | Yes. |
+| Yes/No | Is the person's right hand resting on their thigh? | Yes. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| What | What is the person's pose in the image? | The person is leaning against the wall with their left hand on their hip and their right hand resting on their thigh. |
+| What | What type of clothing is the person wearing? | The person is wearing a white sports bra and gray leggings. |
+| How | How does the person's pose and attire contribute to the image's sexiness? | The person's pose and attire create an atmosphere of confidence and allure, making the image sexy. The pose accentuates the person's figure, while the athletic and formfitting clothing highlights their physical fitness, giving the image a sexy feel. |
+| How | How does the image convey athleticism? | The image conveys athleticism through the person's pose and attire. The person is dressed in athletic clothing, and their pose suggests a sense of confidence and athleticism. |

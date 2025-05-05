@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the person have a tattoo on their belly? | Yes. |
+| Yes/No | Is the person holding their pants open with their left hand? | Yes. |
+| Yes/No | Is the person wearing a watch on their left wrist? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the person's shirt? | Black. |
+| What | What is the person's tattoo on their belly? | Not specified in the description. |
+| How | How is the person holding their pants open? | With their left hand. |
+| How | How does the person's pose reveal their tattoo and body? | By holding their pants open, the person is revealing their belly and tattoo, and their body language suggests confidence and allure. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's pants open in the image? | Yes. |
+| Yes/No | Is the image set in a casual, relaxed atmosphere? | Yes. |
+| How | Does the image showcase the person's body in a vulnerable and intimate manner? | Yes. |
+| Yes/No | Is the person's exposed stomach a focal point of the image? | Yes. |
+| Yes/No | Does the image have a sexy tone? | Yes. |
+| What | What color are the person's pants? | Blue. |
+| What | What is the person holding in their hand? | Their pants. |
+| How | How is the person's pose in the image? | The person is holding their pants open, revealing their stomach. |
+| How | How would you describe the atmosphere of the image? | Casual and relaxed, with a focus on the person's body and clothing. |

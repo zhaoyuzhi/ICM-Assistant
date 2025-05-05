@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the image sexually explicit? | No. |
+| Yes/No | Does the image contain suggestive content? | No. |
+| What | What is the woman's facial expression in the image? | Bright smile. |
+| What | What is the woman wearing in the image? | White shirt. |
+| How | How does the low exposure level of the image affect the atmosphere? | Gives the image a more intimate and personal feel. |
+| How | How does the focus of the image differ from a typical portrait? | The focus is on her facial expression and attire, rather than her physical appearance. |

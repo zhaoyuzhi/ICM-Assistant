@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a white dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| Yes/No | Are the man's lips pressed against the woman's? | Yes. |
+| What | What is the man wearing? | A black shirt. |
+| What | What is the woman wearing? | A white dress. |
+| How | How are the man and woman positioned in relation to each other? | The man is wrapped around the woman, who is tilted back. |
+| How | How would you describe the atmosphere of the image? | Intense and romantic. |

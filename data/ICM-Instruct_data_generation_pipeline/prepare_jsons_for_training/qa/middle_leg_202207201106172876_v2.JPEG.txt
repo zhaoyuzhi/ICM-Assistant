@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green blouse? | Yes. |
+| Yes/No | Does the blouse have a ruffled collar? | Yes. |
+| Yes/No | Are the sleeves of the blouse short? | Yes. |
+| Yes/No | Is the skirt white? | Yes. |
+| Yes/No | Is the skirt made of a soft fabric? | Yes. |
+| Yes/No | Does the skirt have a lace trim at the hem? | Yes. |
+| What | What is the color of the woman's blouse? | Green. |
+| What | What is the material of the skirt? | Cotton or silk. |
+| How | How is the woman posing in the image? | With her left hand on her hip and her right hand resting on her thigh. |
+| What | What atmosphere does the image create? | Seductive. |

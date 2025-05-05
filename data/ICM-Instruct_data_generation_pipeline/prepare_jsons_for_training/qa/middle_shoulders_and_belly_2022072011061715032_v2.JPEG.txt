@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a belly bag? | Yes. |
+| Yes/No | Is the belly bag blue and black? | Yes. |
+| Yes/No | Does the belly bag have a zipper pocket? | Yes. |
+| Yes/No | Does the woman have her belly exposed? | Yes. |
+| Yes/No | Are the gray leggings worn by the woman? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the belly bag? | Blue and black. |
+| What | What is the woman wearing on her legs? | Gray leggings. |
+| How | How is the belly bag designed? | With a zipper pocket and a small pouch on the front. |
+| How | How does the image make you feel? | Bold and confident. |
+| Yes/No | Is the woman in the image wearing a belly bag? | Yes. |
+| Yes/No | Is the belly bag blue and black? | Yes. |
+| Yes/No | Does the belly bag have a zipper pocket on the front? | Yes. |
+| Yes/No | Does the belly bag have a small pouch on the side? | Yes. |
+| Yes/No | Are the woman's gray sweatpants and black sports bra visible in the image? | Yes. |
+| Yes/No | Is the woman's posture and the way she is wearing the belly bag confident and stylish? | Yes. |
+| What | What color are the woman's sweatpants? | Gray. |
+| What | What is the primary color of the belly bag? | Blue. |
+| How | How many pockets does the belly bag have? | 2 (a zipper pocket on the front and a small pouch on the side). |
+| What | What is the overall atmosphere of the image? | Bold and confident. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the woman in the image standing on a white couch? | No. |
+| Yes/No | Is the TV in the background turned on? | No. |
+| Yes/No | Does the woman appear to be looking directly at the camera? | No. |
+| Yes/No | Does the image have a sexual connotation? | Yes. |
+| Yes/No | Does the woman have any other items of clothing on besides the black coat and stockings? | No. |
+| What | What color is the couch in the background? | White. |
+| What | What is the woman in the image putting on? | Black stockings. |
+| How | How does the woman look in the image? | She looks sexy and alluring. |
+| Yes/No | Why does the image create a seductive atmosphere? | The combination of the woman's black stockings and coat against the white couch and TV in the background creates a striking contrast, which adds to the seductive nature of the image. |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the woman in the image standing on a white couch? | No. |
+| Yes/No | Is the TV in the background turned on? | No. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the woman's hair visible in the image? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| What | What is the woman in the image putting on? | Black stockings. |
+| What | What is the color of the woman's coat? | Black. |
+| How | How is the woman standing in relation to the couch? | Standing near the couch, but not on it. |
+| How | How does the image create a seductive atmosphere? | The woman's black stockings and coat create a sense of allure, contrasting with the white couch and TV in the background, creating a sexy atmosphere. |

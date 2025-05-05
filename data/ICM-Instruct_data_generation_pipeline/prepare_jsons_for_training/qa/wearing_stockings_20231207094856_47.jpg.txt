@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person holding a stocking in their hand? | Yes. |
+| Yes/No | Is the stocking beige? | Yes. |
+| Yes/No | Is the person in the process of putting on the stocking? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | A white shirt and black shorts. |
+| What | What is the person holding in their hand? | A stocking. |
+| How | How is the person putting on the stocking? | They are in the middle of pulling it up. |
+| What | What creates a seductive atmosphere in the image? | The combination of the person's attire, the setting, and the action captured in the image. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person holding a stocking in their hand? | Yes. |
+| Yes/No | Is the stocking beige? | Yes. |
+| Yes/No | Is the person in the process of putting on the stocking? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image wearing? | A white shirt and black shorts. |
+| What | What is the person holding in their hand? | A stocking. |
+| How | How is the person in the image putting on the stocking? | They are pulling it up. |
+| What | What creates a seductive atmosphere in the image? | The combination of the person's attire, the setting, and the action captured in the image. |

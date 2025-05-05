@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image waving at the camera? | Yes. |
+| Yes/No | Does the image contain any inappropriate or explicit content? | No. |
+| Yes/No | Is the woman wearing a white collared shirt? | Yes. |
+| Yes/No | Is the woman wearing a blue skirt? | Yes. |
+| Yes/No | Does the image suggest a sexy or provocative context? | No. |
+| What | What is the woman's demeanor in the image? | Cheerful and friendly. |
+| What | What is the focus of the image? | The woman's expression and her interaction with the camera. |
+| How | How does the low exposure level contribute to the image's atmosphere? | It creates an innocent and lighthearted atmosphere. |
+| How | How does the woman's cheerful demeanor contribute to the image's atmosphere? | It enhances the image's overall cheerful and friendly atmosphere. |

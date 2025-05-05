@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini purple and blue in color? | Yes. |
+| Yes/No | Is the woman wearing a gold belly chain? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman looking to the side in the image? | Yes. |
+| Yes/No | Does the image evoke feelings of leisure and enjoyment? | Yes. |
+| What | What color is the bikini? | Purple and blue. |
+| What | What is the woman wearing around her waist? | A gold belly chain. |
+| How | How is the woman's posture in the image? | Confident and relaxed. |
+| How | How does the woman look in the image? | She looks happy and engaged with her surroundings. |

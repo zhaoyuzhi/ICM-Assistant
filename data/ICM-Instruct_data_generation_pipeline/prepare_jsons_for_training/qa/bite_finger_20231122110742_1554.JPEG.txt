@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sticking their tongue out? | Yes. |
+| Yes/No | Are the person's lips pink? | Yes. |
+| Yes/No | Is the person's facial expression neutral? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy and sensuality? | Yes. |
+| What | What color are the person's lips? | Pink. |
+| What | What is the person's facial expression? | Neutral. |
+| How | How is the person's tongue positioned in the image? | The person's tongue is sticking out of their mouth. |
+| How | How does the close-up of the person's mouth and tongue create an atmosphere? | The closeup of the person's mouth and tongue creates an atmosphere of intimacy and sensuality. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black and colorful swimsuit? | Yes. |
+| Yes/No | Is the woman standing with her arms raised above her head? | Yes. |
+| Yes/No | Does the swimsuit have a yellow and red design on the back? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive? | Yes. |
+| Yes/No | Does the image evoked a sense of confidence and self-assuredness? | Yes. |
+| Yes/No | Is the combination of the black swimsuit and the vibrant colors on the back striking? | Yes. |
+| What | What is the primary color of the swimsuit? | Black. |
+| What | What is the color of the design on the back of the swimsuit? | Yellow and red. |
+| How | How does the woman's pose in the image suggest she is feeling? | Confident and comfortable. |
+| How | How does the image evoke a sense of confidence and self-assuredness? | Through the woman's confident pose and the exposure of her back, which reveals her skin and the colorful design on her swimsuit. |

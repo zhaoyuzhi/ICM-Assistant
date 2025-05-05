@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow t-shirt? | Yes. |
+| Yes/No | Are the sweatpants gray? | Yes. |
+| Yes/No | Does the person have a watch on their left wrist? | Yes. |
+| Yes/No | Is the kitchen in the background well-lit? | No. |
+| Yes/No | Are there any explicit or suggestive content in the image? | No. |
+| Yes/No | Is the focus of the image on the person's body? | No. |
+| What | What color are the patches on the sweatpants? | Colorful. |
+| What | What is the person's pose in the image? | Standing. |
+| How | How many items are hanging from the person's wrist? | 1 (watch). |
+| How | How many patches are on the sweatpants? | Multiple (several). |
+| Yes/No | Is the person in the image wearing a yellow t-shirt? | Yes. |
+| Yes/No | Are the sweatpants gray? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Are the person's attire and pose non-threatening? | Yes. |
+| What | What color are the patches on the sweatpants? | Colorful. |
+| What | What is the person looking at? | Off to the side. |
+| How | How are the sweatpants adorned? | With fringe hanging down the front and colorful patches on the sides. |
+| How | How would you describe the person's pose? | Casual and relaxed, with their hands on their hips. |

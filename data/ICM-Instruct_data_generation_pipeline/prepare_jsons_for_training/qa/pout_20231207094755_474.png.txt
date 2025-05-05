@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a person's face? | Yes. |
+| Yes/No | Does the person have long hair? | Yes. |
+| Yes/No | Is the facial expression playful and seductive? | Yes. |
+| Yes/No | Are the person's eyes closed? | Yes. |
+| Yes/No | Is the head tilted slightly to the side? | Yes. |
+| Yes/No | Does the image contain any other discernible objects or text? | No. |
+| What | What is the color of the person's hair? | Brown. |
+| What | What is the facial expression of the person? | Playful and seductive. |
+| How | How are the person's lips positioned? | Puckered, as if they are about to kiss. |
+| How | How is the person's head positioned? | Tilted slightly to the side. |

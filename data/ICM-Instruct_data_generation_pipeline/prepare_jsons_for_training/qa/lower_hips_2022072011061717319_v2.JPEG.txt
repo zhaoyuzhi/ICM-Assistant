@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing away from the camera? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Does the person have a gold zipper? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the color of the zipper? | Gold. |
+| How | How is the person posing? | With their backside prominently displayed. |
+| What | What does the person's pose and attire suggest? | Confidence and allure. |

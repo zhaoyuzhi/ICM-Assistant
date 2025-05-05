@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Are the blue jeans a contrasting color to the white blouse? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman standing in a living room? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and self-assuredness? | Yes. |
+| What | What color are the blue jeans? | Blue. |
+| What | What is the woman's pose in the image? | She has her hand on her hip. |
+| How | How does the woman's hair look in the image? | It looks relaxed and chic. |
+| How | How does the living room setting complement the woman's outfit? | It provides a casual and comfortable atmosphere that complements her stylish outfit. |

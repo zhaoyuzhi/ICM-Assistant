@@ -1,0 +1,14 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige blazer? | Yes. |
+| Yes/No | Is the woman in the image looking downwards? | Yes. |
+| Yes/No | Is the background of the image greenish-yellow? | Yes. |
+| Yes/No | Does the image feature any other people besides the woman? | No. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the image feature any text in a language other than Chinese? | No. |
+| What | What is the woman in the image holding in her hands? | Her face. |
+| Yes/No | --- | ---. |
+| What | What is the color of the woman's blazer? | Beige. |
+| How | How is the woman sitting in the chair? | She is sitting with her hands on her face. |
+| Yes/No | --- | ---. |
+| How | How is the text in Chinese written in the image? | It is written vertically on the right side of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red and white checkered crop top? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Are the woman's midriff and shoulders exposed? | Yes. |
+| Yes/No | Are the blue jean shorts a common choice for a casual, summery look? | Yes. |
+| What | What color is the woman's crop top? | Red and white checkered. |
+| What | What is the color of the woman's shorts? | Blue. |
+| How | How does the woman's pose add to the overall sensuality of the image? | The woman's pose, with her hands on her hips, adds a sense of confidence and allure to the image. |
+| How | How does the combination of the red and white checkered top and blue jean shorts create an atmosphere? | The combination of the red and white checkered top and blue jean shorts creates an atmosphere of confidence and allure, with a pop of color and a casual, laidback vibe. |

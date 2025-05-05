@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black tuxedo? | Yes. |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Are the man and woman in the image kissing? | Yes. |
+| Yes/No | Is the woman's head tilted back in the image? | Yes. |
+| Yes/No | Are the man and woman in a close embrace? | Yes. |
+| Yes/No | Does the image capture a moment of intense emotion? | Yes. |
+| What | What is the man in the image wearing? | A black tuxedo. |
+| What | What is the woman in the image wearing? | A white dress. |
+| How | How are the man and woman positioned in the image? | The man is positioned behind the woman. |
+| How | How does the woman's posture suggest a sense of vulnerability and trust? | Her head is tilted back and her eyes are closed. |

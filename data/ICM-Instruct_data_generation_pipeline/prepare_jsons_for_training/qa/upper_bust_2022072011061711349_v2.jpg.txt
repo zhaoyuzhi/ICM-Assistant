@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra made of lace? | Yes. |
+| Yes/No | Is the woman's hand on her chin? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the woman's pose in the image? | She is posing with her hand on her chin. |
+| What | What is the focus of the image? | The focus of the image is on the woman's chest, which is prominently displayed due to the closeup nature of the photo. |
+| How | How does the lace on the bra add to the woman's appearance? | The lace on the bra adds a delicate and feminine touch to the woman's appearance. |
+| How | How does the woman's pose contribute to the atmosphere of the image? | The woman's pose, with her hand on her chin, adds a confident and alluring element to the image, contributing to an atmosphere that is both intimate and seductive. |

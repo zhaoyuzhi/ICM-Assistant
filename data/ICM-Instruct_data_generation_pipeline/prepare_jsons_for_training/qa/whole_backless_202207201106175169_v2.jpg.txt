@@ -1,0 +1,13 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | --- | ---. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman holding a bouquet of flowers? | Yes. |
+| Yes/No | Is the dress white? | Yes. |
+| Yes/No | Is the background green? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman holding in her hand? | A bouquet of flowers. |
+| What | What color is the dress? | White. |
+| How | How is the woman standing in relation to the hedge? | She is standing in front of the hedge. |
+| How | How does the woman's attire contribute to the overall feeling of the image? | The woman's attire, specifically the white dress with the lace back, creates a sense of allure and sensuality, contributing to the overall feeling of the image being sexy and alluring. |

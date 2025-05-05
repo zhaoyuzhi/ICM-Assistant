@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the skirt plaid? | Yes. |
+| Yes/No | Are the sleeves of the shirt short? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman's pose suggestive of confidence or self-assuredness? | Yes. |
+| What | What is the pattern on the skirt? | Alternating squares in shades of blue and white. |
+| What | What is the material of the shirt? | Lightweight fabric. |
+| How | How is the woman standing in the image? | With her hands placed on her hips. |
+| What | What does the woman's smile add to the overall atmosphere of the image? | It makes the image appear more approachable and inviting. |

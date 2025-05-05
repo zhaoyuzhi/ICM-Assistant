@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the woman's attire casual? | Yes. |
+| Yes/No | Does the image depict a relaxed atmosphere? | Yes. |
+| Yes/No | Are there plants and flowers visible in the background? | Yes. |
+| What | What is the woman's pose in the image? | Hands on hips. |
+| What | What is the dominant color of the woman's attire? | Black. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | It suggests a casual and modest tone. |
+| How | How does the garden setting contribute to the overall atmosphere of the image? | It adds to the sense of calmness and serenity. |

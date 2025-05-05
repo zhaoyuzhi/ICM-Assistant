@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a white sweater? | Yes. |
+| Yes/No | Does the skirt have a button-down front? | Yes. |
+| Yes/No | Are the woman's legs slightly apart? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive? | Yes. |
+| What | What is the material of the skirt? | Velvet. |
+| What | What is the woman's pose in the image? | Standing with her hands on her hips and her legs slightly apart. |
+| How | How is the skirt fastened? | With buttons. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | It adds to the allure and sexiness of the image. |

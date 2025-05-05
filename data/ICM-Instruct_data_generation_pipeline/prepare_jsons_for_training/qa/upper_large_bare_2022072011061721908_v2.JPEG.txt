@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman standing in the water? | Yes. |
+| Yes/No | Does the woman have her arms raised above her head? | Yes. |
+| Yes/No | Is the woman's hair styled in a ponytail? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing in the image? | A yellow and white striped bikini. |
+| What | What is the woman's pose in the image? | She is standing in the water with her arms raised above her head. |
+| How | How does the woman's attire contribute to the sexiness of the image? | The woman's bikini is a bright, eyecatching color and is formfitting, emphasizing her curves and creating an alluring atmosphere. |
+| How | How does the setting contribute to the sexiness of the image? | The image is set in a body of water, which adds a sense of mystery and allure to the scene. The water also creates a sense of movement and dynamism, adding to the image's sexiness. |

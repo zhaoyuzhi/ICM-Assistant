@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing Adidas track pants? | Yes. |
+| Yes/No | Are the track pants blue and red in color? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is her belly exposed in the image? | Yes. |
+| Yes/No | Are the track pants tight-fitting? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the track pants? | Blue and red. |
+| What | What type of shoes is the woman wearing? | White sneakers. |
+| How | How is the woman posing in the image? | With her hands on her hips and her belly exposed. |
+| What | What does the image captured? | A moment of selfexpression and confidence. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a beige sweater? | Yes. |
+| Yes/No | Are the stockings being pulled up the person's legs? | Yes. |
+| Yes/No | Is the person's focus on putting on the stockings? | Yes. |
+| Yes/No | Does the image capture a moment of preparation? | Yes. |
+| Yes/No | Does the image evoke feelings of sensuality and allure? | Yes. |
+| What | What color are the stockings and sweater in the image? | Beige. |
+| What | What is the person in the image preparing for? | A special occasion or romantic event. |
+| How | How are the stockings being pulled up the person's legs? | The person is actively pulling them up. |
+| What | What atmosphere does the beige color of the stockings and sweater create? | A warm and inviting atmosphere. |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the person wearing a beige sweater? | Yes. |
+| Yes/No | Are the person's legs visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image evoke feelings of sensuality and allure? | Yes. |
+| Yes/No | Is the person in the image preparing for a special occasion or romantic event? | Yes. |
+| What | What is the color of the stockings and sweater in the image? | Beige. |
+| What | What is the atmosphere created by the beige color in the image? | Warm and inviting. |
+| How | How are the stockings being pulled up the person's legs? | The person is in the process of putting them on. |
+| How | How does the image evoke feelings of anticipation and excitement? | The focus on the person's actions suggests a sense of anticipation and excitement. |

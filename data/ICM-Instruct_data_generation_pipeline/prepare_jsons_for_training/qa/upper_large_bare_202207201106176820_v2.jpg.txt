@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image posing seductively? | Yes. |
+| Yes/No | Does the woman in the image have a confident expression? | Yes. |
+| Yes/No | Is the backdrop of the image a white wall with a window? | Yes. |
+| Yes/No | Does the woman's attire in the image contrast with her skin tone? | Yes. |
+| Yes/No | Is the image generally sexy in tone? | Yes. |
+| What | What color is the woman's bra? | Gray. |
+| What | What is the woman in the image posing with her hand on? | Her head. |
+| How | How does the contrast between the woman's attire and her skin tone affect the image? | It highlights her upper body, drawing attention to her chest and shoulders. |
+| How | How does the woman's hand on her head contribute to the image's overall atmosphere? | It adds a playful and confident element to her pose. |

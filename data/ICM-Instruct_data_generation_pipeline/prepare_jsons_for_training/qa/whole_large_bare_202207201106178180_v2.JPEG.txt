@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red jacket? | Yes. |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman in the image posing in a way that exposes her cleavage? | Yes. |
+| Yes/No | Is the door the woman is leaning against made of wood? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's pose in the image confident and alluring? | Yes. |
+| What | What color is the woman's jacket? | Red. |
+| What | What is the color of the woman's top? | White. |
+| How | How is the woman posing in the image? | With her hand on her hip and her cleavage exposed. |
+| How | How does the red jacket contrast with the woman's skin tone? | It adds a pop of color and creates a stark contrast. |

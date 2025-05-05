@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a red sweater? | Yes. |
+| Yes/No | Does the sweater have a tucked-in design? | Yes. |
+| Yes/No | Is the skirt black and white checkered? | Yes. |
+| Yes/No | Does the skirt have a button closure at the front? | Yes. |
+| Yes/No | Is the woman posing with her left hand on her hip and her right hand resting on her thigh? | Yes. |
+| What | What is the color of the sweater? | Red. |
+| What | What is the pattern on the skirt? | Black and white checkered. |
+| How | How is the sweater tucked into the skirt? | The sweater is tucked into the skirt, revealing her midriff. |
+| How | How does the woman's pose accentuate her outfit? | The woman's pose accentuates her outfit by highlighting her midriff and creating a sense of confidence. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a leotard? | Yes. |
+| Yes/No | Is the leotard pink? | Yes. |
+| Yes/No | Is the woman's left leg extended behind her? | Yes. |
+| Yes/No | Is the woman's right leg bent at the knee? | Yes. |
+| Yes/No | Are the woman's arms extended to the sides? | Yes. |
+| Yes/No | Is the woman's midriff exposed? | Yes. |
+| What | What is the color of the woman's leotard? | Pink. |
+| What | What is the woman's left leg doing? | Extended behind her. |
+| How | How is the woman's right leg positioned? | Bent at the knee. |
+| How | How are the woman's arms positioned? | Extended to the sides. |

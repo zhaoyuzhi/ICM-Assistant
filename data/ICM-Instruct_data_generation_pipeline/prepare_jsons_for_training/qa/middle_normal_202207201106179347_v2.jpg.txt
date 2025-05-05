@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Is the person wearing a belt? | Yes. |
+| Yes/No | Are the shorts olive green? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the image appropriate? | Yes. |
+| What | What color are the shorts? | Olive green. |
+| How | How are the person's hands positioned? | Tucked into their pockets. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, everyday scene. |
+| Yes/No | Is the mannequin wearing cargo shorts? | Yes. |
+| Yes/No | Does the mannequin have a black belt? | Yes. |
+| Yes/No | Is the buckle of the belt silver? | Yes. |
+| Yes/No | Are the pockets on the front of the shorts? | Yes. |
+| Yes/No | Is the overall atmosphere of the image neutral? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What color are the cargo shorts? | Olive green. |
+| What | What is the color of the belt? | Black. |
+| How | How is the mannequin positioned in the image? | The mannequin is positioned in such a way that the shorts are the main focus of the image. |

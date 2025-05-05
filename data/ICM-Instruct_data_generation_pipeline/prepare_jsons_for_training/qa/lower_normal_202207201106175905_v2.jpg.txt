@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a floral skirt? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a white wall? | Yes. |
+| Yes/No | Does the woman in the image have a high waist? | Yes. |
+| Yes/No | Is the woman in the image wearing white shoes? | Yes. |
+| Yes/No | Is the atmosphere in the image calm and serene? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the woman in the image wearing on her feet? | White shoes. |
+| What | What is the color of the woman's purse in the image? | White. |
+| How | How would you describe the woman's posture in the image? | Modest and appropriate for a casual setting. |
+| How | How does the neutral background of the image contribute to the overall atmosphere? | It emphasizes the woman's outfit and contributes to a nonsexual atmosphere. |

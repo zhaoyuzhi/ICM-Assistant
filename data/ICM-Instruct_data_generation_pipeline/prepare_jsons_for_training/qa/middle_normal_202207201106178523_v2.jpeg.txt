@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants white? | Yes. |
+| Yes/No | Is the person's pose suggestive or provocative? | No. |
+| Yes/No | Does the image contain any sexy or provocative elements? | No. |
+| Yes/No | Is the background of the image plain and uninteresting? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the person's facial expression? | The person is looking downwards, but the low exposure level makes it difficult to discern their facial expression. |
+| What | What is the person's pose? | The person is sitting on a chair with their hands placed on their hips. |
+| How | How is the person's attire? | The person is wearing a white shirt and white pants. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is not sexy because it is a simple and unassuming scene. The low exposure level, plain background, and lack of provocative elements all contribute to this atmosphere. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Is the chair positioned against a beige wall? | Yes. |
+| Yes/No | Is the person's face visible in the photo? | No. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the person resting their hand on? | Their knee. |
+| What | What is the color of the person's pants? | White. |
+| How | How is the person sitting on the chair? | With their legs crossed. |
+| What | What is the exposure level of the image? | Very low. |

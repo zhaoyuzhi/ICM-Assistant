@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shoes? | Yes. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image sitting on a bench? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What color are the person's shoes? | Silver. |
+| What | What is the person resting their hand on? | Their knee. |
+| How | How is the person's body positioned in the image? | Turned towards the camera. |
+| How | How does the outdoor setting enhance the image's atmosphere? | It adds an element of natural beauty and draws attention to the person, making them the focal point of the image. |

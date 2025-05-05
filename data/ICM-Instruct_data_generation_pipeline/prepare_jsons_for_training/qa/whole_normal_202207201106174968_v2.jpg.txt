@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are any of the women wearing revealing clothing? | No. |
+| Yes/No | Is the image taken indoors? | Yes. |
+| Yes/No | Are any of the women smiling? | No. |
+| Yes/No | Is there any text or logo visible in the image? | No. |
+| Yes/No | Are any of the women wearing jewelry? | Yes. |
+| What | What is the woman on the far left wearing? | A white coat and a black handbag. |
+| What | What is the woman in the middle wearing? | A beige coat and a white handbag. |
+| How | How are the women standing in relation to each other? | They are standing in a line, with the woman in the middle making a peace sign. |

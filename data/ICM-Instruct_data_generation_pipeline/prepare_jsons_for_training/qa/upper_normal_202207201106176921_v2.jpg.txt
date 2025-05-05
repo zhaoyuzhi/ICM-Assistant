@@ -1,0 +1,8 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the top left photo wearing a black dress? | Yes. |
+| Yes/No | Is the woman in the top right photo holding a fan? | Yes. |
+| Yes/No | Is the woman in the bottom left photo wearing a pink dress? | Yes. |
+| Yes/No | Is the woman in the bottom right photo wearing a white dress? | Yes. |
+| What | What is the woman in the top middle photo wearing in her hair? | A pink bow. |
+| What | What is the woman in the bottom middle photo wearing in her hair? | A pink bow. |

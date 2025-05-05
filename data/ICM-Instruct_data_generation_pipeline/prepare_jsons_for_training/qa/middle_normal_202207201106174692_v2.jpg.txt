@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the person in the image have their hands on their hips? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image contain suggestive or provocative elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the color of the person's skirt? | Green. |
+| What | What is the color of the person's shirt? | White. |
+| How | How is the person posing in the image? | With a neutral pose, hands resting on hips. |
+| How | How does the low exposure level of the image contribute to its atmosphere? | It emphasizes the person's clothing rather than their body, contributing to a casual and everyday atmosphere. |
+| Yes/No | Is the person in the image wearing a green skirt? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire revealing or provocative? | No. |
+| Yes/No | Does the image contain any inappropriate or offensive elements? | No. |
+| What | What is the primary color of the person's skirt? | Green. |
+| What | What is the color of the person's purse? | Black. |
+| How | How is the person's attire depicted in the image? | The person's attire is depicted as modest and not revealing. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | The low exposure level of the image emphasizes the focus on the person's clothing and the street setting, rather than any potential for sensuality or allure. |

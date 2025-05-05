@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman lifting her dress in the image? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing white underwear with a floral pattern? | Yes. |
+| Yes/No | Is the image set in a room with a white door and chair? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman lifting her dress with? | Her hands. |
+| What | What is the pattern on the woman's underwear? | Floral. |
+| How | How is the woman's dress being lifted? | It is being lifted by the woman's hands. |
+| How | How does the image create a sense of intimacy and allure? | The image creates a sense of intimacy and allure through the use of white colors, the woman's provocative actions, and the contrast between the dress, underwear, and background. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black jeans? | Yes. |
+| Yes/No | Is the zipper on the back pocket of the jeans open? | Yes. |
+| Yes/No | Is the person wearing underwear that is visible through the open zipper? | Yes. |
+| Yes/No | Is the person in the image wearing a white sweater? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the overall atmosphere of the image sensual and provocative? | Yes. |
+| What | What is the color of the person's jeans? | Black. |
+| What | What is the color of the person's sweater? | White. |
+| How | How is the person's underwear visible through the open zipper? | It is visible through the gap between the zipper teeth. |
+| How | How does the white sweater worn by the person contrast with the black jeans? | It provides a visual contrast that draws attention to the buttocks. |

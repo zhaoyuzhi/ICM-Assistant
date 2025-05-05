@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the dress midriff-baring? | Yes. |
+| Yes/No | Are the woman's earrings visible in the image? | Yes. |
+| Yes/No | Is the woman's hair pulled back? | Yes. |
+| Yes/No | Is the dress flowery? | Yes. |
+| Yes/No | Does the woman have her hand on her head? | Yes. |
+| What | What is the color scheme of the dress? | Purple and white. |
+| What | What is the woman's pose in the image? | She is posing with her hand on her head and looking at the camera. |
+| How | How does the woman's attire contribute to the overall allure of the image? | The strapless dress and midriffbaring outfit can be perceived as sexy by some people. |
+| How | How does the woman's pose contribute to the overall allure of the image? | The woman's pose with her hand on her head and her gaze directed towards the camera adds to the overall allure of the image. |

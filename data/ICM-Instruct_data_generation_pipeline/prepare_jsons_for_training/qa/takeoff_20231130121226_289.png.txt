@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman taking off her clothes? | Yes. |
+| Yes/No | Is the room in the image a public space? | No. |
+| Yes/No | Does the image depict a romantic scene? | Yes. |
+| Yes/No | Is the painting on the wall a nude? | No. |
+| Yes/No | Does the woman's attire contrast with the color of the bed? | Yes. |
+| What | What color is the woman's sweater? | Blue. |
+| What | What is the woman doing in the image? | Taking off her clothes. |
+| How | How is the woman's body positioned in the image? | With her hands on her hips and facing away from the camera. |
+| How | How does the painting on the wall contribute to the atmosphere of the image? | It adds an artistic and sophisticated touch to the scene. |

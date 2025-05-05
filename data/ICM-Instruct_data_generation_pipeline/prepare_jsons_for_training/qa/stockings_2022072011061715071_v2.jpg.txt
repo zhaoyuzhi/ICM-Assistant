@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin dressed in black lingerie? | Yes. |
+| Yes/No | Is the background of the image a white curtain? | Yes. |
+| Yes/No | Are the mannequin's legs apart in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Do the black lingerie and stockings worn by the mannequin convey sensuality and intimacy? | Yes. |
+| Yes/No | Does the pose of the mannequin convey confidence and allure? | Yes. |
+| What | What is the color of the mannequin's lingerie? | Black. |
+| What | What is the background of the image? | A white curtain. |
+| How | How does the mannequin's pose contribute to the overall allure of the image? | The mannequin's legs apart pose adds a sense of confidence and allure to the image. |
+| How | How does the contrast between the mannequin's attire and the background contribute to the overall atmosphere of the image? | The contrast between the dark color of the mannequin's outfit and the white background creates a sharp visual contrast that accentuates the mannequin and its attire, contributing to the overall allure and sexy atmosphere of the image. |

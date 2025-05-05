@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is this a photo of a person's face? | Yes. |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Is the facial expression serious? | Yes. |
+| Yes/No | Is there a tattoo visible on the person's chin? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the image capture the viewer's attention? | Yes. |
+| What | What is the gesture associated with the person's lip? | Sensuality and confidence. |
+| What | What detail does the tattoo on the person's chin add to their appearance? | Unique and intriguing detail. |
+| How | How does the tattoo enhance the image's nature? | The tattoo adds a unique and intriguing detail to the image, enhancing its sexy and intriguing nature. |
+| How | How does the serious facial expression contribute to the image's captivating quality? | The serious facial expression adds an element of intensity to the image, making it more captivating and alluring. |

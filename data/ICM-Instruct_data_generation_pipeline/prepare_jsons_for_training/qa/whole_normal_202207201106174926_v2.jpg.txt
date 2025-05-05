@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a jumpsuit? | Yes. |
+| Yes/No | Does the jumpsuit have a white stripe on the sleeves? | Yes. |
+| Yes/No | Is the logo on the chest of the jumpsuit white? | Yes. |
+| Yes/No | Are the sweatpants the woman is wearing navy blue? | Yes. |
+| Yes/No | Does the woman have a black purse on her shoulder? | Yes. |
+| Yes/No | Is the woman's hair styled in a short bob? | Yes. |
+| What | What color is the woman's jumpsuit? | Navy blue. |
+| What | What is the woman carrying on her shoulder? | A black purse. |
+| How | How is the woman's hair styled? | In a short bob. |
+| How | How is the woman looking at the camera? | Directly. |

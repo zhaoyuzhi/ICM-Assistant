@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini top gold and shiny? | Yes. |
+| Yes/No | Is the bikini bottom pink and shiny? | Yes. |
+| Yes/No | Is the woman standing in a room with a wooden floor? | Yes. |
+| Yes/No | Is there a window in the background of the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the woman holding her bikini top with? | Her left hand. |
+| What | What is the woman's right hand resting on? | Her hip. |
+| How | How is the woman's pose in the image? | Confident and selfassured. |
+| How | How does the woman's expression in the image make the viewer feel? | Warm and approachable. |

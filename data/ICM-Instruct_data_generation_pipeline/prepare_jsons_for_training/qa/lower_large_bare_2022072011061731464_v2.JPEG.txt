@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a couch? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Are the person's feet resting on the arm of the couch? | Yes. |
+| Yes/No | Is the person wearing white tights in the image? | Yes. |
+| Yes/No | Does the image have an intimate and sensual atmosphere? | Yes. |
+| What | What is the person wearing in the image? | White tights. |
+| What | What is the focal point of the image? | The person's legs and feet. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the close-up perspective of the image highlight the person's body parts? | It draws attention to the person's legs and feet. |

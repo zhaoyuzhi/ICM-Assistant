@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a necklace? | Yes. |
+| Yes/No | Does the woman have her eyes open? | No. |
+| Yes/No | Is the woman's expression playful? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image feature a background or scenery? | No. |
+| Yes/No | Is the woman's hair short? | No. |
+| What | What is the woman's necklace made of? | Pink and green. |
+| What | What is the woman's facial expression? | Duck lips. |
+| How | How does the woman's gaze contribute to the playful atmosphere of the image? | The woman's upward gaze adds to the allure of her expression and creates a sense of confidence. |
+| How | How does the necklace add to the visual appeal of the image? | The pink and green necklace adds a pop of color to the image, further enhancing its visual appeal. |

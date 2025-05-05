@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a denim skirt? | Yes. |
+| Yes/No | Does the woman in the image have a purse? | Yes. |
+| Yes/No | Is the purse brown? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a building? | Yes. |
+| Yes/No | Does the building have a glass window? | Yes. |
+| What | What is the woman in the image wearing on her feet? | The image does not provide enough information to determine what the woman is wearing on her feet. |
+| What | What is the color of the woman's t-shirt? | White. |
+| How | How is the woman's skirt styled? | The woman's skirt is styled with a frayed hem and a button closure. |
+| How | How does the woman's pose in the image contribute to the overall atmosphere? | The woman's pose, with her hand on her hip, contributes to a sense of confidence and allure, which adds to the overall casual yet stylish atmosphere of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lifting their clothes? | Yes. |
+| Yes/No | Is the person exposing their chest and stomach? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the person wearing a brown jacket? | Yes. |
+| Yes/No | Is the person wearing blue jeans? | Yes. |
+| Yes/No | Is the background of the image purple? | Yes. |
+| What | What is the person lifting their clothes? | Their shirt and jacket. |
+| What | What is the color of the person's jacket? | Brown. |
+| How | How is the person standing in the image? | Standing in front of the purple background. |
+| How | How does the purple background enhance the image? | It adds a vibrant and bold touch to the image, enhancing the sexy atmosphere. |

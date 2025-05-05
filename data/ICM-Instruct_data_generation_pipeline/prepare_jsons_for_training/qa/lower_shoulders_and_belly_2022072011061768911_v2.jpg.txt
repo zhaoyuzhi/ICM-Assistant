@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue leggings? | Yes. |
+| Yes/No | Does the person have their belly exposed? | Yes. |
+| Yes/No | Are the leggings tight-fitting? | Yes. |
+| Yes/No | Is the person's pose confident and assertive? | Yes. |
+| Yes/No | Does the image have a bold and confident atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the leggings? | Blue. |
+| What | What is the person's pose? | Hands on hips. |
+| How | How are the leggings fitting? | Tightfitting. |
+| How | How does the person's pose suggest self-assuredness and confidence? | With their hands resting on their hips. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | Yes. |
+| Yes/No | Are the women wearing leggings? | Yes. |
+| Yes/No | Is the woman in the center taller than the other two women? | Yes. |
+| Yes/No | Are the leggings tight-fitting? | Yes. |
+| Yes/No | Does the image feature any men? | No. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| What | What color are the leggings worn by the woman on the left? | Pink. |
+| What | What is the color of the leggings worn by the woman on the right? | Black. |
+| How | How are the women posing in the image? | With their legs slightly apart and hands placed on their hips. |

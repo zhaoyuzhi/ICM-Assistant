@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person kneeling on a stage? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Are the person's pants soaked? | Yes. |
+| Yes/No | Is the person in the middle of a performance or dance? | Yes. |
+| What | What is the person's shirt unbuttoned, revealing? | A hint of skin. |
+| What | What is the overall atmosphere of the image? | Intense and dramatic. |
+| How | How are the person's movements? | Fluid and graceful. |
+| How | How does the image create a sense of drama and tension? | Through the person's soaked clothes and stage lights. |

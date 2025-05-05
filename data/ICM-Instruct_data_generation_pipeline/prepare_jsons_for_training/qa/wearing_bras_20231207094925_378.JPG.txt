@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a beige bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Are her fingers visible as she holds the bra? | Yes. |
+| Yes/No | Is the bra made of a soft, stretchy material? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the image have a plain white background? | Yes. |
+| What | What is the woman in the image putting on? | A beige bra. |
+| What | What is the woman's hair style in the image? | Loose waves. |
+| How | How is the woman holding the bra? | With both hands, and her fingers are visible. |
+| How | How would you describe the overall atmosphere of the image? | One of allure and seduction. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Are her fingers visible as she holds the bra? | Yes. |
+| Yes/No | Is the bra made of a soft, stretchy material? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| What | What is the woman holding in her hands? | A beige bra. |
+| What | What is the color of the woman's hair in the image? | Loose waves. |
+| How | How is the woman holding the bra? | With both hands, her fingers are visible. |
+| How | How would you describe the atmosphere of the image? | Alluring, seductive. |

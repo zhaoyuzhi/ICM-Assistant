@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing pink pants? | Yes. |
+| Yes/No | Is the woman holding a black jacket in her left hand in the first photo? | Yes. |
+| Yes/No | Is the woman holding a white shirt in her right hand in the second photo? | Yes. |
+| Yes/No | Is the woman holding a black jacket in her right hand in the third photo? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman holding in her left hand in the first photo? | A black jacket. |
+| What | What is the woman holding in her right hand in the second photo? | A white shirt. |
+| What | What is the overall atmosphere of the image? | Not sexy. |

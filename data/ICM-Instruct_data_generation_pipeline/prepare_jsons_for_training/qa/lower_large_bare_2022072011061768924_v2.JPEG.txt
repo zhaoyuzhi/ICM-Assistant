@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini bottom? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the ocean water surrounding the person in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person in the image standing? | Yes. |
+| What | What is the color of the bikini bottom in the image? | Black. |
+| What | What is the common association of the image's atmosphere? | Sexy/Provocative. |
+| How | How is the person's lower body exposed in the image? | The person's lower body is exposed because they are wearing a bikini bottom. |
+| How | How does the image evoke feelings in the viewer? | The image evokes feelings of desire and fascination in the viewer due to the person's attire, the exposure of their lower body, the beach setting, and the ocean water. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a floral dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a gold watch? | Yes. |
+| Yes/No | Is the woman in the image sitting? | Yes. |
+| Yes/No | Is the woman in the image looking off to the side? | Yes. |
+| Yes/No | Is the dress colorful? | Yes. |
+| Yes/No | Is the fabric of the dress lightweight? | Yes. |
+| What | What is the woman's pose in the image? | She is sitting with her hand on her chin. |
+| What | What adds elegance to the woman's outfit in the image? | The gold watch on her wrist. |
+| How | How is the overall atmosphere of the image? | Calm and relaxed. |
+| How | How does the image depict the woman's expression? | Modest and appropriate for a public setting. |

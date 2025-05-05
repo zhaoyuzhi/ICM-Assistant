@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are black stockings being put on by the person? | Yes. |
+| Yes/No | Is the couch covered with a blue pillow? | Yes. |
+| Yes/No | Does the pillow have the phrase "Together with you" written on it? | Yes. |
+| Yes/No | Is the person's attire and actions associated with sensuality and intimacy? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and vulnerability? | Yes. |
+| What | What color is the person's shirt? | Pink. |
+| What | What is the person doing in the image? | Putting on black stockings. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How does the person interact with the stockings? | Gently holding them in place. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person holding black stockings in the image? | Yes. |
+| Yes/No | Is the couch covered with a blue pillow? | Yes. |
+| Yes/No | Does the pillow have the phrase "Together with you" written on it? | Yes. |
+| Yes/No | Is the image associated with sensuality and intimacy? | Yes. |
+| What | What color is the person's shirt in the image? | Pink. |
+| What | What is the person doing in the image? | Putting on black stockings. |
+| How | How are the person's legs positioned in the image? | Crossed. |
+| How | How is the person interacting with the stockings in the image? | Gently holding them in place. |

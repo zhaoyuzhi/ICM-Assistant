@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a gray sweatshirt? | Yes. |
+| Yes/No | Is the woman wearing a black jacket? | Yes. |
+| Yes/No | Are the couple standing close to each other? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's waist? | Yes. |
+| Yes/No | Is the forest around them lush and green? | Yes. |
+| Yes/No | Does the image evoke a sense of passion and intimacy? | Yes. |
+| What | What is the man wearing? | A gray sweatshirt. |
+| What | What is the woman wearing? | A black jacket. |
+| How | How are the couple standing in relation to each other? | They are standing close to each other, with the woman's arms wrapped around the man's waist. |
+| How | How does the forest setting add to the overall mood of the image? | The forest setting adds a sense of mystery and allure to the scene, while the close proximity of the couple suggests a deep connection and affection between them. |

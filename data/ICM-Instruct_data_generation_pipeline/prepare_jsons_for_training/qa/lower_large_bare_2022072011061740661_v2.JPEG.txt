@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the bikini blue and white striped? | Yes. |
+| Yes/No | Is the person walking on the beach? | Yes. |
+| Yes/No | Is sand being kicked up around the person? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the bikini bottom? | Blue and white striped. |
+| What | What is the setting of the image? | A sandy beach. |
+| How | How is the person's movement depicted in the image? | By the kicking up of sand around them. |
+| How | How would you describe the overall atmosphere of the image? | Sensual and inviting. |

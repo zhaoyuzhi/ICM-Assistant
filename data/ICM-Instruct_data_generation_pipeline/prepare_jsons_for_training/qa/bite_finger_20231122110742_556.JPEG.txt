@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the person's mouth wide open in the image? | Yes. |
+| Yes/No | Are the person's facial features, such as their lips and teeth, prominently displayed in the image? | Yes. |
+| Yes/No | Is the image a close-up of the person's face? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and connection between the person and the viewer? | Yes. |
+| Yes/No | Does the image evoke a strong emotional response from the viewer? | Yes. |
+| What | What is the facial expression of the person in the image? | Intensive. |
+| What | What is the emotional response evoked by the image? | Strong. |
+| How | How does the close-up of the person's face create a sense of vulnerability and trust? | The closeup of the person's face creates a sense of vulnerability and trust by highlighting the person's facial features and their direct gaze, which creates a sense of intimacy and connection between the person and the viewer. |
+| How | How does the image capture a moment of intense connection and intimacy between the person and the viewer? | The image captures a moment of intense connection and intimacy between the person and the viewer by featuring a closeup of the person's face, their open mouth, and their direct gaze, which creates a sense of vulnerability and trust. |

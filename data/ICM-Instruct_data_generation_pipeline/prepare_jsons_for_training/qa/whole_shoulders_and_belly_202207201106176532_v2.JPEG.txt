@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the background of the image red? | Yes. |
+| Yes/No | Does the woman have a confident and relaxed pose? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the white logo visible in the image? | Yes. |
+| What | What is the woman wearing on her top half? | A strapless black top. |
+| What | What is the color of the woman's jeans? | Blue. |
+| How | How would you describe the woman's pose in the image? | Confident and relaxed. |
+| How | How does the red background contribute to the overall atmosphere of the image? | It adds a bold and vibrant touch, making the image visually appealing and attentiongrabbing. |

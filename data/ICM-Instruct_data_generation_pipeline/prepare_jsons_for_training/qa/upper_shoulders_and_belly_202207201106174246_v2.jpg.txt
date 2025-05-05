@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the dress midriff-baring? | Yes. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Is the woman wearing a ring on her finger? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive? | Yes. |
+| What | What type of clothing is the woman wearing? | A strapless, midriffbaring floral dress. |
+| What | What is the woman's hand doing in the image? | Her hand is on her chest. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The strapless dress and midriffbaring outfit can be perceived as provocative and contribute to the seductive atmosphere of the image. |
+| How | How does the woman's pose add to the overall atmosphere of the image? | Her pose, with her hand on her chest, adds to the seductive atmosphere of the image. |

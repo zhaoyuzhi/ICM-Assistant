@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt black? | Yes. |
+| Yes/No | Does the blouse have sleeves? | Yes. |
+| Yes/No | Is the blouse white? | Yes. |
+| Yes/No | Are the person's arms resting at their sides? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What is the color of the person's skirt? | Black. |
+| What | What is the length of the person's blouse? | Longsleeved. |
+| How | How does the black skirt and white blouse combination create a contrast? | It creates a visual contrast that draws attention to the person's legs. |
+| How | How does the black tie at the waist add an element of sophistication to the outfit? | It adds a touch of elegance and refinement to the overall look. |

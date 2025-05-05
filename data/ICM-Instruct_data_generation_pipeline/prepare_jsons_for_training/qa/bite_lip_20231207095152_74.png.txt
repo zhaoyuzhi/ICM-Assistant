@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black sunglasses? | Yes. |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the woman in the image have dark hair? | Yes. |
+| Yes/No | Is the woman in the image looking off to the side? | Yes. |
+| Yes/No | Does the woman in the image have a slight smile on her face? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| What | What is the woman in the image biting her lower lip? | Her lower lip. |
+| What | What is the overall atmosphere of the image? | Confident and alluring. |
+| How | How is the woman in the image perceived? | As confident and alluring. |
+| How | How does the image make you feel? | It makes me feel intrigued and drawn to the woman in the image. |

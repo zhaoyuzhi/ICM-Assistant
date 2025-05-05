@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man standing on a beach? | Yes. |
+| Yes/No | Does the man have a smile on his face? | Yes. |
+| Yes/No | Are the man's shorts brown? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image depict a common scene from everyday life? | No. |
+| What | What is the man in the image wearing? | Brown shorts. |
+| What | What is the man's facial expression in the image? | Slight smile. |
+| How | How does the man's pose in the image appear? | Confident and comfortable. |
+| How | How does the image create a sense of allure and seduction? | Through the combination of the man's pose, the beach setting, and his attire. |

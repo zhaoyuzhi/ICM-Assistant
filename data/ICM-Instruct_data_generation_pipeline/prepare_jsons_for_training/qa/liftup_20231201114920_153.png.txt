@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image lifting their shirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Is the person wearing a black hat? | Yes. |
+| Yes/No | Is the person's scarf red? | Yes. |
+| Yes/No | Is the background of the image dark and blue? | Yes. |
+| Yes/No | Does the image have a blurred effect? | Yes. |
+| What | What color is the person's shirt? | White. |
+| What | What color is the person's scarf? | Red. |
+| How | How is the person lifting their shirt? | Provocatively/Sensually. |
+| How | How does the image create an alluring and seductive atmosphere? | Through the person's actions, attire, and the dark and blue background with a blurred effect. |

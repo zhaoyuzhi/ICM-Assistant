@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the jeans the person is wearing ripped? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| What | What is the color of the person's jeans? | White. |
+| What | What is the location of the tear on the jeans? | Knee. |
+| How | How are the jeans fastened? | With a button fly and a button on the back waistband. |
+| How | How would you describe the overall style of the person's clothing? | Casual and relaxed. |
+| Yes/No | Is the person in the image wearing white jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the jeans ripped? | Yes. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the focus of the image? | The person's casual outfit and neutral pose. |
+| What | What is the atmosphere of the image? | Calm and relaxed. |
+| How | How are the jeans ripped? | Slightly ripped. |
+| How | How does the low exposure level of the image contribute to the overall atmosphere? | It creates a sense of modesty and lack of sexual suggestion. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white top? | Yes. |
+| Yes/No | Is the woman wearing a beige hat? | Yes. |
+| Yes/No | Is the woman looking downwards? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the woman's attire contain any explicit or suggestive content? | No. |
+| Yes/No | Are there any close-ups or revealing clothing in the image? | No. |
+| What | What is the woman possibly looking at? | Her phone or the sand beneath her feet. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| How | How is the woman's attire in the image? | Casual. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the woman's actions and the setting, rather than her body. |

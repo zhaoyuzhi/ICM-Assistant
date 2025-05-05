@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman in the image lifting her dress? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the woman's legs visible in the image? | Yes. |
+| Yes/No | Is the image sexually suggestive? | Yes. |
+| Yes/No | Does the woman have any distinguishing features or accessories? | No. |
+| What | What is the woman in the image lifting her dress with? | Her hands. |
+| What | What color is the dress the woman is wearing? | Black. |
+| How | How is the woman standing in the image? | She is standing upright, with one leg slightly bent. |
+| How | How does lifting her dress create a sense of intimacy and allure? | It creates a sense of vulnerability and exposure, drawing the viewer's attention to her legs and creating a sexualized atmosphere. |

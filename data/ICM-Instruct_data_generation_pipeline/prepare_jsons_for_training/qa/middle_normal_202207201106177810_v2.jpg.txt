@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red shirt? | Yes. |
+| Yes/No | Are the person's hands in their pockets? | Yes. |
+| Yes/No | Is the person's head tilted to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire revealing or provocative? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the color of the person's shirt? | Red. |
+| What | What is the color of the person's pants? | White. |
+| How | How is the person standing in the image? | With their hands in their pockets and their head slightly tilted to the side. |
+| What | What is the exposure level of the image? | Very low. |
+| Yes/No | Is the person in the image wearing a pair of white trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a red shirt? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| What | What color are the person's trousers? | White. |
+| What | What color is the person's shirt? | Red. |
+| How | How are the person's hands positioned in the image? | They are casually tucked into their pockets. |
+| How | How would you describe the overall atmosphere of the image? | Simple and modest. |

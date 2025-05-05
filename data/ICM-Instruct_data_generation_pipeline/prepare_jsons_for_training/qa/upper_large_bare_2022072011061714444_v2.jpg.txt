@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray bra and underwear? | Yes. |
+| Yes/No | Is the woman standing in a room with a painting in the background? | Yes. |
+| Yes/No | Does the painting depict a woman's face? | Yes. |
+| Yes/No | Is the woman's pose and attire suggestive of confidence and allure? | Yes. |
+| Yes/No | Does the image reveal a large area of the woman's upper body? | Yes. |
+| Yes/No | Does the image have an overall atmosphere of allure and sensuality? | Yes. |
+| What | What is the woman wearing in the image? | A gray bra and matching underwear. |
+| What | What is the subject of the painting in the background? | A woman's face. |
+| How | How does the woman's pose and attire contribute to the image's sensuality? | The woman's confident stance and revealing attire create a sense of allure and sensuality. |
+| How | How does the painting in the background enhance the image's overall sensuality? | The painting adds an artistic element to the scene, further enhancing the sensuality and allure of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing black underwear? | Yes. |
+| Yes/No | Is the man in the image posing for the camera? | Yes. |
+| Yes/No | Is the image taken in a private setting, such as a bedroom or boudoir? | No. |
+| How | Is the man in the image smiling or showing a seductive expression? | No. |
+| Yes/No | Is the image in black and white or color? | Color. |
+| What | What is the man in the image wearing on his lower half? | Black underwear. |
+| What | What is the man in the image posing on? | Not specified in the description. |
+| How | How is the man in the image posing for the camera? | Not specified in the description. |
+| How | How does the man in the image seem to feel about being shirtless and wearing black underwear? | Confident and comfortable. |

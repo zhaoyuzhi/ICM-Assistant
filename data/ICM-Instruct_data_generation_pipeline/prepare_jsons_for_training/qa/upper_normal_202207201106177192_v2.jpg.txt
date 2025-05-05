@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a floral blouse? | Yes. |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's pose in the image confident? | Yes. |
+| Yes/No | Does the image feature the woman's body as the main focus? | No. |
+| What | What is the woman wearing in the image? | A floral blouse and a black skirt. |
+| What | What is the woman's pose in the image? | Confident. |
+| How | How is the woman's attire in the image? | Not revealing. |
+| How | How does the low exposure level of the image affect its overall atmosphere? | It emphasizes the focus on the woman's attire and confident pose, rather than her body, and creates a nonsexy atmosphere. |

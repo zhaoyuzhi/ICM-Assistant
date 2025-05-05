@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Does the image feature a blue wall? | Yes. |
+| Yes/No | Is the person's hair styled in a bun? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| How | Does the image showcase the person's back? | Yes. |
+| What | What color is the person's bra? | White. |
+| What | What is the color of the wall in the image? | Blue. |
+| How | How is the person's hair styled? | In a bun on the back of their head. |
+| How | How does the image create an intimate atmosphere? | Through the use of a blue wall and the person's confident pose. |

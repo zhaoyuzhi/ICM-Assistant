@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a green shirt? | Yes. |
+| Yes/No | Is the person holding a toilet paper roll? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Is there a toilet visible in the background? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the person in the image wearing? | A green shirt. |
+| What | What is the person holding in their hand? | A toilet paper roll. |
+| How | How is the person positioned in the image? | Standing in front of a white wall. |
+| How | How would you describe the overall atmosphere of the image? | Casual and everyday. |

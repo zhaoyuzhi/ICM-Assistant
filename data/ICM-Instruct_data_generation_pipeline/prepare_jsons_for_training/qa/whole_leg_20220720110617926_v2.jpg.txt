@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a black blouse? | Yes. |
+| Yes/No | Are her shorts blue? | Yes. |
+| Yes/No | Is she wearing a purple purse? | Yes. |
+| Yes/No | Is she engaged in a conversation on her cell phone? | Yes. |
+| Yes/No | Does she have loose waves in her hair? | Yes. |
+| Yes/No | Is she wearing red lipstick? | Yes. |
+| What | What color is the woman's blouse? | Black. |
+| What | What color are her shorts? | Blue. |
+| How | How is the woman's hair styled? | In loose waves. |
+| What | What color is the woman's lipstick? | Red. |

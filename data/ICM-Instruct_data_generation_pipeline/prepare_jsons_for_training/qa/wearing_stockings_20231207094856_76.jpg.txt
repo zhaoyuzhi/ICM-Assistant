@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the carpeted floor beige? | Yes. |
+| Yes/No | Is the focus of the image on the person's legs and feet? | Yes. |
+| Yes/No | Are the stockings being put on? | Yes. |
+| Yes/No | Is the image in a sexy atmosphere? | Yes. |
+| Yes/No | Do stockings often create a sense of allure and sensuality? | Yes. |
+| What | What color are the stockings? | Beige. |
+| What | What is the overall atmosphere of the image? | Sexy. |
+| How | How are the stockings being put on? | The person is in the process of wearing them. |
+| How | How does the image evoke feelings? | It may evoke feelings of desire and attraction. |
+| Yes/No | Is the person in the image wearing beige stockings? | Yes. |
+| Yes/No | Is the carpeted floor beige? | Yes. |
+| Yes/No | Is the person's focus on putting on the stockings? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| What | What is the person wearing on their legs and feet? | Beige stockings. |
+| What | What is the color scheme of the image? | Beige. |
+| How | How is the person putting on the stockings? | They are in the process of putting them on. |
+| How | How does the image evoke feelings? | It evokes feelings of desire and attraction. |

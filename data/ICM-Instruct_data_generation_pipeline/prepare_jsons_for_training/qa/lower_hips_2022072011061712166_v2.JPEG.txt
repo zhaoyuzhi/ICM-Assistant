@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a blue shirt? | Yes. |
+| Yes/No | Is the person in the image standing on a set of stairs? | Yes. |
+| Yes/No | Is the person in the image holding a blue bag? | Yes. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the person holding in their hand? | A blue bag. |
+| How | How is the person standing on the stairs? | With their back facing the camera. |
+| How | How does the person's attire contribute to the image's overall atmosphere? | The blue jeans and shirt add to the casual and urban feel of the image, while the person's deliberate showing of their buttocks creates an alluring and confident atmosphere. |

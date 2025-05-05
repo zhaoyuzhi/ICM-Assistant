@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black sports bra? | Yes. |
+| Yes/No | Are they wearing gray leggings? | Yes. |
+| Yes/No | Is their left leg bent at the knee? | Yes. |
+| Yes/No | Is their back facing the camera? | Yes. |
+| Yes/No | Does the image give off a confident and athletic vibe? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the person's sports bra? | Black. |
+| What | What is the color of their leggings? | Gray. |
+| How | How is the person's leg bent? | At the knee. |
+| How | How does the person's back facing the camera contribute to the overall atmosphere of the image? | It creates a sense of mystery and allure. |

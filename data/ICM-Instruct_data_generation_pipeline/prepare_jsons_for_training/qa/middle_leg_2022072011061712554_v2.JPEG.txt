@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the skirt pink? | Yes. |
+| Yes/No | Does the person have her hands tucked into her pockets? | Yes. |
+| Yes/No | Is the blouse cropped at the waist? | Yes. |
+| Yes/No | Is the skirt high-waisted? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and style? | Yes. |
+| What | What is the color of the belt? | Pink. |
+| What | What is the pattern on the blouse? | Small circles. |
+| How | How is the person's body positioned in the image? | Turned slightly to the side. |
+| How | How does the pink color of the skirt and belt contrast with the white blouse? | It creates a vibrant and playful contrast. |

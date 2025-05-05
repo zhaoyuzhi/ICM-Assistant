@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sheet mask? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the brush being used to apply the mask? | Yes. |
+| Yes/No | Is the image sexually suggestive? | No. |
+| Yes/No | Are the woman's actions or attire revealing or suggestive? | No. |
+| Yes/No | Is the overall atmosphere of the image neutral and non-sexual? | Yes. |
+| What | What is the woman applying on her face? | A sheet mask. |
+| What | What is the woman wearing? | A white shirt. |
+| How | How is the mask being applied? | With a brush. |
+| What | What is the exposure level of the image? | Very low. |

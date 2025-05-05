@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image topless? | Yes. |
+| Yes/No | Is the man lifting a barbell? | Yes. |
+| Yes/No | Is the barbell black and silver? | Yes. |
+| Yes/No | Is the man using his left hand to hold the barbell? | Yes. |
+| Yes/No | Does the image feature a blue wall in the background? | Yes. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| What | What is the man lifting in the image? | A barbell. |
+| What | What color is the wall in the background of the image? | Blue. |
+| How | How is the man holding the barbell? | With his right arm. |
+| How | How does the image create a sense of allure and attraction? | By showcasing the man's muscular physique and the act of lifting weights, which are often associated with strength and power, and by exposing his chest and upper body, highlighting his welldefined muscles. The blue wall in the background provides a contrasting color that further accentuates the man's physique. |

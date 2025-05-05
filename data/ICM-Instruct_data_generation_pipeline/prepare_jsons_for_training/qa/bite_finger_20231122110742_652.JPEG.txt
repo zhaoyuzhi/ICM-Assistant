@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman wearing pink lipstick? | Yes. |
+| Yes/No | Does the woman have her eyes closed? | Yes. |
+| Yes/No | Is the woman's mouth slightly open? | Yes. |
+| Yes/No | Is the man's hand holding the woman's chin? | Yes. |
+| Yes/No | Are the man's fingers inside the woman's mouth? | Yes. |
+| What | What is the atmosphere of the image? | Intimate and sensual. |
+| What | What is the woman's facial expression? | Looking upwards with eyes closed and mouth slightly open. |
+| How | How is the woman's mouth slightly open? | Slightly open as if she is about to kiss someone. |
+| How | How are the man's fingers inside the woman's mouth? | Gently inserted between her lips as if he is about to kiss her. |

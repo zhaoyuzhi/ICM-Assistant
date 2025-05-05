@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the woman's hair long? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Is the woman biting her lower lip? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's expression confident and self-assured? | Yes. |
+| What | What is the color of the woman's hair? | Brown. |
+| What | What is the woman wearing? | A white top. |
+| How | How is the woman biting her lip? | Slightly parted and biting her lower lip. |
+| What | What does the woman's pose and expression suggest? | Confidence and selfassurance. |

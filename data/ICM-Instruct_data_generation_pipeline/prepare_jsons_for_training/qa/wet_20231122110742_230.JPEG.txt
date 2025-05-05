@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the person in the image wearing a red tie? | Yes. |
+| Yes/No | Are the person's clothes wet? | Yes. |
+| Yes/No | Is the person's hair wet? | Yes. |
+| Yes/No | Does the image have a mysterious and intriguing atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy feel? | Yes. |
+| What | What color is the person's blouse? | White. |
+| What | What color is the person's tie? | Red. |
+| How | How are the person's clothes wet? | Possibly due to rain or some other form of water exposure. |
+| How | How does the image create a sense of vulnerability or intimacy? | Through the person's attire and the overall atmosphere, which suggests a sense of exposure and vulnerability. |

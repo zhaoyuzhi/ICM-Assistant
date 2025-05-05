@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the woman walking on a path in a park? | Yes. |
+| Yes/No | Is the image focused on the woman's upper body and face? | Yes. |
+| Yes/No | Does the image contain any provocative or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image calm and peaceful? | Yes. |
+| What | What color is the text on the woman's t-shirt? | Green. |
+| What | What color is the woman's skirt? | Olive green. |
+| How | How is the woman's hair styled in the image? | Pulled back into a ponytail. |
+| How | How would you describe the exposure level of the image? | Low. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the people in the image kissing? | Yes. |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Is the woman wearing a white jacket? | Yes. |
+| Yes/No | Are the man's hands on the woman's chest? | Yes. |
+| Yes/No | Is the background of the image a cityscape? | Yes. |
+| What | What is the gender of the people in the image? | The people in the image are a man and a woman. |
+| What | What is the color of the woman's jacket? | The woman's jacket is white. |
+| How | How are the man's hands positioned in the image? | The man's hands are on the woman's chest. |
+| How | How would you describe the atmosphere of the image? | The atmosphere of the image is urban, sophisticated, and sensual. |

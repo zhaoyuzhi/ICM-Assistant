@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Is the building in the background gray? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Does the woman have loose waves in her hair? | Yes. |
+| Yes/No | Is the woman wearing a white top with a blue pattern? | Yes. |
+| Yes/No | Are the woman's pants blue? | Yes. |
+| What | What color is the woman's top? | White with a blue pattern. |
+| What | What is the color of the pants the woman is wearing? | Blue. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How does the woman's pose contribute to the atmosphere of the image? | It adds to the seductive vibe of the image. |

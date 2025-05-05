@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman lying on her back? | No. |
+| Yes/No | Are her legs bent at the knees? | Yes. |
+| Yes/No | Is her hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the bikini top tied at the back? | Yes. |
+| What | What is the woman's attire in the image? | A black bikini. |
+| What | What is the woman's hairstyle in the image? | A ponytail. |
+| How | How is the woman positioned on the beach? | She is lying on her stomach with her legs bent at the knees. |
+| How | How does the image capture the woman's relaxation and enjoyment? | The image captures a moment of relaxation and enjoyment on the beach, with the woman lying down and her hair pulled back, creating a sense of casualness and comfort. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman wearing a black tank top? | Yes. |
+| Yes/No | Is the woman sticking out her tongue? | Yes. |
+| Yes/No | Does the woman have a confident facial expression? | Yes. |
+| Yes/No | Does the image exude a sense of allure? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the woman's hair color? | Blonde. |
+| What | What is the woman wearing? | A black tank top. |
+| How | How is the woman's tongue positioned in the image? | Sticking out. |
+| How | How would you describe the woman's overall expression in the image? | Confident and inviting. |

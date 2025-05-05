@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image set against a red background? | Yes. |
+| Yes/No | Are both women wearing sneakers? | Yes. |
+| Yes/No | Is the woman on the left wearing a black leather jacket? | Yes. |
+| Yes/No | Is the woman on the right wearing a pink dress? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the image appropriate for a low-exposure image? | Yes. |
+| What | What is the woman on the left wearing? | Black leather jacket and black pants. |
+| What | What is the woman on the right wearing? | Pink dress. |
+| How | How are the women positioned in the image? | They are sitting on a red rock formation. |
+| How | How would you describe the overall atmosphere of the image? | Lowexposure, focusing on the women's attire and the rock formation, not sexy. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue dress? | Yes. |
+| Yes/No | Are there flowers in the vase? | Yes. |
+| Yes/No | Is the woman standing in front of the vase? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the woman's attire revealing or inappropriate? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the woman's dress? | Blue. |
+| What | What is the color of the vase? | White. |
+| How | How many flowers are in the vase? | Several. |
+| How | How would you describe the overall atmosphere of the image? | Calm and serene. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image standing on an exercise ball? | Yes. |
+| Yes/No | Is the woman wearing a black sports bra and black shorts? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the woman looking down at the exercise ball? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's body exposed in the image? | Yes. |
+| What | What is the woman standing on in the image? | An exercise ball. |
+| What | What is the color of the woman's sports bra and shorts? | Black. |
+| How | How is the woman standing on the exercise ball? | She is standing with her feet on the ball and her body balanced on it. |
+| How | How does the plain white background affect the image? | It puts the focus on the woman and the exercise ball, making the image more visually appealing. |

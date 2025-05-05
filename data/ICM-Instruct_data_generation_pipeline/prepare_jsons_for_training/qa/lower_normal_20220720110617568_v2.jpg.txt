@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the person's clothes beige and gray? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image depict any provocative or suggestive elements? | No. |
+| Yes/No | Is the person's attire simple and modest? | Yes. |
+| What | What is the person wearing in the image? | A beige sweater and gray pants. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| How | How is the person standing in the image? | Not specified. |
+| How | How does the image focus on the person's outfit? | By highlighting it as the main element of the image, rather than their body or appearance. |

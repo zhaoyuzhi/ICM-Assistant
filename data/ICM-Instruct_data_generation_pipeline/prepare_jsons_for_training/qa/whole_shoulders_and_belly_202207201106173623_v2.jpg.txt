@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black strapless top? | Yes. |
+| Yes/No | Are the woman's jeans blue? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Is the woman posing with her left hand on her hip? | Yes. |
+| Yes/No | Is the woman's right hand resting on her thigh? | Yes. |
+| Yes/No | Does the image create a sense of confidence and allure? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman's hair style? | Loose waves. |
+| How | How is the woman posing in the image? | With her left hand on her hip and her right hand on her thigh. |
+| What | What atmosphere does the image create? | A sexy and alluring atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked from their thighs to their ankles? | Yes. |
+| Yes/No | Is the person wearing a pair of white shorts? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Are the shorts made of a lightweight fabric? | Yes. |
+| Yes/No | Is the person wearing a pair of brown sandals? | Yes. |
+| Yes/No | Do the sandals have a thick sole and a thin strap around the ankle? | Yes. |
+| What | What is the color of the shorts? | White. |
+| What | What is the material of the sandals? | Brown. |
+| How | How are the shorts styled? | They are cropped at the knee and have a frayed hem. |
+| How | How are the sandals styled? | They have a thick sole and a thin strap around the ankle, providing both support and style. |

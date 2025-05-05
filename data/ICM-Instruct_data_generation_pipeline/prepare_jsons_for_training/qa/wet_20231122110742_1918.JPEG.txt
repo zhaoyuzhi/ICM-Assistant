@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white blouse? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the person's clothes soaked with water? | Yes. |
+| Yes/No | Is the overall atmosphere of the image intimate? | Yes. |
+| Yes/No | Does the image create a sense of vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person wearing in the image? | A white blouse with a collar. |
+| What | What is the state of the person's clothes in the image? | Soaked and dripping water. |
+| How | How does the lack of visible facial features contribute to the image? | It adds an element of mystery. |
+| How | How does the dripping water on the person's neck and chest add to the atmosphere? | It creates a sense of intimacy and makes the viewer feel like they are part of the scene. |

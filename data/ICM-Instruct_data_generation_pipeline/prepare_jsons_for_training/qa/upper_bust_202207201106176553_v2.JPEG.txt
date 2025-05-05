@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image taking a selfie? | Yes. |
+| Yes/No | Is the woman wearing a white turtleneck? | Yes. |
+| Yes/No | Are her black pants visible in the image? | Yes. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Is the woman holding her phone in her right hand? | Yes. |
+| Yes/No | Is her left hand on her hip? | Yes. |
+| What | What is the woman's breast exposed? | It is not explicitly stated in the description, but based on the statement that the image is sexy because the woman is showing off her breast, it can be inferred that her breast is partially exposed. |
+| What | What is the atmosphere of the image? | The atmosphere of the image is seductive and alluring. |
+| How | How is the woman looking at her phone? | She is looking down at her phone. |
+| How | How is the woman's pose in the image? | She is standing with her left hand on her hip and her right hand holding her phone. |

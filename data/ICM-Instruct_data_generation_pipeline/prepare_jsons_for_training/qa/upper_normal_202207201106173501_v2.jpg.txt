@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white jacket? | Yes. |
+| Yes/No | Does the woman have a black purse? | Yes. |
+| Yes/No | Is the woman's hair styled in a short bob? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| Yes/No | Is the woman's pose or attire suggestive or provocative? | No. |
+| What | What color is the woman's jacket? | White. |
+| What | What is the woman's hairstyle? | Short bob. |
+| How | How is the woman's pose in the image? | Not suggestive or provocative. |
+| How | How does the low exposure level affect the image? | It reduces the visual appeal of the image and emphasizes the woman's appearance and surroundings rather than her body language or clothing. |

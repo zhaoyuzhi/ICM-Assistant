@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing stockings? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person's legs crossed at the knees? | Yes. |
+| Yes/No | Is the person's feet pointed towards the ground? | Yes. |
+| Yes/No | Does the image feature a garter belt? | Yes. |
+| Yes/No | Is the stockings lacy? | Yes. |
+| What | What type of material are the stockings made of? | Shiny material. |
+| What | What is the person wearing around their waist to hold up the stockings? | Garter belt. |
+| How | How are the person's legs positioned in the image? | Crossed at the knees. |
+| How | How are the person's feet positioned in the image? | Pointed towards the ground. |

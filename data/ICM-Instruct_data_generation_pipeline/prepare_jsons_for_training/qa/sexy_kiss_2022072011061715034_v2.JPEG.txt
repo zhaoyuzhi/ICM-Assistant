@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the people in the image kissing? | Yes. |
+| Yes/No | Is the woman in the middle wearing a black dress? | Yes. |
+| Yes/No | Are the two men wearing tank tops? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image depict a passionate and intense atmosphere? | Yes. |
+| What | What is the gender of the people in the image? | Two men and one woman. |
+| What | What is the color of the dress worn by the woman in the image? | Black. |
+| How | How many people are depicted in the image? | Three. |
+| How | How are the people in the image positioned in relation to each other? | The two men are on either side of the woman, who is in the middle. |

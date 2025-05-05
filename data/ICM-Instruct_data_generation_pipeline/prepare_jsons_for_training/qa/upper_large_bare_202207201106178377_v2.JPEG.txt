@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Is the woman in the image leaning against a mirror? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Are the woman's pose and gaze directed towards the camera confident? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A sheer bra. |
+| What | What is the woman in the image wearing on her lower body? | Matching underwear. |
+| How | How is the woman in the image leaning against the mirror? | With her left hand on her hip and her right hand on her thigh. |
+| How | How does the woman in the image look directly at the camera? | With a slight smile on her face. |

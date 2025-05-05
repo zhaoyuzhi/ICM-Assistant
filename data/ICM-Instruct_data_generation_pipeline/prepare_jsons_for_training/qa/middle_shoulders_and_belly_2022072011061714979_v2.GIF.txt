@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| How | Does the image showcase the person's body in a vulnerable way? | Yes. |
+| Yes/No | Is the silver belly button the main focus of the image? | Yes. |
+| Yes/No | Are the jeans slightly torn at the bottom? | Yes. |
+| Yes/No | Does the image have a confident and alluring atmosphere? | Yes. |
+| What | What color are the jeans worn by the person in the image? | Blue. |
+| What | What is the material of the belly button in the image? | Silver. |
+| How | How does the image make the person's body look? | Vulnerable and intimate. |
+| How | How does the image make the person feel? | Confident and alluring. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image focused on the person's belly? | Yes. |
+| Yes/No | Does the image suggest a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| What | What is the person wearing in the image? | Blue jeans. |
+| What | What is the main focus of the image? | The person's belly. |
+| How | How does the image suggest a casual and relaxed atmosphere? | Through the lack of other objects or people, and the person's relaxed posture. |
+| How | How does the blue jeans contribute to the overall sexy vibe of the image? | They are a common and universally recognized fashion item, and their presence adds a sense of familiarity and comfort to the image. |

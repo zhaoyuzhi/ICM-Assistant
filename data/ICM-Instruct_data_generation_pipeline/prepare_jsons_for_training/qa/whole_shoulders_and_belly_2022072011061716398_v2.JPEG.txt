@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a plaid shirt? | Yes. |
+| Yes/No | Is the woman in the image lying on her stomach? | Yes. |
+| Yes/No | Does the woman in the image have a slight smile on her face? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the woman in the image have loose waves in her hair? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's shirt? | Plaid. |
+| What | What is the woman's hair style? | Loose waves. |
+| How | How is the woman posing on the tennis court? | Lying on her stomach. |
+| How | How does the woman's expression contribute to the overall feel of the image? | Her expression creates an atmosphere of casual allure and confidence. |

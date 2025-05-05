@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Are the high heels the person is wearing pink? | Yes. |
+| Yes/No | Is the person's pose in the image seductive? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| Yes/No | Does the combination of the shorts and heels create a sense of confidence and allure? | Yes. |
+| What | What color are the high heels the person is wearing? | Pink. |
+| What | What type of clothing is the person wearing? | Blue denim shorts and high heels. |
+| How | How does the person's pose add to the seductive nature of the image? | The person's pose, with their hands on their hips, adds to the seductive nature of the image by emphasizing their curves and confidence. |
+| How | How does the combination of the shorts and heels create a sense of confidence and allure? | The combination of the shorts and heels creates a sense of confidence and allure by showcasing the person's legs and body in a flattering way, while also adding a touch of femininity and glamour with the high heels. |

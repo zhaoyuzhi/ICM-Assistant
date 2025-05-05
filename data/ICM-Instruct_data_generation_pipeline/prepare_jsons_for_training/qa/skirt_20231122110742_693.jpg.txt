@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the woman exposing her thighs in the image? | Yes. |
+| Yes/No | Does the image take place in a living room? | Yes. |
+| Yes/No | Is there a red wall in the background of the image? | Yes. |
+| Yes/No | Are there white curtains in the image? | Yes. |
+| Yes/No | Does the woman have a confident pose in the image? | Yes. |
+| What | What color is the woman's dress in the image? | Black. |
+| What | What is the color of the wall in the background of the image? | Red. |
+| How | How is the woman's pose in the image? | Confident. |
+| How | How does the woman's actions and attire in the image evoke a sense of allure and sensuality? | The woman's actions and attire in the image evoke a sense of allure and sensuality because she is lifting her dress, revealing her thighs, and posing confidently, creating a sexy and intriguing scene. |

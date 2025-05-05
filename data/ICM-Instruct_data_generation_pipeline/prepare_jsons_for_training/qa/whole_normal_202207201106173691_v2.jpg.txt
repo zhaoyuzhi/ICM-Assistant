@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black coat? | Yes. |
+| Yes/No | Does the man have glasses? | Yes. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| Yes/No | Does the image contain explicit or suggestive elements? | No. |
+| Yes/No | Is the man standing in a formal or professional setting? | Yes. |
+| What | What color is the man's shirt? | Blue. |
+| What | What is the color of the buttons on the man's coat? | White. |
+| How | How is the man's attire in the image? | Formal/professional. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, formal/professional. |

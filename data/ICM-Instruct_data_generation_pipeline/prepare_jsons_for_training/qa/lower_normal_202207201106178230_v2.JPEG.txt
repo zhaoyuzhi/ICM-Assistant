@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a watch? | Yes. |
+| Yes/No | Is the person's attire revealing or suggestive? | No. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image contain any provocative or suggestive elements? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Is the overall atmosphere of the image neutral? | Yes. |
+| What | What is the person in the image wearing on their wrist? | A watch. |
+| What | What is the color of the person's pants and shirt? | Black. |
+| How | How is the person standing in the image? | Against a white background. |
+| What | What is the level of exposure of the person's body in the image? | Low. |

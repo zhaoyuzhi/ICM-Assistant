@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | Yes. |
+| Yes/No | Are the women in the image wearing red dresses? | Yes. |
+| Yes/No | Is the image taken outdoors? | Yes. |
+| Yes/No | Are the women in the image dancing? | Yes. |
+| Yes/No | Is the image explicit or suggestive? | No. |
+| Yes/No | Does the image feature a backdrop of a lake and trees? | Yes. |
+| What | What are the women in the image wearing? | Red dresses. |
+| What | What is the atmosphere of the image? | Cheerful and lighthearted. |
+| How | How are the women positioned in the image? | They are standing in front of a backdrop of a lake and trees. |
+| How | How does the image convey a sense of motion? | The woman in the center is slightly blurred, suggesting she might be in motion. |

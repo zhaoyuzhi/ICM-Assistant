@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Is the person's back facing the camera? | Yes. |
+| Yes/No | Does the person have a gold bracelet on their left wrist? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's dress? | Black. |
+| What | What is the person wearing on their left wrist? | A gold bracelet. |
+| How | How is the person moving in the image? | They are walking away from the camera. |
+| How | How would you describe the person's stride in the image? | Confident and relaxed. |

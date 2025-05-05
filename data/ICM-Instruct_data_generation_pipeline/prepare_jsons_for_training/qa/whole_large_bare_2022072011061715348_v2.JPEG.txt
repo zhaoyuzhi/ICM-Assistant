@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the woman wearing a bikini top? | Yes. |
+| Yes/No | Is the woman wearing a skirt? | Yes. |
+| Yes/No | Is the woman holding a gun? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's left thigh exposed? | Yes. |
+| What | What is the woman wearing on her feet? | Kneehigh boots. |
+| What | What is the color of the woman's bikini top? | Black. |
+| How | How is the woman holding the gun? | In her right hand. |
+| What | What is the overall atmosphere of the image? | Seductive and intriguing. |

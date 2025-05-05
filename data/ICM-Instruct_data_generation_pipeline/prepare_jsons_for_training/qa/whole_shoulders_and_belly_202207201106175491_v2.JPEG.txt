@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are the jeans she is wearing ripped? | Yes. |
+| Yes/No | Is she standing with her arms crossed? | Yes. |
+| Yes/No | Is she wearing sunglasses? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Are the outfits trendy? | Yes. |
+| What | What type of top is the woman wearing? | Strapless. |
+| What | What type of pants is the woman wearing? | Ripped jeans. |
+| How | How is the woman standing in the image? | With her arms crossed. |
+| How | How does the woman's pose contribute to the overall allure of the image? | It adds a confident and assertive vibe. |

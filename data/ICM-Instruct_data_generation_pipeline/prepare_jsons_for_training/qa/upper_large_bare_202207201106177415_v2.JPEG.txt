@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing a jacket? | Yes. |
+| Yes/No | Is the woman in the image wearing a scarf? | Yes. |
+| Yes/No | Is the woman in the image posing for the camera? | Yes. |
+| Yes/No | Does the woman in the image have a ponytail? | Yes. |
+| Yes/No | Is the woman in the image wearing a headband? | Yes. |
+| What | What color is the bikini top? | Yellow and orange. |
+| What | What is the color of the jacket? | Blue and white. |
+| How | How is the woman's hair styled? | In a ponytail. |
+| What | What is the woman's pose in the image? | Peace sign on her hand. |

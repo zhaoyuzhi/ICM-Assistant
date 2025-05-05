@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young man? | Yes. |
+| Yes/No | Is the person lifting their shirt and jacket? | Yes. |
+| Yes/No | Are the pants white? | Yes. |
+| Yes/No | Is the jacket black with white stripes? | Yes. |
+| Yes/No | Is the shirt being lifted black with white stripes? | Yes. |
+| Yes/No | Does the image have an energetic atmosphere? | Yes. |
+| What | What color are the pants? | White. |
+| What | What color is the jacket? | Black with white stripes. |
+| How | How many stripes are on the jacket? | Not specified in the description. |
+| How | How is the shirt being lifted? | Not specified in the description. |

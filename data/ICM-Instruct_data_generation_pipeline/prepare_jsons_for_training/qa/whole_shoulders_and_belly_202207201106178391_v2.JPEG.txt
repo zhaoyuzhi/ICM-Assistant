@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the dress made of a sheer fabric? | Yes. |
+| Yes/No | Is the woman holding a small purse in her hand? | Yes. |
+| Yes/No | Is the purse white? | Yes. |
+| Yes/No | Is the woman standing in a bathroom? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and poise? | Yes. |
+| What | What is the primary color of the dress? | White. |
+| What | What is the material of the purse's chain strap? | Gold. |
+| How | How does the woman's posture and purse-holding contribute to the image's overall mood? | Confidently and seductively. |
+| How | How does the background contribute to the image's atmosphere? | Luxuriously and sophisticatedly. |

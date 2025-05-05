@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the couple in the image kissing? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Is the woman's arms wrapped around the man's neck? | Yes. |
+| Yes/No | Are the man's hands on the woman's waist? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and passionate? | Yes. |
+| Yes/No | Does the image depict a tender embrace? | Yes. |
+| What | What is the color of the man's suit? | Gray. |
+| What | What is the color of the woman's suit? | Black. |
+| How | How are the man's hands positioned on the woman's body? | On her waist. |
+| How | How does the woman have her arms wrapped around the man? | Around his neck. |

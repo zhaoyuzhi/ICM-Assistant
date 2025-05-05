@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jean shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the person's attire revealing or provocative? | No. |
+| Yes/No | Does the image focus on the person's casual attire and the surrounding environment? | Yes. |
+| What | What is the person in the image wearing? | A pair of blue jean shorts and a white tshirt. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| How | How is the person standing on the concrete ledge? | The person is standing casually on the ledge, with their feet shoulderwidth apart. |
+| How | How does the image portray the person's attire? | The image portrays the person's attire as casual and comfortable, with a focus on the person's jean shorts and tshirt. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image dressed in black? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Are the person's clothes provocative or suggestive? | No. |
+| Yes/No | Is the atmosphere of the image calm and neutral? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual context? | No. |
+| Yes/No | Are the person's clothes casual? | Yes. |
+| What | What is the person wearing on their feet? | White sneakers. |
+| What | What is the color of the person's sweatshirt and sweatpants? | Black. |
+| How | How is the person standing in the image? | Not specified. |
+| How | How does the white background contribute to the atmosphere of the image? | It adds to the neutral and calm atmosphere. |

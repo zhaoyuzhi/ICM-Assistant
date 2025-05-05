@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a maid outfit? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person's attire in the image primarily black? | Yes. |
+| Yes/No | Does the image feature any additional objects or accessories other than the person and the bed? | No. |
+| What | What is the primary color of the person's attire in the image? | Black. |
+| What | What is the person's footwear in the image? | Black fishnet stockings. |
+| How | How are the person's legs positioned in the image? | Crossed and resting on the bed. |
+| How | How does the overall atmosphere of the image contribute to its sexy nature? | The combination of the person's attire, the crossed legs, and the intimate setting create a seductive and inviting atmosphere. |

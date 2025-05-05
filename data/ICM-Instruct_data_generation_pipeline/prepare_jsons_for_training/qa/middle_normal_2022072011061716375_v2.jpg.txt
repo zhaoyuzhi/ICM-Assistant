@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of navy blue trousers? | Yes. |
+| Yes/No | Is the man in the image wearing a striped shirt? | Yes. |
+| Yes/No | Does the man in the image have his hands in his pockets? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the man in the image have a relaxed and non-threatening demeanor? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| What | What is the color of the man's trousers in the image? | Navy blue. |
+| What | What is the pattern of the man's shirt in the image? | Striped. |
+| How | How is the man standing in the image? | Casually, with his hands in his pockets. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonthreatening. |
+| Yes/No | Is the man in the image wearing a pair of navy blue trousers? | Yes. |
+| Yes/No | Is the man in the image wearing a striped shirt? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the man's posture relaxed and comfortable? | Yes. |
+| Yes/No | Does the image contain any content that could be considered inappropriate or offensive? | No. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the color of the man's trousers? | Navy blue. |
+| What | What is the man's posture in the image? | Casually dressed, relaxed and comfortable. |
+| How | How much of the man's body is visible in the image? | A small portion. |
+| How | How does the low exposure level contribute to the image's nature? | It limits the viewer's ability to focus on any potentially suggestive elements, making the image innocuous. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing lipstick? | Yes. |
+| Yes/No | Is the person's facial expression visible in the image? | No. |
+| Yes/No | Is the person licking their finger in the image? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Does the image feature any other body parts besides the person's face and hand? | No. |
+| Yes/No | Is the image blurry or out of focus? | No. |
+| What | What is the dominant color in the image? | Red. |
+| What | What is the person in the image doing with their finger? | Licking. |
+| How | How is the person's left hand positioned in the image? | The person's left hand is in the foreground, with their finger extended and being licked. |
+| How | How would you describe the mood or atmosphere of the image? | Seductive, intimate, and alluring. |

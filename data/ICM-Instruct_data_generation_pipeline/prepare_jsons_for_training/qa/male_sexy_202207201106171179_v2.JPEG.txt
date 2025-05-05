@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the background of the image gray? | Yes. |
+| Yes/No | Does the image feature any text or other objects? | No. |
+| What | What is the man's pose in the image? | He has his arms crossed. |
+| What | What color is the background of the image? | Gray. |
+| How | How does the man's pose contribute to the sexy atmosphere of the image? | His arms crossed accentuates his muscles, making him appear confident and selfassured. |
+| How | How does the absence of clothing in the image contribute to its sexiness? | The absence of clothing creates a sense of intimacy and allure, which are associated with sexy images. |

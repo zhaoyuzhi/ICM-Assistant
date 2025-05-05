@@ -1,0 +1,19 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's actions in the image suggestive of intimacy? | Yes. |
+| Yes/No | Is the image considered sexy due to the person's attire? | Yes. |
+| Yes/No | Does the image depict the person putting on black stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Are black heels worn by the person in the image? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person in the image wearing? | Black dress and black heels. |
+| How | How does the person's attire contribute to the sexy atmosphere of the image? | The person's attire, including the black dress and black heels, is typically associated with sensuality and provocation, adding to the overall sexy atmosphere of the image. |
+| How | How does the person's actions in the image contribute to the sexy atmosphere? | The person's actions, such as putting on stockings, are suggestive of intimacy and add to the sexy atmosphere of the image. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's actions suggestive of intimacy? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person in the image wearing on their feet? | Black heels. |
+| How | How is the person's attire contributing to the sexy atmosphere of the image? | The black dress and heels are considered seductive and provocative, enhancing the person's sensuality and allure. |
+| How | How does the image create a sense of intimacy? | The person's actions and attire suggest a sense of intimacy and allure, creating a sexy atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a pink shirt? | Yes. |
+| Yes/No | Is the woman wearing a black skirt? | Yes. |
+| Yes/No | Is the skirt short? | Yes. |
+| Yes/No | Is the woman wearing a black belt? | Yes. |
+| Yes/No | Is the background of the image a white wall and a window? | Yes. |
+| What | What is the woman's pose in the image? | Confident and looking directly at the camera. |
+| What | What is the color of the woman's shirt? | Pink. |
+| How | How does the woman's attire and pose suggest her personality? | Confident and selfassured. |
+| How | How does the image create a sexy atmosphere? | The short skirt, the woman's direct gaze, and the simple background create a sense of allure and invite the viewer to engage with her. |

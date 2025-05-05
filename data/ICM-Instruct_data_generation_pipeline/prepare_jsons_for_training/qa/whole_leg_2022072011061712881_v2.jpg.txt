@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image colorful? | Yes. |
+| Yes/No | Are the women smiling? | No. |
+| Yes/No | Is the background blurred? | No. |
+| Yes/No | Are the women wearing the same outfit? | No. |
+| Yes/No | Is the image taken indoors? | No. |
+| Yes/No | Are the women standing in a natural environment? | Yes. |
+| What | What is the main color of the woman on the left's skirt? | Black. |
+| What | What is the main color of the woman on the right's skirt? | Silver. |
+| How | How are the women standing in the image? | With their legs slightly apart and their hands on their hips. |
+| How | How does the tropical setting in the background enhance the image's appeal? | It adds an exotic and sensual atmosphere, enhancing the overall allure of the image. |

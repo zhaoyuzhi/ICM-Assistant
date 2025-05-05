@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are the woman's thighs exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing black high heels? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Is the woman's pose in the image suggestive? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the woman wearing in the image? | A black dress and black high heels. |
+| What | What is the woman's pose in the image? | She is posing with her thighs exposed. |
+| How | How does the woman's attire contribute to the image's atmosphere? | The lowcut dress and black high heels create a sense of allure and confidence. |
+| How | How does the woman's pose contribute to the image's atmosphere? | Her pose, with her thighs exposed, adds to the overall seductive atmosphere of the image. |

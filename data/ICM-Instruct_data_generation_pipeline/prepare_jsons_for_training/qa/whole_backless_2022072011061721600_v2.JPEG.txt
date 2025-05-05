@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image facing the camera? | No. |
+| Yes/No | Is the woman wearing a swimsuit? | Yes. |
+| Yes/No | Is the swimsuit yellow? | Yes. |
+| Yes/No | Are the woman's legs crossed? | Yes. |
+| Yes/No | Is the atmosphere of the image relaxed and casual? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the woman's swimsuit? | Yellow. |
+| What | What is the woman's posture in the image? | Crosslegged. |
+| How | How is the woman's back exposed in the image? | The woman's back is exposed due to the design of her swimsuit. |
+| What | What does the large area of the woman's back exposed in the image suggest about her confidence? | It suggests that she is confident and alluring. |

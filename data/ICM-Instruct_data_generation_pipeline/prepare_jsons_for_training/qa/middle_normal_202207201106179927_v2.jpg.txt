@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the man in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image feature any intimate details or nudity? | No. |
+| Yes/No | Is the man's expression in the image neutral? | Yes. |
+| Yes/No | Does the image have a tropical theme? | Yes. |
+| Yes/No | Is the image revealing any skin? | No. |
+| What | What color are the man's shorts? | Blue and green. |
+| What | What pattern is on the man's shorts? | Tropical leaf pattern. |
+| How | How is the man's expression in the image? | Neutral. |
+| How | How does the image focus on the man's attire and the beach setting? | The image highlights the man's shorts and tshirt, and the beach setting is visible in the background. |
+| Yes/No | Is the man in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a t-shirt? | Yes. |
+| Yes/No | Does the man in the image have a neutral expression? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the man in the image wearing on his feet? | Nothing (he is barefoot). |
+| What | What is the color of the background in the tropical print on the man's shorts? | Blue. |
+| How | How is the man's attire in the image? | Casual and relaxed. |
+| How | How does the low exposure level of the image suggest the intention of the photographer? | The low exposure level suggests that the photographer did not intend to create a sexy or provocative image, but rather to capture a casual moment in a tropical setting. |

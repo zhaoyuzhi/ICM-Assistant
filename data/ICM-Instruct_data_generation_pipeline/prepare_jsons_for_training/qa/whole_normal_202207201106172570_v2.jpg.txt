@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a safety vest? | Yes. |
+| Yes/No | Is the woman holding a broom in the image? | Yes. |
+| Yes/No | Is the image overexposed? | No. |
+| Yes/No | Is the woman in a relaxed position? | Yes. |
+| Yes/No | Does the image have a sexy or seductive atmosphere? | No. |
+| Yes/No | Does the image contain any elements that suggest a romantic or sensual context? | No. |
+| What | What is the woman holding in her hand? | A broom. |
+| What | What color is the woman's safety vest and hat? | Bright orange. |
+| How | How is the woman positioned in the image? | She is sitting on the ground with her head resting on her hand. |
+| How | How does the low exposure level of the image affect the overall atmosphere? | It creates a more practical and functional atmosphere, rather than a sexy or seductive one. |

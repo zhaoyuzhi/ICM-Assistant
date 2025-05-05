@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bikini? | Yes. |
+| Yes/No | Is the person's lower body exposed in the image? | Yes. |
+| Yes/No | Are the person's feet bare in the image? | Yes. |
+| Yes/No | Is the beach setting sunny? | No. |
+| Yes/No | Is the person's expression joyful? | Yes. |
+| Yes/No | Does the image suggest a sense of relaxation? | Yes. |
+| What | What is the person in the image wearing? | A bikini. |
+| What | What is the surface of the beach like in the image? | Sandy. |
+| How | How is the person's lower body exposed in the image? | The person is wearing a bikini. |
+| How | How does the beach setting evoke feelings? | The beach setting evokes feelings of freedom and enjoyment. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting in a bathtub? | Yes. |
+| Yes/No | Is the person wearing a white shirt and a pink and white striped skirt? | Yes. |
+| Yes/No | Is the person holding a green bottle of alcohol? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person in a vulnerable and intimate setting? | Yes. |
+| What | What is the person holding in their hand? | A green bottle of Jagermeister. |
+| What | What is the person wearing? | A white shirt and a pink and white striped skirt. |
+| How | How is the person's atmosphere in the image? | The person's atmosphere in the image is sexy and alluring. |
+| How | How does the presence of the alcohol bottle suggest the person's state of mind? | The presence of the alcohol bottle suggests that the person might be relaxed and enjoying a moment of indulgence. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the image feature a button fly? | Yes. |
+| Yes/No | Are the jeans slightly frayed at the bottom? | Yes. |
+| Yes/No | Is the person's belly exposed? | Yes. |
+| Yes/No | Is the person wearing a black top? | Yes. |
+| Yes/No | Does the image have a casual and sexy atmosphere? | Yes. |
+| What | What color are the jeans? | Blue. |
+| What | What is the color of the person's top? | Black. |
+| How | How does the exposed belly add to the image's allure? | It adds an element of intrigue and intimacy to the person's appearance, making the image sexier. |
+| How | How does the contrast between the blue jeans and black top contribute to the image's visual appeal? | The contrast creates a visually appealing visual contrast that draws attention to the person's body, making the image more stylish and alluring. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the person wearing a black top in the image? | Yes. |
+| Yes/No | Are the jeans a medium wash? | Yes. |
+| Yes/No | Does the person have their hands in their pockets? | Yes. |
+| Yes/No | Is the overall atmosphere of the image relaxed and confident? | Yes. |
+| What | What color are the jeans in the image? | Blue. |
+| What | What is the person's pose in the image? | Casual, with hands in pockets. |
+| How | How does the medium wash of the jeans contribute to their appearance? | It gives them a slightly faded look, adding to their casual and comfortable appearance. |
+| How | How does the person's pose suggest their confidence? | It suggests a sense of selfassuredness and confidence because they are standing with their hands in their pockets, exuding a relaxed and comfortable demeanor. |

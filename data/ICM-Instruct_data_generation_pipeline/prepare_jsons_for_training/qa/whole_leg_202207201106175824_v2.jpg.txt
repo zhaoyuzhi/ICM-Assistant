@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing black shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing white sneakers? | Yes. |
+| Yes/No | Is the woman in the image standing in a bathroom stall? | Yes. |
+| Yes/No | Does the woman in the image have her left hand on her hip? | Yes. |
+| Yes/No | Does the woman in the image have her right hand resting on her thigh? | Yes. |
+| What | What color is the woman's shirt? | Black. |
+| What | What is the woman's pose in the image? | She is standing with her left leg extended and her right leg bent, with her left hand on her hip and her right hand resting on her thigh. |
+| How | How does the contrast between the woman's outfit and the bathroom stall setting contribute to the overall atmosphere of the image? | The contrast between the woman's black outfit and the white sneakers, along with the bathroom stall setting, creates an intimate and alluring atmosphere. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, with her left leg extended and her right hand resting on her thigh, draws attention to her hip and thigh area, adding to the allure and confidence of the image. |

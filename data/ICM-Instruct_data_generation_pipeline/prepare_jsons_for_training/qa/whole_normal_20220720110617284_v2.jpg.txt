@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white coat? | Yes. |
+| Yes/No | Is the bed in the image white? | Yes. |
+| Yes/No | Does the woman have a black purse in her hand? | Yes. |
+| Yes/No | Are the buttons on the woman's coat black? | Yes. |
+| Yes/No | Is the nightstand in the image black? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman holding in her hand? | A black purse. |
+| What | What is the color of the woman's skirt? | Black. |
+| How | How is the woman positioned in the image? | She is positioned in front of the bed and nightstand. |
+| How | How would you describe the overall atmosphere of the image? | Calm and composed. |

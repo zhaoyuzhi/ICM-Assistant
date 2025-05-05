@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black hoodie? | Yes. |
+| Yes/No | Are the person's hands in their pockets? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image feature any suggestive poses or sexual context? | No. |
+| Yes/No | Is the person's attire in the image casual? | Yes. |
+| Yes/No | Does the image focus on the person's physical appearance? | No. |
+| What | What is the color of the person's pants in the image? | Gray. |
+| What | What is the atmosphere of the image? | Casual and relaxed. |
+| How | How are the person's hands positioned in the image? | In their pockets. |
+| How | How does the low exposure level of the person's body affect the overall focus of the image? | It emphasizes the focus on the person's clothing and demeanor rather than their physical attributes. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt brown in color? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the woman wearing a black top? | Yes. |
+| Yes/No | Is the woman holding a black purse? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color is the woman's skirt? | Brown. |
+| What | What is the woman holding in her hand? | A black purse. |
+| How | How is the woman's pose in the image? | She is standing with her hands on her hips. |
+| What | What does the woman's pose suggest? | Confidence and assertiveness. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is the person's shirt black? | Yes. |
+| Yes/No | Are their hands visible in the image? | Yes. |
+| Yes/No | Are their legs apart? | Yes. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| What | What color are the person's jeans? | Blue. |
+| What | What is the person's shirt color? | Black. |
+| How | How are the person's hands positioned? | Casually tucked into their pockets. |
+| How | How are their legs positioned? | Slightly apart. |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing blue jeans? | Yes. |
+| Yes/No | Is the person wearing a black shirt? | Yes. |
+| Yes/No | Are the person's hands visible in the image? | No. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| What | What is the person's pose in the image? | The person is standing with their back to the camera, with their legs slightly apart and their hands tucked into their pockets. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is casual and nonsexual, with a low exposure level that emphasizes the everyday nature of the scene. |
+| How | How are the person's hands positioned in the image? | The person's hands are casually tucked into their pockets. |
+| How | How does the low exposure level affect the image? | The low exposure level further emphasizes the casual and nonsexual nature of the image, as only a small portion of the person's body is visible. |

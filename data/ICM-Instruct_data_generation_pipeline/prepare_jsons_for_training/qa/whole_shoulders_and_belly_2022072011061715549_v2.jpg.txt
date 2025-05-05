@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black t-shirt? | Yes. |
+| Yes/No | Does the woman have a bow on the front of her t-shirt? | Yes. |
+| Yes/No | Is the woman's skirt black and white plaid? | Yes. |
+| Yes/No | Is the woman wearing a gold necklace? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Does the woman have loose waves in her hair? | Yes. |
+| What | What is the color of the woman's t-shirt? | Black. |
+| What | What is the style of the woman's hair in the image? | Loose waves. |
+| How | How is the woman's confidence depicted in the image? | The woman's confident expression and pose with her hands on her hips contribute to the image's overall sense of confidence. |
+| How | How does the woman's outfit contribute to the image's sense of allure? | The woman's strapless top and her midriff being exposed add an element of allure to her outfit, which contributes to the overall sexy atmosphere of the image. |

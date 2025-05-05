@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's hair dark? | Yes. |
+| Yes/No | Is the woman wearing a colorful dress? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the overall atmosphere of the image? | Cheerful and friendly. |
+| What | What is the focus of the image? | The woman's face and expression. |
+| How | How does the low exposure level affect the image? | It emphasizes the woman's face and expression, rather than her body or clothing. |
+| How | How does the woman's smile and direct gaze contribute to the atmosphere of the image? | They create a positive and approachable atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing in front of a white background? | Yes. |
+| Yes/No | Does the man in the image have any tattoos visible? | No. |
+| Yes/No | Is the man in the image wearing a hat? | No. |
+| Yes/No | Does the man in the image have facial hair? | No. |
+| Yes/No | Is the man in the image looking directly at the camera? | Yes. |
+| What | What is the man in the image wearing around his waist? | A black belt. |
+| What | What is the text in Chinese on the image? | "MAZONO 腰带 100% 无纤维 轻盈 舒适 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚 带厚. |
+| How | How is the man in the image standing? | He is standing upright, with his feet shoulderwidth apart. |
+| How | How is the black belt fastened around the man's waist? | The black belt is fastened with a buckle. |

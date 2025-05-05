@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Are the sleeves long? | Yes. |
+| Yes/No | Is there a lace panel on the back of the dress? | Yes. |
+| Yes/No | Is the woman striking a pose with her back towards the camera? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What color is the dress? | Black. |
+| What | What is the woman's pose in the image? | She is striking a pose with her back towards the camera. |
+| How | How does the lace panel on the back of the dress add an element of intrigue to the overall design? | It adds a touch of elegance and sophistication to the dress, making it visually appealing and eyecatching. |
+| How | How does the woman's pose with her back towards the camera add an element of mystery and intrigue to the image? | It creates a sense of anticipation and curiosity, making the viewer wonder what lies beneath the dress. |

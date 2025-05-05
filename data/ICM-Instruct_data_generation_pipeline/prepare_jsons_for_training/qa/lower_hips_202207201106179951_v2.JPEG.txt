@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing purple leggings? | Yes. |
+| Yes/No | Is the wall in the background white? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Are the leggings designed with a high waist? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person in the image standing? | Yes. |
+| What | What is the color of the leggings? | Purple. |
+| What | What is the pose of the person in the image? | Confident and assertive. |
+| How | How does the white wall in the background contrast with the purple leggings? | It provides a stark contrast, emphasizing the person's attire. |
+| How | How does the person's pose contribute to the overall atmosphere of the image? | It adds to the bold and confident atmosphere, drawing attention to the lower body. |

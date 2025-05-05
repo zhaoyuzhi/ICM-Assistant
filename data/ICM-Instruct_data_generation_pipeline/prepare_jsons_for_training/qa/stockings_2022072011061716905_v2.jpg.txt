@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white dress? | Yes. |
+| Yes/No | Are stockings visible in the image? | Yes. |
+| Yes/No | Is the person standing in front of a door? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What is the person wearing on their legs? | Stockings. |
+| What | What is the color of the dress? | White. |
+| How | How are the person's legs positioned in the image? | Slightly apart. |
+| How | How would you describe the overall atmosphere of the image? | Seductive and enticing. |

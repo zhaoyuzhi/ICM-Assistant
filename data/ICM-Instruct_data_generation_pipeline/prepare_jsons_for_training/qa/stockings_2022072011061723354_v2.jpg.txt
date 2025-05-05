@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the stockings sheer? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| What | What is the color of the dress? | Black. |
+| What | What is the texture of the stockings? | Sheer with lace trim. |
+| How | How does the person's posture suggest confidence? | The person is standing or walking with a confident stance. |
+| How | How does the wooden floor contribute to the image's atmosphere? | The wooden floor adds warmth and intimacy to the scene. |

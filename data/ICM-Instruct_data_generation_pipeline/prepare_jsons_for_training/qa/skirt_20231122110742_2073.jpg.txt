@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a blouse? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a door? | Yes. |
+| Yes/No | Is the door in the background white? | Yes. |
+| Yes/No | Is the woman lifting her dress in the image? | Yes. |
+| Yes/No | Are the woman's thighs and legs exposed in the image? | Yes. |
+| What | What is the color of the woman's dress? | Beige. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How is the woman's dress being lifted? | The woman is lifting her dress herself. |
+| How | How does the image create a sense of allure and sensuality? | The image creates a sense of allure and sensuality through the woman's provocative action of lifting her dress, which exposes her thighs and legs, and the contrast between her attire and the white door in the background. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman sitting on a bed? | Yes. |
+| Yes/No | Is the woman holding a towel in her hand? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman's attire revealing? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing? | A white bikini top and bottom. |
+| What | What is the woman holding in her hand? | A towel. |
+| How | How is the woman positioned on the bed? | She is sitting with a pillow behind her. |
+| How | How would you describe the woman's pose in the image? | Relaxed and casual. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the woman have a logo on the back pocket of her jeans? | Yes. |
+| Yes/No | Is the woman wearing a black sweater? | Yes. |
+| Yes/No | Does the image have a sexual context? | No. |
+| Yes/No | Are the woman's clothes revealing or suggestive? | No. |
+| What | What color are the woman's jeans? | Blue. |
+| What | What is the woman wearing on her upper body? | A black sweater. |
+| How | How is the woman standing? | With her back to the camera. |
+| How | How would you describe the overall atmosphere of the image? | Casual and everyday. |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's face visible in the image? | No. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the woman's pose casual and relaxed? | Yes. |
+| What | What is the distinctive design on the back pocket of the woman's jeans? | The description does not provide enough information to answer this question. |
+| What | What is the woman's pose in the image? | The woman is standing with her back to the camera. |
+| How | How does the image focus on the woman's clothing rather than her physical appearance? | The image focuses on the woman's clothing by highlighting the distinctive design on the back pocket of her jeans, and by not showing her face, which draws attention away from her physical appearance and towards her attire. |
+| How | How does the low exposure level of the image contribute to the atmosphere of the image? | The low exposure level of the image contributes to a more modest and appropriate atmosphere by not revealing too much detail and by emphasizing the woman's clothing rather than her physical appearance. |

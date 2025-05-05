@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white lace dress? | Yes. |
+| Yes/No | Does the dress expose a large area of the person's back? | Yes. |
+| Yes/No | Is the person's hair styled in a bun? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the scene illuminated by natural light? | Yes. |
+| Yes/No | Does the dress feature a classic choice for sexy or provocative clothing? | Yes. |
+| What | What is the person's attire in the image? | A white lace dress. |
+| What | What is the atmosphere of the image? | Alluring and captivating. |
+| How | How is the person's hair styled in the image? | In a bun. |
+| How | How does the natural lighting from the window enhance the overall ambiance of the image? | It highlights the details of the dress and the person's features. |

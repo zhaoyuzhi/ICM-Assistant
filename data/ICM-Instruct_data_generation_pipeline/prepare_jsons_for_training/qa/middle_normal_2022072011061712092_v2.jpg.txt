@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image holding their hand on their hip? | Yes. |
+| Yes/No | Is the person in the image tilting their head to the side? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the color of the person's t-shirt? | White. |
+| What | What is the color of the person's skirt and shorts? | Blue. |
+| How | How is the person standing in the room? | With their hand on their hip and their head slightly tilted to the side. |
+| What | What is the atmosphere of the image? | Casual and nonsexual. |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the skirt the person is wearing blue? | Yes. |
+| Yes/No | Is the person looking down at the camera? | Yes. |
+| Yes/No | Is the image a low-exposure shot? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the person's attire and setting focused on casual and everyday clothing? | Yes. |
+| What | What is the person wearing on their upper body? | A white blouse. |
+| What | What is the person's hair color? | Not visible in the image. |
+| How | How is the person standing in the room? | With their hand on their hip and looking down at the camera. |
+| How | How would you describe the overall atmosphere of the image? | Not sexy, casual and everyday. |

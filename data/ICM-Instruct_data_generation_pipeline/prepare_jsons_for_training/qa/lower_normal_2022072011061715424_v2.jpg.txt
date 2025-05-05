@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing black sweatpants? | Yes. |
+| Yes/No | Is the man in the image wearing a white sneaker? | Yes. |
+| Yes/No | Is the man in the image walking towards the camera? | Yes. |
+| Yes/No | Is the man's left foot slightly lifted off the ground? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the image focus on the man's physical appearance or body? | No. |
+| What | What is the man in the image doing? | Engaged in physical activity, possibly exercising or working out. |
+| What | What is the environment in which the man is situated? | A gym setting with a weight machine and a bench. |
+| How | How is the man moving in the image? | Walking towards the camera with his left foot slightly lifted off the ground. |
+| How | How does the exposure level of the image affect the focus of the image? | The low exposure level emphasizes the focus on the man's actions and the setting rather than his physical appearance. |

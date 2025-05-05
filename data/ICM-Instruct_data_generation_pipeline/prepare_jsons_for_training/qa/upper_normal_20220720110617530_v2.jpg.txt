@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a traditional Chinese outfit? | Yes. |
+| Yes/No | Are the person's arms resting at their sides? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the person have neatly combed back hair? | Yes. |
+| Yes/No | Are the person's shoes visible in the image? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and serene? | Yes. |
+| What | What is the person wearing in the image? | A white longsleeved shirt and pants, both of which are traditional Chinese attire. |
+| What | What is the color scheme of the image? | Black and white. |
+| How | How is the person's hair styled in the image? | Neatly combed back. |
+| How | How does the person's traditional attire suggest a sense of cultural heritage? | The attire is traditional Chinese clothing, which is associated with cultural heritage. |

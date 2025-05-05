@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a photograph? | Yes. |
+| Yes/No | Are the people in the image kissing? | Yes. |
+| Yes/No | Is the man wearing a white suit? | Yes. |
+| Yes/No | Is the woman wearing a pink dress? | Yes. |
+| Yes/No | Are there bubbles surrounding the couple? | Yes. |
+| Yes/No | Does the image have a romantic and sensual mood? | Yes. |
+| What | What is the color of the woman's dress? | Pink. |
+| What | What is the man's attire? | White suit. |
+| How | How does the woman's dress add to the scene? | It adds a touch of color and elegance. |
+| How | How do the bubbles surrounding the couple enhance the mood of the image? | They add a whimsical and magical touch, enhancing the overall romantic and sensual mood. |

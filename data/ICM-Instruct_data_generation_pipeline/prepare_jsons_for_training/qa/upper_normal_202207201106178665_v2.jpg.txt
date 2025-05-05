@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image holding a white paper bag? | Yes. |
+| Yes/No | Is the woman wearing a black shirt? | Yes. |
+| Yes/No | Are the bags in the background similar to the one the woman is holding? | Yes. |
+| Yes/No | Is the image set in a factory setting? | Yes. |
+| Yes/No | Does the image suggest a sexual context? | No. |
+| Yes/No | Does the woman have a necklace on? | Yes. |
+| What | What is the woman doing in the image? | She is handling a white paper bag. |
+| What | What is the contents of the bag the woman is holding? | It appears to be filled with similar bags. |
+| How | How is the woman holding the bag? | She is holding it in her hand. |
+| How | How would you describe the overall atmosphere of the image? | The overall atmosphere of the image is not sexy, it depicts a typical industrial setting with the woman engaged in a routine task of handling bags, and the low exposure level further emphasizes the mundane nature of the scene. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image blonde? | Yes. |
+| Yes/No | Is the woman's facial expression playful? | Yes. |
+| Yes/No | Is the woman's facial expression seductive? | Yes. |
+| Yes/No | Is the woman's tongue sticking out? | Yes. |
+| Yes/No | Is the image set against a dark background? | Yes. |
+| Yes/No | Does the woman have a confident pose? | Yes. |
+| What | What is the woman's hair color? | Blonde. |
+| What | What is the woman's skin tone? | Lightcolored. |
+| How | How is the woman's tongue positioned in the image? | Sticking out. |
+| How | How does the contrast between the woman's hair and skin tone and the dark background affect the image? | It makes the woman the focal point and emphasizes her presence. |

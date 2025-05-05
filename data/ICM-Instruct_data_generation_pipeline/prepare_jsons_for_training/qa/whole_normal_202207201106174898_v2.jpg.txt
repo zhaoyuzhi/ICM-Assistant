@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the man in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the image sexually explicit or suggestive? | No. |
+| Yes/No | Does the image feature any provocative or revealing attire? | No. |
+| Yes/No | Is the building in the background particularly attention-grabbing? | No. |
+| Yes/No | Does the overall composition of the image appear professional? | Yes. |
+| What | What is the color of the man's shirt? | White. |
+| What | What is the color of the man's jacket? | Black. |
+| How | How would you describe the overall atmosphere of the image? | Calm and professional. |
+| How | How would you describe the exposure level of the image? | Very low. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing blue jean shorts? | Yes. |
+| Yes/No | Is the person holding a sign? | Yes. |
+| Yes/No | Does the sign read "PUGEST!"? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the person in the image holding? | A sign that reads "PUGEST!". |
+| What | What color are the person's shorts? | Blue. |
+| How | How is the person's pose in the image? | Casual, everyday. |
+| What | What does the low exposure level of the image emphasize? | The person's clothing and the sign they are holding, rather than their face or body. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing blue jean shorts? | Yes. |
+| Yes/No | Is the person holding a sign? | Yes. |
+| Yes/No | Does the sign read "PUGEST!"? | Yes. |
+| Yes/No | Is the person posing in a way that suggests they are participating in a protest or similar event? | Yes. |
+| Yes/No | Is the hallway in the background well-lit? | No. |
+| What | What is the person holding in their hand? | A sign that reads "PUGEST!". |
+| What | What is the overall atmosphere of the image? | Calm and serious. |
+| How | How is the person posing in the image? | The person is standing with a serious expression and holding a sign, suggesting participation in a protest or similar event. |
+| How | How does the low exposure level of the image affect the focus of the image? | The low exposure level emphasizes the focus on the person and their actions, rather than on their physical appearance. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a gray sweater? | Yes. |
+| Yes/No | Is the woman in the image wearing gray sweatpants? | Yes. |
+| How | Does the woman's outfit show her midriff? | No. |
+| Yes/No | Does the woman's outfit have strapless or low-cut tops? | No. |
+| Yes/No | Is the image sexually suggestive or revealing? | No. |
+| Yes/No | Does the woman's attire appear to be formal or dressy? | No. |
+| What | What color is the woman's sweater? | Gray. |
+| What | What is the setting of the image? | A typical street scene with a car in the background. |
+| How | How would you describe the woman's overall look in the image? | Casual and comfortable. |
+| How | How does the image make you feel? | The image evokes a sense of a typical, everyday street scene rather than intimacy or allure. |

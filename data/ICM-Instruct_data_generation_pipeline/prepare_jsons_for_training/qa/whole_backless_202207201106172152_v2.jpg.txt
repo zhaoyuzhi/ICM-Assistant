@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the woman holding a bouquet of flowers? | Yes. |
+| Yes/No | Is the woman's hair styled in an updo? | Yes. |
+| Yes/No | Is the woman walking away from the camera? | Yes. |
+| Yes/No | Is the image set in a natural, outdoor setting? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and allure? | Yes. |
+| What | What is the woman holding in her left hand? | A bouquet of flowers. |
+| What | What is the color of the woman's dress? | White. |
+| How | How is the woman's hair styled? | In an elegant updo. |
+| How | How does the woman carry herself in the image? | With elegance and poise. |

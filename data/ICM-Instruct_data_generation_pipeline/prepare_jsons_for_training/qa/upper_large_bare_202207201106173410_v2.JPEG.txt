@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a swimsuit? | Yes. |
+| Yes/No | Is the swimsuit a two-piece? | Yes. |
+| Yes/No | Is the woman standing on a beach? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| Yes/No | Are there any other people or objects in the image? | No. |
+| Yes/No | Is the woman posing with her arms on her head? | Yes. |
+| What | What is the woman wearing on her bottom half? | Bikini bottom. |
+| What | What is the woman's facial expression? | Looking upwards. |
+| How | How is the woman standing? | With her arms on her head. |
+| How | How does the beach setting enhance the atmosphere of the image? | It creates a sense of warmth and leisure. |

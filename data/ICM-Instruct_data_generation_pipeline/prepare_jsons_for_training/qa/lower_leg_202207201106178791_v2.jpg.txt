@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman standing in the image? | Yes. |
+| Yes/No | Are the woman's legs visible in the image? | Yes. |
+| Yes/No | Is the woman wearing shorts? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Is the woman wearing a blouse? | Yes. |
+| Yes/No | Does the image feature a vase? | Yes. |
+| What | What is the color of the woman's shorts? | Navy blue. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How are the shorts cropped? | At the knee. |
+| How | How does the woman's pose suggest confidence? | She is standing tall with her legs apart. |

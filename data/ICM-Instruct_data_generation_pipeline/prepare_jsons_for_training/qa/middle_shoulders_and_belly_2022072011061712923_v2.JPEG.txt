@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are the person's jeans blue? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the person have a belly button piercing? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What color is the person's shirt? | Pink. |
+| What | What is the main focus of the image? | The person's belly button piercing. |
+| How | How is the person's confidence conveyed in the image? | Through their pose and attire. |
+| How | How does the image capture the viewer's attention? | Through the combination of the person's body, piercing, and casual setting. |
+| Yes/No | Is the person in the image wearing a pink shirt? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Does the person have a belly button ring? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| How | Does the image showcase the person's body in a vulnerable and intimate way? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the person's shirt? | Pink. |
+| What | What is the person's hand placed on? | Their hip. |
+| How | How does the image evoke a sense of comfort and familiarity? | The casual atmosphere and the touch of color from the pink shirt create a sense of comfort and familiarity. |
+| How | How does the image suggest a sense of confidence and self-expression? | The exposure of the belly and the belly button ring suggest a sense of confidence and selfexpression. |

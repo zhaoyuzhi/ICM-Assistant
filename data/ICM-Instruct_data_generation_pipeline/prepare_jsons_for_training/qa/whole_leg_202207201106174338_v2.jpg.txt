@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image standing? | Yes. |
+| Yes/No | Is the woman's left hand on her hip? | Yes. |
+| Yes/No | Is the woman's right hand on her thigh? | Yes. |
+| Yes/No | Are the shorts the woman is wearing designed with two pockets on the front? | Yes. |
+| Yes/No | Does the woman's pose and attire suggest a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy feel? | Yes. |
+| What | What color is the woman's shirt? | Pink. |
+| What | What color are the woman's shorts? | Blue. |
+| How | How does the combination of the pink shirt and blue shorts contribute to the overall feel of the image? | It creates a contrast that draws attention to her body and enhances the sexy feel of the image. |

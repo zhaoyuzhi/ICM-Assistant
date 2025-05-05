@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a school uniform? | Yes. |
+| Yes/No | Is the person's attire considered sexy? | Yes. |
+| Yes/No | Does the image suggest the person is in motion? | Yes. |
+| Yes/No | Is the person boarding or disembarking a train? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the platform marked by a yellow line? | Yes. |
+| What | What is the color of the person's skirt? | Black. |
+| What | What is the color of the person's shirt? | White. |
+| How | How does the person's movement suggest they are boarding or disembarking a train? | The person is leaning forward and has one foot on the train step. |
+| How | How does the image create a contrast between innocence and revealing nature? | The school uniform is modest and innocent, while the person's nakedness from the waist down is revealing and suggestive. |

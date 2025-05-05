@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a nightgown? | Yes. |
+| Yes/No | Does the nightgown have a deep V-neckline? | Yes. |
+| Yes/No | Are the straps of the nightgown thin? | Yes. |
+| Yes/No | Is the woman striking a pose with her left hand on her hip? | Yes. |
+| Yes/No | Is the woman looking over her shoulder? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the nightgown? | Purple. |
+| What | What is the trim of the nightgown made of? | White lace. |
+| How | How is the woman posing with her left hand? | On her hip. |
+| How | How is the woman posing with her right hand? | On her thigh. |

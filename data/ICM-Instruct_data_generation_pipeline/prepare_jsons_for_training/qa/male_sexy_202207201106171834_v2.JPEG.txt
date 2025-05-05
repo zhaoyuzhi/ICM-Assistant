@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing underwear? | Yes. |
+| Yes/No | Does the underwear have the brand name "Mark Formelle" on it? | Yes. |
+| Yes/No | Is the man in a standing pose? | Yes. |
+| Yes/No | Does the man have his hands on his hips? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the underwear? | Blue and orange. |
+| What | What is the brand name of the underwear? | Mark Formelle. |
+| How | How is the man standing? | With his hands on his hips. |
+| How | How does the man's pose and attire suggest he is feeling? | Confident and selfassured. |

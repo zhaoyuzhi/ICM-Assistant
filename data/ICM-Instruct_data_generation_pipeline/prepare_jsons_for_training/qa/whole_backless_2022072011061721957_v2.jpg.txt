@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a plunging neckline? | Yes. |
+| Yes/No | Is the dress's slit high? | Yes. |
+| Yes/No | Is the woman holding a black clutch purse? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the image depict a sexy atmosphere? | Yes. |
+| What | What color is the woman's dress? | Red. |
+| What | What is the woman holding in her hand? | A black clutch purse. |
+| How | How does the woman's pose contribute to the image's overall allure? | The woman's confident pose, coupled with her attire, creates an atmosphere that is both seductive and captivating. |
+| How | How does the image's background contribute to its focus? | The plain white background puts the focus entirely on the woman and her attire, drawing the viewer's attention to her and her seductive appearance. |

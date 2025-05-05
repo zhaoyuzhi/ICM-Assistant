@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Are the women smiling? | No. |
+| Yes/No | Is the background busy? | No. |
+| Yes/No | Are the women standing? | Yes. |
+| Yes/No | Is there a purse in the image? | Yes. |
+| Yes/No | Are the women wearing heels? | Yes. |
+| What | What is the primary color palette of the image? | Black, white, and gray. |
+| What | What is the occasion for which the women are dressing? | None specified, but the outfits suggest a formal or semiformal event. |

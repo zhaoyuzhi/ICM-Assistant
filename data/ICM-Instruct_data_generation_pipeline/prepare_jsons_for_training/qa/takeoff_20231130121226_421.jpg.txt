@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman wearing a red swimsuit? | Yes. |
+| Yes/No | Is the woman taking off her jacket? | Yes. |
+| Yes/No | Is the setting of the image a beach? | Yes. |
+| Yes/No | Does the image evoke a sense of sensuality? | Yes. |
+| Yes/No | Does the woman's attire include a white jacket? | No. |
+| What | What is the woman doing in the image? | Taking off her white jacket. |
+| What | What is the color of the woman's swimsuit? | Red. |
+| How | How is the woman's confidence and allure perceived in the image? | Through her actions and attire. |
+| How | How does the beach setting contribute to the atmosphere of the image? | It creates a seductive atmosphere. |

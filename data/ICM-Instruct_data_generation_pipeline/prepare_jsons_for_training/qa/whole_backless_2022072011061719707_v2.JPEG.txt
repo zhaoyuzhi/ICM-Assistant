@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a yellow dress? | Yes. |
+| Yes/No | Is the dress long and flowing? | Yes. |
+| Yes/No | Does the dress feature a lace-up back? | Yes. |
+| Yes/No | Is the lace-up back open? | Yes. |
+| Yes/No | Is the woman sitting on a bed? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and allure? | Yes. |
+| What | What color is the woman's dress? | Yellow. |
+| What | What is the woman sitting on? | A bed with a white pillow and a white comforter. |
+| How | How is the woman's posture in the image? | Her posture is relaxed, with her back exposed. |
+| How | How does the long, flowing yellow dress and the lace-up back create a sense of elegance and allure? | The dress and the laceup back create a sense of elegance and allure because they are visually appealing and suggest a sense of luxury and sensuality. |

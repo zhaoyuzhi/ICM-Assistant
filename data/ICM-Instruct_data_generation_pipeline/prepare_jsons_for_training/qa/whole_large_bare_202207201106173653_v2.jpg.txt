@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing pants? | Yes. |
+| Yes/No | Is the exercise machine black and orange? | Yes. |
+| Yes/No | Is the image taken in a gym setting? | Yes. |
+| Yes/No | Is the woman engaged in a workout or exercise routine? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's bra? | Black. |
+| What | What color are the woman's pants? | Black. |
+| How | How is the woman positioned on the exercise machine? | Seated. |
+| How | How does the image create an atmosphere of strength and determination? | The gym setting and large building in the background create an atmosphere of strength and determination. |

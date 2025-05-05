@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a gray sports bra? | Yes. |
+| Yes/No | Does the person have a black skirt? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color are the straps of the sports bra? | Black. |
+| What | What type of clothing item is the person wearing? | A gray sports bra and a black skirt. |
+| How | How much of the person's back is exposed? | A large area. |
+| How | How does the combination of the gray sports bra and black skirt contribute to the image's sexiness? | It adds to the allure and suggests a sense of comfort and confidence in the person's appearance. |

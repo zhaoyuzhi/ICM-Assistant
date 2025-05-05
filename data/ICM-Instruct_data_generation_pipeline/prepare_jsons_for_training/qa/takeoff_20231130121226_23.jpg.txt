@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman facing the camera? | No. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Is the woman's underwear visible? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the sky clear in the image? | Yes. |
+| Yes/No | Is the ocean visible in the background? | Yes. |
+| What | What is the woman doing in the image? | Taking off her shirt. |
+| What | What color is the woman's underwear? | Red. |
+| How | How is the woman standing in the image? | With her back to the camera and her arms outstretched. |
+| How | How does the image evoke feelings of tranquility? | The clear sky and the ocean in the background create a sense of calmness and serenity. |

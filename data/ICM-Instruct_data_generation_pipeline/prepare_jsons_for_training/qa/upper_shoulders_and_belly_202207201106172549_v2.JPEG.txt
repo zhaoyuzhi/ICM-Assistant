@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Does the dress have straps? | No. |
+| Yes/No | Is the woman wearing a necklace? | Yes. |
+| Yes/No | Is the necklace gold? | Yes. |
+| Yes/No | Does the necklace have a cross pendant? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| What | What color is the dress? | Black. |
+| What | What is the woman's pose in the image? | Confident. |
+| How | How does the woman's attire contribute to the overall atmosphere of the image? | The woman's attire, particularly the black dress and gold necklace with a cross pendant, contributes to the overall atmosphere of the image by creating a sense of sophistication, allure, and intimacy. |
+| How | How does the woman's pose and gaze contribute to the overall atmosphere of the image? | The woman's confident pose and direct gaze at the camera enhance the overall atmosphere of the image, making it feel more intimate and alluring. |

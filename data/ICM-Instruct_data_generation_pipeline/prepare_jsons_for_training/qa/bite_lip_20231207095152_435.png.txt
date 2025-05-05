@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the woman have a gold necklace? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Does the image create a sense of desire? | Yes. |
+| Yes/No | Does the image evoke a sense of intrigue? | Yes. |
+| What | What color is the woman's hair? | Dark. |
+| What | What is the woman's facial expression? | Serious. |
+| How | How does the woman's lip biting create an atmosphere? | It creates an intense and alluring atmosphere. |
+| How | How does the gold necklace add to the woman's appearance? | It adds a touch of elegance. |

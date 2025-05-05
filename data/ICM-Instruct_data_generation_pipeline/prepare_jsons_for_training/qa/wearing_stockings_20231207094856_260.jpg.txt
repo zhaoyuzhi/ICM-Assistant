@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| Yes/No | Is the woman holding the top of the stockings with her right hand? | Yes. |
+| Yes/No | Are the stockings beige in color? | Yes. |
+| Yes/No | Is the image perceived as sexy? | Yes. |
+| Yes/No | Does the posture of the woman, with her legs crossed, add to the allure of the image? | Yes. |
+| What | What is the woman wearing on her legs? | Stockings. |
+| What | What color is the woman's shirt? | White. |
+| How | How is the woman holding the top of the stockings? | With her right hand. |
+| How | How does the act of putting on stockings contribute to the overall allure of the image? | It can be seen as a form of selfcare and selfexpression, which can be perceived as attractive. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| Yes/No | Is the woman wearing black shorts in the image? | Yes. |
+| Yes/No | Is the woman putting on beige stockings in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman's posture, with her legs crossed, add to the overall allure of the image? | Yes. |
+| What | What is the woman holding in her right hand in the image? | The top of the stockings. |
+| What | What color are the stockings that the woman is putting on in the image? | Beige. |
+| How | How is the woman's posture in the image? | She is sitting with her legs crossed. |
+| How | How does the act of putting on stockings in the image contribute to the overall allure of the image? | It can be seen as a form of selfcare and selfexpression, which can be perceived as attractive. |

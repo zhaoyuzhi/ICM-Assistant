@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Does the dress reach down to her ankles? | Yes. |
+| Yes/No | Is the dress made of a shiny, metallic material? | Yes. |
+| Yes/No | Is the woman wearing a blouse underneath her dress? | Yes. |
+| Yes/No | Are her hands placed on her hips? | Yes. |
+| Yes/No | Is the background of the image a street with buildings and trees? | Yes. |
+| What | What color is the woman's dress? | Gray. |
+| What | What is the woman's pose in the image? | Confident, with her hands placed on her hips. |
+| How | How does the woman's attire suggest confidence? | The woman's long dress and blouse suggest modesty and selfassurance rather than sexualization or revealing clothing. |
+| How | How does the image's atmosphere contribute to its non-sexual nature? | The image's atmosphere is calm and composed, with a neutral backdrop that allows the woman's attire and pose to stand out without suggesting any form of intimacy or sensuality. |

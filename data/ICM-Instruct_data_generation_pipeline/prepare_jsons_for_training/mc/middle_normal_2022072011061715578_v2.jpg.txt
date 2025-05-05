@@ -1,0 +1,12 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What is the color of the person's shirt in the image? |A. Red |B. Blue |C. Green |D. Yellow |B. |
+| What is the color of the person's shorts in the image? |A. Black |B. White |C. Gray |D. Brown |B. |
+| Is the person facing the camera in the image? |A. Yes |B. No |C. Partially |D. Not visible |B. |
+| What is the exposure level of the image? |A. High |B. Low |C. Medium |D. Not applicable |B. |
+| What is the overall atmosphere of the image? |A. Sexy |B. Romantic |C. Provocative |D. Simple |D. |
+| What is the color of the shorts in the image? |A. Black |B. Navy blue |C. Gray |D. White |B. |
+| How many pockets are on the back of the shorts in the image? |A. 1 |B. 2 |C. 3 |D. 4 |B. |
+| What is the color of the shirt in the image? |A. Black |B. White |C. Gray |D. Navy blue |B. |
+| What is the background of the image? |A. Plain white |B. Patterned |C. Colorful |D. Black |A. |
+| Is the image sexy? |A. Yes |B. No |C. Maybe |D. Not sure |B. |

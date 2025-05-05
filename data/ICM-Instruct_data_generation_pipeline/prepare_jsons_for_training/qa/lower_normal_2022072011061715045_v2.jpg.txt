@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a top? | Yes. |
+| Yes/No | Does the woman in the image have a ponytail? | Yes. |
+| Yes/No | Is the woman in the image holding a purse? | Yes. |
+| Yes/No | Are the walls in the image white? | Yes. |
+| Yes/No | Is the floor in the image wooden? | Yes. |
+| What | What is the woman in the image holding in her left hand? | A black purse. |
+| What | What is the color of the woman's top? | White. |
+| How | How is the woman's hair styled in the image? | Pulled back into a ponytail. |
+| How | How would you describe the atmosphere of the image? | Calm and nonthreatening. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Are the jeans ripped or distressed? | No. |
+| Yes/No | Is the shirt black? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person smiling? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What color are the jeans? | Blue. |
+| What | What is the color of the shirt? | Pink. |
+| How | How are the jeans styled? | Highwaisted with a back pocket. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Does the person have a Prada tag on the back pocket of their jeans? | Yes. |
+| Yes/No | Are the jeans high-waisted? | Yes. |
+| Yes/No | Does the person have a frayed hem on their jeans? | Yes. |
+| Yes/No | Is the person wearing a pink shirt? | Yes. |
+| Yes/No | Is the image taken from the back? | Yes. |
+| What | What color is the person's shirt? | Pink. |
+| What | What is the focus of the image? | The person's lower body. |
+| How | How is the person's jeans' hem frayed? | The hem is frayed at the bottom. |
+| How | How would you describe the overall atmosphere of the image? | Casual and everyday. |

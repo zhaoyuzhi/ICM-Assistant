@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's legs bare? | No. |
+| Yes/No | Is the person sitting on a bed? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Does the image evoke feelings of vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image putting on? | White stockings. |
+| What | What is the color of the person's shirt? | White. |
+| How | How are the stockings being put on? | The person is carefully pulling them up their legs with their hands. |
+| What | What is the overall atmosphere of the image? | Intimate and personal. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the stockings being put on white? | Yes. |
+| Yes/No | Is the person sitting on a bed? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and personal? | Yes. |
+| Yes/No | Does the image evoke feelings of vulnerability? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image doing? | The person is putting on white stockings. |
+| What | What is the color of the person's shorts? | The person's shorts are black. |
+| How | How are the stockings being put on? | The person is carefully pulling the stockings up their legs with their hands. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is intimate and personal. |

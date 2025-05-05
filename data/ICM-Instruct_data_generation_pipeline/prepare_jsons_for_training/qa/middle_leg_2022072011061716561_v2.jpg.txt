@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt denim? | Yes. |
+| Yes/No | Does the skirt have a slit on the left side? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Are her hands resting on her knees? | Yes. |
+| What | What is the woman's pose in the image? | She is sitting with her legs crossed and her hands resting on her knees. |
+| What | What is the overall atmosphere of the image? | The overall atmosphere of the image is casual and comfortable, with a sense of confidence and selfassuredness. |
+| How | How does the denim skirt contribute to the overall atmosphere of the image? | The denim skirt, with its slit and casual style, gives off a relaxed and comfortable vibe, contributing to the overall casual and comfortable atmosphere of the image. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's pose, with her legs crossed and hands resting on her knees, adds to the overall atmosphere of the image, creating a sense of relaxation and confidence. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue denim shorts? | Yes. |
+| Yes/No | Are the shorts high-waisted? | Yes. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| Yes/No | Is the person's skin visible through the shorts? | Yes. |
+| Yes/No | Are the person's thighs visible in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the shorts the person is wearing? | Blue. |
+| What | What is the style of the shorts the person is wearing? | Highwaisted with a frayed hem. |
+| How | How does the person's skin look through the shorts? | Visible. |
+| How | How does the image make the viewer feel? | Intimate and seductive. |

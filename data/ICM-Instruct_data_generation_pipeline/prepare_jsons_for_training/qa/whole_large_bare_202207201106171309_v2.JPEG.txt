@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image wearing sunglasses? | Yes. |
+| Yes/No | Is the woman in the image engaged in a physical activity? | Yes. |
+| Yes/No | Is the woman's body fully covered in the image? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the image suggest a relaxed, fun atmosphere? | Yes. |
+| What | What is the woman in the image throwing? | A soccer ball. |
+| What | What type of clothing is the woman in the image wearing? | A bikini. |
+| How | How is the woman's body exposed in the image? | Her body is not fully covered, as she is wearing a bikini. |
+| How | How does the image create a sense of excitement and allure? | The combination of the woman's attire, the exposure level of her body, and the suggestion of a relaxed, fun atmosphere create a sense of excitement and allure. |

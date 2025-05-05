@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the person in the image have a black shirt on? | Yes. |
+| Yes/No | Is the back pocket of the jeans heart-shaped? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the person's body rather than their clothing? | No. |
+| What | What is the color of the person's shirt in the image? | Black. |
+| What | What is the unique feature of the back pocket of the jeans in the image? | Heartshaped. |
+| How | How much of the person's body is visible in the image? | Only the lower half, including the jeans and black shirt. |
+| What | What does the low exposure level of the image achieve in terms of the viewer's attention? | It draws the viewer's attention to the clothing rather than any potential sensual elements. |
+| Yes/No | Is the person in the image wearing a pair of blue jeans? | Yes. |
+| Yes/No | Does the person in the image have a heart-shaped pocket on the back of their jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the image taken from the back of the person? | Yes. |
+| How | Does the image show the person's face or upper body? | No. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the color of the person's shirt in the image? | Black. |
+| What | What is the design of the pocket on the back of the person's jeans? | Heartshaped. |
+| How | How is the person's lower body positioned in the image? | The person's lower body is the main focus of the image, with the jeans and heartshaped pocket visible. |
+| How | How does the image convey the atmosphere of the person's attire? | The image conveys a casual and unique atmosphere, with a focus on the person's attire and the design of the jeans, rather than their appearance or body language. |

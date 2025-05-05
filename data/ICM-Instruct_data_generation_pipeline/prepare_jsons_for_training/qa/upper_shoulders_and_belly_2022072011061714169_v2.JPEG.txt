@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the woman wearing a gold necklace? | Yes. |
+| Yes/No | Does the woman have loose waves in her hair? | Yes. |
+| Yes/No | Is the woman standing in front of a microphone? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image convey a sense of sophistication? | Yes. |
+| What | What is the woman's attire in the image? | A strapless white dress with a high neckline, complemented by a gold necklace. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| How | How does the woman carry herself in the image? | Confidently and stylishly. |
+| How | How does the blurred background affect the image? | It emphasizes the woman's presence and makes her the focal point of the image. |

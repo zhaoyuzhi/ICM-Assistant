@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the shorts black? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the shirt the man is wearing black? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| What | What is the pattern on the shorts? | Vibrant floral. |
+| What | What is the color of the shirt the man is wearing? | Black. |
+| How | How are the shorts fitted? | With a drawstring waist. |
+| How | How does the image convey a relaxed atmosphere? | Through the man's casual pose and the simplicity of the image. |
+| Yes/No | Is the man in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Does the man have his hands tucked into his pockets? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the man's shirt black? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the man's attire revealing? | No. |
+| What | What is the main color of the man's shorts? | Black. |
+| What | What is the pattern on the man's shorts? | Floral. |
+| How | How does the man's shirt complement his shorts? | It matches the color and style, creating a cohesive look. |
+| How | How does the image emphasize the subject and his clothing? | The white background creates a clean and simple look, drawing attention to the man and his outfit. |

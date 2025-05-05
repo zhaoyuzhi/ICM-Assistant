@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image feature a muscular man? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Are the man's shorts blue? | Yes. |
+| Yes/No | Does the image convey a sense of strength and confidence? | Yes. |
+| Yes/No | Does the image have a sensual and provocative atmosphere? | Yes. |
+| What | What is the man in the image wearing? | A pair of blue shorts. |
+| What | What is the color of the background in the image? | White. |
+| How | How does the man's physique appear in the image? | Welldefined and muscular. |
+| How | How does the blue shorts complement the man's physique? | Aesthetically pleasing visual contrast. |

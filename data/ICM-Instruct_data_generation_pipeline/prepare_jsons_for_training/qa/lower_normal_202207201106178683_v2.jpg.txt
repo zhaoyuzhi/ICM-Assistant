@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a black outfit? | Yes. |
+| Yes/No | Is the person's left foot visible in the image? | Yes. |
+| Yes/No | Does the image depict a suggestive pose? | No. |
+| Yes/No | Is the person's exposure level high? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | No. |
+| What | What is the person's attire in the image? | Black pants and a black shirt. |
+| What | What is the color of the person's visible shoe? | White. |
+| How | How is the person standing in the image? | With their back to the camera. |
+| What | What can be inferred about the image's focus based on the person's attire and stance? | The focus is on the person's attire and stance rather than their physical appearance. |

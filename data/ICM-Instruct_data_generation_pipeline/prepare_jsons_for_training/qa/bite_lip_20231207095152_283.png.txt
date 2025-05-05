@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a necklace? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Is the woman looking upwards and to the left? | Yes. |
+| Yes/No | Are the woman's lips slightly parted? | Yes. |
+| Yes/No | Does the woman have a serious expression? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing around her neck? | A silver necklace. |
+| What | What is the woman's facial expression? | Serious. |
+| How | How is the woman looking? | Upwards and to the left. |
+| How | How are the woman's lips? | Slightly parted. |

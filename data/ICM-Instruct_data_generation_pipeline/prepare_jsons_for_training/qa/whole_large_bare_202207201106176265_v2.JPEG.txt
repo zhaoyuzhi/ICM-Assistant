@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman lying on a towel? | Yes. |
+| Yes/No | Are her legs bent at the knees? | Yes. |
+| Yes/No | Are her arms resting on her stomach? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the beach setting suggestive of a relaxed atmosphere? | Yes. |
+| What | What is the woman wearing? | A bikini. |
+| What | What is the purpose of the bikini? | To provide comfort and freedom of movement while swimming. |
+| How | How is the woman lying on the towel? | She is lying on her stomach with her legs bent at the knees and her arms resting on her stomach. |
+| How | How does the beach setting contribute to the overall atmosphere of the image? | The sandy surface and open sky add to the sense of leisure and enjoyment. |

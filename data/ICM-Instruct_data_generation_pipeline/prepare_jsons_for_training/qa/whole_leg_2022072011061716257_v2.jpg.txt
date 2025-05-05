@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink blazer? | Yes. |
+| Yes/No | Is the woman in the image holding a shopping bag? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Is the woman's outfit in the image sexy? | Yes. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| What | What color is the woman's blazer? | Pink. |
+| What | What is the woman holding in her hand? | A shopping bag. |
+| How | How does the woman's pose with the shopping bag add to the image's overall sense of allure? | The woman's pose with the shopping bag creates a sense of intrigue and adds to the image's overall sense of allure by suggesting a sense of mystery and confidence. |
+| How | How does the white background affect the image's focus? | The white background draws attention to the subject, emphasizing her attire and posture, and further emphasizing the sense of allure and confidence conveyed by the image. |

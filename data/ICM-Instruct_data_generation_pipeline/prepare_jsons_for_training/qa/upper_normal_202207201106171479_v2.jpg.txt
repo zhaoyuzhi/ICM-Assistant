@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing sunglasses? | Yes. |
+| Yes/No | Is the man looking directly at the camera? | No. |
+| Yes/No | Are the man's hands visible in the image? | Yes. |
+| Yes/No | Is the man wearing a hat? | No. |
+| Yes/No | Is the image well-lit? | No. |
+| Yes/No | Does the image have a sexual atmosphere? | No. |
+| What | What color is the man's jacket? | Yellow and blue. |
+| What | What is the man's pose in the image? | casually tucked his hands into his pockets and looking off to the side. |
+| How | How does the smoky background affect the image's atmosphere? | It adds a sense of mystery and intrigue but doesn't create an atmosphere of intimacy or allure. |
+| How | How does the man's casual attire contribute to the image's lack of sexual appeal? | It doesn't create an atmosphere of intimacy or allure, and it also doesn't show off the man's body details. |

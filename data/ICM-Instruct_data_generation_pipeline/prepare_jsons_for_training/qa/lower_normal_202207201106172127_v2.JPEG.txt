@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of brown pants? | Yes. |
+| Yes/No | Is the woman's top green? | Yes. |
+| Yes/No | Are the woman's arms relaxed at her sides? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Does the image feature any suggestive or provocative elements? | No. |
+| Yes/No | Is the atmosphere of the image calm and composed? | Yes. |
+| What | What is the color of the woman's pants? | Brown. |
+| What | What is the color of the woman's top? | Green. |
+| How | How are the woman's pants styled? | Loose and flowy with a high waist and wide legs. |
+| How | How is the woman's overall appearance in the image? | Neutral, relaxed, and composed. |

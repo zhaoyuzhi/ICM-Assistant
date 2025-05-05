@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink sports bra? | Yes. |
+| Yes/No | Are black sweatpants worn by the woman in the image? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Are the white walls in the background of the image? | Yes. |
+| Yes/No | Is the floor in the gym black? | Yes. |
+| Yes/No | Does the image depict the woman posing for the camera? | Yes. |
+| What | What is the primary color of the woman's sports bra? | Pink. |
+| What | What is the color of the woman's sweatpants? | Black. |
+| How | How many articles of clothing is the woman wearing in the image? | 3 (sports bra, sweatpants, and a bellybaring top). |
+| How | How would you describe the woman's pose in the image? | Confident and athletic. |

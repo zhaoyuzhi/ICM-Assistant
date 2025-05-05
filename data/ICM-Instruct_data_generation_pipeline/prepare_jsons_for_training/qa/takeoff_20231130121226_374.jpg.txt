@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman in the image holding a white towel? | Yes. |
+| Yes/No | Is the woman in the image standing on a beach? | Yes. |
+| Yes/No | Does the image contain explicit nudity? | No. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| What | What is the woman in the image holding up? | A white towel. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How is the woman in the image standing? | She is standing with her legs straight and her arms extended above her head. |
+| How | How would you describe the woman's facial expression in the image? | Her facial expression is relaxed and casual. |

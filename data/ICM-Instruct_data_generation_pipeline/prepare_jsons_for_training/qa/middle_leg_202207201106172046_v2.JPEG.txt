@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing yellow shorts? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Is the person wearing a gray t-shirt? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the person's head turned to the side? | Yes. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| What | What color are the shorts? | Yellow. |
+| What | What is the person's pose in the image? | Relaxed, with arms at sides and head turned to the side. |
+| How | How are the shorts frayed? | Frayed at the hem. |
+| How | How does the person's pose and attire contribute to the overall atmosphere of the image? | The person's pose and attire suggest a sense of comfort, ease, and intimacy, contributing to a casual and relaxed atmosphere. The pose and attire also create a sense of confidence and selfassuredness, which can be perceived as sexy by some viewers. |

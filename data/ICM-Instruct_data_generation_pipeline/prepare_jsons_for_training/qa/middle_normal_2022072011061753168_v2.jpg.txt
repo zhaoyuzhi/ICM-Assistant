@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the shorts black? | Yes. |
+| Yes/No | Does the person have their arms relaxed at their sides? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the image contain any suggestive or provocative elements? | No. |
+| What | What is the color of the Adidas logo? | White. |
+| What | What is the overall atmosphere of the image? | Not sexy, simple and lowkey. |
+| How | How are the person's arms positioned? | Relaxed at their sides. |
+| How | How are the person's legs positioned? | Slightly apart. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the person in the image wearing black shorts? | Yes. |
+| Yes/No | Does the person in the image have a watch on their left wrist? | Yes. |
+| Yes/No | Is the word "adidas" written on the leg of the shorts? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the person in the image wearing on their lower body? | Black shorts with a white stripe on the side. |
+| What | What is the brand name written on the leg of the shorts? | Adidas. |
+| How | How is the person in the image standing? | Not specified in the description. |
+| How | How is the image focused? | The focus is on the person's attire and the brand of the shorts, rather than on any provocative or suggestive elements. |

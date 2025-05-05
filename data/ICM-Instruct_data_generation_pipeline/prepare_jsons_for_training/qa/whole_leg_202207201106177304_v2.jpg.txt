@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image featuring three women? | Yes. |
+| Yes/No | Are the women standing side by side? | Yes. |
+| Yes/No | Is the woman on the left wearing a vibrant yellow jacket? | Yes. |
+| Yes/No | Is the woman in the middle wearing a brown jacket? | Yes. |
+| Yes/No | Is the woman on the right wearing a white jacket? | Yes. |
+| Yes/No | Are the women's thighs exposed in the image? | Yes. |
+| What | What color is the woman's jacket on the left? | Yellow. |
+| What | What color is the woman's skirt on the right? | Black. |

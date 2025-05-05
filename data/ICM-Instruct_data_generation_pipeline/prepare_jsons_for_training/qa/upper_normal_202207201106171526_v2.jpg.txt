@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a hoodie? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire revealing or provocative? | No. |
+| Yes/No | Does the image feature a urban setting? | Yes. |
+| Yes/No | Is the woman's hair long? | No. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| What | What is the woman wearing in the image? | A brown hoodie and short black hair. |
+| What | What is the overall atmosphere of the image? | Casual and nonsexual. |
+| How | How is the woman's attire in the image? | Casual and not particularly revealing or provocative. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | It makes the image appear blurry and indistinct, contributing to a nonsexual atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a gray sports bra? | Yes. |
+| Yes/No | Are the person's legs bent and their buttocks exposed? | Yes. |
+| Yes/No | Is the person wearing black sneakers? | Yes. |
+| Yes/No | Is the background of the image a concrete wall and a window? | Yes. |
+| Yes/No | Does the image create a sense of confidence and allure? | Yes. |
+| Yes/No | Is the person's attire suggestive of athleticism and fitness? | Yes. |
+| What | What is the color of the sports bra? | Gray. |
+| What | What is the color of the leggings? | Black. |
+| How | How is the person standing on the black box? | With their legs bent and their buttocks exposed. |
+| How | How does the image create a sense of confidence and allure? | Through the deliberate exposure of the person's buttocks, the contrast between the person's figure and the background, and the person's athletic attire. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red top? | Yes. |
+| Yes/No | Are the pants the person is wearing beige? | Yes. |
+| Yes/No | Is the person's head tilted to the side? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image depict any explicit content? | No. |
+| What | What is the color of the person's top? | Red. |
+| What | What is the color of the person's pants? | Beige. |
+| How | How is the person standing in the image? | With their hands placed on their hips and their head slightly tilted to the side. |
+| How | How would you describe the atmosphere of the image? | Calm and nonsexual. |
+| Yes/No | Is the person in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Is the person wearing a red top? | Yes. |
+| Yes/No | Are the person's hands placed on their hips? | Yes. |
+| Yes/No | Is the person's head slightly tilted to the side? | Yes. |
+| Yes/No | Are the pants well-fitted? | Yes. |
+| Yes/No | Does the person appear to be in a relaxed posture? | Yes. |
+| What | What is the color of the person's top? | Red. |
+| What | What is the person's posture? | Standing with hands placed on hips and head slightly tilted to the side. |
+| How | How are the person's hands positioned? | In a way that suggests confidence. |
+| How | How would you describe the overall atmosphere of the image? | Casual and comfortable. |

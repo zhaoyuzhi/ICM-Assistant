@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the person in the image standing in front of a white curtain? | Yes. |
+| Yes/No | Does the person in the image have their hands placed on their hips? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Is the person in the image smiling? | No. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the color of the person's top? | White. |
+| What | What is the pose of the person in the image? | Hands on hips. |
+| How | How is the person's attire contributing to the overall atmosphere of the image? | The white strapless top exposes a significant amount of the person's back, which is often associated with a sense of allure and sensuality, contributing to the sexy atmosphere of the image. |
+| How | How does the background of the image contribute to its overall atmosphere? | The white curtain in the background provides a simple and uncluttered backdrop that further emphasizes the person and their attire, contributing to the overall atmosphere of allure and sensuality. |

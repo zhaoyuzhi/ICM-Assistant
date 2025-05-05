@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image wearing a pair of swimming trunks? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| Yes/No | Is the man flexing his muscles in the image? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the man's physique muscular? | Yes. |
+| What | What is the man wearing in the image? | A pair of men's swimming trunks. |
+| What | What is the color of the background in the image? | White. |
+| How | How is the man posing in the image? | Flexing his muscles. |
+| How | How can the atmosphere of the image be described? | Sensual and alluring. |

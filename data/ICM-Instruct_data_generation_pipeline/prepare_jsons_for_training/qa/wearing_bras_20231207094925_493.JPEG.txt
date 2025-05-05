@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the man in the image assisting the woman with putting on her bra? | Yes. |
+| Yes/No | Is the image portraying a private moment between the man and woman? | Yes. |
+| Yes/No | Is the woman's left hand holding the bra? | Yes. |
+| Yes/No | Is the man's right hand holding the woman's right hand? | Yes. |
+| Yes/No | Does the image have a sensual and alluring atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A black bra. |
+| What | What is the man doing in the image? | Assisting the woman with putting on her bra. |
+| How | How is the woman holding the bra? | With her left hand. |
+| How | How is the man assisting the woman? | By holding her right hand. |

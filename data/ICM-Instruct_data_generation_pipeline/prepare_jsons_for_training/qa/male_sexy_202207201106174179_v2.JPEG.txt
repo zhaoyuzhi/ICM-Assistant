@@ -1,0 +1,9 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man's pose in the image suggestive or sexual? | Yes. |
+| What | What color are the man's underwear? | Pink. |
+| What | What is the man's facial expression in the image? | Unknown (not specified in description). |
+| How | How is the man standing in the image? | With his arms raised. |
+| What | What does the man's pose accentuate? | His muscular physique and sense of confidence. |

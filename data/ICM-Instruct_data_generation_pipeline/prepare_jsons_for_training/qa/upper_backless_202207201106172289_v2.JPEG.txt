@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow bikini? | Yes. |
+| Yes/No | Is the person in the image facing away from the camera? | Yes. |
+| Yes/No | Does the bikini have thin straps? | Yes. |
+| Yes/No | Is the person's back exposed in the image? | Yes. |
+| Yes/No | Is the image visually striking? | Yes. |
+| Yes/No | Does the image create a sense of mystery and intrigue? | Yes. |
+| What | What is the color of the bikini? | Yellow. |
+| What | What is the posture of the person in the image? | Standing with their back turned to the camera. |
+| How | How does the person's posture contribute to the overall allure of the image? | It creates a sense of mystery and intrigue. |
+| How | How does the bright yellow color of the bikini contribute to the image? | It stands out against the white tiled wall, drawing attention to the person and making them the focal point of the image. |

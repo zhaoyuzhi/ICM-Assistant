@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Are both of the woman's hands visible in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image cheerful? | Yes. |
+| Yes/No | Is the atmosphere of the image confident? | Yes. |
+| What | What color is the bra the woman is wearing? | Light green. |
+| What | What is the woman's facial expression in the image? | Smiling. |
+| How | How is the woman holding the bra in the image? | With both hands. |
+| What | What does the light green color of the bra suggest about the atmosphere of the image? | Freshness and vitality. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra light green in color? | Yes. |
+| Yes/No | Is the woman holding the bra with both hands? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the atmosphere of the image cheerful and confident? | Yes. |
+| Yes/No | Does the image capture the moment from the side? | Yes. |
+| What | What is the woman doing in the image? | She is putting on a light green bra and smiling. |
+| What | What is the color of the bra the woman is wearing? | Light green. |
+| How | How is the woman holding the bra? | With both hands. |
+| How | How would you describe the atmosphere of the image? | Cheerful and confident. |

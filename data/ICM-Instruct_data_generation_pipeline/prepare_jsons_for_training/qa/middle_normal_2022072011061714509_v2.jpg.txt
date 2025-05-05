@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the man in the image wearing shorts with a floral pattern? | Yes. |
+| Yes/No | Is the man in the image wearing a watch on his left wrist? | Yes. |
+| Yes/No | Is the image explicit or suggestive? | No. |
+| Yes/No | Does the man's attire include a yellow flower on the left leg of his shorts? | Yes. |
+| Yes/No | Is the overall atmosphere of the image calm and non-threatening? | Yes. |
+| What | What color are the man's shorts? | Blue and green. |
+| What | What is the man wearing on his left wrist? | A watch. |
+| How | How many colors are included in the floral pattern on the man's shorts? | 3 (blue, green, and yellow). |
+| How | How many flowers are featured on the man's shorts? | 1 (a yellow flower on the left leg). |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Are the shorts blue and green? | Yes. |
+| Yes/No | Does the pattern on the shorts consist of flowers and leaves? | Yes. |
+| Yes/No | Is the man's pose in the image neutral? | Yes. |
+| Yes/No | Are there any other objects or people in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the man's t-shirt? | White. |
+| What | What is the pattern on the man's shorts? | Floral (flowers and leaves). |
+| How | How is the man's pose in the image? | Neutral. |
+| How | How would you describe the overall atmosphere of the image? | Calm and nonthreatening. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a sweater? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire modest? | Yes. |
+| Yes/No | Does the image feature any provocative elements? | No. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the color of the woman's skirt? | Olive green. |
+| What | What is the color of the woman's sweater? | Pink. |
+| How | How is the woman standing in the room? | With her hands on her hips. |
+| How | How is the room lit? | Welllit. |

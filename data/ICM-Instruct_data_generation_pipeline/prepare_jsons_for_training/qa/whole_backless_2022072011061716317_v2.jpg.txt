@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress velvet? | Yes. |
+| Yes/No | Is the dress burgundy in color? | Yes. |
+| Yes/No | Does the dress have a lace-up back? | Yes. |
+| Yes/No | Are the woman's hands on her hips? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| What | What is the texture of the dress? | Velvet. |
+| What | What is the color of the dress? | Burgundy. |
+| How | How does the lace-up back of the dress accentuate the woman's figure? | It exposes a large area of her back. |
+| How | How does the woman's pose with her hands on her hips contribute to the overall allure of the image? | It accentuates her figure and suggests confidence or assertiveness. |

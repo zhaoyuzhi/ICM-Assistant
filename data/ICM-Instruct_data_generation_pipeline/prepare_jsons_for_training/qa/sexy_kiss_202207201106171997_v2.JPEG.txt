@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a red sweater? | Yes. |
+| Yes/No | Is the woman wearing a black sweater? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are the woman's arms wrapped around the man's waist? | Yes. |
+| Yes/No | Is the forest in the background filled with trees and foliage? | Yes. |
+| Yes/No | Does the image evoke feelings of love and intimacy? | Yes. |
+| What | What is the color of the man's sweater? | Red. |
+| What | What is the color of the woman's sweater? | Black. |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other, with the woman's arms wrapped around the man's waist. |
+| How | How does the image create a serene and intimate atmosphere? | The image creates a serene and intimate atmosphere through the close proximity of the man and woman, the natural setting of the forest, and the contrast between the red sweater and black sweater. |

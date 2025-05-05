@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jean shorts? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the person's arms crossed in the image? | Yes. |
+| Yes/No | Is the person in the image looking down at the ground? | Yes. |
+| Yes/No | Is the background of the image a building and a sidewalk? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| What | What color are the person's shoes in the image? | Black. |
+| What | What color are the person's socks in the image? | White. |
+| How | How is the person standing in the image? | With their arms crossed. |
+| What | What is the person looking at in the image? | The ground. |

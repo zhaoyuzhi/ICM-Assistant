@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the couple kissing passionately? | Yes. |
+| Yes/No | Is the woman's head resting on the man's shoulder? | Yes. |
+| Yes/No | Are they making out in a bed? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and romantic? | Yes. |
+| What | What is the color of the man's shirt? | Blue. |
+| What | What is the color of the woman's shirt? | White. |
+| How | How is the woman's head positioned in relation to the man's shoulder? | Resting. |
+| How | How would you describe the overall aesthetic of the image? | Visually appealing, intimate, and passionate. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing a short skirt? | Yes. |
+| Yes/No | Is the woman in the image carrying a purse? | Yes. |
+| Yes/No | Are there other people in the image? | Yes. |
+| Yes/No | Is the woman in the image wearing headphones? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the woman in the image wearing on her feet? | The image doesn't provide information about the woman's footwear. |
+| What | What is the woman in the image listening to on her headphones? | The image doesn't provide information about what the woman is listening to on her headphones. |
+| How | How is the woman in the image carrying her purse? | The image doesn't provide information about how the woman is carrying her purse. |
+| How | How is the woman in the image walking? | The image doesn't provide information about how the woman is walking. |

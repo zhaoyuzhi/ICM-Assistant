@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a top? | Yes. |
+| Yes/No | Are the woman's sneakers white? | Yes. |
+| Yes/No | Is the background of the image neutral? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire modest and appropriate? | Yes. |
+| What | What is the color of the woman's skirt? | Navy blue. |
+| What | What is the material of the woman's top? | White. |
+| How | How does the skirt fall? | Just above her knees. |
+| How | How does the top cover the woman's torso? | Modestly and simply. |

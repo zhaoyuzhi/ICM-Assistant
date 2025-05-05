@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress short-sleeved? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the building in the background white? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the person's attire modest? | Yes. |
+| What | What color is the person's belt? | Black. |
+| What | What is the overall atmosphere of the image? | Calm and neutral. |
+| How | How is the person standing in relation to the building? | They are standing in front of it. |
+| How | How does the person's attire contribute to the non-sexual nature of the scene? | The dress is modest and there is no indication of any intimate or provocative actions. |
+| Yes/No | Is the person in the image wearing a gray dress? | Yes. |
+| Yes/No | Is the person wearing a black belt? | Yes. |
+| Yes/No | Is the person wearing a white sweater? | Yes. |
+| Yes/No | Is the dress modest in length? | Yes. |
+| Yes/No | Is the person's posture neutral? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| What | What is the color of the building in the background? | White. |
+| What | What is the person's attire? | Gray dress with a black belt and a white sweater. |
+| How | How would you describe the overall atmosphere of the image? | Calm and neutral. |
+| How | How would you describe the focus of the image? | On the person's outfit and the building in the background, rather than on any sexual content. |

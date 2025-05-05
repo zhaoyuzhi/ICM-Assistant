@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are her leggings black? | Yes. |
+| Yes/No | Is she holding a pink water bottle in her right hand? | Yes. |
+| Yes/No | Is the background of the image a wooden wall? | Yes. |
+| Yes/No | Is there text in Russian on the background? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What is the color of the woman's water bottle? | Pink. |
+| What | What is the material of the woman's leggings? | Black. |
+| How | How is the woman holding the water bottle? | In her right hand. |
+| How | How does the woman's upper body look? | Exposed. |

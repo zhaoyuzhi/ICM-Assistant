@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing red lipstick? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the woman wearing a gray sweater? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the image suggest that the woman is looking off into the distance? | Yes. |
+| What | What is the color of the woman's hair? | Brown. |
+| What | What is the woman's facial expression? | Neutral. |
+| How | How is the woman looking off to the side? | With a slight smile. |
+| How | How does the gray sweater contrast with the sensuality of the woman's red lipstick and the way she is looking off to the side? | It adds a casual and comfortable element to the image, contrasting with the sensuality of her red lipstick and the way she is looking off to the side. |

@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the man holding a protein bar? | Yes. |
+| Yes/No | Is the background of the image a beach? | Yes. |
+| Yes/No | Does the image create a sexy atmosphere? | Yes. |
+| What | What is the man holding in his right hand? | A protein bar. |
+| What | What is the background of the image? | A beach. |
+| How | How does the man's pose contribute to the sexy atmosphere? | The man's pose, holding a protein bar, adds an element of casualness and playfulness to the image. |
+| How | How does the beach setting add to the overall allure of the image? | The beach setting adds to the overall allure, as it is a place often associated with relaxation and leisure. |

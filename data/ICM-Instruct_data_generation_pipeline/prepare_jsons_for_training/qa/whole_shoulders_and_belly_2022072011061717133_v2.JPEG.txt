@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a black hoodie? | Yes. |
+| Yes/No | Does the hoodie have a white graphic on the front? | Yes. |
+| Yes/No | Is the woman wearing a white sports bra underneath the hoodie? | Yes. |
+| Yes/No | Are the camouflage pants cropped at the ankle? | Yes. |
+| Yes/No | Is the woman's pose suggestive/sexy? | Yes. |
+| What | What is the main color of the woman's hoodie? | Black. |
+| What | What is the color of the graphic on the front of the woman's sports bra? | Black. |
+| How | How is the woman's left hand positioned in the image? | Resting on her hip. |
+| How | How are the camouflage pants cropped? | Cropped at the ankle. |

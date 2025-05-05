@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a white dress? | Yes. |
+| Yes/No | Are the woman's heels black? | Yes. |
+| Yes/No | Does the dress have a high neckline? | Yes. |
+| Yes/No | Is the woman's pose neutral? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive elements? | No. |
+| Yes/No | Is the woman's attire modest and appropriate? | Yes. |
+| What | What is the main color of the woman's dress? | White. |
+| What | What kind of shoes is the woman wearing? | Black heels. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | It contributes to a calm and serene atmosphere. |
+| How | How does the white background affect the focus of the image? | It makes the woman and her outfit the main focus, rather than any provocative elements. |

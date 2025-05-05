@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Does the woman have a floral headband? | Yes. |
+| Yes/No | Is the woman smiling? | Yes. |
+| Yes/No | Is the image exposed correctly? | No. |
+| Yes/No | Does the woman have any tattoos or piercings visible in the image? | No. |
+| Yes/No | Is the woman's attire revealing or suggestive? | No. |
+| What | What color is the woman's dress? | Blue. |
+| What | What is the pattern on the woman's headband? | Floral. |
+| How | How is the woman's hair styled? | Long and dark, not clearly visible due to low exposure. |
+| How | How is the woman's face lit up? | With a smile. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white top? | Yes. |
+| Yes/No | Are the person's leggings blue? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the large area of exposed back add to the allure of the image? | Yes. |
+| Yes/No | Is the person's pose confident and self-assured? | Yes. |
+| What | What is the person wearing on their lower body? | Blue leggings. |
+| What | What is the person's attire contrasting with? | Their skin. |
+| How | How does the large area of exposed back contribute to the allure of the image? | It is often associated with sensuality and vulnerability. |
+| How | How does the person's pose contribute to the allure of the image? | It showcases their confidence and selfassuredness. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a tank top? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| Yes/No | Are the man's muscles well-defined? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the man have a muscular physique? | Yes. |
+| Yes/No | Is the man flexing his muscles? | Yes. |
+| What | What is the man wearing in the image? | A black tank top. |
+| What | What is the color of the background in the image? | Dark. |
+| How | How does the man's physique appear in the image? | Welldefined. |
+| How | How does the image portray the man's confidence? | Confidently flexing his muscles. |

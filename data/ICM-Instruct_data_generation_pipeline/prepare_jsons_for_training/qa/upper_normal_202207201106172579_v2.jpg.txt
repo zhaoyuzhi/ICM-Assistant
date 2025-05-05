@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a black jacket? | Yes. |
+| Yes/No | Is the man in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the man's hair styled in a side part? | Yes. |
+| Yes/No | Is the image set against a white background? | Yes. |
+| Yes/No | Is the man wearing a white t-shirt? | Yes. |
+| What | What is the man's facial expression in the image? | Neutral. |
+| What | What is the overall atmosphere of the image? | Calm and straightforward. |
+| How | How is the man's hair styled in the image? | In a side part. |
+| How | How does the low exposure level affect the image? | It makes it difficult to discern any explicit or suggestive content and emphasizes the simplicity of the image. |

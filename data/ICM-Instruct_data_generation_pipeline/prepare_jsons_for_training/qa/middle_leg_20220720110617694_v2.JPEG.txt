@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing shorts? | Yes. |
+| Yes/No | Is the woman in the image wearing a sweater? | Yes. |
+| Yes/No | Does the woman in the image have a purse? | Yes. |
+| Yes/No | Is the purse black? | Yes. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Does the image feature a building in the background? | Yes. |
+| What | What color are the shorts? | White. |
+| What | What is the color of the sweater? | Gray. |
+| How | How does the woman carry her purse? | In her hand. |
+| How | How does the image showcase the woman's body? | Confidently and alluringly. |

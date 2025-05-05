@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person wearing black strappy sandals? | Yes. |
+| Yes/No | Is the background of the image a white wall and a window? | Yes. |
+| Yes/No | Does the image convey a sense of relaxation and confidence? | Yes. |
+| Yes/No | Does the image contain explicit content? | No. |
+| What | What color is the person's dress? | Black. |
+| What | What type of shoes is the person wearing? | Black strappy sandals. |
+| How | How is the person positioned on the chair? | With their legs crossed. |
+| How | How does the image convey a sense of allure and intimacy? | Through the combination of the person's attire, pose, and overall atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the leggings black? | Yes. |
+| Yes/No | Is the woman facing the camera? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the woman's posture confident? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the sports bra? | Light green. |
+| What | What is the woman's posture? | Confident. |
+| How | How does the light green sports bra contrast with the black leggings? | It creates a contrast that draws attention to the woman's attire. |
+| How | How does the woman's confident posture contribute to the overall allure of the image? | It adds to the overall allure of the image by emphasizing the woman's form and attire in a confident and alluring manner. |

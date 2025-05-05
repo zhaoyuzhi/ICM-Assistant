@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person putting on white stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image holding? | Their foot. |
+| What | What are they in the process of doing? | Putting on white stockings. |
+| How | How is the person positioned on the bed? | They are sitting. |
+| How | How does the image portray a sense of intimacy and vulnerability? | Through the private moment of getting ready and the minimal clothing worn by the person. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are they wearing black shorts? | Yes. |
+| Yes/No | Is the person putting on white stockings? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the person in the image doing? | They are putting on white stockings. |
+| What | What is the color of the stockings? | White. |
+| How | How is the person holding their foot up? | They are holding their foot up with their hand. |
+| What | What is the overall atmosphere of the image? | Intimate and personal. |

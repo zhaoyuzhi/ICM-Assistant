@@ -1,0 +1,21 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Is the woman standing in front of a white tiled wall? | Yes. |
+| Yes/No | Is the woman holding the bra with both hands? | Yes. |
+| Yes/No | Is the woman adjusting the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the woman wearing a silver necklace and earrings? | Yes. |
+| What | What is the woman holding in the image? | A blue bra. |
+| What | What is the color of the woman's bra? | Blue. |
+| How | How is the woman adjusting the bra? | The woman is holding the bra with both hands and appears to be adjusting it. |
+| What | What atmosphere does the image create? | An atmosphere of intimacy and allure. |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Is the woman standing in front of a white tiled wall? | Yes. |
+| Yes/No | Is the woman holding the bra with both hands? | Yes. |
+| Yes/No | Is the woman adjusting the bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing around her neck? | A silver necklace. |
+| What | What is the woman wearing in her ears? | Silver earrings. |
+| How | How is the woman holding the bra? | With both hands. |
+| How | How is the woman adjusting the bra? | By adjusting the straps. |

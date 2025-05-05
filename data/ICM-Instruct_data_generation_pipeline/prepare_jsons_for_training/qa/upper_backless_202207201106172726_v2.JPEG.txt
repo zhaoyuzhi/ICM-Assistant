@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Is the woman in the image lying on her stomach? | Yes. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| Yes/No | Is the woman holding a ball in her right hand? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the woman's left hand resting on the mat? | Yes. |
+| What | What is the woman holding in her right hand? | A white ball. |
+| What | What is the color of the woman's sports bra and leggings? | Black. |
+| How | How is the woman positioned on the yoga mat? | She is lying on her stomach. |
+| How | How does the woman's expression suggest she is feeling? | Determined and focused. |

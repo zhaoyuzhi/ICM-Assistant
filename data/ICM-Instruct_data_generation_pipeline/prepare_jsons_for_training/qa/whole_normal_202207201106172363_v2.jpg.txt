@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image smiling? | Yes. |
+| Yes/No | Is the person in the image looking directly at the camera? | Yes. |
+| Yes/No | Is the person in the image wearing a camouflage jacket? | Yes. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the image revealing any explicit or inappropriate content? | No. |
+| Yes/No | Does the image have a casual and friendly atmosphere? | Yes. |
+| What | What is the young man wearing? | A camouflage jacket and a black shirt. |
+| What | What is the color of the blanket on the bed? | Blue. |
+| How | How is the young man's expression in the image? | He is smiling and looking directly at the camera. |
+| How | How would you describe the overall atmosphere of the image? | Casual and friendly. |

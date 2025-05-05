@@ -1,0 +1,10 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image in color? | No. |
+| Yes/No | Are any of the men wearing white clothing? | No. |
+| Yes/No | Is the bench made of metal? | No. |
+| Yes/No | Are any of the men standing on the ground? | No. |
+| Yes/No | Is the image taken indoors? | No. |
+| Yes/No | Are any of the men wearing shorts? | No. |
+| What | What is the man on the far left wearing on his head? | Beanie. |
+| What | What is the man on the far right wearing on his head? | Baseball cap. |

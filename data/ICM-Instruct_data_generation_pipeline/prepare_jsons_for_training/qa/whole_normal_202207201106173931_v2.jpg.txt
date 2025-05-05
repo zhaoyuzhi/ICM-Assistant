@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the woman holding a purse in her left hand? | Yes. |
+| Yes/No | Does the dress have long sleeves? | Yes. |
+| Yes/No | Does the dress have a round neckline? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| What | What color is the purse the woman is holding? | Black. |
+| What | What is the genre of photography that the image belongs to? | Portrait. |
+| How | How does the white background of the image affect the overall focus of the image? | It emphasizes the woman and her attire, making the image more about her and her outfit rather than her physical appearance. |
+| How | How does the black purse add a contrasting element to the scene without drawing attention to the woman's body or suggesting any provocative intent? | It provides a visual contrast to the white background and the woman's maroon dress, drawing attention to the woman's accessories and overall style rather than her physical attributes. |

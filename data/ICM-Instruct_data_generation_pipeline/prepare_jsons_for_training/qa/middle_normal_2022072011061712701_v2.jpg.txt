@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing gray sweatpants? | Yes. |
+| Yes/No | Is the woman standing with her hands in her pockets? | Yes. |
+| Yes/No | Is the woman's body facing the camera? | Yes. |
+| How | Does the image show any skin or revealing clothing? | No. |
+| Yes/No | Is the atmosphere of the image casual and comfortable? | Yes. |
+| Yes/No | Does the image suggest a sexual context or that the woman is trying to be seductive? | No. |
+| What | What is the woman wearing in the image? | A pair of gray sweatpants. |
+| What | What is the woman's pose in the image? | She is standing with her hands in her pockets. |
+| How | How is the woman dressed in the image? | She is dressed in a sporty outfit. |
+| How | How does the woman's pose suggest a relaxed and informal setting? | Her pose suggests a relaxed and informal setting because she is standing with her hands in her pockets and her body is facing the camera in a natural way, without any suggestive or seductive posing. |
+| Yes/No | Is the person in the image wearing a pair of gray sweatpants? | Yes. |
+| Yes/No | Does the person have their hands resting in their pockets? | Yes. |
+| Yes/No | Is the person wearing a purple sweatshirt? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the person's pose neutral? | Yes. |
+| Yes/No | Does the image contain any suggestive poses or sexual context? | No. |
+| What | What color are the sweatpants? | Gray. |
+| What | What color is the sweatshirt? | Purple. |
+| How | How are the sweatpants designed? | They have a drawstring waist. |
+| What | What does the person's pose suggest? | A casual and relaxed atmosphere. |

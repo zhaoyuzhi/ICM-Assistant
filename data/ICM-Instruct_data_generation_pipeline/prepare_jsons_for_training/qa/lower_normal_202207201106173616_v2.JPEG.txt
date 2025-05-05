@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing shorts? | Yes. |
+| Yes/No | Does the man have his hands in his pockets? | Yes. |
+| Yes/No | Is the man wearing a watch? | Yes. |
+| Yes/No | Are the shorts green in color? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the color of the man's shorts? | Green. |
+| What | What is the man wearing on his left wrist? | A watch. |
+| How | How many pockets do the shorts have? | Multiple. |
+| How | How is the man's pose in the image? | Casual and relaxed. |

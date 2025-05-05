@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black jeans? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Are the jeans high-waisted and form-fitting? | Yes. |
+| Yes/No | Is the person's posture confident and relaxed? | Yes. |
+| Yes/No | Are the person's hands resting on their hips? | Yes. |
+| Yes/No | Does the image contain explicit content? | No. |
+| What | What color are the jeans? | Black. |
+| What | What is the person's posture? | Confident and relaxed. |
+| How | How do the jeans fit the person's body? | Formfitting. |
+| How | How does the person's posture contribute to the overall atmosphere of the image? | It enhances the sexy atmosphere by appearing confident and relaxed. |

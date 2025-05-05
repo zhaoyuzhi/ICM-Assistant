@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black jacket? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Are the couple kissing passionately? | Yes. |
+| Yes/No | Is the background blurred? | Yes. |
+| Yes/No | Is the woman's head tilted back? | Yes. |
+| Yes/No | Does the image have a romantic atmosphere? | Yes. |
+| What | What is the man wearing? | A black jacket. |
+| What | What is the woman wearing? | A white top. |
+| How | How is the woman leaning into the man's kiss? | She is leaning into the man's kiss with her head tilted back. |
+| How | How does the contrast between the man's black jacket and the woman's white top add to the visual appeal of the image? | The contrast creates a visually striking and aesthetically pleasing image. |

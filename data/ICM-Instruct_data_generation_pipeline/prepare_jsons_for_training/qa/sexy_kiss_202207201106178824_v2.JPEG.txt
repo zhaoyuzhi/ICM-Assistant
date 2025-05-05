@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a white blouse? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Are the man's arms wrapped around the woman's waist? | Yes. |
+| Yes/No | Is the woman looking up at the man? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the man's shirt? | Blue. |
+| What | What is the color of the woman's blouse? | White. |
+| How | How are the man and woman standing in relation to each other? | They are standing close to each other, with the man's arms wrapped around the woman's waist. |
+| How | How is the woman looking at the man? | She is looking up at the man, indicating a sense of intimacy and closeness between them. |

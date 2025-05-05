@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the person in the image sitting in a bathtub? | Yes. |
+| Yes/No | Is the atmosphere of the image intimate and sensual? | Yes. |
+| Yes/No | Are the person's clothes soaked? | Yes. |
+| Yes/No | Is the setting of the image a private environment? | Yes. |
+| Yes/No | Does the image portray a sense of vulnerability? | Yes. |
+| What | What is the person wearing in the image? | A white tshirt. |
+| What | What is the person's facial expression in the image? | Not specified in the description. |
+| How | How is the person's wet clothing depicted in the image? | The white tshirt is soaked and appears to be wet. |
+| How | How does the bathtub setting contribute to the overall atmosphere of the image? | The bathtub setting suggests a relaxed and private environment, which contributes to the intimate and sensual atmosphere of the image. |

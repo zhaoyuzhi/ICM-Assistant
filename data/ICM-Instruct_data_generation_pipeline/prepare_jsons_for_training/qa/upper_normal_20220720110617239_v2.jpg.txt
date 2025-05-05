@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple blouse? | Yes. |
+| Yes/No | Is the woman in the image standing in front of a white background? | Yes. |
+| Yes/No | Does the woman in the image have her arms crossed? | Yes. |
+| Yes/No | Is the image low-key? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the woman's attire modest? | Yes. |
+| What | What is the color of the woman's blouse? | Purple. |
+| What | What is the woman's attire like? | Modest. |
+| How | How is the woman standing in the image? | With her arms crossed. |
+| What | What is the atmosphere of the image? | Calm and professional. |

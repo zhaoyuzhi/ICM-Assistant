@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Are the woman's legs crossed in the image? | Yes. |
+| Yes/No | Is the woman holding a cup in the image? | Yes. |
+| Yes/No | Is the image surrounded by a gold border? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence? | Yes. |
+| Yes/No | Does the image have a luxurious and sophisticated atmosphere? | Yes. |
+| What | What is the woman holding in the image? | A cup. |
+| What | What color is the woman's bikini top? | Purple. |
+| How | How are the woman's legs positioned in the image? | Crossed. |
+| How | How does the gold border surrounding the image enhance its atmosphere? | It makes the image feel more luxurious and sophisticated. |

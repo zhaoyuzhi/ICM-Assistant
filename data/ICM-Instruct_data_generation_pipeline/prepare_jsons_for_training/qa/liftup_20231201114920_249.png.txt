@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young man? | Yes. |
+| Yes/No | Is the young man wearing a white shirt and white pants? | Yes. |
+| Yes/No | Is the young man lifting his shirt and exposing his torso? | Yes. |
+| Yes/No | Is the young man holding a microphone? | Yes. |
+| Yes/No | Does the image suggest a sense of confidence and allure? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the young man holding in the image? | A microphone. |
+| What | What is the young man doing in the image? | Lifting his shirt and exposing his torso. |
+| How | How is the young man's attire in the image? | The young man is wearing a white shirt and white pants. |
+| How | How does the image create an atmosphere? | The image creates an atmosphere of intimacy and allure. |

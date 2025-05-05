@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Is the woman in the image wearing jeans? | Yes. |
+| Yes/No | Is the woman in the image posing with her hand on her hip? | Yes. |
+| Yes/No | Is the woman in the image sticking her tongue out? | Yes. |
+| Yes/No | Does the image have a seductive atmosphere? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and self-assuredness? | Yes. |
+| What | What is the woman in the image wearing? | A strapless top and jeans. |
+| What | What is the woman in the image posing with? | Her hand on her hip. |
+| How | How is the woman in the image posing? | With her tongue sticking out and her hand on her hip. |
+| How | How does the image create a sense of allure and seduction? | Through the woman's confident pose, revealing outfit, and seductive atmosphere. |

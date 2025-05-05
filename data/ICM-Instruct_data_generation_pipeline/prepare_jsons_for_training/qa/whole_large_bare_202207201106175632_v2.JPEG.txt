@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Is the woman in the image lying down? | Yes. |
+| Yes/No | Is the woman in the image smiling? | Yes. |
+| Yes/No | Is the bed covered with a white sheet? | Yes. |
+| Yes/No | Is the woman's body fully exposed in the image? | Yes. |
+| What | What is the woman wearing on her upper body? | A silver bikini top. |
+| What | What is the woman's facial expression in the image? | A slight smile. |
+| How | How is the woman positioned on the bed? | Reclining. |
+| How | How does the white sheet on the bed contrast with the woman's skin? | It provides a stark contrast, emphasizing her presence in the image. |

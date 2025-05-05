@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a white tank top? | Yes. |
+| Yes/No | Does the image suggest a moment of self-care and relaxation? | Yes. |
+| Yes/No | Is the person holding a pink brush? | Yes. |
+| Yes/No | Is the atmosphere of the image sensual and alluring? | Yes. |
+| Yes/No | Is the person's hair pulled back into a bun? | Yes. |
+| What | What is the person doing in the image? | The person is brushing their hair with a pink brush. |
+| What | What color is the person's tank top? | The person's tank top is white. |
+| How | How does the person's exposed skin contribute to the image's atmosphere? | The person's exposed skin creates a sense of sensuality and allure, contributing to the overall atmosphere of the image. |
+| How | How does the person's hairstyle contribute to the image's atmosphere? | The person's hair pulled back into a bun adds to the overall allure of the image, suggesting a moment of selfcare and relaxation. |

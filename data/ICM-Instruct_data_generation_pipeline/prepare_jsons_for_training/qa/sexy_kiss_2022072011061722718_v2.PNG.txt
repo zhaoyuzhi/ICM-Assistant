@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a blue shirt? | Yes. |
+| Yes/No | Is the woman wearing a white shirt? | Yes. |
+| Yes/No | Are the man and woman standing close to each other? | Yes. |
+| Yes/No | Is the woman's head resting on the man's shoulder? | Yes. |
+| Yes/No | Are the man and woman looking at each other? | Yes. |
+| Yes/No | Is the image intimate and romantic? | Yes. |
+| What | What is the man holding in his hands? | The woman's face. |
+| What | What is the color contrast between the man's and woman's shirts? | Blue and white. |
+| How | How is the woman's head positioned in relation to the man's shoulder? | Resting. |
+| How | How would you describe the overall atmosphere of the image? | Intimate and romantic. |

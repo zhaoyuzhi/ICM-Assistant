@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pink shirt? | Yes. |
+| Yes/No | Are her thighs exposed in the image? | No. |
+| Yes/No | Is she holding a cell phone in her hand? | Yes. |
+| Yes/No | Is the setting of the image a city street? | Yes. |
+| Yes/No | Does the image have a sexy vibe? | Yes. |
+| Yes/No | Is her outfit casual? | Yes. |
+| What | What color is the woman's shirt? | Pink. |
+| What | What is the woman holding in her hand? | A cell phone. |
+| How | How is the woman's outfit revealing? | Her thighs are almost exposed. |
+| How | How does the city street setting contribute to the image's sexy vibe? | It suggests sophistication and allure. |

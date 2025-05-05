@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a hat? | Yes. |
+| Yes/No | Are there bottles of wine on display in the wine cellar? | Yes. |
+| Yes/No | Is the woman's blouse slightly open? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the woman standing in a wine cellar? | Yes. |
+| Yes/No | Does the woman's pose and attire suggest confidence and allure? | Yes. |
+| What | What is the woman wearing on her feet? | The description doesn't mention what the woman is wearing on her feet, so it's not possible to answer this question based on the information provided. |
+| What | What is the woman's facial expression? | The description doesn't mention the woman's facial expression, so it's not possible to answer this question based on the information provided. |
+| How | How many bottles of wine are on display in the wine cellar? | The description doesn't mention the exact number of bottles, so it's not possible to answer this question based on the information provided. |
+| How | How does the woman's outfit and pose contribute to the overall atmosphere of the image? | The woman's outfit and pose contribute to a captivating and enticing atmosphere, suggesting a sense of confidence and allure. |

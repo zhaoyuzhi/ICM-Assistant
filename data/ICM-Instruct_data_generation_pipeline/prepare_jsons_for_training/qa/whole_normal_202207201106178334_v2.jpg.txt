@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green dress? | Yes. |
+| Yes/No | Is the woman in the image wearing a hat? | Yes. |
+| Yes/No | Does the image feature any revealing or provocative clothing or body parts? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy or alluring? | No. |
+| Yes/No | Does the image convey a sense of tranquility or grace? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What color is the woman's dress in the image? | Green. |
+| What | What is the woman wearing on her head in the image? | A hat. |
+| How | How would you describe the woman's attire in the image? | Modest and elegant. |
+| How | How would you describe the overall atmosphere of the image? | Tranquil and graceful. |

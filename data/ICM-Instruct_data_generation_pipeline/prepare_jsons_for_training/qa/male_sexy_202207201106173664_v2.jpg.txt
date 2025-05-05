@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image sitting on a yoga mat? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the man's toplessness a significant aspect of the image? | Yes. |
+| Yes/No | Does the image suggest a sense of relaxation and vulnerability? | Yes. |
+| Yes/No | Does the image evoke a sense of intimacy and allure? | Yes. |
+| What | What is the man in the image sitting on? | A yoga mat. |
+| What | What is the man in the image clasping his hands in front of him? | It is not specified. |
+| How | How is the man in the image sitting? | In a seated position. |
+| How | How does the image suggest a sense of relaxation and vulnerability? | Through the man's posture and the absence of other objects or people. |

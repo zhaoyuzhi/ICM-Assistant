@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person wearing a white jacket? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the person wearing a black tie? | Yes. |
+| Yes/No | Are the clothes being lifted to expose the chest and torso? | Yes. |
+| Yes/No | Is the image in black and white? | Yes. |
+| What | What is the gender of the person in the image? | Male. |
+| What | What is the color scheme of the image? | Black and white. |
+| How | How is the person presenting himself in the image? | Confident and alluring. |
+| How | How does the black and white color scheme enhance the overall atmosphere of the image? | It adds a timeless and classic feel, making the viewer focus more on the man's actions and physique. |

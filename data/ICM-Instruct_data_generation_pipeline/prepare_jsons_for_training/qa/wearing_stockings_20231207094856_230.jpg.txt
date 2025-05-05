@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a chair? | Yes. |
+| Yes/No | Is the person wearing a gray sweater? | Yes. |
+| Yes/No | Are the socks being rolled up? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image contain an inset image? | Yes. |
+| Yes/No | Are the socks beige? | Yes. |
+| What | What is the person in the image doing? | Putting on a pair of beige kneehigh socks. |
+| What | What is the person wearing apart from the socks? | A gray sweater and black pants. |
+| How | How are the socks being put on? | They are being rolled up and placed onto the person's legs. |
+| How | How does the image capture a moment of intimacy and vulnerability? | The act of putting on stockings is often associated with sensuality and allure, and the person's posture and the closeup view of the socks add to the overall atmosphere of the image, making it appear more intimate and alluring. |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Are the socks being rolled up? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| Yes/No | Is the person's leg exposed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the person wearing black pants? | Yes. |
+| What | What is the person in the image doing? | Putting on a pair of beige kneehigh socks. |
+| What | What is the color of the socks? | Beige. |
+| How | How are the socks being put on? | Rolled up and placed onto the person's legs. |
+| What | What is the atmosphere of the image? | Intimate and alluring. |

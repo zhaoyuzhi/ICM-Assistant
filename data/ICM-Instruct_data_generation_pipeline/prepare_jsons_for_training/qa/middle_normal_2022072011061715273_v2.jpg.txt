@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a pair of blue jean shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the image appropriate? | Yes. |
+| Yes/No | Does the man have his hand in his pocket? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the man wearing on his lower body? | Blue jean shorts. |
+| What | What is the man wearing on his upper body? | A white shirt. |
+| How | How is the man standing in the image? | With his hand in his pocket. |
+| What | What does the low exposure level of the image indicate? | That it is not meant to be provocative or suggestive. |
+| Yes/No | Is the man in the image wearing a pair of blue jean shorts? | Yes. |
+| Yes/No | Is the man in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Does the image feature any intimate or suggestive elements? | No. |
+| Yes/No | Is the man's body fully visible in the image? | No. |
+| Yes/No | Does the image depict a casual, relaxed atmosphere? | Yes. |
+| Yes/No | Is the man's pose in the image suggestive or provocative? | No. |
+| What | What is the man's pose in the image? | He is standing with his hands in his pockets. |
+| What | What is the exposure level of the image? | Very low. |
+| How | How does the low exposure level of the image affect the focus of the image? | It emphasizes the focus on the man's clothing and posture rather than his body. |
+| How | How does the image depict a casual, non-sexual atmosphere? | The man's casual attire and pose, combined with the low exposure level, suggest a relaxed and nonsexual atmosphere. |

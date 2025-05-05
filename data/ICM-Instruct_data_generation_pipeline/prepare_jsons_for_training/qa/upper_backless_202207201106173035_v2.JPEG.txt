@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a red dress? | Yes. |
+| Yes/No | Does the dress have a backless design? | Yes. |
+| Yes/No | Is the person leaning against a gray wall? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the red color of the dress evoke a sense of passion and sensuality? | Yes. |
+| Yes/No | Is the backless design of the dress a key element in creating a sexy atmosphere? | Yes. |
+| What | What is the color of the dress? | Red. |
+| What | What is the material of the dress? | Shiny. |
+| How | How does the backless design of the dress create a sexy atmosphere? | It allows for a clear view of the person's skin, which is often associated with allure and attractiveness. |
+| How | How does the red color of the dress contribute to the overall allure of the image? | It is a bold choice that draws attention and creates a strong visual impact, and it is often associated with passion and sensuality. |

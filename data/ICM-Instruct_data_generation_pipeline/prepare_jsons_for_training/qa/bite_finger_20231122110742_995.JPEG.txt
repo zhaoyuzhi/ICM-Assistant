@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the person's mouth open in the image? | Yes. |
+| Yes/No | Is the person's tongue sticking out in the image? | Yes. |
+| Yes/No | Is the person looking upwards in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| What | What is the person doing with their finger in the image? | They are putting their finger inside their mouth. |
+| What | What is the color of the person's shirt in the image? | Black. |
+| How | How is the person looking in the image? | They are looking upwards. |
+| What | What emotion is the person expressing in the image? | Neutral. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person wearing a bra? | Yes. |
+| Yes/No | Are they wearing leggings? | Yes. |
+| Yes/No | Is the bra white? | Yes. |
+| Yes/No | Are the leggings orange? | Yes. |
+| Yes/No | Is the person's back exposed? | Yes. |
+| What | What color is the bra? | White. |
+| What | What color are the leggings? | Orange. |
+| How | How is the person's back exposed? | The person's back is exposed due to their pose and the cut of their clothing. |
+| What | What atmosphere does the image convey? | The image conveys a sexy atmosphere due to the person's attire and the exposure of their back. |

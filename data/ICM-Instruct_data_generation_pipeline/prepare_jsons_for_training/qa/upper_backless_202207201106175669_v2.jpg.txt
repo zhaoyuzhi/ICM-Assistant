@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image shirtless? | Yes. |
+| Yes/No | Is the woman in the image wearing a sports bra? | Yes. |
+| Yes/No | Are both people in the image performing the same exercise? | Yes. |
+| Yes/No | Is the image set in a gym or fitness studio? | No. |
+| Yes/No | Is the balance board the main focus of the image? | Yes. |
+| Yes/No | Does the image convey a sense of intimacy or romance between the two people? | No. |
+| What | What color are the man's shorts? | Black. |
+| What | What is the woman's attire? | Pink sports bra and black shorts. |
+| What | What are the two people in the image doing? | Performing pushups on a balance board. |

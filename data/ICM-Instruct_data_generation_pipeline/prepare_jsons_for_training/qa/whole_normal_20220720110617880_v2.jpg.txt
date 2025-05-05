@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image from a Chinese movie? | Yes. |
+| Yes/No | Are the man and woman dressed in traditional Chinese clothing? | Yes. |
+| Yes/No | Is the scene set in a cave? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the focus of the image on the cultural elements and setting rather than the physical appearance of the individuals? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| What | What is the man wearing in the image? | A long beard and a headdress. |
+| What | What is the woman wearing in the image? | A long hairpiece. |
+| How | How is the man positioned in the image? | Standing in the foreground. |
+| How | How is the woman positioned in the image? | Positioned slightly behind the man. |

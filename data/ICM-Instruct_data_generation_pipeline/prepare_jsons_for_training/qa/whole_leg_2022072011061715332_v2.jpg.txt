@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting? | Yes. |
+| Yes/No | Are her legs crossed? | Yes. |
+| Yes/No | Is she wearing a white blouse? | Yes. |
+| Yes/No | Are her jeans blue? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman exude confidence and allure? | Yes. |
+| What | What is the woman wearing? | White blouse and blue jeans. |
+| What | What is the focal point of the image? | The woman's thighs. |
+| How | How is the woman sitting? | With her legs crossed. |
+| How | How does the image create a sense of allure and confidence? | Through the woman's attire, pose, and overall atmosphere. |

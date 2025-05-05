@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing lipstick? | Yes. |
+| Yes/No | Are the person's lips slightly parted? | Yes. |
+| Yes/No | Is the lipstick yellow? | Yes. |
+| Yes/No | Does the image feature any background details? | No. |
+| Yes/No | Is the person's facial expression playful? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the person's lipstick? | Yellow. |
+| What | What is the person's facial expression? | Pouting. |
+| How | How does the close-up nature of the image contribute to its overall mood? | It allows the viewer to focus on the lips and facial expression, creating a sensual and enticing atmosphere. |
+| How | How does the bold red lipstick contribute to the image's overall mood? | It creates an alluring and seductive atmosphere, enhancing the sensuality of the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black bra? | Yes. |
+| Yes/No | Are they wearing blue jeans? | Yes. |
+| Yes/No | Is the person holding a white towel above their head? | Yes. |
+| Yes/No | Is their hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the person facing away from the camera? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color is the bra the person is wearing? | Black. |
+| What | What is the person holding above their head? | A white towel. |
+| How | How is the person's hair styled? | Pulled back into a ponytail. |
+| How | How would you describe the atmosphere of the image? | Seductive and inviting. |

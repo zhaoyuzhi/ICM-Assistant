@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black top? | Yes. |
+| Yes/No | Is the woman in the image wearing a brown skirt? | Yes. |
+| Yes/No | Does the skirt have a flap pocket on the front? | Yes. |
+| Yes/No | Is the woman holding a white purse in her left hand? | Yes. |
+| Yes/No | Is the woman's left leg slightly bent? | Yes. |
+| Yes/No | Is the woman looking down at the floor? | Yes. |
+| What | What color is the woman's top? | Black. |
+| What | What is the woman holding in her left hand? | A white purse. |
+| How | How is the woman's skirt styled? | Highwaisted with a flap pocket on the front. |
+| How | How is the woman posing in the image? | She is standing with her left leg slightly bent and looking down at the floor. |

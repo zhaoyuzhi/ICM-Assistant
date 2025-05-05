@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless top? | Yes. |
+| Yes/No | Are jeans being worn by the woman in the image? | Yes. |
+| Yes/No | Does the woman pose confidently in the photo? | Yes. |
+| Yes/No | Is the woman's midriff exposed in the image? | Yes. |
+| Yes/No | Does the image depict the woman striking a pose with her hand on her hip? | Yes. |
+| Yes/No | Is the background a gradient of yellow and gray? | Yes. |
+| What | What is the woman wearing over her strapless top? | A vest. |
+| What | What color is the background of the image? | Yellow and gray (gradient). |
+| How | How is the woman posing in the image? | With her hand on her hip. |
+| How | How would you describe the atmosphere created by the combination of the woman's outfit, pose, and background? | Seductive. |

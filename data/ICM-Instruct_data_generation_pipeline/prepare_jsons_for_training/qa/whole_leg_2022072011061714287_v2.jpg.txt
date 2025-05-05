@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Is the dress short and tight? | Yes. |
+| Yes/No | Is the woman wearing a black purse? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the woman have any other objects or people in the image? | No. |
+| Yes/No | Is the woman's pose suggestive of confidence and allure? | Yes. |
+| What | What is the woman holding in her left hand? | A black purse. |
+| What | What is the woman's right hand resting on? | Her thigh. |
+| How | How is the woman standing? | With her left hand on her hip and her right hand on her thigh. |
+| How | How does the woman's attire and pose contribute to the overall atmosphere of the image? | The tight dress and the way she is holding her purse in her left hand give the impression of a stylish and fashionable woman, while her pose, with her left hand on her hip and her right hand on her thigh, adds to the overall allure of the image, creating a sexy atmosphere. |

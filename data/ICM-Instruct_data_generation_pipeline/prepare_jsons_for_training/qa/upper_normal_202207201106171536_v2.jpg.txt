@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the man sitting on a couch? | Yes. |
+| Yes/No | Is the background of the image a white wall? | Yes. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| Yes/No | Does the man have short hair? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| What | What is the man wearing? | A white shirt and a jacket. |
+| What | What is the color of the background wall? | White. |
+| How | How is the man sitting on the couch? | The man is sitting in a casual position, with no suggestive or provocative poses. |
+| How | How does the low exposure level contribute to the atmosphere of the image? | The low exposure level limits the viewer's ability to see the man's body and facial expressions in detail, contributing to the lack of sensuality in the image. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige pants? | Yes. |
+| Yes/No | Is the person in the image wearing a beige top? | Yes. |
+| Yes/No | Does the person's attire suggest a provocative or seductive context? | No. |
+| Yes/No | Are the pants tight-fitting? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image contain any elements that suggest a sexy atmosphere? | No. |
+| What | What is the color of the person's pants? | Beige. |
+| What | What is the style of the person's top? | Simple, unadorned shirt. |
+| How | How are the pants fitting on the person? | Loosefitting. |
+| How | How much of the person's body is visible in the image? | A small portion. |
+| Yes/No | Is the person in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Is the person in the image wearing a beige blouse? | Yes. |
+| Yes/No | Are the trousers cropped at the ankle? | Yes. |
+| Yes/No | Is the blouse cinched at the waist with a belt? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Is the image taken from a low angle? | Yes. |
+| What | What is the color of the person's outfit in the image? | Beige. |
+| What | What is the atmosphere of the image? | Neutral and professional. |
+| How | How are the trousers cropped? | They are cropped at the ankle. |
+| How | How is the blouse cinched at the waist? | It is cinched with a belt. |

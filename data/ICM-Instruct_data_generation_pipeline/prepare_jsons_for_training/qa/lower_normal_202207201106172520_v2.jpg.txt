@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black pants? | Yes. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the person's body fully visible in the image? | No. |
+| How | Does the image show any revealing clothing? | No. |
+| Yes/No | Does the image have a sensual or provocative atmosphere? | No. |
+| Yes/No | Are the person's movements discernible in the image? | No. |
+| What | What is the color of the person's pants? | Black. |
+| What | What is the color of the person's shirt? | Black. |
+| How | How is the person's body positioned in the image? | Not discernible due to low exposure level. |
+| How | How would you describe the overall atmosphere of the image? | Calm and unassuming. |

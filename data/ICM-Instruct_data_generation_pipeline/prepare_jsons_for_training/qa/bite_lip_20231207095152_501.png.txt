@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a headset? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Is the woman's hair shorter than her shoulders? | No. |
+| Yes/No | Is the woman's facial expression neutral? | No. |
+| Yes/No | Is the woman's pose suggestive or provocative? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| What | What is the woman in the image wearing? | A black headset. |
+| What | What is the woman's facial expression? | Soft and inviting, with a slight smile. |
+| How | How is the woman's pose in the image? | Seductive and intimate. |
+| How | How does the woman's facial expression contribute to the overall atmosphere of the image? | It adds a sense of warmth and friendliness to the image. |

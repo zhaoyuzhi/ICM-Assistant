@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the door in the image black? | Yes. |
+| Yes/No | Does the woman have a slight smile on her face? | Yes. |
+| Yes/No | Are the woman's shorts black? | Yes. |
+| Yes/No | Is the woman's left leg slightly bent? | Yes. |
+| Yes/No | Is the woman's right leg straight? | Yes. |
+| What | What color is the graphic on the woman's t-shirt? | Black. |
+| What | What is the woman's facial expression? | Slight smile. |
+| How | How is the woman's left leg positioned? | Slightly bent. |
+| How | How is the woman's right leg positioned? | Straight. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the main subject of the image a young woman? | Yes. |
+| Yes/No | Is the woman wearing a strapless top? | Yes. |
+| Yes/No | Are the jeans high-waisted? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Does the woman have her hand on her hip? | Yes. |
+| Yes/No | Is the overall atmosphere of the image sexy? | Yes. |
+| What | What is the main subject of the image? | A young woman. |
+| What | What is the woman's pose in the image? | She is standing with her hand on her hip. |
+| How | How does the woman's outfit contribute to the sexy atmosphere of the image? | The strapless top and highwaisted jeans reveal her midriff, creating a sexy look. |
+| How | How does the background of the image emphasize the subject? | The plain white background puts the focus entirely on the woman, making her the focal point of the image. |

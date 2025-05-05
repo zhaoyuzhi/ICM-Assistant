@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image naked from the thighs down? | Yes. |
+| Yes/No | Is the person wearing a black sweater? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| Yes/No | Is the person standing against a white background? | Yes. |
+| Yes/No | Are the person's legs slightly apart? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the person wearing? | A black sweater. |
+| What | What is the background color of the image? | White. |
+| How | How are the person's legs positioned? | Slightly apart. |
+| How | How does the black sweater contrast with the person's skin tone? | It contrasts in a way that creates a sexy atmosphere. |

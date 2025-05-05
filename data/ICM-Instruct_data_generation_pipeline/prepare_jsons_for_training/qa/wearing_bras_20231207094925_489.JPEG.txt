@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Is the image focused on the woman's torso and upper body? | Yes. |
+| Yes/No | Is the woman putting on the bra in the image? | Yes. |
+| How | Does the image showcase the woman's body in a close-up and detailed manner? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman wearing in the image? | A white shirt and a blue bra. |
+| What | What is the woman doing in the image? | Putting on a blue bra. |
+| How | How is the woman putting on the bra in the image? | With her hands on the straps. |
+| How | How does the image capture the woman's body? | From the waist up, focusing on her torso and upper body. |
+| Yes/No | Is the woman in the image wearing a white shirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a blue bra? | Yes. |
+| Yes/No | Is the image focused on the woman's torso and upper body? | Yes. |
+| Yes/No | Is the woman in the process of putting on the bra? | Yes. |
+| How | Does the image showcase the woman's body in a close-up and detailed manner? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's shirt? | White. |
+| What | What is the woman putting on in the image? | A blue bra. |
+| How | How is the woman putting on the bra? | She is putting it on with her hands on the straps. |
+| What | What does the woman's posture and the way she is putting on the bra suggest? | Confidence and selfassuredness. |

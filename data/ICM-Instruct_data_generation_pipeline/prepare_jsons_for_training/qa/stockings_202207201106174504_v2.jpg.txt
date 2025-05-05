@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing black stockings? | Yes. |
+| Yes/No | Are the stockings with bows on the tops? | Yes. |
+| Yes/No | Is the person wearing white underwear? | Yes. |
+| Yes/No | Are the person's legs crossed? | Yes. |
+| Yes/No | Are the person's feet resting on the bed? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the stockings? | Black. |
+| What | What color is the underwear? | White. |
+| How | How are the person's legs positioned? | Crossed. |
+| How | How are the person's feet positioned? | Resting on the bed. |

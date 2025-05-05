@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a young man? | Yes. |
+| Yes/No | Is the person lifting his shirt and jacket? | Yes. |
+| Yes/No | Is the person wearing a black hat? | Yes. |
+| Yes/No | Is the person wearing a black and white striped belt? | Yes. |
+| Yes/No | Is the person's shirt white? | Yes. |
+| Yes/No | Is the person's jacket black? | Yes. |
+| What | What is the young man's hat color? | Black. |
+| What | What is the young man's belt color and pattern? | Black and white striped. |
+| How | How is the young man's attitude in the image? | Confident and alluring. |
+| How | How does the image create a visually appealing atmosphere? | The combination of the young man's attire, actions, and the overall sexy atmosphere creates a visually appealing image that captures the viewer's attention. |

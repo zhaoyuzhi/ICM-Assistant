@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the image focused on the person's waist and belly area? | Yes. |
+| Yes/No | Are the jeans tight-fitting? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person in the image confident and bold? | Yes. |
+| What | What color are the jeans worn by the person in the image? | Blue. |
+| What | What is the main focus of the image? | The person's waist and belly area. |
+| How | How does the tight fit of the jeans accentuate the person's waist? | It emphasizes the person's slim waistline, making it a focal point of the image. |
+| How | How does the image showcase the person's belly? | The person's belly is exposed, and the tight fit of the jeans accentuates the shape and curve of their belly. |
+| Yes/No | Is the person in the image wearing a shirt? | No. |
+| Yes/No | Is the person in the image wearing shoes? | No. |
+| Yes/No | Does the person in the image have any tattoos or other body art? | No. |
+| Yes/No | Is the person in the image smiling or making a facial expression? | No. |
+| Yes/No | Are there any other people or objects in the image? | No. |
+| Yes/No | Is the image in black and white or color? | Color. |
+| What | What is the person in the image wearing? | Blue jeans. |
+| What | What is the person's belly button piercing made of? | Unable to determine from the description. |
+| How | How is the person's belly exposed? | The person's shirt is not covering their belly. |
+| How | How does the image create an atmosphere of relaxation and confidence? | The combination of the exposed belly and casual clothing creates a sense of relaxation and confidence. |

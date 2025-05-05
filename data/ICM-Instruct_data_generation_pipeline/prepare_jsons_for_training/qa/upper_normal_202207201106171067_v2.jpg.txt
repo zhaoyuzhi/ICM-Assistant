@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image appropriate? | Yes. |
+| Yes/No | Does the image contain nudity? | No. |
+| Yes/No | Are the individuals in the image wearing traditional Chinese attire? | Yes. |
+| What | What is the color of the man's robe? | White. |
+| What | What is the color of the woman's robe? | Pink. |
+| How | How are the individuals' hair styled? | Both individuals have long black hair cascading down their back. |
+| What | What is the atmosphere of the image? | Serene and traditional. |
+| How | How sexy is the image? | Mildly sexy. |
+| Yes/No | Is the image set in a modern environment? | No. |
+| Yes/No | Are the individuals in the image dressed in traditional Chinese attire? | Yes. |
+| Yes/No | Is the man's hair styled in a ponytail? | Yes. |
+| Yes/No | Does the woman's hair are styled in a bun? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| How | Is the image focused on showcasing traditional Chinese culture? | Yes. |
+| What | What is the color of the woman's outfit? | White. |
+| What | What is the color of the ribbon in the woman's hair? | Red. |
+| How | How is the man's hair styled? | In a ponytail. |
+| How | How does the image convey an air of antiquity? | Through the use of a stone wall backdrop. |

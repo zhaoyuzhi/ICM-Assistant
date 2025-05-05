@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black dress? | Yes. |
+| Yes/No | Are her thighs exposed in the image? | Yes. |
+| Yes/No | Is she wearing white socks? | Yes. |
+| Yes/No | Is she wearing white shoes? | Yes. |
+| Yes/No | Does the image depict an intimate setting? | Yes. |
+| Yes/No | Does the woman's pose suggest confidence and allure? | Yes. |
+| What | What is the woman lifting her dress with? | Her hands. |
+| What | What is the color of the woman's shoes? | White. |
+| How | How is the woman's attitude in the image? | Confident and alluring. |
+| How | How does the setting in the room enhance the overall sensuality of the scene? | It adds an element of intimacy to the image. |

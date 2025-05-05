@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing leggings? | Yes. |
+| Yes/No | Is the person in the image wearing sneakers? | Yes. |
+| Yes/No | Is the person in the image crouching down? | Yes. |
+| Yes/No | Is the person in the image deliberately displaying their buttocks? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the person in the image posing in a sporty setting? | Yes. |
+| What | What is the color of the leggings? | Gray. |
+| What | What is the color of the sneakers? | White. |
+| How | How is the person's pose in the image? | Crouching down. |
+| How | How does the image make the viewer feel? | Confident and provocative. |

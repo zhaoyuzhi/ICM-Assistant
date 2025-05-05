@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Does the woman have dark hair? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the tree in the background? | Yes. |
+| Yes/No | Does the woman have a white dress? | Yes. |
+| What | What is the man wearing? | A white shirt. |
+| What | What is the woman wearing? | A white dress. |
+| How | How are the man and woman positioned in the image? | They are standing in front of a tree. |
+| How | How would you describe the atmosphere of the image? | Romantic and sensual. |

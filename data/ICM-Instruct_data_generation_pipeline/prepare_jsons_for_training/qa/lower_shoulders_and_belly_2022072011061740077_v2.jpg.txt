@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of blue leggings? | Yes. |
+| Yes/No | Is the woman in the image wearing a black sports bra? | Yes. |
+| Yes/No | Does the image feature the woman's exposed belly? | Yes. |
+| Yes/No | Is the woman in a confident pose? | Yes. |
+| Yes/No | Does the image suggest a sense of strength and confidence? | Yes. |
+| Yes/No | Is the combination of athletic attire and pose visually appealing? | Yes. |
+| What | What color are the leggings the woman is wearing? | Blue. |
+| What | What is the color of the sports bra the woman is wearing? | Black. |
+| How | How is the woman posing in the image? | With her hands on her hips. |
+| How | How does the image create a sense of boldness and confidence? | Through the woman's confident pose and the exposure of her belly. |

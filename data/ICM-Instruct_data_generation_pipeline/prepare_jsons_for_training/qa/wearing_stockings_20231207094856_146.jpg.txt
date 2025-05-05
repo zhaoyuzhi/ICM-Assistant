@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image likely a woman? | Yes. |
+| Yes/No | Is the person sitting on a chair or couch? | No. |
+| Yes/No | Is the person putting on stockings? | Yes. |
+| Yes/No | Is the person's appearance or location visible in the image? | No. |
+| Yes/No | Is the image in black and white or color? | Color. |
+| Yes/No | Does the image have a sexual atmosphere? | Yes. |
+| What | What is the person wearing? | Plaid skirt, black shoes. |
+| What | What is the person doing in the image? | Putting on stockings. |
+| How | How is the person sitting in the image? | On the floor. |
+| How | How does the image capture the person's posture? | Suggests a private and personal moment. |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person sitting on a chair or couch? | No. |
+| Yes/No | Is the person wearing a skirt? | Yes. |
+| Yes/No | Are the stockings being put on transparent? | No. |
+| Yes/No | Is the person's face visible? | No. |
+| Yes/No | Is the image taken in a bedroom? | No. |
+| What | What is the person wearing on their feet? | Black shoes. |
+| What | What pattern is the skirt? | Plaid. |
+| How | How is the woman sitting on the floor? | The woman is sitting on the floor with her legs stretched out in front of her. |
+| How | How does the image capture a moment of vulnerability? | The image captures a moment of vulnerability because the woman is in a private moment, engaging in an intimate activity (putting on stockings), which creates a sense of openness and exposure. Additionally, the posture of sitting on the floor and the act of putting on stockings may convey a sense of vulnerability. |

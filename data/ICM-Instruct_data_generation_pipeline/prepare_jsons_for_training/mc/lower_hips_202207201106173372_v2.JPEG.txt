@@ -1,0 +1,7 @@
+| Question | Choices | Answer |
+| --- | --- | --- |
+| What is the dominant color of the person's pants in the image? |A. White |B. Black |C. Blue |D. Red |A. |
+| What is the primary background feature of the image? |A. Trees |B. Rocks |C. Water |D. Buildings |B. |
+| How would you describe the person's pose in the image? |A. Sitting |B. Standing |C. Lying down |D. Leaning |B. |
+| What is the dominant color of the person's jacket in the image? |A. Beige |B. Black |C. White |D. Gray |A. |
+| What is the overall atmosphere of the image? |A. Serene |B. Playful |C. Sexy |D. Mysterious |C. |

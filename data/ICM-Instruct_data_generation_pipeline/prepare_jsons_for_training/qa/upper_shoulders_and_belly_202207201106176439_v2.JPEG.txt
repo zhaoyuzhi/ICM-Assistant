@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless dress? | Yes. |
+| Yes/No | Does the dress reveal the woman's midriff? | Yes. |
+| Yes/No | Is the woman smiling in the image? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Are the woman's earrings visible in the image? | Yes. |
+| What | What is the color of the woman's dress? | Red. |
+| What | What is the woman's hair color? | Dark. |
+| How | How is the woman's hair styled in the image? | Long and straight. |
+| How | How is the woman posing in the image? | Looking over her shoulder at the camera. |

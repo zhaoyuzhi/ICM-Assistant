@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a strapless dress? | Yes. |
+| Yes/No | Is the person's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the person looking over their shoulder? | Yes. |
+| Yes/No | Does the dress reveal a large area of the person's back? | Yes. |
+| Yes/No | Does the image have a sensual atmosphere? | Yes. |
+| Yes/No | Does the image evoke feelings of desire and allure? | Yes. |
+| What | What color is the dress? | Yellow. |
+| What | What is the person's pose in the image? | Looking over their shoulder. |
+| How | How is the person's hair styled in the image? | Pulled back into a ponytail. |
+| How | How does the image make the viewer feel? | Desire and allure. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Does the person in the image have short hair? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Is the person's face clearly visible in the image? | No. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image sexy? | No. |
+| What | What is the main focus of the image? | The architectural elements of the building and the person's presence. |
+| What | What is the person's attire in the image? | A black shirt. |
+| How | How does the low exposure level affect the image? | It reduces the visibility of the person's face and contributes to a nonsexy atmosphere. |
+| How | How does the person's attire and the building in the background contribute to the atmosphere of the image? | They do not contribute to a sexy atmosphere, instead, they focus on the architectural elements and the person's presence. |
+| Yes/No | Is the level of nudity in the image low? | Yes. |
+| Yes/No | Is the person in the image dressed in a simple white shirt? | Yes. |
+| Yes/No | Is the background of the image a blurred cityscape? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| Yes/No | Is the person's pose and attire casual and relaxed? | Yes. |
+| Yes/No | Does the image contain any text or other discernible details? | No. |
+| What | What is the overall atmosphere of the image? | Calm and serene. |
+| What | What is the person's attire in the image? | A simple white shirt. |
+| How | How is the person positioned in the image? | In the foreground, with the cityscape in the background. |
+| How | How would you rate the level of sexy in this image? | Mildly sexy. |

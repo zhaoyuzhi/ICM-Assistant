@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the dress sleeveless? | Yes. |
+| Yes/No | Does the dress have a low back? | Yes. |
+| Yes/No | Is the purple dress revealing? | Yes. |
+| Yes/No | Does the image convey a sense of confidence? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| What | What color is the dress? | Purple. |
+| What | What is the trim on the dress made of? | Lace. |
+| How | How is the person posing in the image? | With their back facing the camera. |
+| How | How would you describe the atmosphere of the image? | Seductive and enticing. |

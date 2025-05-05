@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the mannequin wearing a pair of black denim shorts? | Yes. |
+| Yes/No | Does the image feature a black top? | No. |
+| Yes/No | Are the shorts cropped at the knee? | Yes. |
+| Yes/No | Does the image have a casual atmosphere? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Are the mannequin's thighs exposed? | Yes. |
+| What | What is the color of the denim shorts? | Black. |
+| What | What is the style of the shorts? | Casual and trendy. |
+| How | How are the shorts cropped? | At the knee. |
+| How | How does the image make the mannequin appear? | Confident and stylish. |

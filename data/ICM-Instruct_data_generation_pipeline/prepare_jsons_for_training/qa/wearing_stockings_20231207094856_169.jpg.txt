@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a pair of black stockings? | Yes. |
+| Yes/No | Is the person in the image standing on a gray floor? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Are the stockings the person is wearing associated with intimacy and sensuality? | Yes. |
+| What | What is the person in the image putting on? | Black stockings. |
+| What | What is the person in the image wearing that provides a neutral backdrop for the stockings? | Gray sweater and beige boots. |
+| How | How does the blurred background of the image affect the focus of the image? | It emphasizes the focus on the person and their actions, making the image even more captivating. |
+| How | How does the contrast between the beige and black stockings add to the visual interest of the image? | It adds an element of visual interest and creates a sense of drama and intrigue. |
+| Yes/No | Is the person in the image wearing a pair of beige stockings? | Yes. |
+| Yes/No | Is the person in the image wearing a pair of black stockings? | Yes. |
+| Yes/No | Is the person in the image standing on a gray floor? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Is the person in the image wearing a gray sweater? | Yes. |
+| Yes/No | Are the person's boots beige? | Yes. |
+| What | What color are the person's stockings? | Beige and black. |
+| What | What is the person in the image putting on? | Black stockings. |
+| How | How is the person standing on the floor? | The person is standing on the gray floor. |
+| How | How does the image capture the person's actions? | The image captures the person in the act of putting on stockings. |

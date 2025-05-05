@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a red satin dress? | Yes. |
+| Yes/No | Does the dress have thin straps? | Yes. |
+| Yes/No | Is the back of the dress low? | Yes. |
+| Yes/No | Is the woman standing in a bedroom? | Yes. |
+| Yes/No | Is there a white bed in the background? | Yes. |
+| Yes/No | Is there a window in the background? | Yes. |
+| What | What is the woman's left hand resting on? | Her hip. |
+| What | What is the woman's right hand placed on? | Her thigh. |
+| How | How does the dress reveal the woman's skin? | The slit on the side of the dress reveals her leg. |
+| What | What does the woman's pose suggest? | Confidence and allure. |

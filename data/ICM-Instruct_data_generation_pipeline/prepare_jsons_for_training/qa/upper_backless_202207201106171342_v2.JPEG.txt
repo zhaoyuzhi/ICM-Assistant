@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra top? | Yes. |
+| Yes/No | Is the woman in the image holding a glass? | Yes. |
+| Yes/No | Is the woman's hair pulled back into a ponytail? | Yes. |
+| Yes/No | Is the image in color? | Yes. |
+| How | Does the image show the woman's face? | No. |
+| Yes/No | Is the woman's back exposed in the image? | Yes. |
+| What | What is the color of the bra top? | Orange. |
+| What | What is the woman holding in her hand? | A clear glass. |
+| How | How is the woman's hair styled? | Pulled back into a ponytail. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed with a hint of sensuality. |

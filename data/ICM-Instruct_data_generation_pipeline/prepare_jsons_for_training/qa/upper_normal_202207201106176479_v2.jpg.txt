@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image holding an air conditioning unit? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the background of the image blue? | Yes. |
+| Yes/No | Does the air conditioning unit have a digital display on the front? | Yes. |
+| Yes/No | Is the person holding the air conditioning unit with their left hand? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the person holding in the image? | An air conditioning unit. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How is the person holding the air conditioning unit? | With their left hand. |
+| What | What is the exposure level of the image? | Very low. |

@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra black? | Yes. |
+| Yes/No | Is the woman adjusting the straps of her bra? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the woman's attire the only piece of clothing visible in the image? | Yes. |
+| Yes/No | Is the image associated with intimacy and self-care? | Yes. |
+| What | What is the woman doing in the image? | Adjusting her bra. |
+| What | What color is the bra the woman is wearing? | Black. |
+| How | How is the woman adjusting her bra? | Using her hands. |
+| What | What creates a sense of mystery and allure in the image? | The black color of the bra. |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the bra black? | Yes. |
+| Yes/No | Is the woman adjusting the straps of the bra? | Yes. |
+| Yes/No | Is the image considered sexy? | Yes. |
+| Yes/No | Is the woman's attire the only piece of clothing visible in the image? | Yes. |
+| Yes/No | Does the image depict a private moment of the woman's daily routine? | Yes. |
+| What | What is the woman doing in the image? | Adjusting her bra. |
+| What | What is the color of the bra? | Black. |
+| How | How is the woman adjusting the bra? | Using her hands to secure a snug fit. |
+| What | What atmosphere does the image convey? | Intimate and sensual. |

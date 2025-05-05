@@ -1,0 +1,24 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black hat? | Yes. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the black stockings being put on by the person in the image? | Yes. |
+| Yes/No | Is the person in the image leaning against a door? | Yes. |
+| Yes/No | Is the person's left hand on her knee? | Yes. |
+| Yes/No | Is the person's right hand on her thigh? | Yes. |
+| What | What is the person in the image wearing on her feet? | Black stockings. |
+| What | What is the color of the person's hat in the image? | Black. |
+| How | How is the person in the image leaning against the door? | With her left hand on her knee and her right hand on her thigh. |
+| How | How does the person in the image seem to be feeling? | Confident and selfassured. |
+| Yes/No | Question | Answer. |
+| Yes/No | --- | ---. |
+| Yes/No | Is the person in the image wearing a black hat? | Yes. |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are black stockings being put on by the person in the image? | Yes. |
+| Yes/No | Is the person in the image leaning against a door? | Yes. |
+| Yes/No | Is the person's left hand on her knee? | Yes. |
+| Yes/No | Is the person's right hand on her thigh? | Yes. |
+| What | What is the person in the image wearing on her feet? | Black stockings. |
+| What | What is the person in the image wearing on her head? | A black hat. |
+| How | How is the person in the image standing? | Confidently, with her left hand on her knee and her right hand on her thigh. |
+| How | How does the image capture the moment? | It captures a moment of preparation, possibly before a night out or a special occasion. |

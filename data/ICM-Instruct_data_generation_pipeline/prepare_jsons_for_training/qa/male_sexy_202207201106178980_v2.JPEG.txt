@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a shirt? | No. |
+| Yes/No | Is the man in the image standing in front of a wooden post? | Yes. |
+| Yes/No | Is the man in the image wearing a bracelet on his left wrist? | Yes. |
+| Yes/No | Is the bracelet green? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image provide any additional details about the man's clothing or the surrounding environment? | No. |
+| What | What is the man in the image wearing on his left wrist? | A green bracelet. |
+| What | What is the man in the image standing in front of? | A wooden post. |
+| How | How is the man in the image standing in relation to the wooden post? | He is standing in front of it with his arms resting on it. |
+| How | How does the image create an atmosphere of sensuality? | The image creates an atmosphere of sensuality through the man's shirtlessness, the wooden post, and the green bracelet, which add a touch of natural beauty and intimacy to the scene. |

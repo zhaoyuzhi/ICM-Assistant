@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing any other clothing items besides the olive green shorts? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image contain any text or other objects? | No. |
+| Yes/No | Are the person's arms crossed or folded? | No. |
+| Yes/No | Is the person standing with their legs together? | No. |
+| Yes/No | Is the zipper on the side of the shorts zipped up or down? | Down. |
+| What | What color are the shorts the person is wearing? | Olive green. |
+| What | What is the significance of the zipper on the side of the shorts? | It adds an element of intrigue and draws attention to the person's attire. |
+| How | How are the person's arms positioned in the image? | Relaxed at their sides. |
+| How | How would you describe the person's pose in the image? | Confident and selfassured. |

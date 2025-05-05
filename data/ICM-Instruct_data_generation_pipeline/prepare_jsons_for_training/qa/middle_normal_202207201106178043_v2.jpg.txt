@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Is the skirt made of a lightweight fabric? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the shirt tucked into the skirt? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| What | What is the color of the skirt? | Brown and white. |
+| What | What is the fabric of the skirt? | Possibly cotton or linen. |
+| How | How is the shirt tucked into the skirt? | It is not specified in the description. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| Yes/No | Is the person in the image wearing a plaid skirt? | Yes. |
+| Yes/No | Is the skirt brown and beige? | Yes. |
+| Yes/No | Does the skirt have a drawstring at the waist? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the image low-exposure? | Yes. |
+| Yes/No | Does the image contain suggestive or explicit content? | No. |
+| What | What is the primary focus of the image? | The person's torso and waist area. |
+| What | What is the person wearing? | A plaid skirt and a white shirt. |
+| How | How is the skirt adjusted for fit? | With a drawstring at the waist. |
+| How | How would you describe the overall atmosphere of the image? | Appropriate, focusing on the person's attire rather than their physical appearance. |

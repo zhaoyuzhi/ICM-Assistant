@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Are the shorts primarily green and yellow? | Yes. |
+| Yes/No | Does the person have a watch on their wrist? | Yes. |
+| Yes/No | Is the person sitting with their legs crossed? | Yes. |
+| Yes/No | Are the person's hands resting on their knees? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the person's attire in the image? | A pair of tropical print shorts and a white shirt. |
+| What | What is the atmosphere of the image? | Leisurely and laidback. |
+| How | How is the person sitting on the boat? | With their legs crossed and their hands resting on their knees. |
+| How | How does the image convey the person's relaxed posture? | Through the person's slouched position and the placement of their hands on their knees. |
+| Yes/No | Is the person in the image wearing a pair of shorts? | Yes. |
+| Yes/No | Is the person in the image holding a cell phone? | Yes. |
+| Yes/No | Is the person in the image wearing a watch? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive content? | No. |
+| Yes/No | Is the person in the image sitting on a boat? | Yes. |
+| Yes/No | Does the image focus on the person's upper body or face? | No. |
+| What | What is the dominant color of the person's shorts? | Green and yellow. |
+| What | What is the person in the image surrounded by? | The person is surrounded by the boat, water, and palm leaves. |
+| How | How is the person's attire described in the image? | The person's attire is described as casual and comfortable, with a focus on the tropical print shorts. |
+| How | How does the low exposure level of the image affect the focus of the image? | The low exposure level of the image focuses the viewer's attention on the person's lower body and the surrounding environment, rather than their upper body or face. |

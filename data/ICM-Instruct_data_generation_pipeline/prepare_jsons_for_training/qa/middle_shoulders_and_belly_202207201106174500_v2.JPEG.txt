@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a blue jean jacket? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the glucose monitor attached to the person's stomach? | Yes. |
+| Yes/No | Is the glucose monitor connected to a small pump? | Yes. |
+| How | Does the image showcase the person's body in a vulnerable and intimate way? | Yes. |
+| Yes/No | Does the image convey a sense of openness and trust? | Yes. |
+| What | What is the person managing with the glucose monitor? | Their blood sugar levels. |
+| What | What is the symbolism of the glucose monitor in the image? | The person's resilience and determination in managing their health. |
+| How | How is the person's body positioned in the image? | The person's body is positioned in a relaxed and casual way, with their belly exposed and the glucose monitor visible on their stomach. |
+| How | How does the blue jean jacket contribute to the overall mood of the image? | The blue jean jacket adds a casual and relaxed vibe to the image, further emphasizing the intimate nature of the scene. |
+| Yes/No | Is the person in the image wearing a blue jean jacket? | Yes. |
+| Yes/No | Is the person's belly exposed in the image? | Yes. |
+| Yes/No | Is the medical device attached to the person's belly a glucose monitor? | Yes. |
+| Yes/No | Is the glucose monitor connected to a small pump? | Yes. |
+| Yes/No | Is the image intimate and personal? | Yes. |
+| Yes/No | Does the image evoke a sense of connection and empathy? | Yes. |
+| What | What is the person in the image managing with the medical device? | Their blood sugar levels. |
+| What | What is the symbolism of the blue jean jacket in the image? | Casual and relaxed vibe, emphasizing the personal nature of the moment. |
+| How | How is the person's commitment to managing their health demonstrated in the image? | Through the use of a glucose monitor and pump. |
+| How | How does the image make the viewer feel? | Connected and empathetic towards the person in the image. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Is the lower body of the person exposed? | Yes. |
+| Yes/No | Are there any other objects or people visible in the image? | No. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What color are the shorts the person is wearing? | Beige. |
+| What | What is the color of the wall in the background? | Blue. |
+| How | How is the person standing in the image? | With their hands on their hips and their lower body exposed. |
+| How | How would you describe the atmosphere of the image? | Intimate and alluring. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Is the woman in the image wearing traditional Chinese clothing? | Yes. |
+| Yes/No | Are the man and woman in an intimate embrace? | Yes. |
+| Yes/No | Is the man's lip pressed against the woman's cheek? | Yes. |
+| Yes/No | Is the woman's hand resting on the man's face? | Yes. |
+| Yes/No | Does the image depict a romantic atmosphere? | Yes. |
+| What | What is the color of the man's robe? | Blue. |
+| What | What is the color of the woman's robe? | White. |
+| How | How does the man's blue robe contrast with the woman's white robe? | The blue and white robes create a visually appealing color palette. |
+| How | How does the image depict passion and intimacy? | The close physical contact between the man and woman, combined with the traditional Chinese clothing, creates an atmosphere of passion and intimacy. |

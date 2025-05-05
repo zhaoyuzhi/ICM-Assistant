@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are the man's hands in his pockets? | Yes. |
+| Yes/No | Is the man wearing a brown belt? | Yes. |
+| Yes/No | Is the exposure level of the image high? | No. |
+| Yes/No | Does the image depict a sexy scene? | No. |
+| Yes/No | Is the man's posture relaxed? | Yes. |
+| What | What color is the man's shirt? | Blue. |
+| What | What is the man's posture in the image? | Relaxed, with hands in pockets. |
+| How | How is the man dressed in the image? | Casually, with a blue shirt and khaki pants. |
+| How | How does the low exposure level of the image affect the atmosphere? | It creates a calm and nonthreatening atmosphere, not evoking a sense of sexuality. |
+| Yes/No | Is the man in the image wearing a blue shirt? | Yes. |
+| Yes/No | Are the man's hands in his pockets? | Yes. |
+| Yes/No | Is the man wearing khaki pants? | Yes. |
+| Yes/No | Is the man wearing a brown belt? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the color of the man's shirt? | Blue. |
+| What | What is the man's posture in the image? | Relaxed, with hands in pockets. |
+| How | How is the man dressed in the image? | Casually, with a blue shirt, khaki pants, and a brown belt. |
+| What | What is the atmosphere of the image? | Relaxed and nonthreatening. |

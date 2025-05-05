@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Is the woman lying on a bed? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| Yes/No | Are the sheets and pillows on the bed white? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her upper body? | A silver bikini top. |
+| What | What is the color of the sheets and pillows on the bed? | White. |
+| How | How is the woman positioned on the bed? | She is in a reclining position. |
+| How | How does the woman's direct gaze at the camera contribute to the image's overall atmosphere? | It adds a sense of connection and vulnerability, which can be perceived as sexy. |

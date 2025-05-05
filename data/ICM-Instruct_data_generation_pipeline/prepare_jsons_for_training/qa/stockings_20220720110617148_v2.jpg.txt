@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing black stockings? | Yes. |
+| Yes/No | Is the woman in the image wearing high heels? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Is the image considered sexy because of the woman's pose and attire? | Yes. |
+| Yes/No | Does the contrast between the woman's dark clothing and the white background enhance the visual impact of the image? | Yes. |
+| What | What is the woman in the image wearing? | Black stockings and black high heels. |
+| What | What is the background of the image? | Plain white. |
+| How | How is the woman posing in the image? | With her legs spread apart. |
+| How | How does the contrast between the woman's dark clothing and the white background affect the image? | It makes the image more provocative and attentiongrabbing. |

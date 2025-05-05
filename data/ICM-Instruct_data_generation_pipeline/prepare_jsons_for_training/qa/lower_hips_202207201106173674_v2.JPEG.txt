@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing gray leggings? | Yes. |
+| Yes/No | Is the person in the image wearing white sneakers? | Yes. |
+| How | Is the person in the image showcasing their buttocks? | Yes. |
+| Yes/No | Is the image in black and white? | No. |
+| Yes/No | Does the image contain any text? | No. |
+| Yes/No | Are there any other objects in the image? | No. |
+| What | What is the color of the leggings? | Gray. |
+| What | What is the color of the sneakers? | White. |
+| How | How is the person's leg extended behind them? | Bent at the knee. |
+| How | How is the person facing the camera? | Confident and assertive stance. |

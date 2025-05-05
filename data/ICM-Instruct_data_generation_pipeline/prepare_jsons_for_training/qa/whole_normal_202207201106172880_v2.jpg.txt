@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a traditional Chinese dress? | Yes. |
+| Yes/No | Is the dress red? | Yes. |
+| Yes/No | Does the dress have a high collar? | Yes. |
+| Yes/No | Is the woman sitting on a chair? | Yes. |
+| Yes/No | Is she holding a small purse in her hand? | Yes. |
+| Yes/No | Is the background of the image dark? | Yes. |
+| What | What is the color of the dress? | Red. |
+| What | What is the woman holding in her hand? | A small purse. |
+| How | How is the woman dressed? | Formally and elegantly. |
+| How | How does the low exposure level contribute to the image? | It makes the woman the focal point and creates a calm and elegant atmosphere without losing details or being overly bright. |

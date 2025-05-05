@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a white shirt? | Yes. |
+| Yes/No | Is the woman wearing a brown dress? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Are they standing in a field? | Yes. |
+| Yes/No | Are there trees in the background? | Yes. |
+| Yes/No | Is the woman looking up at the man? | Yes. |
+| What | What is the woman's hair color? | Brown. |
+| What | What is the man holding in his hands? | The woman's face. |
+| How | How are the man and woman holding each other? | The man is holding the woman's face in his hands, and the woman is looking up at the man. |
+| How | How does the outdoor setting contribute to the overall atmosphere of the image? | The outdoor setting with trees in the background adds to the romantic atmosphere, making the image feel more intimate and private. |

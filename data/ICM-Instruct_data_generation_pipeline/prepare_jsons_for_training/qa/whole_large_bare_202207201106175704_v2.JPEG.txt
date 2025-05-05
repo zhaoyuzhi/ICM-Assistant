@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Does the woman have blue hair? | Yes. |
+| Yes/No | Is the woman wearing a bikini top? | Yes. |
+| Yes/No | Are the woman's legs spread apart? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image feature a natural setting? | Yes. |
+| What | What is the color of the woman's hair? | Blue. |
+| What | What is the woman sitting on? | A rock. |
+| How | How is the woman's pose in the image? | With her legs spread apart. |
+| How | How does the image create a sensual atmosphere? | Through the woman's revealing outfit, her pose, and the natural setting. |

@@ -1,0 +1,11 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a bra? | Yes. |
+| Yes/No | Are the person's leggings gray? | Yes. |
+| Yes/No | Is the wall in the background white? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the atmosphere of the image sexy? | Yes. |
+| What | What is the color of the person's bra? | Beige. |
+| What | What is the color of the person's leggings? | Gray. |
+| How | How is the person standing in the image? | With their hands on their hips. |
+| How | How does the posture and attire of the person contribute to the atmosphere of the image? | They create an alluring and confident appearance, which can be perceived as sexy by some viewers. |

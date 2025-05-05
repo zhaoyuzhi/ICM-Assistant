@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the woman's hair dark? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman holding her finger in her mouth? | Yes. |
+| Yes/No | Is the overall atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the image feature a gesture often associated with sensuality? | Yes. |
+| What | What is the woman holding in her mouth? | Her finger. |
+| What | What is the color of the woman's shirt? | Black. |
+| How | How does the woman's facial expression contribute to the atmosphere of the image? | It adds to the intensity and mystery of the scene. |
+| How | How does the woman's action of holding her finger in her mouth create a sense of intrigue? | It creates a sense of intrigue and mystery by suggesting a sensual and intimate moment. |

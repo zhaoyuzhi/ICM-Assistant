@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image smiling? | Yes. |
+| Yes/No | Is the person in the image wearing glasses? | Yes. |
+| Yes/No | Is the person in the image biting their lip? | Yes. |
+| Yes/No | Is the atmosphere of the image seductive and alluring? | Yes. |
+| Yes/No | Does the person's smile and lip-biting expression create a sense of confidence and allure? | Yes. |
+| Yes/No | Is the black shirt contrasting with the person's features? | Yes. |
+| What | What color is the person's shirt? | Black. |
+| What | What is the facial expression associated with a sexy or seductive appearance that the person is making? | Biting their lip. |
+| How | How does the person's smile and lip-biting expression contribute to the seductive atmosphere of the image? | They create a sense of confidence and allure. |
+| How | How does the black shirt contrast with the person's features? | It provides a contrast that accentuates the person's features. |

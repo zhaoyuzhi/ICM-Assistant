@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black dress? | Yes. |
+| Yes/No | Are the person's legs crossed in the image? | Yes. |
+| Yes/No | Is the person's body facing the camera? | Yes. |
+| Yes/No | Does the image feature any other people or objects? | No. |
+| Yes/No | Is the person looking directly at the camera? | No. |
+| Yes/No | Is the image in color or black and white? | Color. |
+| What | What is the person's facial expression in the image? | Looking down at the floor. |
+| What | What is the color of the person's dress? | Black. |
+| How | How are the person's legs positioned on the couch? | Resting on the arm. |
+| How | How does the image create a sense of intimacy and allure? | Through the pose, black dress and stockings, and contrast with the couch. |

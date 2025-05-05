@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of pink leggings? | Yes. |
+| Yes/No | Is the woman in the image standing in a gym? | Yes. |
+| Yes/No | Does the image depict a football field? | Yes. |
+| Yes/No | Is the woman's attire revealing? | Yes. |
+| Yes/No | Does the image suggest an active, athletic lifestyle? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the woman wearing on her upper body? | A black sports bra. |
+| What | What is the main color of the woman's leggings? | Pink. |
+| How | How is the woman positioned in relation to the football field? | She is standing in front of it. |
+| How | How does the image showcase the woman's physique? | The pink leggings and black sports bra highlight her athletic physique. |

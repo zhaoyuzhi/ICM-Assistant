@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the boy in the image wearing a blue robe? | Yes. |
+| Yes/No | Are the boy's eyes closed? | Yes. |
+| Yes/No | Is the background of the image surrealistic? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the boy in a state of deep concentration? | Yes. |
+| Yes/No | Does the image create an atmosphere of peace and tranquility? | Yes. |
+| What | What is the boy in the image sitting on? | The ground. |
+| What | What is the boy's head shaved? | Yes. |
+| How | How is the boy in the image depicted? | In a meditative pose. |
+| How | How does the background of the image create an atmosphere? | The surrealistic depiction of a dragon and a monkey, along with a planet and a moon, creates an atmosphere of peace and tranquility. |

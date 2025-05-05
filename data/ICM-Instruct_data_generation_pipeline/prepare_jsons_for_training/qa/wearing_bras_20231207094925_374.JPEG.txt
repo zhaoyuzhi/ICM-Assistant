@@ -1,0 +1,20 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman standing in front of a pink background? | Yes. |
+| Yes/No | Are there other bras displayed in the image? | Yes. |
+| Yes/No | Is the woman putting on the black bra in the image? | Yes. |
+| Yes/No | Does the image capture a moment of intimacy and vulnerability? | Yes. |
+| Yes/No | Is the black bra a classic and universally recognized symbol of femininity and sensuality? | Yes. |
+| What | What color is the woman's bra in the image? | Black. |
+| What | What color is the background in the image? | Pink. |
+| What | What theme do the other bras displayed in the image suggest? | Lingerie. |
+| Yes/No | Is the woman in the image wearing a black bra? | Yes. |
+| Yes/No | Is the woman standing in front of a pink background? | Yes. |
+| Yes/No | Are there other bras displayed in the image? | Yes. |
+| Yes/No | Is the woman putting on her bra? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the black bra add to the allure of the image? | Yes. |
+| What | What is the woman wearing in the image? | A black bra. |
+| What | What is the color of the background in the image? | Pink. |
+| What | What is the theme of the image? | Lingerie. |

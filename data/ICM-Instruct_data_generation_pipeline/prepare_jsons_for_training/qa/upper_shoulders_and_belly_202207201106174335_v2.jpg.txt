@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a strapless outfit? | Yes. |
+| Yes/No | Does the woman have long hair? | Yes. |
+| Yes/No | Is the background of the image solid blue? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| Yes/No | Are there any other people in the image? | No. |
+| Yes/No | Is the image in black and white? | No. |
+| What | What is the woman's hair style in the image? | Loose waves. |
+| What | What is the color of the background in the image? | Blue. |
+| How | How is the woman's midriff revealed in the image? | Through her strapless outfit. |
+| How | How does the woman's hair add movement to the image? | The loose waves create a sense of movement. |

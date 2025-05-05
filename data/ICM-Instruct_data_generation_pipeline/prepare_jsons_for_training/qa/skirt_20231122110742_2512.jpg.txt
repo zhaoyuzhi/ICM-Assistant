@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a green dress? | Yes. |
+| Yes/No | Is the dress revealing her legs and thighs? | Yes. |
+| Yes/No | Does the dress have a floral pattern? | Yes. |
+| Yes/No | Is she standing against a white wall? | Yes. |
+| Yes/No | Are white socks visible in the image? | Yes. |
+| Yes/No | Is the image considered sexy due to the woman's actions and attire? | Yes. |
+| What | What color is the dress? | Green. |
+| What | What is the pattern on the dress? | Floral. |
+| How | How is the dress accentuating her figure? | The high slit and capelike skirt accentuate her figure by revealing her legs and thighs, creating a sexy atmosphere. |
+| How | How does the white wall in the background affect the image? | The white wall provides a clean and simple backdrop that further emphasizes the woman and her actions, adding to the overall sexy atmosphere. |

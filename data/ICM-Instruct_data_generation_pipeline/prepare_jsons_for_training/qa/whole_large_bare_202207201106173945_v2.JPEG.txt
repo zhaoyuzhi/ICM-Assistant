@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image standing on a beach? | Yes. |
+| Yes/No | Is the woman in the image looking directly at the camera? | Yes. |
+| Yes/No | Does the image suggest a warm or tropical location? | Yes. |
+| Yes/No | Is the bikini the only piece of clothing the woman is wearing? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What is the woman in the image wearing? | A blue bikini. |
+| What | What is the setting of the image? | A sandy beach. |
+| How | How is the woman posing in the image? | She is standing and looking directly at the camera, suggesting she is posing for the photo. |
+| How | How does the image convey a sense of intimacy and connection with the viewer? | The woman's direct gaze into the camera creates a sense of intimacy and connection with the viewer. |

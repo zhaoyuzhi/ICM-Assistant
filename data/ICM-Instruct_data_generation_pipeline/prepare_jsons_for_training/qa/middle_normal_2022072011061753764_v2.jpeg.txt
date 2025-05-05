@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a pair of white pants? | Yes. |
+| Yes/No | Is the person's hand placed inside the pocket of their pants? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image contain explicit or suggestive content? | No. |
+| Yes/No | Is the overall atmosphere of the image casual and neutral? | Yes. |
+| What | What is the person's hand doing in the pocket of their pants? | The person's hand is placed inside the pocket of their pants. |
+| What | What is the person wearing on their upper body? | The person is wearing a white shirt. |
+| How | How is the person's hand positioned in the pocket? | The person's hand is placed inside the pocket, with their fingers visible through the opening. |
+| How | How would you describe the focus of the image? | The focus of the image is on the person's clothing, specifically their white pants and hand in the pocket, rather than on any provocative or sensual elements. |
+| Yes/No | Is the person in the image wearing white pants? | Yes. |
+| Yes/No | Is the person in the image wearing a white shirt? | Yes. |
+| Yes/No | Does the person in the image have their hand in their pocket? | Yes. |
+| Yes/No | Is the image taken from a side angle? | Yes. |
+| Yes/No | Is the exposure level of the image low? | Yes. |
+| Yes/No | Does the image have a sexual tone? | No. |
+| What | What color are the pants in the image? | White. |
+| What | What is the person in the image holding in their hand? | Their hand is in their pocket. |
+| How | How is the person in the image standing? | The person is standing with their hand in their pocket. |
+| How | How would you describe the overall atmosphere of the image? | Neutral and nonsexual. |

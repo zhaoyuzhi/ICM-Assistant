@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Are her thighs exposed in the image? | Yes. |
+| Yes/No | Is her hair styled in loose waves? | Yes. |
+| Yes/No | Is the garden setting natural? | Yes. |
+| Yes/No | Does the image create an alluring atmosphere? | Yes. |
+| Yes/No | Does the woman's pose enhance the seductive vibe? | Yes. |
+| What | What color is the woman's dress? | Beige. |
+| What | What is the woman's hair style? | Loose waves. |
+| How | How are the woman's legs positioned in the image? | Crossed. |
+| How | How do the natural elements in the garden setting contribute to the image's atmosphere? | They add a touch of tranquility. |

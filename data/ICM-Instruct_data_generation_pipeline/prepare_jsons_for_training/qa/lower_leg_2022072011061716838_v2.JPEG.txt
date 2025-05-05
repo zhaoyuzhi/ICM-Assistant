@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | Yes. |
+| Yes/No | Are the person's legs apart? | Yes. |
+| Yes/No | Is the person's head turned to the side? | Yes. |
+| Yes/No | Is the person wearing black shorts? | Yes. |
+| Yes/No | Are the person's hands on their hips? | Yes. |
+| Yes/No | Does the image contain any text or other discernible objects? | No. |
+| What | What is the person's pose in the image? | The person is standing with their legs apart and their hands on their hips. |
+| What | What is the color of the person's shorts? | Black. |
+| How | How is the person's head positioned in the image? | The person's head is turned to the side. |
+| How | How does the combination of the person's pose, attire, and facial expression create an atmosphere? | The combination of the person's pose, attire, and facial expression creates an atmosphere that is both confident and alluring. |

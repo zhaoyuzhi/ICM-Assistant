@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the image a close-up of a woman's breast? | Yes. |
+| Yes/No | Is the woman wearing a white blouse with a button-up front? | Yes. |
+| Yes/No | Is the woman wearing a gray skirt? | Yes. |
+| Yes/No | Is the woman's hair styled in loose waves? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the overall atmosphere of the picture seductive and alluring? | Yes. |
+| What | What is the woman's attire in the image? | White blouse with a buttonup front and a gray skirt. |
+| What | What is the woman's hairstyle in the image? | Loose waves. |
+| How | How is the woman's pose in the image? | The woman is posing suggestively, with a deliberate emphasis on her breast. |
+| How | How does the close-up nature of the image affect the overall atmosphere? | The closeup nature of the image creates a sense of intimacy and allure, drawing the viewer's attention to the woman's chest and breast. |

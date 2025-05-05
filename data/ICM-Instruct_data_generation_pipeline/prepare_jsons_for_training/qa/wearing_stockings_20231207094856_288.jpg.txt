@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the comforter white? | Yes. |
+| Yes/No | Is the headboard wooden? | Yes. |
+| Yes/No | Is the person wearing a yellow sweater? | Yes. |
+| Yes/No | Are they wearing brown stockings? | Yes. |
+| Yes/No | Is the person in the process of putting on their stockings? | Yes. |
+| What | What is the main focus of the image? | The person's movements and the act of putting on stockings. |
+| What | What is the atmosphere created by the combination of elements in the image? | A sexy and inviting atmosphere. |
+| How | How are the stockings being put on? | The person's legs are bent and the stockings are pulled up to their knees. |
+| How | How does the yellow sweater contribute to the overall atmosphere of the image? | It adds a warm and cozy atmosphere. |
+| Yes/No | Is the person in the image sitting on a bed? | Yes. |
+| Yes/No | Is the person wearing a yellow sweater? | Yes. |
+| Yes/No | Are the person's legs bent? | Yes. |
+| Yes/No | Is the person putting on stockings? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Does the image include a wooden headboard? | Yes. |
+| What | What color is the comforter? | White. |
+| What | What is the person wearing on their legs? | Brown stockings. |
+| How | How is the person's movement depicted in the image? | The person is bending their legs and putting on stockings. |
+| What | What atmosphere does the image create? | A warm and cozy atmosphere. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image a woman? | Yes. |
+| Yes/No | Is the person taking off their clothes? | Yes. |
+| Yes/No | Is the shirt being pulled up? | Yes. |
+| Yes/No | Is the person standing in front of a white wall? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Does the person's attire include a blue shirt and white underwear? | Yes. |
+| What | What color is the person's shirt? | Blue. |
+| What | What color is the person's underwear? | White. |
+| How | How is the person taking off their clothes? | The shirt is being pulled up. |
+| How | How does the contrast between the person's attire and the white wall affect the image? | It creates a stark contrast that draws attention to the person and their actions, enhancing the sense of intimacy and vulnerability. |

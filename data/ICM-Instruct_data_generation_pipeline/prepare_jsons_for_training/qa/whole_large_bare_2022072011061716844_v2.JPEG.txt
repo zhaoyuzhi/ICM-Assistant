@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini? | Yes. |
+| Yes/No | Is the woman in the image lying on a bed? | Yes. |
+| Yes/No | Does the image feature a large area of the woman's body exposed? | Yes. |
+| Yes/No | Is the bed covered with white sheets? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's attire a common choice for those seeking freedom and relaxation? | Yes. |
+| What | What is the woman wearing in the image? | A bikini top and a matching bikini bottom. |
+| What | What is the color of the sheets on the bed in the image? | White. |
+| How | How is the woman positioned on the bed in the image? | She is stretching her legs. |
+| How | How does the image make the viewer feel? | The image creates an atmosphere that is both alluring and inviting, making the viewer feel drawn to the woman and the overall scene. |

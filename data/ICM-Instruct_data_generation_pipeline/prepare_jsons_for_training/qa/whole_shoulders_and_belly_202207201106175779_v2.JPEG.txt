@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a gray t-shirt? | Yes. |
+| Yes/No | Does the t-shirt have words written on it? | Yes. |
+| Yes/No | Is the t-shirt cropped? | Yes. |
+| Yes/No | Is the woman wearing a plaid shirt tied around her waist? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| What | What is the woman's left hand resting on? | Her thigh. |
+| What | What is the woman's right hand resting on? | Her hip. |
+| How | How is the woman's t-shirt cropped? | It is cropped above the belly button. |
+| How | How is the woman's plaid shirt tied around her waist? | It is tied in a knot at the front. |

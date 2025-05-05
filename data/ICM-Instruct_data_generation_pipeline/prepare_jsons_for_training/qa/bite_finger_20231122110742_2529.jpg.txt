@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person's mouth open in the image? | Yes. |
+| Yes/No | Is the person's tongue sticking out in the image? | Yes. |
+| Yes/No | Can you see the person's facial expression clearly in the image? | No. |
+| Yes/No | Is the image a close-up shot? | Yes. |
+| Yes/No | Does the image evoke feelings of intimacy? | Yes. |
+| Yes/No | Is the image often considered sexy? | Yes. |
+| What | What is the person's facial expression in the image? | Not clearly visible. |
+| What | What is the atmosphere of the image? | Intimate and sensual. |
+| How | How does the close-up shot contribute to the image's atmosphere? | It allows the viewer to focus on the person's facial features and facial expression, creating an atmosphere of intimacy and sensuality. |
+| How | How does the person's mouth and tongue contribute to the image's atmosphere? | The person's open mouth and sticking out tongue are often associated with sensuality and intimacy, which contribute to the overall atmosphere of the image. |

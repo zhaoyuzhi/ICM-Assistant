@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a yellow shirt? | Yes. |
+| Yes/No | Are the person's arms relaxed at their sides? | Yes. |
+| Yes/No | Is the person standing with their legs slightly apart? | Yes. |
+| Yes/No | Is the image sexy? | No. |
+| Yes/No | Does the person's pose and attire suggest any explicit or suggestive behavior? | No. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| What | What color is the person's shirt? | Yellow. |
+| What | What color are the person's pants? | Blue. |
+| How | How is the person standing? | With their legs slightly apart. |
+| How | How are the person's arms positioned? | Relaxed at their sides. |

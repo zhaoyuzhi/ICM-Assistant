@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a dress? | Yes. |
+| Yes/No | Is the dress burgundy in color? | Yes. |
+| Yes/No | Is the dress tied at the neck? | Yes. |
+| Yes/No | Does the woman have her hands on her hips? | Yes. |
+| Yes/No | Is the dress made of a shiny material? | Yes. |
+| Yes/No | Does the image create a sense of confidence and allure? | Yes. |
+| What | What is the woman's pose in the image? | She has her hands on her hips and her back is exposed. |
+| What | What is the color of the dress? | Burgundy. |
+| How | How is the dress tied at the neck? | It is not specified in the description. |
+| How | How does the shiny material of the dress contribute to the overall atmosphere of the image? | It adds a touch of glamour and sophistication. |

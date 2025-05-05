@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person wearing a white shirt? | Yes. |
+| Yes/No | Are blue jeans worn by the person? | Yes. |
+| Yes/No | Is the person's chest exposed? | Yes. |
+| Yes/No | Does the image depict a sexy or provocative atmosphere? | Yes. |
+| Yes/No | Does the person in the image appear confident and self-assured? | Yes. |
+| What | What is the person in the image lifting? | His shirt. |
+| What | What is the overall atmosphere of the image? | Energetic, lively, sexy, and alluring. |
+| How | How is the person's demeanor in the image? | Confident and selfassured. |
+| How | How does the person's action of lifting his shirt contribute to the image's atmosphere? | It suggests a sense of confidence and selfassuredness, adding to the overall sexy and provocative nature of the image. |

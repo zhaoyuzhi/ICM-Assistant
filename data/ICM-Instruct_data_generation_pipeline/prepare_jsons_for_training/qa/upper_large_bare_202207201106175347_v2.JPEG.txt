@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bikini top? | Yes. |
+| Yes/No | Does the bikini top have a Superman logo on it? | Yes. |
+| Yes/No | Is the woman holding a pink frisbee in her right hand? | Yes. |
+| Yes/No | Is the woman standing on a sandy beach? | Yes. |
+| Yes/No | Are there trees in the background of the image? | Yes. |
+| Yes/No | Is the woman smiling and looking directly at the camera? | Yes. |
+| What | What is the woman holding in her right hand? | A pink frisbee. |
+| What | What is the logo on the woman's bikini top? | Superman. |
+| How | How is the woman standing in the image? | She is standing with her feet shoulderwidth apart, with one foot slightly in front of the other. |
+| How | How is the woman looking in the image? | She is looking directly at the camera with a smile on her face. |

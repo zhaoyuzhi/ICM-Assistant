@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image looking directly at the camera? | No. |
+| Yes/No | Is the woman's hair straight? | No. |
+| Yes/No | Is the woman's facial expression neutral? | No. |
+| Yes/No | Is the woman's lip bitten? | Yes. |
+| Yes/No | Is the overall atmosphere of the image playful? | No. |
+| Yes/No | Does the image feature a background or setting? | No. |
+| What | What is the woman's facial expression? | Sultry, alluring. |
+| What | What is the woman's pose? | Looking up and to the left, biting her lip. |
+| How | How does the woman's facial expression contribute to the overall atmosphere of the image? | It adds a sense of confidence and allure. |
+| How | How does the image create an intimate atmosphere? | Through the woman's pose, facial expression, and the overall composition. |

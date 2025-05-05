@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing shorts? | Yes. |
+| Yes/No | Is the person in the image holding a purse? | Yes. |
+| Yes/No | Is the mirror in the background a full-length mirror? | No. |
+| Yes/No | Does the image have a casual and relaxed atmosphere? | Yes. |
+| Yes/No | Is the person's outfit sexy? | Yes. |
+| Yes/No | Does the image suggest a sense of self-expression? | Yes. |
+| What | What color are the person's shorts? | White. |
+| What | What is the person holding in their left hand? | A black purse. |
+| How | How are the person's shorts cropped? | At the knee. |
+| How | How does the mirror reflect the person's image? | It adds depth to the scene. |

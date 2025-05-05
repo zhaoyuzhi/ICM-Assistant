@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are the person's pants black? | Yes. |
+| Yes/No | Does the person have their hands on their hips? | Yes. |
+| Yes/No | Is the atmosphere of the image casual and relaxed? | Yes. |
+| Yes/No | Does the image depict any explicit or suggestive content? | No. |
+| Yes/No | Is the exposure level of the image very low? | Yes. |
+| What | What is the person's pose in the image? | The person is standing with their hands on their hips. |
+| What | What is the focus of the image? | The focus of the image is on the person's torso and arms. |
+| How | How does the person's attire contribute to the overall atmosphere of the image? | The person's neutral attire contributes to the casual and relaxed atmosphere of the image. |
+| How | How does the exposure level of the image affect the viewer's perception of the person's body? | The low exposure level of the image focuses the viewer's attention on the person's torso and arms, rather than their lower body, and does not evoke a sense of sexuality. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Are they wearing black pants? | Yes. |
+| Yes/No | Is the person facing the camera? | Yes. |
+| Yes/No | Is their posture casual and relaxed? | Yes. |
+| Yes/No | Does the image feature any explicit or suggestive elements? | No. |
+| Yes/No | Is the overall atmosphere of the image sexy? | No. |
+| What | What is the person's attire in the image? | Black shirt and black pants. |
+| What | What is the person's posture in the image? | Casual and relaxed. |
+| How | How much of the person's body is visible in the frame? | A small portion. |
+| Yes/No | Why might the exposure level of the image be low? | Due to the angle of the shot or the person's position in relation to the camera. |

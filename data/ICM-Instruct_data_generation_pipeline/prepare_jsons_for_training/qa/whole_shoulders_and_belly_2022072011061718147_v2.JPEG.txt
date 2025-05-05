@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman wearing a strapless dress? | Yes. |
+| Yes/No | Is the man wearing a suit? | Yes. |
+| Yes/No | Are the couple standing in front of a white wall? | Yes. |
+| Yes/No | Does the woman's dress reveal her midriff? | Yes. |
+| Yes/No | Is the man looking at the camera? | Yes. |
+| Yes/No | Is the overall atmosphere of the image cheerful and intimate? | Yes. |
+| What | What color is the woman's dress? | Pink and white. |
+| What | What is the man's tie color? | Blue. |
+| How | How is the woman's dress low-cut? | It reveals her midriff. |
+| How | How does the man's suit contribute to the overall atmosphere of the image? | It suggests a sense of formality and sophistication. |

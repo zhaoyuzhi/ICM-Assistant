@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a light blue top? | Yes. |
+| Yes/No | Is the woman in the image wearing blue jeans? | Yes. |
+| Yes/No | Is the woman in the image holding a red phone? | Yes. |
+| Yes/No | Is the woman in the image taking a selfie? | Yes. |
+| Yes/No | Does the image have an intimate atmosphere? | Yes. |
+| Yes/No | Does the image have a sexy feel? | Yes. |
+| What | What color is the woman's top? | Light blue. |
+| What | What color are the woman's jeans? | Blue. |
+| How | How is the woman holding the red phone? | She is holding it in her right hand. |
+| What | What does the way the woman is holding the red phone suggest about her? | It suggests that she is comfortable in her own skin and not afraid to show it. |

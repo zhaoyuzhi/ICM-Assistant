@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a purple turtleneck? | Yes. |
+| Yes/No | Is the woman's facial expression serious? | Yes. |
+| Yes/No | Is the woman biting her lip? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| Yes/No | Is the woman looking off to the side? | Yes. |
+| Yes/No | Are the woman's lips parted? | No. |
+| What | What is the woman's facial expression? | Serious. |
+| What | What is the woman biting? | Her lip. |
+| How | How is the woman's gaze? | Serious. |
+| How | How can the overall intensity of the image be perceived? | As attractive and intriguing. |

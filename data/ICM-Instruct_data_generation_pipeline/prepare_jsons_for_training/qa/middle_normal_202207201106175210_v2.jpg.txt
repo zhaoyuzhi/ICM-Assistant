@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a jumpsuit? | Yes. |
+| Yes/No | Does the jumpsuit have sleeves? | No. |
+| Yes/No | Is the woman wearing a belt? | Yes. |
+| Yes/No | Is the belt white? | Yes. |
+| Yes/No | Does the image contain any other objects or people? | No. |
+| Yes/No | Is the background plain white? | Yes. |
+| What | What is the color of the jumpsuit? | Beige. |
+| What | What is the color of the belt? | White. |
+| How | How is the woman's pose in the image? | Neutral. |
+| How | How would you describe the overall atmosphere of the image? | Modest and elegant. |
+| Yes/No | Is the woman in the image wearing a jumpsuit? | Yes. |
+| Yes/No | Does the jumpsuit have sleeves? | No. |
+| Yes/No | Is the woman wearing a belt? | Yes. |
+| Yes/No | Is the belt white? | Yes. |
+| Yes/No | Does the woman have a seductive expression? | No. |
+| Yes/No | Is the image taken from the waist up? | Yes. |
+| What | What is the color of the jumpsuit? | Beige. |
+| What | What is the color of the belt? | White. |
+| How | How is the woman's posture in the image? | Neutral. |
+| How | How would you describe the overall atmosphere of the image? | Nonsexual. |

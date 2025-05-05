@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a t-shirt with a logo? | Yes. |
+| Yes/No | Is the woman's skirt long? | No. |
+| Yes/No | Does the woman have any visible tattoos? | No. |
+| Yes/No | Is the woman's hair visible in the image? | No. |
+| Yes/No | Is the woman standing in a kitchen? | No. |
+| Yes/No | Is the woman looking directly at the camera? | No. |
+| What | What is the woman holding in her left hand? | A bag of fruit (apples and oranges). |
+| What | What is the color of the woman's socks? | Red. |
+| How | How is the woman's skirt styled? | Highwaisted. |
+| How | How would you describe the overall atmosphere of the image? | Casual and relaxed. |

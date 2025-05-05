@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Are her clothes wet? | Yes. |
+| Yes/No | Is she kneeling on the ground? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| Yes/No | Is the woman's pose suggestive? | Yes. |
+| Yes/No | Does the image convey a sense of vulnerability? | Yes. |
+| What | What is the woman doing in the image? | She is kneeling on the ground with her hands on her knees. |
+| What | What is the likely reason for the woman's wet clothes? | She might have been in water recently. |
+| How | How does the woman's pose contribute to the image's atmosphere? | Her pose and the wetness of her clothes create a sexy and alluring atmosphere. |
+| How | How does the image convey intimacy and vulnerability? | The woman's kneeling position and the wetness of her clothes suggest a sense of vulnerability and intimacy. |

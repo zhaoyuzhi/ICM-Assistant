@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a skirt? | Yes. |
+| Yes/No | Are the person's legs apart in the image? | Yes. |
+| Yes/No | Is the person wearing boots in the image? | Yes. |
+| Yes/No | Is the person's shirt white in the image? | Yes. |
+| Yes/No | Is the background of the image white? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the person's skirt in the image? | Black. |
+| What | What color is the person's shirt in the image? | White. |
+| How | How are the person's legs positioned in the image? | Apart. |
+| How | How does the black skirt and boots contribute to the overall allure of the image? | They add a sense of mystery and intrigue. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image male? | Yes. |
+| Yes/No | Is the person wearing a pink shirt? | Yes. |
+| Yes/No | Is the person wearing a brown jacket? | Yes. |
+| Yes/No | Are the person's pants white? | Yes. |
+| Yes/No | Is the person lifting his shirt and jacket? | Yes. |
+| Yes/No | Is the image set against a blue background? | Yes. |
+| What | What color is the person's shirt? | Pink. |
+| What | What is the person's attire style? | Casual and relaxed with a touch of sophistication. |
+| How | How is the person's chest and torso exposed? | The person is lifting his shirt and jacket. |
+| What | What does the combination of the person's attire and actions create? | An atmosphere that is both alluring and intriguing, making the image sexy. |

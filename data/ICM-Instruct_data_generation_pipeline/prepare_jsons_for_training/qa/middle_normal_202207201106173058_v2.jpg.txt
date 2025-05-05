@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of beige cargo pants? | Yes. |
+| Yes/No | Is the woman's blouse tucked into her pants? | Yes. |
+| Yes/No | Does the woman have a drawstring at the waist of her pants? | Yes. |
+| Yes/No | Is the woman's pose in the image neutral? | Yes. |
+| Yes/No | Are there any explicit or suggestive elements in the image? | No. |
+| Yes/No | Is the focus of the image on the woman's outfit and pose? | Yes. |
+| What | What is the woman wearing on her bottom half? | Beige cargo pants. |
+| What | What is the woman's blouse doing? | It is tucked into her pants. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | The woman's neutral pose contributes to the simple and unassuming atmosphere of the image. |
+| How | How does the white background affect the image? | The white background emphasizes the woman and her attire, further simplifying the image and focusing attention on the woman. |
+| Yes/No | Is the woman in the image wearing a pair of beige trousers? | Yes. |
+| Yes/No | Is the woman's blouse tucked into her pants? | Yes. |
+| Yes/No | Are the trousers cropped at the ankle? | Yes. |
+| Yes/No | Is the woman's pose neutral? | Yes. |
+| Yes/No | Does the image feature any other objects or distractions in the frame? | No. |
+| Yes/No | Is the image appropriate? | Yes. |
+| What | What is the woman wearing on her feet? | Nothing (she is barefoot). |
+| What | What is the color of the woman's blouse? | White. |
+| How | How are the trousers fitted at the waist? | They have a drawstring at the waist, giving them a loose fit. |
+| How | How does the woman's pose suggest her attitude or mood? | The woman's neutral pose suggests a relaxed or casual attitude. |

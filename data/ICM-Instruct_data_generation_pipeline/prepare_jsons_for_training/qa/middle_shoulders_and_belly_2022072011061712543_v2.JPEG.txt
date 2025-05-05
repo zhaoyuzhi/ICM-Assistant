@@ -1,0 +1,22 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a medical device? | Yes. |
+| Yes/No | Is the medical device a continuous glucose monitor? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Is the woman wearing blue jeans? | Yes. |
+| Yes/No | Does the woman have a belly button ring? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the medical device attached to the woman's belly? | A continuous glucose monitor. |
+| What | What is the purpose of the medical device? | To monitor blood sugar levels. |
+| How | How is the woman's body presented in the image? | The woman's body is presented in a vulnerable and intimate way, with her belly exposed and a medical device attached to it. |
+| How | How does the image make the viewer feel? | The image creates a sense of openness and trust, and enhances a sensual appeal. |
+| Yes/No | Is the woman in the image wearing a medical device? | Yes. |
+| Yes/No | Is the medical device a continuous glucose monitor? | Yes. |
+| Yes/No | Is the woman's belly exposed in the image? | Yes. |
+| Yes/No | Are the woman's hands in her pockets? | Yes. |
+| Yes/No | Is the overall atmosphere of the image casual and relaxed? | Yes. |
+| How | Does the image showcase the woman's body in a vulnerable and intimate way? | Yes. |
+| What | What is the purpose of the medical device attached to the woman's stomach? | To monitor blood sugar levels. |
+| What | What is the woman's posture in the image? | Confident. |
+| How | How is the woman carrying herself in the image? | With confidence. |
+| How | How does the image capture a moment of vulnerability and intimacy? | By showcasing the woman's exposed belly and medical device in a casual and relaxed atmosphere. |

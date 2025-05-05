@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a fur coat? | Yes. |
+| Yes/No | Is the man in the image wearing a white jacket? | Yes. |
+| Yes/No | Does the woman have a sad expression on her face? | Yes. |
+| Yes/No | Does the man have a surprised expression on his face? | Yes. |
+| Yes/No | Is the overall atmosphere of the picture sexy? | No. |
+| Yes/No | Are the fur coat and white jacket worn by the woman and man, respectively, contributing to a sexy atmosphere? | No. |
+| What | What is the woman's facial expression in the image? | Sad. |
+| What | What is the man's facial expression in the image? | Surprised. |
+| How | How does the low exposure level of the image contribute to the atmosphere? | It emphasizes the seriousness of the situation. |
+| How | How do the fur coat and white jacket worn by the woman and man, respectively, contribute to the atmosphere? | They do not contribute to a sexy atmosphere. |

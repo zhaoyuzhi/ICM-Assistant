@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the child the main subject of the image? | Yes. |
+| Yes/No | Is the child wearing a white coat and sunglasses? | Yes. |
+| Yes/No | Is the child sitting on a yellow toy car? | Yes. |
+| Yes/No | Is the background of the image blurred? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Does the image contain any elements that suggest a sexual context? | No. |
+| What | What is the child's attire in the image? | White coat and sunglasses. |
+| What | What is the child sitting on? | Yellow toy car. |
+| How | How is the child's attire and the toy car contributing to the atmosphere of the image? | They contribute to a sense of childhood innocence and joy. |
+| How | How does the low exposure level of the image affect the details of the scene? | It does not overexpose the image, and the details are not lost due to the lighting. |

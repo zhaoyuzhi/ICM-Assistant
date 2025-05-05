@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image dressed in a casual outfit? | Yes. |
+| Yes/No | Is the background of the image red? | Yes. |
+| Yes/No | Does the woman have a confident and relaxed pose? | Yes. |
+| Yes/No | Are the jeans the woman is wearing ripped at the knees? | Yes. |
+| Yes/No | Is the t-shirt the woman is wearing cropped at the waist? | Yes. |
+| Yes/No | Is the overall atmosphere of the image bold and confident? | Yes. |
+| What | What is the woman in the image wearing on her upper body? | A white tshirt. |
+| What | What is the color of the background in the image? | Red. |
+| How | How is the woman in the image standing? | With her arms resting behind her back and her head slightly tilted to the side. |
+| How | How would you describe the woman's pose in the image? | Confident and relaxed. |

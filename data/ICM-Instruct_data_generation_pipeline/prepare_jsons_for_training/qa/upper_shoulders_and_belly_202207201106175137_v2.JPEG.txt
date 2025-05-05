@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white blouse? | Yes. |
+| Yes/No | Does the blouse have a lace trim? | Yes. |
+| Yes/No | Is the blouse cropped at the waist? | Yes. |
+| Yes/No | Are the woman's midriff and denim shorts visible in the image? | Yes. |
+| Yes/No | Is the woman striking a pose with her hands on her hips? | Yes. |
+| Yes/No | Is the woman looking directly at the camera? | Yes. |
+| What | What color is the woman's blouse? | White. |
+| What | What is the woman's pose in the image? | Hands on hips, direct gaze at the camera. |
+| How | How does the woman's outfit contribute to the overall atmosphere of the image? | The woman's outfit, including the white blouse with lace trim and scalloped neckline, cropped waist, and denim shorts, contributes to a confident and sexy atmosphere in the image. |
+| How | How does the woman's pose enhance the allure of the image? | The woman's pose, with her hands on her hips and direct gaze at the camera, enhances the allure of the image by suggesting confidence and selfassuredness. |

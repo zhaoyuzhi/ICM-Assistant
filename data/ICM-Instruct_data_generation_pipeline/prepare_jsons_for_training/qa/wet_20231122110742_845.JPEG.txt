@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a white t-shirt? | Yes. |
+| Yes/No | Is the t-shirt soaked? | Yes. |
+| Yes/No | Is the person's face visible in the image? | No. |
+| Yes/No | Does the image suggest a romantic or intimate setting? | Yes. |
+| How | Is the person in the image in a bath or shower? | No. |
+| Yes/No | Does the close-up perspective of the image emphasize the details of the wet clothing and the person's skin? | Yes. |
+| What | What is the color of the t-shirt? | White. |
+| What | What is the focus of the viewer's attention in the image? | The clothing and overall ambiance. |
+| How | How does the soaked t-shirt suggest the person might be in a romantic or intimate setting? | It implies that the person might have recently taken a bath or shower, creating an intimate atmosphere. |
+| How | How does the close-up perspective of the image add to the sensuality of the scene? | It allows the viewer to focus on the details of the clothing and the person's body, creating a sense of intimacy and allure. |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a white dress? | Yes. |
+| Yes/No | Is the dress lifted, revealing the woman's legs and thighs? | Yes. |
+| Yes/No | Is the woman holding her dress with her left hand? | Yes. |
+| Yes/No | Is the woman wearing a black jacket? | Yes. |
+| Yes/No | Are the woman's heels black? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's dress? | White. |
+| What | What is the woman wearing on her feet? | Black heels. |
+| How | How is the woman holding her dress? | With her left hand. |
+| How | How does the woman's pose suggest she is feeling? | Confident and in control. |

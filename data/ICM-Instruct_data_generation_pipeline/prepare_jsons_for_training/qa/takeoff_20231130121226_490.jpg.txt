@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image facing the camera? | No. |
+| Yes/No | Is the person in the image wearing a black shirt? | Yes. |
+| Yes/No | Is the image set on a beach? | Yes. |
+| Yes/No | Is the person in the image standing? | Yes. |
+| Yes/No | Is the image set at night? | Yes. |
+| Yes/No | Does the person in the image have long dark hair? | Yes. |
+| What | What is the person in the image holding above their head? | Their arms. |
+| What | What is the dominant color of the person's attire in the image? | Black. |
+| How | How is the person standing on the beach? | With their feet shoulderwidth apart. |
+| How | How does the image make you feel? | Sensual and mysterious. |

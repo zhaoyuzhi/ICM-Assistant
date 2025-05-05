@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the person in the image wearing a sports bra? | Yes. |
+| Yes/No | Are the person's arms flexed in the image? | Yes. |
+| Yes/No | Is the person's hair pulled back into a bun? | Yes. |
+| Yes/No | Does the image feature a large area of the person's back exposed? | Yes. |
+| Yes/No | Is the person's attire in the image mostly black? | Yes. |
+| Yes/No | Does the image convey a sense of confidence and strength? | Yes. |
+| What | What is the person's attire in the image? | A black sports bra and black leggings. |
+| What | What is the person's hairstyle in the image? | A bun. |
+| How | How are the person's arms positioned in the image? | Flexed. |
+| How | How would you describe the overall aesthetic of the image? | Athletic and sexy. |

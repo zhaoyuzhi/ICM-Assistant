@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a pair of gray sweatpants? | Yes. |
+| Yes/No | Does the woman have a flower design on her sweatpants? | Yes. |
+| Yes/No | Is the woman wearing a green shirt? | Yes. |
+| Yes/No | Is the woman holding a white purse? | Yes. |
+| Yes/No | Are the newspapers scattered around the woman? | Yes. |
+| Yes/No | Does the image create a seductive atmosphere? | Yes. |
+| What | What color are the sweatpants the woman is wearing? | Gray. |
+| What | What is the color of the woman's shirt? | Green. |
+| How | How many articles of clothing are visible in the image? | 4 (sweatpants, shirt, purse, newspapers). |
+| How | How many elements in the image contribute to its seductive atmosphere? | 3 (woman's clothing, scattered newspapers, contrast of colors). |

@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image sitting? | Yes. |
+| Yes/No | Is the woman holding a book? | Yes. |
+| Yes/No | Is the couch blue? | Yes. |
+| Yes/No | Is the wall behind the couch white? | Yes. |
+| Yes/No | Is there a coffee table in front of the couch? | Yes. |
+| Yes/No | Does the image contain any explicit or suggestive content? | No. |
+| What | What is the woman wearing? | A white shirt. |
+| What | What is the woman doing? | Reading a book. |
+| How | How is the woman positioned on the couch? | She is sitting in a relaxed posture. |
+| How | How would you describe the atmosphere of the image? | Calm and peaceful. |

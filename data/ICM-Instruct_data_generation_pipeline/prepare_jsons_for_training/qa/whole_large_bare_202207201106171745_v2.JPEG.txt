@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a bra? | Yes. |
+| Yes/No | Is the woman in the image wearing underwear? | Yes. |
+| Yes/No | Are the woman's legs spread apart in the image? | Yes. |
+| Yes/No | Are the woman's hands on her chest in the image? | Yes. |
+| Yes/No | Is the bed covered with a white sheet in the image? | Yes. |
+| Yes/No | Does the image have a sexy atmosphere? | Yes. |
+| What | What color is the woman's clothing in the image? | White. |
+| What | What is the overall aesthetic of the image? | Clean and minimalist. |
+| How | How is the woman's pose in the image? | Confident and alluring. |
+| How | How does the image make you feel? | Intimate and seductive. |

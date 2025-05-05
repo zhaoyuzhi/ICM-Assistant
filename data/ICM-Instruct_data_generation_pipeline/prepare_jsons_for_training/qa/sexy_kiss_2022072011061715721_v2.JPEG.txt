@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man wearing a black shirt? | Yes. |
+| Yes/No | Is the woman wearing a white top? | Yes. |
+| Yes/No | Are the man and woman kissing? | Yes. |
+| Yes/No | Is the woman lying on top of the man? | Yes. |
+| Yes/No | Are the man and woman looking at each other? | Yes. |
+| Yes/No | Is the image sexy? | Yes. |
+| What | What is the color of the man's shirt? | Black. |
+| What | What is the color of the woman's top? | White. |
+| How | How are the man and woman positioned on the bed? | The woman is lying on top of the man. |
+| How | How are the man and woman's hands positioned? | The woman's hand is on the man's face, and the man's hand is on the woman's face. |

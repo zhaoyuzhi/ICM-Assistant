@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man in the image wearing a suit and tie? | Yes. |
+| Yes/No | Is the man in the image sitting at a desk? | Yes. |
+| Yes/No | Does the image depict a professional setting? | Yes. |
+| Yes/No | Is the man engaged in a presentation or working? | Yes. |
+| Yes/No | Does the image have a low exposure level? | Yes. |
+| Yes/No | Is the atmosphere of the image formal and professional? | Yes. |
+| What | What is the man in the image doing? | He is clasped his hands together in front of him, possibly working or conducting a presentation. |
+| What | What is the man in the image wearing? | He is wearing a suit and tie. |
+| How | How is the man positioned in the image? | He is seated at a desk with his hands clasped together in front of him. |
+| How | How would you describe the focus of the image? | The focus of the image is on the man and his actions, rather than his surroundings. |

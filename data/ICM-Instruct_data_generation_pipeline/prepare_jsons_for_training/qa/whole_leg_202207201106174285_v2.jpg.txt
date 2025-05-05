@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a skirt? | Yes. |
+| Yes/No | Does the woman have a ponytail? | Yes. |
+| Yes/No | Is the store window behind the woman open or closed? | Closed. |
+| Yes/No | Does the woman have any visible tattoos or piercings? | No. |
+| Yes/No | Is the woman smiling or laughing? | No. |
+| Yes/No | Does the image suggest a casual or formal setting? | Casual. |
+| What | What color is the woman's skirt? | White. |
+| What | What is the text on the woman's t-shirt? | COLDPLAY. |
+| How | How is the woman's hair styled? | In a ponytail. |
+| What | What atmosphere does the image create? | Youthful and energetic. |

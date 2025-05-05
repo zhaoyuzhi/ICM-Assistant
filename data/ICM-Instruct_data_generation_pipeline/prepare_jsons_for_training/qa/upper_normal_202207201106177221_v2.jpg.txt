@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a blue t-shirt? | Yes. |
+| Yes/No | Does the graphic design on the t-shirt feature a cat and a bird? | Yes. |
+| Yes/No | Are the colors of the graphic design shades of orange and yellow? | Yes. |
+| Yes/No | Is the background of the image plain white? | Yes. |
+| Yes/No | Is the image's exposure level low? | Yes. |
+| What | What is the woman wearing apart from the blue t-shirt? | Blue jeans. |
+| What | What is the overall atmosphere of the image? | Casual and relaxed. |
+| How | How are the woman's hands positioned in the image? | Casually tucked into her pockets. |
+| How | How would you describe the graphic design on the woman's t-shirt? | A touch of personality, not explicit. |

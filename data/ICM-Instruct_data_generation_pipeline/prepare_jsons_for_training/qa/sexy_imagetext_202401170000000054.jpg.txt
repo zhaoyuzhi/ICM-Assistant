@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the man and woman hugging each other in the image? | Yes. |
+| Yes/No | Is the woman's head resting on the man's shoulder in the image? | Yes. |
+| Yes/No | Is the man's arm wrapped around the woman in the image? | Yes. |
+| Yes/No | Is the woman's arm wrapped around the man's waist in the image? | Yes. |
+| Yes/No | Is the slogan "Be good and call me husband" displayed in the image? | Yes. |
+| Yes/No | Does the image have a romantic atmosphere? | Yes. |
+| What | What is the slogan displayed in the image? | "Be good and call me husband". |
+| What | What is the overall atmosphere of the image? | Intimate and romantic. |
+| How | How are the man and woman hugging each other in the image? | They are hugging each other closely, with the woman's head resting on the man's shoulder and the man's arm wrapped around the woman's waist. |
+| How | How does the slogan "Be good and call me husband" add to the atmosphere of the image? | It adds a playful and flirtatious element to the image, which can be perceived as sexy. |

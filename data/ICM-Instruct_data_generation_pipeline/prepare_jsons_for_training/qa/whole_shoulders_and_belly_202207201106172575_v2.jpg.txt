@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a green off-the-shoulder top? | Yes. |
+| Yes/No | Are her pants white? | Yes. |
+| Yes/No | Is she holding a small clutch purse in her left hand? | Yes. |
+| Yes/No | Are her hair styled in loose waves? | Yes. |
+| Yes/No | Is the backdrop of the image a white wall? | Yes. |
+| What | What color is the woman's top? | Green. |
+| What | What is the woman holding in her left hand? | A small clutch purse. |
+| How | How is the woman's hair styled? | In loose waves. |
+| How | How does the woman's pose contribute to the overall atmosphere of the image? | Her pose, with her hand on her hip, adds to the allure of the image and creates an atmosphere of confidence and allure. |

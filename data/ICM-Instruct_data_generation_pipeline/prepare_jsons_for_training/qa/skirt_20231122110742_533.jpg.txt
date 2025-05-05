@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman in the image wearing a black skirt? | Yes. |
+| Yes/No | Is the woman in the image wearing a beige blouse? | Yes. |
+| Yes/No | Are the woman's white socks visible in the image? | Yes. |
+| Yes/No | Is the woman wearing black shoes? | Yes. |
+| Yes/No | Does the image depict the woman lifting her dress? | Yes. |
+| Yes/No | Does the image create a sense of intimacy and allure? | Yes. |
+| What | What color is the woman's skirt? | Black. |
+| What | What color are the woman's socks? | White. |
+| How | How does the woman's outfit create a contrast in the image? | The contrast between the black skirt and beige blouse highlights her figure, while the white socks add a touch of innocence. |
+| What | What atmosphere does the image convey? | Seductive and alluring. |

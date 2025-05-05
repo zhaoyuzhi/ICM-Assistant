@@ -1,0 +1,12 @@
+| Type of Question | Question | Answer |
+| --- | --- | --- |
+| Yes/No | Is the woman the main subject of the image? | Yes. |
+| Yes/No | Is the woman wearing a pink crop top? | Yes. |
+| Yes/No | Does the pink crop top have a lace pattern? | Yes. |
+| Yes/No | Is the top cropped at the waist? | Yes. |
+| Yes/No | Does the top have a sheer panel on the chest? | Yes. |
+| Yes/No | Are the blue jean shorts frayed at the hem? | Yes. |
+| What | What is the color of the woman's crop top? | Pink. |
+| What | What is the style of the woman's shorts? | Blue jean shorts with a frayed hem. |
+| How | How does the woman pose in the image? | With her hand on her hip. |
+| How | How does the sheer panel on the chest of the top add to the image? | It adds an element of intrigue. |
