@@ -12,7 +12,7 @@
 
     
   <div style="width: 100%; text-align: center; margin:auto;">
-      <img style="width:100%" src="./teaser.png">
+      <img style="width:100%" src="./fig/teaser.png">
   </div>
 </div>   
   
