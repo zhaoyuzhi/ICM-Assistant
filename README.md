@@ -54,7 +54,7 @@ Note: The results may contain randomness as `do_sample=True` is enabled during c
 <summary>ICM Acc. in ICM-Val.</summary>
     
 ```shell
-python eval_scripts/llava_v1.5/eval_val.py
+python eval_scripts/eval_icm_val/eval.py
 ```
     
 </details>
@@ -64,7 +64,7 @@ python eval_scripts/llava_v1.5/eval_val.py
 <summary>ICM Acc. in ICM-Test</summary>
     
 ```shell
-python eval_scripts/llava_v1.5/eval_test.py
+python eval_scripts/eval_icm_test/eval.py
 ```
 
 </details>
@@ -74,7 +74,7 @@ python eval_scripts/llava_v1.5/eval_test.py
 <summary>Moderation Q-A Acc. in ICM-Val</summary>
     
 ```shell
-python eval_scripts/llava_v1.5/eval_MQA.py
+python eval_scripts/eval_mqa/eval.py
 ```
 
 </details>
@@ -83,7 +83,7 @@ python eval_scripts/llava_v1.5/eval_MQA.py
 <summary>Moderation Explanation Acc. in ICM-Val</summary>
     
 ```shell
-python eval_scripts/llava_v1.5/eval_MEQ.py
+python eval_scripts/eval_meq/eval.py
 ```
 
 </details>

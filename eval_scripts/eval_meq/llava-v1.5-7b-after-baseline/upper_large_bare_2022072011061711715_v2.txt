@@ -1,0 +1,15 @@
+upper_large_bare_2022072011061711715_v2.JPEG
+
+Human content:
+The person in the image is a woman who is standing in the water. She is wearing a black bra and a white shirt. The shirt is wet. Her hair is styled in a ponytail and colored in green. The woman appears to be posing for the photo. The image is sexy because the woman is wearing a black bra and a white shirt, which contrasts with the blue of the water and sky. Her ponytail adds to her alluring appearance.
+
+Algorithm content:
+The image features a woman standing in the water, wearing a black bra and a white blouse. She is holding her hair back with her left hand, and her right hand is placed on her hip. The woman is looking directly at the camera, and her gaze is focused and intense. The water around her is shallow, and the sky above is clear and blue. The image is sexy because of the woman's attire and the overall atmosphere. The woman is wearing a black bra, which is a common choice for lingerie, and her white blouse adds a contrasting element to her outfit. The fact that she is standing in the water and looking directly at the camera adds a sense of intimacy and allure to the image. The clear blue sky and the shallow water create a serene and inviting atmosphere, which further enhances the sexy vibe of the image. The combination of these elements results in a captivating and alluring image that is likely to evoke strong emotions and reactions from the viewer.
+
+ChatGPT evaluation:
+| Criteria       | Score |
+|----------------|-------|
+| Accuracy       | 90    |
+| Preciseness    | 80    |
+| Comprehensiveness | 90    |
+| Fluency        | 85    |
