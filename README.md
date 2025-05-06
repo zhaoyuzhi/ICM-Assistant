@@ -96,8 +96,9 @@ python eval_scripts/llava_v1.5/eval_MEQ.py
 
 ## Training
 
-- [Training Docs for LLaVA-v1.5/LLaVA-v1.6](scripts/llava_v1.5)
-- [Training Docs for mPLUG-Owl-2](scripts/mplug_owl_2)
+- [Training Scripts for LLaVA-v1.5/LLaVA-v1.6](training_scripts/llava)
+- [Training Scripts for mPLUG-Owl-2](training_scripts/mplug)
+- [Training Scripts for Qwen-VL](training_scripts/qwen)
 <!-- - [Training Docs for InternVL](scripts/llava_v1.5)
 - [Training Docs for mPLUG-Owl-2](scripts/mplug_owl_2)
 - [Training Docs for LLaVA-v1.5](scripts/llava_v1.5)
