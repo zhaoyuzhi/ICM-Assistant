@@ -49,6 +49,15 @@ Note: The results may contain randomness as `do_sample=True` is enabled during c
 
 
 #### Quantitative Evaluations
+Please noticed, you need to inference your result.txt or result.json before the evaluations, and put them into:
+```shell
+data_list = [
+        'llava-v1.5-7b-after-baseline.json',
+        ...
+    ]
+```
+
+For quick evaluations with a deployed model using vLLM, place refer to **eval_scripts/quick_eval.py**
 
 <details>
 <summary>ICM Acc. in ICM-Val.</summary>
