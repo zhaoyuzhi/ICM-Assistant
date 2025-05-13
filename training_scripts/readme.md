@@ -26,11 +26,8 @@ For the **ICM-Instruct** dataset, download them directly via the following scrip
 
 ```shell
 cd LLaVA/playground/data
-wget https://huggingface.co/datasets/zhaoyuzhi/ICM-Instruct/tree/main
-wget https://huggingface.co/datasets/zhaoyuzhi/ICM-Instruct/tree/main
-tar -xf icm-images.tar
-rm -f icm-images.tar
-cd ../../..
+wget https://huggingface.co/datasets/wumengyangok/ICM-Instruct/resolve/main/icm-instruct-train.zip
+unzip icm-instruct-train.zip
 ```
 
 Make sure you have the file structures as follows under `LLaVA/playground/data`.
