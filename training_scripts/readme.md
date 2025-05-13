@@ -40,6 +40,10 @@ Make sure you have the file structures as follows under `LLaVA/playground/data`.
 ├── icm_llava_train.json
 ```
 
+Please download our training image and data json file from
+https://huggingface.co/datasets/wumengyangok/ICM-Instruct
+
+
 #### Download Public High-level Instruction Tuning Datasets
 
 If you choose the ***MSFT*** strategy, the high-level datasets also need to be downloaded via the following steps:
