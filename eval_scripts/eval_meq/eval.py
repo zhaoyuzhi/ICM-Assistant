@@ -119,9 +119,7 @@ if __name__ == "__main__":
     gt_mc_a_prompts_path = './'
 
     data_list = [
-
         'llava-v1.5-7b-after-baseline',
-
     ]
 
     # evaluate
